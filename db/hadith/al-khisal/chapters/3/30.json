@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:3:30",
+  "chapter": {
+    "path": "/books/al-khisal:3:30",
+    "titles": {
+      "en": "Seek Refuge from Two Characteristics"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:3:30:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:3:30:1",
+        "parts": [
+          3,
+          30,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 30,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:3:30",
+        "titles": {
+          "en": "Seek Refuge from Two Characteristics"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا أحمد بن إدريس، عن محمد بن أحمد، عن يوسف بن الحارث، عن عبد الله بن يزيد، عن حيوة بن شريح قال: حدثنا سالم ابن غيلان، عن دراج، عن أبي الهيثم، عن أبي سعد الخدري قال: سمعت رسول الله صلى الله عليه وآله يقول: أعوذ بالله من الكفر والدين، قيل: يا رسول الله أيعدل الدين بالكفر؟ فقال صلى الله عليه وآله: نعم"
+        ],
+        "text": ": حدثنا أحمد بن إدريس، عن محمد بن أحمد، عن يوسف بن الحارث، عن عبد الله بن يزيد، عن حيوة بن شريح قال: حدثنا سالم ابن غيلان، عن دراج، عن أبي الهيثم، عن أبي سعد الخدري قال: سمعت رسول الله صلى الله عليه وآله يقول: أعوذ بالله من الكفر والدين، قيل: يا رسول الله أيعدل الدين بالكفر؟ فقال صلى الله عليه وآله: نعم"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "2-39 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Ahmad ibn Idris quoted on the authority of Muhammad ibn Ahmad, on the authority of Yusuf ibn al-Harith, on the authority of Abdullah ibn Yazid, on the authority of Hayat ibn Sharih, on the authority of Salim ibn Qayla, on the authority of Dur’raj, on the authority of Abil Haysam, on the authority of Abi Sa’ad al-Khidry, “I heard God’s Prophet (MGB) say, ‘I Seek refuge in God from disbelief and debt.’ He (MGB) was told, ‘O Prophet of God! Is debt equal to disbelief?’ He (MGB) replied, ‘Yes.’”"
+          ],
+          "text": "2-39 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Ahmad ibn Idris quoted on the authority of Muhammad ibn Ahmad, on the authority of Yusuf ibn al-Harith, on the authority of Abdullah ibn Yazid, on the authority of Hayat ibn Sharih, on the authority of Salim ibn Qayla, on the authority of Dur’raj, on the authority of Abil Haysam, on the authority of Abi Sa’ad al-Khidry, “I heard God’s Prophet (MGB) say, ‘I Seek refuge in God from disbelief and debt.’ He (MGB) was told, ‘O Prophet of God! Is debt equal to disbelief?’ He (MGB) replied, ‘Yes.’”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "2-39 حدثنا أبي رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "2-39 حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي رضي الله عنه قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:3:30:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/3/30/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/3/30/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:2:82",
+  "chapter": {
+    "path": "/books/al-khisal:2:82",
+    "titles": {
+      "en": "A Characteristic Which a Believer Avoids"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:2:82:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:2:82:1",
+        "parts": [
+          2,
+          82,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 82,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:2:82",
+        "titles": {
+          "en": "A Characteristic Which a Believer Avoids"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا أبو نصر محمد بن جعفر بن عقبة، عن الحسن بن محمد ابن اخت أبي مالك، عن عبد الله بن سنان، عن عبدالواحد بن المختار قال: سألت أبا جعفر عليه السلام عن اللعب بالشطرنج فقال: إن المؤمن لمشغول عن اللعب"
+        ],
+        "text": ": حدثنا أبو نصر محمد بن جعفر بن عقبة، عن الحسن بن محمد ابن اخت أبي مالك، عن عبد الله بن سنان، عن عبدالواحد بن المختار قال: سألت أبا جعفر عليه السلام عن اللعب بالشطرنج فقال: إن المؤمن لمشغول عن اللعب"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "1-92 Ahmad ibn Muhammad ibn Yahya al-Attar - may God be pleased with him- narrated that his father quoted on the authority of Sahl ibn Zyad, on the authority of Abu Nasr Muhammad ibn Ja’far ibn Aqabah, on the authority of Al-Hassan ibn Muhammad ibn Ukht Abi Malik, on the authority of Abdullah ibn Sin’an that Abolvahid ibn al-Mukhtar said, “I asked Aba Ja’far al-Baqir (MGB) about playing chess. He (MGB) replied, ‘A believer avoids playing it.’”"
+          ],
+          "text": "1-92 Ahmad ibn Muhammad ibn Yahya al-Attar - may God be pleased with him- narrated that his father quoted on the authority of Sahl ibn Zyad, on the authority of Abu Nasr Muhammad ibn Ja’far ibn Aqabah, on the authority of Al-Hassan ibn Muhammad ibn Ukht Abi Malik, on the authority of Abdullah ibn Sin’an that Abolvahid ibn al-Mukhtar said, “I asked Aba Ja’far al-Baqir (MGB) about playing chess. He (MGB) replied, ‘A believer avoids playing it.’”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "1-92 حدثنا أحمد بن محمد بن يحيى العطار رضي الله عنه، عن أبيـه، عن سـهلبن زياد قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "1-92 حدثنا "
+          },
+          {
+            "kind": "plain",
+            "text": "أحمد بن محمد بن يحيى العطار رضي الله عنه،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبيـه،",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "سـهلبن زياد قال"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/2"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:2:82:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/2/82/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/2/82/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

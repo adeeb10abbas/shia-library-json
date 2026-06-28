@@ -1,0 +1,54 @@
+{
+  "id": 3407,
+  "type": "narrator",
+  "path": "/people/narrators/3407",
+  "titles": {
+    "ar": "شَيْخٍ مَدَنِيٍّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:1:4:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "20-1303-185-587-3407-18": {
+      "narrator_ids": [
+        20,
+        1303,
+        185,
+        587,
+        3407,
+        18
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:4:5"
+      ]
+    },
+    "3407-18": {
+      "narrator_ids": [
+        3407,
+        18
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:4:5"
+      ]
+    },
+    "587-3407": {
+      "narrator_ids": [
+        587,
+        3407
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:4:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3407",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3407.json"
+  }
+}

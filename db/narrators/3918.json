@@ -1,0 +1,45 @@
+{
+  "id": 3918,
+  "type": "narrator",
+  "path": "/people/narrators/3918",
+  "titles": {
+    "ar": "عَنْ أَبِيهِ مَيْمُونٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:9:4:9"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "6-8-208-114-669-3918": {
+      "narrator_ids": [
+        6,
+        8,
+        208,
+        114,
+        669,
+        3918
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:9:4:9"
+      ]
+    },
+    "669-3918": {
+      "narrator_ids": [
+        669,
+        3918
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:9:4:9"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3918",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3918.json"
+  }
+}

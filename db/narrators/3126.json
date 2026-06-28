@@ -1,0 +1,53 @@
+{
+  "id": 3126,
+  "type": "narrator",
+  "path": "/people/narrators/3126",
+  "titles": {
+    "ar": "خَالِدِ بْنِ رَافِعٍ الْبَجَلِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:1:23:39"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "10-3126": {
+      "narrator_ids": [
+        10,
+        3126
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:1:23:39"
+      ]
+    },
+    "3126-669": {
+      "narrator_ids": [
+        3126,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:1:23:39"
+      ]
+    },
+    "4-5-10-3126-669": {
+      "narrator_ids": [
+        4,
+        5,
+        10,
+        3126,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:1:23:39"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3126",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3126.json"
+  }
+}

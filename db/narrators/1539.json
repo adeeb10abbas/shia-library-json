@@ -1,0 +1,58 @@
+{
+  "id": 1539,
+  "type": "narrator",
+  "path": "/people/narrators/1539",
+  "titles": {
+    "ar": "عَبْدِ اللَّهِ بْنِ جَعْفَرِ بْنِ إِبْرَاهِيمَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:87:2",
+    "/books/al-kafi:2:1:88:5"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "11-5-169-63-1539-669": {
+      "narrator_ids": [
+        11,
+        5,
+        169,
+        63,
+        1539,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:87:2",
+        "/books/al-kafi:2:1:88:5"
+      ]
+    },
+    "1539-669": {
+      "narrator_ids": [
+        1539,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:87:2",
+        "/books/al-kafi:2:1:88:5"
+      ]
+    },
+    "63-1539": {
+      "narrator_ids": [
+        63,
+        1539
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:87:2",
+        "/books/al-kafi:2:1:88:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1539",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1539.json"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": 3664,
+  "type": "narrator",
+  "path": "/people/narrators/3664",
+  "titles": {
+    "ar": "عُبَيْدِ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي هَاشِمٍ الصَّيْرَفِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:35:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "35-90-8-879-3664-937-696": {
+      "narrator_ids": [
+        35,
+        90,
+        8,
+        879,
+        3664,
+        937,
+        696
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:35:3"
+      ]
+    },
+    "3664-937": {
+      "narrator_ids": [
+        3664,
+        937
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:35:3"
+      ]
+    },
+    "879-3664": {
+      "narrator_ids": [
+        879,
+        3664
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:35:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3664",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3664.json"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "maani-al-akhbar",
+  "chapterPath": "/books/maani-al-akhbar:395",
+  "chapter": {
+    "path": "/books/maani-al-akhbar:395",
+    "titles": {
+      "en": "The meaning of orthodoxy"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "maani-al-akhbar:395:1",
+      "type": "hadith",
+      "book": {
+        "slug": "maani-al-akhbar",
+        "titles": {
+          "ar": "معاني الأخبار",
+          "en": "Ma'ani al-Akhbar"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/maani-al-akhbar:395:1",
+        "parts": [
+          395,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 395,
+        "book": 1
+      },
+      "chapter": {
+        "path": "/books/maani-al-akhbar:395",
+        "titles": {
+          "en": "The meaning of orthodoxy"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " حدثنا علي بن إبراهيم بن هاشم، عن أبيه، عن محمد بن أبي عمير، عن عمر بن أذينة، عن زرارة قال: سألت أبا جعفر عليه السلام عن قول الله عز وجل \" حنفاء لله غير مشركين به \" وقلت: ما الحنفية؟ قال: هي الفطرة."
+        ],
+        "text": "حدثنا علي بن إبراهيم بن هاشم، عن أبيه، عن محمد بن أبي عمير، عن عمر بن أذينة، عن زرارة قال: سألت أبا جعفر عليه السلام عن قول الله عز وجل \" حنفاء لله غير مشركين به \" وقلت: ما الحنفية؟ قال: هي الفطرة."
+      },
+      "translations": {
+        "en.basel-kadem": {
+          "segments": [
+            "1.\tWe were told by my father, may Allah grant him mercy, that he said: We were told by Ali bin Ibrahim bin Hashim, from his father, from Muhammed bin Abi ‘Umayr, from Umar bin Udhayna, from Zurara, that he said: I asked Abu Ja’far, peace be upon him, about the saying of Allah, Exalted and Glorious is He: «Turning (in orthodoxy) to Allah, not associating (anything) with Him» <a href=\"/books/quran:22#h31\">[22:31]</a> and I said: What is orthodoxy? He said: It is innateness."
+          ],
+          "text": "1.\tWe were told by my father, may Allah grant him mercy, that he said: We were told by Ali bin Ibrahim bin Hashim, from his father, from Muhammed bin Abi ‘Umayr, from Umar bin Udhayna, from Zurara, that he said: I asked Abu Ja’far, peace be upon him, about the saying of Allah, Exalted and Glorious is He: «Turning (in orthodoxy) to Allah, not associating (anything) with Him» <a href=\"/books/quran:22#h31\">[22:31]</a> and I said: What is orthodoxy? He said: It is innateness."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "حدثنا أبي - رحمه الله - قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي - رحمه الله - قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {
+        "Mentions": [
+          "/books/quran:22:31"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/maani-al-akhbar:395:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/maani-al-akhbar/395/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/28/1/397/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

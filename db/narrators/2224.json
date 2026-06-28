@@ -1,0 +1,67 @@
+{
+  "id": 2224,
+  "type": "narrator",
+  "path": "/people/narrators/2224",
+  "titles": {
+    "ar": "أَبِي هَرَاسَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:5:12",
+    "/books/kitab-al-ghayba-numani:2:8:9"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "2224-9": {
+      "narrator_ids": [
+        2224,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:5:12"
+      ]
+    },
+    "4345-3-27-523-2224": {
+      "narrator_ids": [
+        4345,
+        3,
+        27,
+        523,
+        2224
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-numani:2:8:9"
+      ]
+    },
+    "50-27-523-2224-9": {
+      "narrator_ids": [
+        50,
+        27,
+        523,
+        2224,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:5:12"
+      ]
+    },
+    "523-2224": {
+      "narrator_ids": [
+        523,
+        2224
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:5:12",
+        "/books/kitab-al-ghayba-numani:2:8:9"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2224",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2224.json"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": 3777,
+  "type": "narrator",
+  "path": "/people/narrators/3777",
+  "titles": {
+    "ar": "عَلِيِّ بْنِ سَعِيدٍ الرَّقِّيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:3:14:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "6-8-3777": {
+      "narrator_ids": [
+        6,
+        8,
+        3777
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:14:4"
+      ]
+    },
+    "8-3777": {
+      "narrator_ids": [
+        8,
+        3777
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:14:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3777",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3777.json"
+  }
+}

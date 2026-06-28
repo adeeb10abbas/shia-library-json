@@ -1,0 +1,159 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:3:3:35",
+  "chapter": {
+    "path": "/books/al-kafi:3:3:35",
+    "titles": {
+      "ar": "باب ثَوَابِ مَنْ حَفَرَ لِمُؤْمِنٍ قَبْراً",
+      "en": "Chapter 35 – Rewards of the one who digs a grave for a Believer"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-kafi:3:3:35:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:3:3:35:1",
+        "parts": [
+          3,
+          3,
+          35,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 3,
+        "chapter": 35,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:3:3:35",
+        "titles": {
+          "ar": "باب ثَوَابِ مَنْ حَفَرَ لِمُؤْمِنٍ قَبْراً",
+          "en": "Chapter 35 – Rewards of the one who digs a grave for a Believer"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " مَنْ حَفَرَ لِمَيِّتٍ قَبْراً كَانَ كَمَنْ بَوَّأَهُ بَيْتاً مُوَافِقاً إِلَى يَوْمِ الْقِيَامَةِ ."
+        ],
+        "text": "مَنْ حَفَرَ لِمَيِّتٍ قَبْراً كَانَ كَمَنْ بَوَّأَهُ بَيْتاً مُوَافِقاً إِلَى يَوْمِ الْقِيَامَةِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father, from Ibn Abu Umeyr, from Sayf Bin Umeyra, from Sa’ad Bin Tareyf, ",
+            "(It has been narrated) from Abu Ja’far<sup>asws</sup> having said: ‘The one who digs a grave for a deceased would be like the one provides a compatible house up to the Day of Judgement’."
+          ],
+          "text": "Ali Bin Ibrahim, from his father, from Ibn Abu Umeyr, from Sayf Bin Umeyra, from Sa’ad Bin Tareyf,\n\n(It has been narrated) from Abu Ja’far<sup>asws</sup> having said: ‘The one who digs a grave for a deceased would be like the one provides a compatible house up to the Day of Judgement’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. Ali has narrated from his father from ibn abu ‘Umayr from Sayf ibn ‘ Amira from Sa‘d ibn Tarif who has said the following: “Abu Ja’far, ‘Alayhi al-Salam, has said, ‘One who prepares the grave for a believing person is like one who provides him a desirable dwelling up to the Day of Judgment.”’ "
+          ],
+          "text": "1. Ali has narrated from his father from ibn abu ‘Umayr from Sayf ibn ‘ Amira from Sa‘d ibn Tarif who has said the following: “Abu Ja’far, ‘Alayhi al-Salam, has said, ‘One who prepares the grave for a believing person is like one who provides him a desirable dwelling up to the Day of Judgment.”’"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مختلف فيه   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (4/1)",
+          "label": "مختلف فيه",
+          "text": "Allamah Baqir al-Majlisi: مختلف فيه - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (4/1)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنِ ابْنِ أَبِي عُمَيْرٍ عَنْ سَيْفِ بْنِ عَمِيرَةَ عَنْ سَعْدِ بْنِ طَرِيفٍ عَنْ أَبِي جَعْفَرٍ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ أَبِي عُمَيْرٍ",
+            "path": "/people/narrators/7"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَيْفِ بْنِ عَمِيرَةَ",
+            "path": "/people/narrators/80"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَعْدِ بْنِ طَرِيفٍ",
+            "path": "/people/narrators/354"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي جَعْفَرٍ ( عليه السلام )",
+            "path": "/people/narrators/9"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/7",
+          "/people/narrators/80",
+          "/people/narrators/354",
+          "/people/narrators/9"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:3:3:34:1"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:3:3:35:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/3/3/35/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

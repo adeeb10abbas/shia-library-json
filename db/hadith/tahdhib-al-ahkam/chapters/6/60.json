@@ -1,0 +1,586 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "tahdhib-al-ahkam",
+  "chapterPath": "/books/tahdhib-al-ahkam:6:60",
+  "chapter": {
+    "path": "/books/tahdhib-al-ahkam:6:60",
+    "titles": {
+      "ar": "61 - بَابُ إِعْطَاءِ اَلْأَمَانِ"
+    }
+  },
+  "count": 5,
+  "records": [
+    {
+      "id": "tahdhib-al-ahkam:6:60:1",
+      "type": "hadith",
+      "book": {
+        "slug": "tahdhib-al-ahkam",
+        "titles": {
+          "ar": "تهذيب الأحكام",
+          "en": "Tahdhib al-Ahkam"
+        },
+        "author": {
+          "ar": "الشيخ الطوسي",
+          "en": "Shaykh al-Tusi"
+        }
+      },
+      "path": {
+        "source": "/books/tahdhib-al-ahkam:6:60:1",
+        "parts": [
+          6,
+          60,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 60,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/tahdhib-al-ahkam:6:60",
+        "titles": {
+          "ar": "61 - بَابُ إِعْطَاءِ اَلْأَمَانِ"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " : قُلْتُ مَا مَعْنَى قَوْلِ اَلنَّبِيِّ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ «يَسْعَى بِذِمَّتِهِمْ أَدْنَاهُمْ » قَالَ «لَوْ أَنَّ جَيْشاً مِنَ اَلْمُسْلِمِينَ حَاصَرُوا قَوْماً مِنَ اَلْمُشْرِكِينَ فَأَشْرَفَ رَجُلٌ فَقَالَ أَعْطُونِي اَلْأَمَانَ حَتَّى أَلْقَى صَاحِبَكُمْ فَأُنَاظِرَهُ فَأَعْطَاهُ اَلْأَمَانَ أَدْنَاهُمْ وَجَبَ عَلَى أَفْضَلِهِمُ اَلْوَفَاءُ بِهِ »."
+        ],
+        "text": ": قُلْتُ مَا مَعْنَى قَوْلِ اَلنَّبِيِّ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ «يَسْعَى بِذِمَّتِهِمْ أَدْنَاهُمْ » قَالَ «لَوْ أَنَّ جَيْشاً مِنَ اَلْمُسْلِمِينَ حَاصَرُوا قَوْماً مِنَ اَلْمُشْرِكِينَ فَأَشْرَفَ رَجُلٌ فَقَالَ أَعْطُونِي اَلْأَمَانَ حَتَّى أَلْقَى صَاحِبَكُمْ فَأُنَاظِرَهُ فَأَعْطَاهُ اَلْأَمَانَ أَدْنَاهُمْ وَجَبَ عَلَى أَفْضَلِهِمُ اَلْوَفَاءُ بِهِ »."
+      },
+      "translations": {},
+      "gradings": [],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَعْقُوبَ عَنْ عَلِيِّ بْنِ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنِ اَلنَّوْفَلِيِّ عَنِ اَلسَّكُونِيِّ عَنْ أَبِي عَبْدِ اَللَّهِ عَلَيْهِ اَلسَّلاَمُ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَعْقُوبَ",
+            "path": "/people/narrators/952"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيِّ بْنِ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "اَلنَّوْفَلِيِّ",
+            "path": "/people/narrators/32"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "اَلسَّكُونِيِّ",
+            "path": "/people/narrators/34"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اَللَّهِ عَلَيْهِ اَلسَّلاَمُ",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/952",
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/32",
+          "/people/narrators/34",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/tahdhib-al-ahkam:6:60:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/tahdhib-al-ahkam/6/60/1.json",
+        "sourceUrl": "https://ghbook.ir/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "tahdhib-al-ahkam:6:60:2",
+      "type": "hadith",
+      "book": {
+        "slug": "tahdhib-al-ahkam",
+        "titles": {
+          "ar": "تهذيب الأحكام",
+          "en": "Tahdhib al-Ahkam"
+        },
+        "author": {
+          "ar": "الشيخ الطوسي",
+          "en": "Shaykh al-Tusi"
+        }
+      },
+      "path": {
+        "source": "/books/tahdhib-al-ahkam:6:60:2",
+        "parts": [
+          6,
+          60,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 60,
+        "chapter": 2
+      },
+      "chapter": {
+        "path": "/books/tahdhib-al-ahkam:6:60",
+        "titles": {
+          "ar": "61 - بَابُ إِعْطَاءِ اَلْأَمَانِ"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " «هُوَ مِنَ اَلْمُؤْمِنِينَ »»."
+        ],
+        "text": "«هُوَ مِنَ اَلْمُؤْمِنِينَ »»."
+      },
+      "translations": {},
+      "gradings": [],
+      "narratorChain": {
+        "raw": "عَنْهُ عَنْ عَلِيِّ بْنِ إِبْرَاهِيمَ عَنْ هَارُونَ بْنِ مُسْلِمٍ عَنْ مَسْعَدَةَ بْنِ صَدَقَةَ عَنْ أَبِي عَبْدِ اَللَّهِ عَلَيْهِ اَلسَّلاَمُ : «أَنَّ عَلِيّاً عَلَيْهِ اَلسَّلاَمُ أَجَازَ أَمَانَ عَبْدٍ مَمْلُوكٍ لِأَهْلِ حِصْنٍ مِنَ اَلْحُصُونِ وَ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَنْهُ",
+            "path": "/people/narrators/11"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيِّ بْنِ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "هَارُونَ بْنِ مُسْلِمٍ",
+            "path": "/people/narrators/113"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مَسْعَدَةَ بْنِ صَدَقَةَ",
+            "path": "/people/narrators/134"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "plain",
+            "text": "أَبِي عَبْدِ اَللَّهِ عَلَيْهِ اَلسَّلاَمُ : «أَنَّ عَلِيّاً عَلَيْهِ اَلسَّلاَمُ أَجَازَ أَمَانَ عَبْدٍ مَمْلُوكٍ لِأَهْلِ حِصْنٍ مِنَ اَلْحُصُونِ وَ"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/11",
+          "/people/narrators/3",
+          "/people/narrators/113",
+          "/people/narrators/134"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/tahdhib-al-ahkam:8:13:15",
+          "/books/tahdhib-al-ahkam:8:13:17"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/tahdhib-al-ahkam:6:60:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/tahdhib-al-ahkam/6/60/2.json",
+        "sourceUrl": "https://ghbook.ir/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "tahdhib-al-ahkam:6:60:3",
+      "type": "hadith",
+      "book": {
+        "slug": "tahdhib-al-ahkam",
+        "titles": {
+          "ar": "تهذيب الأحكام",
+          "en": "Tahdhib al-Ahkam"
+        },
+        "author": {
+          "ar": "الشيخ الطوسي",
+          "en": "Shaykh al-Tusi"
+        }
+      },
+      "path": {
+        "source": "/books/tahdhib-al-ahkam:6:60:3",
+        "parts": [
+          6,
+          60,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 60,
+        "chapter": 3
+      },
+      "chapter": {
+        "path": "/books/tahdhib-al-ahkam:6:60",
+        "titles": {
+          "ar": "61 - بَابُ إِعْطَاءِ اَلْأَمَانِ"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَمِعْتُ أَبَا جَعْفَرٍ عَلَيْهِ اَلسَّلاَمُ يَقُولُ : «مَا مِنْ رَجُلٍ آمَنَ رَجُلاً عَلَى ذِمَّةٍ ثُمَّ قَتَلَهُ إِلاَّ جَاءَ يَوْمَ اَلْقِيَامَةِ يَحْمِلُ لِوَاءَ اَلْغَدْرِ»."
+        ],
+        "text": "سَمِعْتُ أَبَا جَعْفَرٍ عَلَيْهِ اَلسَّلاَمُ يَقُولُ : «مَا مِنْ رَجُلٍ آمَنَ رَجُلاً عَلَى ذِمَّةٍ ثُمَّ قَتَلَهُ إِلاَّ جَاءَ يَوْمَ اَلْقِيَامَةِ يَحْمِلُ لِوَاءَ اَلْغَدْرِ»."
+      },
+      "translations": {},
+      "gradings": [],
+      "narratorChain": {
+        "raw": "عَنْهُ عَنْ عَلِيٍّ عَنْ أَبِيهِ عَنْ يَحْيَى بْنِ أَبِي عِمْرَانَ عَنْ يُونُسَ عَنْ أَبِي عَبْدِ اَللَّهِ بْنِ سُلَيْمَانَ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَنْهُ",
+            "path": "/people/narrators/11"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيٍّ",
+            "path": "/people/narrators/50"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "يَحْيَى بْنِ أَبِي عِمْرَانَ",
+            "path": "/people/narrators/1215"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "يُونُسَ",
+            "path": "/people/narrators/26"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "plain",
+            "text": "أَبِي عَبْدِ اَللَّهِ بْنِ سُلَيْمَانَ"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/11",
+          "/people/narrators/50",
+          "/people/narrators/2",
+          "/people/narrators/1215",
+          "/people/narrators/26"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/tahdhib-al-ahkam:6:60:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/tahdhib-al-ahkam/6/60/3.json",
+        "sourceUrl": "https://ghbook.ir/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "tahdhib-al-ahkam:6:60:4",
+      "type": "hadith",
+      "book": {
+        "slug": "tahdhib-al-ahkam",
+        "titles": {
+          "ar": "تهذيب الأحكام",
+          "en": "Tahdhib al-Ahkam"
+        },
+        "author": {
+          "ar": "الشيخ الطوسي",
+          "en": "Shaykh al-Tusi"
+        }
+      },
+      "path": {
+        "source": "/books/tahdhib-al-ahkam:6:60:4",
+        "parts": [
+          6,
+          60,
+          4
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 60,
+        "chapter": 4
+      },
+      "chapter": {
+        "path": "/books/tahdhib-al-ahkam:6:60",
+        "titles": {
+          "ar": "61 - بَابُ إِعْطَاءِ اَلْأَمَانِ"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " : «لَوْ أَنَّ قَوْماً حَاصَرُوا مَدِينَةً فَسَأَلُوهُمُ اَلْأَمَانَ فَقَالُوا لاَ فَظَنُّوا أَنَّهُمْ قَالُوا نَعَمْ فَنَزَلُوا إِلَيْهِمْ كَانُوا آمِنِينَ »."
+        ],
+        "text": ": «لَوْ أَنَّ قَوْماً حَاصَرُوا مَدِينَةً فَسَأَلُوهُمُ اَلْأَمَانَ فَقَالُوا لاَ فَظَنُّوا أَنَّهُمْ قَالُوا نَعَمْ فَنَزَلُوا إِلَيْهِمْ كَانُوا آمِنِينَ »."
+      },
+      "translations": {},
+      "gradings": [],
+      "narratorChain": {
+        "raw": "عَنْهُ عَنْ عَلِيٍّ عَنْ أَبِيهِ عَنِ اِبْنِ أَبِي عُمَيْرٍ عَنْ مُحَمَّدِ بْنِ حَكِيمٍ عَنْ أَبِي عَبْدِ اَللَّهِ عَلَيْهِ اَلسَّلاَمُ أَوْ أَبِي اَلْحَسَنِ عَلَيْهِ اَلسَّلاَمُ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَنْهُ",
+            "path": "/people/narrators/11"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيٍّ",
+            "path": "/people/narrators/50"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "اِبْنِ أَبِي عُمَيْرٍ",
+            "path": "/people/narrators/7"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ حَكِيمٍ",
+            "path": "/people/narrators/279"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "plain",
+            "text": "أَبِي عَبْدِ اَللَّهِ عَلَيْهِ اَلسَّلاَمُ أَوْ أَبِي اَلْحَسَنِ عَلَيْهِ اَلسَّلاَمُ"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/11",
+          "/people/narrators/50",
+          "/people/narrators/2",
+          "/people/narrators/7",
+          "/people/narrators/279"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/tahdhib-al-ahkam:6:60:4",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/tahdhib-al-ahkam/6/60/4.json",
+        "sourceUrl": "https://ghbook.ir/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "tahdhib-al-ahkam:6:60:5",
+      "type": "hadith",
+      "book": {
+        "slug": "tahdhib-al-ahkam",
+        "titles": {
+          "ar": "تهذيب الأحكام",
+          "en": "Tahdhib al-Ahkam"
+        },
+        "author": {
+          "ar": "الشيخ الطوسي",
+          "en": "Shaykh al-Tusi"
+        }
+      },
+      "path": {
+        "source": "/books/tahdhib-al-ahkam:6:60:5",
+        "parts": [
+          6,
+          60,
+          5
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 60,
+        "chapter": 5
+      },
+      "chapter": {
+        "path": "/books/tahdhib-al-ahkam:6:60",
+        "titles": {
+          "ar": "61 - بَابُ إِعْطَاءِ اَلْأَمَانِ"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " : «قَرَأْتُ فِي كِتَابِ عَلِيٍّ عَلَيْهِ اَلسَّلاَمُ «أَنَّ رَسُولَ اَللَّهِ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ كَتَبَ كِتَاباً بَيْنَ اَلْمُهَاجِرِينَ وَ اَلْأَنْصَارِ وَ مَنْ لَحِقَ بِهِمْ مِنْ أَهْلِ يَثْرِبَ «أَنَّ كُلَّ غَازِيَةٍ غَزَتْ مَعَنَا يُعَقِّبُ بَعْضُهَا بَعْضاً بِالْمَعْرُوفِ وَ اَلْقِسْطِ مَا بَيْنَ اَلْمُسْلِمِينَ وَ أَنَّهُ لاَ يُجَارُ حُرْمَةٌ إِلاَّ بِإِذْنِ أَهْلِهَا وَ أَنَّ اَلْجَارَ كَالنَّفْسِ غَيْرَ مُضَارٍّ وَ لاَ آثِمٍ وَ حُرْمَةَ اَلْجَارِ كَحُرْمَةِ أُمِّهِ وَ أَبِيهِ لاَ يُسَالِمُ مُؤْمِنٌ دُونَ مُؤْمِنِينَ فِي قِتَالٍ فِي سَبِيلِ اَللَّهِ إِلاَّ عَلَى عَدْلٍ وَ سَوَاءٍ »»»."
+        ],
+        "text": ": «قَرَأْتُ فِي كِتَابِ عَلِيٍّ عَلَيْهِ اَلسَّلاَمُ «أَنَّ رَسُولَ اَللَّهِ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ كَتَبَ كِتَاباً بَيْنَ اَلْمُهَاجِرِينَ وَ اَلْأَنْصَارِ وَ مَنْ لَحِقَ بِهِمْ مِنْ أَهْلِ يَثْرِبَ «أَنَّ كُلَّ غَازِيَةٍ غَزَتْ مَعَنَا يُعَقِّبُ بَعْضُهَا بَعْضاً بِالْمَعْرُوفِ وَ اَلْقِسْطِ مَا بَيْنَ اَلْمُسْلِمِينَ وَ أَنَّهُ لاَ يُجَارُ حُرْمَةٌ إِلاَّ بِإِذْنِ أَهْلِهَا وَ أَنَّ اَلْجَارَ كَالنَّفْسِ غَيْرَ مُضَارٍّ وَ لاَ آثِمٍ وَ حُرْمَةَ اَلْجَارِ كَحُرْمَةِ أُمِّهِ وَ أَبِيهِ لاَ يُسَالِمُ مُؤْمِنٌ دُونَ مُؤْمِنِينَ فِي قِتَالٍ فِي سَبِيلِ اَللَّهِ إِلاَّ عَلَى عَدْلٍ وَ سَوَاءٍ »»»."
+      },
+      "translations": {},
+      "gradings": [],
+      "narratorChain": {
+        "raw": "أَحْمَدُ بْنُ مُحَمَّدٍ عَنْ مُحَمَّدِ بْنِ يَحْيَى عَنْ طَلْحَةَ بْنِ زَيْدٍ عَنْ أَبِي عَبْدِ اَللَّهِ عَلَيْهِ اَلسَّلاَمُ عَنْ أَبِيهِ عَلَيْهِ اَلسَّلاَمُ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدُ بْنُ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "طَلْحَةَ بْنِ زَيْدٍ",
+            "path": "/people/narrators/173"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اَللَّهِ عَلَيْهِ اَلسَّلاَمُ",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ عَلَيْهِ اَلسَّلاَمُ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/5",
+          "/people/narrators/4",
+          "/people/narrators/173",
+          "/people/narrators/669",
+          "/people/narrators/2"
+        ]
+      },
+      "relations": {
+        "Quotes Quran": [
+          "/books/quran:80:35"
+        ],
+        "Shared Chain": [
+          "/books/tahdhib-al-ahkam:2:15:55",
+          "/books/tahdhib-al-ahkam:9:3:57"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/tahdhib-al-ahkam:6:60:5",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/tahdhib-al-ahkam/6/60/5.json",
+        "sourceUrl": "https://ghbook.ir/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 3484,
+  "type": "narrator",
+  "path": "/people/narrators/3484",
+  "titles": {
+    "ar": "عَبْدِ الرَّحْمَنِ الْخَثْعَمِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:1:23:28"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "6-12-2-76-3484": {
+      "narrator_ids": [
+        6,
+        12,
+        2,
+        76,
+        3484
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:1:23:28"
+      ]
+    },
+    "76-3484": {
+      "narrator_ids": [
+        76,
+        3484
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:1:23:28"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3484",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3484.json"
+  }
+}

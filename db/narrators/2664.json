@@ -1,0 +1,55 @@
+{
+  "id": 2664,
+  "type": "narrator",
+  "path": "/people/narrators/2664",
+  "titles": {
+    "ar": "الْحَكَمِ بْنِ الْمُسْتَوْرِدِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:18:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2664-312": {
+      "narrator_ids": [
+        2664,
+        312
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:18:1"
+      ]
+    },
+    "3-2-10-31-604-2664-312": {
+      "narrator_ids": [
+        3,
+        2,
+        10,
+        31,
+        604,
+        2664,
+        312
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:18:1"
+      ]
+    },
+    "604-2664": {
+      "narrator_ids": [
+        604,
+        2664
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:18:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2664",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2664.json"
+  }
+}

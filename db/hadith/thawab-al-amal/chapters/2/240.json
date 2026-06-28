@@ -1,0 +1,132 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "thawab-al-amal",
+  "chapterPath": "/books/thawab-al-amal:2:240",
+  "chapter": {
+    "path": "/books/thawab-al-amal:2:240",
+    "titles": {
+      "en": "Reward of reciting Surah Buruj"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "thawab-al-amal:2:240:1",
+      "type": "hadith",
+      "book": {
+        "slug": "thawab-al-amal",
+        "titles": {
+          "ar": "ثواب الأعمال وعقاب الأعمال",
+          "en": "Thawab al-A'mal wa 'Iqab al-A'mal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/thawab-al-amal:2:240:1",
+        "parts": [
+          2,
+          240,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 240,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/thawab-al-amal:2:240",
+        "titles": {
+          "en": "Reward of reciting Surah Buruj"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": مَنْ قَرَأَ وَ السَّماءِ ذاتِ الْبُرُوجِ فِی فَرَائِضِهِ فَإِنَّهَا سُورَهُ النَّبِیِّینَ کَانَ مَحْشَرُهُ وَ مَوْقِفُهُ مَعَ النَّبِیِّینَ وَ الْمُرْسَلِینَ وَ الصَّالِحِینَ."
+        ],
+        "text": ": مَنْ قَرَأَ وَ السَّماءِ ذاتِ الْبُرُوجِ فِی فَرَائِضِهِ فَإِنَّهَا سُورَهُ النَّبِیِّینَ کَانَ مَحْشَرُهُ وَ مَوْقِفُهُ مَعَ النَّبِیِّینَ وَ الْمُرْسَلِینَ وَ الصَّالِحِینَ."
+      },
+      "translations": {
+        "en.sayed-athar-husain-rizvi-&-sayed-maqsood-athar": {
+          "segments": [
+            "1. From the previous chain from al-Hassan from al-Hussain b. Ahmad al-Muqri from Yunis b. Dhabyan from Abi Abdillah (a.s.) who said: “One who recites Surah Buruj in his obligatory prayers, by virtue of the dignity of this Surah, he would be raised among the prophets because this Surah is related to them.”"
+          ],
+          "text": "1. From the previous chain from al-Hassan from al-Hussain b. Ahmad al-Muqri from Yunis b. Dhabyan from Abi Abdillah (a.s.) who said: “One who recites Surah Buruj in his obligatory prayers, by virtue of the dignity of this Surah, he would be raised among the prophets because this Surah is related to them.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "بِهَذَا الْإِسْنَادِ عَنِ الْحَسَنِ عَنِ الْحُسَیْنِ بْنِ أَحْمَدَ الْمُقْرِی عَنْ یُونُسَ بْنِ ظَبْیَانَ عَنْ أَبِی عَبْدِ اللَّهِ ع قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "بِهَذَا الْإِسْنَادِ",
+            "path": "/people/narrators/77"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحَسَنِ",
+            "path": "/people/narrators/417"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "plain",
+            "text": "الْحُسَیْنِ بْنِ أَحْمَدَ الْمُقْرِی"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "یُونُسَ بْنِ ظَبْیَانَ",
+            "path": "/people/narrators/342"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِی عَبْدِ اللَّهِ ع",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/77",
+          "/people/narrators/417",
+          "/people/narrators/342",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {
+        "Quotes Quran": [
+          "/books/quran:51:7",
+          "/books/quran:85:1",
+          "/books/quran:86:11"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/thawab-al-amal:2:240:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/thawab-al-amal/2/240/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/23/2/240/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

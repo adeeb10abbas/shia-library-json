@@ -1,0 +1,395 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:5:2:100",
+  "chapter": {
+    "path": "/books/al-kafi:5:2:100",
+    "titles": {
+      "ar": "باب آخَرُ مِنْهُ",
+      "en": "Chapter 99 – Another chapter from it"
+    }
+  },
+  "count": 3,
+  "records": [
+    {
+      "id": "al-kafi:5:2:100:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:5:2:100:1",
+        "parts": [
+          5,
+          2,
+          100,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 2,
+        "chapter": 100,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:5:2:100",
+        "titles": {
+          "ar": "باب آخَرُ مِنْهُ",
+          "en": "Chapter 99 – Another chapter from it"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَأَلْتُهُ عَنِ الرَّجُلِ يَشْتَرِي مِائَةَ شَاةٍ عَلَى أَنْ يُبْدِلَ مِنْهَا كَذَا وَ كَذَا قَالَ لَا يَجُوزُ ."
+        ],
+        "text": "سَأَلْتُهُ عَنِ الرَّجُلِ يَشْتَرِي مِائَةَ شَاةٍ عَلَى أَنْ يُبْدِلَ مِنْهَا كَذَا وَ كَذَا قَالَ لَا يَجُوزُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companion, from Ahmad Bin Muhammad Bin Isa, from Muawiya Bin Hukeym, from Muhammad Bin Hubab Al Jallab, ",
+            "(It has been narrated) from Abu Al-Hassan<sup>asws</sup>, said, ‘I asked him<sup>asws</sup> about the man who buys one hundred sheep upon a stipulation if he can exchange from it such and such. He<sup>asws</sup> said: ‘Not allowed’."
+          ],
+          "text": "A number of our companion, from Ahmad Bin Muhammad Bin Isa, from Muawiya Bin Hukeym, from Muhammad Bin Hubab Al Jallab,\n\n(It has been narrated) from Abu Al-Hassan<sup>asws</sup>, said, ‘I asked him<sup>asws</sup> about the man who buys one hundred sheep upon a stipulation if he can exchange from it such and such. He<sup>asws</sup> said: ‘Not allowed’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. A number of our people have narrated from Ahmad ibn Muhammad ibn ‘Isa from Mu‘awiyah ibn Hakim from Muhammad ibn Hubab al-Jallab who has said the following: “I once asked abu al-Hassan, ‘Alayhi al-Salam, about the case of a man who bought one hundred sheep; if so and so many of them were changed. He (the Imam) said, ‘It is not permissible and it is not lawful. 5 ” "
+          ],
+          "text": "1. A number of our people have narrated from Ahmad ibn Muhammad ibn ‘Isa from Mu‘awiyah ibn Hakim from Muhammad ibn Hubab al-Jallab who has said the following: “I once asked abu al-Hassan, ‘Alayhi al-Salam, about the case of a man who bought one hundred sheep; if so and so many of them were changed. He (the Imam) said, ‘It is not permissible and it is not lawful. 5 ”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مجهول    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (19/256)",
+          "label": "مجهول",
+          "text": "Allamah Baqir al-Majlisi: مجهول - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (19/256)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى عَنْ مُعَاوِيَةَ بْنِ حُكَيْمٍ عَنْ مُحَمَّدِ بْنِ حُبَابٍ الْجَلَّابِ عَنْ أَبِي الْحَسَنِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى",
+            "path": "/people/narrators/13"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُعَاوِيَةَ بْنِ حُكَيْمٍ",
+            "path": "/people/narrators/350"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ حُبَابٍ الْجَلَّابِ",
+            "path": "/people/narrators/4211"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي الْحَسَنِ ( عليه السلام )",
+            "path": "/people/narrators/64"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/13",
+          "/people/narrators/350",
+          "/people/narrators/4211",
+          "/people/narrators/64"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:5:2:100:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/5/2/100/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:5:2:100:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:5:2:100:2",
+        "parts": [
+          5,
+          2,
+          100,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 2,
+        "chapter": 100,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:5:2:100",
+        "titles": {
+          "ar": "باب آخَرُ مِنْهُ",
+          "en": "Chapter 99 – Another chapter from it"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قُلْتُ لِأَبِي عَبْدِ اللَّهِ ( عليه السلام ) أَشْتَرِي الْغَنَمَ أَوْ يَشْتَرِي الْغَنَمَ جَمَاعَةٌ ثُمَّ تُدْخَلُ دَاراً ثُمَّ يَقُومُ رَجُلٌ عَلَى الْبَابِ فَيَعُدُّ وَاحِداً وَ اثْنَيْنِ وَ ثَلَاثَةً وَ أَرْبَعَةً وَ خَمْسَةً ثُمَّ يُخْرِجُ السَّهْمَ قَالَ لَا يَصْلُحُ هَذَا إِنَّمَا يَصْلُحُ السِّهَامُ إِذَا عُدِلَتِ الْقِسْمَةُ ."
+        ],
+        "text": "قُلْتُ لِأَبِي عَبْدِ اللَّهِ ( عليه السلام ) أَشْتَرِي الْغَنَمَ أَوْ يَشْتَرِي الْغَنَمَ جَمَاعَةٌ ثُمَّ تُدْخَلُ دَاراً ثُمَّ يَقُومُ رَجُلٌ عَلَى الْبَابِ فَيَعُدُّ وَاحِداً وَ اثْنَيْنِ وَ ثَلَاثَةً وَ أَرْبَعَةً وَ خَمْسَةً ثُمَّ يُخْرِجُ السَّهْمَ قَالَ لَا يَصْلُحُ هَذَا إِنَّمَا يَصْلُحُ السِّهَامُ إِذَا عُدِلَتِ الْقِسْمَةُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ahmad Bin Muhammad, from Ibn Abu Umer, from Abdul Rahman Bin Al Hajjaj, from Minhal Al Qassab who said, ",
+            "‘I said to Abu Abdullah<sup>asws</sup>, ‘I buy the sheep, or a group buys the sheep, then they enter a house, then a man stands upon the door, so he number one, and two, and three, and four, and five, then he specifies it as one share’. He<sup>asws</sup> said: ‘This is not correct. But rather shares are correct only when distribution is just’."
+          ],
+          "text": "Ahmad Bin Muhammad, from Ibn Abu Umer, from Abdul Rahman Bin Al Hajjaj, from Minhal Al Qassab who said,\n\n‘I said to Abu Abdullah<sup>asws</sup>, ‘I buy the sheep, or a group buys the sheep, then they enter a house, then a man stands upon the door, so he number one, and two, and three, and four, and five, then he specifies it as one share’. He<sup>asws</sup> said: ‘This is not correct. But rather shares are correct only when distribution is just’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. Ahmad ibn Muhammad has narrated from ibn abu ‘Umayr from ‘Abd al-Rahman ibn al-Hajjaj from Minhal al-Qassab who has said the following: “This is concerning my question before abu ‘Abd Allah, ‘Alayhi al-Salam, about the case of my buying sheep or a group’s buying sheep saying, ‘They enter a house, then a man stands at the door counts one, two, three, four, and five, then calls it one share.’ He (the Imam) said, ‘It is not valid. Shares are valid only when they are equal.’” "
+          ],
+          "text": "2. Ahmad ibn Muhammad has narrated from ibn abu ‘Umayr from ‘Abd al-Rahman ibn al-Hajjaj from Minhal al-Qassab who has said the following: “This is concerning my question before abu ‘Abd Allah, ‘Alayhi al-Salam, about the case of my buying sheep or a group’s buying sheep saying, ‘They enter a house, then a man stands at the door counts one, two, three, four, and five, then calls it one share.’ He (the Imam) said, ‘It is not valid. Shares are valid only when they are equal.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مجهول  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (9/259)",
+          "label": "مجهول",
+          "text": "Allamah Baqir al-Majlisi: مجهول - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (9/259)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "أَحْمَدُ بْنُ مُحَمَّدٍ عَنِ ابْنِ أَبِي عُمَيْرٍ عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْحَجَّاجِ عَنْ مِنْهَالٍ الْقَصَّابِ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدُ بْنُ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ أَبِي عُمَيْرٍ",
+            "path": "/people/narrators/7"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَبْدِ الرَّحْمَنِ بْنِ الْحَجَّاجِ",
+            "path": "/people/narrators/70"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مِنْهَالٍ الْقَصَّابِ",
+            "path": "/people/narrators/731"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/5",
+          "/people/narrators/7",
+          "/people/narrators/70",
+          "/people/narrators/731"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:5:2:100:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/5/2/100/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:5:2:100:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:5:2:100:3",
+        "parts": [
+          5,
+          2,
+          100,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 2,
+        "chapter": 100,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:5:2:100",
+        "titles": {
+          "ar": "باب آخَرُ مِنْهُ",
+          "en": "Chapter 99 – Another chapter from it"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَأَلْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) عَنْ رَجُلٍ يَشْتَرِي سِهَامَ الْقَصَّابِينَ مِنْ قَبْلِ أَنْ يَخْرُجَ السَّهْمُ فَقَالَ لَا يَشْتَرِي شَيْئاً حَتَّى يَعْلَمَ مِنْ أَيْنَ يَخْرُجُ السَّهْمُ فَإِنِ اشْتَرَى شَيْئاً فَهُوَ بِالْخِيَارِ إِذَا خَرَجَ ."
+        ],
+        "text": "سَأَلْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) عَنْ رَجُلٍ يَشْتَرِي سِهَامَ الْقَصَّابِينَ مِنْ قَبْلِ أَنْ يَخْرُجَ السَّهْمُ فَقَالَ لَا يَشْتَرِي شَيْئاً حَتَّى يَعْلَمَ مِنْ أَيْنَ يَخْرُجُ السَّهْمُ فَإِنِ اشْتَرَى شَيْئاً فَهُوَ بِالْخِيَارِ إِذَا خَرَجَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Sahl Bin Ziyad and Ahmad Bin Muhammad, from Al Hassan Bin Mahboub, from Zayd Al Shahham who said, ",
+            "‘I asked Abu Abdullah<sup>asws</sup> about a man who buys the shares of the butchers prior to the shares are allotted. So he<sup>asws</sup> said: ‘He should not buy anything until he knows from were the shares were drawn. So if he were to buy like this he has the choice to buy or not to (buy it), when the share comes out’."
+          ],
+          "text": "A number of our companions, from Sahl Bin Ziyad and Ahmad Bin Muhammad, from Al Hassan Bin Mahboub, from Zayd Al Shahham who said,\n\n‘I asked Abu Abdullah<sup>asws</sup> about a man who buys the shares of the butchers prior to the shares are allotted. So he<sup>asws</sup> said: ‘He should not buy anything until he knows from were the shares were drawn. So if he were to buy like this he has the choice to buy or not to (buy it), when the share comes out’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "3. A number of our people have narrated from Sahl ibn Ziyad and Ahmad ibn Muhammad from al-Hassan ibn Mahbub from Zayd al- Shahham who has said the following: “This is concerning my question before abu ‘Abd Allah, ‘Alayhi al-Salam, about the case of a man who bought the shares of butchers before the shares were taken out. He (the Imam) said, ‘Nothing can be purchased until it is known where the shares come. If he buys like this he has the choice to buy or not to buy it.’” "
+          ],
+          "text": "3. A number of our people have narrated from Sahl ibn Ziyad and Ahmad ibn Muhammad from al-Hassan ibn Mahbub from Zayd al- Shahham who has said the following: “This is concerning my question before abu ‘Abd Allah, ‘Alayhi al-Salam, about the case of a man who bought the shares of butchers before the shares were taken out. He (the Imam) said, ‘Nothing can be purchased until it is known where the shares come. If he buys like this he has the choice to buy or not to buy it.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> صحيح   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (9/260)",
+          "label": "صحيح",
+          "text": "Allamah Baqir al-Majlisi: صحيح - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (9/260)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ سَهْلِ بْنِ زِيَادٍ وَ أَحْمَدَ بْنِ مُحَمَّدٍ عَنِ الْحَسَنِ بْنِ مَحْبُوبٍ عَنْ زَيْدٍ الشَّحَّامِ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَهْلِ بْنِ زِيَادٍ",
+            "path": "/people/narrators/8"
+          },
+          {
+            "kind": "plain",
+            "text": " وَ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحَسَنِ بْنِ مَحْبُوبٍ",
+            "path": "/people/narrators/53"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "زَيْدٍ الشَّحَّامِ",
+            "path": "/people/narrators/170"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/8",
+          "/people/narrators/5",
+          "/people/narrators/53",
+          "/people/narrators/170"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:5:2:100:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/5/2/100/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

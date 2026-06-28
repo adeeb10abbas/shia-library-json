@@ -1,0 +1,76 @@
+{
+  "id": 2882,
+  "type": "narrator",
+  "path": "/people/narrators/2882",
+  "titles": {
+    "ar": "بِشْرِ بْنِ جَعْفَرٍ"
+  },
+  "versePaths": [
+    "/books/al-istibsar:3:81:18",
+    "/books/al-kafi:1:4:37:5"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "127-29-17-364-2882-315-669": {
+      "narrator_ids": [
+        127,
+        29,
+        17,
+        364,
+        2882,
+        315,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:37:5"
+      ]
+    },
+    "2882-315": {
+      "narrator_ids": [
+        2882,
+        315
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:37:5"
+      ]
+    },
+    "30-2882": {
+      "narrator_ids": [
+        30,
+        2882
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:3:81:18"
+      ]
+    },
+    "364-2882": {
+      "narrator_ids": [
+        364,
+        2882
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:37:5"
+      ]
+    },
+    "645-189-30-2882": {
+      "narrator_ids": [
+        645,
+        189,
+        30,
+        2882
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:3:81:18"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2882",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2882.json"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": 4396,
+  "type": "narrator",
+  "path": "/people/narrators/4396",
+  "titles": {
+    "ar": "مَعْمَرِ بْنِ عَطَاءِ بْنِ وَشِيكَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:2:3:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1332-4396": {
+      "narrator_ids": [
+        1332,
+        4396
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:3:1"
+      ]
+    },
+    "49-183-1332-4396": {
+      "narrator_ids": [
+        49,
+        183,
+        1332,
+        4396
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:3:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4396",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4396.json"
+  }
+}

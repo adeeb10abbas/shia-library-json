@@ -1,0 +1,45 @@
+{
+  "id": 3612,
+  "type": "narrator",
+  "path": "/people/narrators/3612",
+  "titles": {
+    "ar": "عَبْدِ اللَّهِ بْنِ مُصْعَبٍ الزُّبَيْرِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:3:3:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "6-8-68-1645-70-3612": {
+      "narrator_ids": [
+        6,
+        8,
+        68,
+        1645,
+        70,
+        3612
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:3:2"
+      ]
+    },
+    "70-3612": {
+      "narrator_ids": [
+        70,
+        3612
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:3:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3612",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3612.json"
+  }
+}

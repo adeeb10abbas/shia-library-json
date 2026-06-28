@@ -1,0 +1,54 @@
+{
+  "id": 4377,
+  "type": "narrator",
+  "path": "/people/narrators/4377",
+  "titles": {
+    "ar": "مُعَاذٍ الْفَرَّاءِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:1:14:9"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "20-25-61-31-4377-669": {
+      "narrator_ids": [
+        20,
+        25,
+        61,
+        31,
+        4377,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:14:9"
+      ]
+    },
+    "31-4377": {
+      "narrator_ids": [
+        31,
+        4377
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:14:9"
+      ]
+    },
+    "4377-669": {
+      "narrator_ids": [
+        4377,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:14:9"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4377",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4377.json"
+  }
+}

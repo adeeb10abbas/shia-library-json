@@ -1,0 +1,44 @@
+{
+  "id": 3193,
+  "type": "narrator",
+  "path": "/people/narrators/3193",
+  "titles": {
+    "ar": "رَبِيعَةِ الرَّأْيِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:8:22:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-37-156-552-3193": {
+      "narrator_ids": [
+        11,
+        37,
+        156,
+        552,
+        3193
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:22:4"
+      ]
+    },
+    "552-3193": {
+      "narrator_ids": [
+        552,
+        3193
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:22:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3193",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3193.json"
+  }
+}

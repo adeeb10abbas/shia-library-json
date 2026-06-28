@@ -1,0 +1,849 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:4:2:66",
+  "chapter": {
+    "path": "/books/al-kafi:4:2:66",
+    "titles": {
+      "ar": "بَابُ مَا يُسْتَحَبُّ أَنْ يُفْطَرَ عَلَيْهِ",
+      "en": "Chapter 66 – What is recommended for one to break a Fast upon it"
+    }
+  },
+  "count": 6,
+  "records": [
+    {
+      "id": "al-kafi:4:2:66:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:4:2:66:1",
+        "parts": [
+          4,
+          2,
+          66,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 2,
+        "chapter": 66,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:4:2:66",
+        "titles": {
+          "ar": "بَابُ مَا يُسْتَحَبُّ أَنْ يُفْطَرَ عَلَيْهِ",
+          "en": "Chapter 66 – What is recommended for one to break a Fast upon it"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " كَانَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) إِذَا صَامَ فَلَمْ يَجِدِ الْحَلْوَاءَ أَفْطَرَ عَلَى الْمَاءِ ."
+        ],
+        "text": "كَانَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) إِذَا صَامَ فَلَمْ يَجِدِ الْحَلْوَاءَ أَفْطَرَ عَلَى الْمَاءِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father, from Al Nowfaly, from Al Sakuny, ",
+            "(It has been narrated) from Ja’far<sup>asws</sup>, from his<sup>asws</sup> father<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup>, when he<sup>saww</sup> was Fasting, so if he<sup>saww</sup> could not find the sweet, would break Fast upon the water’."
+          ],
+          "text": "Ali Bin Ibrahim, from his father, from Al Nowfaly, from Al Sakuny,\n\n(It has been narrated) from Ja’far<sup>asws</sup>, from his<sup>asws</sup> father<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup>, when he<sup>saww</sup> was Fasting, so if he<sup>saww</sup> could not find the sweet, would break Fast upon the water’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. Ali ibn Ibrahim has narrated from his father from af-Nawfafiy, from af-Sakuniy from Ja’far, from his father, recipients of divine supreme covenant, who has said the following: “The Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, would just have water for breakfast after sunset if Halwa (a special form of sweet) was not available.” "
+          ],
+          "text": "1. Ali ibn Ibrahim has narrated from his father from af-Nawfafiy, from af-Sakuniy from Ja’far, from his father, recipients of divine supreme covenant, who has said the following: “The Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, would just have water for breakfast after sunset if Halwa (a special form of sweet) was not available.”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (16/373)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (16/373)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنِ النَّوْفَلِيِّ عَنِ السَّكُونِيِّ عَنْ جَعْفَرٍ عَنْ أَبِيهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "النَّوْفَلِيِّ",
+            "path": "/people/narrators/32"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "السَّكُونِيِّ",
+            "path": "/people/narrators/34"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "جَعْفَرٍ",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ ( عليه السلام )",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/32",
+          "/people/narrators/34",
+          "/people/narrators/669",
+          "/people/narrators/2"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:2:1:23:2",
+          "/books/al-kafi:3:4:49:3",
+          "/books/al-kafi:3:5:2:20",
+          "/books/al-kafi:4:3:21:29",
+          "/books/al-kafi:6:1:32:3",
+          "/books/al-kafi:7:3:28:4",
+          "/books/tahdhib-al-ahkam:1:28:81"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:4:2:66:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/4/2/66/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:4:2:66:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:4:2:66:2",
+        "parts": [
+          4,
+          2,
+          66,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 2,
+        "chapter": 66,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:4:2:66",
+        "titles": {
+          "ar": "بَابُ مَا يُسْتَحَبُّ أَنْ يُفْطَرَ عَلَيْهِ",
+          "en": "Chapter 66 – What is recommended for one to break a Fast upon it"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " إِذَا أَفْطَرَ الرَّجُلُ عَلَى الْمَاءِ الْفَاتِرِ نَقَّى كَبِدَهُ وَ غَسَلَ الذُّنُوبَ مِنَ الْقَلْبِ وَ قَوَّى الْبَصَرَ وَ الْحَدَقَ ."
+        ],
+        "text": "إِذَا أَفْطَرَ الرَّجُلُ عَلَى الْمَاءِ الْفَاتِرِ نَقَّى كَبِدَهُ وَ غَسَلَ الذُّنُوبَ مِنَ الْقَلْبِ وَ قَوَّى الْبَصَرَ وَ الْحَدَقَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim,from his father, from Ibn Abu Umeyr, from a man, ",
+            "(It has been narrated) from Abu Abullah<sup>asws</sup> having said: ‘When the man breaks a Fast upon the lukewarm water, it cleans his liver and washes the sins from ‘الْقَلْبِ’ the heart, and strengthens the vision and the glare’."
+          ],
+          "text": "Ali Bin Ibrahim,from his father, from Ibn Abu Umeyr, from a man,\n\n(It has been narrated) from Abu Abullah<sup>asws</sup> having said: ‘When the man breaks a Fast upon the lukewarm water, it cleans his liver and washes the sins from ‘الْقَلْبِ’ the heart, and strengthens the vision and the glare’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. Ali ibn Ibrahim has narrated from his father from ibn abu ‘Umayr from a man who has said the following: “Abu ‘ Abd Allah, ‘Alayhi al-Salam, has said that if one uses just water for breakfast after sunset, it cleanses his liver, washes off sins from the heart, strengthens eyesight and the pupil of the eyes.” "
+          ],
+          "text": "2. Ali ibn Ibrahim has narrated from his father from ibn abu ‘Umayr from a man who has said the following: “Abu ‘ Abd Allah, ‘Alayhi al-Salam, has said that if one uses just water for breakfast after sunset, it cleanses his liver, washes off sins from the heart, strengthens eyesight and the pupil of the eyes.”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> حسن   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (6/373)",
+          "label": "حسن",
+          "text": "Allamah Baqir al-Majlisi: حسن - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (6/373)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنِ ابْنِ أَبِي عُمَيْرٍ عَنْ رَجُلٍ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ أَبِي عُمَيْرٍ",
+            "path": "/people/narrators/7"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "رَجُلٍ",
+            "path": "/people/narrators/60"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/7",
+          "/people/narrators/60",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:6:8:43:17",
+          "/books/al-kafi:6:8:5:5",
+          "/books/al-kafi:6:8:65:4"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:4:2:66:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/4/2/66/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:4:2:66:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:4:2:66:3",
+        "parts": [
+          4,
+          2,
+          66,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 2,
+        "chapter": 66,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:4:2:66",
+        "titles": {
+          "ar": "بَابُ مَا يُسْتَحَبُّ أَنْ يُفْطَرَ عَلَيْهِ",
+          "en": "Chapter 66 – What is recommended for one to break a Fast upon it"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " الْإِفْطَارُ عَلَى الْمَاءِ يَغْسِلُ الذُّنُوبَ مِنَ الْقَلْبِ ."
+        ],
+        "text": "الْإِفْطَارُ عَلَى الْمَاءِ يَغْسِلُ الذُّنُوبَ مِنَ الْقَلْبِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Ahmad Bin Muhammad, from Salih Bin Sindy, from Ibn Sinan, from a man, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Breaking a Fast upon the water washes the sins from the ‘Qalb’ (heart)’."
+          ],
+          "text": "A number of our companions, from Ahmad Bin Muhammad, from Salih Bin Sindy, from Ibn Sinan, from a man,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Breaking a Fast upon the water washes the sins from the ‘Qalb’ (heart)’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "3. A number of our people have narrated from Ahmad ibn Muhammad from Salih ibn Sindiy from ibn Sinan from a man who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that one should use just water for breakfast, after sunset; it washes off sins from the heart.” "
+          ],
+          "text": "3. A number of our people have narrated from Ahmad ibn Muhammad from Salih ibn Sindiy from ibn Sinan from a man who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that one should use just water for breakfast, after sunset; it washes off sins from the heart.”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (16/373)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (16/373)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنْ صَالِحِ بْنِ سِنْدِيٍّ عَنِ ابْنِ سِنَانٍ عَنْ رَجُلٍ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "صَالِحِ بْنِ سِنْدِيٍّ",
+            "path": "/people/narrators/3426"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ سِنَانٍ",
+            "path": "/people/narrators/104"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "رَجُلٍ",
+            "path": "/people/narrators/60"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/5",
+          "/people/narrators/3426",
+          "/people/narrators/104",
+          "/people/narrators/60",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:4:2:66:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/4/2/66/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:4:2:66:4",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:4:2:66:4",
+        "parts": [
+          4,
+          2,
+          66,
+          4
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 2,
+        "chapter": 66,
+        "hadith": 4
+      },
+      "chapter": {
+        "path": "/books/al-kafi:4:2:66",
+        "titles": {
+          "ar": "بَابُ مَا يُسْتَحَبُّ أَنْ يُفْطَرَ عَلَيْهِ",
+          "en": "Chapter 66 – What is recommended for one to break a Fast upon it"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " كَانَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) إِذَا أَفْطَرَ بَدَأَ بِحَلْوَاءَ يُفْطِرُ عَلَيْهَا فَإِنْ لَمْ يَجِدْ فَسُكَّرَةٍ أَوْ تَمَرَاتٍ فَإِذَا أَعْوَزَ ذَلِكَ كُلُّهُ فَمَاءٍ فَاتِرٍ وَ كَانَ يَقُولُ يُنَقِّي الْمَعِدَةَ وَ الْكَبِدَ وَ يُطَيِّبُ النَّكْهَةَ وَ الْفَمَ وَ يُقَوِّي الْأَضْرَاسَ وَ يُقَوِّي الْحَدَقَ وَ يَجْلُو النَّاظِرَ وَ يَغْسِلُ الذُّنُوبَ غَسْلًا وَ يُسَكِّنُ الْعُرُوقَ الْهَائِجَةَ وَ الْمِرَّةَ الْغَالِبَةَ وَ يَقْطَعُ الْبَلْغَمَ وَ يُطْفِئُ الْحَرَارَةَ عَنِ الْمَعِدَةِ وَ يَذْهَبُ بِالصُّدَاعِ ."
+        ],
+        "text": "كَانَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) إِذَا أَفْطَرَ بَدَأَ بِحَلْوَاءَ يُفْطِرُ عَلَيْهَا فَإِنْ لَمْ يَجِدْ فَسُكَّرَةٍ أَوْ تَمَرَاتٍ فَإِذَا أَعْوَزَ ذَلِكَ كُلُّهُ فَمَاءٍ فَاتِرٍ وَ كَانَ يَقُولُ يُنَقِّي الْمَعِدَةَ وَ الْكَبِدَ وَ يُطَيِّبُ النَّكْهَةَ وَ الْفَمَ وَ يُقَوِّي الْأَضْرَاسَ وَ يُقَوِّي الْحَدَقَ وَ يَجْلُو النَّاظِرَ وَ يَغْسِلُ الذُّنُوبَ غَسْلًا وَ يُسَكِّنُ الْعُرُوقَ الْهَائِجَةَ وَ الْمِرَّةَ الْغَالِبَةَ وَ يَقْطَعُ الْبَلْغَمَ وَ يُطْفِئُ الْحَرَارَةَ عَنِ الْمَعِدَةِ وَ يَذْهَبُ بِالصُّدَاعِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Muhammad Bin Ahmad, from the one who mentioned it, from Mansour Bin Al Abbas, from Safwan Bin Yahya, from Abdullah Bin Muskan, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup>, whenever he<sup>saww</sup> broke a Fast, began with a sweet, breaking upon it. So if he<sup>saww</sup> could not find, so a (lump of) sugar, or dates. So if all of that was not available, so lukewarm water; and he<sup>saww</sup> was saying: ‘It cleans the stomach and the liver, and aromatises the breath and the mouth, and it strengthens the teeth, and strengthens the glare, and polishes the vision, and washes the sins with a washing, and settles the veins and the gallbladder, and the overcoming bitterness, and cuts the phlegm, and extinguishes the heat from the stomach, and removes the headaches’."
+          ],
+          "text": "Muhammad Bin Yahya, from Muhammad Bin Ahmad, from the one who mentioned it, from Mansour Bin Al Abbas, from Safwan Bin Yahya, from Abdullah Bin Muskan,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup>, whenever he<sup>saww</sup> broke a Fast, began with a sweet, breaking upon it. So if he<sup>saww</sup> could not find, so a (lump of) sugar, or dates. So if all of that was not available, so lukewarm water; and he<sup>saww</sup> was saying: ‘It cleans the stomach and the liver, and aromatises the breath and the mouth, and it strengthens the teeth, and strengthens the glare, and polishes the vision, and washes the sins with a washing, and settles the veins and the gallbladder, and the overcoming bitterness, and cuts the phlegm, and extinguishes the heat from the stomach, and removes the headaches’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "4. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from those whom he has mentioned (in his book) from Mansur ibn al-‘ Abbas from Safwan ibn Yahya from ‘Abd Allah ibn Muskan who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, would begin with Halwa for breakfast after sunset. If this was not available, he would use sugar or dates, and if no such items were available, he then would use water and say, ‘It cleanses the stomach and liver, helps bad breathe and the scent of the mouth, strengthens the teeth, the pupil of the eye and eyesight, and washes off sins. It calms down hyper veins and the gallbladder, cuts down mucus, cools heartburn and relieves sinus congestions.’” "
+          ],
+          "text": "4. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from those whom he has mentioned (in his book) from Mansur ibn al-‘ Abbas from Safwan ibn Yahya from ‘Abd Allah ibn Muskan who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, would begin with Halwa for breakfast after sunset. If this was not available, he would use sugar or dates, and if no such items were available, he then would use water and say, ‘It cleanses the stomach and liver, helps bad breathe and the scent of the mouth, strengthens the teeth, the pupil of the eye and eyesight, and washes off sins. It calms down hyper veins and the gallbladder, cuts down mucus, cools heartburn and relieves sinus congestions.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (16/374)",
+          "label": "ضعيف",
+          "text": "Allamah Baqir al-Majlisi: ضعيف - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (16/374)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ مُحَمَّدِ بْنِ أَحْمَدَ عَمَّنْ ذَكَرَهُ عَنْ مَنْصُورِ بْنِ الْعَبَّاسِ عَنْ صَفْوَانَ بْنِ يَحْيَى عَنْ عَبْدِ اللَّهِ بْنِ مُسْكَانَ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "plain",
+            "text": "مُحَمَّدِ بْنِ أَحْمَدَ عَمَّنْ ذَكَرَهُ"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مَنْصُورِ بْنِ الْعَبَّاسِ",
+            "path": "/people/narrators/248"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "صَفْوَانَ بْنِ يَحْيَى",
+            "path": "/people/narrators/30"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَبْدِ اللَّهِ بْنِ مُسْكَانَ",
+            "path": "/people/narrators/128"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/248",
+          "/people/narrators/30",
+          "/people/narrators/128",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:4:2:66:4",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/4/2/66/4.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:4:2:66:5",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:4:2:66:5",
+        "parts": [
+          4,
+          2,
+          66,
+          5
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 2,
+        "chapter": 66,
+        "hadith": 5
+      },
+      "chapter": {
+        "path": "/books/al-kafi:4:2:66",
+        "titles": {
+          "ar": "بَابُ مَا يُسْتَحَبُّ أَنْ يُفْطَرَ عَلَيْهِ",
+          "en": "Chapter 66 – What is recommended for one to break a Fast upon it"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " كَانَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) يُفْطِرُ عَلَى التَّمْرِ فِي زَمَنِ التَّمْرِ وَ عَلَى الرُّطَبِ فِي زَمَنِ الرُّطَبِ ."
+        ],
+        "text": "كَانَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) يُفْطِرُ عَلَى التَّمْرِ فِي زَمَنِ التَّمْرِ وَ عَلَى الرُّطَبِ فِي زَمَنِ الرُّطَبِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father, from Ibn Abu Umeyr, from Ibrahim Bin Mihzan, from Talha Bin Zayd, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup> used to break a Fast upon the dates during the season of the dates, and upon fresh dates during the season of fresh dates’."
+          ],
+          "text": "Ali Bin Ibrahim, from his father, from Ibn Abu Umeyr, from Ibrahim Bin Mihzan, from Talha Bin Zayd,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup> used to break a Fast upon the dates during the season of the dates, and upon fresh dates during the season of fresh dates’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "5. Ali ibn Ibrahim has narrated from his father from ibn abu ‘Umayr from Ibrahim ibn Mehzam from Talhah ibn Zayd who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, would use dates for breakfast after sunset, if it was the season of dates, or fresh dates if it was the season of fresh dates.” "
+          ],
+          "text": "5. Ali ibn Ibrahim has narrated from his father from ibn abu ‘Umayr from Ibrahim ibn Mehzam from Talhah ibn Zayd who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, would use dates for breakfast after sunset, if it was the season of dates, or fresh dates if it was the season of fresh dates.”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور لكنه قوي   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (6/374)",
+          "label": "ضعيف على المشهور لكنه قوي",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور لكنه قوي - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (6/374)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنِ ابْنِ أَبِي عُمَيْرٍ عَنْ إِبْرَاهِيمَ بْنِ مِهْزَمٍ عَنْ طَلْحَةَ بْنِ زَيْدٍ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ أَبِي عُمَيْرٍ",
+            "path": "/people/narrators/7"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "إِبْرَاهِيمَ بْنِ مِهْزَمٍ",
+            "path": "/people/narrators/343"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "طَلْحَةَ بْنِ زَيْدٍ",
+            "path": "/people/narrators/173"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/7",
+          "/people/narrators/343",
+          "/people/narrators/173",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:4:2:66:5",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/4/2/66/5.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:4:2:66:6",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:4:2:66:6",
+        "parts": [
+          4,
+          2,
+          66,
+          6
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 2,
+        "chapter": 66,
+        "hadith": 6
+      },
+      "chapter": {
+        "path": "/books/al-kafi:4:2:66",
+        "titles": {
+          "ar": "بَابُ مَا يُسْتَحَبُّ أَنْ يُفْطَرَ عَلَيْهِ",
+          "en": "Chapter 66 – What is recommended for one to break a Fast upon it"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " كَانَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) أَوَّلُ مَا يُفْطِرُ عَلَيْهِ فِي زَمَنِ الرُّطَبِ الرُّطَبُ وَ فِي زَمَنِ التَّمْرِ التَّمْرُ ."
+        ],
+        "text": "كَانَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) أَوَّلُ مَا يُفْطِرُ عَلَيْهِ فِي زَمَنِ الرُّطَبِ الرُّطَبُ وَ فِي زَمَنِ التَّمْرِ التَّمْرُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father, from Ja’far Bin Abdullah Al Ashary, from Ibn Al Qaddah, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup>, the first of what he<sup>saww</sup> used to break a Fast upon during a season of the fresh dates, was fresh dates, and during a season of dates, the dates’."
+          ],
+          "text": "Ali Bin Ibrahim, from his father, from Ja’far Bin Abdullah Al Ashary, from Ibn Al Qaddah,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup>, the first of what he<sup>saww</sup> used to break a Fast upon during a season of the fresh dates, was fresh dates, and during a season of dates, the dates’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "6. Ali ibn Ibrahim has narrated from his father from Ja’far ibn ‘Abd Allah al-Ash’ariy from ibn al-Qaddah who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, would first use fresh dates for breakfast after sunset during the season of fresh dates, and during the season of dates, he would use dates.” "
+          ],
+          "text": "6. Ali ibn Ibrahim has narrated from his father from Ja’far ibn ‘Abd Allah al-Ash’ariy from ibn al-Qaddah who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, would first use fresh dates for breakfast after sunset during the season of fresh dates, and during the season of dates, he would use dates.”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مجهول   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (16/374)",
+          "label": "مجهول",
+          "text": "Allamah Baqir al-Majlisi: مجهول - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (16/374)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنْ جَعْفَرِ بْنِ عَبْدِ اللَّهِ الْأَشْعَرِيِّ عَنِ ابْنِ الْقَدَّاحِ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "جَعْفَرِ بْنِ عَبْدِ اللَّهِ الْأَشْعَرِيِّ",
+            "path": "/people/narrators/2996"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ الْقَدَّاحِ",
+            "path": "/people/narrators/114"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/2996",
+          "/people/narrators/114",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:4:2:66:6",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/4/2/66/6.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

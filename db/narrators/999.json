@@ -1,0 +1,106 @@
+{
+  "id": 999,
+  "type": "narrator",
+  "path": "/people/narrators/999",
+  "titles": {
+    "ar": "أَبِيهِ أَوْ غَيْرِهِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:2:14:5",
+    "/books/al-kafi:5:3:190:50",
+    "/books/al-kafi:6:8:43:1"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "11-999": {
+      "narrator_ids": [
+        11,
+        999
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:14:5"
+      ]
+    },
+    "11-999-241-14-669": {
+      "narrator_ids": [
+        11,
+        999,
+        241,
+        14,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:14:5"
+      ]
+    },
+    "12-999": {
+      "narrator_ids": [
+        12,
+        999
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:190:50",
+        "/books/al-kafi:6:8:43:1"
+      ]
+    },
+    "6-12-999-311-676": {
+      "narrator_ids": [
+        6,
+        12,
+        999,
+        311,
+        676
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:190:50"
+      ]
+    },
+    "6-12-999-814": {
+      "narrator_ids": [
+        6,
+        12,
+        999,
+        814
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:43:1"
+      ]
+    },
+    "999-241": {
+      "narrator_ids": [
+        999,
+        241
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:14:5"
+      ]
+    },
+    "999-311": {
+      "narrator_ids": [
+        999,
+        311
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:190:50"
+      ]
+    },
+    "999-814": {
+      "narrator_ids": [
+        999,
+        814
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:43:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/999",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/999.json"
+  }
+}

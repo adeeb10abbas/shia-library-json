@@ -1,0 +1,53 @@
+{
+  "id": 3741,
+  "type": "narrator",
+  "path": "/people/narrators/3741",
+  "titles": {
+    "ar": "عَلِيِّ بْنِ الْحَسَنِ الْهَمْدَانِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:119:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-339-3741-1677-2060": {
+      "narrator_ids": [
+        11,
+        339,
+        3741,
+        1677,
+        2060
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:119:2"
+      ]
+    },
+    "339-3741": {
+      "narrator_ids": [
+        339,
+        3741
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:119:2"
+      ]
+    },
+    "3741-1677": {
+      "narrator_ids": [
+        3741,
+        1677
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:119:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3741",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3741.json"
+  }
+}

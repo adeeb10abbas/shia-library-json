@@ -1,0 +1,96 @@
+{
+  "id": 4313,
+  "type": "narrator",
+  "path": "/people/narrators/4313",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ مُحَمَّدٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:3:24:11",
+    "/books/thawab-al-amal:2:272:1",
+    "/books/thawab-al-amal:2:373:1"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "2-4313": {
+      "narrator_ids": [
+        2,
+        4313
+      ],
+      "verse_paths": [
+        "/books/thawab-al-amal:2:272:1"
+      ]
+    },
+    "209-4313": {
+      "narrator_ids": [
+        209,
+        4313
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:24:11"
+      ]
+    },
+    "3-209-4313": {
+      "narrator_ids": [
+        3,
+        209,
+        4313
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:24:11"
+      ]
+    },
+    "4313-2": {
+      "narrator_ids": [
+        4313,
+        2
+      ],
+      "verse_paths": [
+        "/books/thawab-al-amal:2:373:1"
+      ]
+    },
+    "4313-2-13-53-120-669": {
+      "narrator_ids": [
+        4313,
+        2,
+        13,
+        53,
+        120,
+        669
+      ],
+      "verse_paths": [
+        "/books/thawab-al-amal:2:373:1"
+      ]
+    },
+    "4313-46": {
+      "narrator_ids": [
+        4313,
+        46
+      ],
+      "verse_paths": [
+        "/books/thawab-al-amal:2:272:1"
+      ]
+    },
+    "5-2-4313-46-102": {
+      "narrator_ids": [
+        5,
+        2,
+        4313,
+        46,
+        102
+      ],
+      "verse_paths": [
+        "/books/thawab-al-amal:2:272:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4313",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4313.json"
+  }
+}

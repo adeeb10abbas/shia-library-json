@@ -1,0 +1,42 @@
+{
+  "id": 2336,
+  "type": "narrator",
+  "path": "/people/narrators/2336",
+  "titles": {
+    "ar": "أَحْمَدَ بْنِ مُحَمَّدِ بْنِ أَبِي نَصْرٍ أَيْضاً"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:104:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1472-2275-2336": {
+      "narrator_ids": [
+        1472,
+        2275,
+        2336
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:104:2"
+      ]
+    },
+    "2275-2336": {
+      "narrator_ids": [
+        2275,
+        2336
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:104:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2336",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2336.json"
+  }
+}

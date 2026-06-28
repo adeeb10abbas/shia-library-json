@@ -1,0 +1,209 @@
+{
+  "id": 1053,
+  "type": "narrator",
+  "path": "/people/narrators/1053",
+  "titles": {
+    "ar": "النَّبِيِّ ( صلى الله عليه وآله )",
+    "en": "The Prophet"
+  },
+  "versePaths": [
+    "/books/al-amali-saduq:50:7",
+    "/books/al-kafi:2:1:115:4",
+    "/books/al-kafi:2:1:58:7",
+    "/books/al-kafi:6:8:37:6",
+    "/books/al-kafi:6:9:2:7",
+    "/books/al-khisal:13:5:4",
+    "/books/al-tawhid:2:38:4",
+    "/books/al-tawhid:2:38:5",
+    "/books/kitab-al-ghayba-tusi:24:27",
+    "/books/kitab-al-mumin:6:5",
+    "/books/kitab-al-zuhd:2:14:8",
+    "/books/maani-al-akhbar:126:1",
+    "/books/thawab-al-amal:2:220:1"
+  ],
+  "verseCount": 13,
+  "relations": {},
+  "subchains": {
+    "1609-2-253-2-50-1053": {
+      "narrator_ids": [
+        1609,
+        2,
+        253,
+        2,
+        50,
+        1053
+      ],
+      "verse_paths": [
+        "/books/maani-al-akhbar:126:1"
+      ]
+    },
+    "173-1053": {
+      "narrator_ids": [
+        173,
+        1053
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:115:4"
+      ]
+    },
+    "1901-1053": {
+      "narrator_ids": [
+        1901,
+        1053
+      ],
+      "verse_paths": [
+        "/books/al-amali-saduq:50:7"
+      ]
+    },
+    "2-766-1053": {
+      "narrator_ids": [
+        2,
+        766,
+        1053
+      ],
+      "verse_paths": [
+        "/books/kitab-al-mumin:6:5"
+      ]
+    },
+    "253-1053": {
+      "narrator_ids": [
+        253,
+        1053
+      ],
+      "verse_paths": [
+        "/books/kitab-al-zuhd:2:14:8"
+      ]
+    },
+    "269-1053": {
+      "narrator_ids": [
+        269,
+        1053
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:58:7"
+      ]
+    },
+    "3940-1053": {
+      "narrator_ids": [
+        3940,
+        1053
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:37:6"
+      ]
+    },
+    "4-13-10-4475-3940-1053": {
+      "narrator_ids": [
+        4,
+        13,
+        10,
+        4475,
+        3940,
+        1053
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:37:6"
+      ]
+    },
+    "4-5-42-173-1053": {
+      "narrator_ids": [
+        4,
+        5,
+        42,
+        173,
+        1053
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:115:4"
+      ]
+    },
+    "404-1053": {
+      "narrator_ids": [
+        404,
+        1053
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:9:2:7"
+      ]
+    },
+    "417-1053": {
+      "narrator_ids": [
+        417,
+        1053
+      ],
+      "verse_paths": [
+        "/books/thawab-al-amal:2:220:1"
+      ]
+    },
+    "4521-1053": {
+      "narrator_ids": [
+        4521,
+        1053
+      ],
+      "verse_paths": [
+        "/books/al-tawhid:2:38:4",
+        "/books/al-tawhid:2:38:5"
+      ]
+    },
+    "50-1053": {
+      "narrator_ids": [
+        50,
+        1053
+      ],
+      "verse_paths": [
+        "/books/maani-al-akhbar:126:1"
+      ]
+    },
+    "50-2-76-269-1053": {
+      "narrator_ids": [
+        50,
+        2,
+        76,
+        269,
+        1053
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:58:7"
+      ]
+    },
+    "73-669-2-253-1053": {
+      "narrator_ids": [
+        73,
+        669,
+        2,
+        253,
+        1053
+      ],
+      "verse_paths": [
+        "/books/kitab-al-zuhd:2:14:8"
+      ]
+    },
+    "766-1053": {
+      "narrator_ids": [
+        766,
+        1053
+      ],
+      "verse_paths": [
+        "/books/kitab-al-mumin:6:5"
+      ]
+    },
+    "77-417-1053": {
+      "narrator_ids": [
+        77,
+        417,
+        1053
+      ],
+      "verse_paths": [
+        "/books/thawab-al-amal:2:220:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1053",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1053.json"
+  }
+}

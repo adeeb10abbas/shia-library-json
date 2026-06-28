@@ -1,0 +1,43 @@
+{
+  "id": 4173,
+  "type": "narrator",
+  "path": "/people/narrators/4173",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ الْحُسَيْنِ بْنِ يَزِيدَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:46:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "154-25-68-4173": {
+      "narrator_ids": [
+        154,
+        25,
+        68,
+        4173
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:46:4"
+      ]
+    },
+    "68-4173": {
+      "narrator_ids": [
+        68,
+        4173
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:46:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4173",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4173.json"
+  }
+}

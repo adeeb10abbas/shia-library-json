@@ -1,0 +1,78 @@
+{
+  "id": 1658,
+  "type": "narrator",
+  "path": "/people/narrators/1658",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ زِيَادِ بْنِ عِيسَى بَيَّاعِ السَّابِرِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:3:93:3",
+    "/books/al-kafi:8:1:25:21"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "1658-52": {
+      "narrator_ids": [
+        1658,
+        52
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:93:3",
+        "/books/al-kafi:8:1:25:21"
+      ]
+    },
+    "237-1658": {
+      "narrator_ids": [
+        237,
+        1658
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:93:3"
+      ]
+    },
+    "49-1552-797-1658-52": {
+      "narrator_ids": [
+        49,
+        1552,
+        797,
+        1658,
+        52
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:25:21"
+      ]
+    },
+    "49-706-237-1658-52-391-669": {
+      "narrator_ids": [
+        49,
+        706,
+        237,
+        1658,
+        52,
+        391,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:93:3"
+      ]
+    },
+    "797-1658": {
+      "narrator_ids": [
+        797,
+        1658
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:25:21"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1658",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1658.json"
+  }
+}

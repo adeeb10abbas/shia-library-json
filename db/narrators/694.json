@@ -1,0 +1,197 @@
+{
+  "id": 694,
+  "type": "narrator",
+  "path": "/people/narrators/694",
+  "titles": {
+    "ar": "زِيَادِ بْنِ أَبِي الْحَلَّالِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:2:62:2",
+    "/books/al-kafi:4:3:226:1",
+    "/books/al-kafi:5:3:107:2",
+    "/books/al-kafi:6:6:43:7",
+    "/books/al-kafi:6:6:66:3",
+    "/books/al-kafi:8:1:19:1",
+    "/books/man-la-yahduruhu-al-faqih:2:3:156:3",
+    "/books/man-la-yahduruhu-al-faqih:4:127:19",
+    "/books/mujam-al-ahadith-al-mutabara:3:13:2",
+    "/books/mujam-al-ahadith-al-mutabara:3:32:12",
+    "/books/tahdhib-al-ahkam:1:27:27",
+    "/books/tahdhib-al-ahkam:4:71:93"
+  ],
+  "verseCount": 12,
+  "relations": {},
+  "subchains": {
+    "127-5-15-694-669": {
+      "narrator_ids": [
+        127,
+        5,
+        15,
+        694,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:19:1"
+      ]
+    },
+    "15-694": {
+      "narrator_ids": [
+        15,
+        694
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:226:1",
+        "/books/al-kafi:5:3:107:2",
+        "/books/al-kafi:8:1:19:1",
+        "/books/man-la-yahduruhu-al-faqih:2:3:156:3",
+        "/books/man-la-yahduruhu-al-faqih:4:127:19",
+        "/books/mujam-al-ahadith-al-mutabara:3:13:2",
+        "/books/tahdhib-al-ahkam:1:27:27"
+      ]
+    },
+    "15-694-669": {
+      "narrator_ids": [
+        15,
+        694,
+        669
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:2:3:156:3"
+      ]
+    },
+    "391-27-15-694": {
+      "narrator_ids": [
+        391,
+        27,
+        15,
+        694
+      ],
+      "verse_paths": [
+        "/books/mujam-al-ahadith-al-mutabara:3:13:2"
+      ]
+    },
+    "4-5-42-694": {
+      "narrator_ids": [
+        4,
+        5,
+        42,
+        694
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:43:7"
+      ]
+    },
+    "4-92-704-15-694": {
+      "narrator_ids": [
+        4,
+        92,
+        704,
+        15,
+        694
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:107:2"
+      ]
+    },
+    "42-694": {
+      "narrator_ids": [
+        42,
+        694
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:43:7",
+        "/books/al-kafi:6:6:66:3"
+      ]
+    },
+    "458-694": {
+      "narrator_ids": [
+        458,
+        694
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:62:2"
+      ]
+    },
+    "5-15-694-326": {
+      "narrator_ids": [
+        5,
+        15,
+        694,
+        326
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:27:27"
+      ]
+    },
+    "5-42-694": {
+      "narrator_ids": [
+        5,
+        42,
+        694
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:66:3"
+      ]
+    },
+    "6-5-15-694-669": {
+      "narrator_ids": [
+        6,
+        5,
+        15,
+        694,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:226:1"
+      ]
+    },
+    "6-5-458-694": {
+      "narrator_ids": [
+        6,
+        5,
+        458,
+        694
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:62:2"
+      ]
+    },
+    "694-326": {
+      "narrator_ids": [
+        694,
+        326
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:27:27"
+      ]
+    },
+    "694-669": {
+      "narrator_ids": [
+        694,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:226:1",
+        "/books/al-kafi:8:1:19:1",
+        "/books/man-la-yahduruhu-al-faqih:2:3:156:3"
+      ]
+    },
+    "7-694": {
+      "narrator_ids": [
+        7,
+        694
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:4:71:93"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/694",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/694.json"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": 4531,
+  "type": "narrator",
+  "path": "/people/narrators/4531",
+  "titles": {
+    "ar": "يَأْتِي مِنًى"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:149:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3-2-7-47-314-289-669-2682-4590-4531": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        47,
+        314,
+        289,
+        669,
+        2682,
+        4590,
+        4531
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:149:1"
+      ]
+    },
+    "4590-4531": {
+      "narrator_ids": [
+        4590,
+        4531
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:149:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4531",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4531.json"
+  }
+}

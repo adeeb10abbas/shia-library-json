@@ -1,0 +1,44 @@
+{
+  "id": 2865,
+  "type": "narrator",
+  "path": "/people/narrators/2865",
+  "titles": {
+    "ar": "بَدْرٍ غُلَامِ أَحْمَدَ بْنِ الْحَسَنِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:125:16"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2732-2865": {
+      "narrator_ids": [
+        2732,
+        2865
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:125:16"
+      ]
+    },
+    "50-6-243-2732-2865": {
+      "narrator_ids": [
+        50,
+        6,
+        243,
+        2732,
+        2865
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:125:16"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2865",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2865.json"
+  }
+}

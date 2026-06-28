@@ -1,0 +1,43 @@
+{
+  "id": 3723,
+  "type": "narrator",
+  "path": "/people/narrators/3723",
+  "titles": {
+    "ar": "عَلِيِّ بْنِ أَبِي حَمْزَةَ الثُّمَالِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:2:69:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "316-3723": {
+      "narrator_ids": [
+        316,
+        3723
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:69:2"
+      ]
+    },
+    "5-21-316-3723": {
+      "narrator_ids": [
+        5,
+        21,
+        316,
+        3723
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:69:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3723",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3723.json"
+  }
+}

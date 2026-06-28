@@ -1,0 +1,49 @@
+{
+  "id": 1910,
+  "type": "narrator",
+  "path": "/people/narrators/1910",
+  "titles": {
+    "ar": "أَبُو الْعَبَّاسِ الرَّزَّازُ مُحَمَّدُ بْنُ جَعْفَرٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:2:69:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1910-189": {
+      "narrator_ids": [
+        1910,
+        189
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:69:2"
+      ]
+    },
+    "1910-189-19-24-17-33-43-96-18-9": {
+      "narrator_ids": [
+        1910,
+        189,
+        19,
+        24,
+        17,
+        33,
+        43,
+        96,
+        18,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:69:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1910",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1910.json"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "kitab-al-duafa",
+  "chapterPath": "/books/kitab-al-duafa:15:1",
+  "chapter": {
+    "path": "/books/kitab-al-duafa:15:1",
+    "titles": {
+      "en": "Ṭāhir b. Ḥātim b. Māhawayh, al-Qazwīnī"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "kitab-al-duafa:15:1:1",
+      "type": "hadith",
+      "book": {
+        "slug": "kitab-al-duafa",
+        "titles": {
+          "ar": "كتاب الضعفاء",
+          "en": "Kitab al-Du'afa'"
+        },
+        "author": {
+          "en": "Ahmad ibn al-Husayn al-Ghada'iri"
+        }
+      },
+      "path": {
+        "source": "/books/kitab-al-duafa:15:1:1",
+        "parts": [
+          15,
+          1,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 15,
+        "book": 1,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/kitab-al-duafa:15:1",
+        "titles": {
+          "en": "Ṭāhir b. Ḥātim b. Māhawayh, al-Qazwīnī"
+        }
+      },
+      "arabic": {
+        "segments": [
+          "1 - طاهر بن حاتم بن ماهويه، القزويني، أخو فارس. كان فاسد المذهب، ضعيفا. وقد كانت له حال استقامة، كما كانت لأخيه، ولكنها لا تثمر."
+        ],
+        "text": "1 - طاهر بن حاتم بن ماهويه، القزويني، أخو فارس. كان فاسد المذهب، ضعيفا. وقد كانت له حال استقامة، كما كانت لأخيه، ولكنها لا تثمر."
+      },
+      "translations": {
+        "en.tashayyu": {
+          "segments": [
+            "1 – Ṭāhir b. Ḥātim b. Māhawayh, al-Qazwīnī, the brother of Fāris.  He was corrupt in madhhab, weak.  He had been in an upright state, as had been his brother, however it did not bear fruit."
+          ],
+          "text": "1 – Ṭāhir b. Ḥātim b. Māhawayh, al-Qazwīnī, the brother of Fāris.  He was corrupt in madhhab, weak.  He had been in an upright state, as had been his brother, however it did not bear fruit."
+        }
+      },
+      "gradings": [],
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/kitab-al-duafa:15:1:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/kitab-al-duafa/15/1/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/17/15/1/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

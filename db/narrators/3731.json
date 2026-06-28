@@ -1,0 +1,54 @@
+{
+  "id": 3731,
+  "type": "narrator",
+  "path": "/people/narrators/3731",
+  "titles": {
+    "ar": "عَلِيِّ بْنِ أَسْبَاطٍ يَرْفَعُونَهُ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:37:17"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "247-3731": {
+      "narrator_ids": [
+        247,
+        3731
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:37:17"
+      ]
+    },
+    "3731-394": {
+      "narrator_ids": [
+        3731,
+        394
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:37:17"
+      ]
+    },
+    "8-476-1500-247-3731-394": {
+      "narrator_ids": [
+        8,
+        476,
+        1500,
+        247,
+        3731,
+        394
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:37:17"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3731",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3731.json"
+  }
+}

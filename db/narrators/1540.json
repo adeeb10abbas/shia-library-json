@@ -1,0 +1,97 @@
+{
+  "id": 1540,
+  "type": "narrator",
+  "path": "/people/narrators/1540",
+  "titles": {
+    "ar": "عَبْدِ اللَّهِ بْنِ سُلَيْمَانَ الصَّيْرَفِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:2:4:2",
+    "/books/al-kafi:6:6:32:4",
+    "/books/tahdhib-al-ahkam:5:4:48"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "133-12-544-85-1540": {
+      "narrator_ids": [
+        133,
+        12,
+        544,
+        85,
+        1540
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:32:4"
+      ]
+    },
+    "1540-9": {
+      "narrator_ids": [
+        1540,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:4:2"
+      ]
+    },
+    "204-1540": {
+      "narrator_ids": [
+        204,
+        1540
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:4:2"
+      ]
+    },
+    "341-127-536-1540": {
+      "narrator_ids": [
+        341,
+        127,
+        536,
+        1540
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:4:48"
+      ]
+    },
+    "536-1540": {
+      "narrator_ids": [
+        536,
+        1540
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:4:48"
+      ]
+    },
+    "6-8-39-204-1540-9": {
+      "narrator_ids": [
+        6,
+        8,
+        39,
+        204,
+        1540,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:4:2"
+      ]
+    },
+    "85-1540": {
+      "narrator_ids": [
+        85,
+        1540
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:32:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1540",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1540.json"
+  }
+}

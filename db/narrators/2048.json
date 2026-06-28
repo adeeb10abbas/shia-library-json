@@ -1,0 +1,54 @@
+{
+  "id": 2048,
+  "type": "narrator",
+  "path": "/people/narrators/2048",
+  "titles": {
+    "ar": "أَبِي جَرِيرٍ الرَّوَّاسِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:4:25:10",
+    "/books/tahdhib-al-ahkam:2:15:61"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "10-2048": {
+      "narrator_ids": [
+        10,
+        2048
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:25:10",
+        "/books/tahdhib-al-ahkam:2:15:61"
+      ]
+    },
+    "11-10-2048": {
+      "narrator_ids": [
+        11,
+        10,
+        2048
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:15:61"
+      ]
+    },
+    "92-10-2048": {
+      "narrator_ids": [
+        92,
+        10,
+        2048
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:25:10"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2048",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2048.json"
+  }
+}

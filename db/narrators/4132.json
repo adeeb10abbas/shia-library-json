@@ -1,0 +1,43 @@
+{
+  "id": 4132,
+  "type": "narrator",
+  "path": "/people/narrators/4132",
+  "titles": {
+    "ar": "مُحَمَّدُ بْنُ أَحْمَدَ بْنِ الصَّلْتِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:43:78"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "4132-593": {
+      "narrator_ids": [
+        4132,
+        593
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:78"
+      ]
+    },
+    "4132-593-26-293": {
+      "narrator_ids": [
+        4132,
+        593,
+        26,
+        293
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:78"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4132",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4132.json"
+  }
+}

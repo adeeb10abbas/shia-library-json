@@ -1,0 +1,46 @@
+{
+  "id": 3522,
+  "type": "narrator",
+  "path": "/people/narrators/3522",
+  "titles": {
+    "ar": "عَبْدِ الْعَزِيزِ الْقَرَاطِيسِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:21:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "4-59-37-1338-1192-4216-3522": {
+      "narrator_ids": [
+        4,
+        59,
+        37,
+        1338,
+        1192,
+        4216,
+        3522
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:21:2"
+      ]
+    },
+    "4216-3522": {
+      "narrator_ids": [
+        4216,
+        3522
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:21:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3522",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3522.json"
+  }
+}

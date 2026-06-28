@@ -1,0 +1,85 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:11:18",
+  "chapter": {
+    "path": "/books/al-khisal:11:18",
+    "titles": {
+      "en": "One’s safety lies in ten things"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:11:18:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:11:18:1",
+        "parts": [
+          11,
+          18,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 11,
+        "book": 18,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:11:18",
+        "titles": {
+          "en": "One’s safety lies in ten things"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا محمد بن الحسن الصفار، عن العباس بن المعروف، عن علي بن مهزيار بإسناده يرفعه قال: يأتي على الناس زمان تكون العافيه فيه عشرة أجزاء تسعة منها في اعتزال الناس وواحده في الصمت"
+        ],
+        "text": ": حدثنا محمد بن الحسن الصفار، عن العباس بن المعروف، عن علي بن مهزيار بإسناده يرفعه قال: يأتي على الناس زمان تكون العافيه فيه عشرة أجزاء تسعة منها في اعتزال الناس وواحده في الصمت"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "10-24 Muhammad ibn al-Hassan ibn Ahmad ibn al-Walid - may God be pleased with him - narrated that Muhammad ibn al-Hassan al-Saffar quoted Al-Ab’bas ibn Ma’ruf, on the authority of Ali ibn Mahzyar who linked it up through a chain of narrators, “A time shall come when one’s safety depends on ten things. Nine of these ten are in staying away from the people and the tenth is in being quiet.”"
+          ],
+          "text": "10-24 Muhammad ibn al-Hassan ibn Ahmad ibn al-Walid - may God be pleased with him - narrated that Muhammad ibn al-Hassan al-Saffar quoted Al-Ab’bas ibn Ma’ruf, on the authority of Ali ibn Mahzyar who linked it up through a chain of narrators, “A time shall come when one’s safety depends on ten things. Nine of these ten are in staying away from the people and the tenth is in being quiet.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "10-24 حدثنا محمد بن الحسن بن أحمد بن الوليد رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "10-24 حدثنا "
+          },
+          {
+            "kind": "plain",
+            "text": "محمد بن الحسن بن أحمد بن الوليد رضي الله عنه قال"
+          }
+        ],
+        "narratorPaths": []
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:11:18:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/11/18/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/11/17/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

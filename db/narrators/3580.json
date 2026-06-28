@@ -1,0 +1,44 @@
+{
+  "id": 3580,
+  "type": "narrator",
+  "path": "/people/narrators/3580",
+  "titles": {
+    "ar": "عَبْدِ اللَّهِ بْنِ سَعِيدٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:99:11"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "124-3580": {
+      "narrator_ids": [
+        124,
+        3580
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:99:11"
+      ]
+    },
+    "19-187-292-124-3580": {
+      "narrator_ids": [
+        19,
+        187,
+        292,
+        124,
+        3580
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:99:11"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3580",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3580.json"
+  }
+}

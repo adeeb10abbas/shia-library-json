@@ -1,0 +1,124 @@
+{
+  "id": 1541,
+  "type": "narrator",
+  "path": "/people/narrators/1541",
+  "titles": {
+    "ar": "عَبْدِ اللَّهِ بْنِ عَاصِمٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:1:41:5",
+    "/books/al-kafi:6:7:37:9",
+    "/books/tahdhib-al-ahkam:1:23:53",
+    "/books/tahdhib-al-ahkam:1:23:54",
+    "/books/tahdhib-al-ahkam:1:23:55"
+  ],
+  "verseCount": 5,
+  "relations": {},
+  "subchains": {
+    "143-1541": {
+      "narrator_ids": [
+        143,
+        1541
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:23:55"
+      ]
+    },
+    "1541-642": {
+      "narrator_ids": [
+        1541,
+        642
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:37:9"
+      ]
+    },
+    "20-25-61-52-1541": {
+      "narrator_ids": [
+        20,
+        25,
+        61,
+        52,
+        1541
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:1:41:5"
+      ]
+    },
+    "27-1541": {
+      "narrator_ids": [
+        27,
+        1541
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:37:9"
+      ]
+    },
+    "52-1541": {
+      "narrator_ids": [
+        52,
+        1541
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:1:41:5",
+        "/books/tahdhib-al-ahkam:1:23:53",
+        "/books/tahdhib-al-ahkam:1:23:54"
+      ]
+    },
+    "6-8-27-1541-642-192-220": {
+      "narrator_ids": [
+        6,
+        8,
+        27,
+        1541,
+        642,
+        192,
+        220
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:37:9"
+      ]
+    },
+    "82-52-1541": {
+      "narrator_ids": [
+        82,
+        52,
+        1541
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:23:54"
+      ]
+    },
+    "865-143-1541": {
+      "narrator_ids": [
+        865,
+        143,
+        1541
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:23:55"
+      ]
+    },
+    "952-20-25-61-52-1541": {
+      "narrator_ids": [
+        952,
+        20,
+        25,
+        61,
+        52,
+        1541
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:23:53"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1541",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1541.json"
+  }
+}

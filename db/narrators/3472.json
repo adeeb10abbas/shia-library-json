@@ -1,0 +1,52 @@
+{
+  "id": 3472,
+  "type": "narrator",
+  "path": "/people/narrators/3472",
+  "titles": {
+    "ar": "عَبَّاسِ بْنِ عَمْرٍو الْفُقَيْمِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:3:1:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2-3472": {
+      "narrator_ids": [
+        2,
+        3472
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:1:5"
+      ]
+    },
+    "3-2-3472-125": {
+      "narrator_ids": [
+        3,
+        2,
+        3472,
+        125
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:1:5"
+      ]
+    },
+    "3472-125": {
+      "narrator_ids": [
+        3472,
+        125
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:1:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3472",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3472.json"
+  }
+}

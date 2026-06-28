@@ -1,0 +1,53 @@
+{
+  "id": 2400,
+  "type": "narrator",
+  "path": "/people/narrators/2400",
+  "titles": {
+    "ar": "إِسْحَاقَ الطَّوِيلِ الْعَطَّارِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:8:48:18"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2400-669": {
+      "narrator_ids": [
+        2400,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:48:18"
+      ]
+    },
+    "3376-2400": {
+      "narrator_ids": [
+        3376,
+        2400
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:48:18"
+      ]
+    },
+    "4-29-3376-2400-669": {
+      "narrator_ids": [
+        4,
+        29,
+        3376,
+        2400,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:48:18"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2400",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2400.json"
+  }
+}

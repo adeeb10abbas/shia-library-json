@@ -1,0 +1,65 @@
+{
+  "id": 2964,
+  "type": "narrator",
+  "path": "/people/narrators/2964",
+  "titles": {
+    "ar": "ثُوَيْرِ بْنِ أَبِي فَاخِتَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:25:9",
+    "/books/man-la-yahduruhu-al-faqih:3:2:32:10"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "242-2964": {
+      "narrator_ids": [
+        242,
+        2964
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:25:9"
+      ]
+    },
+    "2964-2": {
+      "narrator_ids": [
+        2964,
+        2
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:3:2:32:10"
+      ]
+    },
+    "2964-2-50": {
+      "narrator_ids": [
+        2964,
+        2,
+        50
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:3:2:32:10"
+      ]
+    },
+    "6-8-53-93-242-2964": {
+      "narrator_ids": [
+        6,
+        8,
+        53,
+        93,
+        242,
+        2964
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:25:9"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2964",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2964.json"
+  }
+}

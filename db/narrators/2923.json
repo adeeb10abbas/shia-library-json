@@ -1,0 +1,52 @@
+{
+  "id": 2923,
+  "type": "narrator",
+  "path": "/people/narrators/2923",
+  "titles": {
+    "ar": "بَعْضِ مَنْ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:1:1:28"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2923-669": {
+      "narrator_ids": [
+        2923,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:1:1:28"
+      ]
+    },
+    "5-2923": {
+      "narrator_ids": [
+        5,
+        2923
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:1:1:28"
+      ]
+    },
+    "6-5-2923-669": {
+      "narrator_ids": [
+        6,
+        5,
+        2923,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:1:1:28"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2923",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2923.json"
+  }
+}

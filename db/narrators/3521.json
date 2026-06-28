@@ -1,0 +1,44 @@
+{
+  "id": 3521,
+  "type": "narrator",
+  "path": "/people/narrators/3521",
+  "titles": {
+    "ar": "عَبْدِ الْعَزِيزِ الطَّوِيلِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:2:10:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3-2-7-3075-3521": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        3075,
+        3521
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:10:1"
+      ]
+    },
+    "3075-3521": {
+      "narrator_ids": [
+        3075,
+        3521
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:10:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3521",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3521.json"
+  }
+}

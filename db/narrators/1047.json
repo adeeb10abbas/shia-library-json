@@ -1,0 +1,92 @@
+{
+  "id": 1047,
+  "type": "narrator",
+  "path": "/people/narrators/1047",
+  "titles": {
+    "ar": "الْعَلَاءِ بْنِ كَامِلٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:49:14",
+    "/books/al-kafi:2:2:48:17",
+    "/books/al-kafi:2:2:48:33",
+    "/books/kitab-al-zuhd:2:3:8"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "11-119-60-44-1047": {
+      "narrator_ids": [
+        11,
+        119,
+        60,
+        44,
+        1047
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:48:33"
+      ]
+    },
+    "188-1047": {
+      "narrator_ids": [
+        188,
+        1047
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:49:14",
+        "/books/al-kafi:2:2:48:17",
+        "/books/kitab-al-zuhd:2:3:8"
+      ]
+    },
+    "3-2-23-188-1047": {
+      "narrator_ids": [
+        3,
+        2,
+        23,
+        188,
+        1047
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:48:17"
+      ]
+    },
+    "3-2-38-188-1047": {
+      "narrator_ids": [
+        3,
+        2,
+        38,
+        188,
+        1047
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:49:14"
+      ]
+    },
+    "38-188-1047": {
+      "narrator_ids": [
+        38,
+        188,
+        1047
+      ],
+      "verse_paths": [
+        "/books/kitab-al-zuhd:2:3:8"
+      ]
+    },
+    "44-1047": {
+      "narrator_ids": [
+        44,
+        1047
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:48:33"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1047",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1047.json"
+  }
+}

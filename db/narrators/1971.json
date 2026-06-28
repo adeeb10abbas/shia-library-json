@@ -1,0 +1,57 @@
+{
+  "id": 1971,
+  "type": "narrator",
+  "path": "/people/narrators/1971",
+  "titles": {
+    "ar": "أَبِي الْحَسَنِ السَّابَاطِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:1:4:1",
+    "/books/tahdhib-al-ahkam:9:10:1"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "13-63-161-1971": {
+      "narrator_ids": [
+        13,
+        63,
+        161,
+        1971
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:10:1"
+      ]
+    },
+    "161-1971": {
+      "narrator_ids": [
+        161,
+        1971
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:1:4:1",
+        "/books/tahdhib-al-ahkam:9:10:1"
+      ]
+    },
+    "6-13-63-161-1971": {
+      "narrator_ids": [
+        6,
+        13,
+        63,
+        161,
+        1971
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:1:4:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1971",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1971.json"
+  }
+}

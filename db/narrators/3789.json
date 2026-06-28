@@ -1,0 +1,69 @@
+{
+  "id": 3789,
+  "type": "narrator",
+  "path": "/people/narrators/3789",
+  "titles": {
+    "ar": "عَلِيِّ بْنِ عَبْدِ اللَّهِ بْنِ مَرْوَانَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:234:3",
+    "/books/kamil-al-ziyarat:2:99:11"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "3789-476": {
+      "narrator_ids": [
+        3789,
+        476
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:234:3",
+        "/books/kamil-al-ziyarat:2:99:11"
+      ]
+    },
+    "3804-3789": {
+      "narrator_ids": [
+        3804,
+        3789
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:234:3",
+        "/books/kamil-al-ziyarat:2:99:11"
+      ]
+    },
+    "4-535-3804-3789-476": {
+      "narrator_ids": [
+        4,
+        535,
+        3804,
+        3789,
+        476
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:234:3"
+      ]
+    },
+    "952-4-535-3804-3789-476": {
+      "narrator_ids": [
+        952,
+        4,
+        535,
+        3804,
+        3789,
+        476
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:99:11"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3789",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3789.json"
+  }
+}

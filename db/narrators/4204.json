@@ -1,0 +1,54 @@
+{
+  "id": 4204,
+  "type": "narrator",
+  "path": "/people/narrators/4204",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ تَسْنِيمٍ الْكَاتِبِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:2:34:6"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "349-4204": {
+      "narrator_ids": [
+        349,
+        4204
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:2:34:6"
+      ]
+    },
+    "4204-3503": {
+      "narrator_ids": [
+        4204,
+        3503
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:2:34:6"
+      ]
+    },
+    "5-349-4204-3503-42-3878": {
+      "narrator_ids": [
+        5,
+        349,
+        4204,
+        3503,
+        42,
+        3878
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:2:34:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4204",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4204.json"
+  }
+}

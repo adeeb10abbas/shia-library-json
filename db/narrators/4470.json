@@ -1,0 +1,53 @@
+{
+  "id": 4470,
+  "type": "narrator",
+  "path": "/people/narrators/4470",
+  "titles": {
+    "ar": "نَصْرِ بْنِ إِسْحَاقَ الْكُوفِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:66:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "10-4470": {
+      "narrator_ids": [
+        10,
+        4470
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:66:1"
+      ]
+    },
+    "4470-3464": {
+      "narrator_ids": [
+        4470,
+        3464
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:66:1"
+      ]
+    },
+    "6-5-10-4470-3464": {
+      "narrator_ids": [
+        6,
+        5,
+        10,
+        4470,
+        3464
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:66:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4470",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4470.json"
+  }
+}

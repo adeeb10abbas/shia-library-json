@@ -1,0 +1,56 @@
+{
+  "id": 2301,
+  "type": "narrator",
+  "path": "/people/narrators/2301",
+  "titles": {
+    "ar": "أَحْمَدَ بْنِ زِيَادِ بْنِ أَرْقَمَ الْكُوفِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:58:9"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2301-60": {
+      "narrator_ids": [
+        2301,
+        60
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:58:9"
+      ]
+    },
+    "6-12-500-712-622-2301-60-669": {
+      "narrator_ids": [
+        6,
+        12,
+        500,
+        712,
+        622,
+        2301,
+        60,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:58:9"
+      ]
+    },
+    "622-2301": {
+      "narrator_ids": [
+        622,
+        2301
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:58:9"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2301",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2301.json"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": 2845,
+  "type": "narrator",
+  "path": "/people/narrators/2845",
+  "titles": {
+    "ar": "أُمِّهِ أُمِّ سَلَمَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:3:52:3",
+    "/books/tahdhib-al-ahkam:3:21:3"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "11-3-2-7-4326-2845": {
+      "narrator_ids": [
+        11,
+        3,
+        2,
+        7,
+        4326,
+        2845
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:3:21:3"
+      ]
+    },
+    "3-2-7-4326-2845": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        4326,
+        2845
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:52:3"
+      ]
+    },
+    "4326-2845": {
+      "narrator_ids": [
+        4326,
+        2845
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:52:3",
+        "/books/tahdhib-al-ahkam:3:21:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2845",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2845.json"
+  }
+}

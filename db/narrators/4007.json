@@ -1,0 +1,150 @@
+{
+  "id": 4007,
+  "type": "narrator",
+  "path": "/people/narrators/4007",
+  "titles": {
+    "ar": "فُضَيْلٍ الرَّسَّانِ"
+  },
+  "versePaths": [
+    "/books/al-amali-mufid:23:41:1",
+    "/books/al-kafi:6:6:76:6",
+    "/books/kamil-al-ziyarat:2:23:4",
+    "/books/kitab-al-ghayba-numani:2:4:17",
+    "/books/tahdhib-al-ahkam:1:32:19"
+  ],
+  "verseCount": 5,
+  "relations": {},
+  "subchains": {
+    "11-642-4007": {
+      "narrator_ids": [
+        11,
+        642,
+        4007
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:32:19"
+      ]
+    },
+    "1490-4007": {
+      "narrator_ids": [
+        1490,
+        4007
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:76:6"
+      ]
+    },
+    "27-1132-42-4007": {
+      "narrator_ids": [
+        27,
+        1132,
+        42,
+        4007
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-numani:2:4:17"
+      ]
+    },
+    "3453-4007": {
+      "narrator_ids": [
+        3453,
+        4007
+      ],
+      "verse_paths": [
+        "/books/al-amali-mufid:23:41:1"
+      ]
+    },
+    "4007-1615": {
+      "narrator_ids": [
+        4007,
+        1615
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:76:6"
+      ]
+    },
+    "4007-1727": {
+      "narrator_ids": [
+        4007,
+        1727
+      ],
+      "verse_paths": [
+        "/books/al-amali-mufid:23:41:1"
+      ]
+    },
+    "42-4007": {
+      "narrator_ids": [
+        42,
+        4007
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-numani:2:4:17"
+      ]
+    },
+    "49-94-202-1490-4007-1615-9": {
+      "narrator_ids": [
+        49,
+        94,
+        202,
+        1490,
+        4007,
+        1615,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:76:6"
+      ]
+    },
+    "613-312-355-4118-185-79-4007": {
+      "narrator_ids": [
+        613,
+        312,
+        355,
+        4118,
+        185,
+        79,
+        4007
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:23:4"
+      ]
+    },
+    "642-4007": {
+      "narrator_ids": [
+        642,
+        4007
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:32:19"
+      ]
+    },
+    "79-4007": {
+      "narrator_ids": [
+        79,
+        4007
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:23:4"
+      ]
+    },
+    "81-3453-4007-1727": {
+      "narrator_ids": [
+        81,
+        3453,
+        4007,
+        1727
+      ],
+      "verse_paths": [
+        "/books/al-amali-mufid:23:41:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4007",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4007.json"
+  }
+}

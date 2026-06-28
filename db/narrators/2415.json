@@ -1,0 +1,44 @@
+{
+  "id": 2415,
+  "type": "narrator",
+  "path": "/people/narrators/2415",
+  "titles": {
+    "ar": "إِسْحَاقَ بَيَّاعِ اللُّؤْلُؤِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:152:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "19-24-30-51-2415": {
+      "narrator_ids": [
+        19,
+        24,
+        30,
+        51,
+        2415
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:152:4"
+      ]
+    },
+    "51-2415": {
+      "narrator_ids": [
+        51,
+        2415
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:152:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2415",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2415.json"
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "id": 1515,
+  "type": "narrator",
+  "path": "/people/narrators/1515",
+  "titles": {
+    "ar": "عَبْدِ الرَّحْمَنِ بْنِ أَبِي هَاشِمٍ الْبَجَلِيِّ"
+  },
+  "versePaths": [
+    "/books/al-istibsar:1:125:48",
+    "/books/al-kafi:3:4:5:6",
+    "/books/al-kafi:4:3:185:8",
+    "/books/man-la-yahduruhu-al-faqih:4:6:4",
+    "/books/tahdhib-al-ahkam:10:2:153",
+    "/books/tahdhib-al-ahkam:2:13:63",
+    "/books/tahdhib-al-ahkam:5:16:82"
+  ],
+  "verseCount": 7,
+  "relations": {},
+  "subchains": {
+    "11-4-29-1515-207": {
+      "narrator_ids": [
+        11,
+        4,
+        29,
+        1515,
+        207
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:16:82"
+      ]
+    },
+    "1515-207": {
+      "narrator_ids": [
+        1515,
+        207
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:185:8",
+        "/books/man-la-yahduruhu-al-faqih:4:6:4",
+        "/books/tahdhib-al-ahkam:10:2:153",
+        "/books/tahdhib-al-ahkam:5:16:82"
+      ]
+    },
+    "1515-3300": {
+      "narrator_ids": [
+        1515,
+        3300
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:5:6",
+        "/books/tahdhib-al-ahkam:2:13:63"
+      ]
+    },
+    "1515-669": {
+      "narrator_ids": [
+        1515,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:125:48"
+      ]
+    },
+    "29-1515": {
+      "narrator_ids": [
+        29,
+        1515
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:125:48",
+        "/books/al-kafi:3:4:5:6",
+        "/books/al-kafi:4:3:185:8",
+        "/books/tahdhib-al-ahkam:10:2:153",
+        "/books/tahdhib-al-ahkam:2:13:63",
+        "/books/tahdhib-al-ahkam:5:16:82"
+      ]
+    },
+    "4-29-1515-207": {
+      "narrator_ids": [
+        4,
+        29,
+        1515,
+        207
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:185:8"
+      ]
+    },
+    "4-29-1515-3300-669": {
+      "narrator_ids": [
+        4,
+        29,
+        1515,
+        3300,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:5:6",
+        "/books/tahdhib-al-ahkam:2:13:63"
+      ]
+    },
+    "4134-29-1515-207": {
+      "narrator_ids": [
+        4134,
+        29,
+        1515,
+        207
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:10:2:153"
+      ]
+    },
+    "952-4-29-1515-669": {
+      "narrator_ids": [
+        952,
+        4,
+        29,
+        1515,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:125:48"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1515",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1515.json"
+  }
+}

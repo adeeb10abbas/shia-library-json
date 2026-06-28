@@ -1,0 +1,56 @@
+{
+  "id": 3499,
+  "type": "narrator",
+  "path": "/people/narrators/3499",
+  "titles": {
+    "ar": "عَبْدِ الرَّحْمَنِ بْنِ عَبْدِ اللَّهِ الْخُزَاعِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:117:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2611-274-321-3499-1211-117-72-9": {
+      "narrator_ids": [
+        2611,
+        274,
+        321,
+        3499,
+        1211,
+        117,
+        72,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:117:1"
+      ]
+    },
+    "321-3499": {
+      "narrator_ids": [
+        321,
+        3499
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:117:1"
+      ]
+    },
+    "3499-1211": {
+      "narrator_ids": [
+        3499,
+        1211
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:117:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3499",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3499.json"
+  }
+}

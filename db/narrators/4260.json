@@ -1,0 +1,56 @@
+{
+  "id": 4260,
+  "type": "narrator",
+  "path": "/people/narrators/4260",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ عَبْدِ اللَّهِ الْهَاشِمِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:3:28:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "142-4260": {
+      "narrator_ids": [
+        142,
+        4260
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:28:3"
+      ]
+    },
+    "4260-2364": {
+      "narrator_ids": [
+        4260,
+        2364
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:28:3"
+      ]
+    },
+    "6-8-453-142-4260-2364-1575-669": {
+      "narrator_ids": [
+        6,
+        8,
+        453,
+        142,
+        4260,
+        2364,
+        1575,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:28:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4260",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4260.json"
+  }
+}

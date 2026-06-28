@@ -1,0 +1,55 @@
+{
+  "id": 4517,
+  "type": "narrator",
+  "path": "/people/narrators/4517",
+  "titles": {
+    "ar": "هَيْثَمِ بْنِ بَشِيرٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:3:63:13"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1845-4517": {
+      "narrator_ids": [
+        1845,
+        4517
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:63:13"
+      ]
+    },
+    "4517-2034": {
+      "narrator_ids": [
+        4517,
+        2034
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:63:13"
+      ]
+    },
+    "59-37-500-1845-4517-2034-50": {
+      "narrator_ids": [
+        59,
+        37,
+        500,
+        1845,
+        4517,
+        2034,
+        50
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:63:13"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4517",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4517.json"
+  }
+}

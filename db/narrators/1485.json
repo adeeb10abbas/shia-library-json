@@ -1,0 +1,87 @@
+{
+  "id": 1485,
+  "type": "narrator",
+  "path": "/people/narrators/1485",
+  "titles": {
+    "ar": "سَعْدِ بْنِ أَبِي عَمْرٍو الْجَلَّابِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:3:148:2",
+    "/books/al-kafi:5:3:155:2",
+    "/books/tahdhib-al-ahkam:2:13:29"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "11-27-1485": {
+      "narrator_ids": [
+        11,
+        27,
+        1485
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:13:29"
+      ]
+    },
+    "11-67-73-1485-669": {
+      "narrator_ids": [
+        11,
+        67,
+        73,
+        1485,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:155:2"
+      ]
+    },
+    "1485-669": {
+      "narrator_ids": [
+        1485,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:155:2"
+      ]
+    },
+    "27-1485": {
+      "narrator_ids": [
+        27,
+        1485
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:13:29"
+      ]
+    },
+    "4-5-15-73-1485": {
+      "narrator_ids": [
+        4,
+        5,
+        15,
+        73,
+        1485
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:148:2"
+      ]
+    },
+    "73-1485": {
+      "narrator_ids": [
+        73,
+        1485
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:148:2",
+        "/books/al-kafi:5:3:155:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1485",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1485.json"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": 2798,
+  "type": "narrator",
+  "path": "/people/narrators/2798",
+  "titles": {
+    "ar": "الْمُطَرِّفِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:122:11"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1467-2798": {
+      "narrator_ids": [
+        1467,
+        2798
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:122:11"
+      ]
+    },
+    "6-5-122-129-1467-2798": {
+      "narrator_ids": [
+        6,
+        5,
+        122,
+        129,
+        1467,
+        2798
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:122:11"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2798",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2798.json"
+  }
+}

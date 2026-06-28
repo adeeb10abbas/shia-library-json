@@ -1,0 +1,44 @@
+{
+  "id": 4563,
+  "type": "narrator",
+  "path": "/people/narrators/4563",
+  "titles": {
+    "ar": "يَحْيَى بْنِ عُبَادَةَ الْمَكِّيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:3:24:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "174-4563": {
+      "narrator_ids": [
+        174,
+        4563
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:24:2"
+      ]
+    },
+    "4-5-130-174-4563": {
+      "narrator_ids": [
+        4,
+        5,
+        130,
+        174,
+        4563
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:24:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4563",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4563.json"
+  }
+}

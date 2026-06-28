@@ -1,0 +1,42 @@
+{
+  "id": 2513,
+  "type": "narrator",
+  "path": "/people/narrators/2513",
+  "titles": {
+    "ar": "الْحَسَنِ [بْنِ إِبْرَاهِيمَ] بْنِ مُحَمَّدٍ الْهَمَذَانِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:1:37:10"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "4-5-2513": {
+      "narrator_ids": [
+        4,
+        5,
+        2513
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:1:37:10"
+      ]
+    },
+    "5-2513": {
+      "narrator_ids": [
+        5,
+        2513
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:1:37:10"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2513",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2513.json"
+  }
+}

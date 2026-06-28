@@ -1,0 +1,43 @@
+{
+  "id": 1952,
+  "type": "narrator",
+  "path": "/people/narrators/1952",
+  "titles": {
+    "ar": "أَبِي إِسْمَاعِيلَ ."
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:6:10"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "15-1952": {
+      "narrator_ids": [
+        15,
+        1952
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:6:10"
+      ]
+    },
+    "4-144-15-1952": {
+      "narrator_ids": [
+        4,
+        144,
+        15,
+        1952
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:6:10"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1952",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1952.json"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": 3679,
+  "type": "narrator",
+  "path": "/people/narrators/3679",
+  "titles": {
+    "ar": "عُثْمَانَ بْنِ عَفَّانَ السَّدُوسِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:8:43:21"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3679-580": {
+      "narrator_ids": [
+        3679,
+        580
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:43:21"
+      ]
+    },
+    "6-8-27-622-3679-580": {
+      "narrator_ids": [
+        6,
+        8,
+        27,
+        622,
+        3679,
+        580
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:43:21"
+      ]
+    },
+    "622-3679": {
+      "narrator_ids": [
+        622,
+        3679
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:43:21"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3679",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3679.json"
+  }
+}

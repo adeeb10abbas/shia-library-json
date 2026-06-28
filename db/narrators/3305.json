@@ -1,0 +1,75 @@
+{
+  "id": 3305,
+  "type": "narrator",
+  "path": "/people/narrators/3305",
+  "titles": {
+    "ar": "سَالِمَةَ مَوْلَاةِ أَبِي عَبْدِ اللَّهِ ( عليه السلام )"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:1:35:10",
+    "/books/kitab-al-ghayba-tusi:32:2"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "140-3305": {
+      "narrator_ids": [
+        140,
+        3305
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:1:35:10"
+      ]
+    },
+    "317-97-13-53-137-608-3305": {
+      "narrator_ids": [
+        317,
+        97,
+        13,
+        53,
+        137,
+        608,
+        3305
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:32:2"
+      ]
+    },
+    "6-5-53-137-608-3-2-17-33-7-140-3305": {
+      "narrator_ids": [
+        6,
+        5,
+        53,
+        137,
+        608,
+        3,
+        2,
+        17,
+        33,
+        7,
+        140,
+        3305
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:1:35:10"
+      ]
+    },
+    "608-3305": {
+      "narrator_ids": [
+        608,
+        3305
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:32:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3305",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3305.json"
+  }
+}

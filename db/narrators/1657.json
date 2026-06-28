@@ -1,0 +1,130 @@
+{
+  "id": 1657,
+  "type": "narrator",
+  "path": "/people/narrators/1657",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ زِيَادِ بْنِ عِيسَى"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:2:6:9",
+    "/books/al-kafi:8:1:43:62",
+    "/books/tahdhib-al-ahkam:4:40:12",
+    "/books/tahdhib-al-ahkam:4:41:2"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "11-5-1650-421-1657-241": {
+      "narrator_ids": [
+        11,
+        5,
+        1650,
+        421,
+        1657,
+        241
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:4:40:12"
+      ]
+    },
+    "1657-241": {
+      "narrator_ids": [
+        1657,
+        241
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:6:9",
+        "/books/tahdhib-al-ahkam:4:40:12",
+        "/books/tahdhib-al-ahkam:4:41:2"
+      ]
+    },
+    "1657-2647": {
+      "narrator_ids": [
+        1657,
+        2647
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:62"
+      ]
+    },
+    "3887-1657": {
+      "narrator_ids": [
+        3887,
+        1657
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:6:9"
+      ]
+    },
+    "4-13-63-43-1657-2647-669": {
+      "narrator_ids": [
+        4,
+        13,
+        63,
+        43,
+        1657,
+        2647,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:62"
+      ]
+    },
+    "421-1657": {
+      "narrator_ids": [
+        421,
+        1657
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:4:40:12",
+        "/books/tahdhib-al-ahkam:4:41:2"
+      ]
+    },
+    "43-1657": {
+      "narrator_ids": [
+        43,
+        1657
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:62"
+      ]
+    },
+    "5-2930-4123-421-3887-1657-241": {
+      "narrator_ids": [
+        5,
+        2930,
+        4123,
+        421,
+        3887,
+        1657,
+        241
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:6:9"
+      ]
+    },
+    "952-6-5-1650-4118-421-1657-241": {
+      "narrator_ids": [
+        952,
+        6,
+        5,
+        1650,
+        4118,
+        421,
+        1657,
+        241
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:4:41:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1657",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1657.json"
+  }
+}

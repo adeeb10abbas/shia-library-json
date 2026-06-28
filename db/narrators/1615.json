@@ -1,0 +1,55 @@
+{
+  "id": 1615,
+  "type": "narrator",
+  "path": "/people/narrators/1615",
+  "titles": {
+    "ar": "فَرْوَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:76:6"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1615-9": {
+      "narrator_ids": [
+        1615,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:76:6"
+      ]
+    },
+    "4007-1615": {
+      "narrator_ids": [
+        4007,
+        1615
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:76:6"
+      ]
+    },
+    "49-94-202-1490-4007-1615-9": {
+      "narrator_ids": [
+        49,
+        94,
+        202,
+        1490,
+        4007,
+        1615,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:76:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1615",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1615.json"
+  }
+}

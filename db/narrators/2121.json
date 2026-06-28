@@ -1,0 +1,42 @@
+{
+  "id": 2121,
+  "type": "narrator",
+  "path": "/people/narrators/2121",
+  "titles": {
+    "ar": "أَبِي طَيْفُورٍ الْمُتَطَبِّبِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:7:2:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "4162-2121": {
+      "narrator_ids": [
+        4162,
+        2121
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:2:2"
+      ]
+    },
+    "8-4162-2121": {
+      "narrator_ids": [
+        8,
+        4162,
+        2121
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:2:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2121",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2121.json"
+  }
+}

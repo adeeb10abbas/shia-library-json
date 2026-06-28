@@ -1,0 +1,92 @@
+{
+  "id": 2272,
+  "type": "narrator",
+  "path": "/people/narrators/2272",
+  "titles": {
+    "ar": "أَحْمَدَ بْنِ إِسْحَاقَ بْنِ سَعْدٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:117:4",
+    "/books/kamil-al-ziyarat:2:41:5",
+    "/books/kamil-al-ziyarat:2:79:12",
+    "/books/man-la-yahduruhu-al-faqih:4:175:135"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "1039-2272": {
+      "narrator_ids": [
+        1039,
+        2272
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:117:4",
+        "/books/kamil-al-ziyarat:2:41:5",
+        "/books/kamil-al-ziyarat:2:79:12"
+      ]
+    },
+    "1039-2272-255-307-148-669": {
+      "narrator_ids": [
+        1039,
+        2272,
+        255,
+        307,
+        148,
+        669
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:41:5"
+      ]
+    },
+    "1039-2272-255-994-60-669": {
+      "narrator_ids": [
+        1039,
+        2272,
+        255,
+        994,
+        60,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:117:4"
+      ]
+    },
+    "2272-255": {
+      "narrator_ids": [
+        2272,
+        255
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:117:4",
+        "/books/kamil-al-ziyarat:2:41:5"
+      ]
+    },
+    "2272-708": {
+      "narrator_ids": [
+        2272,
+        708
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:4:175:135"
+      ]
+    },
+    "2272-708-2": {
+      "narrator_ids": [
+        2272,
+        708,
+        2
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:4:175:135"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2272",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2272.json"
+  }
+}

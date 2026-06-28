@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-amali-mufid",
+  "chapterPath": "/books/al-amali-mufid:5:4",
+  "chapter": {
+    "path": "/books/al-amali-mufid:5:4",
+    "titles": {
+      "en": "Some companions who reneged"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-amali-mufid:5:4:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-amali-mufid",
+        "titles": {
+          "ar": "الأمالي (المفيد)",
+          "en": "Al-Amali (al-Mufid)"
+        },
+        "author": {
+          "ar": "الشيخ المفيد",
+          "en": "Shaykh al-Mufid"
+        }
+      },
+      "path": {
+        "source": "/books/al-amali-mufid:5:4:1",
+        "parts": [
+          5,
+          4,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 4,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-amali-mufid:5:4",
+        "titles": {
+          "en": "Some companions who reneged"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": أخبرني أبو بكر محمد بن عمر بن سالم الجعابي قال: حدثنا أبو عبد الله جعفر بن محمد الحسني قال: حدثنا أبو موسى عيسى بن مهران المستعطف  قال: أخبرنا عفان بن مسلم قال: حدثنا وهيب  قال: حدثنا عبد الله بن عثمان بن خثيم، عن ابن أبي مليكة، عن عائشة قالت: سمعت رسول الله صلى الله عليه وآله يقول: إني على الحوض أنظر من يرد علي منكم، وليقطعن برجال دوني، فأقول: يا رب أصحابي أصحابي، فيقال: إنك لا تدري ما عملوا بعدك، إنهم ما زالوا يرجعون على أعقابهم القهقري ."
+        ],
+        "text": ": أخبرني أبو بكر محمد بن عمر بن سالم الجعابي قال: حدثنا أبو عبد الله جعفر بن محمد الحسني قال: حدثنا أبو موسى عيسى بن مهران المستعطف  قال: أخبرنا عفان بن مسلم قال: حدثنا وهيب  قال: حدثنا عبد الله بن عثمان بن خثيم، عن ابن أبي مليكة، عن عائشة قالت: سمعت رسول الله صلى الله عليه وآله يقول: إني على الحوض أنظر من يرد علي منكم، وليقطعن برجال دوني، فأقول: يا رب أصحابي أصحابي، فيقال: إنك لا تدري ما عملوا بعدك، إنهم ما زالوا يرجعون على أعقابهم القهقري ."
+      },
+      "translations": {
+        "en.mulla-asgharali-m-m-jaffer": {
+          "segments": [
+            "4. He said: Abu Bakr, Muhammad ibn Ummar ibn Salim al-Ji’abi, reported to me from Abu Abdillah Ja’far ibn Muhammad a.-Hasani who reported from Abu Musa Isa ibn Mehran al-Must’ataf, who reported from Affan ibn Muslim, who reported from Waheeb, who reported from Abdullah ibn Uthman ibn Khuthaym who reported from Ibn Abi Maleekah, from Ayesha who said: I heard the Prophet, peace be upon him and his progeny, say: \"As if I am at the Pool (Kawthar) seeing those who arrive at me; and there are some who are pushed away from me, so I say: My Lord! (these are) my companions, my companions!\" Then the voice says: \"You do not know what they did after you. They continued to renege, by turning back on their heels.\""
+          ],
+          "text": "4. He said: Abu Bakr, Muhammad ibn Ummar ibn Salim al-Ji’abi, reported to me from Abu Abdillah Ja’far ibn Muhammad a.-Hasani who reported from Abu Musa Isa ibn Mehran al-Must’ataf, who reported from Affan ibn Muslim, who reported from Waheeb, who reported from Abdullah ibn Uthman ibn Khuthaym who reported from Ibn Abi Maleekah, from Ayesha who said: I heard the Prophet, peace be upon him and his progeny, say: \"As if I am at the Pool (Kawthar) seeing those who arrive at me; and there are some who are pushed away from me, so I say: My Lord! (these are) my companions, my companions!\" Then the voice says: \"You do not know what they did after you. They continued to renege, by turning back on their heels.\""
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "4 - قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "4 - "
+          },
+          {
+            "kind": "narrator",
+            "text": "قال",
+            "path": "/people/narrators/652"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/652"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-amali-mufid:5:4:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-amali-mufid/5/4/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/13/5/4/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

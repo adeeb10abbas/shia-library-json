@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:8:23",
+  "chapter": {
+    "path": "/books/al-khisal:8:23",
+    "titles": {
+      "en": "Seven Hearts would Not Taste the Sweetness of Belief"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:8:23:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:8:23:1",
+        "parts": [
+          8,
+          23,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 8,
+        "book": 23,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:8:23",
+        "titles": {
+          "en": "Seven Hearts would Not Taste the Sweetness of Belief"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا أحمد بن إدريس قال: حدثني محمد بن أحمد، عن سهل بن زياد، عن منصور، عن نصر الكوسج، عن مطرف مولى معن عن أبي عبد الله عليه السلام قال: لايدخل حلاوة الايمان قلب سندي، والزنجي، ولاخوزي ولاكردي، ولا بربري، ولا نبك الري، ولامن حملته أمه من الزنا."
+        ],
+        "text": ": حدثنا أحمد بن إدريس قال: حدثني محمد بن أحمد، عن سهل بن زياد، عن منصور، عن نصر الكوسج، عن مطرف مولى معن عن أبي عبد الله عليه السلام قال: لايدخل حلاوة الايمان قلب سندي، والزنجي، ولاخوزي ولاكردي، ولا بربري، ولا نبك الري، ولامن حملته أمه من الزنا."
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "7-33 (The compiler of the book narrated) that his father (ra) narrated that Ahmad ibn Idris quoted Muhammad ibn Ahmad, on the authority of Sahl ibn Zyad, on the authority of Mansoor, on the authority of Nasr al-Kowsaj, on the authority of Mutrif - a servant of Ma’an, on the authority of Aba Abdullah (AS), “Seven hearts would not taste the sweetness of belief: the Sindhi, the Zanji, the Khuzestani, the Kurdish, the Berbers, those who reside in the hills of Ray, and those born of adultery.”"
+          ],
+          "text": "7-33 (The compiler of the book narrated) that his father (ra) narrated that Ahmad ibn Idris quoted Muhammad ibn Ahmad, on the authority of Sahl ibn Zyad, on the authority of Mansoor, on the authority of Nasr al-Kowsaj, on the authority of Mutrif - a servant of Ma’an, on the authority of Aba Abdullah (AS), “Seven hearts would not taste the sweetness of belief: the Sindhi, the Zanji, the Khuzestani, the Kurdish, the Berbers, those who reside in the hills of Ray, and those born of adultery.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "7-33 حدثنا أبي رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "7-33 حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي رضي الله عنه قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:8:23:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/8/23/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/8/23/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

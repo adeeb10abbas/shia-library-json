@@ -1,0 +1,45 @@
+{
+  "id": 2949,
+  "type": "narrator",
+  "path": "/people/narrators/2949",
+  "titles": {
+    "ar": "تَمِيمِ بْنِ حَاتِمٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:43:54"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-538-42-51-177-2949": {
+      "narrator_ids": [
+        11,
+        538,
+        42,
+        51,
+        177,
+        2949
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:54"
+      ]
+    },
+    "177-2949": {
+      "narrator_ids": [
+        177,
+        2949
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:54"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2949",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2949.json"
+  }
+}

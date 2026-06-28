@@ -1,0 +1,142 @@
+{
+  "id": 2020,
+  "type": "narrator",
+  "path": "/people/narrators/2020",
+  "titles": {
+    "ar": "أَبِي الْيَسَعِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:43:55",
+    "/books/al-tawhid:2:67:13",
+    "/books/al-tawhid:2:67:14",
+    "/books/kamil-al-ziyarat:2:76:2",
+    "/books/kamil-al-ziyarat:2:80:2"
+  ],
+  "verseCount": 5,
+  "relations": {},
+  "subchains": {
+    "19-24-30-2020-522": {
+      "narrator_ids": [
+        19,
+        24,
+        30,
+        2020,
+        522
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:55"
+      ]
+    },
+    "2020-123": {
+      "narrator_ids": [
+        2020,
+        123
+      ],
+      "verse_paths": [
+        "/books/al-tawhid:2:67:14"
+      ]
+    },
+    "2020-168": {
+      "narrator_ids": [
+        2020,
+        168
+      ],
+      "verse_paths": [
+        "/books/al-tawhid:2:67:13"
+      ]
+    },
+    "2020-522": {
+      "narrator_ids": [
+        2020,
+        522
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:55"
+      ]
+    },
+    "30-2020": {
+      "narrator_ids": [
+        30,
+        2020
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:55"
+      ]
+    },
+    "355-13-277-76-2020": {
+      "narrator_ids": [
+        355,
+        13,
+        277,
+        76,
+        2020
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:76:2"
+      ]
+    },
+    "4521-2020": {
+      "narrator_ids": [
+        4521,
+        2020
+      ],
+      "verse_paths": [
+        "/books/al-tawhid:2:67:13",
+        "/books/al-tawhid:2:67:14"
+      ]
+    },
+    "4521-2020-123": {
+      "narrator_ids": [
+        4521,
+        2020,
+        123
+      ],
+      "verse_paths": [
+        "/books/al-tawhid:2:67:14"
+      ]
+    },
+    "4521-2020-168-9": {
+      "narrator_ids": [
+        4521,
+        2020,
+        168,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-tawhid:2:67:13"
+      ]
+    },
+    "613-312-355-517-189-76-2020": {
+      "narrator_ids": [
+        613,
+        312,
+        355,
+        517,
+        189,
+        76,
+        2020
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:80:2"
+      ]
+    },
+    "76-2020": {
+      "narrator_ids": [
+        76,
+        2020
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:76:2",
+        "/books/kamil-al-ziyarat:2:80:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2020",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2020.json"
+  }
+}

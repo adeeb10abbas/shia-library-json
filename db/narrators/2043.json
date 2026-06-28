@@ -1,0 +1,45 @@
+{
+  "id": 2043,
+  "type": "narrator",
+  "path": "/people/narrators/2043",
+  "titles": {
+    "ar": "أَبِي بَكْرِ بْنِ مُحَمَّدٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:44:48"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2-2043": {
+      "narrator_ids": [
+        2,
+        2043
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:44:48"
+      ]
+    },
+    "4-13-529-571-2-2043": {
+      "narrator_ids": [
+        4,
+        13,
+        529,
+        571,
+        2,
+        2043
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:44:48"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2043",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2043.json"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": 4067,
+  "type": "narrator",
+  "path": "/people/narrators/4067",
+  "titles": {
+    "ar": "كَثِيرِ بْنِ يُونُسَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:46:9"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "20-297-4067-398": {
+      "narrator_ids": [
+        20,
+        297,
+        4067,
+        398
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:46:9"
+      ]
+    },
+    "297-4067": {
+      "narrator_ids": [
+        297,
+        4067
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:46:9"
+      ]
+    },
+    "4067-398": {
+      "narrator_ids": [
+        4067,
+        398
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:46:9"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4067",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4067.json"
+  }
+}

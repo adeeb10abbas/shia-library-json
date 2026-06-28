@@ -1,0 +1,139 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "mujam-al-ahadith-al-mutabara",
+  "chapterPath": "/books/mujam-al-ahadith-al-mutabara:3:70",
+  "chapter": {
+    "path": "/books/mujam-al-ahadith-al-mutabara:3:70",
+    "titles": {
+      "en": "Isa b. Abi Mansur Shalqan"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "mujam-al-ahadith-al-mutabara:3:70:1",
+      "type": "hadith",
+      "book": {
+        "slug": "mujam-al-ahadith-al-mutabara",
+        "titles": {
+          "ar": "معجم الأحاديث المعتبرة",
+          "en": "Mu'jam al-Ahadith al-Mu'tabara"
+        },
+        "author": {
+          "en": "Muhammad Asif al-Muhsini"
+        }
+      },
+      "path": {
+        "source": "/books/mujam-al-ahadith-al-mutabara:3:70:1",
+        "parts": [
+          3,
+          70,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 70,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/mujam-al-ahadith-al-mutabara:3:70",
+        "titles": {
+          "en": "Isa b. Abi Mansur Shalqan"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": كنت عند أبي عبد الله عليه السلام إذ اقبل عيسى بن أبي منصور فقال لى: إذا أردت أن تنظر خيارا في الدنيا خيارا في الآخرة فانظر اليه"
+        ],
+        "text": ": كنت عند أبي عبد الله عليه السلام إذ اقبل عيسى بن أبي منصور فقال لى: إذا أردت أن تنظر خيارا في الدنيا خيارا في الآخرة فانظر اليه"
+      },
+      "translations": {
+        "en.ammaar-muslim": {
+          "segments": [
+            "1. [1/215] al-Faqih: Muhammad b. al-Hasan from Muhammad b. al-Hasan al-Saffar from Ya`qub b. Yazid from Ibn Abi Umayr from Ibrahim b. Abd al-Hamid from Abdallah b. Sinan from Ibn Abi Ya`fur who said: I was with Abi Abdillah عليه السلام when Isa b. Abi Mansur approached, he [the Imam] said to me: if you want to catch a glimpse of someone who is the best in the world and the best in the hereafter then look at him."
+          ],
+          "text": "1. [1/215] al-Faqih: Muhammad b. al-Hasan from Muhammad b. al-Hasan al-Saffar from Ya`qub b. Yazid from Ibn Abi Umayr from Ibrahim b. Abd al-Hamid from Abdallah b. Sinan from Ibn Abi Ya`fur who said: I was with Abi Abdillah عليه السلام when Isa b. Abi Mansur approached, he [the Imam] said to me: if you want to catch a glimpse of someone who is the best in the world and the best in the hereafter then look at him."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "[1/215] الفقيه: محمد بن الحسن، عن محمد بن الحسن الصفار، عن يعقوب ابن يزيد، عن ابن ابى عمير، عن إبراهيم بن عبد الحميد، عن عبد الله بن سنان، عن ابن أبي يعفور قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "[1/215] الفقيه: محمد بن الحسن،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "محمد بن الحسن الصفار،",
+            "path": "/people/narrators/4154"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "يعقوب ابن يزيد،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابن ابى عمير،",
+            "path": "/people/narrators/7"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "إبراهيم بن عبد الحميد،",
+            "path": "/people/narrators/140"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "عبد الله بن سنان،",
+            "path": "/people/narrators/31"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابن أبي يعفور قال",
+            "path": "/people/narrators/126"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4154",
+          "/people/narrators/7",
+          "/people/narrators/140",
+          "/people/narrators/31",
+          "/people/narrators/126"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/mujam-al-ahadith-al-mutabara:3:70:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/mujam-al-ahadith-al-mutabara/3/70/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/9/3/71/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

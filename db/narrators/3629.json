@@ -1,0 +1,55 @@
+{
+  "id": 3629,
+  "type": "narrator",
+  "path": "/people/narrators/3629",
+  "titles": {
+    "ar": "عَبْدِ الْمَلِكِ بْنِ عُمَيْرٍ",
+    "en": "'Abd al-Malik ibn 'Umayr"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:95:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "137-3629": {
+      "narrator_ids": [
+        137,
+        3629
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:95:3"
+      ]
+    },
+    "3-2-7-137-3629-669": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        137,
+        3629,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:95:3"
+      ]
+    },
+    "3629-669": {
+      "narrator_ids": [
+        3629,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:95:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3629",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3629.json"
+  }
+}

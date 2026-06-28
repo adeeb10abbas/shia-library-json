@@ -1,0 +1,71 @@
+{
+  "id": 3779,
+  "type": "narrator",
+  "path": "/people/narrators/3779",
+  "titles": {
+    "ar": "عَلِيِّ بْنِ سَمَاعَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:126:14",
+    "/books/uyun-akhbar-al-rida:1:2:6:24"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "1358-623-3779-372-2-141": {
+      "narrator_ids": [
+        1358,
+        623,
+        3779,
+        372,
+        2,
+        141
+      ],
+      "verse_paths": [
+        "/books/uyun-akhbar-al-rida:1:2:6:24"
+      ]
+    },
+    "19-2556-623-3779-372-141-18": {
+      "narrator_ids": [
+        19,
+        2556,
+        623,
+        3779,
+        372,
+        141,
+        18
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:126:14"
+      ]
+    },
+    "3779-372": {
+      "narrator_ids": [
+        3779,
+        372
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:126:14",
+        "/books/uyun-akhbar-al-rida:1:2:6:24"
+      ]
+    },
+    "623-3779": {
+      "narrator_ids": [
+        623,
+        3779
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:126:14",
+        "/books/uyun-akhbar-al-rida:1:2:6:24"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3779",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3779.json"
+  }
+}

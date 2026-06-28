@@ -1,0 +1,55 @@
+{
+  "id": 4153,
+  "type": "narrator",
+  "path": "/people/narrators/4153",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ الْحَسَنِ السَّرِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:3:14:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "248-4153": {
+      "narrator_ids": [
+        248,
+        4153
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:3:14:5"
+      ]
+    },
+    "4153-3909": {
+      "narrator_ids": [
+        4153,
+        3909
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:3:14:5"
+      ]
+    },
+    "6-5-8-248-4153-3909-669": {
+      "narrator_ids": [
+        6,
+        5,
+        8,
+        248,
+        4153,
+        3909,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:3:14:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4153",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4153.json"
+  }
+}

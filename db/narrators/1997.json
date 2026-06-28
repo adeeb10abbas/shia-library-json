@@ -1,0 +1,44 @@
+{
+  "id": 1997,
+  "type": "narrator",
+  "path": "/people/narrators/1997",
+  "titles": {
+    "ar": "أَبِي الْعُدَيْسِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:4:3:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-185-1180-46-1997": {
+      "narrator_ids": [
+        11,
+        185,
+        1180,
+        46,
+        1997
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:3:2"
+      ]
+    },
+    "46-1997": {
+      "narrator_ids": [
+        46,
+        1997
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:3:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1997",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1997.json"
+  }
+}

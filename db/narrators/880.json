@@ -1,0 +1,135 @@
+{
+  "id": 880,
+  "type": "narrator",
+  "path": "/people/narrators/880",
+  "titles": {
+    "ar": "الْقَاسِمِ بْنِ مُحَمَّدٍ الْأَصْبَهَانِيِّ",
+    "en": "al-Qasim ibn Muhammad al-Isfahani"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:2:14:3",
+    "/books/al-kafi:1:2:8:5",
+    "/books/al-kafi:1:4:104:6",
+    "/books/al-kafi:2:1:47:3",
+    "/books/tahdhib-al-ahkam:8:14:49"
+  ],
+  "verseCount": 5,
+  "relations": {},
+  "subchains": {
+    "11-209-880-325-286": {
+      "narrator_ids": [
+        11,
+        209,
+        880,
+        325,
+        286
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:8:14:49"
+      ]
+    },
+    "2-880": {
+      "narrator_ids": [
+        2,
+        880
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:2:14:3",
+        "/books/al-kafi:1:2:8:5",
+        "/books/al-kafi:1:4:104:6"
+      ]
+    },
+    "209-880": {
+      "narrator_ids": [
+        209,
+        880
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:47:3",
+        "/books/tahdhib-al-ahkam:8:14:49"
+      ]
+    },
+    "3-2-209-880-325-286": {
+      "narrator_ids": [
+        3,
+        2,
+        209,
+        880,
+        325,
+        286
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:47:3"
+      ]
+    },
+    "3-2-880-304-286-669": {
+      "narrator_ids": [
+        3,
+        2,
+        880,
+        304,
+        286,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:2:14:3"
+      ]
+    },
+    "3-2-880-325-384-4361": {
+      "narrator_ids": [
+        3,
+        2,
+        880,
+        325,
+        384,
+        4361
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:2:8:5"
+      ]
+    },
+    "6-271-3-2-880-325-384": {
+      "narrator_ids": [
+        6,
+        271,
+        3,
+        2,
+        880,
+        325,
+        384
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:104:6"
+      ]
+    },
+    "880-304": {
+      "narrator_ids": [
+        880,
+        304
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:2:14:3"
+      ]
+    },
+    "880-325": {
+      "narrator_ids": [
+        880,
+        325
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:2:8:5",
+        "/books/al-kafi:1:4:104:6",
+        "/books/al-kafi:2:1:47:3",
+        "/books/tahdhib-al-ahkam:8:14:49"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/880",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/880.json"
+  }
+}

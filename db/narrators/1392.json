@@ -1,0 +1,91 @@
+{
+  "id": 1392,
+  "type": "narrator",
+  "path": "/people/narrators/1392",
+  "titles": {
+    "ar": "الْيَسَعِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:2:5:2",
+    "/books/al-kafi:6:2:5:3",
+    "/books/tahdhib-al-ahkam:8:3:79"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "1392-669": {
+      "narrator_ids": [
+        1392,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:5:2"
+      ]
+    },
+    "18-1392": {
+      "narrator_ids": [
+        18,
+        1392
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:5:2",
+        "/books/al-kafi:6:2:5:3",
+        "/books/tahdhib-al-ahkam:8:3:79"
+      ]
+    },
+    "4-5-22-56-18-1392-669-3929": {
+      "narrator_ids": [
+        4,
+        5,
+        22,
+        56,
+        18,
+        1392,
+        669,
+        3929
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:5:2"
+      ]
+    },
+    "4-5-3-2-185-164-18-1392": {
+      "narrator_ids": [
+        4,
+        5,
+        3,
+        2,
+        185,
+        164,
+        18,
+        1392
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:5:3"
+      ]
+    },
+    "952-4-5-3-2-185-164-18-1392": {
+      "narrator_ids": [
+        952,
+        4,
+        5,
+        3,
+        2,
+        185,
+        164,
+        18,
+        1392
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:8:3:79"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1392",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1392.json"
+  }
+}

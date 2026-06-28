@@ -1,0 +1,63 @@
+{
+  "id": 2646,
+  "type": "narrator",
+  "path": "/people/narrators/2646",
+  "titles": {
+    "ar": "الْحُسَيْنِ بْنِ مُسْلِمٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:212:37",
+    "/books/man-la-yahduruhu-al-faqih:2:3:55:28"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "17-2646": {
+      "narrator_ids": [
+        17,
+        2646
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:212:37"
+      ]
+    },
+    "2646-64": {
+      "narrator_ids": [
+        2646,
+        64
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:212:37"
+      ]
+    },
+    "4-29-17-2646-64": {
+      "narrator_ids": [
+        4,
+        29,
+        17,
+        2646,
+        64
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:212:37"
+      ]
+    },
+    "404-2646": {
+      "narrator_ids": [
+        404,
+        2646
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:2:3:55:28"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2646",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2646.json"
+  }
+}

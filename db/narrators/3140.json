@@ -1,0 +1,54 @@
+{
+  "id": 3140,
+  "type": "narrator",
+  "path": "/people/narrators/3140",
+  "titles": {
+    "ar": "خَالِهِ عَبْدِ اللَّهِ بْنِ عَبْدِ الرَّحْمَنِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:28:23"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3140-780": {
+      "narrator_ids": [
+        3140,
+        780
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:28:23"
+      ]
+    },
+    "4-5-22-85-3140-780": {
+      "narrator_ids": [
+        4,
+        5,
+        22,
+        85,
+        3140,
+        780
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:28:23"
+      ]
+    },
+    "85-3140": {
+      "narrator_ids": [
+        85,
+        3140
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:28:23"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3140",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3140.json"
+  }
+}

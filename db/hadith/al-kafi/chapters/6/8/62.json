@@ -1,0 +1,297 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:6:8:62",
+  "chapter": {
+    "path": "/books/al-kafi:6:8:62",
+    "titles": {
+      "ar": "باب دُهْنِ الْحَلِّ",
+      "en": "Chapter 62 – The Sesame Oil"
+    }
+  },
+  "count": 2,
+  "records": [
+    {
+      "id": "al-kafi:6:8:62:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:8:62:1",
+        "parts": [
+          6,
+          8,
+          62,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 8,
+        "chapter": 62,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:8:62",
+        "titles": {
+          "ar": "باب دُهْنِ الْحَلِّ",
+          "en": "Chapter 62 – The Sesame Oil"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " أَنَّ رَسُولَ اللَّهِ ( صلى الله عليه وآله ) كَانَ إِذَا اشْتَكَى رَأْسَهُ اسْتَعَطَ بِدُهْنِ الْجُلْجُلَانِ وَ هُوَ السِّمْسِمُ ."
+        ],
+        "text": "أَنَّ رَسُولَ اللَّهِ ( صلى الله عليه وآله ) كَانَ إِذَا اشْتَكَى رَأْسَهُ اسْتَعَطَ بِدُهْنِ الْجُلْجُلَانِ وَ هُوَ السِّمْسِمُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from someone else, from Al Khashaab, from Giyas Bin Kulyeb, from Is’haq Bin Ammar, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> that whenever Rasool-Allah<sup>saww</sup> complained of his head (ache), would sniff the <span class=\"iTxt\">Al-Juljulaan</span> oil, and it is the sesame’."
+          ],
+          "text": "Muhammad Bin Yahya, from someone else, from Al Khashaab, from Giyas Bin Kulyeb, from Is’haq Bin Ammar,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> that whenever Rasool-Allah<sup>saww</sup> complained of his head (ache), would sniff the <span class=\"iTxt\">Al-Juljulaan</span> oil, and it is the sesame’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. Muhammad ibn Yahya has narrated from more than one person from al-Khashshab from Ghiyath ibn Kalub from Ishaq ibn ‘Ammar who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that when the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, complained about his head he inhaled sesame oil.”’ "
+          ],
+          "text": "1. Muhammad ibn Yahya has narrated from more than one person from al-Khashshab from Ghiyath ibn Kalub from Ishaq ibn ‘Ammar who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that when the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, complained about his head he inhaled sesame oil.”’"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> حسن كالموثق    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/434)",
+          "label": "حسن كالموثق",
+          "text": "Allamah Baqir al-Majlisi: حسن كالموثق - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/434)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ غَيْرِ وَاحِدٍ عَنِ الْخَشَّابِ عَنْ غِيَاثِ بْنِ كَلُّوبٍ عَنْ إِسْحَاقَ بْنِ عَمَّارٍ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "غَيْرِ وَاحِدٍ",
+            "path": "/people/narrators/84"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْخَشَّابِ",
+            "path": "/people/narrators/324"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "غِيَاثِ بْنِ كَلُّوبٍ",
+            "path": "/people/narrators/943"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "إِسْحَاقَ بْنِ عَمَّارٍ",
+            "path": "/people/narrators/44"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/84",
+          "/people/narrators/324",
+          "/people/narrators/943",
+          "/people/narrators/44",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:8:62:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/8/62/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:8:62:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:8:62:2",
+        "parts": [
+          6,
+          8,
+          62,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 8,
+        "chapter": 62,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:8:62",
+        "titles": {
+          "ar": "باب دُهْنِ الْحَلِّ",
+          "en": "Chapter 62 – The Sesame Oil"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " أَنَّ النَّبِيَّ ( صلى الله عليه وآله ) كَانَ يُحِبُّ أَنْ يَسْتَعِطَ بِدُهْنِ السِّمْسِمِ ."
+        ],
+        "text": "أَنَّ النَّبِيَّ ( صلى الله عليه وآله ) كَانَ يُحِبُّ أَنْ يَسْتَعِطَ بِدُهْنِ السِّمْسِمِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Ahmad Bin Abu Abdullah, from one of his companions, from a cousin of Al Wazaie, from Mas’ada Bin Al Yas’a, from Qays Al Bahily, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> that the Prophet<sup>saww</sup> used to love smelling the sesame oil’."
+          ],
+          "text": "A number of our companions, from Ahmad Bin Abu Abdullah, from one of his companions, from a cousin of Al Wazaie, from Mas’ada Bin Al Yas’a, from Qays Al Bahily,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> that the Prophet<sup>saww</sup> used to love smelling the sesame oil’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. A number of our people have narrated from Ahmad ibn abu ‘ Abd Allah from certain persons of his people from son of the daughter al-Awzahy from Mas‘adah ibn al-Yasa‘ from Qays al-Bahiliy who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that the Holy Prophet, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, liked to inhale the fragrance of sesame oil.’” "
+          ],
+          "text": "2. A number of our people have narrated from Ahmad ibn abu ‘ Abd Allah from certain persons of his people from son of the daughter al-Awzahy from Mas‘adah ibn al-Yasa‘ from Qays al-Bahiliy who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that the Holy Prophet, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, liked to inhale the fragrance of sesame oil.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مجهول مرسل  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/434)",
+          "label": "مجهول مرسل",
+          "text": "Allamah Baqir al-Majlisi: مجهول مرسل - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/434)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ أَحْمَدَ بْنِ أَبِي عَبْدِ اللَّهِ عَنْ بَعْضِ أَصْحَابِهِ عَنِ ابْنِ أُخْتِ الْأَوْزَاعِيِّ عَنْ مَسْعَدَةَ بْنِ الْيَسَعِ عَنْ قَيْسٍ الْبَاهِلِيِّ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ أَبِي عَبْدِ اللَّهِ",
+            "path": "/people/narrators/12"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "بَعْضِ أَصْحَابِهِ",
+            "path": "/people/narrators/37"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ أُخْتِ الْأَوْزَاعِيِّ",
+            "path": "/people/narrators/1862"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مَسْعَدَةَ بْنِ الْيَسَعِ",
+            "path": "/people/narrators/4360"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "قَيْسٍ الْبَاهِلِيِّ",
+            "path": "/people/narrators/4043"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/12",
+          "/people/narrators/37",
+          "/people/narrators/1862",
+          "/people/narrators/4360",
+          "/people/narrators/4043",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:8:62:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/8/62/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

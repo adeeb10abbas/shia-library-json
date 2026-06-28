@@ -1,0 +1,53 @@
+{
+  "id": 3174,
+  "type": "narrator",
+  "path": "/people/narrators/3174",
+  "titles": {
+    "ar": "دَاوُدَ بْنِ مِهْرَانَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:43:19"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3174-642": {
+      "narrator_ids": [
+        3174,
+        642
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:19"
+      ]
+    },
+    "8-3174": {
+      "narrator_ids": [
+        8,
+        3174
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:19"
+      ]
+    },
+    "8-3174-642-60-3028": {
+      "narrator_ids": [
+        8,
+        3174,
+        642,
+        60,
+        3028
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:19"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3174",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3174.json"
+  }
+}

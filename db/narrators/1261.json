@@ -1,0 +1,66 @@
+{
+  "id": 1261,
+  "type": "narrator",
+  "path": "/people/narrators/1261",
+  "titles": {
+    "ar": "أَبِي بَصِيرٍعَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام )"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:2:65:9",
+    "/books/al-kafi:7:2:26:4"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "3-2-7-51-1261": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        51,
+        1261
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:2:26:4"
+      ]
+    },
+    "4-5-10-87-1261": {
+      "narrator_ids": [
+        4,
+        5,
+        10,
+        87,
+        1261
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:65:9"
+      ]
+    },
+    "51-1261": {
+      "narrator_ids": [
+        51,
+        1261
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:2:26:4"
+      ]
+    },
+    "87-1261": {
+      "narrator_ids": [
+        87,
+        1261
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:65:9"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1261",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1261.json"
+  }
+}

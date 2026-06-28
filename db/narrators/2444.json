@@ -1,0 +1,90 @@
+{
+  "id": 2444,
+  "type": "narrator",
+  "path": "/people/narrators/2444",
+  "titles": {
+    "ar": "إِسْمَاعِيلَ بْنِ جَعْفَرٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:6:19:20",
+    "/books/kamil-al-ziyarat:2:4:8",
+    "/books/tahdhib-al-ahkam:6:90:186"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "11-781-2444-37-314-669": {
+      "narrator_ids": [
+        11,
+        781,
+        2444,
+        37,
+        314,
+        669
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:4:8"
+      ]
+    },
+    "178-2444": {
+      "narrator_ids": [
+        178,
+        2444
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:6:19:20",
+        "/books/tahdhib-al-ahkam:6:90:186"
+      ]
+    },
+    "21-69-178-2444": {
+      "narrator_ids": [
+        21,
+        69,
+        178,
+        2444
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:90:186"
+      ]
+    },
+    "2444-37": {
+      "narrator_ids": [
+        2444,
+        37
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:4:8"
+      ]
+    },
+    "4-5-21-69-178-2444": {
+      "narrator_ids": [
+        4,
+        5,
+        21,
+        69,
+        178,
+        2444
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:6:19:20"
+      ]
+    },
+    "781-2444": {
+      "narrator_ids": [
+        781,
+        2444
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:4:8"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2444",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2444.json"
+  }
+}

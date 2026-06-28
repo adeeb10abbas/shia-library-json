@@ -1,0 +1,53 @@
+{
+  "id": 3747,
+  "type": "narrator",
+  "path": "/people/narrators/3747",
+  "titles": {
+    "ar": "عَلِيِّ بْنِ الْحُسَيْنِ التَّيْمِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:122:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3747-2992": {
+      "narrator_ids": [
+        3747,
+        2992
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:122:2"
+      ]
+    },
+    "5-3747": {
+      "narrator_ids": [
+        5,
+        3747
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:122:2"
+      ]
+    },
+    "5-3747-2992-3553-3590": {
+      "narrator_ids": [
+        5,
+        3747,
+        2992,
+        3553,
+        3590
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:122:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3747",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3747.json"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": 4399,
+  "type": "narrator",
+  "path": "/people/narrators/4399",
+  "titles": {
+    "ar": "مُعَمَّرِ بْنِ يَحْيَى بْنِ سَامٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:97:18"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "299-4399": {
+      "narrator_ids": [
+        299,
+        4399
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:97:18"
+      ]
+    },
+    "3-2-7-141-299-4399-16-3265": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        141,
+        299,
+        4399,
+        16,
+        3265
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:97:18"
+      ]
+    },
+    "4399-16": {
+      "narrator_ids": [
+        4399,
+        16
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:97:18"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4399",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4399.json"
+  }
+}

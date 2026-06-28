@@ -1,0 +1,52 @@
+{
+  "id": 4601,
+  "type": "narrator",
+  "path": "/people/narrators/4601",
+  "titles": {
+    "ar": "يَعْقُوبَ بْنِ عَبْدِ اللَّهِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:2:20:14"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "13-4601": {
+      "narrator_ids": [
+        13,
+        4601
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:20:14"
+      ]
+    },
+    "4-13-4601-2413": {
+      "narrator_ids": [
+        4,
+        13,
+        4601,
+        2413
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:20:14"
+      ]
+    },
+    "4601-2413": {
+      "narrator_ids": [
+        4601,
+        2413
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:20:14"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4601",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4601.json"
+  }
+}

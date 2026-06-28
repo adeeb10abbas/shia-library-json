@@ -1,0 +1,43 @@
+{
+  "id": 1798,
+  "type": "narrator",
+  "path": "/people/narrators/1798",
+  "titles": {
+    "ar": "إِبْرَاهِيمَ بْنِ أَبِي الْبِلَادِ أَوْ عَبْدِ اللَّهِ بْنِ جُنْدَبٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:165:9"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "332-3749-68-1798": {
+      "narrator_ids": [
+        332,
+        3749,
+        68,
+        1798
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:165:9"
+      ]
+    },
+    "68-1798": {
+      "narrator_ids": [
+        68,
+        1798
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:165:9"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1798",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1798.json"
+  }
+}

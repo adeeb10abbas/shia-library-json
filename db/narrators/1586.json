@@ -1,0 +1,87 @@
+{
+  "id": 1586,
+  "type": "narrator",
+  "path": "/people/narrators/1586",
+  "titles": {
+    "ar": "عُمَرَ بْنِ عَلِيِّ بْنِ عُمَرَ بْنِ يَزِيدَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:3:187:6",
+    "/books/al-kafi:6:8:43:34"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "1586-1169": {
+      "narrator_ids": [
+        1586,
+        1169
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:43:34"
+      ]
+    },
+    "1586-4289": {
+      "narrator_ids": [
+        1586,
+        4289
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:187:6"
+      ]
+    },
+    "373-1586": {
+      "narrator_ids": [
+        373,
+        1586
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:187:6"
+      ]
+    },
+    "4-59-1586-1169": {
+      "narrator_ids": [
+        4,
+        59,
+        1586,
+        1169
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:43:34"
+      ]
+    },
+    "59-1586": {
+      "narrator_ids": [
+        59,
+        1586
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:43:34"
+      ]
+    },
+    "6-5-21-4-373-1586-4289-526-2252": {
+      "narrator_ids": [
+        6,
+        5,
+        21,
+        4,
+        373,
+        1586,
+        4289,
+        526,
+        2252
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:187:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1586",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1586.json"
+  }
+}

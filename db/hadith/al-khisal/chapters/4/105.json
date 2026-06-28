@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:4:105",
+  "chapter": {
+    "path": "/books/al-khisal:4:105",
+    "titles": {
+      "en": "God has a Paradise into Which Only Three Groups Shall Enter"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:4:105:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:4:105:1",
+        "parts": [
+          4,
+          105,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 105,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:4:105",
+        "titles": {
+          "en": "God has a Paradise into Which Only Three Groups Shall Enter"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا سعد بن عبد الله، عن أحمد بن محـمدبن عيسى، عن الحسن بن محبوب، عن أبي أيوب، عن محمد بن قيس، عن أبي جعفر عليه السلام قال: لله عز وجل جنة لا يدخلها إلا ثلاثة: رجل حكم في نفسه بالحق، ورجل زار أخاه المؤمن في الله، ورجل آثر أخاه المؤمن في الله عز وجل"
+        ],
+        "text": ": حدثنا سعد بن عبد الله، عن أحمد بن محـمدبن عيسى، عن الحسن بن محبوب، عن أبي أيوب، عن محمد بن قيس، عن أبي جعفر عليه السلام قال: لله عز وجل جنة لا يدخلها إلا ثلاثة: رجل حكم في نفسه بالحق، ورجل زار أخاه المؤمن في الله، ورجل آثر أخاه المؤمن في الله عز وجل"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "3-136 (The compiler of the book narrated) that his father, may God be pleased with him, narrated that Sa’ed ibn Abdullah quoted Ahmad ibn Muhammadibn Isa, on the authority of Al-Hassan ibn Mahboob, on the authority of Abi Ayoob, on the authority of Muhammad ibn Qays that Abi Ja’far al-Baqir (MGB) said, “The Honorable the Exalted God has a Paradise into which only three groups shall enter. The first group are men who judge fairly regarding themselves. The second group are those who go to visit their believing brothers for the sake of God. And the third group are those who prefer their brethren to themselves for the sake of the Honorable the Exalted God.”"
+          ],
+          "text": "3-136 (The compiler of the book narrated) that his father, may God be pleased with him, narrated that Sa’ed ibn Abdullah quoted Ahmad ibn Muhammadibn Isa, on the authority of Al-Hassan ibn Mahboob, on the authority of Abi Ayoob, on the authority of Muhammad ibn Qays that Abi Ja’far al-Baqir (MGB) said, “The Honorable the Exalted God has a Paradise into which only three groups shall enter. The first group are men who judge fairly regarding themselves. The second group are those who go to visit their believing brothers for the sake of God. And the third group are those who prefer their brethren to themselves for the sake of the Honorable the Exalted God.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "3-136 حدثنا أبي رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "3-136 حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي رضي الله عنه قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:4:105:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/4/105/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/4/105/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

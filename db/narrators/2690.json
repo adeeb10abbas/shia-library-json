@@ -1,0 +1,53 @@
+{
+  "id": 2690,
+  "type": "narrator",
+  "path": "/people/narrators/2690",
+  "titles": {
+    "ar": "الرِّضَا (عليه السلام) فَأَنْزَلَ اللَّهُ سَكِينَتَهُ عَلَى رَسُولِهِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:50:21"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "127-92-22-2690-2852": {
+      "narrator_ids": [
+        127,
+        92,
+        22,
+        2690,
+        2852
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:50:21"
+      ]
+    },
+    "22-2690": {
+      "narrator_ids": [
+        22,
+        2690
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:50:21"
+      ]
+    },
+    "2690-2852": {
+      "narrator_ids": [
+        2690,
+        2852
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:50:21"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2690",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2690.json"
+  }
+}

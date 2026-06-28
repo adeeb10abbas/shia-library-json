@@ -1,0 +1,42 @@
+{
+  "id": 4047,
+  "type": "narrator",
+  "path": "/people/narrators/4047",
+  "titles": {
+    "ar": "كَانَ أَسَنَّ شَيْخٍ مِنْ وُلْدِ رَسُولِ اللَّهِ ( صلى الله عليه وآله ) بِالْعِرَاقِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:77:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "35-4150-4047": {
+      "narrator_ids": [
+        35,
+        4150,
+        4047
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:77:2"
+      ]
+    },
+    "4150-4047": {
+      "narrator_ids": [
+        4150,
+        4047
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:77:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4047",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4047.json"
+  }
+}

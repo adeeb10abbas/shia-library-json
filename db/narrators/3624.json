@@ -1,0 +1,54 @@
+{
+  "id": 3624,
+  "type": "narrator",
+  "path": "/people/narrators/3624",
+  "titles": {
+    "ar": "عَبْدِ الْمَلِكِ بْنِ بَحْرٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:168:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-298-487-3624-4093-1474": {
+      "narrator_ids": [
+        11,
+        298,
+        487,
+        3624,
+        4093,
+        1474
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:168:4"
+      ]
+    },
+    "3624-4093": {
+      "narrator_ids": [
+        3624,
+        4093
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:168:4"
+      ]
+    },
+    "487-3624": {
+      "narrator_ids": [
+        487,
+        3624
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:168:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3624",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3624.json"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "maani-al-akhbar",
+  "chapterPath": "/books/maani-al-akhbar:310",
+  "chapter": {
+    "path": "/books/maani-al-akhbar:310",
+    "titles": {
+      "en": "The meaning of kalala"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "maani-al-akhbar:310:1",
+      "type": "hadith",
+      "book": {
+        "slug": "maani-al-akhbar",
+        "titles": {
+          "ar": "معاني الأخبار",
+          "en": "Ma'ani al-Akhbar"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/maani-al-akhbar:310:1",
+        "parts": [
+          310,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 310,
+        "book": 1
+      },
+      "chapter": {
+        "path": "/books/maani-al-akhbar:310",
+        "titles": {
+          "en": "The meaning of kalala"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا سعد بن عبد الله، عن يعقوب بن يزيد، عن محمد ابن أبي عمير، عن بعض أصحابه، عن أبي عبد الله عليه السلام قال: الكلالة ما لم يكن والد ولا ولد."
+        ],
+        "text": ": حدثنا سعد بن عبد الله، عن يعقوب بن يزيد، عن محمد ابن أبي عمير، عن بعض أصحابه، عن أبي عبد الله عليه السلام قال: الكلالة ما لم يكن والد ولا ولد."
+      },
+      "translations": {
+        "en.basel-kadem": {
+          "segments": [
+            "1.\tWe were told by my father, may Allah grant him mercy, that he said: We were told by Sa’d bin Abdullah, from Ya’qoub bin Yazid, from Muhammed ibn Abi ‘Umayr, from some of his companions, from Abu Abdillah, peace be upon him, that he said: The kalala is when there is no parent nor child (to someone)."
+          ],
+          "text": "1.\tWe were told by my father, may Allah grant him mercy, that he said: We were told by Sa’d bin Abdullah, from Ya’qoub bin Yazid, from Muhammed ibn Abi ‘Umayr, from some of his companions, from Abu Abdillah, peace be upon him, that he said: The kalala is when there is no parent nor child (to someone)."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "حدثنا أبي - رحمه الله - قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي - رحمه الله - قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/maani-al-akhbar:310:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/maani-al-akhbar/310/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/28/1/312/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

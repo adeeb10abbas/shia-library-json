@@ -1,0 +1,205 @@
+{
+  "id": 863,
+  "type": "narrator",
+  "path": "/people/narrators/863",
+  "titles": {
+    "ar": "الْحَارِثِ الْأَعْوَرِ",
+    "en": "al-Harith al-A'war"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:3:22:7",
+    "/books/al-kafi:2:1:126:6",
+    "/books/al-kafi:5:3:156:4",
+    "/books/al-kafi:5:3:6:2",
+    "/books/kamil-al-ziyarat:2:26:2",
+    "/books/maani-al-akhbar:264:3",
+    "/books/maani-al-akhbar:286:4",
+    "/books/tahdhib-al-ahkam:7:33:24",
+    "/books/thawab-al-amal:2:330:3"
+  ],
+  "verseCount": 9,
+  "relations": {},
+  "subchains": {
+    "11-6-12-84-347-1289-567-863": {
+      "narrator_ids": [
+        11,
+        6,
+        12,
+        84,
+        347,
+        1289,
+        567,
+        863
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:33:24"
+      ]
+    },
+    "2-12-322-863": {
+      "narrator_ids": [
+        2,
+        12,
+        322,
+        863
+      ],
+      "verse_paths": [
+        "/books/maani-al-akhbar:264:3"
+      ]
+    },
+    "312-355-13-851-863": {
+      "narrator_ids": [
+        312,
+        355,
+        13,
+        851,
+        863
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:26:2"
+      ]
+    },
+    "322-863": {
+      "narrator_ids": [
+        322,
+        863
+      ],
+      "verse_paths": [
+        "/books/maani-al-akhbar:264:3",
+        "/books/maani-al-akhbar:286:4"
+      ]
+    },
+    "4521-5-36-322-863": {
+      "narrator_ids": [
+        4521,
+        5,
+        36,
+        322,
+        863
+      ],
+      "verse_paths": [
+        "/books/maani-al-akhbar:286:4"
+      ]
+    },
+    "567-863": {
+      "narrator_ids": [
+        567,
+        863
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:22:7",
+        "/books/al-kafi:2:1:126:6",
+        "/books/al-kafi:5:3:6:2",
+        "/books/tahdhib-al-ahkam:7:33:24",
+        "/books/thawab-al-amal:2:330:3"
+      ]
+    },
+    "6-12-2-179-549-900-567-863": {
+      "narrator_ids": [
+        6,
+        12,
+        2,
+        179,
+        549,
+        900,
+        567,
+        863
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:22:7"
+      ]
+    },
+    "6-12-4598-347-1289-567-863-394": {
+      "narrator_ids": [
+        6,
+        12,
+        4598,
+        347,
+        1289,
+        567,
+        863,
+        394
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:126:6"
+      ]
+    },
+    "6-12-67-622-165-2417-26-663-863": {
+      "narrator_ids": [
+        6,
+        12,
+        67,
+        622,
+        165,
+        2417,
+        26,
+        663,
+        863
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:156:4"
+      ]
+    },
+    "6-12-84-347-1289-567-863": {
+      "narrator_ids": [
+        6,
+        12,
+        84,
+        347,
+        1289,
+        567,
+        863
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:6:2"
+      ]
+    },
+    "663-863": {
+      "narrator_ids": [
+        663,
+        863
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:156:4"
+      ]
+    },
+    "77-12-2-76-567-863": {
+      "narrator_ids": [
+        77,
+        12,
+        2,
+        76,
+        567,
+        863
+      ],
+      "verse_paths": [
+        "/books/thawab-al-amal:2:330:3"
+      ]
+    },
+    "851-863": {
+      "narrator_ids": [
+        851,
+        863
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:26:2"
+      ]
+    },
+    "863-394": {
+      "narrator_ids": [
+        863,
+        394
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:126:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/863",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/863.json"
+  }
+}

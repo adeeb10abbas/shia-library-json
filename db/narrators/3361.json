@@ -1,0 +1,54 @@
+{
+  "id": 3361,
+  "type": "narrator",
+  "path": "/people/narrators/3361",
+  "titles": {
+    "ar": "سُلَيْمَانَ الرَّحَّالِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:9:4:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3361-326": {
+      "narrator_ids": [
+        3361,
+        326
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:9:4:5"
+      ]
+    },
+    "496-3361": {
+      "narrator_ids": [
+        496,
+        3361
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:9:4:5"
+      ]
+    },
+    "6-12-2-496-3361-326": {
+      "narrator_ids": [
+        6,
+        12,
+        2,
+        496,
+        3361,
+        326
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:9:4:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3361",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3361.json"
+  }
+}

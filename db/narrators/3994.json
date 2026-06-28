@@ -1,0 +1,56 @@
+{
+  "id": 3994,
+  "type": "narrator",
+  "path": "/people/narrators/3994",
+  "titles": {
+    "ar": "فَاطِمَةَ بِنْتِ عَلِيٍّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:122:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "14-3994": {
+      "narrator_ids": [
+        14,
+        3994
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:122:1"
+      ]
+    },
+    "3994-2841": {
+      "narrator_ids": [
+        3994,
+        2841
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:122:1"
+      ]
+    },
+    "4-388-15-52-14-3994-2841-2848": {
+      "narrator_ids": [
+        4,
+        388,
+        15,
+        52,
+        14,
+        3994,
+        2841,
+        2848
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:122:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3994",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3994.json"
+  }
+}

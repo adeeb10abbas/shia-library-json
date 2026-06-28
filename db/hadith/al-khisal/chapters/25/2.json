@@ -1,0 +1,132 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:25:2",
+  "chapter": {
+    "path": "/books/al-khisal:25:2",
+    "titles": {
+      "en": "The Reward of One who Implores Forgiveness Seventy Times in the Qunut of Al-Witr Prayer"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:25:2:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:25:2:1",
+        "parts": [
+          25,
+          2,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 25,
+        "book": 2,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:25:2",
+        "titles": {
+          "en": "The Reward of One who Implores Forgiveness Seventy Times in the Qunut of Al-Witr Prayer"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": من قال في وتره إذا أوتر: \"أستغفر الله وأتوب إليه\" سبعين مرة وهو قائم فواظب على ذلك حتى يمضي له سنة كتبه الله عنده من المستغفرين بالاسحار ووجبت له المغفرة من الله عز وجل"
+        ],
+        "text": ": من قال في وتره إذا أوتر: \"أستغفر الله وأتوب إليه\" سبعين مرة وهو قائم فواظب على ذلك حتى يمضي له سنة كتبه الله عنده من المستغفرين بالاسحار ووجبت له المغفرة من الله عز وجل"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "24-3 Ahmad ibn Muhammad ibn Yahya al-Attar - may God be pleased with him - narrated that his father quoted Ahmad ibn Muhammad ibn Isa, on the authority of Al-Hassan ibn Mahboob, on the authority of Umar ibn Yazid, on the authority of someone, on the authority of Aba Abdullah as-Sadiq (MGB), “Whoever says the Al-Vatr prayers at the end of the night and says ‘I ask God for forgiveness and I repent’ (‘Istaqfurallah va Atubo ellayh) seventy times while standing up and perseveres thereon for one year will be recorded amongst those who ask for forgiveness at dawn by God and his forgiveness by God becomes certain.”"
+          ],
+          "text": "24-3 Ahmad ibn Muhammad ibn Yahya al-Attar - may God be pleased with him - narrated that his father quoted Ahmad ibn Muhammad ibn Isa, on the authority of Al-Hassan ibn Mahboob, on the authority of Umar ibn Yazid, on the authority of someone, on the authority of Aba Abdullah as-Sadiq (MGB), “Whoever says the Al-Vatr prayers at the end of the night and says ‘I ask God for forgiveness and I repent’ (‘Istaqfurallah va Atubo ellayh) seventy times while standing up and perseveres thereon for one year will be recorded amongst those who ask for forgiveness at dawn by God and his forgiveness by God becomes certain.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "24-3 حدثنا أحمد بن محمد بن يحيى العطار رضي الله عنه، عن أبيه، عن أحمد ابن محمد بن عيسى، عن الحسن بن محبوب، عن عمر بن يزيد ولا أعلمه إلا عن أبي عبد الله عليه السلام قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "24-3 حدثنا "
+          },
+          {
+            "kind": "plain",
+            "text": "أحمد بن محمد بن يحيى العطار رضي الله عنه،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبيه،",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "أحمد ابن محمد بن عيسى،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "الحسن بن محبوب،",
+            "path": "/people/narrators/53"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "عمر بن يزيد ولا أعلمه إلا"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي عبد الله عليه السلام قال",
+            "path": "/people/narrators/669"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/2",
+          "/people/narrators/53",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:25:2:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/25/2/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/25/2/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

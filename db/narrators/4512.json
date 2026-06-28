@@ -1,0 +1,45 @@
+{
+  "id": 4512,
+  "type": "narrator",
+  "path": "/people/narrators/4512",
+  "titles": {
+    "ar": "هُوَ مُحَمَّدُ بْنُ عُبَيْدِ اللَّهِ وَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:44:46"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3-5-99-42-614-4512": {
+      "narrator_ids": [
+        3,
+        5,
+        99,
+        42,
+        614,
+        4512
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:44:46"
+      ]
+    },
+    "614-4512": {
+      "narrator_ids": [
+        614,
+        4512
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:44:46"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4512",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4512.json"
+  }
+}

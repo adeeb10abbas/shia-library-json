@@ -1,0 +1,87 @@
+{
+  "id": 1706,
+  "type": "narrator",
+  "path": "/people/narrators/1706",
+  "titles": {
+    "ar": "مُوسَى بْنِ قَادِمٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:3:23:11",
+    "/books/al-kafi:3:3:6:4"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "1706-1112": {
+      "narrator_ids": [
+        1706,
+        1112
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:23:11"
+      ]
+    },
+    "1706-60": {
+      "narrator_ids": [
+        1706,
+        60
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:6:4"
+      ]
+    },
+    "240-1706": {
+      "narrator_ids": [
+        240,
+        1706
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:6:4"
+      ]
+    },
+    "36-234-3637-1706-1112-18-9": {
+      "narrator_ids": [
+        36,
+        234,
+        3637,
+        1706,
+        1112,
+        18,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:23:11"
+      ]
+    },
+    "3637-1706": {
+      "narrator_ids": [
+        3637,
+        1706
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:23:11"
+      ]
+    },
+    "6-8-240-1706-60-669": {
+      "narrator_ids": [
+        6,
+        8,
+        240,
+        1706,
+        60,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:6:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1706",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1706.json"
+  }
+}

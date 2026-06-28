@@ -1,0 +1,84 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "kitab-al-duafa",
+  "chapterPath": "/books/kitab-al-duafa:17:23",
+  "chapter": {
+    "path": "/books/kitab-al-duafa:17:23",
+    "titles": {
+      "en": "ʿAbd al-Raḥmān b. Abū Ḥammād"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "kitab-al-duafa:17:23:1",
+      "type": "hadith",
+      "book": {
+        "slug": "kitab-al-duafa",
+        "titles": {
+          "ar": "كتاب الضعفاء",
+          "en": "Kitab al-Du'afa'"
+        },
+        "author": {
+          "en": "Ahmad ibn al-Husayn al-Ghada'iri"
+        }
+      },
+      "path": {
+        "source": "/books/kitab-al-duafa:17:23:1",
+        "parts": [
+          17,
+          23,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 17,
+        "book": 23,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/kitab-al-duafa:17:23",
+        "titles": {
+          "en": "ʿAbd al-Raḥmān b. Abū Ḥammād"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " مذهبه غلو."
+        ],
+        "text": "مذهبه غلو."
+      },
+      "translations": {
+        "en.tashayyu": {
+          "segments": [
+            "23 – ʿAbd al-Raḥmān b. Abū Ḥammād, Kufan.  Settled in Qum, and the Qummis narrated from him, he is known by the kunya “Abū Muḥammad”.  Very weak, he is not turned to, in his madhhab there is ghulw."
+          ],
+          "text": "23 – ʿAbd al-Raḥmān b. Abū Ḥammād, Kufan.  Settled in Qum, and the Qummis narrated from him, he is known by the kunya “Abū Muḥammad”.  Very weak, he is not turned to, in his madhhab there is ghulw."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "23 - عبد الرحمان بن أبي حماد، كوفي، سكن قم، وروى عنه القميون، يكنى أبا محمد. ضعيف جدا، لا يلتفت إليه، في",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "23 - "
+          },
+          {
+            "kind": "plain",
+            "text": "عبد الرحمان بن أبي حماد، كوفي، سكن قم، وروى عنه القميون، يكنى أبا محمد. ضعيف جدا، لا يلتفت إليه، في"
+          }
+        ],
+        "narratorPaths": []
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/kitab-al-duafa:17:23:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/kitab-al-duafa/17/23/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/17/17/23/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

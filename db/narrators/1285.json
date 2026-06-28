@@ -1,0 +1,121 @@
+{
+  "id": 1285,
+  "type": "narrator",
+  "path": "/people/narrators/1285",
+  "titles": {
+    "ar": "أَبِي مُحَمَّدٍ الْمَدَائِنِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:1:32:1",
+    "/books/al-kafi:7:1:39:8",
+    "/books/tahdhib-al-ahkam:8:5:27",
+    "/books/tahdhib-al-ahkam:9:8:13"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "11-1285": {
+      "narrator_ids": [
+        11,
+        1285
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:8:13"
+      ]
+    },
+    "11-1285-3462": {
+      "narrator_ids": [
+        11,
+        1285,
+        3462
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:8:13"
+      ]
+    },
+    "1285-3462": {
+      "narrator_ids": [
+        1285,
+        3462
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:32:1",
+        "/books/tahdhib-al-ahkam:8:5:27",
+        "/books/tahdhib-al-ahkam:9:8:13"
+      ]
+    },
+    "1285-3768": {
+      "narrator_ids": [
+        1285,
+        3768
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:1:39:8"
+      ]
+    },
+    "13-1285": {
+      "narrator_ids": [
+        13,
+        1285
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:32:1",
+        "/books/tahdhib-al-ahkam:8:5:27"
+      ]
+    },
+    "4-13-1285-3462-1607-669": {
+      "narrator_ids": [
+        4,
+        13,
+        1285,
+        3462,
+        1607,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:32:1"
+      ]
+    },
+    "5-1285": {
+      "narrator_ids": [
+        5,
+        1285
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:1:39:8"
+      ]
+    },
+    "6-5-1285-3768": {
+      "narrator_ids": [
+        6,
+        5,
+        1285,
+        3768
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:1:39:8"
+      ]
+    },
+    "952-13-1285-3462-1607-669": {
+      "narrator_ids": [
+        952,
+        13,
+        1285,
+        3462,
+        1607,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:8:5:27"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1285",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1285.json"
+  }
+}

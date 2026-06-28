@@ -1,0 +1,44 @@
+{
+  "id": 3920,
+  "type": "narrator",
+  "path": "/people/narrators/3920",
+  "titles": {
+    "ar": "عَنِ الرِّضَا ( عليه السلام )"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:4:34:3",
+    "/books/tahdhib-al-ahkam:2:9:21"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "11-4-3920": {
+      "narrator_ids": [
+        11,
+        4,
+        3920
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:9:21"
+      ]
+    },
+    "4-3920": {
+      "narrator_ids": [
+        4,
+        3920
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:34:3",
+        "/books/tahdhib-al-ahkam:2:9:21"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3920",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3920.json"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": 2694,
+  "type": "narrator",
+  "path": "/people/narrators/2694",
+  "titles": {
+    "ar": "الزُّهْرِيِّ مُحَمَّدِ بْنِ مُسْلِمِ بْنِ عُبَيْدِ اللَّهِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:126:8"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1692-2694": {
+      "narrator_ids": [
+        1692,
+        2694
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:126:8"
+      ]
+    },
+    "3-2-35-82-783-1520-1692-2694": {
+      "narrator_ids": [
+        3,
+        2,
+        35,
+        82,
+        783,
+        1520,
+        1692,
+        2694
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:126:8"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2694",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2694.json"
+  }
+}

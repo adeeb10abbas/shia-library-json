@@ -1,0 +1,53 @@
+{
+  "id": 1883,
+  "type": "narrator",
+  "path": "/people/narrators/1883",
+  "titles": {
+    "ar": "ابْنِ دَرَّاجٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:78:9"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1883-58": {
+      "narrator_ids": [
+        1883,
+        58
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:78:9"
+      ]
+    },
+    "3-2-7-1883-58": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        1883,
+        58
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:78:9"
+      ]
+    },
+    "7-1883": {
+      "narrator_ids": [
+        7,
+        1883
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:78:9"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1883",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1883.json"
+  }
+}

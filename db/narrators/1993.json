@@ -1,0 +1,52 @@
+{
+  "id": 1993,
+  "type": "narrator",
+  "path": "/people/narrators/1993",
+  "titles": {
+    "ar": "أَبِي الصَّخْرِ أَحْمَدَ بْنِ عَبْدِ الرَّحِيمِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:2:83:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "12-1993": {
+      "narrator_ids": [
+        12,
+        1993
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:83:5"
+      ]
+    },
+    "1993-64": {
+      "narrator_ids": [
+        1993,
+        64
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:83:5"
+      ]
+    },
+    "6-12-1993-64": {
+      "narrator_ids": [
+        6,
+        12,
+        1993,
+        64
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:83:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1993",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1993.json"
+  }
+}

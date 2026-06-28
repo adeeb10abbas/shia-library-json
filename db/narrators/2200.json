@@ -1,0 +1,44 @@
+{
+  "id": 2200,
+  "type": "narrator",
+  "path": "/people/narrators/2200",
+  "titles": {
+    "ar": "أَبِي كَهْمَسٍ الْهَيْثَمِ بْنِ عُبَيْدٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:3:4:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "19-528-292-2510-2200": {
+      "narrator_ids": [
+        19,
+        528,
+        292,
+        2510,
+        2200
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:3:4:5"
+      ]
+    },
+    "2510-2200": {
+      "narrator_ids": [
+        2510,
+        2200
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:3:4:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2200",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2200.json"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1244,
+  "type": "narrator",
+  "path": "/people/narrators/1244",
+  "titles": {
+    "ar": "أَبِي الْحَسَنِ صَاحِبِ الْعَسْكَرِ ( عليه السلام )"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:36:3",
+    "/books/al-kafi:4:3:230:3"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "154-25-333-928-1244": {
+      "narrator_ids": [
+        154,
+        25,
+        333,
+        928,
+        1244
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:36:3"
+      ]
+    },
+    "36-1244": {
+      "narrator_ids": [
+        36,
+        1244
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:230:3"
+      ]
+    },
+    "6-8-308-36-1244": {
+      "narrator_ids": [
+        6,
+        8,
+        308,
+        36,
+        1244
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:230:3"
+      ]
+    },
+    "928-1244": {
+      "narrator_ids": [
+        928,
+        1244
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:36:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1244",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1244.json"
+  }
+}

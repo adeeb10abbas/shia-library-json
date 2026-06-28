@@ -1,0 +1,45 @@
+{
+  "id": 4267,
+  "type": "narrator",
+  "path": "/people/narrators/4267",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ عَبْدَةَ النَّيْسَابُورِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:7:21:14"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "306-4267": {
+      "narrator_ids": [
+        306,
+        4267
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:21:14"
+      ]
+    },
+    "8-337-63-2086-306-4267": {
+      "narrator_ids": [
+        8,
+        337,
+        63,
+        2086,
+        306,
+        4267
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:21:14"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4267",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4267.json"
+  }
+}

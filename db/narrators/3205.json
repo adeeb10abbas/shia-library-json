@@ -1,0 +1,53 @@
+{
+  "id": 3205,
+  "type": "narrator",
+  "path": "/people/narrators/3205",
+  "titles": {
+    "ar": "رَجُلٍ سَأَلَ الْمَاضِيَ ( عليه السلام )"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:4:60:8"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3205-2712": {
+      "narrator_ids": [
+        3205,
+        2712
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:60:8"
+      ]
+    },
+    "81-3205": {
+      "narrator_ids": [
+        81,
+        3205
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:60:8"
+      ]
+    },
+    "97-24-81-3205-2712": {
+      "narrator_ids": [
+        97,
+        24,
+        81,
+        3205,
+        2712
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:60:8"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3205",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3205.json"
+  }
+}

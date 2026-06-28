@@ -1,0 +1,128 @@
+{
+  "id": 981,
+  "type": "narrator",
+  "path": "/people/narrators/981",
+  "titles": {
+    "ar": "أَبِي الْحَسَنِ الْأَحْمَسِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:85:5",
+    "/books/al-kafi:5:1:32:1",
+    "/books/al-kafi:6:8:11:13",
+    "/books/tahdhib-al-ahkam:5:24:28",
+    "/books/tahdhib-al-ahkam:6:79:11"
+  ],
+  "verseCount": 5,
+  "relations": {},
+  "subchains": {
+    "13-15-981": {
+      "narrator_ids": [
+        13,
+        15,
+        981
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:24:28"
+      ]
+    },
+    "143-981": {
+      "narrator_ids": [
+        143,
+        981
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:11:13"
+      ]
+    },
+    "15-981": {
+      "narrator_ids": [
+        15,
+        981
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:85:5",
+        "/books/tahdhib-al-ahkam:5:24:28"
+      ]
+    },
+    "29-321-707-31-981-669": {
+      "narrator_ids": [
+        29,
+        321,
+        707,
+        31,
+        981,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:1:32:1"
+      ]
+    },
+    "3-157-143-981-669": {
+      "narrator_ids": [
+        3,
+        157,
+        143,
+        981,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:11:13"
+      ]
+    },
+    "31-981": {
+      "narrator_ids": [
+        31,
+        981
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:1:32:1",
+        "/books/tahdhib-al-ahkam:6:79:11"
+      ]
+    },
+    "6-5-15-981-669": {
+      "narrator_ids": [
+        6,
+        5,
+        15,
+        981,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:85:5"
+      ]
+    },
+    "90-321-707-31-981-669": {
+      "narrator_ids": [
+        90,
+        321,
+        707,
+        31,
+        981,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:79:11"
+      ]
+    },
+    "981-669": {
+      "narrator_ids": [
+        981,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:85:5",
+        "/books/al-kafi:5:1:32:1",
+        "/books/al-kafi:6:8:11:13",
+        "/books/tahdhib-al-ahkam:6:79:11"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/981",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/981.json"
+  }
+}

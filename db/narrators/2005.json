@@ -1,0 +1,52 @@
+{
+  "id": 2005,
+  "type": "narrator",
+  "path": "/people/narrators/2005",
+  "titles": {
+    "ar": "أَبِي الْفَضْلِ الشَّهْبَانِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:90:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2005-4485": {
+      "narrator_ids": [
+        2005,
+        4485
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:90:5"
+      ]
+    },
+    "27-2005": {
+      "narrator_ids": [
+        27,
+        2005
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:90:5"
+      ]
+    },
+    "3-27-2005-4485": {
+      "narrator_ids": [
+        3,
+        27,
+        2005,
+        4485
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:90:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2005",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2005.json"
+  }
+}

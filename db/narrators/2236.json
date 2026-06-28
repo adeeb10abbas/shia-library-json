@@ -1,0 +1,68 @@
+{
+  "id": 2236,
+  "type": "narrator",
+  "path": "/people/narrators/2236",
+  "titles": {
+    "ar": "أَبِي يُوسُفَ يَعْقُوبَ بْنِ عَبْدِ اللَّهِ مِنْ وُلْدِ أَبِي فَاطِمَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:4:102:2",
+    "/books/tahdhib-al-ahkam:3:26:8"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "2236-2448": {
+      "narrator_ids": [
+        2236,
+        2448
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:102:2",
+        "/books/tahdhib-al-ahkam:3:26:8"
+      ]
+    },
+    "5-2236": {
+      "narrator_ids": [
+        5,
+        2236
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:102:2",
+        "/books/tahdhib-al-ahkam:3:26:8"
+      ]
+    },
+    "5-2236-2448-370-669": {
+      "narrator_ids": [
+        5,
+        2236,
+        2448,
+        370,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:3:26:8"
+      ]
+    },
+    "6-5-2236-2448-669": {
+      "narrator_ids": [
+        6,
+        5,
+        2236,
+        2448,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:102:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2236",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2236.json"
+  }
+}

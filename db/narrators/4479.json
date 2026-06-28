@@ -1,0 +1,57 @@
+{
+  "id": 4479,
+  "type": "narrator",
+  "path": "/people/narrators/4479",
+  "titles": {
+    "ar": "نُعَيْمٍ الْقُضَاعِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:52:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1344-4479": {
+      "narrator_ids": [
+        1344,
+        4479
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:52:3"
+      ]
+    },
+    "4-13-3-2-39-52-1344-4479-9": {
+      "narrator_ids": [
+        4,
+        13,
+        3,
+        2,
+        39,
+        52,
+        1344,
+        4479,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:52:3"
+      ]
+    },
+    "4479-9": {
+      "narrator_ids": [
+        4479,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:52:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4479",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4479.json"
+  }
+}

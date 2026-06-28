@@ -1,0 +1,52 @@
+{
+  "id": 1614,
+  "type": "narrator",
+  "path": "/people/narrators/1614",
+  "titles": {
+    "ar": "غَيْرِهِ رَفَعُوهُ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:117:4",
+    "/books/al-kafi:4:3:9:6"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "11-130-1614": {
+      "narrator_ids": [
+        11,
+        130,
+        1614
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:117:4"
+      ]
+    },
+    "130-1614": {
+      "narrator_ids": [
+        130,
+        1614
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:117:4"
+      ]
+    },
+    "3-1614": {
+      "narrator_ids": [
+        3,
+        1614
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:9:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1614",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1614.json"
+  }
+}

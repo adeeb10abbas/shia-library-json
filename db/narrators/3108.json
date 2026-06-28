@@ -1,0 +1,52 @@
+{
+  "id": 3108,
+  "type": "narrator",
+  "path": "/people/narrators/3108",
+  "titles": {
+    "ar": "حَمْدَوَيْهِ بْنِ عِمْرَانَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:3:10:6"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-67-3108-1230": {
+      "narrator_ids": [
+        11,
+        67,
+        3108,
+        1230
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:10:6"
+      ]
+    },
+    "3108-1230": {
+      "narrator_ids": [
+        3108,
+        1230
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:10:6"
+      ]
+    },
+    "67-3108": {
+      "narrator_ids": [
+        67,
+        3108
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:10:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3108",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3108.json"
+  }
+}

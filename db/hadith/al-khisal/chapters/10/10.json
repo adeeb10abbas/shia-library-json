@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:10:10",
+  "chapter": {
+    "path": "/books/al-khisal:10:10",
+    "titles": {
+      "en": "Nine Divine Leaders from the Progeny of Al-Hussein"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:10:10:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:10:10:1",
+        "parts": [
+          10,
+          10,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 10,
+        "book": 10,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:10:10",
+        "titles": {
+          "en": "Nine Divine Leaders from the Progeny of Al-Hussein"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا علي بن إبراهيم بن هاشم، عن أبيه، عن محمد بن أبي عمير، عن سعيد بن غزوان، عن أبي بصير، عن أبي جعفر عليه السلام قال:تكون تسعة أئمة بعد الحسين بن علي عليهما السلام تاسعهم قائمهم"
+        ],
+        "text": ": حدثنا علي بن إبراهيم بن هاشم، عن أبيه، عن محمد بن أبي عمير، عن سعيد بن غزوان، عن أبي بصير، عن أبي جعفر عليه السلام قال:تكون تسعة أئمة بعد الحسين بن علي عليهما السلام تاسعهم قائمهم"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "9-12 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Ali ibn Ibrahim ibn Hashim quoted his father, on the authority of Muhammad ibn Abi Umayr, on the authority of Sa’id ibn Qazvan, on the authority of Abi Basir that Abi Ja’far al-Baqir (MGB) said, “There will be nine Divine Leaders after Al-Hussein ibn Ali (MGB). The ninth one of them will be their Riser (MGB).”"
+          ],
+          "text": "9-12 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Ali ibn Ibrahim ibn Hashim quoted his father, on the authority of Muhammad ibn Abi Umayr, on the authority of Sa’id ibn Qazvan, on the authority of Abi Basir that Abi Ja’far al-Baqir (MGB) said, “There will be nine Divine Leaders after Al-Hussein ibn Ali (MGB). The ninth one of them will be their Riser (MGB).”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "9-12 حدثنا أبي رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "9-12 حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي رضي الله عنه قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:10:10:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/10/10/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/10/10/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

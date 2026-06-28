@@ -1,0 +1,64 @@
+{
+  "id": 3812,
+  "type": "narrator",
+  "path": "/people/narrators/3812",
+  "titles": {
+    "ar": "عَلِيِّ بْنِ مُحَمَّدِ بْنِ سُلَيْمَانَ النَّوْفَلِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:1:23:37",
+    "/books/man-la-yahduruhu-al-faqih:4:128:8",
+    "/books/uyun-akhbar-al-rida:1:2:7:1"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "4-59-453-3812": {
+      "narrator_ids": [
+        4,
+        59,
+        453,
+        3812
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:1:23:37"
+      ]
+    },
+    "4286-732-3812": {
+      "narrator_ids": [
+        4286,
+        732,
+        3812
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:4:128:8"
+      ]
+    },
+    "453-3812": {
+      "narrator_ids": [
+        453,
+        3812
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:1:23:37"
+      ]
+    },
+    "732-3812": {
+      "narrator_ids": [
+        732,
+        3812
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:4:128:8"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3812",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3812.json"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": 2879,
+  "type": "narrator",
+  "path": "/people/narrators/2879",
+  "titles": {
+    "ar": "بَشَّارِ بْنِ يَسَارٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:92:4",
+    "/books/man-la-yahduruhu-al-faqih:3:2:21:25",
+    "/books/tahdhib-al-ahkam:7:4:3",
+    "/books/tahdhib-al-ahkam:7:4:4"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "19-24-2879-669": {
+      "narrator_ids": [
+        19,
+        24,
+        2879,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:4:4"
+      ]
+    },
+    "24-2879": {
+      "narrator_ids": [
+        24,
+        2879
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:4:4"
+      ]
+    },
+    "2879-669": {
+      "narrator_ids": [
+        2879,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:4:4"
+      ]
+    },
+    "4-29-17-165-634-2879": {
+      "narrator_ids": [
+        4,
+        29,
+        17,
+        165,
+        634,
+        2879
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:92:4",
+        "/books/tahdhib-al-ahkam:7:4:3"
+      ]
+    },
+    "404-2879": {
+      "narrator_ids": [
+        404,
+        2879
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:3:2:21:25"
+      ]
+    },
+    "634-2879": {
+      "narrator_ids": [
+        634,
+        2879
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:92:4",
+        "/books/tahdhib-al-ahkam:7:4:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2879",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2879.json"
+  }
+}

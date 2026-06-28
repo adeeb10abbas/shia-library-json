@@ -1,0 +1,91 @@
+{
+  "id": 1374,
+  "type": "narrator",
+  "path": "/people/narrators/1374",
+  "titles": {
+    "ar": "الْفَضْلِ بْنِ إِسْمَاعِيلَ الْهَاشِمِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:3:26:6",
+    "/books/al-kafi:8:1:18:2",
+    "/books/tahdhib-al-ahkam:10:7:15"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "11-2-806-1374-2": {
+      "narrator_ids": [
+        11,
+        2,
+        806,
+        1374,
+        2
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:10:7:15"
+      ]
+    },
+    "1374-2": {
+      "narrator_ids": [
+        1374,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:26:6",
+        "/books/al-kafi:8:1:18:2",
+        "/books/tahdhib-al-ahkam:10:7:15"
+      ]
+    },
+    "240-1374": {
+      "narrator_ids": [
+        240,
+        1374
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:18:2"
+      ]
+    },
+    "3-2-240-1374-2": {
+      "narrator_ids": [
+        3,
+        2,
+        240,
+        1374,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:18:2"
+      ]
+    },
+    "3-2-806-1374-2": {
+      "narrator_ids": [
+        3,
+        2,
+        806,
+        1374,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:26:6"
+      ]
+    },
+    "806-1374": {
+      "narrator_ids": [
+        806,
+        1374
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:26:6",
+        "/books/tahdhib-al-ahkam:10:7:15"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1374",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1374.json"
+  }
+}

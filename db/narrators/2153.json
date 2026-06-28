@@ -1,0 +1,70 @@
+{
+  "id": 2153,
+  "type": "narrator",
+  "path": "/people/narrators/2153",
+  "titles": {
+    "ar": "أَبِي عَبْدِ اللَّهِ أَوْ أَبِي جَعْفَرٍ ( صلوات الله عليهما )"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:47:24",
+    "/books/al-kafi:3:4:61:3"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "1258-2153": {
+      "narrator_ids": [
+        1258,
+        2153
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:47:24"
+      ]
+    },
+    "14-2153": {
+      "narrator_ids": [
+        14,
+        2153
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:61:3"
+      ]
+    },
+    "49-94-37-46-398-1258-2153": {
+      "narrator_ids": [
+        49,
+        94,
+        37,
+        46,
+        398,
+        1258,
+        2153
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:47:24"
+      ]
+    },
+    "97-59-27-65-458-14-2153": {
+      "narrator_ids": [
+        97,
+        59,
+        27,
+        65,
+        458,
+        14,
+        2153
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:61:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2153",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2153.json"
+  }
+}

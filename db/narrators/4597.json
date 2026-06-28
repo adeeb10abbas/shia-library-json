@@ -1,0 +1,44 @@
+{
+  "id": 4597,
+  "type": "narrator",
+  "path": "/people/narrators/4597",
+  "titles": {
+    "ar": "يَعْقُوبَ بْنِ جَعْفَرِ بْنِ إِبْرَاهِيمَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:120:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "219-3-67-434-4597": {
+      "narrator_ids": [
+        219,
+        3,
+        67,
+        434,
+        4597
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:120:4"
+      ]
+    },
+    "434-4597": {
+      "narrator_ids": [
+        434,
+        4597
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:120:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4597",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4597.json"
+  }
+}

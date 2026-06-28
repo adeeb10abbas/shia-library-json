@@ -1,0 +1,52 @@
+{
+  "id": 4623,
+  "type": "narrator",
+  "path": "/people/narrators/4623",
+  "titles": {
+    "ar": "يُونُسَ بْنِ الرَّبِيعِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:237:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "4623-669": {
+      "narrator_ids": [
+        4623,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:237:4"
+      ]
+    },
+    "5-63-4623-669": {
+      "narrator_ids": [
+        5,
+        63,
+        4623,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:237:4"
+      ]
+    },
+    "63-4623": {
+      "narrator_ids": [
+        63,
+        4623
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:237:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4623",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4623.json"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "maani-al-akhbar",
+  "chapterPath": "/books/maani-al-akhbar:21",
+  "chapter": {
+    "path": "/books/maani-al-akhbar:21",
+    "titles": {
+      "en": "The meaning of the scales by which the deeds of the servants are measured"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "maani-al-akhbar:21:1",
+      "type": "hadith",
+      "book": {
+        "slug": "maani-al-akhbar",
+        "titles": {
+          "ar": "معاني الأخبار",
+          "en": "Ma'ani al-Akhbar"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/maani-al-akhbar:21:1",
+        "parts": [
+          21,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 21,
+        "book": 1
+      },
+      "chapter": {
+        "path": "/books/maani-al-akhbar:21",
+        "titles": {
+          "en": "The meaning of the scales by which the deeds of the servants are measured"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا عبد الرحمن بن محمد الحسيني، قال: أخبرنا أبو جعفر أحمد بن عيسى بن أبي مريم العجلي، قال حدثنا محمد بن أحمد بن عبد الله بن زياد العرزمي، قال: حدثني علي بن حاتم المنقري، عن هشام بن سالمقال: سألت أبا عبد الله عليه السلام عن قول الله عز وجل: \" ونضع الموازين القسط ليوم القيمة فلا تظلم نفس شيئا قال: هم الأنبياء والأوصياء عليهم السلام."
+        ],
+        "text": ": حدثنا عبد الرحمن بن محمد الحسيني، قال: أخبرنا أبو جعفر أحمد بن عيسى بن أبي مريم العجلي، قال حدثنا محمد بن أحمد بن عبد الله بن زياد العرزمي، قال: حدثني علي بن حاتم المنقري، عن هشام بن سالمقال: سألت أبا عبد الله عليه السلام عن قول الله عز وجل: \" ونضع الموازين القسط ليوم القيمة فلا تظلم نفس شيئا قال: هم الأنبياء والأوصياء عليهم السلام."
+      },
+      "translations": {
+        "en.basel-kadem": {
+          "segments": [
+            "1.\tWe were told by Ahmad bin Hasan al-Qattan, that he said: We were told by Abdul-Rahman bin Muhammed al-Hussaini, that he said: We were told by Abu Ja’far, Ahmad bin Isa bin Abi Maryam al-‘Ajali, that he said: We were told by Muhammed bin Ahmad bin Abdullah bin Ziyad al-‘Azrami, that he said: I was told by Ali bin Hatem al-Manqari, from Hisham bin Salim, that he said: I asked Abu Abdillah, peace be upon him, about the saying of Allah, Exalted and Glorious is He: «And We place the Scales of Justice for the Day of Resurrection, and so no soul shall be treated unjustly at all.» <a href=\"/books/quran:21#h47\">[21:47]</a> He said: They are the Prophets and Successors, peace be upon them."
+          ],
+          "text": "1.\tWe were told by Ahmad bin Hasan al-Qattan, that he said: We were told by Abdul-Rahman bin Muhammed al-Hussaini, that he said: We were told by Abu Ja’far, Ahmad bin Isa bin Abi Maryam al-‘Ajali, that he said: We were told by Muhammed bin Ahmad bin Abdullah bin Ziyad al-‘Azrami, that he said: I was told by Ali bin Hatem al-Manqari, from Hisham bin Salim, that he said: I asked Abu Abdillah, peace be upon him, about the saying of Allah, Exalted and Glorious is He: «And We place the Scales of Justice for the Day of Resurrection, and so no soul shall be treated unjustly at all.» <a href=\"/books/quran:21#h47\">[21:47]</a> He said: They are the Prophets and Successors, peace be upon them."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "حدثنا أحمد بن الحسن القطان، قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "حدثنا "
+          },
+          {
+            "kind": "plain",
+            "text": "أحمد بن الحسن القطان، قال"
+          }
+        ],
+        "narratorPaths": []
+      },
+      "relations": {
+        "Mentions": [
+          "/books/quran:21:47"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/maani-al-akhbar:21:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/maani-al-akhbar/21/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/28/1/21/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

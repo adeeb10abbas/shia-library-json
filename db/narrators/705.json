@@ -1,0 +1,176 @@
+{
+  "id": 705,
+  "type": "narrator",
+  "path": "/people/narrators/705",
+  "titles": {
+    "ar": "عَبْدِ اللَّهِ بْنِ إِبْرَاهِيمَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:49:12",
+    "/books/al-kafi:2:1:52:7",
+    "/books/al-kafi:2:1:82:4",
+    "/books/al-kafi:2:2:32:2",
+    "/books/al-kafi:6:6:43:10",
+    "/books/tahdhib-al-ahkam:10:9:50",
+    "/books/uyun-akhbar-al-rida:2:36:3"
+  ],
+  "verseCount": 7,
+  "relations": {},
+  "subchains": {
+    "11-169-63-705-3728-669-2-312": {
+      "narrator_ids": [
+        11,
+        169,
+        63,
+        705,
+        3728,
+        669,
+        2,
+        312
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:82:4"
+      ]
+    },
+    "11-169-63-705-924-669": {
+      "narrator_ids": [
+        11,
+        169,
+        63,
+        705,
+        924,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:49:12"
+      ]
+    },
+    "13-724-705": {
+      "narrator_ids": [
+        13,
+        724,
+        705
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:10:9:50"
+      ]
+    },
+    "19-24-22-705-1068-669": {
+      "narrator_ids": [
+        19,
+        24,
+        22,
+        705,
+        1068,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:32:2"
+      ]
+    },
+    "22-705": {
+      "narrator_ids": [
+        22,
+        705
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:32:2",
+        "/books/al-kafi:6:6:43:10"
+      ]
+    },
+    "4-5-169-63-705-924-669": {
+      "narrator_ids": [
+        4,
+        5,
+        169,
+        63,
+        705,
+        924,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:52:7"
+      ]
+    },
+    "6-8-169-22-705-924-669": {
+      "narrator_ids": [
+        6,
+        8,
+        169,
+        22,
+        705,
+        924,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:43:10"
+      ]
+    },
+    "63-705": {
+      "narrator_ids": [
+        63,
+        705
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:49:12",
+        "/books/al-kafi:2:1:52:7",
+        "/books/al-kafi:2:1:82:4"
+      ]
+    },
+    "705-1068": {
+      "narrator_ids": [
+        705,
+        1068
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:32:2"
+      ]
+    },
+    "705-2": {
+      "narrator_ids": [
+        705,
+        2
+      ],
+      "verse_paths": [
+        "/books/uyun-akhbar-al-rida:2:36:3"
+      ]
+    },
+    "705-3728": {
+      "narrator_ids": [
+        705,
+        3728
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:82:4"
+      ]
+    },
+    "705-924": {
+      "narrator_ids": [
+        705,
+        924
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:49:12",
+        "/books/al-kafi:2:1:52:7",
+        "/books/al-kafi:6:6:43:10"
+      ]
+    },
+    "724-705": {
+      "narrator_ids": [
+        724,
+        705
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:10:9:50"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/705",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/705.json"
+  }
+}

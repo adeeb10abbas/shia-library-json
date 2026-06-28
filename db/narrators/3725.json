@@ -1,0 +1,52 @@
+{
+  "id": 3725,
+  "type": "narrator",
+  "path": "/people/narrators/3725",
+  "titles": {
+    "ar": "عَلِيِّ بْنِ أَبِي زَيْدٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:37:10"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "13-3725": {
+      "narrator_ids": [
+        13,
+        3725
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:37:10"
+      ]
+    },
+    "3725-2": {
+      "narrator_ids": [
+        3725,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:37:10"
+      ]
+    },
+    "4-13-3725-2": {
+      "narrator_ids": [
+        4,
+        13,
+        3725,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:37:10"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3725",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3725.json"
+  }
+}

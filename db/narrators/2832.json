@@ -1,0 +1,45 @@
+{
+  "id": 2832,
+  "type": "narrator",
+  "path": "/people/narrators/2832",
+  "titles": {
+    "ar": "الْوَلِيدِ بْنِ عُقْبَةَ الْهَجَرِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:2:10:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "180-2832": {
+      "narrator_ids": [
+        180,
+        2832
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:10:3"
+      ]
+    },
+    "4-5-7-80-180-2832": {
+      "narrator_ids": [
+        4,
+        5,
+        7,
+        80,
+        180,
+        2832
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:10:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2832",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2832.json"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": 2541,
+  "type": "narrator",
+  "path": "/people/narrators/2541",
+  "titles": {
+    "ar": "الْحَسَنِ بْنِ حَازِمٍ الْكَلْبِيِّ ابْنِ أُخْتِ هِشَامِ بْنِ سَالِمٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:1:1:1",
+    "/books/man-la-yahduruhu-al-faqih:4:86:1",
+    "/books/tahdhib-al-ahkam:9:6:11"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "1565-2541": {
+      "narrator_ids": [
+        1565,
+        2541
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:1:1:1",
+        "/books/man-la-yahduruhu-al-faqih:4:86:1",
+        "/books/tahdhib-al-ahkam:9:6:11"
+      ]
+    },
+    "2541-587": {
+      "narrator_ids": [
+        2541,
+        587
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:1:1:1",
+        "/books/man-la-yahduruhu-al-faqih:4:86:1",
+        "/books/tahdhib-al-ahkam:9:6:11"
+      ]
+    },
+    "3-1565-2541-587-669": {
+      "narrator_ids": [
+        3,
+        1565,
+        2541,
+        587,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:1:1:1",
+        "/books/tahdhib-al-ahkam:9:6:11"
+      ]
+    },
+    "371-1565-2541-587-669": {
+      "narrator_ids": [
+        371,
+        1565,
+        2541,
+        587,
+        669
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:4:86:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2541",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2541.json"
+  }
+}

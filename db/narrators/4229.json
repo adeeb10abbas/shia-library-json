@@ -1,0 +1,53 @@
+{
+  "id": 4229,
+  "type": "narrator",
+  "path": "/people/narrators/4229",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ دَاوُدَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:23:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-5-21-4229-1193": {
+      "narrator_ids": [
+        11,
+        5,
+        21,
+        4229,
+        1193
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:23:1"
+      ]
+    },
+    "21-4229": {
+      "narrator_ids": [
+        21,
+        4229
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:23:1"
+      ]
+    },
+    "4229-1193": {
+      "narrator_ids": [
+        4229,
+        1193
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:23:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4229",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4229.json"
+  }
+}

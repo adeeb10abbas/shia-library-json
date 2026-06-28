@@ -1,0 +1,42 @@
+{
+  "id": 1858,
+  "type": "narrator",
+  "path": "/people/narrators/1858",
+  "titles": {
+    "ar": "ابْنِ أَبِي عُمَيْرٍعَنْ هِشَامِ بْنِ سَالِمٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:43:50"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2-1858": {
+      "narrator_ids": [
+        2,
+        1858
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:50"
+      ]
+    },
+    "3-2-1858": {
+      "narrator_ids": [
+        3,
+        2,
+        1858
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:50"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1858",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1858.json"
+  }
+}

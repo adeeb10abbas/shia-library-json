@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:5:44",
+  "chapter": {
+    "path": "/books/al-khisal:5:44",
+    "titles": {
+      "en": "The Shiites Will Never Suffer from Four Characteristics"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:5:44:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:5:44:1",
+        "parts": [
+          5,
+          44,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 44,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:5:44",
+        "titles": {
+          "en": "The Shiites Will Never Suffer from Four Characteristics"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا سعد بن عبد الله، عن أحمد بن أبي عبد الله البرقي، عن عدة من أصحابنا، عن علي بن أسباط، عن بعض أصحابه، عن أبي عبد الله عليه السلام قال: ما ابتلى الله به شيعتنا فلن يبتليهم بأربع: بأن يكونوا لغير رشدة أو أن يسألوا بأكفهم، أو أن يؤتوا في أدبارهم، أو أن يكون فيهم أخضر أزرق"
+        ],
+        "text": ": حدثنا سعد بن عبد الله، عن أحمد بن أبي عبد الله البرقي، عن عدة من أصحابنا، عن علي بن أسباط، عن بعض أصحابه، عن أبي عبد الله عليه السلام قال: ما ابتلى الله به شيعتنا فلن يبتليهم بأربع: بأن يكونوا لغير رشدة أو أن يسألوا بأكفهم، أو أن يؤتوا في أدبارهم، أو أن يكون فيهم أخضر أزرق"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "4-56 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Sa’ed ibn Abdullah quoted Ahmad ibn Aba Abdullah al-Barqy, on the authority of some companions, on the authority of Ali ibn Asbat, on the authority of some companions that Aba Abdullah as-Sadiq (MGB) said, “Our Shiites will never suffer from four characteristics: being born out of adultery; begging; being gay; and being greenish-blue eyed (like cats) .”"
+          ],
+          "text": "4-56 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Sa’ed ibn Abdullah quoted Ahmad ibn Aba Abdullah al-Barqy, on the authority of some companions, on the authority of Ali ibn Asbat, on the authority of some companions that Aba Abdullah as-Sadiq (MGB) said, “Our Shiites will never suffer from four characteristics: being born out of adultery; begging; being gay; and being greenish-blue eyed (like cats) .”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "4-56 حدثنا أبي رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "4-56 حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي رضي الله عنه قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:5:44:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/5/44/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/5/44/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

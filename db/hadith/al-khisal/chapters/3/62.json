@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:3:62",
+  "chapter": {
+    "path": "/books/al-khisal:3:62",
+    "titles": {
+      "en": "What Might Cause Parent’s Being Damned by the Children"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:3:62:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:3:62:1",
+        "parts": [
+          3,
+          62,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 62,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:3:62",
+        "titles": {
+          "en": "What Might Cause Parent’s Being Damned by the Children"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا علي بن إبراهيم بن هاشم، عن أبيه، عن النوفلي، عن السكوني، عن جعفر بن محمد، عن أبيه، عن آبائه، عن علي عليهم السلام قال: قال رسول الله صلى الله عليه وآله: يلزم الوالدين من العقوق لولدهما إذا كان الولد صالحا ما يلزم الولد لهما"
+        ],
+        "text": ": حدثنا علي بن إبراهيم بن هاشم، عن أبيه، عن النوفلي، عن السكوني، عن جعفر بن محمد، عن أبيه، عن آبائه، عن علي عليهم السلام قال: قال رسول الله صلى الله عليه وآله: يلزم الوالدين من العقوق لولدهما إذا كان الولد صالحا ما يلزم الولد لهما"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "2-77 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Ali ibn Ibrahim ibn Hashim quoted his father, on the authority of Al-Nawfaly, on the authority of Al-Sakoony, on the authority of Ja’far ibn Muhammad as-Sadiq (MGB), on the authority of his father Al-Baqir (MGB), on the authority of his forefathers (MGB), on the authority of Ali (MGB) that God’s Prophet (MGB) said, “Parents might be damned by their children if they do not honor their rights just as children could be damned by their parents should they not honor their parents’ rights.”"
+          ],
+          "text": "2-77 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Ali ibn Ibrahim ibn Hashim quoted his father, on the authority of Al-Nawfaly, on the authority of Al-Sakoony, on the authority of Ja’far ibn Muhammad as-Sadiq (MGB), on the authority of his father Al-Baqir (MGB), on the authority of his forefathers (MGB), on the authority of Ali (MGB) that God’s Prophet (MGB) said, “Parents might be damned by their children if they do not honor their rights just as children could be damned by their parents should they not honor their parents’ rights.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "2-77 حدثنا أبي رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "2-77 حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي رضي الله عنه قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:3:62:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/3/62/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/3/62/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

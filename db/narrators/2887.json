@@ -1,0 +1,53 @@
+{
+  "id": 2887,
+  "type": "narrator",
+  "path": "/people/narrators/2887",
+  "titles": {
+    "ar": "بَشِيرِ بْنِ حَمْزَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:3:111:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "15-2887": {
+      "narrator_ids": [
+        15,
+        2887
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:111:1"
+      ]
+    },
+    "2887-3234": {
+      "narrator_ids": [
+        2887,
+        3234
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:111:1"
+      ]
+    },
+    "4-5-15-2887-3234": {
+      "narrator_ids": [
+        4,
+        5,
+        15,
+        2887,
+        3234
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:111:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2887",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2887.json"
+  }
+}

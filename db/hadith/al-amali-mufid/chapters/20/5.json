@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-amali-mufid",
+  "chapterPath": "/books/al-amali-mufid:20:5",
+  "chapter": {
+    "path": "/books/al-amali-mufid:20:5",
+    "titles": {
+      "en": "Quickest evil consequences"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-amali-mufid:20:5:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-amali-mufid",
+        "titles": {
+          "ar": "الأمالي (المفيد)",
+          "en": "Al-Amali (al-Mufid)"
+        },
+        "author": {
+          "ar": "الشيخ المفيد",
+          "en": "Shaykh al-Mufid"
+        }
+      },
+      "path": {
+        "source": "/books/al-amali-mufid:20:5:1",
+        "parts": [
+          20,
+          5,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 20,
+        "book": 5,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-amali-mufid:20:5",
+        "titles": {
+          "en": "Quickest evil consequences"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": أخبرني أبو بكر محمد بن عمر الجعابي قال: حدثنا أبو القاسم الحسن بن علي بن الحسن قال: حدثنا جعفر بن محمد بن مروان، عن أبيه قال: حدثنا محمد بن إسماعيل الهاشمي قال: حدثنا عبد المؤمن، عن محمد بن علي بن الحسين عليهم السلام، عن جابر بن عبد الله الأنصاري قال: قال رسول الله صلى الله عليه وآله وسلم: أسرع الأشياء عقوبة رجل تحسن إليه ويكافيك على إحسانك بإساءة، ورجل عاهدته فمن شأنك الوفاء له ومن شأنه أن يكذبك، ورجل لا تبغي عليه وهو دائما يبغي عليك، ورجل تصل قرابته فيقطعك."
+        ],
+        "text": ": أخبرني أبو بكر محمد بن عمر الجعابي قال: حدثنا أبو القاسم الحسن بن علي بن الحسن قال: حدثنا جعفر بن محمد بن مروان، عن أبيه قال: حدثنا محمد بن إسماعيل الهاشمي قال: حدثنا عبد المؤمن، عن محمد بن علي بن الحسين عليهم السلام، عن جابر بن عبد الله الأنصاري قال: قال رسول الله صلى الله عليه وآله وسلم: أسرع الأشياء عقوبة رجل تحسن إليه ويكافيك على إحسانك بإساءة، ورجل عاهدته فمن شأنك الوفاء له ومن شأنه أن يكذبك، ورجل لا تبغي عليه وهو دائما يبغي عليك، ورجل تصل قرابته فيقطعك."
+      },
+      "translations": {
+        "en.mulla-asgharali-m-m-jaffer": {
+          "segments": [
+            "5. He said: Abu Bakr Muhammad ibn Umar al-Ji’abi reported to me from Abul Qasim al-Hasan ibn ‘Ali ibn al-Hasan, who reported from Ja’far ibn Muhammad ibn Marwan, from his father, who reported from Muhammad ibn Ismail al-Hashimi, who reported from Abdul Mu’min, who reported from Muhammad ibn ‘Ali ibn al-Husayn, peace be upon him, that Jabir ibn Abdullah al-Ansari narrated: The Prophet, peace be upon him and his progeny, said: \"The quickest evil consequence is for a man to whom you do a good turn and he pays you back by evil deeds; and a man with whom you have entered into a covenant wishing to fulfil it, while he intends to deceive you; and a person to who you are not insolent, but he persists in his insolence against you; and a person with whom you mend your blood relationship but he cuts you off.\""
+          ],
+          "text": "5. He said: Abu Bakr Muhammad ibn Umar al-Ji’abi reported to me from Abul Qasim al-Hasan ibn ‘Ali ibn al-Hasan, who reported from Ja’far ibn Muhammad ibn Marwan, from his father, who reported from Muhammad ibn Ismail al-Hashimi, who reported from Abdul Mu’min, who reported from Muhammad ibn ‘Ali ibn al-Husayn, peace be upon him, that Jabir ibn Abdullah al-Ansari narrated: The Prophet, peace be upon him and his progeny, said: \"The quickest evil consequence is for a man to whom you do a good turn and he pays you back by evil deeds; and a man with whom you have entered into a covenant wishing to fulfil it, while he intends to deceive you; and a person to who you are not insolent, but he persists in his insolence against you; and a person with whom you mend your blood relationship but he cuts you off.\""
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "5 - قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "5 - "
+          },
+          {
+            "kind": "narrator",
+            "text": "قال",
+            "path": "/people/narrators/652"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/652"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-amali-mufid:20:5:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-amali-mufid/20/5/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/13/20/5/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

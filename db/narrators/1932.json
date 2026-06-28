@@ -1,0 +1,32 @@
+{
+  "id": 1932,
+  "type": "narrator",
+  "path": "/people/narrators/1932",
+  "titles": {
+    "ar": "أَبُو مُحَمَّدٍ الْقَاسِمُ بْنُ الْعَلَاءِ رَحِمَهُ اللَّهُ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:15:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1932-3529": {
+      "narrator_ids": [
+        1932,
+        3529
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:15:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1932",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1932.json"
+  }
+}

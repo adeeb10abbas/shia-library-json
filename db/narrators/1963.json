@@ -1,0 +1,54 @@
+{
+  "id": 1963,
+  "type": "narrator",
+  "path": "/people/narrators/1963",
+  "titles": {
+    "ar": "أَبِي الْحَسَنِ الْأَسَدِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:37:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1963-14": {
+      "narrator_ids": [
+        1963,
+        14
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:37:4"
+      ]
+    },
+    "351-1963": {
+      "narrator_ids": [
+        351,
+        1963
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:37:4"
+      ]
+    },
+    "4-29-351-1963-14-9": {
+      "narrator_ids": [
+        4,
+        29,
+        351,
+        1963,
+        14,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:37:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1963",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1963.json"
+  }
+}

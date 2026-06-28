@@ -1,0 +1,46 @@
+{
+  "id": 2401,
+  "type": "narrator",
+  "path": "/people/narrators/2401",
+  "titles": {
+    "ar": "إِسْحَاقَ الْفَزَارِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:2:51:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "128-2401": {
+      "narrator_ids": [
+        128,
+        2401
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:2:51:1"
+      ]
+    },
+    "17-33-19-4249-30-128-2401": {
+      "narrator_ids": [
+        17,
+        33,
+        19,
+        4249,
+        30,
+        128,
+        2401
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:2:51:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2401",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2401.json"
+  }
+}

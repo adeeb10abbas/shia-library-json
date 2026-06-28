@@ -1,0 +1,92 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "kitab-al-duafa",
+  "chapterPath": "/books/kitab-al-duafa:16:1",
+  "chapter": {
+    "path": "/books/kitab-al-duafa:16:1",
+    "titles": {
+      "en": "Ẓafar b. Ḥamdūn b. Shaddād, al-Bādirā’ī, Abū Manṣūr"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "kitab-al-duafa:16:1:1",
+      "type": "hadith",
+      "book": {
+        "slug": "kitab-al-duafa",
+        "titles": {
+          "ar": "كتاب الضعفاء",
+          "en": "Kitab al-Du'afa'"
+        },
+        "author": {
+          "en": "Ahmad ibn al-Husayn al-Ghada'iri"
+        }
+      },
+      "path": {
+        "source": "/books/kitab-al-duafa:16:1:1",
+        "parts": [
+          16,
+          1,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 16,
+        "book": 1,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/kitab-al-duafa:16:1",
+        "titles": {
+          "en": "Ẓafar b. Ḥamdūn b. Shaddād, al-Bādirā’ī, Abū Manṣūr"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " مذهبه ضعف."
+        ],
+        "text": "مذهبه ضعف."
+      },
+      "translations": {
+        "en.tashayyu": {
+          "segments": [
+            "1 – Ẓafar b. Ḥamdūn b. Shaddād, al-Bādirā’ī, Abū Manṣūr.  He narrated from Ibrāhīm al-Aḥmarī.  There was weakness in his madhhab."
+          ],
+          "text": "1 – Ẓafar b. Ḥamdūn b. Shaddād, al-Bādirā’ī, Abū Manṣūr.  He narrated from Ibrāhīm al-Aḥmarī.  There was weakness in his madhhab."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "1 - ظفر بن حمدون بن شداد، البادرائي، أبو منصور. روى عن إبراهيم الأحمري. كان في",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "1 - "
+          },
+          {
+            "kind": "plain",
+            "text": "ظفر بن حمدون بن شداد، البادرائي، أبو منصور. روى"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "إبراهيم الأحمري. كان في"
+          }
+        ],
+        "narratorPaths": []
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/kitab-al-duafa:16:1:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/kitab-al-duafa/16/1/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/17/16/1/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

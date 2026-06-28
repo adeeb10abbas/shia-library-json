@@ -1,0 +1,86 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "maani-al-akhbar",
+  "chapterPath": "/books/maani-al-akhbar:224",
+  "chapter": {
+    "path": "/books/maani-al-akhbar:224",
+    "titles": {
+      "en": "The meaning of laughing"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "maani-al-akhbar:224:1",
+      "type": "hadith",
+      "book": {
+        "slug": "maani-al-akhbar",
+        "titles": {
+          "ar": "معاني الأخبار",
+          "en": "Ma'ani al-Akhbar"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/maani-al-akhbar:224:1",
+        "parts": [
+          224,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 224,
+        "book": 1
+      },
+      "chapter": {
+        "path": "/books/maani-al-akhbar:224",
+        "titles": {
+          "en": "The meaning of laughing"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا سعد بن عبد الله، عن يعقوب بن يزيد، عن ابن أبي عمير، عن عبد الرحمن بن الحجاج، عن أبي عبد الله عليه السلام في قول الله عز وجل: \" فضحكت فبشرناها بإسحاق  \" قال: حاضت."
+        ],
+        "text": ": حدثنا سعد بن عبد الله، عن يعقوب بن يزيد، عن ابن أبي عمير، عن عبد الرحمن بن الحجاج، عن أبي عبد الله عليه السلام في قول الله عز وجل: \" فضحكت فبشرناها بإسحاق  \" قال: حاضت."
+      },
+      "translations": {
+        "en.basel-kadem": {
+          "segments": [
+            "1.\tMy father, may Allah grant him mercy, said: We were told by Sa’d bin Abdullah, from Ya’qoub bin Yazid, from Ibn Abi ‘Umayr, from Abdul-Rahman bin Hajjaj, from Abu Abdillah, peace be upon him, with regards to the saying of Allah, Exalted and Glorious is He: «Then she laughed, and we gave her a glad tiding with Ishaq.» <a href=\"/books/quran:11#h71\">[11:71]</a> He said: She menstruated."
+          ],
+          "text": "1.\tMy father, may Allah grant him mercy, said: We were told by Sa’d bin Abdullah, from Ya’qoub bin Yazid, from Ibn Abi ‘Umayr, from Abdul-Rahman bin Hajjaj, from Abu Abdillah, peace be upon him, with regards to the saying of Allah, Exalted and Glorious is He: «Then she laughed, and we gave her a glad tiding with Ishaq.» <a href=\"/books/quran:11#h71\">[11:71]</a> He said: She menstruated."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "أبي - رحمه الله - قال",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "أبي - رحمه الله - قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {
+        "Mentions": [
+          "/books/quran:11:71"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/maani-al-akhbar:224:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/maani-al-akhbar/224/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/28/1/224/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

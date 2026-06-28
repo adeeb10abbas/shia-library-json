@@ -1,0 +1,53 @@
+{
+  "id": 2762,
+  "type": "narrator",
+  "path": "/people/narrators/2762",
+  "titles": {
+    "ar": "الْقَاسِمِ الزَّيَّاتِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:99:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-2762": {
+      "narrator_ids": [
+        11,
+        2762
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:99:2"
+      ]
+    },
+    "11-2762-52-4437-669": {
+      "narrator_ids": [
+        11,
+        2762,
+        52,
+        4437,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:99:2"
+      ]
+    },
+    "2762-52": {
+      "narrator_ids": [
+        2762,
+        52
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:99:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2762",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2762.json"
+  }
+}

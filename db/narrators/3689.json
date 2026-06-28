@@ -1,0 +1,44 @@
+{
+  "id": 3689,
+  "type": "narrator",
+  "path": "/people/narrators/3689",
+  "titles": {
+    "ar": "عُذَافِرٍ الصَّيْرَفِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:3:180:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3-2-7-436-3689": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        436,
+        3689
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:180:5"
+      ]
+    },
+    "436-3689": {
+      "narrator_ids": [
+        436,
+        3689
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:180:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3689",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3689.json"
+  }
+}

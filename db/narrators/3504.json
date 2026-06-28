@@ -1,0 +1,65 @@
+{
+  "id": 3504,
+  "type": "narrator",
+  "path": "/people/narrators/3504",
+  "titles": {
+    "ar": "عَبْدِ الرَّحْمَنِ بْنِ مُحَمَّدٍ الْعَرْزَمِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:8:21:15",
+    "/books/tahdhib-al-ahkam:1:28:82"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "143-3504": {
+      "narrator_ids": [
+        143,
+        3504
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:21:15"
+      ]
+    },
+    "2304-3504": {
+      "narrator_ids": [
+        2304,
+        3504
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:28:82"
+      ]
+    },
+    "3-157-143-3504": {
+      "narrator_ids": [
+        3,
+        157,
+        143,
+        3504
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:21:15"
+      ]
+    },
+    "317-237-645-2304-3504": {
+      "narrator_ids": [
+        317,
+        237,
+        645,
+        2304,
+        3504
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:28:82"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3504",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3504.json"
+  }
+}

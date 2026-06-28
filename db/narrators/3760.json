@@ -1,0 +1,42 @@
+{
+  "id": 3760,
+  "type": "narrator",
+  "path": "/people/narrators/3760",
+  "titles": {
+    "ar": "عَلِيِّ بْنِ السِّنْدِيِّ الْقُمِّيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:120:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "154-25-3760": {
+      "narrator_ids": [
+        154,
+        25,
+        3760
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:120:1"
+      ]
+    },
+    "25-3760": {
+      "narrator_ids": [
+        25,
+        3760
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:120:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3760",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3760.json"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:3:5",
+  "chapter": {
+    "path": "/books/al-khisal:3:5",
+    "titles": {
+      "en": "Two Blessings Being Denied"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:3:5:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:3:5:1",
+        "parts": [
+          3,
+          5,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 5,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:3:5",
+        "titles": {
+          "en": "Two Blessings Being Denied"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثني جدي الحسن ابن علي بن عبد الله بن المغيرة، عن جده عبد الله بن المغيرة، عن إسماعيل بن مسلم، عن جعفر بن محمد، عن أبيه، عن آبائه، عن علي عليهم السلام قال: قال رسول الله صلى الله عليه وآله: نعمتان مكفورتان: الامن والعافية"
+        ],
+        "text": ": حدثني جدي الحسن ابن علي بن عبد الله بن المغيرة، عن جده عبد الله بن المغيرة، عن إسماعيل بن مسلم، عن جعفر بن محمد، عن أبيه، عن آبائه، عن علي عليهم السلام قال: قال رسول الله صلى الله عليه وآله: نعمتان مكفورتان: الامن والعافية"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "2-5 Ja’far ibn Ali al-Kufy - may God be pleased with him - narrated that his grandfather Al-Hassan ibn Ali ibn Abdullah ibn al-Muqayrih quoted on the authority of his grandfather Abdullah ibn al-Muqayrih, on the authority of Isma’il ibn Muslim, on the authority of Ja’far ibn Muhammad (MGB), on the authority of his father (MGB), on the authority of his forefathers (MGB), on the authority of Ali (MGB) that God’s Prophet (MGB) said, “Two blessings are taken for granted : Security and health.”"
+          ],
+          "text": "2-5 Ja’far ibn Ali al-Kufy - may God be pleased with him - narrated that his grandfather Al-Hassan ibn Ali ibn Abdullah ibn al-Muqayrih quoted on the authority of his grandfather Abdullah ibn al-Muqayrih, on the authority of Isma’il ibn Muslim, on the authority of Ja’far ibn Muhammad (MGB), on the authority of his father (MGB), on the authority of his forefathers (MGB), on the authority of Ali (MGB) that God’s Prophet (MGB) said, “Two blessings are taken for granted : Security and health.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "2-5 حدثنا جعفر بن علي الكوفي رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "2-5 حدثنا "
+          },
+          {
+            "kind": "plain",
+            "text": "جعفر بن علي الكوفي رضي الله عنه قال"
+          }
+        ],
+        "narratorPaths": []
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:3:5:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/3/5/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/3/5/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "id": 3173,
+  "type": "narrator",
+  "path": "/people/narrators/3173",
+  "titles": {
+    "ar": "دَاوُدَ بْنِ مُحَمَّدٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:50:32",
+    "/books/mujam-al-ahadith-al-mutabara:3:64:3"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "11-92-3173-475-669": {
+      "narrator_ids": [
+        11,
+        92,
+        3173,
+        475,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:50:32"
+      ]
+    },
+    "3173-475": {
+      "narrator_ids": [
+        3173,
+        475
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:50:32"
+      ]
+    },
+    "3173-5": {
+      "narrator_ids": [
+        3173,
+        5
+      ],
+      "verse_paths": [
+        "/books/mujam-al-ahadith-al-mutabara:3:64:3"
+      ]
+    },
+    "679-3173": {
+      "narrator_ids": [
+        679,
+        3173
+      ],
+      "verse_paths": [
+        "/books/mujam-al-ahadith-al-mutabara:3:64:3"
+      ]
+    },
+    "679-3173-5": {
+      "narrator_ids": [
+        679,
+        3173,
+        5
+      ],
+      "verse_paths": [
+        "/books/mujam-al-ahadith-al-mutabara:3:64:3"
+      ]
+    },
+    "92-3173": {
+      "narrator_ids": [
+        92,
+        3173
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:50:32"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3173",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3173.json"
+  }
+}

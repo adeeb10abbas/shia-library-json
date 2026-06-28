@@ -1,0 +1,44 @@
+{
+  "id": 3116,
+  "type": "narrator",
+  "path": "/people/narrators/3116",
+  "titles": {
+    "ar": "حَنَانِ بْنِ سَدِيرٍ الصَّيْرَفِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:104:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "6-5-426-78-3116": {
+      "narrator_ids": [
+        6,
+        5,
+        426,
+        78,
+        3116
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:104:4"
+      ]
+    },
+    "78-3116": {
+      "narrator_ids": [
+        78,
+        3116
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:104:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3116",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3116.json"
+  }
+}

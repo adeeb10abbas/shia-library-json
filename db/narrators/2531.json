@@ -1,0 +1,43 @@
+{
+  "id": 2531,
+  "type": "narrator",
+  "path": "/people/narrators/2531",
+  "titles": {
+    "ar": "الْحَسَنِ بْنِ الْحُسَيْنِ الْعَلَوِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:8:29:9"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "20-25-5-2531": {
+      "narrator_ids": [
+        20,
+        25,
+        5,
+        2531
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:29:9"
+      ]
+    },
+    "5-2531": {
+      "narrator_ids": [
+        5,
+        2531
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:29:9"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2531",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2531.json"
+  }
+}

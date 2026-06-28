@@ -1,0 +1,43 @@
+{
+  "id": 1756,
+  "type": "narrator",
+  "path": "/people/narrators/1756",
+  "titles": {
+    "ar": "3ـ أَحْمَدُ بْنُ مُحَمَّدٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:132:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1756-297": {
+      "narrator_ids": [
+        1756,
+        297
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:132:3"
+      ]
+    },
+    "1756-297-1198-120": {
+      "narrator_ids": [
+        1756,
+        297,
+        1198,
+        120
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:132:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1756",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1756.json"
+  }
+}

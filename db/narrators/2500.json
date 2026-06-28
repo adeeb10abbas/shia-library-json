@@ -1,0 +1,55 @@
+{
+  "id": 2500,
+  "type": "narrator",
+  "path": "/people/narrators/2500",
+  "titles": {
+    "ar": "الْحَارِثِ بْنِ حَرِيزٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:33:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2500-424": {
+      "narrator_ids": [
+        2500,
+        424
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:33:5"
+      ]
+    },
+    "316-2500": {
+      "narrator_ids": [
+        316,
+        2500
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:33:5"
+      ]
+    },
+    "6-12-2-316-2500-424-666": {
+      "narrator_ids": [
+        6,
+        12,
+        2,
+        316,
+        2500,
+        424,
+        666
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:33:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2500",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2500.json"
+  }
+}

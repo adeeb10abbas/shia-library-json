@@ -1,0 +1,61 @@
+{
+  "id": 4422,
+  "type": "narrator",
+  "path": "/people/narrators/4422",
+  "titles": {
+    "ar": "مِنْهَالٍ الْقَمَّاطِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:1:18:1",
+    "/books/tahdhib-al-ahkam:7:39:37"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "11-4-5-277-43-70-4422": {
+      "narrator_ids": [
+        11,
+        4,
+        5,
+        277,
+        43,
+        70,
+        4422
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:39:37"
+      ]
+    },
+    "4-5-277-43-70-4422": {
+      "narrator_ids": [
+        4,
+        5,
+        277,
+        43,
+        70,
+        4422
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:18:1"
+      ]
+    },
+    "70-4422": {
+      "narrator_ids": [
+        70,
+        4422
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:18:1",
+        "/books/tahdhib-al-ahkam:7:39:37"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4422",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4422.json"
+  }
+}

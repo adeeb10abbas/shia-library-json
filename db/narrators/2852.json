@@ -1,0 +1,44 @@
+{
+  "id": 2852,
+  "type": "narrator",
+  "path": "/people/narrators/2852",
+  "titles": {
+    "ar": "أَيَّدَهُ بِجُنُودٍ لَمْ تَرَوْهَا قُلْتُ هَكَذَا"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:50:21"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "127-92-22-2690-2852": {
+      "narrator_ids": [
+        127,
+        92,
+        22,
+        2690,
+        2852
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:50:21"
+      ]
+    },
+    "2690-2852": {
+      "narrator_ids": [
+        2690,
+        2852
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:50:21"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2852",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2852.json"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": 4270,
+  "type": "narrator",
+  "path": "/people/narrators/4270",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ عُثْمَانَ الْخُدْرِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:2:8:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "30-4270": {
+      "narrator_ids": [
+        30,
+        4270
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:8:2"
+      ]
+    },
+    "4-59-277-30-4270-1409-669": {
+      "narrator_ids": [
+        4,
+        59,
+        277,
+        30,
+        4270,
+        1409,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:8:2"
+      ]
+    },
+    "4270-1409": {
+      "narrator_ids": [
+        4270,
+        1409
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:8:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4270",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4270.json"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": 4240,
+  "type": "narrator",
+  "path": "/people/narrators/4240",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ سَلْمَانَ الْأَزْدِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:44:44"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "10-4240": {
+      "narrator_ids": [
+        10,
+        4240
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:44:44"
+      ]
+    },
+    "4240-168": {
+      "narrator_ids": [
+        4240,
+        168
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:44:44"
+      ]
+    },
+    "6-8-10-4240-168-663-394-2393": {
+      "narrator_ids": [
+        6,
+        8,
+        10,
+        4240,
+        168,
+        663,
+        394,
+        2393
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:44:44"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4240",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4240.json"
+  }
+}

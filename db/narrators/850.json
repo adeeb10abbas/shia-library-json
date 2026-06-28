@@ -1,0 +1,181 @@
+{
+  "id": 850,
+  "type": "narrator",
+  "path": "/people/narrators/850",
+  "titles": {
+    "ar": "أَبِي هَاشِمٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:126:2",
+    "/books/al-kafi:2:1:43:5",
+    "/books/al-kafi:6:8:1:14",
+    "/books/al-kafi:8:1:43:8",
+    "/books/kitab-al-ghayba-tusi:39:10",
+    "/books/kitab-al-zuhd:2:8:12"
+  ],
+  "verseCount": 6,
+  "relations": {},
+  "subchains": {
+    "11-1387-417-46-850": {
+      "narrator_ids": [
+        11,
+        1387,
+        417,
+        46,
+        850
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:8"
+      ]
+    },
+    "11-5-22-747-850-36-669": {
+      "narrator_ids": [
+        11,
+        5,
+        22,
+        747,
+        850,
+        36,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:1:14"
+      ]
+    },
+    "12-850": {
+      "narrator_ids": [
+        12,
+        850
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:126:2"
+      ]
+    },
+    "2366-850": {
+      "narrator_ids": [
+        2366,
+        850
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:43:5"
+      ]
+    },
+    "3-2-82-304-2366-850": {
+      "narrator_ids": [
+        3,
+        2,
+        82,
+        304,
+        2366,
+        850
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:43:5"
+      ]
+    },
+    "3284-850": {
+      "narrator_ids": [
+        3284,
+        850
+      ],
+      "verse_paths": [
+        "/books/kitab-al-zuhd:2:8:12"
+      ]
+    },
+    "4-4154-12-850": {
+      "narrator_ids": [
+        4,
+        4154,
+        12,
+        850
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:126:2"
+      ]
+    },
+    "46-850": {
+      "narrator_ids": [
+        46,
+        850
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:8"
+      ]
+    },
+    "573-850": {
+      "narrator_ids": [
+        573,
+        850
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:39:10"
+      ]
+    },
+    "573-850-718": {
+      "narrator_ids": [
+        573,
+        850,
+        718
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:39:10"
+      ]
+    },
+    "69-46-3284-850-669": {
+      "narrator_ids": [
+        69,
+        46,
+        3284,
+        850,
+        669
+      ],
+      "verse_paths": [
+        "/books/kitab-al-zuhd:2:8:12"
+      ]
+    },
+    "747-850": {
+      "narrator_ids": [
+        747,
+        850
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:1:14"
+      ]
+    },
+    "850-36": {
+      "narrator_ids": [
+        850,
+        36
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:1:14"
+      ]
+    },
+    "850-669": {
+      "narrator_ids": [
+        850,
+        669
+      ],
+      "verse_paths": [
+        "/books/kitab-al-zuhd:2:8:12"
+      ]
+    },
+    "850-718": {
+      "narrator_ids": [
+        850,
+        718
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:39:10"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/850",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/850.json"
+  }
+}

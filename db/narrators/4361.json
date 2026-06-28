@@ -1,0 +1,45 @@
+{
+  "id": 4361,
+  "type": "narrator",
+  "path": "/people/narrators/4361",
+  "titles": {
+    "ar": "مِسْعَرِ بْنِ كِدَامٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:2:8:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3-2-880-325-384-4361": {
+      "narrator_ids": [
+        3,
+        2,
+        880,
+        325,
+        384,
+        4361
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:2:8:5"
+      ]
+    },
+    "384-4361": {
+      "narrator_ids": [
+        384,
+        4361
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:2:8:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4361",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4361.json"
+  }
+}

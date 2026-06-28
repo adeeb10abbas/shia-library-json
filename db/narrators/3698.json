@@ -1,0 +1,53 @@
+{
+  "id": 3698,
+  "type": "narrator",
+  "path": "/people/narrators/3698",
+  "titles": {
+    "ar": "عُقْبَةَ بْنِ مُحَمَّدٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:8:1:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3698-3353": {
+      "narrator_ids": [
+        3698,
+        3353
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:1:3"
+      ]
+    },
+    "4-5-42-3698-3353": {
+      "narrator_ids": [
+        4,
+        5,
+        42,
+        3698,
+        3353
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:1:3"
+      ]
+    },
+    "42-3698": {
+      "narrator_ids": [
+        42,
+        3698
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:1:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3698",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3698.json"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": 2457,
+  "type": "narrator",
+  "path": "/people/narrators/2457",
+  "titles": {
+    "ar": "إِسْمَاعِيلَ بْنِ مُحَمَّدٍ الْخُزَاعِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:84:4",
+    "/books/kitab-al-ghayba-numani:2:25:4"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "143-2457": {
+      "narrator_ids": [
+        143,
+        2457
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:84:4",
+        "/books/kitab-al-ghayba-numani:2:25:4"
+      ]
+    },
+    "3-157-143-2457": {
+      "narrator_ids": [
+        3,
+        157,
+        143,
+        2457
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:84:4"
+      ]
+    },
+    "952-3-157-143-2457": {
+      "narrator_ids": [
+        952,
+        3,
+        157,
+        143,
+        2457
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-numani:2:25:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2457",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2457.json"
+  }
+}

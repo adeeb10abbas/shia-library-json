@@ -1,0 +1,43 @@
+{
+  "id": 3764,
+  "type": "narrator",
+  "path": "/people/narrators/3764",
+  "titles": {
+    "ar": "عَلِيِّ بْنِ الْمُسَيَّبِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:126:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "27-3764": {
+      "narrator_ids": [
+        27,
+        3764
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:126:1"
+      ]
+    },
+    "4-256-27-3764": {
+      "narrator_ids": [
+        4,
+        256,
+        27,
+        3764
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:126:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3764",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3764.json"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": 2940,
+  "type": "narrator",
+  "path": "/people/narrators/2940",
+  "titles": {
+    "ar": "بُنْدَارَ بْنِ عَاصِمٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:1:19:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2940-669": {
+      "narrator_ids": [
+        2940,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:19:5"
+      ]
+    },
+    "4116-2940": {
+      "narrator_ids": [
+        4116,
+        2940
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:19:5"
+      ]
+    },
+    "6-8-4116-2940-669": {
+      "narrator_ids": [
+        6,
+        8,
+        4116,
+        2940,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:19:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2940",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2940.json"
+  }
+}

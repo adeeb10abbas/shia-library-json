@@ -1,0 +1,32 @@
+{
+  "id": 2903,
+  "type": "narrator",
+  "path": "/people/narrators/2903",
+  "titles": {
+    "ar": "بَعْضِ أَصْحَابِهِ رَفَعَهُ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:63:7"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "5-2903": {
+      "narrator_ids": [
+        5,
+        2903
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:63:7"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2903",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2903.json"
+  }
+}

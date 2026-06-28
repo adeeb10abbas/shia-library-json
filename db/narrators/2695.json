@@ -1,0 +1,111 @@
+{
+  "id": 2695,
+  "type": "narrator",
+  "path": "/people/narrators/2695",
+  "titles": {
+    "ar": "الزَّيَّاتِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:29:4",
+    "/books/kamil-al-ziyarat:2:98:9",
+    "/books/tahdhib-al-ahkam:7:39:119"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "11-2695": {
+      "narrator_ids": [
+        11,
+        2695
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:39:119"
+      ]
+    },
+    "11-2695-7-243-113-7-115-669": {
+      "narrator_ids": [
+        11,
+        2695,
+        7,
+        243,
+        113,
+        7,
+        115,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:39:119"
+      ]
+    },
+    "2695-143": {
+      "narrator_ids": [
+        2695,
+        143
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:98:9"
+      ]
+    },
+    "2695-143-23-1904-287-669": {
+      "narrator_ids": [
+        2695,
+        143,
+        23,
+        1904,
+        287,
+        669
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:98:9"
+      ]
+    },
+    "2695-3547": {
+      "narrator_ids": [
+        2695,
+        3547
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:29:4"
+      ]
+    },
+    "2695-7": {
+      "narrator_ids": [
+        2695,
+        7
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:39:119"
+      ]
+    },
+    "50-2-82-2695-3547-4060": {
+      "narrator_ids": [
+        50,
+        2,
+        82,
+        2695,
+        3547,
+        4060
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:29:4"
+      ]
+    },
+    "82-2695": {
+      "narrator_ids": [
+        82,
+        2695
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:29:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2695",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2695.json"
+  }
+}

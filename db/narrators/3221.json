@@ -1,0 +1,43 @@
+{
+  "id": 3221,
+  "type": "narrator",
+  "path": "/people/narrators/3221",
+  "titles": {
+    "ar": "رَجُلٍ مِنَ الْعَامَّةِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:4:15:23"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2904-3221": {
+      "narrator_ids": [
+        2904,
+        3221
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:15:23"
+      ]
+    },
+    "4-5-2904-3221": {
+      "narrator_ids": [
+        4,
+        5,
+        2904,
+        3221
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:15:23"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3221",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3221.json"
+  }
+}

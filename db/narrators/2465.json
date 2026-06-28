@@ -1,0 +1,53 @@
+{
+  "id": 2465,
+  "type": "narrator",
+  "path": "/people/narrators/2465",
+  "titles": {
+    "ar": "اسْمُهُ مُحَمَّدُ بْنُ الْوَلِيدِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:3:22:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2465-1161": {
+      "narrator_ids": [
+        2465,
+        1161
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:22:5"
+      ]
+    },
+    "3398-2465": {
+      "narrator_ids": [
+        3398,
+        2465
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:22:5"
+      ]
+    },
+    "35-8-3398-2465-1161": {
+      "narrator_ids": [
+        35,
+        8,
+        3398,
+        2465,
+        1161
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:22:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2465",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2465.json"
+  }
+}

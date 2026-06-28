@@ -1,0 +1,92 @@
+{
+  "id": 1576,
+  "type": "narrator",
+  "path": "/people/narrators/1576",
+  "titles": {
+    "ar": "عَلِيِّ بْنِ سُوَيْدٍ السَّائِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:1:15:2",
+    "/books/al-kafi:7:5:3:3",
+    "/books/tahdhib-al-ahkam:6:90:147"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "1197-1576": {
+      "narrator_ids": [
+        1197,
+        1576
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:5:3:3",
+        "/books/tahdhib-al-ahkam:6:90:147"
+      ]
+    },
+    "1576-64": {
+      "narrator_ids": [
+        1576,
+        64
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:15:2",
+        "/books/al-kafi:7:5:3:3",
+        "/books/tahdhib-al-ahkam:6:90:147"
+      ]
+    },
+    "2941-1576": {
+      "narrator_ids": [
+        2941,
+        1576
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:15:2"
+      ]
+    },
+    "6-8-119-1197-1576-64": {
+      "narrator_ids": [
+        6,
+        8,
+        119,
+        1197,
+        1576,
+        64
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:5:3:3"
+      ]
+    },
+    "652-169-2941-1576-64": {
+      "narrator_ids": [
+        652,
+        169,
+        2941,
+        1576,
+        64
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:15:2"
+      ]
+    },
+    "8-119-1197-1576-64": {
+      "narrator_ids": [
+        8,
+        119,
+        1197,
+        1576,
+        64
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:90:147"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1576",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1576.json"
+  }
+}

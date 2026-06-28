@@ -1,0 +1,57 @@
+{
+  "id": 2209,
+  "type": "narrator",
+  "path": "/people/narrators/2209",
+  "titles": {
+    "ar": "أَبِي مُحَمَّدٍ الْمِيثَمِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:66:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2209-1473": {
+      "narrator_ids": [
+        2209,
+        1473
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:66:4"
+      ]
+    },
+    "4548-2209": {
+      "narrator_ids": [
+        4548,
+        2209
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:66:4"
+      ]
+    },
+    "6-12-500-712-4548-2209-1473-2-9": {
+      "narrator_ids": [
+        6,
+        12,
+        500,
+        712,
+        4548,
+        2209,
+        1473,
+        2,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:66:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2209",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2209.json"
+  }
+}

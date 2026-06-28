@@ -1,0 +1,52 @@
+{
+  "id": 2008,
+  "type": "narrator",
+  "path": "/people/narrators/2008",
+  "titles": {
+    "ar": "أَبِي الْفَضْلِ عَبْدِ اللَّهِ بْنِ إِدْرِيسَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:111:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "154-25-2008-42": {
+      "narrator_ids": [
+        154,
+        25,
+        2008,
+        42
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:111:5"
+      ]
+    },
+    "2008-42": {
+      "narrator_ids": [
+        2008,
+        42
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:111:5"
+      ]
+    },
+    "25-2008": {
+      "narrator_ids": [
+        25,
+        2008
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:111:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2008",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2008.json"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "id": 2221,
+  "type": "narrator",
+  "path": "/people/narrators/2221",
+  "titles": {
+    "ar": "أَبِي هَارُونَ الْعَبْدِيِّ"
+  },
+  "versePaths": [
+    "/books/al-istibsar:1:111:18",
+    "/books/al-kafi:1:4:126:8",
+    "/books/kitab-al-ghayba-tusi:26:13",
+    "/books/kitab-al-ghayba-tusi:30:6",
+    "/books/tahdhib-al-ahkam:4:56:31"
+  ],
+  "verseCount": 5,
+  "relations": {},
+  "subchains": {
+    "13-2221": {
+      "narrator_ids": [
+        13,
+        2221
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:111:18",
+        "/books/tahdhib-al-ahkam:4:56:31"
+      ]
+    },
+    "13-2221-1269": {
+      "narrator_ids": [
+        13,
+        2221,
+        1269
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:111:18",
+        "/books/tahdhib-al-ahkam:4:56:31"
+      ]
+    },
+    "2221-1269": {
+      "narrator_ids": [
+        2221,
+        1269
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:111:18",
+        "/books/al-kafi:1:4:126:8",
+        "/books/kitab-al-ghayba-tusi:26:13",
+        "/books/tahdhib-al-ahkam:4:56:31"
+      ]
+    },
+    "2228-2221": {
+      "narrator_ids": [
+        2228,
+        2221
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:126:8"
+      ]
+    },
+    "4-29-725-669-29-391-2228-2221-1269": {
+      "narrator_ids": [
+        4,
+        29,
+        725,
+        669,
+        29,
+        391,
+        2228,
+        2221,
+        1269
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:126:8"
+      ]
+    },
+    "418-2221": {
+      "narrator_ids": [
+        418,
+        2221
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:30:6"
+      ]
+    },
+    "4521-4-725-2221-1269": {
+      "narrator_ids": [
+        4521,
+        4,
+        725,
+        2221,
+        1269
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:26:13"
+      ]
+    },
+    "4521-97-13-2631-418-2221": {
+      "narrator_ids": [
+        4521,
+        97,
+        13,
+        2631,
+        418,
+        2221
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:30:6"
+      ]
+    },
+    "725-2221": {
+      "narrator_ids": [
+        725,
+        2221
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:26:13"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2221",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2221.json"
+  }
+}

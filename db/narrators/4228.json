@@ -1,0 +1,43 @@
+{
+  "id": 4228,
+  "type": "narrator",
+  "path": "/people/narrators/4228",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ دَاذَوَيْهِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:7:18:9"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "101-4228": {
+      "narrator_ids": [
+        101,
+        4228
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:18:9"
+      ]
+    },
+    "6-8-101-4228": {
+      "narrator_ids": [
+        6,
+        8,
+        101,
+        4228
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:18:9"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4228",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4228.json"
+  }
+}

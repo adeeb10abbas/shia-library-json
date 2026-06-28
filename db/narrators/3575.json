@@ -1,0 +1,53 @@
+{
+  "id": 3575,
+  "type": "narrator",
+  "path": "/people/narrators/3575",
+  "titles": {
+    "ar": "عَبْدِ اللَّهِ بْنِ جُنْدَبٍ يَرْفَعُهُ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:3:18:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-259-311-3575-9": {
+      "narrator_ids": [
+        11,
+        259,
+        311,
+        3575,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:3:18:2"
+      ]
+    },
+    "311-3575": {
+      "narrator_ids": [
+        311,
+        3575
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:3:18:2"
+      ]
+    },
+    "3575-9": {
+      "narrator_ids": [
+        3575,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:3:18:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3575",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3575.json"
+  }
+}

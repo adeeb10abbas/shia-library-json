@@ -1,0 +1,1710 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:4:3:99",
+  "chapter": {
+    "path": "/books/al-kafi:4:3:99",
+    "titles": {
+      "ar": "بَابُ أَدَبِ الْمُحْرِمِ",
+      "en": "Chapter 99 – Disciplines of the one in Ihraam"
+    }
+  },
+  "count": 12,
+  "records": [
+    {
+      "id": "al-kafi:4:3:99:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:4:3:99:1",
+        "parts": [
+          4,
+          3,
+          99,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 3,
+        "chapter": 99,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:4:3:99",
+        "titles": {
+          "ar": "بَابُ أَدَبِ الْمُحْرِمِ",
+          "en": "Chapter 99 – Disciplines of the one in Ihraam"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " إِذَا حَكَكْتَ رَأْسَكَ فَحُكَّهُ حَكّاً رَفِيقاً وَ لَا تَحُكَّنَّ بِالْأَظْفَارِ وَ لَكِنْ بِأَطْرَافِ الْأَصَابِعِ ."
+        ],
+        "text": "إِذَا حَكَكْتَ رَأْسَكَ فَحُكَّهُ حَكّاً رَفِيقاً وَ لَا تَحُكَّنَّ بِالْأَظْفَارِ وَ لَكِنْ بِأَطْرَافِ الْأَصَابِعِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Ali Bin Al Hakam, from Ali Bin Abu Hamza, from Abu Baseer, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘When you scratch your head, so scratch gently, and do not scratch with the nails, but with the side of your fingers’."
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Ali Bin Al Hakam, from Ali Bin Abu Hamza, from Abu Baseer,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘When you scratch your head, so scratch gently, and do not scratch with the nails, but with the side of your fingers’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from Ali ibn al-Hakam from Ali ibn abu Hamzah from abu Basir who has said the following: “Abu ‘ Abd Allah, ‘Alayhi al-Salam, has said, ‘If you want to scratch your head while you are in the state of Ihram, then scratch very gently. You must not scratch with your finger nails, but scratch with the tip of your fingers.’” "
+          ],
+          "text": "1. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from Ali ibn al-Hakam from Ali ibn abu Hamzah from abu Basir who has said the following: “Abu ‘ Abd Allah, ‘Alayhi al-Salam, has said, ‘If you want to scratch your head while you are in the state of Ihram, then scratch very gently. You must not scratch with your finger nails, but scratch with the tip of your fingers.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (7/330)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (7/330)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنْ عَلِيِّ بْنِ الْحَكَمِ عَنْ عَلِيِّ بْنِ أَبِي حَمْزَةَ عَنْ أَبِي بَصِيرٍ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيِّ بْنِ الْحَكَمِ",
+            "path": "/people/narrators/15"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيِّ بْنِ أَبِي حَمْزَةَ",
+            "path": "/people/narrators/57"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي بَصِيرٍ",
+            "path": "/people/narrators/14"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/5",
+          "/people/narrators/15",
+          "/people/narrators/57",
+          "/people/narrators/14",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:3:3:86:2",
+          "/books/al-kafi:4:3:109:1",
+          "/books/al-kafi:4:3:165:2",
+          "/books/al-kafi:4:3:57:2",
+          "/books/al-kafi:4:3:86:1",
+          "/books/al-kafi:4:3:97:9",
+          "/books/al-kafi:5:3:32:3",
+          "/books/al-kafi:5:3:82:9",
+          "/books/al-kafi:6:2:50:2",
+          "/books/al-kafi:6:2:79:7",
+          "/books/al-kafi:6:3:2:2",
+          "/books/al-kafi:6:5:10:2",
+          "/books/al-kafi:6:6:8:2",
+          "/books/al-kafi:7:3:36:2",
+          "/books/al-kafi:7:3:7:3",
+          "/books/al-kafi:7:4:18:3",
+          "/books/al-kafi:7:4:23:4",
+          "/books/al-kafi:7:4:29:2",
+          "/books/al-kafi:7:4:44:3"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:4:3:99:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/4/3/99/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:4:3:99:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:4:3:99:2",
+        "parts": [
+          4,
+          3,
+          99,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 3,
+        "chapter": 99,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:4:3:99",
+        "titles": {
+          "ar": "بَابُ أَدَبِ الْمُحْرِمِ",
+          "en": "Chapter 99 – Disciplines of the one in Ihraam"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " إِذَا اغْتَسَلَ الْمُحْرِمُ مِنَ الْجَنَابَةِ يَصُبُّ عَلَى رَأْسِهِ وَ يُمَيِّزُ الشَّعْرَ بِأَنَامِلِهِ بَعْضَهُ مِنْ بَعْضٍ ."
+        ],
+        "text": "إِذَا اغْتَسَلَ الْمُحْرِمُ مِنَ الْجَنَابَةِ يَصُبُّ عَلَى رَأْسِهِ وَ يُمَيِّزُ الشَّعْرَ بِأَنَامِلِهِ بَعْضَهُ مِنْ بَعْضٍ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father, from Hammad, from Hareyz, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘When the one in <span class=\"iTxt\">Ihraam</span> washes from the sexual impurity, he can pour (water) upon his head and separate the hairs by his fingers, from each other’."
+          ],
+          "text": "Ali Bin Ibrahim, from his father, from Hammad, from Hareyz,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘When the one in <span class=\"iTxt\">Ihraam</span> washes from the sexual impurity, he can pour (water) upon his head and separate the hairs by his fingers, from each other’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. Ali ibn Ibrahim has narrated from his father from Hammad from Hariz who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘If one who is in the state of Ihram takes Ghusl (bath) due to sexual relation (because of which Ghusl (bath) is obligatory), he can pour water over his head and separate the hairs from each other with his fingers.’” "
+          ],
+          "text": "2. Ali ibn Ibrahim has narrated from his father from Hammad from Hariz who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘If one who is in the state of Ihram takes Ghusl (bath) due to sexual relation (because of which Ghusl (bath) is obligatory), he can pour water over his head and separate the hairs from each other with his fingers.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> حسن   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (17/330)",
+          "label": "حسن",
+          "text": "Allamah Baqir al-Majlisi: حسن - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (17/330)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنْ حَمَّادٍ عَنْ حَرِيزٍ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "حَمَّادٍ",
+            "path": "/people/narrators/23"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "حَرِيزٍ",
+            "path": "/people/narrators/40"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/23",
+          "/people/narrators/40",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-istibsar:2:89:2",
+          "/books/al-istibsar:4:38:49",
+          "/books/al-kafi:3:4:15:1",
+          "/books/al-kafi:4:2:25:2",
+          "/books/al-kafi:4:2:39:4",
+          "/books/al-kafi:4:3:19:2",
+          "/books/al-kafi:4:3:19:5",
+          "/books/al-kafi:4:3:58:7",
+          "/books/al-kafi:4:3:79:7",
+          "/books/al-kafi:5:2:49:15",
+          "/books/al-kafi:5:2:58:1",
+          "/books/tahdhib-al-ahkam:7:1:33",
+          "/books/tahdhib-al-ahkam:9:22:4"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:4:3:99:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/4/3/99/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:4:3:99:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:4:3:99:3",
+        "parts": [
+          4,
+          3,
+          99,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 3,
+        "chapter": 99,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:4:3:99",
+        "titles": {
+          "ar": "بَابُ أَدَبِ الْمُحْرِمِ",
+          "en": "Chapter 99 – Disciplines of the one in Ihraam"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " لَا بَأْسَ بِأَنْ يَدْخُلَ الْمُحْرِمُ الْحَمَّامَ وَ لَكِنْ لَا يَتَدَلَّكُ ."
+        ],
+        "text": "لَا بَأْسَ بِأَنْ يَدْخُلَ الْمُحْرِمُ الْحَمَّامَ وَ لَكِنْ لَا يَتَدَلَّكُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Ibn Fazzal, from one of our companions, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘There is no problem with it if the one in <span class=\"iTxt\">Ihraam</span> were to enter the bathhouse, but he should not massage’."
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Ibn Fazzal, from one of our companions,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘There is no problem with it if the one in <span class=\"iTxt\">Ihraam</span> were to enter the bathhouse, but he should not massage’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "3. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from ibn Faddal from certain persons of our people who have said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘It is not harmful for one in the state of Ihram to use bath houses but he must not scrub and massage his body.’” "
+          ],
+          "text": "3. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from ibn Faddal from certain persons of our people who have said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘It is not harmful for one in the state of Ihram to use bath houses but he must not scrub and massage his body.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مرسل    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (17/330)",
+          "label": "مرسل",
+          "text": "Allamah Baqir al-Majlisi: مرسل - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (17/330)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنِ ابْنِ فَضَّالٍ عَنْ بَعْضِ أَصْحَابِنَا عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ فَضَّالٍ",
+            "path": "/people/narrators/22"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "بَعْضِ أَصْحَابِنَا",
+            "path": "/people/narrators/36"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/5",
+          "/people/narrators/22",
+          "/people/narrators/36",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:3:4:58:11",
+          "/books/al-kafi:7:7:9:4"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:4:3:99:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/4/3/99/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:4:3:99:4",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:4:3:99:4",
+        "parts": [
+          4,
+          3,
+          99,
+          4
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 3,
+        "chapter": 99,
+        "hadith": 4
+      },
+      "chapter": {
+        "path": "/books/al-kafi:4:3:99",
+        "titles": {
+          "ar": "بَابُ أَدَبِ الْمُحْرِمِ",
+          "en": "Chapter 99 – Disciplines of the one in Ihraam"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " لَيْسَ لِلْمُحْرِمِ أَنْ يُلَبِّيَ مَنْ دَعَاهُ حَتَّى يَقْضِيَ إِحْرَامَهُ قُلْتُ كَيْفَ يَقُولُ قَالَ يَقُولُ يَا سَعْدُ ."
+        ],
+        "text": "لَيْسَ لِلْمُحْرِمِ أَنْ يُلَبِّيَ مَنْ دَعَاهُ حَتَّى يَقْضِيَ إِحْرَامَهُ قُلْتُ كَيْفَ يَقُولُ قَالَ يَقُولُ يَا سَعْدُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Muhammad Bin Al Husayn, from Muhammad Bin Ismail, from Hammad Bin Isa, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘It is not (correct) for the one in <span class=\"iTxt\">Ihraam</span> that he answers by (saying), ‘Labbeyk’ (Here I am!), until his <span class=\"iTxt\">Ihraam</span> is off’. I said, ‘How should he be saying?’ He<sup>asws</sup> said: ‘He should be saying, ‘(Yes) O <span class=\"iTxt\">Sa’a</span>d!’’."
+          ],
+          "text": "Muhammad Bin Yahya, from Muhammad Bin Al Husayn, from Muhammad Bin Ismail, from Hammad Bin Isa,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘It is not (correct) for the one in <span class=\"iTxt\">Ihraam</span> that he answers by (saying), ‘Labbeyk’ (Here I am!), until his <span class=\"iTxt\">Ihraam</span> is off’. I said, ‘How should he be saying?’ He<sup>asws</sup> said: ‘He should be saying, ‘(Yes) O <span class=\"iTxt\">Sa’a</span>d!’’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "4. Muhammad ibn Yahya has narrated from Muhammad ibn al-Husayn from Muhammad ibn ‘Isma‘il from Hammad ibn ‘Isa who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘One who is in the state of Ihram must not answer anyone with the world ‘Labbayka’ until Ihram is complete.’ I then asked, ‘How he must say it.’ He (the Imam) said, ‘He can say, ‘O Sa‘d.’” "
+          ],
+          "text": "4. Muhammad ibn Yahya has narrated from Muhammad ibn al-Husayn from Muhammad ibn ‘Isma‘il from Hammad ibn ‘Isa who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘One who is in the state of Ihram must not answer anyone with the world ‘Labbayka’ until Ihram is complete.’ I then asked, ‘How he must say it.’ He (the Imam) said, ‘He can say, ‘O Sa‘d.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> صحيح  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (7/330)",
+          "label": "صحيح",
+          "text": "Allamah Baqir al-Majlisi: صحيح - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (7/330)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ مُحَمَّدِ بْنِ الْحُسَيْنِ عَنْ مُحَمَّدِ بْنِ إِسْمَاعِيلَ عَنْ حَمَّادِ بْنِ عِيسَى عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ الْحُسَيْنِ",
+            "path": "/people/narrators/29"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ إِسْمَاعِيلَ",
+            "path": "/people/narrators/17"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "حَمَّادِ بْنِ عِيسَى",
+            "path": "/people/narrators/38"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/29",
+          "/people/narrators/17",
+          "/people/narrators/38",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:4:3:99:4",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/4/3/99/4.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:4:3:99:5",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:4:3:99:5",
+        "parts": [
+          4,
+          3,
+          99,
+          5
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 3,
+        "chapter": 99,
+        "hadith": 5
+      },
+      "chapter": {
+        "path": "/books/al-kafi:4:3:99",
+        "titles": {
+          "ar": "بَابُ أَدَبِ الْمُحْرِمِ",
+          "en": "Chapter 99 – Disciplines of the one in Ihraam"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَأَلْتُهُ عَنِ الْمُحْرِمِ يَتَخَلَّلُ قَالَ لَا بَأْسَ ."
+        ],
+        "text": "سَأَلْتُهُ عَنِ الْمُحْرِمِ يَتَخَلَّلُ قَالَ لَا بَأْسَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, and Ahmad Bin Idrees, from Muhammad Bin Ahmad, from Ahmad Bin Al Hassan, from Amro Bin Saeed, from Musaddaq Bin Sadawa, from Ammar Bin Musa, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup>, said, ‘I asked him<sup>asws</sup> about the one in <span class=\"iTxt\">Ihraam</span>, whether he can pick (clean) his teeth’. He<sup>asws</sup> said: ‘There is no problem’."
+          ],
+          "text": "Muhammad Bin Yahya, and Ahmad Bin Idrees, from Muhammad Bin Ahmad, from Ahmad Bin Al Hassan, from Amro Bin Saeed, from Musaddaq Bin Sadawa, from Ammar Bin Musa,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup>, said, ‘I asked him<sup>asws</sup> about the one in <span class=\"iTxt\">Ihraam</span>, whether he can pick (clean) his teeth’. He<sup>asws</sup> said: ‘There is no problem’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "5. Muhammad ibn Yahya and Ahmad ibn Idris has narrated from Muhammad ibn Ahmad from Ahmad ibn al-Hassan from ’Amr ibn Sa‘id from Musaddiq ibn Sadaqah from ‘Ammar ibn Musa who has said the following: “I once asked abu ‘Abd Allah, ‘Alayhi al-Salam, about a man who uses a toothpick while he is in the state of Ihram. He (the Imam) said, ‘It is not harmful.’” "
+          ],
+          "text": "5. Muhammad ibn Yahya and Ahmad ibn Idris has narrated from Muhammad ibn Ahmad from Ahmad ibn al-Hassan from ’Amr ibn Sa‘id from Musaddiq ibn Sadaqah from ‘Ammar ibn Musa who has said the following: “I once asked abu ‘Abd Allah, ‘Alayhi al-Salam, about a man who uses a toothpick while he is in the state of Ihram. He (the Imam) said, ‘It is not harmful.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> موثق    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (17/331)",
+          "label": "موثق",
+          "text": "Allamah Baqir al-Majlisi: موثق - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (17/331)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى وَ أَحْمَدُ بْنُ إِدْرِيسَ عَنْ مُحَمَّدِ بْنِ أَحْمَدَ عَنْ أَحْمَدَ بْنِ الْحَسَنِ عَنْ عَمْرِو بْنِ سَعِيدٍ عَنْ مُصَدِّقِ بْنِ صَدَقَةَ عَنْ عَمَّارِ بْنِ مُوسَى عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " وَ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدُ بْنُ إِدْرِيسَ",
+            "path": "/people/narrators/97"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ أَحْمَدَ",
+            "path": "/people/narrators/59"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ الْحَسَنِ",
+            "path": "/people/narrators/243"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَمْرِو بْنِ سَعِيدٍ",
+            "path": "/people/narrators/142"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُصَدِّقِ بْنِ صَدَقَةَ",
+            "path": "/people/narrators/159"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَمَّارِ بْنِ مُوسَى",
+            "path": "/people/narrators/210"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/97",
+          "/people/narrators/59",
+          "/people/narrators/243",
+          "/people/narrators/142",
+          "/people/narrators/159",
+          "/people/narrators/210",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:4:3:99:5",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/4/3/99/5.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:4:3:99:6",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:4:3:99:6",
+        "parts": [
+          4,
+          3,
+          99,
+          6
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 3,
+        "chapter": 99,
+        "hadith": 6
+      },
+      "chapter": {
+        "path": "/books/al-kafi:4:3:99",
+        "titles": {
+          "ar": "بَابُ أَدَبِ الْمُحْرِمِ",
+          "en": "Chapter 99 – Disciplines of the one in Ihraam"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قُلْتُ لِأَبِي عَبْدِ اللَّهِ ( عليه السلام ) الْمُحْرِمُ يَسْتَاكُ قَالَ نَعَمْ قُلْتُ فَإِنْ أَدْمَى يَسْتَاكُ قَالَ نَعَمْ هُوَ مِنَ السُّنَّةِ وَ رُوِيَ أَيْضاً لَا يَسْتَدْمِي ."
+        ],
+        "text": "قُلْتُ لِأَبِي عَبْدِ اللَّهِ ( عليه السلام ) الْمُحْرِمُ يَسْتَاكُ قَالَ نَعَمْ قُلْتُ فَإِنْ أَدْمَى يَسْتَاكُ قَالَ نَعَمْ هُوَ مِنَ السُّنَّةِ وَ رُوِيَ أَيْضاً لَا يَسْتَدْمِي ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father, from Ibn Abu Umeyr, from Muawiya who said, ",
+            "‘I said to Abu Abdullah<sup>asws</sup>, ‘The one in <span class=\"iTxt\">Ihraam</span>, can he brush his teeth?’ He<sup>asws</sup> said: ‘Yes’. I said, ‘Supposing he brushes his teeth habitually (frequently)?’ He<sup>asws</sup> said: ‘Yes, it is from the Sunnah’. And it is reported that that he should not bleed."
+          ],
+          "text": "Ali Bin Ibrahim, from his father, from Ibn Abu Umeyr, from Muawiya who said,\n\n‘I said to Abu Abdullah<sup>asws</sup>, ‘The one in <span class=\"iTxt\">Ihraam</span>, can he brush his teeth?’ He<sup>asws</sup> said: ‘Yes’. I said, ‘Supposing he brushes his teeth habitually (frequently)?’ He<sup>asws</sup> said: ‘Yes, it is from the Sunnah’. And it is reported that that he should not bleed."
+        },
+        "en.sarwar": {
+          "segments": [
+            "6. Ali ibn Ibrahim has narrated from his father from ibn abu ‘Umayr from Mu‘awiyah who has said the following: “I once asked abu ‘Abd Allah, ‘Alayhi al-Salam, about a man who is in the state of Ihram; if he can brush his teeth. He (the Imam) said, ‘Yes, it is of the Sunnah.’ It is also narrated that one must not make his teeth bleed.” "
+          ],
+          "text": "6. Ali ibn Ibrahim has narrated from his father from ibn abu ‘Umayr from Mu‘awiyah who has said the following: “I once asked abu ‘Abd Allah, ‘Alayhi al-Salam, about a man who is in the state of Ihram; if he can brush his teeth. He (the Imam) said, ‘Yes, it is of the Sunnah.’ It is also narrated that one must not make his teeth bleed.”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> حسن  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (7/331)",
+          "label": "حسن",
+          "text": "Allamah Baqir al-Majlisi: حسن - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (7/331)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنِ ابْنِ أَبِي عُمَيْرٍ عَنْ مُعَاوِيَةَ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ أَبِي عُمَيْرٍ",
+            "path": "/people/narrators/7"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُعَاوِيَةَ",
+            "path": "/people/narrators/399"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/7",
+          "/people/narrators/399"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:4:3:75:8"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:4:3:99:6",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/4/3/99/6.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:4:3:99:7",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:4:3:99:7",
+        "parts": [
+          4,
+          3,
+          99,
+          7
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 3,
+        "chapter": 99,
+        "hadith": 7
+      },
+      "chapter": {
+        "path": "/books/al-kafi:4:3:99",
+        "titles": {
+          "ar": "بَابُ أَدَبِ الْمُحْرِمِ",
+          "en": "Chapter 99 – Disciplines of the one in Ihraam"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَأَلْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) هَلْ يَحُكُّ الْمُحْرِمُ رَأْسَهُ وَ يَغْتَسِلُ بِالْمَاءِ قَالَ يَحُكُّ رَأْسَهُ مَا لَمْ يَتَعَمَّدْ قَتْلَ دَابَّةٍ وَ لَا بَأْسَ بِأَنْ يَغْتَسِلَ بِالْمَاءِ وَ يَصُبَّ عَلَى رَأْسِهِ مَا لَمْ يَكُنْ مُلَبِّداً فَإِنْ كَانَ مُلَبِّداً فَلَا يُفِيضُ عَلَى رَأْسِهِ الْمَاءَ إِلَّا مِنَ الِاحْتِلَامِ ."
+        ],
+        "text": "سَأَلْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) هَلْ يَحُكُّ الْمُحْرِمُ رَأْسَهُ وَ يَغْتَسِلُ بِالْمَاءِ قَالَ يَحُكُّ رَأْسَهُ مَا لَمْ يَتَعَمَّدْ قَتْلَ دَابَّةٍ وَ لَا بَأْسَ بِأَنْ يَغْتَسِلَ بِالْمَاءِ وَ يَصُبَّ عَلَى رَأْسِهِ مَا لَمْ يَكُنْ مُلَبِّداً فَإِنْ كَانَ مُلَبِّداً فَلَا يُفِيضُ عَلَى رَأْسِهِ الْمَاءَ إِلَّا مِنَ الِاحْتِلَامِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Humeyd Bin Ziyad, from Ibn Sama’at, from someone else, from Aban, from Zurara who said, ",
+            "‘I asked Abu Abdullah<sup>asws</sup> about the one in <span class=\"iTxt\">Ihraam, </span>if he can scratch his head and wash (his head) with the water?’ He<sup>asws</sup> said: ‘He can scratch his head for as long as he does not intend killing the insects; and there is no problem with him washing with the water, and he can pour upon his head for as long as he does not happen to have applied ‘talbid’ (lice powder). So, if he was such, having applied lice powder, so he should not pour the water upon his head, except if (after becoming impure) due to wet-dream’."
+          ],
+          "text": "Humeyd Bin Ziyad, from Ibn Sama’at, from someone else, from Aban, from Zurara who said,\n\n‘I asked Abu Abdullah<sup>asws</sup> about the one in <span class=\"iTxt\">Ihraam, </span>if he can scratch his head and wash (his head) with the water?’ He<sup>asws</sup> said: ‘He can scratch his head for as long as he does not intend killing the insects; and there is no problem with him washing with the water, and he can pour upon his head for as long as he does not happen to have applied ‘talbid’ (lice powder). So, if he was such, having applied lice powder, so he should not pour the water upon his head, except if (after becoming impure) due to wet-dream’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "7. Humayd ibn Ziyad has narrated from ibn Sama‘ah from more than one person from Aban from Zurarah who has said the following: “I once asked abu ‘Abd Allah, ‘Alayhi al-Salam, about a man who is in the state of Ihram; if he can scratch his head and wash it with water. He (the Imam) said, ‘He can scratch his head as long as he is certain of not killing a moving thing but it is not harmful to wash with water unless one’s head is treated with talbid (a medicine against lice), in which case one must not pour water over his head except because of wet-dream.’” "
+          ],
+          "text": "7. Humayd ibn Ziyad has narrated from ibn Sama‘ah from more than one person from Aban from Zurarah who has said the following: “I once asked abu ‘Abd Allah, ‘Alayhi al-Salam, about a man who is in the state of Ihram; if he can scratch his head and wash it with water. He (the Imam) said, ‘He can scratch his head as long as he is certain of not killing a moving thing but it is not harmful to wash with water unless one’s head is treated with talbid (a medicine against lice), in which case one must not pour water over his head except because of wet-dream.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مرسل كالموثق    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (17/331)",
+          "label": "مرسل كالموثق",
+          "text": "Allamah Baqir al-Majlisi: مرسل كالموثق - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (17/331)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "حُمَيْدُ بْنُ زِيَادٍ عَنِ ابْنِ سَمَاعَةَ عَنْ غَيْرِ وَاحِدٍ عَنْ أَبَانٍ عَنْ زُرَارَةَ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "حُمَيْدُ بْنُ زِيَادٍ",
+            "path": "/people/narrators/49"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ سَمَاعَةَ",
+            "path": "/people/narrators/107"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "غَيْرِ وَاحِدٍ",
+            "path": "/people/narrators/84"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبَانٍ",
+            "path": "/people/narrators/46"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "زُرَارَةَ",
+            "path": "/people/narrators/18"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/49",
+          "/people/narrators/107",
+          "/people/narrators/84",
+          "/people/narrators/46",
+          "/people/narrators/18"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:4:3:210:3"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:4:3:99:7",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/4/3/99/7.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:4:3:99:8",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:4:3:99:8",
+        "parts": [
+          4,
+          3,
+          99,
+          8
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 3,
+        "chapter": 99,
+        "hadith": 8
+      },
+      "chapter": {
+        "path": "/books/al-kafi:4:3:99",
+        "titles": {
+          "ar": "بَابُ أَدَبِ الْمُحْرِمِ",
+          "en": "Chapter 99 – Disciplines of the one in Ihraam"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " يُكْرَهُ الِاحْتِبَاءُ لِلْمُحْرِمِ وَ يُكْرَهُ فِي الْمَسْجِدِ الْحَرَامِ ."
+        ],
+        "text": "يُكْرَهُ الِاحْتِبَاءُ لِلْمُحْرِمِ وَ يُكْرَهُ فِي الْمَسْجِدِ الْحَرَامِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Al Husayn Bin Muhammad, from Moalla Bin Muhammad, from Al Hassan Bin Ali, from Hammad Bin Usman, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The squatting (الِاحْتِبَاءُ) is disliked for the one in <span class=\"iTxt\">Ihraam</span>, and it is disliked in the Sacred Masjid’."
+          ],
+          "text": "Al Husayn Bin Muhammad, from Moalla Bin Muhammad, from Al Hassan Bin Ali, from Hammad Bin Usman,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The squatting (الِاحْتِبَاءُ) is disliked for the one in <span class=\"iTxt\">Ihraam</span>, and it is disliked in the Sacred Masjid’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "8. Al-Husayn ibn Muhammad has narrated from Mu‘alla’ ibn Muhammad from al-Hassan ibn Ali from Hammad ibn ‘Uthaman who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘It is undesirable for one in the state of Ihram to sit in Masjid al-Haram facing al-Ka‘bah in al-‘Ihtiba’ position (with one’s knees raised and legs against thighs with hips on the ground).”’ "
+          ],
+          "text": "8. Al-Husayn ibn Muhammad has narrated from Mu‘alla’ ibn Muhammad from al-Hassan ibn Ali from Hammad ibn ‘Uthaman who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘It is undesirable for one in the state of Ihram to sit in Masjid al-Haram facing al-Ka‘bah in al-‘Ihtiba’ position (with one’s knees raised and legs against thighs with hips on the ground).”’"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (17/331)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (17/331)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "الْحُسَيْنُ بْنُ مُحَمَّدٍ عَنْ مُعَلَّى بْنِ مُحَمَّدٍ عَنِ الْحَسَنِ بْنِ عَلِيٍّ عَنْ حَمَّادِ بْنِ عُثْمَانَ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "الْحُسَيْنُ بْنُ مُحَمَّدٍ",
+            "path": "/people/narrators/20"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُعَلَّى بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/25"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحَسَنِ بْنِ عَلِيٍّ",
+            "path": "/people/narrators/63"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "حَمَّادِ بْنِ عُثْمَانَ",
+            "path": "/people/narrators/54"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/20",
+          "/people/narrators/25",
+          "/people/narrators/63",
+          "/people/narrators/54",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:5:3:50:2",
+          "/books/al-kafi:6:2:57:9",
+          "/books/al-kafi:7:2:28:7",
+          "/books/tahdhib-al-ahkam:9:25:24"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:4:3:99:8",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/4/3/99/8.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:4:3:99:9",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:4:3:99:9",
+        "parts": [
+          4,
+          3,
+          99,
+          9
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 3,
+        "chapter": 99,
+        "hadith": 9
+      },
+      "chapter": {
+        "path": "/books/al-kafi:4:3:99",
+        "titles": {
+          "ar": "بَابُ أَدَبِ الْمُحْرِمِ",
+          "en": "Chapter 99 – Disciplines of the one in Ihraam"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَأَلْتُهُ عَنْ رَجُلَيْنِ اقْتَتَلَا وَ هُمَا مُحْرِمَانِ قَالَ سُبْحَانَ اللَّهِ بِئْسَ مَا صَنَعَا قُلْتُ قَدْ فَعَلَا فَمَا الَّذِي يَلْزَمُهُمَا قَالَ عَلَى كُلِّ وَاحِدٍ مِنْهُمَا دَمٌ ."
+        ],
+        "text": "سَأَلْتُهُ عَنْ رَجُلَيْنِ اقْتَتَلَا وَ هُمَا مُحْرِمَانِ قَالَ سُبْحَانَ اللَّهِ بِئْسَ مَا صَنَعَا قُلْتُ قَدْ فَعَلَا فَمَا الَّذِي يَلْزَمُهُمَا قَالَ عَلَى كُلِّ وَاحِدٍ مِنْهُمَا دَمٌ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Ali Bin Al Hakam, from Hafs Bin Bakhtary, from Abu Hallal Al Razy, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup>, said, ‘I asked him<sup>asws</sup> about the two men (pushing and) pulling each other, and they were both in <span class=\"iTxt\">Ihraam</span>. He<sup>asws</sup> said: ‘Glory be to Allah<sup>azwj</sup>! Evil is what they have both done’. I said, ‘They have done it. So what is that which necessitates the two of them?’ He<sup>asws</sup> said: ‘Upon each one of them is blood (of a sacrificial animal)’."
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Ali Bin Al Hakam, from Hafs Bin Bakhtary, from Abu Hallal Al Razy,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup>, said, ‘I asked him<sup>asws</sup> about the two men (pushing and) pulling each other, and they were both in <span class=\"iTxt\">Ihraam</span>. He<sup>asws</sup> said: ‘Glory be to Allah<sup>azwj</sup>! Evil is what they have both done’. I said, ‘They have done it. So what is that which necessitates the two of them?’ He<sup>asws</sup> said: ‘Upon each one of them is blood (of a sacrificial animal)’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "9. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from Ali ibn al-Hakam from Hafs ibn al-Bakhtariy from abu Halal al-Raziy who has said the following: “I once asked abu ‘Abd Allah, ‘Alayhi al-Salam, about the case of two men who fought each other while in the state of Ihram. He (the Imam) said, ‘Allah is free of all defects, how bad is what they have done!’ I said, ‘They have done it but what must they do?’ He (the Imam) said, ‘They must each offer one animal as offering.’” "
+          ],
+          "text": "9. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from Ali ibn al-Hakam from Hafs ibn al-Bakhtariy from abu Halal al-Raziy who has said the following: “I once asked abu ‘Abd Allah, ‘Alayhi al-Salam, about the case of two men who fought each other while in the state of Ihram. He (the Imam) said, ‘Allah is free of all defects, how bad is what they have done!’ I said, ‘They have done it but what must they do?’ He (the Imam) said, ‘They must each offer one animal as offering.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مجهول   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (17/332)",
+          "label": "مجهول",
+          "text": "Allamah Baqir al-Majlisi: مجهول - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (17/332)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنْ عَلِيِّ بْنِ الْحَكَمِ عَنْ حَفْصِ بْنِ الْبَخْتَرِيِّ عَنْ أَبِي حَلَّالٍ الرَّازِيِّ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيِّ بْنِ الْحَكَمِ",
+            "path": "/people/narrators/15"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "حَفْصِ بْنِ الْبَخْتَرِيِّ",
+            "path": "/people/narrators/115"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي حَلَّالٍ الرَّازِيِّ",
+            "path": "/people/narrators/2077"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/5",
+          "/people/narrators/15",
+          "/people/narrators/115",
+          "/people/narrators/2077",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:4:3:99:9",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/4/3/99/9.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:4:3:99:10",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:4:3:99:10",
+        "parts": [
+          4,
+          3,
+          99,
+          10
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 3,
+        "chapter": 99,
+        "hadith": 10
+      },
+      "chapter": {
+        "path": "/books/al-kafi:4:3:99",
+        "titles": {
+          "ar": "بَابُ أَدَبِ الْمُحْرِمِ",
+          "en": "Chapter 99 – Disciplines of the one in Ihraam"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَأَلْتُهُ عَنِ الْمُحْرِمِ يُصَارِعُ هَلْ يَصْلُحُ لَهُ قَالَ لَا يَصْلُحُ لَهُ مَخَافَةَ أَنْ يُصِيبَهُ جِرَاحٌ أَوْ يَقَعَ بَعْضُ شَعْرِهِ ."
+        ],
+        "text": "سَأَلْتُهُ عَنِ الْمُحْرِمِ يُصَارِعُ هَلْ يَصْلُحُ لَهُ قَالَ لَا يَصْلُحُ لَهُ مَخَافَةَ أَنْ يُصِيبَهُ جِرَاحٌ أَوْ يَقَعَ بَعْضُ شَعْرِهِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad in Yahya, from Ahmad Bin Muhammad, from Al Amraky Bin Ali, ",
+            "(It has been narrated) from Ali son of Ja’far<sup>asws</sup>, from his brother<sup>asws</sup>, Abu Al-Hassan<sup>asws</sup>, said, ‘I asked him<sup>asws</sup> about the one in <span class=\"iTxt\">Ihraam</span> grappling (with someone). Is it correct for him to do so?’ He<sup>asws</sup> said: ‘It is not correct for him out of fear that an injury might hit him, or some of his hair might fall off’."
+          ],
+          "text": "Muhammad in Yahya, from Ahmad Bin Muhammad, from Al Amraky Bin Ali,\n\n(It has been narrated) from Ali son of Ja’far<sup>asws</sup>, from his brother<sup>asws</sup>, Abu Al-Hassan<sup>asws</sup>, said, ‘I asked him<sup>asws</sup> about the one in <span class=\"iTxt\">Ihraam</span> grappling (with someone). Is it correct for him to do so?’ He<sup>asws</sup> said: ‘It is not correct for him out of fear that an injury might hit him, or some of his hair might fall off’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "10. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from al-‘Amrakiy from Ali ibn Ja’far who has said the following: “I once asked abu al-Hassan, ‘Alayhi al-Salam, about a man who is in the state of Ihram; if he can fight a contest. He (the Imam) said, ‘No, because he may sustain injuries or his hair may fall.’” "
+          ],
+          "text": "10. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from al-‘Amrakiy from Ali ibn Ja’far who has said the following: “I once asked abu al-Hassan, ‘Alayhi al-Salam, about a man who is in the state of Ihram; if he can fight a contest. He (the Imam) said, ‘No, because he may sustain injuries or his hair may fall.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> صحيح   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (7/332)",
+          "label": "صحيح",
+          "text": "Allamah Baqir al-Majlisi: صحيح - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (7/332)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنِ الْعَمْرَكِيِّ بْنِ عَلِيٍّ عَنْ عَلِيِّ بْنِ جَعْفَرٍ عَنْ أَخِيهِ أَبِي الْحَسَنِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْعَمْرَكِيِّ بْنِ عَلِيٍّ",
+            "path": "/people/narrators/249"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيِّ بْنِ جَعْفَرٍ",
+            "path": "/people/narrators/136"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَخِيهِ أَبِي الْحَسَنِ ( عليه السلام )",
+            "path": "/people/narrators/276"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/5",
+          "/people/narrators/249",
+          "/people/narrators/136",
+          "/people/narrators/276"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:4:3:99:10",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/4/3/99/10.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:4:3:99:11",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:4:3:99:11",
+        "parts": [
+          4,
+          3,
+          99,
+          11
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 3,
+        "chapter": 99,
+        "hadith": 11
+      },
+      "chapter": {
+        "path": "/books/al-kafi:4:3:99",
+        "titles": {
+          "ar": "بَابُ أَدَبِ الْمُحْرِمِ",
+          "en": "Chapter 99 – Disciplines of the one in Ihraam"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَأَلَ أَبُو عَبْدِ الرَّحْمَنِ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) عَنِ الْمُحْرِمِ يُعَالِجُ دَبَرَ الْجَمَلِ قَالَ فَقَالَ يُلْقِي عَنْهُ الدَّوَابَّ وَ لَا يُدْمِيهِ ."
+        ],
+        "text": "سَأَلَ أَبُو عَبْدِ الرَّحْمَنِ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) عَنِ الْمُحْرِمِ يُعَالِجُ دَبَرَ الْجَمَلِ قَالَ فَقَالَ يُلْقِي عَنْهُ الدَّوَابَّ وَ لَا يُدْمِيهِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Abu Ali Al Ashary, from Al Hassan Bin Ali Al Kufy, from Al Abbas Bin Aamir, from Abdulla Bin Jabala, from Abdullah Bin Saeed who said, ",
+            "‘Abu Abdul Rahman asked Abu Abdullah<sup>asws</sup> about the one in <span class=\"iTxt\">Ihraam</span> treating the back of the camel. So he<sup>asws</sup> said: ‘He can cast off the insects from it and he should not bleed it’."
+          ],
+          "text": "Abu Ali Al Ashary, from Al Hassan Bin Ali Al Kufy, from Al Abbas Bin Aamir, from Abdulla Bin Jabala, from Abdullah Bin Saeed who said,\n\n‘Abu Abdul Rahman asked Abu Abdullah<sup>asws</sup> about the one in <span class=\"iTxt\">Ihraam</span> treating the back of the camel. So he<sup>asws</sup> said: ‘He can cast off the insects from it and he should not bleed it’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "11. Abu Ali al-Ash’ariy has narrated from al-Hassan ibn Ali al-Kufiy, from al-‘ Ab has ibn ‘Amir, from ‘Abd Allah ibn Jabalah from ‘Abd Allah ibn Sa‘d who has said the following: “‘Abd al-Rahman once asked abu ‘Abd Allah, ‘Alayhi al-Salam, about a man’s treating the backside of a camel while in the state of Ihram. He (the Imam) said, ‘He can throw away bugs but must not make it bleed.’” "
+          ],
+          "text": "11. Abu Ali al-Ash’ariy has narrated from al-Hassan ibn Ali al-Kufiy, from al-‘ Ab has ibn ‘Amir, from ‘Abd Allah ibn Jabalah from ‘Abd Allah ibn Sa‘d who has said the following: “‘Abd al-Rahman once asked abu ‘Abd Allah, ‘Alayhi al-Salam, about a man’s treating the backside of a camel while in the state of Ihram. He (the Imam) said, ‘He can throw away bugs but must not make it bleed.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> موثق   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (17/332)",
+          "label": "موثق",
+          "text": "Allamah Baqir al-Majlisi: موثق - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (17/332)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "أَبُو عَلِيٍّ الْأَشْعَرِيُّ عَنِ الْحَسَنِ بْنِ عَلِيٍّ الْكُوفِيِّ عَنِ الْعَبَّاسِ بْنِ عَامِرٍ عَنْ عَبْدِ اللَّهِ بْنِ جَبَلَةَ عَنْ عَبْدِ اللَّهِ بْنِ سَعِيدٍ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "أَبُو عَلِيٍّ الْأَشْعَرِيُّ",
+            "path": "/people/narrators/19"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحَسَنِ بْنِ عَلِيٍّ الْكُوفِيِّ",
+            "path": "/people/narrators/187"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْعَبَّاسِ بْنِ عَامِرٍ",
+            "path": "/people/narrators/292"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَبْدِ اللَّهِ بْنِ جَبَلَةَ",
+            "path": "/people/narrators/124"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَبْدِ اللَّهِ بْنِ سَعِيدٍ",
+            "path": "/people/narrators/3580"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/19",
+          "/people/narrators/187",
+          "/people/narrators/292",
+          "/people/narrators/124",
+          "/people/narrators/3580"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:4:3:99:11",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/4/3/99/11.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:4:3:99:12",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:4:3:99:12",
+        "parts": [
+          4,
+          3,
+          99,
+          12
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 3,
+        "chapter": 99,
+        "hadith": 12
+      },
+      "chapter": {
+        "path": "/books/al-kafi:4:3:99",
+        "titles": {
+          "ar": "بَابُ أَدَبِ الْمُحْرِمِ",
+          "en": "Chapter 99 – Disciplines of the one in Ihraam"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَأَلْتُهُ عَنِ الْمُحْرِمِ يَكُونُ بِهِ الْجَرَبُ فَيُؤْذِيهِ قَالَ يَحُكُّهُ فَإِنْ سَالَ مِنْهُ الدَّمُ فَلَا بَأْسَ ."
+        ],
+        "text": "سَأَلْتُهُ عَنِ الْمُحْرِمِ يَكُونُ بِهِ الْجَرَبُ فَيُؤْذِيهِ قَالَ يَحُكُّهُ فَإِنْ سَالَ مِنْهُ الدَّمُ فَلَا بَأْسَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Muhammad Bin Ahmad Bin Al Hassan, from Amro Bin Saeed, from Musaddaq Bin Sadaqa, from Ammae Bin Musa, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup>, said, ‘I asked him<sup>asws</sup> about the one in <span class=\"iTxt\">Ihraam</span> who happens to be with scabies, so it harms him. He<sup>asws</sup> said: ‘He can scrape it. So if the blood were to flow from it, there would be no problem’."
+          ],
+          "text": "Muhammad Bin Yahya, from Muhammad Bin Ahmad Bin Al Hassan, from Amro Bin Saeed, from Musaddaq Bin Sadaqa, from Ammae Bin Musa,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup>, said, ‘I asked him<sup>asws</sup> about the one in <span class=\"iTxt\">Ihraam</span> who happens to be with scabies, so it harms him. He<sup>asws</sup> said: ‘He can scrape it. So if the blood were to flow from it, there would be no problem’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "12. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from Ahmad ibn al-Hassan from ‘Amr ibn Sa‘id from Musaddiq ibn Sadaqah from ‘Ammar ibn Musa who has said the following: “I once asked abu ‘Abd Allah, ‘Alayhi al-Salam, about a man who is in the state of Ihram and has itches that irritate him. He (the Imam) said, ‘He can scratch it and if it bleeds it is not harmful.’” "
+          ],
+          "text": "12. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from Ahmad ibn al-Hassan from ‘Amr ibn Sa‘id from Musaddiq ibn Sadaqah from ‘Ammar ibn Musa who has said the following: “I once asked abu ‘Abd Allah, ‘Alayhi al-Salam, about a man who is in the state of Ihram and has itches that irritate him. He (the Imam) said, ‘He can scratch it and if it bleeds it is not harmful.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> موثق  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (7/332)",
+          "label": "موثق",
+          "text": "Allamah Baqir al-Majlisi: موثق - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (7/332)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ مُحَمَّدِ بْنِ أَحْمَدَ عَنْ أَحْمَدَ بْنِ الْحَسَنِ عَنْ عَمْرِو بْنِ سَعِيدٍ عَنْ مُصَدِّقِ بْنِ صَدَقَةَ عَنْ عَمَّارِ بْنِ مُوسَى عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ أَحْمَدَ",
+            "path": "/people/narrators/59"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ الْحَسَنِ",
+            "path": "/people/narrators/243"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَمْرِو بْنِ سَعِيدٍ",
+            "path": "/people/narrators/142"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُصَدِّقِ بْنِ صَدَقَةَ",
+            "path": "/people/narrators/159"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَمَّارِ بْنِ مُوسَى",
+            "path": "/people/narrators/210"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/59",
+          "/people/narrators/243",
+          "/people/narrators/142",
+          "/people/narrators/159",
+          "/people/narrators/210",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:3:3:95:7",
+          "/books/al-kafi:4:2:27:4",
+          "/books/al-kafi:4:2:31:4",
+          "/books/al-kafi:4:2:70:5",
+          "/books/al-kafi:4:3:92:16",
+          "/books/al-kafi:5:2:126:8",
+          "/books/al-kafi:5:2:73:17",
+          "/books/al-kafi:5:2:73:18",
+          "/books/al-kafi:5:3:114:10",
+          "/books/al-kafi:5:3:183:3",
+          "/books/al-kafi:5:3:32:1",
+          "/books/al-kafi:6:1:19:4",
+          "/books/al-kafi:6:7:33:1",
+          "/books/al-kafi:7:3:28:3"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:4:3:99:12",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/4/3/99/12.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

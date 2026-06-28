@@ -1,0 +1,117 @@
+{
+  "id": 1127,
+  "type": "narrator",
+  "path": "/people/narrators/1127",
+  "titles": {
+    "ar": "عَبْدِ الْحَمِيدِ بْنِ أَبِي الدَّيْلَمِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:65:3",
+    "/books/al-kafi:8:1:44:36",
+    "/books/al-kafi:8:1:44:39",
+    "/books/tahdhib-al-ahkam:1:27:104"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "1127-669": {
+      "narrator_ids": [
+        1127,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:65:3",
+        "/books/al-kafi:8:1:44:36",
+        "/books/al-kafi:8:1:44:39"
+      ]
+    },
+    "200-29-42-252-356-1127-669": {
+      "narrator_ids": [
+        200,
+        29,
+        42,
+        252,
+        356,
+        1127,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:44:39"
+      ]
+    },
+    "200-29-42-299-356-1127-669": {
+      "narrator_ids": [
+        200,
+        29,
+        42,
+        299,
+        356,
+        1127,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:44:36"
+      ]
+    },
+    "29-78-153-27-4-29-42-252-356-1127-669": {
+      "narrator_ids": [
+        29,
+        78,
+        153,
+        27,
+        4,
+        29,
+        42,
+        252,
+        356,
+        1127,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:65:3"
+      ]
+    },
+    "356-1127": {
+      "narrator_ids": [
+        356,
+        1127
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:65:3",
+        "/books/al-kafi:8:1:44:36",
+        "/books/al-kafi:8:1:44:39"
+      ]
+    },
+    "44-1127": {
+      "narrator_ids": [
+        44,
+        1127
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:27:104"
+      ]
+    },
+    "695-5-277-593-30-44-1127": {
+      "narrator_ids": [
+        695,
+        5,
+        277,
+        593,
+        30,
+        44,
+        1127
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:27:104"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1127",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1127.json"
+  }
+}

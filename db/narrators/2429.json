@@ -1,0 +1,54 @@
+{
+  "id": 2429,
+  "type": "narrator",
+  "path": "/people/narrators/2429",
+  "titles": {
+    "ar": "إِسْمَاعِيلَ الْقَصِيرِ"
+  },
+  "versePaths": [
+    "/books/tahdhib-al-ahkam:4:71:56"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-1279-119-2429-56-669": {
+      "narrator_ids": [
+        11,
+        1279,
+        119,
+        2429,
+        56,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:4:71:56"
+      ]
+    },
+    "119-2429": {
+      "narrator_ids": [
+        119,
+        2429
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:4:71:56"
+      ]
+    },
+    "2429-56": {
+      "narrator_ids": [
+        2429,
+        56
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:4:71:56"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2429",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2429.json"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 2666,
+  "type": "narrator",
+  "path": "/people/narrators/2666",
+  "titles": {
+    "ar": "الْحَكَمِ بْنِ سَالِمٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:203:16"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3-2-10-343-2666": {
+      "narrator_ids": [
+        3,
+        2,
+        10,
+        343,
+        2666
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:203:16"
+      ]
+    },
+    "343-2666": {
+      "narrator_ids": [
+        343,
+        2666
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:203:16"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2666",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2666.json"
+  }
+}

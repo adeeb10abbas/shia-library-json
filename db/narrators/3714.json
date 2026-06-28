@@ -1,0 +1,53 @@
+{
+  "id": 3714,
+  "type": "narrator",
+  "path": "/people/narrators/3714",
+  "titles": {
+    "ar": "عَلِيِّ بْنِ إِبْرَاهِيمَ التَّيْمُلِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:212:36"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3714-68": {
+      "narrator_ids": [
+        3714,
+        68
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:212:36"
+      ]
+    },
+    "5-3714": {
+      "narrator_ids": [
+        5,
+        3714
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:212:36"
+      ]
+    },
+    "5-3714-68-423-669": {
+      "narrator_ids": [
+        5,
+        3714,
+        68,
+        423,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:212:36"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3714",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3714.json"
+  }
+}

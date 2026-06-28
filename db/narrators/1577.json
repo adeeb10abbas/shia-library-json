@@ -1,0 +1,98 @@
+{
+  "id": 1577,
+  "type": "narrator",
+  "path": "/people/narrators/1577",
+  "titles": {
+    "ar": "عَلِيِّ بْنِ عِيسَى الْقَمَّاطِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:2:69:10",
+    "/books/al-kafi:8:1:41:7",
+    "/books/tahdhib-al-ahkam:3:4:5"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "1577-715": {
+      "narrator_ids": [
+        1577,
+        715
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:69:10",
+        "/books/al-kafi:8:1:41:7",
+        "/books/tahdhib-al-ahkam:3:4:5"
+      ]
+    },
+    "26-1577": {
+      "narrator_ids": [
+        26,
+        1577
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:41:7"
+      ]
+    },
+    "5-312-247-59-85-1577-715-669": {
+      "narrator_ids": [
+        5,
+        312,
+        247,
+        59,
+        85,
+        1577,
+        715,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:69:10"
+      ]
+    },
+    "8-205-26-1577-715": {
+      "narrator_ids": [
+        8,
+        205,
+        26,
+        1577,
+        715
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:41:7"
+      ]
+    },
+    "85-1577": {
+      "narrator_ids": [
+        85,
+        1577
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:69:10",
+        "/books/tahdhib-al-ahkam:3:4:5"
+      ]
+    },
+    "952-5-237-247-361-85-1577-715-669": {
+      "narrator_ids": [
+        952,
+        5,
+        237,
+        247,
+        361,
+        85,
+        1577,
+        715,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:3:4:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1577",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1577.json"
+  }
+}

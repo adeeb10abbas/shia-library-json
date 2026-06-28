@@ -1,0 +1,66 @@
+{
+  "id": 2244,
+  "type": "narrator",
+  "path": "/people/narrators/2244",
+  "titles": {
+    "ar": "أَبِيهِ زَكَرِيَّا بْنِ مُوسَى"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:3:46:1",
+    "/books/tahdhib-al-ahkam:3:32:16"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "1216-2244": {
+      "narrator_ids": [
+        1216,
+        2244
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:46:1",
+        "/books/tahdhib-al-ahkam:3:32:16"
+      ]
+    },
+    "2244-2834": {
+      "narrator_ids": [
+        2244,
+        2834
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:46:1"
+      ]
+    },
+    "3-2-1216-2244": {
+      "narrator_ids": [
+        3,
+        2,
+        1216,
+        2244
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:3:32:16"
+      ]
+    },
+    "3-2-1216-2244-2834": {
+      "narrator_ids": [
+        3,
+        2,
+        1216,
+        2244,
+        2834
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:46:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2244",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2244.json"
+  }
+}

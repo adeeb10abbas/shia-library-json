@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:29:3",
+  "chapter": {
+    "path": "/books/al-khisal:29:3",
+    "titles": {
+      "en": "God Has Twelve Thousand Worlds"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:29:3:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:29:3:1",
+        "parts": [
+          29,
+          3,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 29,
+        "book": 3,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:29:3",
+        "titles": {
+          "en": "God Has Twelve Thousand Worlds"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا سعد بن عبد الله قال: حدثني الحسين بن عبدالصمد، عن الحسين بن علي بن أبي عثمان قال: حدثنا العباد بن عبدالخالق، عمن حدثه، عن أبي عبد الله عليه السلام قال: إن لله عز وجل اثني عشر ألف عالم كل عالم منهم أكبر من سبع سماوات وسبع أرضين، ما ترى عالم منهم أن لله عز وجل عالما غيرهم. وأنا الحجة عليهم"
+        ],
+        "text": ": حدثنا سعد بن عبد الله قال: حدثني الحسين بن عبدالصمد، عن الحسين بن علي بن أبي عثمان قال: حدثنا العباد بن عبدالخالق، عمن حدثه، عن أبي عبد الله عليه السلام قال: إن لله عز وجل اثني عشر ألف عالم كل عالم منهم أكبر من سبع سماوات وسبع أرضين، ما ترى عالم منهم أن لله عز وجل عالما غيرهم. وأنا الحجة عليهم"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "28-4 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Sa’ed ibn Abdullah quoted Al-Hussein ibn Abdul Samad, on the authority of Al-Hussein ibn Ali ibn Abi Uthman, on the authority of Al-Ebad ibn Abdul Khaliq, on the authority of someone who narrated that Aba Abdullah as-Sadiq (MGB) said, “The Honorable the Exalted God has created 12,000 worlds each of which is more extensive than the seven heavens and the seven Earths. None of these worlds know that God the Honorable the Exalted has any other worlds except their own world. However, I am a proof for all of them.”"
+          ],
+          "text": "28-4 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Sa’ed ibn Abdullah quoted Al-Hussein ibn Abdul Samad, on the authority of Al-Hussein ibn Ali ibn Abi Uthman, on the authority of Al-Ebad ibn Abdul Khaliq, on the authority of someone who narrated that Aba Abdullah as-Sadiq (MGB) said, “The Honorable the Exalted God has created 12,000 worlds each of which is more extensive than the seven heavens and the seven Earths. None of these worlds know that God the Honorable the Exalted has any other worlds except their own world. However, I am a proof for all of them.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "28-4 حدثنا أبي رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "28-4 حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي رضي الله عنه قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:29:3:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/29/3/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/29/3/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

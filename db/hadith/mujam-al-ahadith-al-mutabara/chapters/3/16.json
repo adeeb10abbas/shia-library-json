@@ -1,0 +1,125 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "mujam-al-ahadith-al-mutabara",
+  "chapterPath": "/books/mujam-al-ahadith-al-mutabara:3:16",
+  "chapter": {
+    "path": "/books/mujam-al-ahadith-al-mutabara:3:16",
+    "titles": {
+      "en": "al-Harith b. al-Mughira"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "mujam-al-ahadith-al-mutabara:3:16:1",
+      "type": "hadith",
+      "book": {
+        "slug": "mujam-al-ahadith-al-mutabara",
+        "titles": {
+          "ar": "معجم الأحاديث المعتبرة",
+          "en": "Mu'jam al-Ahadith al-Mu'tabara"
+        },
+        "author": {
+          "en": "Muhammad Asif al-Muhsini"
+        }
+      },
+      "path": {
+        "source": "/books/mujam-al-ahadith-al-mutabara:3:16:1",
+        "parts": [
+          3,
+          16,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 16,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/mujam-al-ahadith-al-mutabara:3:16",
+        "titles": {
+          "en": "al-Harith b. al-Mughira"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": كنا عند أبي عبد الله عليه السلام فقال: أما لكم من مفزع أما لكم من مستراح تستريحون إليه ما يمنعكم من الحارث بن المغيرة النصري"
+        ],
+        "text": ": كنا عند أبي عبد الله عليه السلام فقال: أما لكم من مفزع أما لكم من مستراح تستريحون إليه ما يمنعكم من الحارث بن المغيرة النصري"
+      },
+      "translations": {
+        "en.ammaar-muslim": {
+          "segments": [
+            "1. [1/140] Rijal al-Kashshi: Muhammad b. Qulawayh from Sa`d b. Abdallah from Ahmad b. Muhammad b. Isa from Abdallah b. Muhammad al-Hajjal from Yunus b. Ya`qub who said: we were at Aba Abdillah عليه السلام’s place when he عليه السلام said: do you not have a secure shelter? do you not have a comforter that you can seek comfort in? what prevents you from [referring to] al-Harith bin al-Mughira al-Nasri."
+          ],
+          "text": "1. [1/140] Rijal al-Kashshi: Muhammad b. Qulawayh from Sa`d b. Abdallah from Ahmad b. Muhammad b. Isa from Abdallah b. Muhammad al-Hajjal from Yunus b. Ya`qub who said: we were at Aba Abdillah عليه السلام’s place when he عليه السلام said: do you not have a secure shelter? do you not have a comforter that you can seek comfort in? what prevents you from [referring to] al-Harith bin al-Mughira al-Nasri."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "[1/140] رجال الكشي: محمد بن قولويه، عن سعد بن عبد الله، عن أحمد بن محمد بن عيسى، عن عبد الله بن محمد الحجال، عن يونس بن يعقوب قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "[1/140] رجال الكشي: محمد بن قولويه،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "سعد بن عبد الله،",
+            "path": "/people/narrators/355"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أحمد بن محمد بن عيسى،",
+            "path": "/people/narrators/13"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "عبد الله بن محمد الحجال،",
+            "path": "/people/narrators/595"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "يونس بن يعقوب قال",
+            "path": "/people/narrators/85"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/355",
+          "/people/narrators/13",
+          "/people/narrators/595",
+          "/people/narrators/85"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/mujam-al-ahadith-al-mutabara:2:7:2"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/mujam-al-ahadith-al-mutabara:3:16:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/mujam-al-ahadith-al-mutabara/3/16/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/9/3/16/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

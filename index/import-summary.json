@@ -1,0 +1,30 @@
+{
+  "generatedAt": "2026-06-27T22:28:15.041Z",
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "apiDocs": "https://github.com/narmafraz/ThaqalaynData/blob/master/API.md"
+  },
+  "options": {
+    "books": [
+      "quran"
+    ],
+    "includeQuran": true,
+    "includeAi": false,
+    "maxHadiths": 0,
+    "maxQuranVerses": 0,
+    "concurrency": 8
+  },
+  "counts": {
+    "books": 1,
+    "hadith": 0,
+    "quranVerses": 6236,
+    "headings": 0,
+    "chapters": 115,
+    "skippedEmptyRecords": 0,
+    "failedFetches": 0
+  },
+  "failures": []
+}

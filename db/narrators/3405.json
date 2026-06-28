@@ -1,0 +1,53 @@
+{
+  "id": 3405,
+  "type": "narrator",
+  "path": "/people/narrators/3405",
+  "titles": {
+    "ar": "شُعَيْبِ بْنِ عَبْدِ اللَّهِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:203:13"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "20-25-5-3405-37": {
+      "narrator_ids": [
+        20,
+        25,
+        5,
+        3405,
+        37
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:203:13"
+      ]
+    },
+    "3405-37": {
+      "narrator_ids": [
+        3405,
+        37
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:203:13"
+      ]
+    },
+    "5-3405": {
+      "narrator_ids": [
+        5,
+        3405
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:203:13"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3405",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3405.json"
+  }
+}

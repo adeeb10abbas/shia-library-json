@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:4:99",
+  "chapter": {
+    "path": "/books/al-khisal:4:99",
+    "titles": {
+      "en": "The Buyer Has Three Days to Return the Animal He Buys"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:4:99:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:4:99:1",
+        "parts": [
+          4,
+          99,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 99,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:4:99",
+        "titles": {
+          "en": "The Buyer Has Three Days to Return the Animal He Buys"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا سعد بن عبد الله، عن أحمد بن محمد بن عيسى، عن الحسن بن محبوب، عن جميل، عن فضيل بن يسار، عن أبي عبد الله عليه السلام قال: قلت له: ما الشرط في الحيوان؟ قال: ثلاثة أيام للمشتري، قلت: فما الشرط في غير الحيوان؟ قال: البيعان بالخيار مالم يفترقا، فاذا افترقا فلا خيار بعد الرضا منهما"
+        ],
+        "text": ": حدثنا سعد بن عبد الله، عن أحمد بن محمد بن عيسى، عن الحسن بن محبوب، عن جميل، عن فضيل بن يسار، عن أبي عبد الله عليه السلام قال: قلت له: ما الشرط في الحيوان؟ قال: ثلاثة أيام للمشتري، قلت: فما الشرط في غير الحيوان؟ قال: البيعان بالخيار مالم يفترقا، فاذا افترقا فلا خيار بعد الرضا منهما"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "3-128 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Sa’ed ibn Abdullah quoted Ahmad ibn Muhammad ibn Isa, on the authority of Al-Hassan ibn Mahboob, on the authority of Jamil, on the authority of Fuzayl ibn Yasar that he asked Aba Abdullah Imam as-Sadiq (MGB) said, “What is the condition for dealing when buying an animal?” The Imam (MGB) replied, “The buyer has three days (to return it if he doesn’t want it).” Then he asked, “And what are the conditions for buying things other than an animal?” The Imam (MGB) replied, “Either the buyer or the seller has the right to call off the deal before they separate. Once they separate, they cannot call off the deal unless both sides agree.”"
+          ],
+          "text": "3-128 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Sa’ed ibn Abdullah quoted Ahmad ibn Muhammad ibn Isa, on the authority of Al-Hassan ibn Mahboob, on the authority of Jamil, on the authority of Fuzayl ibn Yasar that he asked Aba Abdullah Imam as-Sadiq (MGB) said, “What is the condition for dealing when buying an animal?” The Imam (MGB) replied, “The buyer has three days (to return it if he doesn’t want it).” Then he asked, “And what are the conditions for buying things other than an animal?” The Imam (MGB) replied, “Either the buyer or the seller has the right to call off the deal before they separate. Once they separate, they cannot call off the deal unless both sides agree.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "3-128 حدثنا أبي رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "3-128 حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي رضي الله عنه قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:4:99:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/4/99/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/4/99/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

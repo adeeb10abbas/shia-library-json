@@ -1,0 +1,116 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-amali-mufid",
+  "chapterPath": "/books/al-amali-mufid:23:27",
+  "chapter": {
+    "path": "/books/al-amali-mufid:23:27",
+    "titles": {
+      "en": "Between fear and hope"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-amali-mufid:23:27:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-amali-mufid",
+        "titles": {
+          "ar": "الأمالي (المفيد)",
+          "en": "Al-Amali (al-Mufid)"
+        },
+        "author": {
+          "ar": "الشيخ المفيد",
+          "en": "Shaykh al-Mufid"
+        }
+      },
+      "path": {
+        "source": "/books/al-amali-mufid:23:27:1",
+        "parts": [
+          23,
+          27,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 23,
+        "book": 27,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-amali-mufid:23:27",
+        "titles": {
+          "en": "Between fear and hope"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": سمعت أبا عبد الله جعفر بن محمد صلوات الله عليهما يقول: لا يكون [المؤمن] مؤمنا حتى يكون خائفا راجيا، ولا يكون خائفا راجيا حتى يكون عاملا لما يخاف ويرجو ."
+        ],
+        "text": ": سمعت أبا عبد الله جعفر بن محمد صلوات الله عليهما يقول: لا يكون [المؤمن] مؤمنا حتى يكون خائفا راجيا، ولا يكون خائفا راجيا حتى يكون عاملا لما يخاف ويرجو ."
+      },
+      "translations": {
+        "en.mulla-asgharali-m-m-jaffer": {
+          "segments": [
+            "27. And with the first chain of narration from ‘Ali ibn Mahzyar, from Muhammad ibn Sinan, from al-Husayn ibn Abi Sarah, who said: I heard Abu Abdillah Ja’far ibn Muhammad, peace be upon them both, say: \"A believer does not become a (true and steadfast) Mu’min, till he comes to a situation of being both, fearful as well as hopeful. And that does not occur till he starts performing deeds as one who fears and (also) hopes.\""
+          ],
+          "text": "27. And with the first chain of narration from ‘Ali ibn Mahzyar, from Muhammad ibn Sinan, from al-Husayn ibn Abi Sarah, who said: I heard Abu Abdillah Ja’far ibn Muhammad, peace be upon them both, say: \"A believer does not become a (true and steadfast) Mu’min, till he comes to a situation of being both, fearful as well as hopeful. And that does not occur till he starts performing deeds as one who fears and (also) hopes.\""
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "27 - وبالإسناد الأول عن علي بن مهزيار، عن محمد بن سنان  عن الحسن بن أبي سارة قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "27 - "
+          },
+          {
+            "kind": "plain",
+            "text": "وبالإسناد الأول"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "علي بن مهزيار،",
+            "path": "/people/narrators/81"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "محمد بن سنان ",
+            "path": "/people/narrators/42"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "الحسن بن أبي سارة قال",
+            "path": "/people/narrators/2525"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/81",
+          "/people/narrators/42",
+          "/people/narrators/2525"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-amali-mufid:23:27:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-amali-mufid/23/27/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/13/23/27/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

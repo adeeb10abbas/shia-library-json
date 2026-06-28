@@ -1,0 +1,83 @@
+{
+  "id": 848,
+  "type": "narrator",
+  "path": "/people/narrators/848",
+  "titles": {
+    "ar": "أَبِي عَبْدِ اللَّهِ بْنِ صَالِحٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:124:6",
+    "/books/al-kafi:1:4:125:10",
+    "/books/al-kafi:1:4:77:9"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "35-848": {
+      "narrator_ids": [
+        35,
+        848
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:124:6",
+        "/books/al-kafi:1:4:125:10"
+      ]
+    },
+    "35-848-2": {
+      "narrator_ids": [
+        35,
+        848,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:124:6"
+      ]
+    },
+    "50-848": {
+      "narrator_ids": [
+        50,
+        848
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:77:9"
+      ]
+    },
+    "50-848-179-2781": {
+      "narrator_ids": [
+        50,
+        848,
+        179,
+        2781
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:77:9"
+      ]
+    },
+    "848-179": {
+      "narrator_ids": [
+        848,
+        179
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:77:9"
+      ]
+    },
+    "848-2": {
+      "narrator_ids": [
+        848,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:124:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/848",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/848.json"
+  }
+}

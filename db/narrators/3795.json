@@ -1,0 +1,44 @@
+{
+  "id": 3795,
+  "type": "narrator",
+  "path": "/people/narrators/3795",
+  "titles": {
+    "ar": "عَلِيِّ بْنِ عُمَرَ النَّوْفَلِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:75:2",
+    "/books/kitab-al-ghayba-tusi:33:1"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "2878-3795": {
+      "narrator_ids": [
+        2878,
+        3795
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:75:2"
+      ]
+    },
+    "35-773-2878-3795": {
+      "narrator_ids": [
+        35,
+        773,
+        2878,
+        3795
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:75:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3795",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3795.json"
+  }
+}

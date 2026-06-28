@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:6:19",
+  "chapter": {
+    "path": "/books/al-khisal:6:19",
+    "titles": {
+      "en": "The Five Names of Mecca"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:6:19:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:6:19:1",
+        "parts": [
+          6,
+          19,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 19,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:6:19",
+        "titles": {
+          "en": "The Five Names of Mecca"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا سعد بن عبد الله قال: حدثني أحمد ابن محمد بن عيسى، عن أحمد بن محمد بن أبي نصر البزنطي قال: حدثنا أيمن بن محرز عن معاوية بن عمار، عن أبي عبد الله عليه السلام قال: أسماء مكة خمسة: أم القرى، ومكة وبكة، والبساسة كانوا إذا ظلموا بها بستهم أي أخرجتهم وأهلكتهم، وأم رحم كانوا إذا لزموها رحموا"
+        ],
+        "text": ": حدثنا سعد بن عبد الله قال: حدثني أحمد ابن محمد بن عيسى، عن أحمد بن محمد بن أبي نصر البزنطي قال: حدثنا أيمن بن محرز عن معاوية بن عمار، عن أبي عبد الله عليه السلام قال: أسماء مكة خمسة: أم القرى، ومكة وبكة، والبساسة كانوا إذا ظلموا بها بستهم أي أخرجتهم وأهلكتهم، وأم رحم كانوا إذا لزموها رحموا"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "5-22 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Sa’ed ibn Abdullah quoted Ahmad ibn Muhammad ibn Isa, on the authority of Ahmad ibn Muhammad ibn Abi Nasr al-Bazanty, on the authority of Aiman ibn Mohraz, on the authority of Muawiyah ibn Ammar that Aba Abdullah as-Sadiq (MGB) said, “Mecca has five names. They are, ‘Ummul Qura , Mecca, Becca, Bassasa since anyone who performed any acts of oppression there was deported from it and destroyed, and ‘Umma Ruhm since they had mercy with whomever took refuge there.”"
+          ],
+          "text": "5-22 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Sa’ed ibn Abdullah quoted Ahmad ibn Muhammad ibn Isa, on the authority of Ahmad ibn Muhammad ibn Abi Nasr al-Bazanty, on the authority of Aiman ibn Mohraz, on the authority of Muawiyah ibn Ammar that Aba Abdullah as-Sadiq (MGB) said, “Mecca has five names. They are, ‘Ummul Qura , Mecca, Becca, Bassasa since anyone who performed any acts of oppression there was deported from it and destroyed, and ‘Umma Ruhm since they had mercy with whomever took refuge there.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "5-22 حدثنا أبي رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "5-22 حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي رضي الله عنه قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:6:19:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/6/19/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/6/19/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

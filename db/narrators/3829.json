@@ -1,0 +1,57 @@
+{
+  "id": 3829,
+  "type": "narrator",
+  "path": "/people/narrators/3829",
+  "titles": {
+    "ar": "عَلِيِّ بْنِ يَحْيَى الْيَرْبُوعِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:3:190:54"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1828-3829": {
+      "narrator_ids": [
+        1828,
+        3829
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:190:54"
+      ]
+    },
+    "3829-148": {
+      "narrator_ids": [
+        3829,
+        148
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:190:54"
+      ]
+    },
+    "4-5-277-81-4350-1828-3829-148-9": {
+      "narrator_ids": [
+        4,
+        5,
+        277,
+        81,
+        4350,
+        1828,
+        3829,
+        148,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:190:54"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3829",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3829.json"
+  }
+}

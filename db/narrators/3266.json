@@ -1,0 +1,55 @@
+{
+  "id": 3266,
+  "type": "narrator",
+  "path": "/people/narrators/3266",
+  "titles": {
+    "ar": "زُرَارَةَ وَالْفُضَيْلِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:4:12:10"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1220-2-7-23-40-3266-9": {
+      "narrator_ids": [
+        1220,
+        2,
+        7,
+        23,
+        40,
+        3266,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:12:10"
+      ]
+    },
+    "3266-9": {
+      "narrator_ids": [
+        3266,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:12:10"
+      ]
+    },
+    "40-3266": {
+      "narrator_ids": [
+        40,
+        3266
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:12:10"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3266",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3266.json"
+  }
+}

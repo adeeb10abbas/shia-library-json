@@ -1,0 +1,55 @@
+{
+  "id": 2851,
+  "type": "narrator",
+  "path": "/people/narrators/2851",
+  "titles": {
+    "ar": "أُنَاسٍ مِنْ أَصْحَابِنَا حَجُّوا بِامْرَأَةٍ مَعَهُمْ فَقَدِمُوا"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:76:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "18-2851": {
+      "narrator_ids": [
+        18,
+        2851
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:76:5"
+      ]
+    },
+    "2851-2827": {
+      "narrator_ids": [
+        2851,
+        2827
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:76:5"
+      ]
+    },
+    "4-5-22-56-18-2851-2827": {
+      "narrator_ids": [
+        4,
+        5,
+        22,
+        56,
+        18,
+        2851,
+        2827
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:76:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2851",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2851.json"
+  }
+}

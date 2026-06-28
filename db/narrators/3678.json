@@ -1,0 +1,83 @@
+{
+  "id": 3678,
+  "type": "narrator",
+  "path": "/people/narrators/3678",
+  "titles": {
+    "ar": "عُثْمَانَ بْنِ عَبْدِ الْمَلِكِ الْحَضْرَمِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:3:52:5",
+    "/books/tahdhib-al-ahkam:2:17:100",
+    "/books/tahdhib-al-ahkam:3:21:2"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "15-3678": {
+      "narrator_ids": [
+        15,
+        3678
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:52:5",
+        "/books/tahdhib-al-ahkam:2:17:100",
+        "/books/tahdhib-al-ahkam:3:21:2"
+      ]
+    },
+    "3678-177": {
+      "narrator_ids": [
+        3678,
+        177
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:52:5",
+        "/books/tahdhib-al-ahkam:2:17:100",
+        "/books/tahdhib-al-ahkam:3:21:2"
+      ]
+    },
+    "5-15-3678-177": {
+      "narrator_ids": [
+        5,
+        15,
+        3678,
+        177
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:17:100"
+      ]
+    },
+    "6-5-15-3678-177": {
+      "narrator_ids": [
+        6,
+        5,
+        15,
+        3678,
+        177
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:52:5"
+      ]
+    },
+    "952-6-5-15-3678-177": {
+      "narrator_ids": [
+        952,
+        6,
+        5,
+        15,
+        3678,
+        177
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:3:21:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3678",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3678.json"
+  }
+}

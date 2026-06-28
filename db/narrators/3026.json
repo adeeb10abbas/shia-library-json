@@ -1,0 +1,42 @@
+{
+  "id": 3026,
+  "type": "narrator",
+  "path": "/people/narrators/3026",
+  "titles": {
+    "ar": "جَهْمِ بْنِ حُمَيْدٍ الرَّوَّاسِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:159:33"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "5-67-3026": {
+      "narrator_ids": [
+        5,
+        67,
+        3026
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:159:33"
+      ]
+    },
+    "67-3026": {
+      "narrator_ids": [
+        67,
+        3026
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:159:33"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3026",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3026.json"
+  }
+}

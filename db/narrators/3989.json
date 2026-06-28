@@ -1,0 +1,63 @@
+{
+  "id": 3989,
+  "type": "narrator",
+  "path": "/people/narrators/3989",
+  "titles": {
+    "ar": "غَيْرِهِمْ كُلِّهِمْ قَالُوا"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:1:23:2",
+    "/books/tahdhib-al-ahkam:9:3:55"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "11-2-400-23-141-56-3989": {
+      "narrator_ids": [
+        11,
+        2,
+        400,
+        23,
+        141,
+        56,
+        3989
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:3:55"
+      ]
+    },
+    "11-2-7-400-23-141-56-3989": {
+      "narrator_ids": [
+        11,
+        2,
+        7,
+        400,
+        23,
+        141,
+        56,
+        3989
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:1:23:2"
+      ]
+    },
+    "56-3989": {
+      "narrator_ids": [
+        56,
+        3989
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:1:23:2",
+        "/books/tahdhib-al-ahkam:9:3:55"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3989",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3989.json"
+  }
+}

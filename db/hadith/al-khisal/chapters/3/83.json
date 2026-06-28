@@ -1,0 +1,85 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:3:83",
+  "chapter": {
+    "path": "/books/al-khisal:3:83",
+    "titles": {
+      "en": "Day and Night are Two Carriages"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:3:83:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:3:83:1",
+        "parts": [
+          3,
+          83,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 83,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:3:83",
+        "titles": {
+          "en": "Day and Night are Two Carriages"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا أبوحامد أحمد بن إسحاق الهروي قال: حدثنا أبوحفص عمر بن الحسن بن نصر القاضي قال: حدثنا مؤمل بن إهاب قال: حدثنا عبد الله بن المغيرة المصري، عن سفيان الثوري، عن أبيه، عن عكرمة، عن ابن عباس قال: قال رسول الله صلى الله عليه وآله: الليل والنهار مطيتان"
+        ],
+        "text": ": حدثنا أبوحامد أحمد بن إسحاق الهروي قال: حدثنا أبوحفص عمر بن الحسن بن نصر القاضي قال: حدثنا مؤمل بن إهاب قال: حدثنا عبد الله بن المغيرة المصري، عن سفيان الثوري، عن أبيه، عن عكرمة، عن ابن عباس قال: قال رسول الله صلى الله عليه وآله: الليل والنهار مطيتان"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "2-100 Abu Ahmad Muhammad ibn Ja’far al-Bandar narrated that Abu Hamid Ahmad ibn Ishaq al-Haravy quoted Abu Hafs Umar ibn al-Hassan ibn Nasr al-Qazi, on the authority of Mo’amil ibn Ahab, on the authority of Abdullah ibn al-Muqayrih al-Misri, on the authority of Sufyan al-Sowri, on the authority of his father, on the authority of Akrama, on the authority of Ibn Abbas that God’s Prophet (MGB) said, “Day and night are two carriages.”"
+          ],
+          "text": "2-100 Abu Ahmad Muhammad ibn Ja’far al-Bandar narrated that Abu Hamid Ahmad ibn Ishaq al-Haravy quoted Abu Hafs Umar ibn al-Hassan ibn Nasr al-Qazi, on the authority of Mo’amil ibn Ahab, on the authority of Abdullah ibn al-Muqayrih al-Misri, on the authority of Sufyan al-Sowri, on the authority of his father, on the authority of Akrama, on the authority of Ibn Abbas that God’s Prophet (MGB) said, “Day and night are two carriages.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "2-100 حدثنا أبوأحمد محمد بن جعفر البندار قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "2-100 حدثنا "
+          },
+          {
+            "kind": "plain",
+            "text": "أبوأحمد محمد بن جعفر البندار قال"
+          }
+        ],
+        "narratorPaths": []
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:3:83:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/3/83/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/3/83/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

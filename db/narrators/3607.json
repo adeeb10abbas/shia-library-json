@@ -1,0 +1,63 @@
+{
+  "id": 3607,
+  "type": "narrator",
+  "path": "/people/narrators/3607",
+  "titles": {
+    "ar": "عَبْدِ اللَّهِ بْنِ مُحَمَّدِ بْنِ خَالِدٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:80:7",
+    "/books/tahdhib-al-ahkam:1:28:93"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "21-69-52-3607-669": {
+      "narrator_ids": [
+        21,
+        69,
+        52,
+        3607,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:28:93"
+      ]
+    },
+    "35-3607": {
+      "narrator_ids": [
+        35,
+        3607
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:80:7"
+      ]
+    },
+    "3607-669": {
+      "narrator_ids": [
+        3607,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:28:93"
+      ]
+    },
+    "52-3607": {
+      "narrator_ids": [
+        52,
+        3607
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:28:93"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3607",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3607.json"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": 1990,
+  "type": "narrator",
+  "path": "/people/narrators/1990",
+  "titles": {
+    "ar": "أَبِي السَّائِبِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:1:22:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "133-321-243-201-2989-2382-1990-669-2": {
+      "narrator_ids": [
+        133,
+        321,
+        243,
+        201,
+        2989,
+        2382,
+        1990,
+        669,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:22:1"
+      ]
+    },
+    "1990-669": {
+      "narrator_ids": [
+        1990,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:22:1"
+      ]
+    },
+    "2382-1990": {
+      "narrator_ids": [
+        2382,
+        1990
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:22:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1990",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1990.json"
+  }
+}

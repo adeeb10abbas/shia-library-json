@@ -1,0 +1,529 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:6:6:94",
+  "chapter": {
+    "path": "/books/al-kafi:6:6:94",
+    "titles": {
+      "ar": "باب الْبَاقِلَّى وَ اللُّوبِيَاءِ",
+      "en": "Chapter 93 – The Borad-beans and the Kidney-beans"
+    }
+  },
+  "count": 4,
+  "records": [
+    {
+      "id": "al-kafi:6:6:94:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:6:94:1",
+        "parts": [
+          6,
+          6,
+          94,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 6,
+        "chapter": 94,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:6:94",
+        "titles": {
+          "ar": "باب الْبَاقِلَّى وَ اللُّوبِيَاءِ",
+          "en": "Chapter 93 – The Borad-beans and the Kidney-beans"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " أَكْلُ الْبَاقِلَّى يُمَخِّخُ السَّاقَيْنِ وَ يَزِيدُ فِي الدِّمَاغِ وَ يُوَلِّدُ الدَّمَ الطَّرِيَّ ."
+        ],
+        "text": "أَكْلُ الْبَاقِلَّى يُمَخِّخُ السَّاقَيْنِ وَ يَزِيدُ فِي الدِّمَاغِ وَ يُوَلِّدُ الدَّمَ الطَّرِيَّ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Muhammad Bin Ahmad, from Musa Bin Ja’far, from Muhammad Bin Al Hassan, from Umar Bin Salma, from Muhammad Bin Abdullah, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Eating the Broad-beans enhances the two thighs, and increases in the brain, and gives birth to fresh blood’."
+          ],
+          "text": "Muhammad Bin Yahya, from Muhammad Bin Ahmad, from Musa Bin Ja’far, from Muhammad Bin Al Hassan, from Umar Bin Salma, from Muhammad Bin Abdullah,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Eating the Broad-beans enhances the two thighs, and increases in the brain, and gives birth to fresh blood’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. Muhammad ibn Yahya has narrated from Muhammad ibn Ahmad from Musa ibn Ja‘far from Muhammad ibn al-Hassan from ‘Umar ibn Salmah from Muhammad ibn ‘Abd Allah who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘Eating broad beans grows bone marrows of the legs, adds in the brain and produces fresh blood.”’ "
+          ],
+          "text": "1. Muhammad ibn Yahya has narrated from Muhammad ibn Ahmad from Musa ibn Ja‘far from Muhammad ibn al-Hassan from ‘Umar ibn Salmah from Muhammad ibn ‘Abd Allah who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘Eating broad beans grows bone marrows of the legs, adds in the brain and produces fresh blood.”’"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مجهول    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/179)",
+          "label": "مجهول",
+          "text": "Allamah Baqir al-Majlisi: مجهول - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/179)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ مُحَمَّدِ بْنِ أَحْمَدَ عَنْ مُوسَى بْنِ جَعْفَرٍ عَنْ مُحَمَّدِ بْنِ الْحَسَنِ عَنْ عُمَرَ بْنِ سَلَمَةَ عَنْ مُحَمَّدِ بْنِ عَبْدِ اللَّهِ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ أَحْمَدَ",
+            "path": "/people/narrators/59"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُوسَى بْنِ جَعْفَرٍ",
+            "path": "/people/narrators/453"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ الْحَسَنِ",
+            "path": "/people/narrators/90"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عُمَرَ بْنِ سَلَمَةَ",
+            "path": "/people/narrators/3856"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ عَبْدِ اللَّهِ",
+            "path": "/people/narrators/234"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/59",
+          "/people/narrators/453",
+          "/people/narrators/90",
+          "/people/narrators/3856",
+          "/people/narrators/234",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:6:94:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/6/94/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:6:94:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:6:94:2",
+        "parts": [
+          6,
+          6,
+          94,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 6,
+        "chapter": 94,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:6:94",
+        "titles": {
+          "ar": "باب الْبَاقِلَّى وَ اللُّوبِيَاءِ",
+          "en": "Chapter 93 – The Borad-beans and the Kidney-beans"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " أَكْلُ الْبَاقِلَّى يُمَخِّخُ السَّاقَيْنِ وَ يُوَلِّدُ الدَّمَ الطَّرِيَّ ."
+        ],
+        "text": "أَكْلُ الْبَاقِلَّى يُمَخِّخُ السَّاقَيْنِ وَ يُوَلِّدُ الدَّمَ الطَّرِيَّ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "From him, from Ahmad Bin Muhammad Bin Isa, from Ahmad Bin Muhammad Bin Abu Nasr, ",
+            "(It has been narrated) from Al-Reza<sup>asws</sup> having said: ‘Eating the broad-beans enhances the two thighs, and gives birth to the fresh blood’."
+          ],
+          "text": "From him, from Ahmad Bin Muhammad Bin Isa, from Ahmad Bin Muhammad Bin Abu Nasr,\n\n(It has been narrated) from Al-Reza<sup>asws</sup> having said: ‘Eating the broad-beans enhances the two thighs, and gives birth to the fresh blood’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. It is narrated from the narrator of the previous Hadith from Ahmad ibn Muhammad ibn ‘Isa from Ahmad ibn Muhammad from ibn abu Nasr who has said the following: “Abu al-Hassan, al-Rida’, ‘Alayhi al-Salam, has said, ‘Eating broad beans grows the bone marrow of the legs and produces fresh blood.’” "
+          ],
+          "text": "2. It is narrated from the narrator of the previous Hadith from Ahmad ibn Muhammad ibn ‘Isa from Ahmad ibn Muhammad from ibn abu Nasr who has said the following: “Abu al-Hassan, al-Rida’, ‘Alayhi al-Salam, has said, ‘Eating broad beans grows the bone marrow of the legs and produces fresh blood.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> صحيح    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/179)",
+          "label": "صحيح",
+          "text": "Allamah Baqir al-Majlisi: صحيح - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/179)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَنْهُ عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ أَبِي نَصْرٍ عَنِ الرِّضَا ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَنْهُ",
+            "path": "/people/narrators/11"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى",
+            "path": "/people/narrators/13"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدِ بْنِ أَبِي نَصْرٍ",
+            "path": "/people/narrators/39"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الرِّضَا ( عليه السلام )",
+            "path": "/people/narrators/184"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/11",
+          "/people/narrators/13",
+          "/people/narrators/39",
+          "/people/narrators/184"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:6:94:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/6/94/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:6:94:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:6:94:3",
+        "parts": [
+          6,
+          6,
+          94,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 6,
+        "chapter": 94,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:6:94",
+        "titles": {
+          "ar": "باب الْبَاقِلَّى وَ اللُّوبِيَاءِ",
+          "en": "Chapter 93 – The Borad-beans and the Kidney-beans"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَمِعْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) يَقُولُ كُلُوا الْبَاقِلَّى بِقِشْرِهِ فَإِنَّهُ يَدْبُغُ الْمَعِدَةَ ."
+        ],
+        "text": "سَمِعْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) يَقُولُ كُلُوا الْبَاقِلَّى بِقِشْرِهِ فَإِنَّهُ يَدْبُغُ الْمَعِدَةَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Ahmad Bin Abu Abdullah, from one of his companions, from Salih Bin Uqba who said, ",
+            "‘I heard Abu Abdullah<sup>asws</sup> saying: ‘Eat the Broad-beans with its skin for it repairs the stomach’."
+          ],
+          "text": "A number of our companions, from Ahmad Bin Abu Abdullah, from one of his companions, from Salih Bin Uqba who said,\n\n‘I heard Abu Abdullah<sup>asws</sup> saying: ‘Eat the Broad-beans with its skin for it repairs the stomach’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "3. A number of our people have narrated from Ahmad ibn abu ‘Abd Allah from certain persons of his people from Salih ibn ‘Uqbah who has said the following: “I once, heard abu ‘Abd Allah, ‘Alayhi al-Salam, saying, ‘Eat broad beans with its peels. It cleanses (tans) the stomach.’” "
+          ],
+          "text": "3. A number of our people have narrated from Ahmad ibn abu ‘Abd Allah from certain persons of his people from Salih ibn ‘Uqbah who has said the following: “I once, heard abu ‘Abd Allah, ‘Alayhi al-Salam, saying, ‘Eat broad beans with its peels. It cleanses (tans) the stomach.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/179)",
+          "label": "ضعيف",
+          "text": "Allamah Baqir al-Majlisi: ضعيف - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/179)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ أَحْمَدَ بْنِ أَبِي عَبْدِ اللَّهِ عَنْ بَعْضِ أَصْحَابِهِ عَنْ صَالِحِ بْنِ عُقْبَةَ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ أَبِي عَبْدِ اللَّهِ",
+            "path": "/people/narrators/12"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "بَعْضِ أَصْحَابِهِ",
+            "path": "/people/narrators/37"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "صَالِحِ بْنِ عُقْبَةَ",
+            "path": "/people/narrators/156"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/12",
+          "/people/narrators/37",
+          "/people/narrators/156"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:6:94:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/6/94/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:6:94:4",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:6:94:4",
+        "parts": [
+          6,
+          6,
+          94,
+          4
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 6,
+        "chapter": 94,
+        "hadith": 4
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:6:94",
+        "titles": {
+          "ar": "باب الْبَاقِلَّى وَ اللُّوبِيَاءِ",
+          "en": "Chapter 93 – The Borad-beans and the Kidney-beans"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " اللُّوبِيَاءِ يَطْرُدُ الرِّيَاحَ الْمُسْتَبْطِنَةَ ."
+        ],
+        "text": "اللُّوبِيَاءِ يَطْرُدُ الرِّيَاحَ الْمُسْتَبْطِنَةَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Muhammad, from Sahl Bin Ziyad, from Ibn Abu Najran, from the one who mentioned it, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The Kidney-beans expel the underlying wind’."
+          ],
+          "text": "Ali Bin Muhammad, from Sahl Bin Ziyad, from Ibn Abu Najran, from the one who mentioned it,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The Kidney-beans expel the underlying wind’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "4. Ali ibn Muhammad from Sahl ibn Ziyad from ibn abu Najran from those whom he has mentioned who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘Kidney beans dispel gases from the belly.’” "
+          ],
+          "text": "4. Ali ibn Muhammad from Sahl ibn Ziyad from ibn abu Najran from those whom he has mentioned who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘Kidney beans dispel gases from the belly.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/179)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/179)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ مُحَمَّدٍ عَنْ سَهْلِ بْنِ زِيَادٍ عَنِ ابْنِ أَبِي نَجْرَانَ عَمَّنْ ذَكَرَهُ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ مُحَمَّدٍ",
+            "path": "/people/narrators/35"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَهْلِ بْنِ زِيَادٍ",
+            "path": "/people/narrators/8"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "plain",
+            "text": "ابْنِ أَبِي نَجْرَانَ عَمَّنْ ذَكَرَهُ"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/35",
+          "/people/narrators/8",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:1:2:1:9",
+          "/books/al-kafi:1:3:16:8",
+          "/books/al-kafi:3:4:60:30"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:6:94:4",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/6/94/4.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

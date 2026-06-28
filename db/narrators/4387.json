@@ -1,0 +1,45 @@
+{
+  "id": 4387,
+  "type": "narrator",
+  "path": "/people/narrators/4387",
+  "titles": {
+    "ar": "مُعَاوِيَةَ بْنِ عَمَّارٍ جَمِيعاً"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:218:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3-2-17-33-30-4387": {
+      "narrator_ids": [
+        3,
+        2,
+        17,
+        33,
+        30,
+        4387
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:218:1"
+      ]
+    },
+    "30-4387": {
+      "narrator_ids": [
+        30,
+        4387
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:218:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4387",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4387.json"
+  }
+}

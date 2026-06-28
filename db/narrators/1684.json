@@ -1,0 +1,54 @@
+{
+  "id": 1684,
+  "type": "narrator",
+  "path": "/people/narrators/1684",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ هِشَامٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:48:10"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1684-374": {
+      "narrator_ids": [
+        1684,
+        374
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:48:10"
+      ]
+    },
+    "36-1684": {
+      "narrator_ids": [
+        36,
+        1684
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:48:10"
+      ]
+    },
+    "6-12-36-1684-374-669": {
+      "narrator_ids": [
+        6,
+        12,
+        36,
+        1684,
+        374,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:48:10"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1684",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1684.json"
+  }
+}

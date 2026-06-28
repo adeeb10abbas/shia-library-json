@@ -1,0 +1,55 @@
+{
+  "id": 3869,
+  "type": "narrator",
+  "path": "/people/narrators/3869",
+  "titles": {
+    "ar": "عِمْرَانَ بْنِ إِسْحَاقَ الزَّعْفَرَانِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:94:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3869-180": {
+      "narrator_ids": [
+        3869,
+        180
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:94:2"
+      ]
+    },
+    "5-90-135-720-3869-180-669": {
+      "narrator_ids": [
+        5,
+        90,
+        135,
+        720,
+        3869,
+        180,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:94:2"
+      ]
+    },
+    "720-3869": {
+      "narrator_ids": [
+        720,
+        3869
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:94:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3869",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3869.json"
+  }
+}

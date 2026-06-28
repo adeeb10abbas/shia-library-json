@@ -1,0 +1,43 @@
+{
+  "id": 3912,
+  "type": "narrator",
+  "path": "/people/narrators/3912",
+  "titles": {
+    "ar": "عَمِّهِ مُرَازِمِ بْنِ حَكِيمٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:141:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "138-3912": {
+      "narrator_ids": [
+        138,
+        3912
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:141:4"
+      ]
+    },
+    "6-5-138-3912": {
+      "narrator_ids": [
+        6,
+        5,
+        138,
+        3912
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:141:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3912",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3912.json"
+  }
+}

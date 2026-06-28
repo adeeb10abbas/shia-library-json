@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:5:27",
+  "chapter": {
+    "path": "/books/al-khisal:5:27",
+    "titles": {
+      "en": "Four which Are Not Allowed In Four"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:5:27:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:5:27:1",
+        "parts": [
+          5,
+          27,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 27,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:5:27",
+        "titles": {
+          "en": "Four which Are Not Allowed In Four"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا سعد بن عبد الله قال: حدثنا أحمد بن محمد بن عيسى عن محمد بن أبي عمير، وأحمد بن محمد بن أبي نصر البزنطي عن أبان بن عثمان الاحمر عن أبي عبد الله عليه السلام قال: أربع لا يجزن في أربع: الخيانة والغلول والسرقة والربا، لا يجزن في حج ولا عمرة ولا جهاد ولا صدقة"
+        ],
+        "text": ": حدثنا سعد بن عبد الله قال: حدثنا أحمد بن محمد بن عيسى عن محمد بن أبي عمير، وأحمد بن محمد بن أبي نصر البزنطي عن أبان بن عثمان الاحمر عن أبي عبد الله عليه السلام قال: أربع لا يجزن في أربع: الخيانة والغلول والسرقة والربا، لا يجزن في حج ولا عمرة ولا جهاد ولا صدقة"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "4-38 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Sa’ed ibn Abdullah quoted Ahmad ibn Muhammad ibn Isa, on the authority of Muhammad ibn Abi Umayr and Ahmad ibn Muhammad ibn Abi Nasr al-Bazanty, on the authority of Aban ibn Uthman Al-Ahmar that Aba Abdullah as-Sadiq (MGB) said, “Spending money gained through the following four ways: treason, obtaining illegitimately earned property, theft and usury is not allowed on the four following occasions: Hajj, Umra, participation in a holy war and giving charity.”"
+          ],
+          "text": "4-38 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Sa’ed ibn Abdullah quoted Ahmad ibn Muhammad ibn Isa, on the authority of Muhammad ibn Abi Umayr and Ahmad ibn Muhammad ibn Abi Nasr al-Bazanty, on the authority of Aban ibn Uthman Al-Ahmar that Aba Abdullah as-Sadiq (MGB) said, “Spending money gained through the following four ways: treason, obtaining illegitimately earned property, theft and usury is not allowed on the four following occasions: Hajj, Umra, participation in a holy war and giving charity.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "4-38 حدثنا أبي رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "4-38 حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي رضي الله عنه قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:5:27:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/5/27/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/5/27/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

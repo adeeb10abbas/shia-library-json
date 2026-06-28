@@ -1,0 +1,47 @@
+{
+  "id": 3840,
+  "type": "narrator",
+  "path": "/people/narrators/3840",
+  "titles": {
+    "ar": "عَمَّارِ بْنِ سُوَيْدٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:50:22"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "4-5-99-21-65-181-51-3840": {
+      "narrator_ids": [
+        4,
+        5,
+        99,
+        21,
+        65,
+        181,
+        51,
+        3840
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:50:22"
+      ]
+    },
+    "51-3840": {
+      "narrator_ids": [
+        51,
+        3840
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:50:22"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3840",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3840.json"
+  }
+}

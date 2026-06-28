@@ -1,0 +1,64 @@
+{
+  "id": 965,
+  "type": "narrator",
+  "path": "/people/narrators/965",
+  "titles": {
+    "ar": "أَبَا عَبْدِ اللَّهِ ( عليه السلام )"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:52:5",
+    "/books/al-kafi:2:4:4:6",
+    "/books/man-la-yahduruhu-al-faqih:1:72:9"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "161-965": {
+      "narrator_ids": [
+        161,
+        965
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:52:5"
+      ]
+    },
+    "19-24-22-161-965": {
+      "narrator_ids": [
+        19,
+        24,
+        22,
+        161,
+        965
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:52:5"
+      ]
+    },
+    "604-965": {
+      "narrator_ids": [
+        604,
+        965
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:1:72:9"
+      ]
+    },
+    "652-965": {
+      "narrator_ids": [
+        652,
+        965
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:4:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/965",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/965.json"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": 3096,
+  "type": "narrator",
+  "path": "/people/narrators/3096",
+  "titles": {
+    "ar": "حَمَّادٍ أَبِي يُوسُفَ الْخَزَّازِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:2:3:2",
+    "/books/tahdhib-al-ahkam:9:20:4",
+    "/books/tahdhib-al-ahkam:9:28:10"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "10-3096": {
+      "narrator_ids": [
+        10,
+        3096
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:2:3:2",
+        "/books/tahdhib-al-ahkam:9:20:4"
+      ]
+    },
+    "10-3096-123-669": {
+      "narrator_ids": [
+        10,
+        3096,
+        123,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:2:3:2",
+        "/books/tahdhib-al-ahkam:9:20:4"
+      ]
+    },
+    "1170-53-3096-123-669": {
+      "narrator_ids": [
+        1170,
+        53,
+        3096,
+        123,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:28:10"
+      ]
+    },
+    "3096-123": {
+      "narrator_ids": [
+        3096,
+        123
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:2:3:2",
+        "/books/tahdhib-al-ahkam:9:20:4",
+        "/books/tahdhib-al-ahkam:9:28:10"
+      ]
+    },
+    "53-3096": {
+      "narrator_ids": [
+        53,
+        3096
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:28:10"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3096",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3096.json"
+  }
+}

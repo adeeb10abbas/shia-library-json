@@ -1,0 +1,84 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "kitab-al-duafa",
+  "chapterPath": "/books/kitab-al-duafa:20:24",
+  "chapter": {
+    "path": "/books/kitab-al-duafa:20:24",
+    "titles": {
+      "en": "Muḥammad b. ʿAbdullāh b. Mihrān, al-Karkhī, Abū Jaʿfar"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "kitab-al-duafa:20:24:1",
+      "type": "hadith",
+      "book": {
+        "slug": "kitab-al-duafa",
+        "titles": {
+          "ar": "كتاب الضعفاء",
+          "en": "Kitab al-Du'afa'"
+        },
+        "author": {
+          "en": "Ahmad ibn al-Husayn al-Ghada'iri"
+        }
+      },
+      "path": {
+        "source": "/books/kitab-al-duafa:20:24:1",
+        "parts": [
+          20,
+          24,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 20,
+        "book": 24,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/kitab-al-duafa:20:24",
+        "titles": {
+          "en": "Muḥammad b. ʿAbdullāh b. Mihrān, al-Karkhī, Abū Jaʿfar"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " الممدوحين والمذمومين يدل على خبثه وكذبه."
+        ],
+        "text": "الممدوحين والمذمومين يدل على خبثه وكذبه."
+      },
+      "translations": {
+        "en.tashayyu": {
+          "segments": [
+            "24 – Muḥammad b. ʿAbdullāh b. Mihrān, al-Karkhī, Abū Jaʿfar.  A ghālī, weak, a liar. He has a book regarding the notables and the defamed that gives evidence upon his filth and his lying."
+          ],
+          "text": "24 – Muḥammad b. ʿAbdullāh b. Mihrān, al-Karkhī, Abū Jaʿfar.  A ghālī, weak, a liar. He has a book regarding the notables and the defamed that gives evidence upon his filth and his lying."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "24 - محمد بن عبد الله بن مهران، الكرخي، أبو جعفر. غال، ضعيف، كذاب. له كتاب في",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "24 - "
+          },
+          {
+            "kind": "plain",
+            "text": "محمد بن عبد الله بن مهران، الكرخي، أبو جعفر. غال، ضعيف، كذاب. له كتاب في"
+          }
+        ],
+        "narratorPaths": []
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/kitab-al-duafa:20:24:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/kitab-al-duafa/20/24/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/17/20/24/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

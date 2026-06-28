@@ -1,0 +1,53 @@
+{
+  "id": 4401,
+  "type": "narrator",
+  "path": "/people/narrators/4401",
+  "titles": {
+    "ar": "مُفَضَّلِ بْنِ صَالِحٍ الْأَسَدِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:2:20:19"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-67-4401-1683-669": {
+      "narrator_ids": [
+        11,
+        67,
+        4401,
+        1683,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:20:19"
+      ]
+    },
+    "4401-1683": {
+      "narrator_ids": [
+        4401,
+        1683
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:20:19"
+      ]
+    },
+    "67-4401": {
+      "narrator_ids": [
+        67,
+        4401
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:20:19"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4401",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4401.json"
+  }
+}

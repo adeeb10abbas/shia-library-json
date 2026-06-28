@@ -1,0 +1,53 @@
+{
+  "id": 4126,
+  "type": "narrator",
+  "path": "/people/narrators/4126",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ أَبِي يُسْرٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:6:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "200-4126": {
+      "narrator_ids": [
+        200,
+        4126
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:6:1"
+      ]
+    },
+    "200-4126-1461-4299-941": {
+      "narrator_ids": [
+        200,
+        4126,
+        1461,
+        4299,
+        941
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:6:1"
+      ]
+    },
+    "4126-1461": {
+      "narrator_ids": [
+        4126,
+        1461
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:6:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4126",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4126.json"
+  }
+}

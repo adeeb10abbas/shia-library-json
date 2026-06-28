@@ -1,0 +1,43 @@
+{
+  "id": 2137,
+  "type": "narrator",
+  "path": "/people/narrators/2137",
+  "titles": {
+    "ar": "أَبِي عَبْدِ اللَّهِ ( عليه السلام ) يَا عُدَّتِي"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:2:60:30"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-42-182-2137": {
+      "narrator_ids": [
+        11,
+        42,
+        182,
+        2137
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:60:30"
+      ]
+    },
+    "182-2137": {
+      "narrator_ids": [
+        182,
+        2137
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:60:30"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2137",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2137.json"
+  }
+}

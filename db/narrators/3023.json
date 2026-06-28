@@ -1,0 +1,59 @@
+{
+  "id": 3023,
+  "type": "narrator",
+  "path": "/people/narrators/3023",
+  "titles": {
+    "ar": "جَمِيلٍ كُلِّهِمْ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:2:26:6"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3023-18": {
+      "narrator_ids": [
+        3023,
+        18
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:26:6"
+      ]
+    },
+    "49-107-124-66-30-56-285-56-3023-18-9": {
+      "narrator_ids": [
+        49,
+        107,
+        124,
+        66,
+        30,
+        56,
+        285,
+        56,
+        3023,
+        18,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:26:6"
+      ]
+    },
+    "56-3023": {
+      "narrator_ids": [
+        56,
+        3023
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:26:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3023",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3023.json"
+  }
+}

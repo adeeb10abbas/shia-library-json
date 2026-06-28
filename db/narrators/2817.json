@@ -1,0 +1,203 @@
+{
+  "id": 2817,
+  "type": "narrator",
+  "path": "/people/narrators/2817",
+  "titles": {
+    "ar": "الْهَيْثَمِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:1:30:11",
+    "/books/tahdhib-al-ahkam:10:15:15",
+    "/books/tahdhib-al-ahkam:4:27:2",
+    "/books/tahdhib-al-ahkam:6:72:1",
+    "/books/tahdhib-al-ahkam:7:20:80",
+    "/books/tahdhib-al-ahkam:7:25:39",
+    "/books/tahdhib-al-ahkam:8:5:25"
+  ],
+  "verseCount": 7,
+  "relations": {},
+  "subchains": {
+    "11-2817": {
+      "narrator_ids": [
+        11,
+        2817
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:4:27:2",
+        "/books/tahdhib-al-ahkam:7:20:80"
+      ]
+    },
+    "11-2817-1054-41": {
+      "narrator_ids": [
+        11,
+        2817,
+        1054,
+        41
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:20:80"
+      ]
+    },
+    "11-2817-527-23-40-220-669": {
+      "narrator_ids": [
+        11,
+        2817,
+        527,
+        23,
+        40,
+        220,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:4:27:2"
+      ]
+    },
+    "2719-2817": {
+      "narrator_ids": [
+        2719,
+        2817
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:10:15:15",
+        "/books/tahdhib-al-ahkam:7:25:39"
+      ]
+    },
+    "2817-10": {
+      "narrator_ids": [
+        2817,
+        10
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:72:1"
+      ]
+    },
+    "2817-1054": {
+      "narrator_ids": [
+        2817,
+        1054
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:20:80"
+      ]
+    },
+    "2817-180": {
+      "narrator_ids": [
+        2817,
+        180
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:30:11",
+        "/books/tahdhib-al-ahkam:8:5:25"
+      ]
+    },
+    "2817-527": {
+      "narrator_ids": [
+        2817,
+        527
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:4:27:2"
+      ]
+    },
+    "2817-53": {
+      "narrator_ids": [
+        2817,
+        53
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:10:15:15",
+        "/books/tahdhib-al-ahkam:7:25:39"
+      ]
+    },
+    "38-2817": {
+      "narrator_ids": [
+        38,
+        2817
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:30:11",
+        "/books/tahdhib-al-ahkam:8:5:25"
+      ]
+    },
+    "4-5-277-38-2817-180": {
+      "narrator_ids": [
+        4,
+        5,
+        277,
+        38,
+        2817,
+        180
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:30:11"
+      ]
+    },
+    "4134-2719-2817-53-87": {
+      "narrator_ids": [
+        4134,
+        2719,
+        2817,
+        53,
+        87
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:25:39"
+      ]
+    },
+    "4134-2817": {
+      "narrator_ids": [
+        4134,
+        2817
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:72:1"
+      ]
+    },
+    "4134-2817-10-93-18-669": {
+      "narrator_ids": [
+        4134,
+        2817,
+        10,
+        93,
+        18,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:72:1"
+      ]
+    },
+    "4134-92-2719-2817-53-669": {
+      "narrator_ids": [
+        4134,
+        92,
+        2719,
+        2817,
+        53,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:10:15:15"
+      ]
+    },
+    "5-277-38-2817-180": {
+      "narrator_ids": [
+        5,
+        277,
+        38,
+        2817,
+        180
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:8:5:25"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2817",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2817.json"
+  }
+}

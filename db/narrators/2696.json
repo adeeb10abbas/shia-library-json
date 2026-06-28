@@ -1,0 +1,127 @@
+{
+  "id": 2696,
+  "type": "narrator",
+  "path": "/people/narrators/2696",
+  "titles": {
+    "ar": "السَّدُوسِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:213:3",
+    "/books/kamil-al-ziyarat:2:2:1",
+    "/books/kamil-al-ziyarat:2:2:10",
+    "/books/kamil-al-ziyarat:2:2:13",
+    "/books/kamil-al-ziyarat:2:2:16"
+  ],
+  "verseCount": 5,
+  "relations": {},
+  "subchains": {
+    "11-781-143-52-2696-669": {
+      "narrator_ids": [
+        11,
+        781,
+        143,
+        52,
+        2696,
+        669
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:2:13"
+      ]
+    },
+    "2-53-46-2696-669": {
+      "narrator_ids": [
+        2,
+        53,
+        46,
+        2696,
+        669
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:2:10"
+      ]
+    },
+    "2696-669": {
+      "narrator_ids": [
+        2696,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:213:3",
+        "/books/kamil-al-ziyarat:2:2:1",
+        "/books/kamil-al-ziyarat:2:2:10",
+        "/books/kamil-al-ziyarat:2:2:13",
+        "/books/kamil-al-ziyarat:2:2:16"
+      ]
+    },
+    "46-2696": {
+      "narrator_ids": [
+        46,
+        2696
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:213:3",
+        "/books/kamil-al-ziyarat:2:2:1",
+        "/books/kamil-al-ziyarat:2:2:10",
+        "/books/kamil-al-ziyarat:2:2:16"
+      ]
+    },
+    "5-10-46-2696-669": {
+      "narrator_ids": [
+        5,
+        10,
+        46,
+        2696,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:213:3"
+      ]
+    },
+    "52-2696": {
+      "narrator_ids": [
+        52,
+        2696
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:2:13"
+      ]
+    },
+    "613-355-13-2-53-46-2696-669": {
+      "narrator_ids": [
+        613,
+        355,
+        13,
+        2,
+        53,
+        46,
+        2696,
+        669
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:2:16"
+      ]
+    },
+    "613-355-13-53-46-2696-669": {
+      "narrator_ids": [
+        613,
+        355,
+        13,
+        53,
+        46,
+        2696,
+        669
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:2:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2696",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2696.json"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 3554,
+  "type": "narrator",
+  "path": "/people/narrators/3554",
+  "titles": {
+    "ar": "عَبْدِ اللَّهِ بْنِ أَبِي شَيْبَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:6:19:11",
+    "/books/tahdhib-al-ahkam:6:90:191"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "20-2318-500-3554-40-3693-1475": {
+      "narrator_ids": [
+        20,
+        2318,
+        500,
+        3554,
+        40,
+        3693,
+        1475
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:6:19:11"
+      ]
+    },
+    "20-25-2318-500-3554-40-3693-1475": {
+      "narrator_ids": [
+        20,
+        25,
+        2318,
+        500,
+        3554,
+        40,
+        3693,
+        1475
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:90:191"
+      ]
+    },
+    "3554-40": {
+      "narrator_ids": [
+        3554,
+        40
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:6:19:11",
+        "/books/tahdhib-al-ahkam:6:90:191"
+      ]
+    },
+    "500-3554": {
+      "narrator_ids": [
+        500,
+        3554
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:6:19:11",
+        "/books/tahdhib-al-ahkam:6:90:191"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3554",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3554.json"
+  }
+}

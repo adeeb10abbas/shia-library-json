@@ -1,0 +1,57 @@
+{
+  "id": 2885,
+  "type": "narrator",
+  "path": "/people/narrators/2885",
+  "titles": {
+    "ar": "بِشْرِ بْنِ غَالِبٍ الْأَسَدِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:3:7:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2885-766": {
+      "narrator_ids": [
+        2885,
+        766
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:3:7:3"
+      ]
+    },
+    "4-13-798-80-60-72-953-2885-766": {
+      "narrator_ids": [
+        4,
+        13,
+        798,
+        80,
+        60,
+        72,
+        953,
+        2885,
+        766
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:3:7:3"
+      ]
+    },
+    "953-2885": {
+      "narrator_ids": [
+        953,
+        2885
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:3:7:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2885",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2885.json"
+  }
+}

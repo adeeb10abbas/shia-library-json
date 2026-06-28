@@ -1,0 +1,54 @@
+{
+  "id": 3090,
+  "type": "narrator",
+  "path": "/people/narrators/3090",
+  "titles": {
+    "ar": "حَفْصٍ بَيَّاعِ السَّابِرِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:54:9"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "26-3090": {
+      "narrator_ids": [
+        26,
+        3090
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:54:9"
+      ]
+    },
+    "3-27-26-3090-71-312": {
+      "narrator_ids": [
+        3,
+        27,
+        26,
+        3090,
+        71,
+        312
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:54:9"
+      ]
+    },
+    "3090-71": {
+      "narrator_ids": [
+        3090,
+        71
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:54:9"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3090",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3090.json"
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:7:3:18",
+  "chapter": {
+    "path": "/books/al-kafi:7:3:18",
+    "titles": {
+      "ar": "باب الرَّجُلِ يُزَوِّجُ أَمَتَهُ ثُمَّ يَقَعُ عَلَيْهَا",
+      "en": "Chapter 18 – The man who gets his slave girl married off, then falls upon her"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-kafi:7:3:18:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:3:18:1",
+        "parts": [
+          7,
+          3,
+          18,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 3,
+        "chapter": 18,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:3:18",
+        "titles": {
+          "ar": "باب الرَّجُلِ يُزَوِّجُ أَمَتَهُ ثُمَّ يَقَعُ عَلَيْهَا",
+          "en": "Chapter 18 – The man who gets his slave girl married off, then falls upon her"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " رَجُلٍ زَوَّجَ أَمَتَهُ رَجُلًا ثُمَّ وَقَعَ عَلَيْهَا قَالَ يُضْرَبُ الْحَدَّ ."
+        ],
+        "text": "رَجُلٍ زَوَّجَ أَمَتَهُ رَجُلًا ثُمَّ وَقَعَ عَلَيْهَا قَالَ يُضْرَبُ الْحَدَّ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father, from Ibn Abu Umer, from Hammad, from Al Halby, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> regarding a man who got his slave girl married off to a man, then fell upon her. He<sup>asws</sup> said: ‘He would be struck with the Penalty (<span class=\"iTxt\">Hadd</span>)’."
+          ],
+          "text": "Ali Bin Ibrahim, from his father, from Ibn Abu Umer, from Hammad, from Al Halby,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> regarding a man who got his slave girl married off to a man, then fell upon her. He<sup>asws</sup> said: ‘He would be struck with the Penalty (<span class=\"iTxt\">Hadd</span>)’."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنِ ابْنِ أَبِي عُمَيْرٍ عَنْ حَمَّادٍ عَنِ الْحَلَبِيِّ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) فِي",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ أَبِي عُمَيْرٍ",
+            "path": "/people/narrators/7"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "حَمَّادٍ",
+            "path": "/people/narrators/23"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحَلَبِيِّ",
+            "path": "/people/narrators/28"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " فِي"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/7",
+          "/people/narrators/23",
+          "/people/narrators/28",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:3:18:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/3/18/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

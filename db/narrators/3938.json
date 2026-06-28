@@ -1,0 +1,45 @@
+{
+  "id": 3938,
+  "type": "narrator",
+  "path": "/people/narrators/3938",
+  "titles": {
+    "ar": "عَنْبَسَةَ الْوَرَّاقِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:39:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3297-3938": {
+      "narrator_ids": [
+        3297,
+        3938
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:39:4"
+      ]
+    },
+    "35-12-67-290-3297-3938": {
+      "narrator_ids": [
+        35,
+        12,
+        67,
+        290,
+        3297,
+        3938
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:39:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3938",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3938.json"
+  }
+}

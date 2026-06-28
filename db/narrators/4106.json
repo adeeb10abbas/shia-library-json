@@ -1,0 +1,53 @@
+{
+  "id": 4106,
+  "type": "narrator",
+  "path": "/people/narrators/4106",
+  "titles": {
+    "ar": "مُحَمَّدٍ الزَّعْفَرَانِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:53:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3-2-7-4106-669": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        4106,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:53:3"
+      ]
+    },
+    "4106-669": {
+      "narrator_ids": [
+        4106,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:53:3"
+      ]
+    },
+    "7-4106": {
+      "narrator_ids": [
+        7,
+        4106
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:53:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4106",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4106.json"
+  }
+}

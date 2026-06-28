@@ -1,0 +1,86 @@
+{
+  "id": 2440,
+  "type": "narrator",
+  "path": "/people/narrators/2440",
+  "titles": {
+    "ar": "إِسْمَاعِيلَ بْنِ الصَّبَّاحِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:40:1",
+    "/books/kitab-al-ghayba-tusi:51:1",
+    "/books/man-la-yahduruhu-al-faqih:3:2:25:2",
+    "/books/tahdhib-al-ahkam:7:20:50"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "15-2440": {
+      "narrator_ids": [
+        15,
+        2440
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:3:2:25:2",
+        "/books/tahdhib-al-ahkam:7:20:50"
+      ]
+    },
+    "3-2-74-78-2440": {
+      "narrator_ids": [
+        3,
+        2,
+        74,
+        78,
+        2440
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:40:1"
+      ]
+    },
+    "4286-15-2440": {
+      "narrator_ids": [
+        4286,
+        15,
+        2440
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:20:50"
+      ]
+    },
+    "681-97-2440": {
+      "narrator_ids": [
+        681,
+        97,
+        2440
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:51:1"
+      ]
+    },
+    "78-2440": {
+      "narrator_ids": [
+        78,
+        2440
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:40:1"
+      ]
+    },
+    "97-2440": {
+      "narrator_ids": [
+        97,
+        2440
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:51:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2440",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2440.json"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "id": 1082,
+  "type": "narrator",
+  "path": "/people/narrators/1082",
+  "titles": {
+    "ar": "حُسَيْنِ بْنِ عُمَرَ بْنِ يَزِيدَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:152:2",
+    "/books/al-kafi:2:1:153:5",
+    "/books/al-kafi:6:9:4:7"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "10-1082": {
+      "narrator_ids": [
+        10,
+        1082
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:9:4:7"
+      ]
+    },
+    "1082-2": {
+      "narrator_ids": [
+        1082,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:152:2",
+        "/books/al-kafi:2:1:153:5",
+        "/books/al-kafi:6:9:4:7"
+      ]
+    },
+    "2625-1082": {
+      "narrator_ids": [
+        2625,
+        1082
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:152:2"
+      ]
+    },
+    "3069-1082": {
+      "narrator_ids": [
+        3069,
+        1082
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:153:5"
+      ]
+    },
+    "4-5-10-1082-2": {
+      "narrator_ids": [
+        4,
+        5,
+        10,
+        1082,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:9:4:7"
+      ]
+    },
+    "6-12-37-2625-1082-2": {
+      "narrator_ids": [
+        6,
+        12,
+        37,
+        2625,
+        1082,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:152:2"
+      ]
+    },
+    "6-12-37-3069-1082-2-669": {
+      "narrator_ids": [
+        6,
+        12,
+        37,
+        3069,
+        1082,
+        2,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:153:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1082",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1082.json"
+  }
+}

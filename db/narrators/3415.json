@@ -1,0 +1,43 @@
+{
+  "id": 3415,
+  "type": "narrator",
+  "path": "/people/narrators/3415",
+  "titles": {
+    "ar": "شَيْخٍ مِنْ أَهْلِ الْمَدِينَةِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:7:4:9"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "4-37-41-3415": {
+      "narrator_ids": [
+        4,
+        37,
+        41,
+        3415
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:4:9"
+      ]
+    },
+    "41-3415": {
+      "narrator_ids": [
+        41,
+        3415
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:4:9"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3415",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3415.json"
+  }
+}

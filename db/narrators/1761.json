@@ -1,0 +1,44 @@
+{
+  "id": 1761,
+  "type": "narrator",
+  "path": "/people/narrators/1761",
+  "titles": {
+    "ar": "5ـ عَلِيُّ بْنُ إِبْرَاهِيمَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:61:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1761-2": {
+      "narrator_ids": [
+        1761,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:61:5"
+      ]
+    },
+    "1761-2-272-2144-40": {
+      "narrator_ids": [
+        1761,
+        2,
+        272,
+        2144,
+        40
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:61:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1761",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1761.json"
+  }
+}

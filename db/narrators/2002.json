@@ -1,0 +1,69 @@
+{
+  "id": 2002,
+  "type": "narrator",
+  "path": "/people/narrators/2002",
+  "titles": {
+    "ar": "أَبِي الْفَرَجِ السِّنْدِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:123:15",
+    "/books/tahdhib-al-ahkam:5:9:16"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "101-2002": {
+      "narrator_ids": [
+        101,
+        2002
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:123:15",
+        "/books/tahdhib-al-ahkam:5:9:16"
+      ]
+    },
+    "2002-669": {
+      "narrator_ids": [
+        2002,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:123:15",
+        "/books/tahdhib-al-ahkam:5:9:16"
+      ]
+    },
+    "6-8-101-2002-669": {
+      "narrator_ids": [
+        6,
+        8,
+        101,
+        2002,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:123:15"
+      ]
+    },
+    "952-6-8-101-2002-669": {
+      "narrator_ids": [
+        952,
+        6,
+        8,
+        101,
+        2002,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:9:16"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2002",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2002.json"
+  }
+}

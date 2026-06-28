@@ -1,0 +1,52 @@
+{
+  "id": 2750,
+  "type": "narrator",
+  "path": "/people/narrators/2750",
+  "titles": {
+    "ar": "الْفَضْلِ بْنِ عَامِرٍ أَبِي الْعَبَّاسِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:3:6:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2750-341": {
+      "narrator_ids": [
+        2750,
+        341
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:6:3"
+      ]
+    },
+    "373-2750": {
+      "narrator_ids": [
+        373,
+        2750
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:6:3"
+      ]
+    },
+    "4-373-2750-341": {
+      "narrator_ids": [
+        4,
+        373,
+        2750,
+        341
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:6:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2750",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2750.json"
+  }
+}

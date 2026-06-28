@@ -1,0 +1,63 @@
+{
+  "id": 3210,
+  "type": "narrator",
+  "path": "/people/narrators/3210",
+  "titles": {
+    "ar": "رَجُلٍ مُتَمَتِّعٍ نَسِيَ أَنْ يُقَصِّرَ حَتَّى أَحْرَمَ بِالْحَجِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:147:1",
+    "/books/tahdhib-al-ahkam:5:7:99"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "6-5-21-65-31-669-3210": {
+      "narrator_ids": [
+        6,
+        5,
+        21,
+        65,
+        31,
+        669,
+        3210
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:147:1"
+      ]
+    },
+    "669-3210": {
+      "narrator_ids": [
+        669,
+        3210
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:147:1",
+        "/books/tahdhib-al-ahkam:5:7:99"
+      ]
+    },
+    "952-6-5-21-65-31-669-3210": {
+      "narrator_ids": [
+        952,
+        6,
+        5,
+        21,
+        65,
+        31,
+        669,
+        3210
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:7:99"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3210",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3210.json"
+  }
+}

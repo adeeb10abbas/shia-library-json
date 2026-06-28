@@ -1,0 +1,55 @@
+{
+  "id": 1973,
+  "type": "narrator",
+  "path": "/people/narrators/1973",
+  "titles": {
+    "ar": "أَبِي الْحَسَنِ الضَّرِيرِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:8:19:6"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1973-990": {
+      "narrator_ids": [
+        1973,
+        990
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:19:6"
+      ]
+    },
+    "3703-1973": {
+      "narrator_ids": [
+        3703,
+        1973
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:19:6"
+      ]
+    },
+    "6-8-234-3703-1973-990-669": {
+      "narrator_ids": [
+        6,
+        8,
+        234,
+        3703,
+        1973,
+        990,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:19:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1973",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1973.json"
+  }
+}

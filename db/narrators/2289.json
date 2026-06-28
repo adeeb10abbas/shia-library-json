@@ -1,0 +1,43 @@
+{
+  "id": 2289,
+  "type": "narrator",
+  "path": "/people/narrators/2289",
+  "titles": {
+    "ar": "أَحْمَدَ بْنِ بَشِيرٍ الْبَرْقِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:3:10:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "35-90-8-2289": {
+      "narrator_ids": [
+        35,
+        90,
+        8,
+        2289
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:10:4"
+      ]
+    },
+    "8-2289": {
+      "narrator_ids": [
+        8,
+        2289
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:10:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2289",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2289.json"
+  }
+}

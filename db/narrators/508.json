@@ -1,0 +1,212 @@
+{
+  "id": 508,
+  "type": "narrator",
+  "path": "/people/narrators/508",
+  "titles": {
+    "ar": "سَلَّامِ بْنِ الْمُسْتَنِيرِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:108:66",
+    "/books/al-kafi:2:1:186:1",
+    "/books/al-kafi:2:1:44:1",
+    "/books/al-kafi:2:1:60:3",
+    "/books/al-kafi:6:1:6:1",
+    "/books/al-kafi:7:7:13:2",
+    "/books/al-kafi:8:1:33:9",
+    "/books/al-kafi:8:1:41:15",
+    "/books/al-kafi:8:1:43:56",
+    "/books/al-kafi:8:1:47:3"
+  ],
+  "verseCount": 10,
+  "relations": {},
+  "subchains": {
+    "10-2064-508-9": {
+      "narrator_ids": [
+        10,
+        2064,
+        508,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:60:3"
+      ]
+    },
+    "10-568-508-9": {
+      "narrator_ids": [
+        10,
+        568,
+        508,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:33:9",
+        "/books/al-kafi:8:1:47:3"
+      ]
+    },
+    "11-5-10-481-508": {
+      "narrator_ids": [
+        11,
+        5,
+        10,
+        481,
+        508
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:41:15"
+      ]
+    },
+    "1182-508": {
+      "narrator_ids": [
+        1182,
+        508
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:6:1"
+      ]
+    },
+    "2064-508": {
+      "narrator_ids": [
+        2064,
+        508
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:60:3"
+      ]
+    },
+    "3-2-6-8-4-5-10-4196-508": {
+      "narrator_ids": [
+        3,
+        2,
+        6,
+        8,
+        4,
+        5,
+        10,
+        4196,
+        508
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:186:1"
+      ]
+    },
+    "4-13-10-481-508-9": {
+      "narrator_ids": [
+        4,
+        13,
+        10,
+        481,
+        508,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:108:66",
+        "/books/al-kafi:2:1:44:1"
+      ]
+    },
+    "4-13-53-4195-508-9": {
+      "narrator_ids": [
+        4,
+        13,
+        53,
+        4195,
+        508,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:56"
+      ]
+    },
+    "4-5-3-2-10-568-508-9": {
+      "narrator_ids": [
+        4,
+        5,
+        3,
+        2,
+        10,
+        568,
+        508,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:7:13:2"
+      ]
+    },
+    "4-5-3-2-53-1182-508": {
+      "narrator_ids": [
+        4,
+        5,
+        3,
+        2,
+        53,
+        1182,
+        508
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:6:1"
+      ]
+    },
+    "4195-508": {
+      "narrator_ids": [
+        4195,
+        508
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:56"
+      ]
+    },
+    "4196-508": {
+      "narrator_ids": [
+        4196,
+        508
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:186:1"
+      ]
+    },
+    "481-508": {
+      "narrator_ids": [
+        481,
+        508
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:108:66",
+        "/books/al-kafi:2:1:44:1",
+        "/books/al-kafi:8:1:41:15"
+      ]
+    },
+    "508-9": {
+      "narrator_ids": [
+        508,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:108:66",
+        "/books/al-kafi:2:1:44:1",
+        "/books/al-kafi:2:1:60:3",
+        "/books/al-kafi:7:7:13:2",
+        "/books/al-kafi:8:1:33:9",
+        "/books/al-kafi:8:1:43:56",
+        "/books/al-kafi:8:1:47:3"
+      ]
+    },
+    "568-508": {
+      "narrator_ids": [
+        568,
+        508
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:7:13:2",
+        "/books/al-kafi:8:1:33:9",
+        "/books/al-kafi:8:1:47:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/508",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/508.json"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:4:42",
+  "chapter": {
+    "path": "/books/al-khisal:4:42",
+    "titles": {
+      "en": "Three Bad Attributes for Black Shoes and Three Good for Yellow Ones"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:4:42:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:4:42:1",
+        "parts": [
+          4,
+          42,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 42,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:4:42",
+        "titles": {
+          "en": "Three Bad Attributes for Black Shoes and Three Good for Yellow Ones"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا أحمد بن إدريس قال: حدثني محمد بن أحمد، عن موسى بن عمر، عن عبد الله بن جبلة، عن حنان بن سدير قال: دخلت على أبي عبد الله عليه السلام وعلي نعل سوداء فقال: مالك ولبس نعل سوداء! أما علمت أن فيها ثلاث خصال؟ قال: قلت: وما هي جعلت فداك؟ قال: تضعف البصر، وترخي الذكر، وتورث الهم وهي مع ذلك من لباس الجبارين، عليك بلبس نعل صفراء فان فيها ثلاث خصال قال: قلت: وما هي قال: تحد البصر، وتشد الذكر، وتنفي الهم، وهي مع ذلك من لباس الانبياء عليهم السلام"
+        ],
+        "text": ": حدثنا أحمد بن إدريس قال: حدثني محمد بن أحمد، عن موسى بن عمر، عن عبد الله بن جبلة، عن حنان بن سدير قال: دخلت على أبي عبد الله عليه السلام وعلي نعل سوداء فقال: مالك ولبس نعل سوداء! أما علمت أن فيها ثلاث خصال؟ قال: قلت: وما هي جعلت فداك؟ قال: تضعف البصر، وترخي الذكر، وتورث الهم وهي مع ذلك من لباس الجبارين، عليك بلبس نعل صفراء فان فيها ثلاث خصال قال: قلت: وما هي قال: تحد البصر، وتشد الذكر، وتنفي الهم، وهي مع ذلك من لباس الانبياء عليهم السلام"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "3-50 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Ahmad ibn Idris quoted Muhammad ibn Ahmad, on the authority of Musa ibn Umar, on the authority of Abdullah ibn Jabal’le, on the authority of Han’nan ibn Sadeer, “I went to see Aba Abdullah while I was wearing black shoes. He (MGB) asked me, ‘Why are you wearing black shoes?’ Don’t you know that there are three attributes for them?’ I said, ‘May I be your ransom! No. What are they?’ The Imam (MGB) said, ‘They will weaken your vision, weaken your sexual drive and make you depressed. Moreover, it is part of the apparel of the oppressors. You should wear yellow shoes, since that would sharpen the vision, improve your sexual drive and reduce your depression. It is part of the Prophets’ apparel.”"
+          ],
+          "text": "3-50 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Ahmad ibn Idris quoted Muhammad ibn Ahmad, on the authority of Musa ibn Umar, on the authority of Abdullah ibn Jabal’le, on the authority of Han’nan ibn Sadeer, “I went to see Aba Abdullah while I was wearing black shoes. He (MGB) asked me, ‘Why are you wearing black shoes?’ Don’t you know that there are three attributes for them?’ I said, ‘May I be your ransom! No. What are they?’ The Imam (MGB) said, ‘They will weaken your vision, weaken your sexual drive and make you depressed. Moreover, it is part of the apparel of the oppressors. You should wear yellow shoes, since that would sharpen the vision, improve your sexual drive and reduce your depression. It is part of the Prophets’ apparel.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "3-50 حدثنا أبي رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "3-50 حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي رضي الله عنه قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:4:42:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/4/42/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/4/42/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

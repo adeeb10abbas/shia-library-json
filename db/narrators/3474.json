@@ -1,0 +1,55 @@
+{
+  "id": 3474,
+  "type": "narrator",
+  "path": "/people/narrators/3474",
+  "titles": {
+    "ar": "عَبْدِ الْحَمِيدِ الْوَابِشِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:25:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "307-3474": {
+      "narrator_ids": [
+        307,
+        3474
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:25:2"
+      ]
+    },
+    "3474-9": {
+      "narrator_ids": [
+        3474,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:25:2"
+      ]
+    },
+    "4-13-244-132-307-3474-9": {
+      "narrator_ids": [
+        4,
+        13,
+        244,
+        132,
+        307,
+        3474,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:25:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3474",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3474.json"
+  }
+}

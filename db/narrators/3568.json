@@ -1,0 +1,46 @@
+{
+  "id": 3568,
+  "type": "narrator",
+  "path": "/people/narrators/3568",
+  "titles": {
+    "ar": "عَبْدِ اللَّهِ بْنِ النَّجَاشِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:46:50"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "141-3568": {
+      "narrator_ids": [
+        141,
+        3568
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:46:50"
+      ]
+    },
+    "3-2-17-78-165-141-3568": {
+      "narrator_ids": [
+        3,
+        2,
+        17,
+        78,
+        165,
+        141,
+        3568
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:46:50"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3568",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3568.json"
+  }
+}

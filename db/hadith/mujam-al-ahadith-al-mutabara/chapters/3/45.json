@@ -1,0 +1,111 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "mujam-al-ahadith-al-mutabara",
+  "chapterPath": "/books/mujam-al-ahadith-al-mutabara:3:45",
+  "chapter": {
+    "path": "/books/mujam-al-ahadith-al-mutabara:3:45",
+    "titles": {
+      "en": "Dhurays b. Abd al-Malik"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "mujam-al-ahadith-al-mutabara:3:45:1",
+      "type": "hadith",
+      "book": {
+        "slug": "mujam-al-ahadith-al-mutabara",
+        "titles": {
+          "ar": "معجم الأحاديث المعتبرة",
+          "en": "Mu'jam al-Ahadith al-Mu'tabara"
+        },
+        "author": {
+          "en": "Muhammad Asif al-Muhsini"
+        }
+      },
+      "path": {
+        "source": "/books/mujam-al-ahadith-al-mutabara:3:45:1",
+        "parts": [
+          3,
+          45,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 45,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/mujam-al-ahadith-al-mutabara:3:45",
+        "titles": {
+          "en": "Dhurays b. Abd al-Malik"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": قال أبو عبد الله عليه السلام لعبد الملك بن أعين: كيف سميت ابنك ضريسا؟ فقال كيف سماك أبوك جعفرا؟ قال: إن جعفرا نهر في الجنة و ضريس اسم شيطان"
+        ],
+        "text": ": قال أبو عبد الله عليه السلام لعبد الملك بن أعين: كيف سميت ابنك ضريسا؟ فقال كيف سماك أبوك جعفرا؟ قال: إن جعفرا نهر في الجنة و ضريس اسم شيطان"
+      },
+      "translations": {
+        "en.ammaar-muslim": {
+          "segments": [
+            "1. [1/183] Rijal al-Kashshi: Hamduwayh from Ya`qub b. Yazid from Ibn Abi Umayr from Ali b. `Atiyya who said: Abu Abdillah عليه السلام said to Abd al-Malik b. A`yan: how did you come to name your son Dhurays? he said: how did your father come to name you Ja’far? he said: Ja`far is a river in paradise while Dhurays is a name of a devil!"
+          ],
+          "text": "1. [1/183] Rijal al-Kashshi: Hamduwayh from Ya`qub b. Yazid from Ibn Abi Umayr from Ali b. `Atiyya who said: Abu Abdillah عليه السلام said to Abd al-Malik b. A`yan: how did you come to name your son Dhurays? he said: how did your father come to name you Ja’far? he said: Ja`far is a river in paradise while Dhurays is a name of a devil!"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "[1/183] رجال الكشي: حمدويه، عن يعقوب بن يزيد، عن ابن أبي عمير، عن علي بن عطية قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "[1/183] رجال الكشي: حمدويه،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "يعقوب بن يزيد،",
+            "path": "/people/narrators/101"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابن أبي عمير،",
+            "path": "/people/narrators/7"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "علي بن عطية قال",
+            "path": "/people/narrators/491"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/101",
+          "/people/narrators/7",
+          "/people/narrators/491"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/mujam-al-ahadith-al-mutabara:3:45:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/mujam-al-ahadith-al-mutabara/3/45/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/9/3/46/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

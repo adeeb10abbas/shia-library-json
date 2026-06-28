@@ -1,0 +1,84 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "kitab-al-duafa",
+  "chapterPath": "/books/kitab-al-duafa:24:49",
+  "chapter": {
+    "path": "/books/kitab-al-duafa:24:49",
+    "titles": {
+      "en": "Aḥmad b. al-Ḥusayn b. ʿUmar b. Yazīd, al-Ṣayqal, Abū Jaʿfar"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "kitab-al-duafa:24:49:1",
+      "type": "hadith",
+      "book": {
+        "slug": "kitab-al-duafa",
+        "titles": {
+          "ar": "كتاب الضعفاء",
+          "en": "Kitab al-Du'afa'"
+        },
+        "author": {
+          "en": "Ahmad ibn al-Husayn al-Ghada'iri"
+        }
+      },
+      "path": {
+        "source": "/books/kitab-al-duafa:24:49:1",
+        "parts": [
+          24,
+          49,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 24,
+        "book": 49,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/kitab-al-duafa:24:49",
+        "titles": {
+          "en": "Aḥmad b. al-Ḥusayn b. ʿUmar b. Yazīd, al-Ṣayqal, Abū Jaʿfar"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " الإمامة. أخبرنا به أبي، عن العطار، عن أبيه، عن أحمد بن أبي زاهر، عن أحمد بن الحسين، به."
+        ],
+        "text": "الإمامة. أخبرنا به أبي، عن العطار، عن أبيه، عن أحمد بن أبي زاهر، عن أحمد بن الحسين، به."
+      },
+      "translations": {
+        "en.tashayyu": {
+          "segments": [
+            "49 – Aḥmad b. al-Ḥusayn b. ʿUmar b. Yazīd, al-Ṣayqal, Abū Jaʿfar.  He has a book regarding the Imamate, my father reported it to us from al-ʿAṭṭār from his father from Aḥmad b. Abī Zāhir from Aḥmad b. al-Ḥusayn (reporting) by it."
+          ],
+          "text": "49 – Aḥmad b. al-Ḥusayn b. ʿUmar b. Yazīd, al-Ṣayqal, Abū Jaʿfar.  He has a book regarding the Imamate, my father reported it to us from al-ʿAṭṭār from his father from Aḥmad b. Abī Zāhir from Aḥmad b. al-Ḥusayn (reporting) by it."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "49 - أحمد بن الحسين بن عمر بن يزيد، الصيقل، أبو جعفر. له كتاب في",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "49 - "
+          },
+          {
+            "kind": "plain",
+            "text": "أحمد بن الحسين بن عمر بن يزيد، الصيقل، أبو جعفر. له كتاب في"
+          }
+        ],
+        "narratorPaths": []
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/kitab-al-duafa:24:49:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/kitab-al-duafa/24/49/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/17/24/49/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

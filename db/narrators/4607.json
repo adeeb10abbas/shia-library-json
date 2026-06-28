@@ -1,0 +1,45 @@
+{
+  "id": 4607,
+  "type": "narrator",
+  "path": "/people/narrators/4607",
+  "titles": {
+    "ar": "يُوسُفَ الطَّاطَرِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:111:3",
+    "/books/man-la-yahduruhu-al-faqih:2:3:56:13"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "19-24-30-530-4607": {
+      "narrator_ids": [
+        19,
+        24,
+        30,
+        530,
+        4607
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:111:3"
+      ]
+    },
+    "530-4607": {
+      "narrator_ids": [
+        530,
+        4607
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:111:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4607",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4607.json"
+  }
+}

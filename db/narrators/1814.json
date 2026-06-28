@@ -1,0 +1,53 @@
+{
+  "id": 1814,
+  "type": "narrator",
+  "path": "/people/narrators/1814",
+  "titles": {
+    "ar": "إِبْرَاهِيمَ بْنِ الْخَطَّابِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:8:68:10"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-500-712-1814-669": {
+      "narrator_ids": [
+        11,
+        500,
+        712,
+        1814,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:68:10"
+      ]
+    },
+    "1814-669": {
+      "narrator_ids": [
+        1814,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:68:10"
+      ]
+    },
+    "712-1814": {
+      "narrator_ids": [
+        712,
+        1814
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:68:10"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1814",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1814.json"
+  }
+}

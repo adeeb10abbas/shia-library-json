@@ -1,0 +1,76 @@
+{
+  "id": 3113,
+  "type": "narrator",
+  "path": "/people/narrators/3113",
+  "titles": {
+    "ar": "حَمْزَةَ بْنِ عَبْدِ اللَّهِ الْجَعْفَرِيِّ"
+  },
+  "versePaths": [
+    "/books/al-istibsar:1:118:2",
+    "/books/al-kafi:2:1:33:4",
+    "/books/man-la-yahduruhu-al-faqih:1:59:21"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "2-3113": {
+      "narrator_ids": [
+        2,
+        3113
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:33:4"
+      ]
+    },
+    "3113-66": {
+      "narrator_ids": [
+        3113,
+        66
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:33:4"
+      ]
+    },
+    "555-3113": {
+      "narrator_ids": [
+        555,
+        3113
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:118:2"
+      ]
+    },
+    "6-12-2-3113-66-71": {
+      "narrator_ids": [
+        6,
+        12,
+        2,
+        3113,
+        66,
+        71
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:33:4"
+      ]
+    },
+    "695-9-555-3113": {
+      "narrator_ids": [
+        695,
+        9,
+        555,
+        3113
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:118:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3113",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3113.json"
+  }
+}

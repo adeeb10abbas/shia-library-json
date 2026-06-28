@@ -1,0 +1,32 @@
+{
+  "id": 2905,
+  "type": "narrator",
+  "path": "/people/narrators/2905",
+  "titles": {
+    "ar": "بَعْضِ أَصْحَابِهِ مِنَ الْعِرَاقِيِّينَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:99:26"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-2905": {
+      "narrator_ids": [
+        11,
+        2905
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:99:26"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2905",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2905.json"
+  }
+}

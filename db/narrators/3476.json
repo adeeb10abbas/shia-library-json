@@ -1,0 +1,44 @@
+{
+  "id": 3476,
+  "type": "narrator",
+  "path": "/people/narrators/3476",
+  "titles": {
+    "ar": "عَبْدِ الْحَمِيدِ بْنِ أَبِي جَعْفَرٍ الْفَرَّاءِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:3:95:43"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "196-3476": {
+      "narrator_ids": [
+        196,
+        3476
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:95:43"
+      ]
+    },
+    "3-2-65-196-3476": {
+      "narrator_ids": [
+        3,
+        2,
+        65,
+        196,
+        3476
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:95:43"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3476",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3476.json"
+  }
+}

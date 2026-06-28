@@ -1,0 +1,134 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-amali-mufid",
+  "chapterPath": "/books/al-amali-mufid:23:44",
+  "chapter": {
+    "path": "/books/al-amali-mufid:23:44",
+    "titles": {
+      "en": "Avoid fame"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-amali-mufid:23:44:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-amali-mufid",
+        "titles": {
+          "ar": "الأمالي (المفيد)",
+          "en": "Al-Amali (al-Mufid)"
+        },
+        "author": {
+          "ar": "الشيخ المفيد",
+          "en": "Shaykh al-Mufid"
+        }
+      },
+      "path": {
+        "source": "/books/al-amali-mufid:23:44:1",
+        "parts": [
+          23,
+          44,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 23,
+        "book": 44,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-amali-mufid:23:44",
+        "titles": {
+          "en": "Avoid fame"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": سمعته يقول: تبذل ولا تشهر ، وأخف شخصك لئلا تذكر وتعلم، واكتم واصمت تسلم. وأومى بيده إلى صدره تسر الأبرار وتغيظ الفجار وأومأ بيده إلى العامة."
+        ],
+        "text": ": سمعته يقول: تبذل ولا تشهر ، وأخف شخصك لئلا تذكر وتعلم، واكتم واصمت تسلم. وأومى بيده إلى صدره تسر الأبرار وتغيظ الفجار وأومأ بيده إلى العامة."
+      },
+      "translations": {
+        "en.mulla-asgharali-m-m-jaffer": {
+          "segments": [
+            "44. And with the foregoing chains of narration from ‘Ali ibn Mahzyar, from Ibn Abi Najran, from al-Hasan ibn Bahr, from Furat ibn Ahnaf, from one of the companions of Amirul Mu’mineen, ‘Ali ibn Abi Talib, peace be upon him, who said: \"Be among the commoner, inconspicuous people and do not make yourself noticeable; conceal yourself so that you are neither mentioned nor known. Guard your secret, maintain silence and you will remain in peace.\" Then he pointed towards his chest and said: \"Thus, you will please the virtuous and raise the anger of the impious.\""
+          ],
+          "text": "44. And with the foregoing chains of narration from ‘Ali ibn Mahzyar, from Ibn Abi Najran, from al-Hasan ibn Bahr, from Furat ibn Ahnaf, from one of the companions of Amirul Mu’mineen, ‘Ali ibn Abi Talib, peace be upon him, who said: \"Be among the commoner, inconspicuous people and do not make yourself noticeable; conceal yourself so that you are neither mentioned nor known. Guard your secret, maintain silence and you will remain in peace.\" Then he pointed towards his chest and said: \"Thus, you will please the virtuous and raise the anger of the impious.\""
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "44 - وبالإسناد الأول عن علي بن مهزيار، عن ابن أبي نجران، عن الحسن بن بحر، عن فرات بن أحنف، عن رجل من أصحاب أمير المؤمنين علي بن أبي طالب صلوات الله عليه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "44 - "
+          },
+          {
+            "kind": "plain",
+            "text": "وبالإسناد الأول"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "علي بن مهزيار،",
+            "path": "/people/narrators/81"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابن أبي نجران،",
+            "path": "/people/narrators/74"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "الحسن بن بحر،",
+            "path": "/people/narrators/1330"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "فرات بن أحنف،",
+            "path": "/people/narrators/718"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "رجل من أصحاب أمير المؤمنين علي بن أبي طالب صلوات الله عليه قال"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/81",
+          "/people/narrators/74",
+          "/people/narrators/1330",
+          "/people/narrators/718"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-amali-mufid:23:44:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-amali-mufid/23/44/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/13/23/44/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

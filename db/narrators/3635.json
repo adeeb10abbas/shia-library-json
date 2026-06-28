@@ -1,0 +1,77 @@
+{
+  "id": 3635,
+  "type": "narrator",
+  "path": "/people/narrators/3635",
+  "titles": {
+    "ar": "عَبْدِ الْوَاحِدِ بْنِ الْمُخْتَارِ الْأَنْصَارِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:101:1",
+    "/books/man-la-yahduruhu-al-faqih:1:87:5",
+    "/books/tahdhib-al-ahkam:8:3:78"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "11-1003-164-18-3635": {
+      "narrator_ids": [
+        11,
+        1003,
+        164,
+        18,
+        3635
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:8:3:78"
+      ]
+    },
+    "18-3635": {
+      "narrator_ids": [
+        18,
+        3635
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:8:3:78"
+      ]
+    },
+    "193-3635": {
+      "narrator_ids": [
+        193,
+        3635
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:101:1"
+      ]
+    },
+    "3635-9": {
+      "narrator_ids": [
+        3635,
+        9
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:1:87:5"
+      ]
+    },
+    "6-5-22-56-193-3635": {
+      "narrator_ids": [
+        6,
+        5,
+        22,
+        56,
+        193,
+        3635
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:101:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3635",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3635.json"
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "mujam-al-ahadith-al-mutabara",
+  "chapterPath": "/books/mujam-al-ahadith-al-mutabara:3:61",
+  "chapter": {
+    "path": "/books/mujam-al-ahadith-al-mutabara:3:61",
+    "titles": {
+      "en": "Uthman b. Madh`un"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "mujam-al-ahadith-al-mutabara:3:61:1",
+      "type": "hadith",
+      "book": {
+        "slug": "mujam-al-ahadith-al-mutabara",
+        "titles": {
+          "ar": "معجم الأحاديث المعتبرة",
+          "en": "Mu'jam al-Ahadith al-Mu'tabara"
+        },
+        "author": {
+          "en": "Muhammad Asif al-Muhsini"
+        }
+      },
+      "path": {
+        "source": "/books/mujam-al-ahadith-al-mutabara:3:61:1",
+        "parts": [
+          3,
+          61,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 61,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/mujam-al-ahadith-al-mutabara:3:61",
+        "titles": {
+          "en": "Uthman b. Madh`un"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": لما ماتت رقية ابنة رسول الله صلى الله عليه وآله قال رسول الله صلى الله عليه وآله: الحقي بسلفنا الصالح عثمان بن مظعون وأصحابه …"
+        ],
+        "text": ": لما ماتت رقية ابنة رسول الله صلى الله عليه وآله قال رسول الله صلى الله عليه وآله: الحقي بسلفنا الصالح عثمان بن مظعون وأصحابه …"
+      },
+      "translations": {
+        "en.ammaar-muslim": {
+          "segments": [
+            "1. [1/201] Rijal al-Kashshi: Humayd b. Ziyad from al-Hasan b. Muhammad b. Sama`a from more than one from Abi Basir from one of them عليه السلام who said: when Ruqayya the daughter of the messenger of Allah صلى الله عليه وآله died, the messenger of Allah صلى الله عليه وآله said: meet up with our righteous predecessors Uthman b. Madh`un and his fellows …"
+          ],
+          "text": "1. [1/201] Rijal al-Kashshi: Humayd b. Ziyad from al-Hasan b. Muhammad b. Sama`a from more than one from Abi Basir from one of them عليه السلام who said: when Ruqayya the daughter of the messenger of Allah صلى الله عليه وآله died, the messenger of Allah صلى الله عليه وآله said: meet up with our righteous predecessors Uthman b. Madh`un and his fellows …"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "[1/201] رجال الكشي: حميد بن زياد، عن الحسن بن محمد بن سماعة، عن غير واحد، عن أبان، عن أبي بصير، عن أحدهما عليه السلام قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "[1/201] رجال الكشي: حميد بن زياد،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "الحسن بن محمد بن سماعة،",
+            "path": "/people/narrators/94"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "غير واحد،",
+            "path": "/people/narrators/84"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبان،",
+            "path": "/people/narrators/46"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي بصير،",
+            "path": "/people/narrators/14"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أحدهما عليه السلام قال",
+            "path": "/people/narrators/58"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/94",
+          "/people/narrators/84",
+          "/people/narrators/46",
+          "/people/narrators/14",
+          "/people/narrators/58"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/mujam-al-ahadith-al-mutabara:3:61:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/mujam-al-ahadith-al-mutabara/3/61/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/9/3/62/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

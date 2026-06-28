@@ -1,0 +1,255 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:3:3:60",
+  "chapter": {
+    "path": "/books/al-kafi:3:3:60",
+    "titles": {
+      "ar": "باب فِي وَضْعِ الْجَنَازَةِ دُونَ الْقَبْرِ",
+      "en": "Chapter 60 – Regarding placing of the deceased besides the grave"
+    }
+  },
+  "count": 2,
+  "records": [
+    {
+      "id": "al-kafi:3:3:60:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:3:3:60:1",
+        "parts": [
+          3,
+          3,
+          60,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 3,
+        "chapter": 60,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:3:3:60",
+        "titles": {
+          "ar": "باب فِي وَضْعِ الْجَنَازَةِ دُونَ الْقَبْرِ",
+          "en": "Chapter 60 – Regarding placing of the deceased besides the grave"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ أَبُو عَبْدِ اللَّهِ ( عليه السلام ) لَا تَفْدَحْ مَيِّتَكَ بِالْقَبْرِ وَ لَكِنْ ضَعْهُ أَسْفَلَ مِنْهُ بِذِرَاعَيْنِ أَوْ ثَلَاثَةٍ وَ دَعْهُ يَأْخُذُ أُهْبَتَهُ ."
+        ],
+        "text": "قَالَ أَبُو عَبْدِ اللَّهِ ( عليه السلام ) لَا تَفْدَحْ مَيِّتَكَ بِالْقَبْرِ وَ لَكِنْ ضَعْهُ أَسْفَلَ مِنْهُ بِذِرَاعَيْنِ أَوْ ثَلَاثَةٍ وَ دَعْهُ يَأْخُذُ أُهْبَتَهُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Sahl Bin Ziyad, from Muhammad Bin Sinan, from Muhammad Bin Ajlan who said, ",
+            "‘Abu Abdullah<sup>asws</sup> said: ‘Do not offload your dead one in the grave, but place him away from it by two cubits or three, and leave it to prepare himself’."
+          ],
+          "text": "A number of our companions, from Sahl Bin Ziyad, from Muhammad Bin Sinan, from Muhammad Bin Ajlan who said,\n\n‘Abu Abdullah<sup>asws</sup> said: ‘Do not offload your dead one in the grave, but place him away from it by two cubits or three, and leave it to prepare himself’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. A number of our people have narrated from Sahl ibn Ziyad from Muhammad ibn Sinan from Muhammad ibn ‘Ajlan who has said the following: “Abu ’Abd Allah, ‘Alayhi al-Salam, has said, ‘You must not make it heavy for your deceased by placing him in the grave. Place him two or three yards away from the grave on the ground so that he can get ready.”’ "
+          ],
+          "text": "1. A number of our people have narrated from Sahl ibn Ziyad from Muhammad ibn Sinan from Muhammad ibn ‘Ajlan who has said the following: “Abu ’Abd Allah, ‘Alayhi al-Salam, has said, ‘You must not make it heavy for your deceased by placing him in the grave. Place him two or three yards away from the grave on the ground so that he can get ready.”’"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (14/81)",
+          "label": "ضعيف",
+          "text": "Allamah Baqir al-Majlisi: ضعيف - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (14/81)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ سَهْلِ بْنِ زِيَادٍ عَنْ مُحَمَّدِ بْنِ سِنَانٍ عَنْ مُحَمَّدِ بْنِ عَجْلَانَ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَهْلِ بْنِ زِيَادٍ",
+            "path": "/people/narrators/8"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ سِنَانٍ",
+            "path": "/people/narrators/42"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ عَجْلَانَ",
+            "path": "/people/narrators/516"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/8",
+          "/people/narrators/42",
+          "/people/narrators/516"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:3:3:60:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/3/3/60/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:3:3:60:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:3:3:60:2",
+        "parts": [
+          3,
+          3,
+          60,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 3,
+        "chapter": 60,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:3:3:60",
+        "titles": {
+          "ar": "باب فِي وَضْعِ الْجَنَازَةِ دُونَ الْقَبْرِ",
+          "en": "Chapter 60 – Regarding placing of the deceased besides the grave"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " حَدِيثٌ سَمِعْتُهُ عَنْ أَبِي الْحَسَنِ مُوسَى ( عليه السلام ) مَا ذَكَرْتُهُ وَ أَنَا فِي بَيْتٍ إِلَّا ضَاقَ عَلَيَّ يَقُولُ إِذَا أَتَيْتَ بِالْمَيِّتِ شَفِيرَ قَبْرِهِ فَأَمْهِلْهُ سَاعَةً فَإِنَّهُ يَأْخُذُ أُهْبَتَهُ لِلسُّؤَالِ ."
+        ],
+        "text": "حَدِيثٌ سَمِعْتُهُ عَنْ أَبِي الْحَسَنِ مُوسَى ( عليه السلام ) مَا ذَكَرْتُهُ وَ أَنَا فِي بَيْتٍ إِلَّا ضَاقَ عَلَيَّ يَقُولُ إِذَا أَتَيْتَ بِالْمَيِّتِ شَفِيرَ قَبْرِهِ فَأَمْهِلْهُ سَاعَةً فَإِنَّهُ يَأْخُذُ أُهْبَتَهُ لِلسُّؤَالِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Muhammad, from Muhammad Bin Ahmad Al Khurasany, from his father, from Yunus who said, ",
+            "‘A Hadeeth I heard from Abu Al Hassan Musa<sup>asws</sup>, I do not remember it and I am in the house except that it is straitening upon me. He<sup>asws</sup> was saying: ‘Whenever you come with a deceased by the pit of his grave, so respite him for a while, for he can prepare himself for the questionig’."
+          ],
+          "text": "Ali Bin Muhammad, from Muhammad Bin Ahmad Al Khurasany, from his father, from Yunus who said,\n\n‘A Hadeeth I heard from Abu Al Hassan Musa<sup>asws</sup>, I do not remember it and I am in the house except that it is straitening upon me. He<sup>asws</sup> was saying: ‘Whenever you come with a deceased by the pit of his grave, so respite him for a while, for he can prepare himself for the questionig’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. Ali ibn Muhammad has narrated from Muhammad ibn Ahmad al-Khurasaniy from his father from Yunus who has said the following: “I heard a Hadith from abu al-Hassan, Musa, ‘Alayhi al-Salam, that whenever I remember it in a house I feel as if it is tightening upon me. He (the Imam) said, ‘When a deceased is placed in front of his grave, give him a chance for a while; he readies himself for interrogation.’” "
+          ],
+          "text": "2. Ali ibn Muhammad has narrated from Muhammad ibn Ahmad al-Khurasaniy from his father from Yunus who has said the following: “I heard a Hadith from abu al-Hassan, Musa, ‘Alayhi al-Salam, that whenever I remember it in a house I feel as if it is tightening upon me. He (the Imam) said, ‘When a deceased is placed in front of his grave, give him a chance for a while; he readies himself for interrogation.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مجهول    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (14/82)",
+          "label": "مجهول",
+          "text": "Allamah Baqir al-Majlisi: مجهول - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (14/82)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ مُحَمَّدٍ عَنْ مُحَمَّدِ بْنِ أَحْمَدَ الْخُرَاسَانِيِّ عَنْ أَبِيهِ عَنْ يُونُسَ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ مُحَمَّدٍ",
+            "path": "/people/narrators/35"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ أَحْمَدَ الْخُرَاسَانِيِّ",
+            "path": "/people/narrators/1637"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "يُونُسَ",
+            "path": "/people/narrators/26"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/35",
+          "/people/narrators/1637",
+          "/people/narrators/2",
+          "/people/narrators/26"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:3:3:60:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/3/3/60/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

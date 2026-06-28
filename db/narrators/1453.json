@@ -1,0 +1,102 @@
+{
+  "id": 1453,
+  "type": "narrator",
+  "path": "/people/narrators/1453",
+  "titles": {
+    "ar": "خَالِدِ بْنِ عُمَارَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:3:13:2",
+    "/books/al-kafi:5:2:33:2",
+    "/books/tahdhib-al-ahkam:6:91:156"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "143-1453": {
+      "narrator_ids": [
+        143,
+        1453
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:33:2",
+        "/books/tahdhib-al-ahkam:6:91:156"
+      ]
+    },
+    "1453-14": {
+      "narrator_ids": [
+        1453,
+        14
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:13:2"
+      ]
+    },
+    "1453-424": {
+      "narrator_ids": [
+        1453,
+        424
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:33:2",
+        "/books/tahdhib-al-ahkam:6:91:156"
+      ]
+    },
+    "26-1453": {
+      "narrator_ids": [
+        26,
+        1453
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:13:2"
+      ]
+    },
+    "3-2-157-143-1453-424": {
+      "narrator_ids": [
+        3,
+        2,
+        157,
+        143,
+        1453,
+        424
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:33:2"
+      ]
+    },
+    "3-27-26-1453-14": {
+      "narrator_ids": [
+        3,
+        27,
+        26,
+        1453,
+        14
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:13:2"
+      ]
+    },
+    "952-3-2-157-143-1453-424": {
+      "narrator_ids": [
+        952,
+        3,
+        2,
+        157,
+        143,
+        1453,
+        424
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:91:156"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1453",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1453.json"
+  }
+}

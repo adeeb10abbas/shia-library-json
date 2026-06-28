@@ -1,0 +1,71 @@
+{
+  "id": 4181,
+  "type": "narrator",
+  "path": "/people/narrators/4181",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ الْعَبَّاسِ بْنِ الْوَلِيدِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:1:28:2",
+    "/books/tahdhib-al-ahkam:8:5:15"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "11-4-167-339-4181-2-2844": {
+      "narrator_ids": [
+        11,
+        4,
+        167,
+        339,
+        4181,
+        2,
+        2844
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:8:5:15"
+      ]
+    },
+    "339-4181": {
+      "narrator_ids": [
+        339,
+        4181
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:28:2",
+        "/books/tahdhib-al-ahkam:8:5:15"
+      ]
+    },
+    "4-167-339-4181-2-2844": {
+      "narrator_ids": [
+        4,
+        167,
+        339,
+        4181,
+        2,
+        2844
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:28:2"
+      ]
+    },
+    "4181-2": {
+      "narrator_ids": [
+        4181,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:28:2",
+        "/books/tahdhib-al-ahkam:8:5:15"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4181",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4181.json"
+  }
+}

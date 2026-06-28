@@ -1,0 +1,84 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "kitab-al-duafa",
+  "chapterPath": "/books/kitab-al-duafa:24:13",
+  "chapter": {
+    "path": "/books/kitab-al-duafa:24:13",
+    "titles": {
+      "en": "Sulaymān b. Yaʿqūb, al-Nakhaʿī"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "kitab-al-duafa:24:13:1",
+      "type": "hadith",
+      "book": {
+        "slug": "kitab-al-duafa",
+        "titles": {
+          "ar": "كتاب الضعفاء",
+          "en": "Kitab al-Du'afa'"
+        },
+        "author": {
+          "en": "Ahmad ibn al-Husayn al-Ghada'iri"
+        }
+      },
+      "path": {
+        "source": "/books/kitab-al-duafa:24:13:1",
+        "parts": [
+          24,
+          13,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 24,
+        "book": 13,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/kitab-al-duafa:24:13",
+        "titles": {
+          "en": "Sulaymān b. Yaʿqūb, al-Nakhaʿī"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثني عبد الله ابن جعفر بن درستويه، قال: قال يعقوب بن سفيان: كان سليمان بن يعقوب النخعي يكذب على الوقف."
+        ],
+        "text": ": حدثني عبد الله ابن جعفر بن درستويه، قال: قال يعقوب بن سفيان: كان سليمان بن يعقوب النخعي يكذب على الوقف."
+      },
+      "translations": {
+        "en.tashayyu": {
+          "segments": [
+            "13 – Sulaymān b. Yaʿqūb, al-Nakhaʿī.  Muḥammad b. al-Ḥusayn b. Muḥammad b. al-Faḍl narrated to me, he said: ʿAbdullāh b. Jaʿfar b. Durustawayh narrated to me, he said: Yaʿqūb b. Sufyān said: Sulaymān b. Yaʿqūb al-Nakhaʿī used to keep to (? lie upon) the waqf."
+          ],
+          "text": "13 – Sulaymān b. Yaʿqūb, al-Nakhaʿī.  Muḥammad b. al-Ḥusayn b. Muḥammad b. al-Faḍl narrated to me, he said: ʿAbdullāh b. Jaʿfar b. Durustawayh narrated to me, he said: Yaʿqūb b. Sufyān said: Sulaymān b. Yaʿqūb al-Nakhaʿī used to keep to (? lie upon) the waqf."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "13 - سليمان بن يعقوب، النخعي. حدثني محمد بن الحسين بن محمد بن الفضل، قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "13 - "
+          },
+          {
+            "kind": "plain",
+            "text": "سليمان بن يعقوب، النخعي. حدثني محمد بن الحسين بن محمد بن الفضل، قال"
+          }
+        ],
+        "narratorPaths": []
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/kitab-al-duafa:24:13:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/kitab-al-duafa/24/13/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/17/24/13/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

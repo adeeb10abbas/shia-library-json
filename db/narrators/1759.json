@@ -1,0 +1,44 @@
+{
+  "id": 1759,
+  "type": "narrator",
+  "path": "/people/narrators/1759",
+  "titles": {
+    "ar": "4ـ بَعْضُ أَصْحَابِنَا"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:87:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1759-409": {
+      "narrator_ids": [
+        1759,
+        409
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:87:5"
+      ]
+    },
+    "1759-409-1630-1388-221": {
+      "narrator_ids": [
+        1759,
+        409,
+        1630,
+        1388,
+        221
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:87:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1759",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1759.json"
+  }
+}

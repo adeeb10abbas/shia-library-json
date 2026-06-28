@@ -1,0 +1,53 @@
+{
+  "id": 1898,
+  "type": "narrator",
+  "path": "/people/narrators/1898",
+  "titles": {
+    "ar": "ابْنِ قَدَّاحٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:133:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "110-1898": {
+      "narrator_ids": [
+        110,
+        1898
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:133:1"
+      ]
+    },
+    "1898-669": {
+      "narrator_ids": [
+        1898,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:133:1"
+      ]
+    },
+    "6-8-110-1898-669": {
+      "narrator_ids": [
+        6,
+        8,
+        110,
+        1898,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:133:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1898",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1898.json"
+  }
+}

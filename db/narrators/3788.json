@@ -1,0 +1,75 @@
+{
+  "id": 3788,
+  "type": "narrator",
+  "path": "/people/narrators/3788",
+  "titles": {
+    "ar": "عَلِيِّ بْنِ عَبْدِ اللَّهِ الْحَنَّاطِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:7:24:3",
+    "/books/tahdhib-al-ahkam:1:25:11"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "20-25-6-8-432-3788-149-1382": {
+      "narrator_ids": [
+        20,
+        25,
+        6,
+        8,
+        432,
+        3788,
+        149,
+        1382
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:24:3"
+      ]
+    },
+    "3788-149": {
+      "narrator_ids": [
+        3788,
+        149
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:24:3",
+        "/books/tahdhib-al-ahkam:1:25:11"
+      ]
+    },
+    "432-3788": {
+      "narrator_ids": [
+        432,
+        3788
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:24:3",
+        "/books/tahdhib-al-ahkam:1:25:11"
+      ]
+    },
+    "4630-952-20-25-6-8-432-3788-149": {
+      "narrator_ids": [
+        4630,
+        952,
+        20,
+        25,
+        6,
+        8,
+        432,
+        3788,
+        149
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:25:11"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3788",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3788.json"
+  }
+}

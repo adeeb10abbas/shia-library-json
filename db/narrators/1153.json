@@ -1,0 +1,103 @@
+{
+  "id": 1153,
+  "type": "narrator",
+  "path": "/people/narrators/1153",
+  "titles": {
+    "ar": "عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ الْوَاسِطِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:2:17:1",
+    "/books/al-kafi:2:2:30:4",
+    "/books/al-kafi:6:6:68:5"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "1153-263": {
+      "narrator_ids": [
+        1153,
+        263
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:17:1",
+        "/books/al-kafi:2:2:30:4"
+      ]
+    },
+    "1153-830": {
+      "narrator_ids": [
+        1153,
+        830
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:68:5"
+      ]
+    },
+    "1570-1153": {
+      "narrator_ids": [
+        1570,
+        1153
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:68:5"
+      ]
+    },
+    "3-2-337-1153-263-415": {
+      "narrator_ids": [
+        3,
+        2,
+        337,
+        1153,
+        263,
+        415
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:30:4"
+      ]
+    },
+    "3-2-337-1153-263-745": {
+      "narrator_ids": [
+        3,
+        2,
+        337,
+        1153,
+        263,
+        745
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:17:1"
+      ]
+    },
+    "337-1153": {
+      "narrator_ids": [
+        337,
+        1153
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:17:1",
+        "/books/al-kafi:2:2:30:4"
+      ]
+    },
+    "6-12-1570-1153-830-245-669": {
+      "narrator_ids": [
+        6,
+        12,
+        1570,
+        1153,
+        830,
+        245,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:68:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1153",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1153.json"
+  }
+}

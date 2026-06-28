@@ -1,0 +1,54 @@
+{
+  "id": 4375,
+  "type": "narrator",
+  "path": "/people/narrators/4375",
+  "titles": {
+    "ar": "مَطَرٍ مَوْلَى مَعْنٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:3:7:6"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "20-25-248-3404-4375-669": {
+      "narrator_ids": [
+        20,
+        25,
+        248,
+        3404,
+        4375,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:7:6"
+      ]
+    },
+    "3404-4375": {
+      "narrator_ids": [
+        3404,
+        4375
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:7:6"
+      ]
+    },
+    "4375-669": {
+      "narrator_ids": [
+        4375,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:7:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4375",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4375.json"
+  }
+}

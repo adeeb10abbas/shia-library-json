@@ -1,0 +1,55 @@
+{
+  "id": 3877,
+  "type": "narrator",
+  "path": "/people/narrators/3877",
+  "titles": {
+    "ar": "عَمْرِو [عُمَرَ] بْنِ خَالِدٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:32:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1265-3877": {
+      "narrator_ids": [
+        1265,
+        3877
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:32:2"
+      ]
+    },
+    "19-24-10-1265-3877-163-312": {
+      "narrator_ids": [
+        19,
+        24,
+        10,
+        1265,
+        3877,
+        163,
+        312
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:32:2"
+      ]
+    },
+    "3877-163": {
+      "narrator_ids": [
+        3877,
+        163
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:32:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3877",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3877.json"
+  }
+}

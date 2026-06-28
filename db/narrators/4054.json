@@ -1,0 +1,59 @@
+{
+  "id": 4054,
+  "type": "narrator",
+  "path": "/people/narrators/4054",
+  "titles": {
+    "ar": "كَانَ خَتَنَ بُرَيْدٍ الْعِجْلِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:53:12",
+    "/books/tahdhib-al-ahkam:7:1:8"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "16-4054": {
+      "narrator_ids": [
+        16,
+        4054
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:53:12",
+        "/books/tahdhib-al-ahkam:7:1:8"
+      ]
+    },
+    "5-122-132-16-4054": {
+      "narrator_ids": [
+        5,
+        122,
+        132,
+        16,
+        4054
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:1:8"
+      ]
+    },
+    "6-5-787-132-16-4054": {
+      "narrator_ids": [
+        6,
+        5,
+        787,
+        132,
+        16,
+        4054
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:53:12"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4054",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4054.json"
+  }
+}

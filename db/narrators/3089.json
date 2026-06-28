@@ -1,0 +1,53 @@
+{
+  "id": 3089,
+  "type": "narrator",
+  "path": "/people/narrators/3089",
+  "titles": {
+    "ar": "حَفْصِ بْنِ قَرْعَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:184:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3-2-7-3089-3296": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        3089,
+        3296
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:184:5"
+      ]
+    },
+    "3089-3296": {
+      "narrator_ids": [
+        3089,
+        3296
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:184:5"
+      ]
+    },
+    "7-3089": {
+      "narrator_ids": [
+        7,
+        3089
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:184:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3089",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3089.json"
+  }
+}

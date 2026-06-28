@@ -1,0 +1,55 @@
+{
+  "id": 1791,
+  "type": "narrator",
+  "path": "/people/narrators/1791",
+  "titles": {
+    "ar": "إِبْرَاهِيمَ الْخَارِقِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:83:9",
+    "/books/tahdhib-al-ahkam:6:90:106"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "10-1791": {
+      "narrator_ids": [
+        10,
+        1791
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:83:9",
+        "/books/tahdhib-al-ahkam:6:90:106"
+      ]
+    },
+    "4-13-10-1791": {
+      "narrator_ids": [
+        4,
+        13,
+        10,
+        1791
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:83:9"
+      ]
+    },
+    "5-10-1791": {
+      "narrator_ids": [
+        5,
+        10,
+        1791
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:90:106"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1791",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1791.json"
+  }
+}

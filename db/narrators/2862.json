@@ -1,0 +1,65 @@
+{
+  "id": 2862,
+  "type": "narrator",
+  "path": "/people/narrators/2862",
+  "titles": {
+    "ar": "بَدْرِ بْنِ الْخَلِيلِ الْأَزْدِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:40:4",
+    "/books/kitab-al-ghayba-tusi:51:17"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "161-2862": {
+      "narrator_ids": [
+        161,
+        2862
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:40:4"
+      ]
+    },
+    "197-2862": {
+      "narrator_ids": [
+        197,
+        2862
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:51:17"
+      ]
+    },
+    "33-39-197-2862": {
+      "narrator_ids": [
+        33,
+        39,
+        197,
+        2862
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:51:17"
+      ]
+    },
+    "6-8-39-161-2862": {
+      "narrator_ids": [
+        6,
+        8,
+        39,
+        161,
+        2862
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:40:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2862",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2862.json"
+  }
+}

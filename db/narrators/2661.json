@@ -1,0 +1,57 @@
+{
+  "id": 2661,
+  "type": "narrator",
+  "path": "/people/narrators/2661",
+  "titles": {
+    "ar": "الْحَكَمِ بْنِ أَبِي عَقِيلَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:1:23:18",
+    "/books/tahdhib-al-ahkam:9:3:15"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "4-5-244-56-2661": {
+      "narrator_ids": [
+        4,
+        5,
+        244,
+        56,
+        2661
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:1:23:18"
+      ]
+    },
+    "5-244-56-2661": {
+      "narrator_ids": [
+        5,
+        244,
+        56,
+        2661
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:3:15"
+      ]
+    },
+    "56-2661": {
+      "narrator_ids": [
+        56,
+        2661
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:1:23:18",
+        "/books/tahdhib-al-ahkam:9:3:15"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2661",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2661.json"
+  }
+}

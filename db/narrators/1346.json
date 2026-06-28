@@ -1,0 +1,94 @@
+{
+  "id": 1346,
+  "type": "narrator",
+  "path": "/people/narrators/1346",
+  "titles": {
+    "ar": "الْحَسَنِ بْنِ مُعَاوِيَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:80:11",
+    "/books/al-kafi:1:4:80:9",
+    "/books/kitab-al-ghayba-numani:2:13:45",
+    "/books/kitab-al-ghayba-numani:2:15:2"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "1346-124": {
+      "narrator_ids": [
+        1346,
+        124
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:80:11",
+        "/books/al-kafi:1:4:80:9"
+      ]
+    },
+    "1346-53": {
+      "narrator_ids": [
+        1346,
+        53
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-numani:2:13:45",
+        "/books/kitab-al-ghayba-numani:2:15:2"
+      ]
+    },
+    "1346-53-3962-221": {
+      "narrator_ids": [
+        1346,
+        53,
+        3962,
+        221
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-numani:2:15:2"
+      ]
+    },
+    "20-4-208-1346-124-1820-315": {
+      "narrator_ids": [
+        20,
+        4,
+        208,
+        1346,
+        124,
+        1820,
+        315
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:80:11"
+      ]
+    },
+    "208-1346": {
+      "narrator_ids": [
+        208,
+        1346
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:80:11",
+        "/books/al-kafi:1:4:80:9"
+      ]
+    },
+    "4-208-1346-124-164-18": {
+      "narrator_ids": [
+        4,
+        208,
+        1346,
+        124,
+        164,
+        18
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:80:9"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1346",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1346.json"
+  }
+}

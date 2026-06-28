@@ -1,0 +1,58 @@
+{
+  "id": 1926,
+  "type": "narrator",
+  "path": "/people/narrators/1926",
+  "titles": {
+    "ar": "أَبُو عُبَيْدَةَ",
+    "en": "Abu Ubayda"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:48:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1926-3571": {
+      "narrator_ids": [
+        1926,
+        3571
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:48:2"
+      ]
+    },
+    "305-1926": {
+      "narrator_ids": [
+        305,
+        1926
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:48:2"
+      ]
+    },
+    "6-5-42-85-300-6-305-1926-3571": {
+      "narrator_ids": [
+        6,
+        5,
+        42,
+        85,
+        300,
+        6,
+        305,
+        1926,
+        3571
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:48:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1926",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1926.json"
+  }
+}

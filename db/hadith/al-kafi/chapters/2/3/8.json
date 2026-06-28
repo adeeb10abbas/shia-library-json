@@ -1,0 +1,681 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:2:3:8",
+  "chapter": {
+    "path": "/books/al-kafi:2:3:8",
+    "titles": {
+      "ar": "بَابُ قِرَاءَةِ الْقُرْآنِ فِي الْمُصْحَفِ",
+      "en": "Chapter 8 – Recitation of the Quran in the Parchment (Book form)"
+    }
+  },
+  "count": 5,
+  "records": [
+    {
+      "id": "al-kafi:2:3:8:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:2:3:8:1",
+        "parts": [
+          2,
+          3,
+          8,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 3,
+        "chapter": 8,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:2:3:8",
+        "titles": {
+          "ar": "بَابُ قِرَاءَةِ الْقُرْآنِ فِي الْمُصْحَفِ",
+          "en": "Chapter 8 – Recitation of the Quran in the Parchment (Book form)"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " مَنْ قَرَأَ الْقُرْآنَ فِي الْمُصْحَفِ مُتِّعَ بِبَصَرِهِ وَ خُفِّفَ عَنْ وَالِدَيْهِ وَ إِنْ كَانَا كَافِرَيْنِ ."
+        ],
+        "text": "مَنْ قَرَأَ الْقُرْآنَ فِي الْمُصْحَفِ مُتِّعَ بِبَصَرِهِ وَ خُفِّفَ عَنْ وَالِدَيْهِ وَ إِنْ كَانَا كَافِرَيْنِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Ahmad Bin Muhammad, from Yaqoub Bin Yazeed, ",
+            "(It has been narrated) raising it to Abu Abdullah<sup>asws</sup> having said: ‘The one who recites the Quran in the Parchment would have pleasure in his eyes, and (Punishment) would be lightened from his parents and even if they were disbelievers’."
+          ],
+          "text": "A number of our companions, from Ahmad Bin Muhammad, from Yaqoub Bin Yazeed,\n\n(It has been narrated) raising it to Abu Abdullah<sup>asws</sup> having said: ‘The one who recites the Quran in the Parchment would have pleasure in his eyes, and (Punishment) would be lightened from his parents and even if they were disbelievers’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. A number of our people have narrated from Ahmad ibn Muhammad from Ya’qub ibn Yazid in a marfu’ manner from abu ‘Abd Allah  (a.s.) who has said the following: “If one reads the Holy Quran from a copy, he benefits from his eyesight, and his parents receive relief even if they are unbelievers.” "
+          ],
+          "text": "1. A number of our people have narrated from Ahmad ibn Muhammad from Ya’qub ibn Yazid in a marfu’ manner from abu ‘Abd Allah  (a.s.) who has said the following: “If one reads the Holy Quran from a copy, he benefits from his eyesight, and his parents receive relief even if they are unbelievers.”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مرفوع   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/498)",
+          "label": "مرفوع",
+          "text": "Allamah Baqir al-Majlisi: مرفوع - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/498)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنْ يَعْقُوبَ بْنِ يَزِيدَ رَفَعَهُ إِلَى أَبِي عَبْدِ اللَّهِ عَلَيْهِ السَّلَامُ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "يَعْقُوبَ بْنِ يَزِيدَ",
+            "path": "/people/narrators/101"
+          },
+          {
+            "kind": "plain",
+            "text": " رَفَعَهُ إِلَى "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ عَلَيْهِ السَّلَامُ",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/5",
+          "/people/narrators/101",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:2:3:8:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/2/3/8/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:2:3:8:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:2:3:8:2",
+        "parts": [
+          2,
+          3,
+          8,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 3,
+        "chapter": 8,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:2:3:8",
+        "titles": {
+          "ar": "بَابُ قِرَاءَةِ الْقُرْآنِ فِي الْمُصْحَفِ",
+          "en": "Chapter 8 – Recitation of the Quran in the Parchment (Book form)"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " إِنَّهُ لَيُعْجِبُنِي أَنْ يَكُونَ فِي الْبَيْتِ مُصْحَفٌ يَطْرُدُ اللَّهُ عَزَّ وَ جَلَّ بِهِ الشَّيَاطِينَ ."
+        ],
+        "text": "إِنَّهُ لَيُعْجِبُنِي أَنْ يَكُونَ فِي الْبَيْتِ مُصْحَفٌ يَطْرُدُ اللَّهُ عَزَّ وَ جَلَّ بِهِ الشَّيَاطِينَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "From him, from Ali Bin Al Husayn Bin Al Hassan Al Zareyr, from Hammad Bin Isa, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘I<sup>asws</sup> would love it if there happens to be a Parchment in the House by which Allah<sup>azwj</sup> Mighty and Majestic Repels the Satans<sup>la</sup>’."
+          ],
+          "text": "From him, from Ali Bin Al Husayn Bin Al Hassan Al Zareyr, from Hammad Bin Isa,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘I<sup>asws</sup> would love it if there happens to be a Parchment in the House by which Allah<sup>azwj</sup> Mighty and Majestic Repels the Satans<sup>la</sup>’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. It is narrated from him (narrator of the Hadith above) from Ali ibn al-Husayn from al-Hassan al-Darir from Hammad ibn ‘Isa from abu ‘Abd Allah (a.s.) who has said the following: “Abu ‘Abd Allah (a.s.) has said, T love the presence of a copy of the Holy Quran in a house; Allah, the Most Majestic, the Most Holy, thereby wards off devils.’” "
+          ],
+          "text": "2. It is narrated from him (narrator of the Hadith above) from Ali ibn al-Husayn from al-Hassan al-Darir from Hammad ibn ‘Isa from abu ‘Abd Allah (a.s.) who has said the following: “Abu ‘Abd Allah (a.s.) has said, T love the presence of a copy of the Holy Quran in a house; Allah, the Most Majestic, the Most Holy, thereby wards off devils.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مجهول    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (12/498)",
+          "label": "مجهول",
+          "text": "Allamah Baqir al-Majlisi: مجهول - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (12/498)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَنْهُ عَنْ عَلِيِّ بْنِ الْحُسَيْنِ بْنِ الْحَسَنِ الضَّرِيرِ عَنْ حَمَّادِ بْنِ عِيسَى عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَنْهُ",
+            "path": "/people/narrators/11"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيِّ بْنِ الْحُسَيْنِ بْنِ الْحَسَنِ الضَّرِيرِ",
+            "path": "/people/narrators/1568"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "حَمَّادِ بْنِ عِيسَى",
+            "path": "/people/narrators/38"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/11",
+          "/people/narrators/1568",
+          "/people/narrators/38",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:2:3:8:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/2/3/8/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:2:3:8:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:2:3:8:3",
+        "parts": [
+          2,
+          3,
+          8,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 3,
+        "chapter": 8,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:2:3:8",
+        "titles": {
+          "ar": "بَابُ قِرَاءَةِ الْقُرْآنِ فِي الْمُصْحَفِ",
+          "en": "Chapter 8 – Recitation of the Quran in the Parchment (Book form)"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " ثَلَاثَةٌ يَشْكُونَ إِلَى اللَّهِ عَزَّ وَ جَلَّ مَسْجِدٌ خَرَابٌ لَا يُصَلِّي فِيهِ أَهْلُهُ وَ عَالِمٌ بَيْنَ جُهَّالٍ وَ مُصْحَفٌ مُعَلَّقٌ قَدْ وَقَعَ عَلَيْهِ الْغُبَارُ لَا يُقْرَأُ فِيهِ ."
+        ],
+        "text": "ثَلَاثَةٌ يَشْكُونَ إِلَى اللَّهِ عَزَّ وَ جَلَّ مَسْجِدٌ خَرَابٌ لَا يُصَلِّي فِيهِ أَهْلُهُ وَ عَالِمٌ بَيْنَ جُهَّالٍ وَ مُصْحَفٌ مُعَلَّقٌ قَدْ وَقَعَ عَلَيْهِ الْغُبَارُ لَا يُقْرَأُ فِيهِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Sahl Bin Ziyad, from Ibn Fazzal, from the one who mentioned it, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Three (things) would complain to Allah<sup>azwj</sup> Mighty and Majestic – a ruined Masjid, it people not praying <span class=\"iTxt\">Salāt</span> in it, and a scholar among the ignorant ones, and a Parchment hanging (somewhere), the dust having occurred upon it, not been recited’."
+          ],
+          "text": "A number of our companions, from Sahl Bin Ziyad, from Ibn Fazzal, from the one who mentioned it,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Three (things) would complain to Allah<sup>azwj</sup> Mighty and Majestic – a ruined Masjid, it people not praying <span class=\"iTxt\">Salāt</span> in it, and a scholar among the ignorant ones, and a Parchment hanging (somewhere), the dust having occurred upon it, not been recited’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "3. A number of our people have narrated from Sahl ibn Ziyad from ibn Faddal from those whom he has mentioned (in his book) from abu ‘Abd Allah (a.s.) who has said the following: “Three things will complain before Allah, the Most Majestic, the Most Holy: A Mosque where no one of the neighborhood performs prayer, a scholar among the ignorant people and the copy of the Holy Quran on which dust has accumulated and no one reads it.” "
+          ],
+          "text": "3. A number of our people have narrated from Sahl ibn Ziyad from ibn Faddal from those whom he has mentioned (in his book) from abu ‘Abd Allah (a.s.) who has said the following: “Three things will complain before Allah, the Most Majestic, the Most Holy: A Mosque where no one of the neighborhood performs prayer, a scholar among the ignorant people and the copy of the Holy Quran on which dust has accumulated and no one reads it.”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (12/498)",
+          "label": "ضعيف",
+          "text": "Allamah Baqir al-Majlisi: ضعيف - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (12/498)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ سَهْلِ بْنِ زِيَادٍ عَنِ ابْنِ فَضَّالٍ عَمَّنْ ذَكَرَهُ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَهْلِ بْنِ زِيَادٍ",
+            "path": "/people/narrators/8"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "plain",
+            "text": "ابْنِ فَضَّالٍ عَمَّنْ ذَكَرَهُ"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/8",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:2:1:108:2",
+          "/books/al-kafi:2:1:136:23",
+          "/books/al-kafi:2:1:203:23",
+          "/books/al-kafi:2:2:16:9",
+          "/books/al-kafi:3:3:77:3",
+          "/books/al-kafi:4:3:149:5",
+          "/books/al-kafi:4:3:41:4",
+          "/books/al-kafi:5:2:30:12",
+          "/books/al-kafi:6:6:17:1",
+          "/books/al-kafi:6:7:10:4",
+          "/books/al-kafi:6:8:1:4",
+          "/books/al-kafi:6:8:24:1",
+          "/books/al-kafi:6:8:2:16",
+          "/books/al-kafi:8:1:37:12",
+          "/books/al-kafi:8:1:37:6"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:2:3:8:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/2/3/8/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:2:3:8:4",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:2:3:8:4",
+        "parts": [
+          2,
+          3,
+          8,
+          4
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 3,
+        "chapter": 8,
+        "hadith": 4
+      },
+      "chapter": {
+        "path": "/books/al-kafi:2:3:8",
+        "titles": {
+          "ar": "بَابُ قِرَاءَةِ الْقُرْآنِ فِي الْمُصْحَفِ",
+          "en": "Chapter 8 – Recitation of the Quran in the Parchment (Book form)"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قِرَاءَةُ الْقُرْآنِ فِي الْمُصْحَفِ تُخَفِّفُ الْعَذَابَ عَنِ الْوَالِدَيْنِ وَ لَوْ كَانَا كَافِرَيْنِ ."
+        ],
+        "text": "قِرَاءَةُ الْقُرْآنِ فِي الْمُصْحَفِ تُخَفِّفُ الْعَذَابَ عَنِ الْوَالِدَيْنِ وَ لَوْ كَانَا كَافِرَيْنِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Muhammad, from Ibn Jamhour, from Muhammad Bin Umar Bin Mas’ada, from Al Hassan Bin Rashid, from his grandfather, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Recitation of the Quran in the Parchment would lighten the Punishment from the parents, and even if they were both disbelievers’."
+          ],
+          "text": "Ali Bin Muhammad, from Ibn Jamhour, from Muhammad Bin Umar Bin Mas’ada, from Al Hassan Bin Rashid, from his grandfather,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Recitation of the Quran in the Parchment would lighten the Punishment from the parents, and even if they were both disbelievers’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "4. Ali ibn Muhammad has narrated from ibn Jumhur from Muhammad ibn ‘Umar ibn Mas’adah from al-Hassan ibn Rashid from his grandfather from abu ‘Abd Allah  (a.s.) who has said the following: “Reading of the Holy Quran from a copy relieves suffering punishment of one’s parents even if they are unbelievers.” "
+          ],
+          "text": "4. Ali ibn Muhammad has narrated from ibn Jumhur from Muhammad ibn ‘Umar ibn Mas’adah from al-Hassan ibn Rashid from his grandfather from abu ‘Abd Allah  (a.s.) who has said the following: “Reading of the Holy Quran from a copy relieves suffering punishment of one’s parents even if they are unbelievers.”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (12/498)",
+          "label": "ضعيف",
+          "text": "Allamah Baqir al-Majlisi: ضعيف - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (12/498)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ مُحَمَّدٍ عَنِ ابْنِ جُمْهُورٍ عَنْ مُحَمَّدِ بْنِ عُمَرَ بْنِ مَسْعَدَةَ عَنِ الْحَسَنِ بْنِ رَاشِدٍ عَنْ جَدِّهِ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ مُحَمَّدٍ",
+            "path": "/people/narrators/35"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ جُمْهُورٍ",
+            "path": "/people/narrators/298"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ عُمَرَ بْنِ مَسْعَدَةَ",
+            "path": "/people/narrators/4294"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحَسَنِ بْنِ رَاشِدٍ",
+            "path": "/people/narrators/434"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "جَدِّهِ",
+            "path": "/people/narrators/253"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/35",
+          "/people/narrators/298",
+          "/people/narrators/4294",
+          "/people/narrators/434",
+          "/people/narrators/253",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:2:3:8:4",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/2/3/8/4.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:2:3:8:5",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:2:3:8:5",
+        "parts": [
+          2,
+          3,
+          8,
+          5
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 3,
+        "chapter": 8,
+        "hadith": 5
+      },
+      "chapter": {
+        "path": "/books/al-kafi:2:3:8",
+        "titles": {
+          "ar": "بَابُ قِرَاءَةِ الْقُرْآنِ فِي الْمُصْحَفِ",
+          "en": "Chapter 8 – Recitation of the Quran in the Parchment (Book form)"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قُلْتُ لَهُ جُعِلْتُ فِدَاكَ إِنِّي أَحْفَظُ الْقُرْآنَ عَلَى ظَهْرِ قَلْبِي فَأَقْرَؤُهُ عَلَى ظَهْرِ قَلْبِي أَفْضَلُ أَوْ أَنْظُرُ فِي الْمُصْحَفِ قَالَ فَقَالَ لِي بَلِ اقْرَأْهُ وَ انْظُرْ فِي الْمُصْحَفِ فَهُوَ أَفْضَلُ أَ مَا عَلِمْتَ أَنَّ النَّظَرَ فِي الْمُصْحَفِ عِبَادَةٌ ."
+        ],
+        "text": "قُلْتُ لَهُ جُعِلْتُ فِدَاكَ إِنِّي أَحْفَظُ الْقُرْآنَ عَلَى ظَهْرِ قَلْبِي فَأَقْرَؤُهُ عَلَى ظَهْرِ قَلْبِي أَفْضَلُ أَوْ أَنْظُرُ فِي الْمُصْحَفِ قَالَ فَقَالَ لِي بَلِ اقْرَأْهُ وَ انْظُرْ فِي الْمُصْحَفِ فَهُوَ أَفْضَلُ أَ مَا عَلِمْتَ أَنَّ النَّظَرَ فِي الْمُصْحَفِ عِبَادَةٌ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Sahl Bin Ziyad, from Yahya Bin Al Mubarak, from Abdullah Bin Jabala, from Muawiya Bin Wahab, from Is’haq Bin Ammar, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup>, said, ‘I said to him<sup>asws</sup>, ‘May I be sacrificed for you<sup>asws</sup>! I have memorised the Quran by heart, reading it from memory so is it superior or looking into the Parchment (while reciting)?’ So he<sup>asws</sup> said to me: ‘But, recite and while looking into the Parchment, for it is superior. Do you not know that the looking into the Parchment is an act of worship?’"
+          ],
+          "text": "A number of our companions, from Sahl Bin Ziyad, from Yahya Bin Al Mubarak, from Abdullah Bin Jabala, from Muawiya Bin Wahab, from Is’haq Bin Ammar,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup>, said, ‘I said to him<sup>asws</sup>, ‘May I be sacrificed for you<sup>asws</sup>! I have memorised the Quran by heart, reading it from memory so is it superior or looking into the Parchment (while reciting)?’ So he<sup>asws</sup> said to me: ‘But, recite and while looking into the Parchment, for it is superior. Do you not know that the looking into the Parchment is an act of worship?’"
+        },
+        "en.sarwar": {
+          "segments": [
+            "5. A number of our people have narrated from Sahl ibn Ziyad from Yahya ibn al- Mubarak from ‘Abd Allah ibn Jabalah from Mu’awiyah ibn Wahab from Ishaq ibn ‘ Ammar who has said the following: “Once I said to abu ‘Abd Allah (a.s.) ‘May Allah keep my soul in service for your cause, I memorize the Holy Quran by heart and read from my memory, is that more virtuous or looking on a copy of the Holy Quran?’ The narrator has said that the Imam said to me, ‘It is better to look in a copy. Have you not heard that looking at a copy of the Holy Quran is an act of worship?”’ "
+          ],
+          "text": "5. A number of our people have narrated from Sahl ibn Ziyad from Yahya ibn al- Mubarak from ‘Abd Allah ibn Jabalah from Mu’awiyah ibn Wahab from Ishaq ibn ‘ Ammar who has said the following: “Once I said to abu ‘Abd Allah (a.s.) ‘May Allah keep my soul in service for your cause, I memorize the Holy Quran by heart and read from my memory, is that more virtuous or looking on a copy of the Holy Quran?’ The narrator has said that the Imam said to me, ‘It is better to look in a copy. Have you not heard that looking at a copy of the Holy Quran is an act of worship?”’"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (12/499)",
+          "label": "ضعيف",
+          "text": "Allamah Baqir al-Majlisi: ضعيف - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (12/499)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ سَهْلِ بْنِ زِيَادٍ عَنْ يَحْيَى بْنِ الْمُبَارَكِ عَنْ عَبْدِ اللَّهِ بْنِ جَبَلَةَ عَنْ مُعَاوِيَةَ بْنِ وَهْبٍ عَنْ إِسْحَاقَ بْنِ عَمَّارٍ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَهْلِ بْنِ زِيَادٍ",
+            "path": "/people/narrators/8"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "يَحْيَى بْنِ الْمُبَارَكِ",
+            "path": "/people/narrators/225"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَبْدِ اللَّهِ بْنِ جَبَلَةَ",
+            "path": "/people/narrators/124"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُعَاوِيَةَ بْنِ وَهْبٍ",
+            "path": "/people/narrators/109"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "إِسْحَاقَ بْنِ عَمَّارٍ",
+            "path": "/people/narrators/44"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/8",
+          "/people/narrators/225",
+          "/people/narrators/124",
+          "/people/narrators/109",
+          "/people/narrators/44",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:2:3:8:5",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/2/3/8/5.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

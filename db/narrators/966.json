@@ -1,0 +1,106 @@
+{
+  "id": 966,
+  "type": "narrator",
+  "path": "/people/narrators/966",
+  "titles": {
+    "ar": "أَبَانِ بْنِ عَبْدِ الْمَلِكِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:108:1",
+    "/books/al-kafi:2:1:150:1",
+    "/books/al-kafi:6:6:78:5"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "12-966": {
+      "narrator_ids": [
+        12,
+        966
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:78:5"
+      ]
+    },
+    "35-12-966-252-669": {
+      "narrator_ids": [
+        35,
+        12,
+        966,
+        252,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:78:5"
+      ]
+    },
+    "4-5-42-966": {
+      "narrator_ids": [
+        4,
+        5,
+        42,
+        966
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:108:1"
+      ]
+    },
+    "42-966": {
+      "narrator_ids": [
+        42,
+        966
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:108:1"
+      ]
+    },
+    "565-966": {
+      "narrator_ids": [
+        565,
+        966
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:150:1"
+      ]
+    },
+    "6-12-244-565-966-669": {
+      "narrator_ids": [
+        6,
+        12,
+        244,
+        565,
+        966,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:150:1"
+      ]
+    },
+    "966-252": {
+      "narrator_ids": [
+        966,
+        252
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:78:5"
+      ]
+    },
+    "966-669": {
+      "narrator_ids": [
+        966,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:150:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/966",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/966.json"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": 3479,
+  "type": "narrator",
+  "path": "/people/narrators/3479",
+  "titles": {
+    "ar": "عَبْدِ الْحَمِيدِ بْنِ غَوَّاصٍ الطَّائِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:2:7:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-2-3658-60-3479-16-669": {
+      "narrator_ids": [
+        11,
+        2,
+        3658,
+        60,
+        3479,
+        16,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:7:5"
+      ]
+    },
+    "3479-16": {
+      "narrator_ids": [
+        3479,
+        16
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:7:5"
+      ]
+    },
+    "60-3479": {
+      "narrator_ids": [
+        60,
+        3479
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:7:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3479",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3479.json"
+  }
+}

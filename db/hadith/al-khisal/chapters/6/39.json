@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:6:39",
+  "chapter": {
+    "path": "/books/al-khisal:6:39",
+    "titles": {
+      "en": "Five People Should Not Be Given Alms"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:6:39:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:6:39:1",
+        "parts": [
+          6,
+          39,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 39,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:6:39",
+        "titles": {
+          "en": "Five People Should Not Be Given Alms"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا محمد بن يحيى العطار عن محمد بن أحمد، عن أبي إسحاق إبراهيم بن هاشم، عن أبي طالب عبد الله بن الصلت القمي، عن عدة من أصحابنا يرفعونه إلى أبي عبد الله عليه السلام أنه قال: خمسة لا يعطون من الزكاة: الولد، والوالدان، والمرأة، والمملوك لانه يجبر [الرجل] على النفقة عليهم"
+        ],
+        "text": ": حدثنا محمد بن يحيى العطار عن محمد بن أحمد، عن أبي إسحاق إبراهيم بن هاشم، عن أبي طالب عبد الله بن الصلت القمي، عن عدة من أصحابنا يرفعونه إلى أبي عبد الله عليه السلام أنه قال: خمسة لا يعطون من الزكاة: الولد، والوالدان، والمرأة، والمملوك لانه يجبر [الرجل] على النفقة عليهم"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "5-46 Muhammad ibn al-Hassan - may God be pleased with him - narrated that Muhammad ibn Yahya al-Attar quoted Muhammad ibn Ahmad, on the authority of Abi Ishaq Ibrahim ibn Hashim, on the authority of Abi Talib Abdullah ibn al-Salt al-Qumi, on the authority of some companions who linked it up to Aba Abdullah as-Sadiq (MGB), “Five people should not be given alms as follows: one’s offspring; one’s parents; one’s wife and one’s servant, since one must pay for their expenses anyways.”"
+          ],
+          "text": "5-46 Muhammad ibn al-Hassan - may God be pleased with him - narrated that Muhammad ibn Yahya al-Attar quoted Muhammad ibn Ahmad, on the authority of Abi Ishaq Ibrahim ibn Hashim, on the authority of Abi Talib Abdullah ibn al-Salt al-Qumi, on the authority of some companions who linked it up to Aba Abdullah as-Sadiq (MGB), “Five people should not be given alms as follows: one’s offspring; one’s parents; one’s wife and one’s servant, since one must pay for their expenses anyways.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "5-46 حدثنا محمد بن الحسن رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "5-46 حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "محمد بن الحسن رضي الله عنه قال",
+            "path": "/people/narrators/90"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/90"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:6:39:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/6/39/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/6/39/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

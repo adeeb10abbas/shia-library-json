@@ -1,0 +1,55 @@
+{
+  "id": 3171,
+  "type": "narrator",
+  "path": "/people/narrators/3171",
+  "titles": {
+    "ar": "دَاوُدَ بْنِ فَرْقَدٍ أَبِي يَزِيدَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:3:95:27"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3171-1854": {
+      "narrator_ids": [
+        3171,
+        1854
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:95:27"
+      ]
+    },
+    "4-5-88-51-3171-1854-9": {
+      "narrator_ids": [
+        4,
+        5,
+        88,
+        51,
+        3171,
+        1854,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:95:27"
+      ]
+    },
+    "51-3171": {
+      "narrator_ids": [
+        51,
+        3171
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:95:27"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3171",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3171.json"
+  }
+}

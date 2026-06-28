@@ -1,0 +1,44 @@
+{
+  "id": 3470,
+  "type": "narrator",
+  "path": "/people/narrators/3470",
+  "titles": {
+    "ar": "عَبَّاسٍ النَّاقِدِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:4:9:6",
+    "/books/tahdhib-al-ahkam:2:13:107"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "4-59-3470": {
+      "narrator_ids": [
+        4,
+        59,
+        3470
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:9:6"
+      ]
+    },
+    "59-3470": {
+      "narrator_ids": [
+        59,
+        3470
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:9:6",
+        "/books/tahdhib-al-ahkam:2:13:107"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3470",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3470.json"
+  }
+}

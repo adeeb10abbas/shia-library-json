@@ -1,0 +1,32 @@
+{
+  "id": 1736,
+  "type": "narrator",
+  "path": "/people/narrators/1736",
+  "titles": {
+    "ar": "-مُحَمَّدُ بْنُ عَلِيِّ بْنِ مَعْمَرٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:4:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1736-67": {
+      "narrator_ids": [
+        1736,
+        67
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:4:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1736",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1736.json"
+  }
+}

@@ -1,0 +1,409 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:6:6:128",
+  "chapter": {
+    "path": "/books/al-kafi:6:6:128",
+    "titles": {
+      "ar": "باب الْبَاذَنْجَانِ",
+      "en": "Chapter 127 – The Aubergine"
+    }
+  },
+  "count": 3,
+  "records": [
+    {
+      "id": "al-kafi:6:6:128:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:6:128:1",
+        "parts": [
+          6,
+          6,
+          128,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 6,
+        "chapter": 128,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:6:128",
+        "titles": {
+          "ar": "باب الْبَاذَنْجَانِ",
+          "en": "Chapter 127 – The Aubergine"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " كُلُوا الْبَاذَنْجَانَ فَإِنَّهُ يُذْهِبُ الدَّاءَ وَ لَا دَاءَ لَهُ ."
+        ],
+        "text": "كُلُوا الْبَاذَنْجَانَ فَإِنَّهُ يُذْهِبُ الدَّاءَ وَ لَا دَاءَ لَهُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Ahmad Bin Muhammad, from Abdullah Bin Ali Bin Aamir, from Ibrahim Bin Al Fazl, from Ja’far Bin Yahya, from his father, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Eat the aubergine for it removes the illness and there is no disease in it’."
+          ],
+          "text": "A number of our companions, from Ahmad Bin Muhammad, from Abdullah Bin Ali Bin Aamir, from Ibrahim Bin Al Fazl, from Ja’far Bin Yahya, from his father,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Eat the aubergine for it removes the illness and there is no disease in it’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. A number of our people have narrated from Ahmad ibn Muhammad from ‘ Abd Allah ibn Ali ibn ‘Amir from Ibrahim ibn al-Fadl from Ja‘far ibn Yahya from his father who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘Eat eggplant because it removes illnesses and does not cause any illness/” "
+          ],
+          "text": "1. A number of our people have narrated from Ahmad ibn Muhammad from ‘ Abd Allah ibn Ali ibn ‘Amir from Ibrahim ibn al-Fadl from Ja‘far ibn Yahya from his father who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘Eat eggplant because it removes illnesses and does not cause any illness/”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مجهول   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/219)",
+          "label": "مجهول",
+          "text": "Allamah Baqir al-Majlisi: مجهول - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/219)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنْ عَبْدِ اللَّهِ بْنِ عَلِيِّ بْنِ عَامِرٍ عَنْ إِبْرَاهِيمَ بْنِ الْفَضْلِ عَنْ جَعْفَرِ بْنِ يَحْيَى عَنْ أَبِيهِ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَبْدِ اللَّهِ بْنِ عَلِيِّ بْنِ عَامِرٍ",
+            "path": "/people/narrators/3595"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "إِبْرَاهِيمَ بْنِ الْفَضْلِ",
+            "path": "/people/narrators/739"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "جَعْفَرِ بْنِ يَحْيَى",
+            "path": "/people/narrators/888"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/5",
+          "/people/narrators/3595",
+          "/people/narrators/739",
+          "/people/narrators/888",
+          "/people/narrators/2",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:6:128:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/6/128/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:6:128:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:6:128:2",
+        "parts": [
+          6,
+          6,
+          128,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 6,
+        "chapter": 128,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:6:128",
+        "titles": {
+          "ar": "باب الْبَاذَنْجَانِ",
+          "en": "Chapter 127 – The Aubergine"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ أَبُو الْحَسَنِ الثَّالِثِ ( عليه السلام ) لِبَعْضِ قَهَارِمَتِهِ اسْتَكْثِرُوا لَنَا مِنَ الْبَاذَنْجَانِ فَإِنَّهُ حَارٌّ فِي وَقْتِ الْحَرَارَةِ وَ بَارِدٌ فِي وَقْتِ الْبُرُودَةِ مُعْتَدِلٌ فِي الْأَوْقَاتِ كُلِّهَا جَيِّدٌ عَلَى كُلِّ حَالٍ."
+        ],
+        "text": "قَالَ أَبُو الْحَسَنِ الثَّالِثِ ( عليه السلام ) لِبَعْضِ قَهَارِمَتِهِ اسْتَكْثِرُوا لَنَا مِنَ الْبَاذَنْجَانِ فَإِنَّهُ حَارٌّ فِي وَقْتِ الْحَرَارَةِ وَ بَارِدٌ فِي وَقْتِ الْبُرُودَةِ مُعْتَدِلٌ فِي الْأَوْقَاتِ كُلِّهَا جَيِّدٌ عَلَى كُلِّ حَالٍ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Sahl Bin Ziyad, from one of our companions who said, ",
+            "‘Abu Al-Hassan<sup>asws</sup> the 3rd said to one of his<sup>asws</sup> workers: ‘Frequent for us from the aubergines, for it is hot during the time of heat, and cool in the times of coldness, being moderate in all of the times, good upon every state’."
+          ],
+          "text": "A number of our companions, from Sahl Bin Ziyad, from one of our companions who said,\n\n‘Abu Al-Hassan<sup>asws</sup> the 3rd said to one of his<sup>asws</sup> workers: ‘Frequent for us from the aubergines, for it is hot during the time of heat, and cool in the times of coldness, being moderate in all of the times, good upon every state’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. A number of our people have narrated from Sahl ibn Ziyad from certain persons of our people who have said the following: “Abu al-Hassan, al-Thalith, ‘Alayhi al-Salam, would say to certain ones of his workers, ‘Bring more eggplant for us because it is warm in hot season and it is cool in cold season and it is balanced in all seasons. It is fine in all conditions/” "
+          ],
+          "text": "2. A number of our people have narrated from Sahl ibn Ziyad from certain persons of our people who have said the following: “Abu al-Hassan, al-Thalith, ‘Alayhi al-Salam, would say to certain ones of his workers, ‘Bring more eggplant for us because it is warm in hot season and it is cool in cold season and it is balanced in all seasons. It is fine in all conditions/”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/219)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/219)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ سَهْلِ بْنِ زِيَادٍ عَنْ بَعْضِ أَصْحَابِنَا قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَهْلِ بْنِ زِيَادٍ",
+            "path": "/people/narrators/8"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "بَعْضِ أَصْحَابِنَا",
+            "path": "/people/narrators/36"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/8",
+          "/people/narrators/36"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:3:3:20:2"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:6:128:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/6/128/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:6:128:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:6:128:3",
+        "parts": [
+          6,
+          6,
+          128,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 6,
+        "chapter": 128,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:6:128",
+        "titles": {
+          "ar": "باب الْبَاذَنْجَانِ",
+          "en": "Chapter 127 – The Aubergine"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ لِبَعْضِ مَوَالِيهِ أَقْلِلْ لَنَا مِنَ الْبَصَلِ وَ أَكْثِرْ لَنَا مِنَ الْبَاذَنْجَانِ فَقَالَ لَهُ مُسْتَفْهِماً الْبَاذَنْجَانِ قَالَ نَعَمْ الْبَاذَنْجَانُ جَامِعُ الطَّعْمِ مَنْفِيُّ الدَّاءِ صَالِحٌ لِلطَّبِيعَةِ مُنْصِفٌ فِي أَحْوَالِهِ صَالِحٌ لِلشَّيْخِ وَ الشَّابِّ مُعْتَدِلٌ فِي حَرَارَتِهِ وَ بُرُودَتِهِ حَارٌّ فِي مَكَانِ الْحَرَارَةِ وَ بَارِدٌ فِي مَكَانِ الْبُرُودَةِ ."
+        ],
+        "text": "قَالَ لِبَعْضِ مَوَالِيهِ أَقْلِلْ لَنَا مِنَ الْبَصَلِ وَ أَكْثِرْ لَنَا مِنَ الْبَاذَنْجَانِ فَقَالَ لَهُ مُسْتَفْهِماً الْبَاذَنْجَانِ قَالَ نَعَمْ الْبَاذَنْجَانُ جَامِعُ الطَّعْمِ مَنْفِيُّ الدَّاءِ صَالِحٌ لِلطَّبِيعَةِ مُنْصِفٌ فِي أَحْوَالِهِ صَالِحٌ لِلشَّيْخِ وَ الشَّابِّ مُعْتَدِلٌ فِي حَرَارَتِهِ وَ بُرُودَتِهِ حَارٌّ فِي مَكَانِ الْحَرَارَةِ وَ بَارِدٌ فِي مَكَانِ الْبُرُودَةِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Al Husayn Bin Muhammad, from Moalla Bin Muhammad, from Ahmad Bin Muhammad, and Abdullah Bin Al Qasim, from Abdul Rahman Al Hashimy who said, ",
+            "‘He<sup>asws</sup> said to one of his slaves: ‘Be (buy) less for us<sup>asws</sup> from the onions, and more for us<sup>asws</sup> from the aubergines’. So he said to him<sup>asws</sup> for his understanding, ‘The aubergines?’ He<sup>asws</sup> said: ‘Yes, the aubergines, in all its tastes is beneficial for the illnesses, corrective for the health, balanced in its states, corrective for the old man and the youth, being moderate in its heat and its coolness, being hot in hot places and cool in cold places’."
+          ],
+          "text": "Al Husayn Bin Muhammad, from Moalla Bin Muhammad, from Ahmad Bin Muhammad, and Abdullah Bin Al Qasim, from Abdul Rahman Al Hashimy who said,\n\n‘He<sup>asws</sup> said to one of his slaves: ‘Be (buy) less for us<sup>asws</sup> from the onions, and more for us<sup>asws</sup> from the aubergines’. So he said to him<sup>asws</sup> for his understanding, ‘The aubergines?’ He<sup>asws</sup> said: ‘Yes, the aubergines, in all its tastes is beneficial for the illnesses, corrective for the health, balanced in its states, corrective for the old man and the youth, being moderate in its heat and its coolness, being hot in hot places and cool in cold places’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "3. Al-Husayn from Muhammad from Mu‘alla’ ibn Muhammad, from Ahmad ibn Muhammad, from and ‘Abd Allah ibn al-Qasim from ‘Abd al-Rahman al-Hashimiy who has said the following: “He (the Imam), Alayhi al-Salam, once said to a certain one of his servants, ‘You must bring for us less onion and more eggplant/ He inquired saying, ‘Do you mean eggplant? 5 He (the Imam) said, ‘Yes, eggplant, it is wholesome in taste, removes illness, is suitable for one’s health, balanced in its condition and it is suitable for the old people. It is balancing in hot and cold seasons; it is hot in hot places and it is cool in cold places/” "
+          ],
+          "text": "3. Al-Husayn from Muhammad from Mu‘alla’ ibn Muhammad, from Ahmad ibn Muhammad, from and ‘Abd Allah ibn al-Qasim from ‘Abd al-Rahman al-Hashimiy who has said the following: “He (the Imam), Alayhi al-Salam, once said to a certain one of his servants, ‘You must bring for us less onion and more eggplant/ He inquired saying, ‘Do you mean eggplant? 5 He (the Imam) said, ‘Yes, eggplant, it is wholesome in taste, removes illness, is suitable for one’s health, balanced in its condition and it is suitable for the old people. It is balancing in hot and cold seasons; it is hot in hot places and it is cool in cold places/”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/220)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/220)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "الْحُسَيْنُ بْنُ مُحَمَّدٍ عَنْ مُعَلَّى بْنِ مُحَمَّدٍ عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ وَ عَبْدِ اللَّهِ بْنِ الْقَاسِمِ عَنْ عَبْدِ الرَّحْمَنِ الْهَاشِمِيِّ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "الْحُسَيْنُ بْنُ مُحَمَّدٍ",
+            "path": "/people/narrators/20"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُعَلَّى بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/25"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " وَ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَبْدِ اللَّهِ بْنِ الْقَاسِمِ",
+            "path": "/people/narrators/198"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَبْدِ الرَّحْمَنِ الْهَاشِمِيِّ",
+            "path": "/people/narrators/3485"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/20",
+          "/people/narrators/25",
+          "/people/narrators/5",
+          "/people/narrators/198",
+          "/people/narrators/3485"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:6:128:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/6/128/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

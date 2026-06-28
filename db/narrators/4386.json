@@ -1,0 +1,59 @@
+{
+  "id": 4386,
+  "type": "narrator",
+  "path": "/people/narrators/4386",
+  "titles": {
+    "ar": "مُعَاوِيَةَ بْنِ عَمَّارٍ أَوِ ابْنِ وَهْبٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:4:4:4",
+    "/books/tahdhib-al-ahkam:2:4:68"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "4-5-21-69-4386": {
+      "narrator_ids": [
+        4,
+        5,
+        21,
+        69,
+        4386
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:4:4"
+      ]
+    },
+    "69-4386": {
+      "narrator_ids": [
+        69,
+        4386
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:4:4",
+        "/books/tahdhib-al-ahkam:2:4:68"
+      ]
+    },
+    "952-4-5-21-69-4386": {
+      "narrator_ids": [
+        952,
+        4,
+        5,
+        21,
+        69,
+        4386
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:4:68"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4386",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4386.json"
+  }
+}

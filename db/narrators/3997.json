@@ -1,0 +1,54 @@
+{
+  "id": 3997,
+  "type": "narrator",
+  "path": "/people/narrators/3997",
+  "titles": {
+    "ar": "فُرَاتِ بْنِ الْأَحْنَفِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:2:48:23"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3997-669": {
+      "narrator_ids": [
+        3997,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:48:23"
+      ]
+    },
+    "6-12-1516-937-3997-669": {
+      "narrator_ids": [
+        6,
+        12,
+        1516,
+        937,
+        3997,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:48:23"
+      ]
+    },
+    "937-3997": {
+      "narrator_ids": [
+        937,
+        3997
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:48:23"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3997",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3997.json"
+  }
+}

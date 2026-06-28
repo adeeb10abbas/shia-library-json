@@ -1,0 +1,53 @@
+{
+  "id": 1816,
+  "type": "narrator",
+  "path": "/people/narrators/1816",
+  "titles": {
+    "ar": "إِبْرَاهِيمَ بْنِ بِسْطَامَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:54:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1816-3229": {
+      "narrator_ids": [
+        1816,
+        3229
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:54:3"
+      ]
+    },
+    "230-1816": {
+      "narrator_ids": [
+        230,
+        1816
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:54:3"
+      ]
+    },
+    "6-8-230-1816-3229": {
+      "narrator_ids": [
+        6,
+        8,
+        230,
+        1816,
+        3229
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:54:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1816",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1816.json"
+  }
+}

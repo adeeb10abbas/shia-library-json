@@ -1,0 +1,44 @@
+{
+  "id": 2089,
+  "type": "narrator",
+  "path": "/people/narrators/2089",
+  "titles": {
+    "ar": "أَبِي دَاوُدَ يُوسُفَ بْنِ إِبْرَاهِيمَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:8:9:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "19-24-30-484-2089": {
+      "narrator_ids": [
+        19,
+        24,
+        30,
+        484,
+        2089
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:9:5"
+      ]
+    },
+    "484-2089": {
+      "narrator_ids": [
+        484,
+        2089
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:9:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2089",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2089.json"
+  }
+}

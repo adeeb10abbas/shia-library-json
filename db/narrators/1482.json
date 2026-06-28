@@ -1,0 +1,57 @@
+{
+  "id": 1482,
+  "type": "narrator",
+  "path": "/people/narrators/1482",
+  "titles": {
+    "ar": "زَيْدِ بْنِ الْحَسَنِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:77:3",
+    "/books/al-kafi:8:1:37:23"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "11-119-54-1482": {
+      "narrator_ids": [
+        11,
+        119,
+        54,
+        1482
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:77:3"
+      ]
+    },
+    "54-1482": {
+      "narrator_ids": [
+        54,
+        1482
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:77:3",
+        "/books/al-kafi:8:1:37:23"
+      ]
+    },
+    "6-8-39-54-1482": {
+      "narrator_ids": [
+        6,
+        8,
+        39,
+        54,
+        1482
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:37:23"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1482",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1482.json"
+  }
+}

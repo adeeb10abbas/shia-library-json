@@ -1,0 +1,53 @@
+{
+  "id": 1994,
+  "type": "narrator",
+  "path": "/people/narrators/1994",
+  "titles": {
+    "ar": "أَبِي الْعَبَّاسِ الزَّيَّاتِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:1:3:6"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "15-1994": {
+      "narrator_ids": [
+        15,
+        1994
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:3:6"
+      ]
+    },
+    "1994-294": {
+      "narrator_ids": [
+        1994,
+        294
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:3:6"
+      ]
+    },
+    "6-12-15-1994-294": {
+      "narrator_ids": [
+        6,
+        12,
+        15,
+        1994,
+        294
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:3:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1994",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1994.json"
+  }
+}

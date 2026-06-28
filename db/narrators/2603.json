@@ -1,0 +1,59 @@
+{
+  "id": 2603,
+  "type": "narrator",
+  "path": "/people/narrators/2603",
+  "titles": {
+    "ar": "الْحُسَيْنِ بْنِ أَبِي قَتَادَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:13:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1636-2603": {
+      "narrator_ids": [
+        1636,
+        2603
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:13:1"
+      ]
+    },
+    "19-212-3-2-179-4-1636-2603-117-72-9": {
+      "narrator_ids": [
+        19,
+        212,
+        3,
+        2,
+        179,
+        4,
+        1636,
+        2603,
+        117,
+        72,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:13:1"
+      ]
+    },
+    "2603-117": {
+      "narrator_ids": [
+        2603,
+        117
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:13:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2603",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2603.json"
+  }
+}

@@ -1,0 +1,395 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:7:3:43",
+  "chapter": {
+    "path": "/books/al-kafi:7:3:43",
+    "titles": {
+      "ar": "باب أَنَّهُ لَا يُقْطَعُ السَّارِقُ فِي الْمَجَاعَةِ",
+      "en": "Chapter 43 – The thief would not be cut during the famine"
+    }
+  },
+  "count": 3,
+  "records": [
+    {
+      "id": "al-kafi:7:3:43:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:3:43:1",
+        "parts": [
+          7,
+          3,
+          43,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 3,
+        "chapter": 43,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:3:43",
+        "titles": {
+          "ar": "باب أَنَّهُ لَا يُقْطَعُ السَّارِقُ فِي الْمَجَاعَةِ",
+          "en": "Chapter 43 – The thief would not be cut during the famine"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " لَا يُقْطَعُ السَّارِقُ فِي سَنَةِ الْمَحْلِ فِي كُلِّ شَيْ‏ءٍ يُؤْكَلُ مِثْلِ الْخُبْزِ وَ اللَّحْمِ وَ أَشْبَاهِ ذَلِكَ ."
+        ],
+        "text": "لَا يُقْطَعُ السَّارِقُ فِي سَنَةِ الْمَحْلِ فِي كُلِّ شَيْ‏ءٍ يُؤْكَلُ مِثْلِ الْخُبْزِ وَ اللَّحْمِ وَ أَشْبَاهِ ذَلِكَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, and someone else, from Muhammad Bin Ahmad, from Muhammad Bin Isa Bin Ubeyd, from Ziyad Al Qindy, from the one who mentioned it, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The thief would not be cut during a year of drought with regards to everything he eats, like the bread, and the meat, and the likes of that’."
+          ],
+          "text": "Muhammad Bin Yahya, and someone else, from Muhammad Bin Ahmad, from Muhammad Bin Isa Bin Ubeyd, from Ziyad Al Qindy, from the one who mentioned it,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The thief would not be cut during a year of drought with regards to everything he eats, like the bread, and the meat, and the likes of that’."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى وَ غَيْرُهُ عَنْ مُحَمَّدِ بْنِ أَحْمَدَ عَنْ مُحَمَّدِ بْنِ عِيسَى بْنِ عُبَيْدٍ عَنْ زِيَادٍ الْقَنْدِيِّ عَمَّنْ ذَكَرَهُ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " وَ "
+          },
+          {
+            "kind": "narrator",
+            "text": "غَيْرُهُ",
+            "path": "/people/narrators/78"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ أَحْمَدَ",
+            "path": "/people/narrators/59"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ عِيسَى بْنِ عُبَيْدٍ",
+            "path": "/people/narrators/135"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "plain",
+            "text": "زِيَادٍ الْقَنْدِيِّ عَمَّنْ ذَكَرَهُ"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/78",
+          "/people/narrators/59",
+          "/people/narrators/135",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:3:43:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/3/43/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:3:43:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:3:43:2",
+        "parts": [
+          7,
+          3,
+          43,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 3,
+        "chapter": 43,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:3:43",
+        "titles": {
+          "ar": "باب أَنَّهُ لَا يُقْطَعُ السَّارِقُ فِي الْمَجَاعَةِ",
+          "en": "Chapter 43 – The thief would not be cut during the famine"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ لَا يُقْطَعُ السَّارِقُ فِي عَامِ سَنَةٍ يَعْنِي فِي عَامِ مَجَاعَةٍ ."
+        ],
+        "text": "قَالَ لَا يُقْطَعُ السَّارِقُ فِي عَامِ سَنَةٍ يَعْنِي فِي عَامِ مَجَاعَةٍ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father, from Al Nowfaly, from Al Sakuny, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The thief would not be cut during a year of inactivity, meaning during a year of famine’."
+          ],
+          "text": "Ali Bin Ibrahim, from his father, from Al Nowfaly, from Al Sakuny,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The thief would not be cut during a year of inactivity, meaning during a year of famine’."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنِ النَّوْفَلِيِّ عَنِ السَّكُونِيِّ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "النَّوْفَلِيِّ",
+            "path": "/people/narrators/32"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "السَّكُونِيِّ",
+            "path": "/people/narrators/34"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/32",
+          "/people/narrators/34",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:3:43:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/3/43/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:3:43:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:3:43:3",
+        "parts": [
+          7,
+          3,
+          43,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 3,
+        "chapter": 43,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:3:43",
+        "titles": {
+          "ar": "باب أَنَّهُ لَا يُقْطَعُ السَّارِقُ فِي الْمَجَاعَةِ",
+          "en": "Chapter 43 – The thief would not be cut during the famine"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " كَانَ أَمِيرُ الْمُؤْمِنِينَ ( عليه السلام ) لَا يَقْطَعُ السَّارِقَ فِي أَيَّامِ الْمَجَاعَةِ ."
+        ],
+        "text": "كَانَ أَمِيرُ الْمُؤْمِنِينَ ( عليه السلام ) لَا يَقْطَعُ السَّارِقَ فِي أَيَّامِ الْمَجَاعَةِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Sahl Bin Ziyad and Muhammad Bin Yahya, from Ahmad Bin Muhammad, altogether from Ali Bin Al Hakam, from Aasim Bin Humeyd, from the one who informed him, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Amir Al-Momineen<sup>asws</sup> did not cut the thief during the days of famine’."
+          ],
+          "text": "A number of our companions, from Sahl Bin Ziyad and Muhammad Bin Yahya, from Ahmad Bin Muhammad, altogether from Ali Bin Al Hakam, from Aasim Bin Humeyd, from the one who informed him,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Amir Al-Momineen<sup>asws</sup> did not cut the thief during the days of famine’."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ سَهْلِ بْنِ زِيَادٍ وَ مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ جَمِيعاً عَنْ عَلِيِّ بْنِ الْحَكَمِ عَنْ عَاصِمِ بْنِ حُمَيْدٍ عَمَّنْ أَخْبَرَهُ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَهْلِ بْنِ زِيَادٍ",
+            "path": "/people/narrators/8"
+          },
+          {
+            "kind": "plain",
+            "text": " وَ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " جَمِيعاً عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيِّ بْنِ الْحَكَمِ",
+            "path": "/people/narrators/15"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "plain",
+            "text": "عَاصِمِ بْنِ حُمَيْدٍ عَمَّنْ أَخْبَرَهُ"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/8",
+          "/people/narrators/4",
+          "/people/narrators/5",
+          "/people/narrators/15",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:3:43:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/3/43/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

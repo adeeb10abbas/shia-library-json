@@ -1,0 +1,63 @@
+{
+  "id": 2811,
+  "type": "narrator",
+  "path": "/people/narrators/2811",
+  "titles": {
+    "ar": "النَّضْرِ بْنِ قِرْوَاشٍ"
+  },
+  "versePaths": [
+    "/books/al-istibsar:2:138:2",
+    "/books/al-kafi:6:6:53:9",
+    "/books/tahdhib-al-ahkam:5:4:38"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "11-15-2811": {
+      "narrator_ids": [
+        11,
+        15,
+        2811
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:53:9"
+      ]
+    },
+    "13-39-2811": {
+      "narrator_ids": [
+        13,
+        39,
+        2811
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:4:38"
+      ]
+    },
+    "15-2811": {
+      "narrator_ids": [
+        15,
+        2811
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:53:9"
+      ]
+    },
+    "39-2811": {
+      "narrator_ids": [
+        39,
+        2811
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:4:38"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2811",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2811.json"
+  }
+}

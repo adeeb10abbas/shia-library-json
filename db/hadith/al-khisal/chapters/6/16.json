@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:6:16",
+  "chapter": {
+    "path": "/books/al-khisal:6:16",
+    "titles": {
+      "en": "The Five Conditions of Friendship"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:6:16:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:6:16:1",
+        "parts": [
+          6,
+          16,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 16,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:6:16",
+        "titles": {
+          "en": "The Five Conditions of Friendship"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا سعد بن عبد الله قال: حدثني الهيثم بن أبي مسروق النهدي، عن عبدالعزيز بن عمر الواسطي، عن أبي خالد السجستاني، عن يزيد بن خالد النيسابوري عن أبي عبد الله عليه السلام قال: الصداقة محدودة، فمن لم تكن فيه تلك الحدود فلا تنسبه إلى كمال الصداقة، ومن لم يكن فيه شيء من تلك الحدود فلا تنسبه إلى [شيء من] الصداقة، أولها أن يكون سريرته وعلانيته لك واحدة، والثانية أن يرى زينك زينه، وشينك شينه، والثالثة [أن] لا يغيره مال ولا ولاية، والرابعة [أن] لا يمنعك شيئا مما تصل إليه مقدرته، والخامسة أن لا يسلمك عند النكبات"
+        ],
+        "text": ": حدثنا سعد بن عبد الله قال: حدثني الهيثم بن أبي مسروق النهدي، عن عبدالعزيز بن عمر الواسطي، عن أبي خالد السجستاني، عن يزيد بن خالد النيسابوري عن أبي عبد الله عليه السلام قال: الصداقة محدودة، فمن لم تكن فيه تلك الحدود فلا تنسبه إلى كمال الصداقة، ومن لم يكن فيه شيء من تلك الحدود فلا تنسبه إلى [شيء من] الصداقة، أولها أن يكون سريرته وعلانيته لك واحدة، والثانية أن يرى زينك زينه، وشينك شينه، والثالثة [أن] لا يغيره مال ولا ولاية، والرابعة [أن] لا يمنعك شيئا مما تصل إليه مقدرته، والخامسة أن لا يسلمك عند النكبات"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "5-19 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Sa’ed ibn Abdullah quoted Al-Haysam ibn Abi Masruq al-Nehdi quoted Abdul Aziz ibn Umar al-Vaseti, on the authority of Abi Khalid al-Sejestani, on the authority of Yazid ibn Khalid al-Neishaboory that Aba Abdullah as-Sadiq (MGB) said, “Friendship has certain conditions. Do not consider one who doesn’t have these conditions to be your perfect friend. Whoever doesn’t have any of these conditions has no basis for being your friend. The first condition is that he should be so honest with you that his hidden personality and his evident personality are the same for you. The second condition is that he should consider your good name as his own good name and your badness as his own badness. The third condition is that he should not change when he gets some wealth or a position. The fourth condition is that he should not withhold from you what he can. And the fifth condition is that he should not leave you alone at times of hardship.”"
+          ],
+          "text": "5-19 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Sa’ed ibn Abdullah quoted Al-Haysam ibn Abi Masruq al-Nehdi quoted Abdul Aziz ibn Umar al-Vaseti, on the authority of Abi Khalid al-Sejestani, on the authority of Yazid ibn Khalid al-Neishaboory that Aba Abdullah as-Sadiq (MGB) said, “Friendship has certain conditions. Do not consider one who doesn’t have these conditions to be your perfect friend. Whoever doesn’t have any of these conditions has no basis for being your friend. The first condition is that he should be so honest with you that his hidden personality and his evident personality are the same for you. The second condition is that he should consider your good name as his own good name and your badness as his own badness. The third condition is that he should not change when he gets some wealth or a position. The fourth condition is that he should not withhold from you what he can. And the fifth condition is that he should not leave you alone at times of hardship.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "5-19 حدثنا أبي رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "5-19 حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي رضي الله عنه قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:6:16:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/6/16/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/6/16/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

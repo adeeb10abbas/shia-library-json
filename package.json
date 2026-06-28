@@ -1,0 +1,26 @@
+{
+  "name": "shia-library-json",
+  "version": "0.2.0",
+  "description": "Static JSON exports for Shia hadith, Quran links, narrators, and duas sourced from ThaqalaynData and public Thaqalayn pages.",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "source:clone": "node scripts/bootstrap-source.mjs",
+    "build:sample": "node src/ingest.mjs --book al-kafi --max-hadiths 50 --include-quran --max-quran-verses 7 --out db",
+    "build:al-kafi": "node src/ingest.mjs --book al-kafi --concurrency 32 --out db",
+    "build:all-hadith": "node src/ingest.mjs --all-hadith --concurrency 32 --out db",
+    "build:quran": "node src/ingest.mjs --include-quran --max-hadiths 0 --out db",
+    "build:duas:sample": "node src/ingest-duas.mjs --max 3 --out db/duas",
+    "build:duas": "node src/ingest-duas.mjs --out db/duas",
+    "build:narrators:sample": "node scripts/export-narrators.mjs --max-details 25",
+    "build:narrators": "node scripts/export-narrators.mjs --concurrency 24",
+    "export:search": "node scripts/export-search.mjs",
+    "package:release": "node scripts/package-release.mjs",
+    "check:syntax": "find src scripts -name '*.mjs' -print0 | xargs -0 -n1 node --check",
+    "ci": "npm run check:syntax && npm run validate",
+    "validate": "node src/validate.mjs"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": 1748,
+  "type": "narrator",
+  "path": "/people/narrators/1748",
+  "titles": {
+    "ar": "14718—الْحُسَيْنُ بْنُ مُحَمَّدٍ الْأَشْعَرِيُّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:40:16"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1748-25": {
+      "narrator_ids": [
+        1748,
+        25
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:40:16"
+      ]
+    },
+    "1748-25-39-1031": {
+      "narrator_ids": [
+        1748,
+        25,
+        39,
+        1031
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:40:16"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1748",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1748.json"
+  }
+}

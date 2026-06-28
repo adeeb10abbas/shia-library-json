@@ -1,0 +1,44 @@
+{
+  "id": 4371,
+  "type": "narrator",
+  "path": "/people/narrators/4371",
+  "titles": {
+    "ar": "مُصْعَبِ بْنِ عَبْدِ اللَّهِ النَّوْفَلِيِّ عَمَّنْ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:159:53"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "140-4371": {
+      "narrator_ids": [
+        140,
+        4371
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:159:53"
+      ]
+    },
+    "3-2-7-140-4371": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        140,
+        4371
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:159:53"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4371",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4371.json"
+  }
+}

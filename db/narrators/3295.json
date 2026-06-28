@@ -1,0 +1,57 @@
+{
+  "id": 3295,
+  "type": "narrator",
+  "path": "/people/narrators/3295",
+  "titles": {
+    "ar": "زَيْدِ بْنِ الْوَلِيدِ الْخَثْعَمِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:43:37"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "128-3295": {
+      "narrator_ids": [
+        128,
+        3295
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:37"
+      ]
+    },
+    "3295-344": {
+      "narrator_ids": [
+        3295,
+        344
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:37"
+      ]
+    },
+    "4-13-99-21-65-181-128-3295-344": {
+      "narrator_ids": [
+        4,
+        13,
+        99,
+        21,
+        65,
+        181,
+        128,
+        3295,
+        344
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:37"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3295",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3295.json"
+  }
+}

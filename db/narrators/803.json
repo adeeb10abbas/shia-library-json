@@ -1,0 +1,123 @@
+{
+  "id": 803,
+  "type": "narrator",
+  "path": "/people/narrators/803",
+  "titles": {
+    "ar": "عَلِيِّ بْنِ مِرْدَاسٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:13:1",
+    "/books/al-kafi:1:4:79:2",
+    "/books/al-kafi:4:1:3:2",
+    "/books/al-kafi:7:3:32:3",
+    "/books/al-kafi:7:3:63:22"
+  ],
+  "verseCount": 5,
+  "relations": {},
+  "subchains": {
+    "154-25-803-30-53-47-233": {
+      "narrator_ids": [
+        154,
+        25,
+        803,
+        30,
+        53,
+        47,
+        233
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:79:2"
+      ]
+    },
+    "20-25-803": {
+      "narrator_ids": [
+        20,
+        25,
+        803
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:13:1"
+      ]
+    },
+    "20-25-803-255-36": {
+      "narrator_ids": [
+        20,
+        25,
+        803,
+        255,
+        36
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:32:3"
+      ]
+    },
+    "20-25-803-255-36-1022": {
+      "narrator_ids": [
+        20,
+        25,
+        803,
+        255,
+        36,
+        1022
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:63:22"
+      ]
+    },
+    "20-25-803-30-53-47-233": {
+      "narrator_ids": [
+        20,
+        25,
+        803,
+        30,
+        53,
+        47,
+        233
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:3:2"
+      ]
+    },
+    "25-803": {
+      "narrator_ids": [
+        25,
+        803
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:13:1",
+        "/books/al-kafi:1:4:79:2",
+        "/books/al-kafi:4:1:3:2",
+        "/books/al-kafi:7:3:32:3",
+        "/books/al-kafi:7:3:63:22"
+      ]
+    },
+    "803-255": {
+      "narrator_ids": [
+        803,
+        255
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:32:3",
+        "/books/al-kafi:7:3:63:22"
+      ]
+    },
+    "803-30": {
+      "narrator_ids": [
+        803,
+        30
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:79:2",
+        "/books/al-kafi:4:1:3:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/803",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/803.json"
+  }
+}

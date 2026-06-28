@@ -1,0 +1,51 @@
+{
+  "id": 2894,
+  "type": "narrator",
+  "path": "/people/narrators/2894",
+  "titles": {
+    "ar": "بَعْضِ أَصْحَابِنَا بَلَغَ بِهِ جَابِرَ الْجُعْفِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:8:18:6"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-2894": {
+      "narrator_ids": [
+        11,
+        2894
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:18:6"
+      ]
+    },
+    "11-2894-9": {
+      "narrator_ids": [
+        11,
+        2894,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:18:6"
+      ]
+    },
+    "2894-9": {
+      "narrator_ids": [
+        2894,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:18:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2894",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2894.json"
+  }
+}

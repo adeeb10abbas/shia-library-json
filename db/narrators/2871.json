@@ -1,0 +1,53 @@
+{
+  "id": 2871,
+  "type": "narrator",
+  "path": "/people/narrators/2871",
+  "titles": {
+    "ar": "بُرَيْدِ بْنِ مُحَمَّدٍ الْغَاضِرِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:8:18:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "19-24-22-2871-103": {
+      "narrator_ids": [
+        19,
+        24,
+        22,
+        2871,
+        103
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:18:4"
+      ]
+    },
+    "22-2871": {
+      "narrator_ids": [
+        22,
+        2871
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:18:4"
+      ]
+    },
+    "2871-103": {
+      "narrator_ids": [
+        2871,
+        103
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:18:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2871",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2871.json"
+  }
+}

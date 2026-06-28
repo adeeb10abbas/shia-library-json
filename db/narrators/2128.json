@@ -1,0 +1,46 @@
+{
+  "id": 2128,
+  "type": "narrator",
+  "path": "/people/narrators/2128",
+  "titles": {
+    "ar": "أَبِي عَبْدِ اللَّهِ ( عليه السلام ) [أَنَّهُ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:4:29:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1528-2128": {
+      "narrator_ids": [
+        1528,
+        2128
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:4:29:5"
+      ]
+    },
+    "4-373-205-100-296-1528-2128": {
+      "narrator_ids": [
+        4,
+        373,
+        205,
+        100,
+        296,
+        1528,
+        2128
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:4:29:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2128",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2128.json"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": 4055,
+  "type": "narrator",
+  "path": "/people/narrators/4055",
+  "titles": {
+    "ar": "كَانَ ذَلِكَ قَبْلَ مَبْعَثِ النَّبِيِّ ( صلى الله عليه وآله ) بِثَلَاثِينَ سَنَةً فَأَرَادَتْ قُرَيْشٌ أَنْ يَهْدِمُوا الْكَعْبَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:9:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3-3984-3310-4050-4055-4532-4589": {
+      "narrator_ids": [
+        3,
+        3984,
+        3310,
+        4050,
+        4055,
+        4532,
+        4589
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:9:4"
+      ]
+    },
+    "4050-4055": {
+      "narrator_ids": [
+        4050,
+        4055
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:9:4"
+      ]
+    },
+    "4055-4532": {
+      "narrator_ids": [
+        4055,
+        4532
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:9:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4055",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4055.json"
+  }
+}

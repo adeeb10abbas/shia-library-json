@@ -1,0 +1,205 @@
+{
+  "id": 888,
+  "type": "narrator",
+  "path": "/people/narrators/888",
+  "titles": {
+    "ar": "جَعْفَرِ بْنِ يَحْيَى"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:73:4",
+    "/books/al-kafi:6:6:128:1",
+    "/books/al-kafi:6:8:51:2",
+    "/books/al-kafi:7:5:23:2",
+    "/books/al-khisal:27:1:4",
+    "/books/kitab-al-ghayba-numani:2:21:6",
+    "/books/tahdhib-al-ahkam:6:90:161"
+  ],
+  "verseCount": 7,
+  "relations": {},
+  "subchains": {
+    "2-888": {
+      "narrator_ids": [
+        2,
+        888
+      ],
+      "verse_paths": [
+        "/books/al-khisal:27:1:4"
+      ]
+    },
+    "2-888-2": {
+      "narrator_ids": [
+        2,
+        888,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-khisal:27:1:4"
+      ]
+    },
+    "226-888": {
+      "narrator_ids": [
+        226,
+        888
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-numani:2:21:6"
+      ]
+    },
+    "226-888-2-2155": {
+      "narrator_ids": [
+        226,
+        888,
+        2,
+        2155
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-numani:2:21:6"
+      ]
+    },
+    "4-59-732-888-171-680-669-2": {
+      "narrator_ids": [
+        4,
+        59,
+        732,
+        888,
+        171,
+        680,
+        669,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:5:23:2"
+      ]
+    },
+    "4134-732-888-171-680-669-2-662": {
+      "narrator_ids": [
+        4134,
+        732,
+        888,
+        171,
+        680,
+        669,
+        2,
+        662
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:90:161"
+      ]
+    },
+    "5-888": {
+      "narrator_ids": [
+        5,
+        888
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:73:4",
+        "/books/al-kafi:6:8:51:2"
+      ]
+    },
+    "6-5-3595-739-888-2-669": {
+      "narrator_ids": [
+        6,
+        5,
+        3595,
+        739,
+        888,
+        2,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:128:1"
+      ]
+    },
+    "6-5-888-3708-60-669": {
+      "narrator_ids": [
+        6,
+        5,
+        888,
+        3708,
+        60,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:51:2"
+      ]
+    },
+    "6-5-888-811-764": {
+      "narrator_ids": [
+        6,
+        5,
+        888,
+        811,
+        764
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:73:4"
+      ]
+    },
+    "732-888": {
+      "narrator_ids": [
+        732,
+        888
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:5:23:2",
+        "/books/tahdhib-al-ahkam:6:90:161"
+      ]
+    },
+    "739-888": {
+      "narrator_ids": [
+        739,
+        888
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:128:1"
+      ]
+    },
+    "888-171": {
+      "narrator_ids": [
+        888,
+        171
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:5:23:2",
+        "/books/tahdhib-al-ahkam:6:90:161"
+      ]
+    },
+    "888-2": {
+      "narrator_ids": [
+        888,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:128:1",
+        "/books/al-khisal:27:1:4",
+        "/books/kitab-al-ghayba-numani:2:21:6"
+      ]
+    },
+    "888-3708": {
+      "narrator_ids": [
+        888,
+        3708
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:51:2"
+      ]
+    },
+    "888-811": {
+      "narrator_ids": [
+        888,
+        811
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:73:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/888",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/888.json"
+  }
+}

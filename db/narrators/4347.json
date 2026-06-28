@@ -1,0 +1,56 @@
+{
+  "id": 4347,
+  "type": "narrator",
+  "path": "/people/narrators/4347",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ يُوسُفَ التَّمِيمِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:4:15:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "282-4347": {
+      "narrator_ids": [
+        282,
+        4347
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:4:15:2"
+      ]
+    },
+    "4347-431": {
+      "narrator_ids": [
+        4347,
+        431
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:4:15:2"
+      ]
+    },
+    "6-8-12-416-282-4347-431-2": {
+      "narrator_ids": [
+        6,
+        8,
+        12,
+        416,
+        282,
+        4347,
+        431,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:4:15:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4347",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4347.json"
+  }
+}

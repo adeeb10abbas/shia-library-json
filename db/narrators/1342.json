@@ -1,0 +1,79 @@
+{
+  "id": 1342,
+  "type": "narrator",
+  "path": "/people/narrators/1342",
+  "titles": {
+    "ar": "الْحَسَنِ بْنِ عَلِيِّ بْنِ مِهْرَانَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:8:24:2",
+    "/books/al-kafi:6:8:46:5"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "133-321-2551-1342": {
+      "narrator_ids": [
+        133,
+        321,
+        2551,
+        1342
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:24:2"
+      ]
+    },
+    "1342-326": {
+      "narrator_ids": [
+        1342,
+        326
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:46:5"
+      ]
+    },
+    "1846-1342": {
+      "narrator_ids": [
+        1846,
+        1342
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:46:5"
+      ]
+    },
+    "2551-1342": {
+      "narrator_ids": [
+        2551,
+        1342
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:24:2"
+      ]
+    },
+    "36-298-493-4-59-4612-240-1846-1342-326": {
+      "narrator_ids": [
+        36,
+        298,
+        493,
+        4,
+        59,
+        4612,
+        240,
+        1846,
+        1342,
+        326
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:46:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1342",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1342.json"
+  }
+}

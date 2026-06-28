@@ -1,0 +1,54 @@
+{
+  "id": 4324,
+  "type": "narrator",
+  "path": "/people/narrators/4324",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ مُقَرِّنٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:86:10"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-2-7-4324-1551-9": {
+      "narrator_ids": [
+        11,
+        2,
+        7,
+        4324,
+        1551,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:86:10"
+      ]
+    },
+    "4324-1551": {
+      "narrator_ids": [
+        4324,
+        1551
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:86:10"
+      ]
+    },
+    "7-4324": {
+      "narrator_ids": [
+        7,
+        4324
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:86:10"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4324",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4324.json"
+  }
+}

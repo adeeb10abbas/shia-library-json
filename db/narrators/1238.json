@@ -1,0 +1,66 @@
+{
+  "id": 1238,
+  "type": "narrator",
+  "path": "/people/narrators/1238",
+  "titles": {
+    "ar": "أَبُو عَبْدِ اللَّهِ الْعَاصِمِيُّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:1:1:32",
+    "/books/al-kafi:3:5:2:18"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "1238-237": {
+      "narrator_ids": [
+        1238,
+        237
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:1:1:32"
+      ]
+    },
+    "1238-237-68-260-98": {
+      "narrator_ids": [
+        1238,
+        237,
+        68,
+        260,
+        98
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:1:1:32"
+      ]
+    },
+    "1238-643": {
+      "narrator_ids": [
+        1238,
+        643
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:5:2:18"
+      ]
+    },
+    "1238-643-68-2241-3304": {
+      "narrator_ids": [
+        1238,
+        643,
+        68,
+        2241,
+        3304
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:5:2:18"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1238",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1238.json"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": 1949,
+  "type": "narrator",
+  "path": "/people/narrators/1949",
+  "titles": {
+    "ar": "أَبِي إِسْحَاقَ النَّحْوِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:52:1",
+    "/books/fadail-al-shia:13:1",
+    "/books/tahdhib-al-ahkam:1:27:3"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "15-1949": {
+      "narrator_ids": [
+        15,
+        1949
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:27:3"
+      ]
+    },
+    "1949-669": {
+      "narrator_ids": [
+        1949,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:27:3"
+      ]
+    },
+    "4-616-306-30-79-1949": {
+      "narrator_ids": [
+        4,
+        616,
+        306,
+        30,
+        79,
+        1949
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:52:1"
+      ]
+    },
+    "4521-63-79-1949": {
+      "narrator_ids": [
+        4521,
+        63,
+        79,
+        1949
+      ],
+      "verse_paths": [
+        "/books/fadail-al-shia:13:1"
+      ]
+    },
+    "5-15-1949-669": {
+      "narrator_ids": [
+        5,
+        15,
+        1949,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:27:3"
+      ]
+    },
+    "79-1949": {
+      "narrator_ids": [
+        79,
+        1949
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:52:1",
+        "/books/fadail-al-shia:13:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1949",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1949.json"
+  }
+}

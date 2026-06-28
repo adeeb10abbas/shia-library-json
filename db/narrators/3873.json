@@ -1,0 +1,74 @@
+{
+  "id": 3873,
+  "type": "narrator",
+  "path": "/people/narrators/3873",
+  "titles": {
+    "ar": "عِمْرَانَ بْنِ عَلِيٍّ الْحَلَبِيِّ"
+  },
+  "versePaths": [
+    "/books/al-istibsar:1:127:38",
+    "/books/al-kafi:3:4:6:11",
+    "/books/tahdhib-al-ahkam:2:4:49"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "161-3873": {
+      "narrator_ids": [
+        161,
+        3873
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:127:38",
+        "/books/al-kafi:3:4:6:11",
+        "/books/tahdhib-al-ahkam:2:4:49"
+      ]
+    },
+    "4-5-595-161-3873": {
+      "narrator_ids": [
+        4,
+        5,
+        595,
+        161,
+        3873
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:6:11"
+      ]
+    },
+    "952-4-5-3559-161-3873": {
+      "narrator_ids": [
+        952,
+        4,
+        5,
+        3559,
+        161,
+        3873
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:127:38"
+      ]
+    },
+    "952-4-5-595-161-3873": {
+      "narrator_ids": [
+        952,
+        4,
+        5,
+        595,
+        161,
+        3873
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:4:49"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3873",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3873.json"
+  }
+}

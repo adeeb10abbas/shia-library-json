@@ -1,0 +1,131 @@
+{
+  "id": 967,
+  "type": "narrator",
+  "path": "/people/narrators/967",
+  "titles": {
+    "ar": "إِبْرَاهِيمَ الْحَذَّاءِ"
+  },
+  "versePaths": [
+    "/books/al-istibsar:2:150:1",
+    "/books/al-kafi:2:1:105:7",
+    "/books/al-kafi:2:1:107:16",
+    "/books/al-kafi:6:6:132:4"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "11-67-967-1189-1066": {
+      "narrator_ids": [
+        11,
+        67,
+        967,
+        1189,
+        1066
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:105:7"
+      ]
+    },
+    "13-967": {
+      "narrator_ids": [
+        13,
+        967
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:2:150:1",
+        "/books/al-kafi:2:1:107:16"
+      ]
+    },
+    "13-967-552-1065": {
+      "narrator_ids": [
+        13,
+        967,
+        552,
+        1065
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:2:150:1"
+      ]
+    },
+    "4-13-967-1189-1066-605": {
+      "narrator_ids": [
+        4,
+        13,
+        967,
+        1189,
+        1066,
+        605
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:107:16"
+      ]
+    },
+    "4-5-967-2309-60-669": {
+      "narrator_ids": [
+        4,
+        5,
+        967,
+        2309,
+        60,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:132:4"
+      ]
+    },
+    "5-967": {
+      "narrator_ids": [
+        5,
+        967
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:132:4"
+      ]
+    },
+    "67-967": {
+      "narrator_ids": [
+        67,
+        967
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:105:7"
+      ]
+    },
+    "967-1189": {
+      "narrator_ids": [
+        967,
+        1189
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:105:7",
+        "/books/al-kafi:2:1:107:16"
+      ]
+    },
+    "967-2309": {
+      "narrator_ids": [
+        967,
+        2309
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:132:4"
+      ]
+    },
+    "967-552": {
+      "narrator_ids": [
+        967,
+        552
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:2:150:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/967",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/967.json"
+  }
+}

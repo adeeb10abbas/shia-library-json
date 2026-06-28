@@ -1,0 +1,92 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "kitab-al-duafa",
+  "chapterPath": "/books/kitab-al-duafa:5:2",
+  "chapter": {
+    "path": "/books/kitab-al-duafa:5:2",
+    "titles": {
+      "en": "Jamāʿa b. Saʿd, al-Juʿfī"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "kitab-al-duafa:5:2:1",
+      "type": "hadith",
+      "book": {
+        "slug": "kitab-al-duafa",
+        "titles": {
+          "ar": "كتاب الضعفاء",
+          "en": "Kitab al-Du'afa'"
+        },
+        "author": {
+          "en": "Ahmad ibn al-Husayn al-Ghada'iri"
+        }
+      },
+      "path": {
+        "source": "/books/kitab-al-duafa:5:2:1",
+        "parts": [
+          5,
+          2,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 2,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/kitab-al-duafa:5:2",
+        "titles": {
+          "en": "Jamāʿa b. Saʿd, al-Juʿfī"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " الحديث، ومذهبه ما ذكرت."
+        ],
+        "text": "الحديث، ومذهبه ما ذكرت."
+      },
+      "translations": {
+        "en.tashayyu": {
+          "segments": [
+            "2 – Jamāʿa b. Saʿd,  al-Juʿfī.  al-Ṣā’igh (the jeweler).  Narrated from Abū ʿAbdillāh   . عليه السلام Went out with Abū al-Khaṭṭāb and was killed.  He is weak in his ḥadīth.  His madhhab is what I have mentioned."
+          ],
+          "text": "2 – Jamāʿa b. Saʿd,  al-Juʿfī.  al-Ṣā’igh (the jeweler).  Narrated from Abū ʿAbdillāh   . عليه السلام Went out with Abū al-Khaṭṭāb and was killed.  He is weak in his ḥadīth.  His madhhab is what I have mentioned."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "2 - جماعة بن سعد، الجعفي، الصائغ. روى عن أبي عبد الله (عليه السلام). خرج مع أبي الخطاب وقتل. وهو ضعيف في",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "2 - "
+          },
+          {
+            "kind": "plain",
+            "text": "جماعة بن سعد، الجعفي، الصائغ. روى"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "أبي عبد الله (عليه السلام). خرج مع أبي الخطاب وقتل. وهو ضعيف في"
+          }
+        ],
+        "narratorPaths": []
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/kitab-al-duafa:5:2:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/kitab-al-duafa/5/2/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/17/5/2/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

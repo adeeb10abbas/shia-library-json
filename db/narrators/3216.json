@@ -1,0 +1,55 @@
+{
+  "id": 3216,
+  "type": "narrator",
+  "path": "/people/narrators/3216",
+  "titles": {
+    "ar": "رَجُلٍ مِنْ أَصْحَابِنَا يُقَالُ لَهُ حُسَيْنٌ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:236:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "19-63-81-21-270-3216-669": {
+      "narrator_ids": [
+        19,
+        63,
+        81,
+        21,
+        270,
+        3216,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:236:4"
+      ]
+    },
+    "270-3216": {
+      "narrator_ids": [
+        270,
+        3216
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:236:4"
+      ]
+    },
+    "3216-669": {
+      "narrator_ids": [
+        3216,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:236:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3216",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3216.json"
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "id": 883,
+  "type": "narrator",
+  "path": "/people/narrators/883",
+  "titles": {
+    "ar": "الْوَصَّافِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:54:7",
+    "/books/al-kafi:2:1:68:29",
+    "/books/al-kafi:2:1:71:3",
+    "/books/al-kafi:4:1:11:3",
+    "/books/kitab-al-zuhd:2:5:9",
+    "/books/man-la-yahduruhu-al-faqih:2:1:17:17"
+  ],
+  "verseCount": 6,
+  "relations": {},
+  "subchains": {
+    "100-883": {
+      "narrator_ids": [
+        100,
+        883
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:68:29"
+      ]
+    },
+    "1136-883": {
+      "narrator_ids": [
+        1136,
+        883
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:71:3"
+      ]
+    },
+    "19-24-22-450-3613-883-9": {
+      "narrator_ids": [
+        19,
+        24,
+        22,
+        450,
+        3613,
+        883,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:54:7"
+      ]
+    },
+    "3-2-7-1136-883": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        1136,
+        883
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:71:3"
+      ]
+    },
+    "3613-883": {
+      "narrator_ids": [
+        3613,
+        883
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:54:7"
+      ]
+    },
+    "44-883": {
+      "narrator_ids": [
+        44,
+        883
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:11:3"
+      ]
+    },
+    "6-12-2-42-44-883-9": {
+      "narrator_ids": [
+        6,
+        12,
+        2,
+        42,
+        44,
+        883,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:11:3"
+      ]
+    },
+    "6-12-67-100-883-312": {
+      "narrator_ids": [
+        6,
+        12,
+        67,
+        100,
+        883,
+        312
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:68:29"
+      ]
+    },
+    "69-699-365-72-883-9": {
+      "narrator_ids": [
+        69,
+        699,
+        365,
+        72,
+        883,
+        9
+      ],
+      "verse_paths": [
+        "/books/kitab-al-zuhd:2:5:9"
+      ]
+    },
+    "72-883": {
+      "narrator_ids": [
+        72,
+        883
+      ],
+      "verse_paths": [
+        "/books/kitab-al-zuhd:2:5:9"
+      ]
+    },
+    "883-312": {
+      "narrator_ids": [
+        883,
+        312
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:68:29"
+      ]
+    },
+    "883-9": {
+      "narrator_ids": [
+        883,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:54:7",
+        "/books/al-kafi:4:1:11:3",
+        "/books/kitab-al-zuhd:2:5:9",
+        "/books/man-la-yahduruhu-al-faqih:2:1:17:17"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/883",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/883.json"
+  }
+}

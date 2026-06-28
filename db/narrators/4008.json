@@ -1,0 +1,43 @@
+{
+  "id": 4008,
+  "type": "narrator",
+  "path": "/people/narrators/4008",
+  "titles": {
+    "ar": "فُضَيْلٍ الصَّائِغِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:44:24"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-138-4421-4008": {
+      "narrator_ids": [
+        11,
+        138,
+        4421,
+        4008
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:44:24"
+      ]
+    },
+    "4421-4008": {
+      "narrator_ids": [
+        4421,
+        4008
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:44:24"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4008",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4008.json"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": 2874,
+  "type": "narrator",
+  "path": "/people/narrators/2874",
+  "titles": {
+    "ar": "بِسْطَامَ الزَّيَّاتِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:2:3:3",
+    "/books/kitab-al-zuhd:2:10:5"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "19-24-43-2874-669": {
+      "narrator_ids": [
+        19,
+        24,
+        43,
+        2874,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:3:3"
+      ]
+    },
+    "2874-669": {
+      "narrator_ids": [
+        2874,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:3:3",
+        "/books/kitab-al-zuhd:2:10:5"
+      ]
+    },
+    "42-2874": {
+      "narrator_ids": [
+        42,
+        2874
+      ],
+      "verse_paths": [
+        "/books/kitab-al-zuhd:2:10:5"
+      ]
+    },
+    "42-2874-669": {
+      "narrator_ids": [
+        42,
+        2874,
+        669
+      ],
+      "verse_paths": [
+        "/books/kitab-al-zuhd:2:10:5"
+      ]
+    },
+    "43-2874": {
+      "narrator_ids": [
+        43,
+        2874
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:3:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2874",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2874.json"
+  }
+}

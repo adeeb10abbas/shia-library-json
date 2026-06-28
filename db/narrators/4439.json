@@ -1,0 +1,53 @@
+{
+  "id": 4439,
+  "type": "narrator",
+  "path": "/people/narrators/4439",
+  "titles": {
+    "ar": "مُوسَى بْنِ الْقَاسِمِ بْنِ مُعَاوِيَةَ الْبَجَلِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:80:14"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "35-8-4439-136-572": {
+      "narrator_ids": [
+        35,
+        8,
+        4439,
+        136,
+        572
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:80:14"
+      ]
+    },
+    "4439-136": {
+      "narrator_ids": [
+        4439,
+        136
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:80:14"
+      ]
+    },
+    "8-4439": {
+      "narrator_ids": [
+        8,
+        4439
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:80:14"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4439",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4439.json"
+  }
+}

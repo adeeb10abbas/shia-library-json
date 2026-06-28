@@ -1,0 +1,61 @@
+{
+  "id": 3686,
+  "type": "narrator",
+  "path": "/people/narrators/3686",
+  "titles": {
+    "ar": "عِدَّةٌ مِنْ أَصْحَابِنَا أَيْضاً"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:1:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3686-12": {
+      "narrator_ids": [
+        3686,
+        12
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:1:1"
+      ]
+    },
+    "6-8-3-2-129-234-36-669-3686-12-362-637-315": {
+      "narrator_ids": [
+        6,
+        8,
+        3,
+        2,
+        129,
+        234,
+        36,
+        669,
+        3686,
+        12,
+        362,
+        637,
+        315
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:1:1"
+      ]
+    },
+    "669-3686": {
+      "narrator_ids": [
+        669,
+        3686
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:1:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3686",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3686.json"
+  }
+}

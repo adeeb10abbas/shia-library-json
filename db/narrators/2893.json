@@ -1,0 +1,51 @@
+{
+  "id": 2893,
+  "type": "narrator",
+  "path": "/people/narrators/2893",
+  "titles": {
+    "ar": "بَعْضِ أَصْحَابِنَا أَظُنُّهُ السَّيَّارِيَّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:130:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "274-2893": {
+      "narrator_ids": [
+        274,
+        2893
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:130:5"
+      ]
+    },
+    "274-2893-68": {
+      "narrator_ids": [
+        274,
+        2893,
+        68
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:130:5"
+      ]
+    },
+    "2893-68": {
+      "narrator_ids": [
+        2893,
+        68
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:130:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2893",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2893.json"
+  }
+}

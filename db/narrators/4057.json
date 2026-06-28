@@ -1,0 +1,47 @@
+{
+  "id": 4057,
+  "type": "narrator",
+  "path": "/people/narrators/4057",
+  "titles": {
+    "ar": "كَانَ صَاحِبَ مِطْهَرَةِ أَمِيرِ الْمُؤْمِنِينَ ( عليه السلام )"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:8:65:13"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "19-212-179-117-72-3618-2-4057": {
+      "narrator_ids": [
+        19,
+        212,
+        179,
+        117,
+        72,
+        3618,
+        2,
+        4057
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:65:13"
+      ]
+    },
+    "2-4057": {
+      "narrator_ids": [
+        2,
+        4057
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:65:13"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4057",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4057.json"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1998,
+  "type": "narrator",
+  "path": "/people/narrators/1998",
+  "titles": {
+    "ar": "أَبِي الْعُطَارِدِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:74:6",
+    "/books/man-la-yahduruhu-al-faqih:3:2:21:4",
+    "/books/tahdhib-al-ahkam:7:3:43",
+    "/books/tahdhib-al-ahkam:7:3:49"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "11-30-44-1998": {
+      "narrator_ids": [
+        11,
+        30,
+        44,
+        1998
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:3:49"
+      ]
+    },
+    "21-43-44-1998": {
+      "narrator_ids": [
+        21,
+        43,
+        44,
+        1998
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:3:43"
+      ]
+    },
+    "4-29-30-44-1998": {
+      "narrator_ids": [
+        4,
+        29,
+        30,
+        44,
+        1998
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:74:6"
+      ]
+    },
+    "44-1998": {
+      "narrator_ids": [
+        44,
+        1998
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:74:6",
+        "/books/man-la-yahduruhu-al-faqih:3:2:21:4",
+        "/books/tahdhib-al-ahkam:7:3:43",
+        "/books/tahdhib-al-ahkam:7:3:49"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1998",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1998.json"
+  }
+}

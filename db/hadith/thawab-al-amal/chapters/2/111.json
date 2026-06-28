@@ -1,0 +1,116 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "thawab-al-amal",
+  "chapterPath": "/books/thawab-al-amal:2:111",
+  "chapter": {
+    "path": "/books/thawab-al-amal:2:111",
+    "titles": {
+      "en": "Reward of a two rakat Salaat focusing attention on what is being recited"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "thawab-al-amal:2:111:1",
+      "type": "hadith",
+      "book": {
+        "slug": "thawab-al-amal",
+        "titles": {
+          "ar": "ثواب الأعمال وعقاب الأعمال",
+          "en": "Thawab al-A'mal wa 'Iqab al-A'mal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/thawab-al-amal:2:111:1",
+        "parts": [
+          2,
+          111,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 111,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/thawab-al-amal:2:111",
+        "titles": {
+          "en": "Reward of a two rakat Salaat focusing attention on what is being recited"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " حَدَّثَنِی مَنْ سَمِعَ أَبَا عَبْدِ اللَّهِ ع یَقُولُ مَنْ صَلَّی رَکْعَتَیْنِ یَعْلَمُ مَا یَقُولُ فِیهِمَا انْصَرَفَ وَ لَیْسَ بَیْنَهُ وَ بَیْنَ اللَّهِ ذَنْبٌ إِلَّا غُفِرَ لَهُ."
+        ],
+        "text": "حَدَّثَنِی مَنْ سَمِعَ أَبَا عَبْدِ اللَّهِ ع یَقُولُ مَنْ صَلَّی رَکْعَتَیْنِ یَعْلَمُ مَا یَقُولُ فِیهِمَا انْصَرَفَ وَ لَیْسَ بَیْنَهُ وَ بَیْنَ اللَّهِ ذَنْبٌ إِلَّا غُفِرَ لَهُ."
+      },
+      "translations": {
+        "en.sayed-athar-husain-rizvi-&-sayed-maqsood-athar": {
+          "segments": [
+            "1.  Imam Ja’far Sadiq (a.s.) says, “One who offers a two rakat Salaat paying attention to what he is reciting, there would not  remain  any  sin  between  him  and  Allah  when  he concludes it and Allah would forgive all his sins.”"
+          ],
+          "text": "1.  Imam Ja’far Sadiq (a.s.) says, “One who offers a two rakat Salaat paying attention to what he is reciting, there would not  remain  any  sin  between  him  and  Allah  when  he concludes it and Allah would forgive all his sins.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "أَبِی ره عَنْ سَعْدِ بْنِ عَبْدِ اللَّهِ عَنْ سَلَمَهَ بْنِ الْخَطَّابِ عَنِ الْحَسَنِ بْنِ یُوسُفَ بْنِ عُمَیْرٍ النَّخَعِیِّ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "أَبِی ره",
+            "path": "/people/narrators/613"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَعْدِ بْنِ عَبْدِ اللَّهِ",
+            "path": "/people/narrators/355"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَلَمَهَ بْنِ الْخَطَّابِ",
+            "path": "/people/narrators/167"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "plain",
+            "text": "الْحَسَنِ بْنِ یُوسُفَ بْنِ عُمَیْرٍ النَّخَعِیِّ"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613",
+          "/people/narrators/355",
+          "/people/narrators/167"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/thawab-al-amal:2:111:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/thawab-al-amal/2/111/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/23/2/111/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

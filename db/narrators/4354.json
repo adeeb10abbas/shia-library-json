@@ -1,0 +1,63 @@
+{
+  "id": 4354,
+  "type": "narrator",
+  "path": "/people/narrators/4354",
+  "titles": {
+    "ar": "مُرَادِ بْنِ خَارِجَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:4:74:2",
+    "/books/tahdhib-al-ahkam:3:1:26"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "11-317-5-21-38-188-648-4354": {
+      "narrator_ids": [
+        11,
+        317,
+        5,
+        21,
+        38,
+        188,
+        648,
+        4354
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:3:1:26"
+      ]
+    },
+    "317-13-21-38-188-648-4354": {
+      "narrator_ids": [
+        317,
+        13,
+        21,
+        38,
+        188,
+        648,
+        4354
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:74:2"
+      ]
+    },
+    "648-4354": {
+      "narrator_ids": [
+        648,
+        4354
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:74:2",
+        "/books/tahdhib-al-ahkam:3:1:26"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4354",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4354.json"
+  }
+}

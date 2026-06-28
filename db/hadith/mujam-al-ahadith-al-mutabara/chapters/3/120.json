@@ -1,0 +1,322 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "mujam-al-ahadith-al-mutabara",
+  "chapterPath": "/books/mujam-al-ahadith-al-mutabara:3:120",
+  "chapter": {
+    "path": "/books/mujam-al-ahadith-al-mutabara:3:120",
+    "titles": {
+      "en": "Asma bt. Umays, Salma, Maymuna, Umm al-Fadhl, al-Ghumaysa, Hamida, and Azza"
+    }
+  },
+  "count": 3,
+  "records": [
+    {
+      "id": "mujam-al-ahadith-al-mutabara:3:120:1",
+      "type": "hadith",
+      "book": {
+        "slug": "mujam-al-ahadith-al-mutabara",
+        "titles": {
+          "ar": "معجم الأحاديث المعتبرة",
+          "en": "Mu'jam al-Ahadith al-Mu'tabara"
+        },
+        "author": {
+          "en": "Muhammad Asif al-Muhsini"
+        }
+      },
+      "path": {
+        "source": "/books/mujam-al-ahadith-al-mutabara:3:120:1",
+        "parts": [
+          3,
+          120,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 120,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/mujam-al-ahadith-al-mutabara:3:120",
+        "titles": {
+          "en": "Asma bt. Umays, Salma, Maymuna, Umm al-Fadhl, al-Ghumaysa, Hamida, and Azza"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": سمعت أبا عبد الله عليه السلام يقول: ... محمد بن أبي بكر رحمة الله عليه أتته النجابة من قبل أمه أسماء بنت عميس ..."
+        ],
+        "text": ": سمعت أبا عبد الله عليه السلام يقول: ... محمد بن أبي بكر رحمة الله عليه أتته النجابة من قبل أمه أسماء بنت عميس ..."
+      },
+      "translations": {
+        "en.ammaar-muslim": {
+          "segments": [
+            "1. [1/-] Rijal al-Kashshi: Muhammad b. Qulawayh al-Qummi and al-Husayn b. al-Hasan b. Bundar al-Qummi from Sa’d b. Abdallah b. Abi Khalaf al-Qummi from al-Hasan b. Musa al-Khashshab and Muhammad b. Isa b. Ubayd from Ali b. Asbat from Abdallah b. Sinan who said: I heard Aba Abdillah عليه السلام saying: … Muhammad b. Abi Bakr - May Allah’s mercy be upon him - his noble descent was from his mother Asma bt. Umays [not his father] ..."
+          ],
+          "text": "1. [1/-] Rijal al-Kashshi: Muhammad b. Qulawayh al-Qummi and al-Husayn b. al-Hasan b. Bundar al-Qummi from Sa’d b. Abdallah b. Abi Khalaf al-Qummi from al-Hasan b. Musa al-Khashshab and Muhammad b. Isa b. Ubayd from Ali b. Asbat from Abdallah b. Sinan who said: I heard Aba Abdillah عليه السلام saying: … Muhammad b. Abi Bakr - May Allah’s mercy be upon him - his noble descent was from his mother Asma bt. Umays [not his father] ..."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "[-/1] رجال الكشي: محمد بن قولويه و الحسين بن الحسن بن بندار القميان، عن سعد بن عبد الله بن أبي خلف القمي، عن الحسن بن موسى الخشاب و محمد بن عيسى بن عبيد، عن علي بن أسباط، عن عبد الله بن سنان قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "[-/1] رجال الكشي: محمد بن قولويه"
+          },
+          {
+            "kind": "plain",
+            "text": " و "
+          },
+          {
+            "kind": "plain",
+            "text": "الحسين بن الحسن بن بندار القميان،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "سعد بن عبد الله بن أبي خلف القمي،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "الحسن بن موسى الخشاب",
+            "path": "/people/narrators/623"
+          },
+          {
+            "kind": "plain",
+            "text": " و "
+          },
+          {
+            "kind": "narrator",
+            "text": "محمد بن عيسى بن عبيد،",
+            "path": "/people/narrators/135"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "علي بن أسباط،",
+            "path": "/people/narrators/68"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "عبد الله بن سنان قال",
+            "path": "/people/narrators/31"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/623",
+          "/people/narrators/135",
+          "/people/narrators/68",
+          "/people/narrators/31"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/mujam-al-ahadith-al-mutabara:3:81:1"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/mujam-al-ahadith-al-mutabara:3:120:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/mujam-al-ahadith-al-mutabara/3/120/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/9/3/121/1",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "mujam-al-ahadith-al-mutabara:3:120:2",
+      "type": "hadith",
+      "book": {
+        "slug": "mujam-al-ahadith-al-mutabara",
+        "titles": {
+          "ar": "معجم الأحاديث المعتبرة",
+          "en": "Mu'jam al-Ahadith al-Mu'tabara"
+        },
+        "author": {
+          "en": "Muhammad Asif al-Muhsini"
+        }
+      },
+      "path": {
+        "source": "/books/mujam-al-ahadith-al-mutabara:3:120:2",
+        "parts": [
+          3,
+          120,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 120,
+        "chapter": 2
+      },
+      "chapter": {
+        "path": "/books/mujam-al-ahadith-al-mutabara:3:120",
+        "titles": {
+          "en": "Asma bt. Umays, Salma, Maymuna, Umm al-Fadhl, al-Ghumaysa, Hamida, and Azza"
+        }
+      },
+      "arabic": {
+        "segments": [
+          "[2/296] الكافي: علي بن إبراهيم، عن أبيه، عن حماد، عن حريز، عن زرارة، عن أبي جعفر عليه السلام أن أسماء بنت عميس نفست بمحمد بن أبي بكر فأمرها رسول الله صلى الله عليه وآله حين أرادت الاحرام من ذي الحليفة أن تحتشي بالكرسف والخرق وتهل بالحج ..."
+        ],
+        "text": "[2/296] الكافي: علي بن إبراهيم، عن أبيه، عن حماد، عن حريز، عن زرارة، عن أبي جعفر عليه السلام أن أسماء بنت عميس نفست بمحمد بن أبي بكر فأمرها رسول الله صلى الله عليه وآله حين أرادت الاحرام من ذي الحليفة أن تحتشي بالكرسف والخرق وتهل بالحج ..."
+      },
+      "translations": {
+        "en.ammaar-muslim": {
+          "segments": [
+            "2. [2/296] al-Kafi: Ali b. Ibrahim from his father from Hammad from Hariz from Zurara from Abi Ja’far عليه السلام who said: Asma bt. Umays had the Nifas [post-natal bleeding] of Muhammad b. Abi Bakr [after delivering him] and wanted to assume Ihram at Dhi al-Hulayfa so the Messenger of Allah صلى الله عليه وآله ordered her to stuff pieces of cotton and rags [to stop the blood flow] and enter into Ihram [proclaim Talbiyya] for Hajj ..."
+          ],
+          "text": "2. [2/296] al-Kafi: Ali b. Ibrahim from his father from Hammad from Hariz from Zurara from Abi Ja’far عليه السلام who said: Asma bt. Umays had the Nifas [post-natal bleeding] of Muhammad b. Abi Bakr [after delivering him] and wanted to assume Ihram at Dhi al-Hulayfa so the Messenger of Allah صلى الله عليه وآله ordered her to stuff pieces of cotton and rags [to stop the blood flow] and enter into Ihram [proclaim Talbiyya] for Hajj ..."
+        }
+      },
+      "gradings": [],
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/mujam-al-ahadith-al-mutabara:3:120:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/mujam-al-ahadith-al-mutabara/3/120/2.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/9/3/121/2",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "mujam-al-ahadith-al-mutabara:3:120:3",
+      "type": "hadith",
+      "book": {
+        "slug": "mujam-al-ahadith-al-mutabara",
+        "titles": {
+          "ar": "معجم الأحاديث المعتبرة",
+          "en": "Mu'jam al-Ahadith al-Mu'tabara"
+        },
+        "author": {
+          "en": "Muhammad Asif al-Muhsini"
+        }
+      },
+      "path": {
+        "source": "/books/mujam-al-ahadith-al-mutabara:3:120:3",
+        "parts": [
+          3,
+          120,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 120,
+        "chapter": 3
+      },
+      "chapter": {
+        "path": "/books/mujam-al-ahadith-al-mutabara:3:120",
+        "titles": {
+          "en": "Asma bt. Umays, Salma, Maymuna, Umm al-Fadhl, al-Ghumaysa, Hamida, and Azza"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": سمعته يقول: رحم الله الاخوات من أهل الجنة فسماهن: أسماء بنت عميس الخثعمية وكانت تحت جعفر بن أبي طالب عليه السلام، وسلمى بنت عميس الخثعمية وكانت تحت حمزة، وخمس من بني هلال: ميمونة بنت الحارث كانت تحت النبي صلى الله عليه واله، وام الفضل عند العباس اسمها هند، والغميصاء ام خالد بن الوليد، وعزة كانت في ثقيف عند الحجاج بن غلاظ، وحميدة ولم يكن لها عقب"
+        ],
+        "text": ": سمعته يقول: رحم الله الاخوات من أهل الجنة فسماهن: أسماء بنت عميس الخثعمية وكانت تحت جعفر بن أبي طالب عليه السلام، وسلمى بنت عميس الخثعمية وكانت تحت حمزة، وخمس من بني هلال: ميمونة بنت الحارث كانت تحت النبي صلى الله عليه واله، وام الفضل عند العباس اسمها هند، والغميصاء ام خالد بن الوليد، وعزة كانت في ثقيف عند الحجاج بن غلاظ، وحميدة ولم يكن لها عقب"
+      },
+      "translations": {
+        "en.ammaar-muslim": {
+          "segments": [
+            "3. [3/297] al-Khisal: My father from Sa’d b. Abdallah from Ahmad b. Muhammad b. Isa from Ahmad b. Muhammad b. Abi Nasr al-Bazanti from A’sim b. Humayd from Abi Basir from Abi Ja’far عليه السلام. He [Abi Basir] said: I heard him [the Imam] saying: May Allah have mercy on the sisters among the inhabitants of paradise and he named them: Asma bt. Umays al-Khath’amiyya who was married to Ja’far b. Abi Talib عليه السلام and Salma bt. Umays al-Khath’amiyya who was married to Hamza.Also on five [women] from the Bani Hilal: Maymuna bt. al-Harith who was married to the Prophet صلى الله عليه واله. Umm al-Fadhl who was married to al-Abbas [b. Abd al-Muttalib] and her name was Hind. al-Ghumaysa the mother of Khalid b. al-Walid. Azza who was with the [tribe of] Thaqif and married to al-Hajjaj b. Ghiladh. Finally Hamida who had no children."
+          ],
+          "text": "3. [3/297] al-Khisal: My father from Sa’d b. Abdallah from Ahmad b. Muhammad b. Isa from Ahmad b. Muhammad b. Abi Nasr al-Bazanti from A’sim b. Humayd from Abi Basir from Abi Ja’far عليه السلام. He [Abi Basir] said: I heard him [the Imam] saying: May Allah have mercy on the sisters among the inhabitants of paradise and he named them: Asma bt. Umays al-Khath’amiyya who was married to Ja’far b. Abi Talib عليه السلام and Salma bt. Umays al-Khath’amiyya who was married to Hamza.Also on five [women] from the Bani Hilal: Maymuna bt. al-Harith who was married to the Prophet صلى الله عليه واله. Umm al-Fadhl who was married to al-Abbas [b. Abd al-Muttalib] and her name was Hind. al-Ghumaysa the mother of Khalid b. al-Walid. Azza who was with the [tribe of] Thaqif and married to al-Hajjaj b. Ghiladh. Finally Hamida who had no children."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "[3/297] الخصال: أبي، عن سعد بن عبد الله، عن أحمد بن محمد ابن عيسى، عن أحمد بن محمد بن أبي نصر البزنطي، عن عاصم بن حميد، عن أبي بصير، عن أبي جعفر عليه السلام قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "[3/297] الخصال: أبي،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "سعد بن عبد الله،",
+            "path": "/people/narrators/355"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "أحمد بن محمد ابن عيسى،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أحمد بن محمد بن أبي نصر البزنطي،",
+            "path": "/people/narrators/1005"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "عاصم بن حميد،",
+            "path": "/people/narrators/79"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي بصير،",
+            "path": "/people/narrators/14"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي جعفر عليه السلام قال",
+            "path": "/people/narrators/9"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/355",
+          "/people/narrators/1005",
+          "/people/narrators/79",
+          "/people/narrators/14",
+          "/people/narrators/9"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/mujam-al-ahadith-al-mutabara:3:120:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/mujam-al-ahadith-al-mutabara/3/120/3.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/9/3/121/3",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

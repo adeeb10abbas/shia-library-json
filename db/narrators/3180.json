@@ -1,0 +1,56 @@
+{
+  "id": 3180,
+  "type": "narrator",
+  "path": "/people/narrators/3180",
+  "titles": {
+    "ar": "ذَرِيحِ بْنِ يَزِيدَ الْمُحَارِبِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:3:8",
+    "/books/man-la-yahduruhu-al-faqih:3:2:11:2"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "11-92-2-30-3180-669": {
+      "narrator_ids": [
+        11,
+        92,
+        2,
+        30,
+        3180,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:3:8"
+      ]
+    },
+    "30-3180": {
+      "narrator_ids": [
+        30,
+        3180
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:3:8"
+      ]
+    },
+    "3180-669": {
+      "narrator_ids": [
+        3180,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:3:8",
+        "/books/man-la-yahduruhu-al-faqih:3:2:11:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3180",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3180.json"
+  }
+}

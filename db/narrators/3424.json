@@ -1,0 +1,66 @@
+{
+  "id": 3424,
+  "type": "narrator",
+  "path": "/people/narrators/3424",
+  "titles": {
+    "ar": "صَالِحِ بْنِ الْحَكَمِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:4:14:2",
+    "/books/tahdhib-al-ahkam:3:29:5"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "11-29-143-3424": {
+      "narrator_ids": [
+        11,
+        29,
+        143,
+        3424
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:3:29:5"
+      ]
+    },
+    "1102-3424": {
+      "narrator_ids": [
+        1102,
+        3424
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:14:2"
+      ]
+    },
+    "143-3424": {
+      "narrator_ids": [
+        143,
+        3424
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:3:29:5"
+      ]
+    },
+    "6-12-119-1347-1102-3424": {
+      "narrator_ids": [
+        6,
+        12,
+        119,
+        1347,
+        1102,
+        3424
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:14:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3424",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3424.json"
+  }
+}

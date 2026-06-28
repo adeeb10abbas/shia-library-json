@@ -1,0 +1,68 @@
+{
+  "id": 1618,
+  "type": "narrator",
+  "path": "/people/narrators/1618",
+  "titles": {
+    "ar": "فَضْلِ بْنِ عَبْدِ الْمَلِكِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:3:120:2",
+    "/books/al-kafi:5:3:57:5"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "1618-669": {
+      "narrator_ids": [
+        1618,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:57:5"
+      ]
+    },
+    "20-25-37-46-1618": {
+      "narrator_ids": [
+        20,
+        25,
+        37,
+        46,
+        1618
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:120:2"
+      ]
+    },
+    "46-1618": {
+      "narrator_ids": [
+        46,
+        1618
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:120:2",
+        "/books/al-kafi:5:3:57:5"
+      ]
+    },
+    "49-94-285-46-1618-669": {
+      "narrator_ids": [
+        49,
+        94,
+        285,
+        46,
+        1618,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:57:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1618",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1618.json"
+  }
+}

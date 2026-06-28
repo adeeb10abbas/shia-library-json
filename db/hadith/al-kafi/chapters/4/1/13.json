@@ -1,0 +1,273 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:4:1:13",
+  "chapter": {
+    "path": "/books/al-kafi:4:1:13",
+    "titles": {
+      "ar": "بَابُ دُعَاءِ السَّائِلِ",
+      "en": "Chapter 60 – Supplication of the beggar"
+    }
+  },
+  "count": 2,
+  "records": [
+    {
+      "id": "al-kafi:4:1:13:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:4:1:13:1",
+        "parts": [
+          4,
+          1,
+          13,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 1,
+        "chapter": 13,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:4:1:13",
+        "titles": {
+          "ar": "بَابُ دُعَاءِ السَّائِلِ",
+          "en": "Chapter 60 – Supplication of the beggar"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " إِذَا أَعْطَيْتُمُوهُمْ فَلَقِّنُوهُمُ الدُّعَاءَ فَإِنَّهُ يُسْتَجَابُ الدُّعَاءُ لَهُمْ فِيكُمْ وَ لَا يُسْتَجَابُ لَهُمْ فِي أَنْفُسِهِمْ ."
+        ],
+        "text": "إِذَا أَعْطَيْتُمُوهُمْ فَلَقِّنُوهُمُ الدُّعَاءَ فَإِنَّهُ يُسْتَجَابُ الدُّعَاءُ لَهُمْ فِيكُمْ وَ لَا يُسْتَجَابُ لَهُمْ فِي أَنْفُسِهِمْ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Ahmad Bin Abu Abdullah, from Yaqoub Bin Yazeed, and someone else, from Ziyad Al Qindy, from the one who mentioned it, ",
+            "‘He<sup>asws</sup> said: ‘When you give them, so ask them for the supplication, for the supplication is Answered for them regarding you, and it does not get Answered regarding their own selves’ (as they are professional/habitual beggars)."
+          ],
+          "text": "A number of our companions, from Ahmad Bin Abu Abdullah, from Yaqoub Bin Yazeed, and someone else, from Ziyad Al Qindy, from the one who mentioned it,\n\n‘He<sup>asws</sup> said: ‘When you give them, so ask them for the supplication, for the supplication is Answered for them regarding you, and it does not get Answered regarding their own selves’ (as they are professional/habitual beggars)."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. A number of our people have narrated from Ahmad ibn abu ‘Abd Allah from Ya’qub ibn Yazid and other people from Ziyad al- Qandiy from those whom he has mentioned who have said the following: “He (the Imam) has said, ‘When you give charity, ask them to pray; their prayer for you is answered, but it is not heard for themselves.”’ "
+          ],
+          "text": "1. A number of our people have narrated from Ahmad ibn abu ‘Abd Allah from Ya’qub ibn Yazid and other people from Ziyad al- Qandiy from those whom he has mentioned who have said the following: “He (the Imam) has said, ‘When you give charity, ask them to pray; their prayer for you is answered, but it is not heard for themselves.”’"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مرسل    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (16/144)",
+          "label": "مرسل",
+          "text": "Allamah Baqir al-Majlisi: مرسل - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (16/144)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ أَحْمَدَ بْنِ أَبِي عَبْدِ اللَّهِ عَنْ يَعْقُوبَ بْنِ يَزِيدَ وَ غَيْرِهِ عَنْ زِيَادٍ الْقَنْدِيِّ عَمَّنْ ذَكَرَهُ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ أَبِي عَبْدِ اللَّهِ",
+            "path": "/people/narrators/12"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "يَعْقُوبَ بْنِ يَزِيدَ",
+            "path": "/people/narrators/101"
+          },
+          {
+            "kind": "plain",
+            "text": " وَ "
+          },
+          {
+            "kind": "narrator",
+            "text": "غَيْرِهِ",
+            "path": "/people/narrators/78"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "plain",
+            "text": "زِيَادٍ الْقَنْدِيِّ عَمَّنْ ذَكَرَهُ"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/12",
+          "/people/narrators/101",
+          "/people/narrators/78"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:4:1:13:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/4/1/13/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:4:1:13:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:4:1:13:2",
+        "parts": [
+          4,
+          1,
+          13,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 1,
+        "chapter": 13,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:4:1:13",
+        "titles": {
+          "ar": "بَابُ دُعَاءِ السَّائِلِ",
+          "en": "Chapter 60 – Supplication of the beggar"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " لَا تُحَقِّرُوا دَعْوَةَ أَحَدٍ فَإِنَّهُ يُسْتَجَابُ لِلْيَهُودِيِّ وَ النَّصْرَانِيِّ فِيكُمْ وَ لَا يُسْتَجَابُ لَهُمْ فِي أَنْفُسِهِمْ ."
+        ],
+        "text": "لَا تُحَقِّرُوا دَعْوَةَ أَحَدٍ فَإِنَّهُ يُسْتَجَابُ لِلْيَهُودِيِّ وَ النَّصْرَانِيِّ فِيكُمْ وَ لَا يُسْتَجَابُ لَهُمْ فِي أَنْفُسِهِمْ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Muhammad Bin Ismail, from Al Hassan Bin Al Jaham, ",
+            "(It has been narrated) from Abu Al-Hassan<sup>asws</sup> having said: ‘Do not belittle the supplication of anyone (from the beggars), for it gets Answered for the Jews and the Christians regarding you all, but it does not get Answered for them regarding their own selves’."
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Muhammad Bin Ismail, from Al Hassan Bin Al Jaham,\n\n(It has been narrated) from Abu Al-Hassan<sup>asws</sup> having said: ‘Do not belittle the supplication of anyone (from the beggars), for it gets Answered for the Jews and the Christians regarding you all, but it does not get Answered for them regarding their own selves’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from Muhammad ibn Isma‘il from al-Hassan ibn al-Jahm from abu al-Hassan, ‘Alayhi al-Salam, who has said the following: “You must not ignore anyone’s prayers; the prayers of Jews and Christians for you are answered, but they are not answered for themselves.” "
+          ],
+          "text": "2. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from Muhammad ibn Isma‘il from al-Hassan ibn al-Jahm from abu al-Hassan, ‘Alayhi al-Salam, who has said the following: “You must not ignore anyone’s prayers; the prayers of Jews and Christians for you are answered, but they are not answered for themselves.”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> صحيح    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (16/144)",
+          "label": "صحيح",
+          "text": "Allamah Baqir al-Majlisi: صحيح - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (16/144)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنْ مُحَمَّدِ بْنِ إِسْمَاعِيلَ عَنِ الْحَسَنِ بْنِ الْجَهْمِ عَنْ أَبِي الْحَسَنِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ إِسْمَاعِيلَ",
+            "path": "/people/narrators/17"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحَسَنِ بْنِ الْجَهْمِ",
+            "path": "/people/narrators/260"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي الْحَسَنِ ( عليه السلام )",
+            "path": "/people/narrators/64"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/5",
+          "/people/narrators/17",
+          "/people/narrators/260",
+          "/people/narrators/64"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:4:1:13:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/4/1/13/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

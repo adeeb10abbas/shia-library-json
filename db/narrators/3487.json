@@ -1,0 +1,119 @@
+{
+  "id": 3487,
+  "type": "narrator",
+  "path": "/people/narrators/3487",
+  "titles": {
+    "ar": "عَبْدِ الرَّحْمَنِ بْنِ أَبِي عَبْدِ اللَّهِ الْبَصْرِيِّ"
+  },
+  "versePaths": [
+    "/books/al-istibsar:1:244:7",
+    "/books/al-istibsar:1:97:4",
+    "/books/al-kafi:6:2:22:10",
+    "/books/tahdhib-al-ahkam:1:39:68",
+    "/books/tahdhib-al-ahkam:8:3:156"
+  ],
+  "verseCount": 5,
+  "relations": {},
+  "subchains": {
+    "11-285-3796-192-3487-669": {
+      "narrator_ids": [
+        11,
+        285,
+        3796,
+        192,
+        3487,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:22:10"
+      ]
+    },
+    "192-3487": {
+      "narrator_ids": [
+        192,
+        3487
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:22:10",
+        "/books/tahdhib-al-ahkam:8:3:156"
+      ]
+    },
+    "21-69-3487": {
+      "narrator_ids": [
+        21,
+        69,
+        3487
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:97:4",
+        "/books/tahdhib-al-ahkam:1:39:68"
+      ]
+    },
+    "3487-669": {
+      "narrator_ids": [
+        3487,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:244:7",
+        "/books/al-kafi:6:2:22:10",
+        "/books/tahdhib-al-ahkam:8:3:156"
+      ]
+    },
+    "46-3487": {
+      "narrator_ids": [
+        46,
+        3487
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:244:7"
+      ]
+    },
+    "69-3487": {
+      "narrator_ids": [
+        69,
+        3487
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:97:4",
+        "/books/tahdhib-al-ahkam:1:39:68"
+      ]
+    },
+    "952-4-388-15-46-3487-669": {
+      "narrator_ids": [
+        952,
+        4,
+        388,
+        15,
+        46,
+        3487,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:244:7"
+      ]
+    },
+    "952-49-94-285-192-3487-669": {
+      "narrator_ids": [
+        952,
+        49,
+        94,
+        285,
+        192,
+        3487,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:8:3:156"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3487",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3487.json"
+  }
+}

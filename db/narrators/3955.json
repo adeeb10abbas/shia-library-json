@@ -1,0 +1,44 @@
+{
+  "id": 3955,
+  "type": "narrator",
+  "path": "/people/narrators/3955",
+  "titles": {
+    "ar": "عِيسَى بْنِ السَّرِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:13:9"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3-27-26-54-3955": {
+      "narrator_ids": [
+        3,
+        27,
+        26,
+        54,
+        3955
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:13:9"
+      ]
+    },
+    "54-3955": {
+      "narrator_ids": [
+        54,
+        3955
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:13:9"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3955",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3955.json"
+  }
+}

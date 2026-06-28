@@ -1,0 +1,32 @@
+{
+  "id": 2169,
+  "type": "narrator",
+  "path": "/people/narrators/2169",
+  "titles": {
+    "ar": "أَبِي عَقِيلٍ عِيسَى بْنِ نَصْرٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:125:27"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "35-2169": {
+      "narrator_ids": [
+        35,
+        2169
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:125:27"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2169",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2169.json"
+  }
+}

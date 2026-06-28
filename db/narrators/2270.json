@@ -1,0 +1,65 @@
+{
+  "id": 2270,
+  "type": "narrator",
+  "path": "/people/narrators/2270",
+  "titles": {
+    "ar": "أَحْمَدَ بْنِ إِسْحَاقَ الْأَشْعَرِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:3:95:2",
+    "/books/tahdhib-al-ahkam:7:23:38"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "20-2270": {
+      "narrator_ids": [
+        20,
+        2270
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:95:2",
+        "/books/tahdhib-al-ahkam:7:23:38"
+      ]
+    },
+    "20-2270-581": {
+      "narrator_ids": [
+        20,
+        2270,
+        581
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:95:2"
+      ]
+    },
+    "2270-581": {
+      "narrator_ids": [
+        2270,
+        581
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:95:2",
+        "/books/tahdhib-al-ahkam:7:23:38"
+      ]
+    },
+    "952-20-2270-581": {
+      "narrator_ids": [
+        952,
+        20,
+        2270,
+        581
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:23:38"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2270",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2270.json"
+  }
+}

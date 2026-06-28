@@ -1,0 +1,98 @@
+{
+  "id": 1711,
+  "type": "narrator",
+  "path": "/people/narrators/1711",
+  "titles": {
+    "ar": "مُيَسِّرٍ بَيَّاعِ الزُّطِّيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:85:7",
+    "/books/al-kafi:6:6:129:3",
+    "/books/man-la-yahduruhu-al-faqih:3:2:21:23",
+    "/books/tahdhib-al-ahkam:7:4:44"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "11-43-885-1711": {
+      "narrator_ids": [
+        11,
+        43,
+        885,
+        1711
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:4:44"
+      ]
+    },
+    "133-2-432-2563-1711-4052": {
+      "narrator_ids": [
+        133,
+        2,
+        432,
+        2563,
+        1711,
+        4052
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:129:3"
+      ]
+    },
+    "1711-4052": {
+      "narrator_ids": [
+        1711,
+        4052
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:129:3"
+      ]
+    },
+    "2563-1711": {
+      "narrator_ids": [
+        2563,
+        1711
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:129:3"
+      ]
+    },
+    "4-4171-885-1711": {
+      "narrator_ids": [
+        4,
+        4171,
+        885,
+        1711
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:85:7"
+      ]
+    },
+    "404-1711": {
+      "narrator_ids": [
+        404,
+        1711
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:3:2:21:23"
+      ]
+    },
+    "885-1711": {
+      "narrator_ids": [
+        885,
+        1711
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:85:7",
+        "/books/tahdhib-al-ahkam:7:4:44"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1711",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1711.json"
+  }
+}

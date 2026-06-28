@@ -1,0 +1,54 @@
+{
+  "id": 2297,
+  "type": "narrator",
+  "path": "/people/narrators/2297",
+  "titles": {
+    "ar": "أَحْمَدَ بْنِ رَزِينٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:78:11"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1097-2297": {
+      "narrator_ids": [
+        1097,
+        2297
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:78:11"
+      ]
+    },
+    "2297-469": {
+      "narrator_ids": [
+        2297,
+        469
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:78:11"
+      ]
+    },
+    "5-15-1097-2297-469-669": {
+      "narrator_ids": [
+        5,
+        15,
+        1097,
+        2297,
+        469,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:78:11"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2297",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2297.json"
+  }
+}

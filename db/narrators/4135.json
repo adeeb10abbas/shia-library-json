@@ -1,0 +1,54 @@
+{
+  "id": 4135,
+  "type": "narrator",
+  "path": "/people/narrators/4135",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ أَخِي غَرَامٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:2:56:10"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-5-39-4135-31-669": {
+      "narrator_ids": [
+        11,
+        5,
+        39,
+        4135,
+        31,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:56:10"
+      ]
+    },
+    "39-4135": {
+      "narrator_ids": [
+        39,
+        4135
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:56:10"
+      ]
+    },
+    "4135-31": {
+      "narrator_ids": [
+        4135,
+        31
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:56:10"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4135",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4135.json"
+  }
+}

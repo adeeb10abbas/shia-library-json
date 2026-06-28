@@ -1,0 +1,58 @@
+{
+  "id": 3213,
+  "type": "narrator",
+  "path": "/people/narrators/3213",
+  "titles": {
+    "ar": "رَجُلٍ مِنْ أَصْحَابِنَا سَرَّاجٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:20:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "19-24-4-13-22-260-1260-4596-3213-4051": {
+      "narrator_ids": [
+        19,
+        24,
+        4,
+        13,
+        22,
+        260,
+        1260,
+        4596,
+        3213,
+        4051
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:20:2"
+      ]
+    },
+    "3213-4051": {
+      "narrator_ids": [
+        3213,
+        4051
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:20:2"
+      ]
+    },
+    "4596-3213": {
+      "narrator_ids": [
+        4596,
+        3213
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:20:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3213",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3213.json"
+  }
+}

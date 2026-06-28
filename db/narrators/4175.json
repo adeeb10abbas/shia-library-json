@@ -1,0 +1,85 @@
+{
+  "id": 4175,
+  "type": "narrator",
+  "path": "/people/narrators/4175",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ الْحَكَمِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:1:9:4",
+    "/books/thawab-al-amal:2:347:1"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "3-2-7-4175-748-64": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        4175,
+        748,
+        64
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:1:9:4"
+      ]
+    },
+    "4175-47": {
+      "narrator_ids": [
+        4175,
+        47
+      ],
+      "verse_paths": [
+        "/books/thawab-al-amal:2:347:1"
+      ]
+    },
+    "4175-748": {
+      "narrator_ids": [
+        4175,
+        748
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:1:9:4"
+      ]
+    },
+    "5-4175": {
+      "narrator_ids": [
+        5,
+        4175
+      ],
+      "verse_paths": [
+        "/books/thawab-al-amal:2:347:1"
+      ]
+    },
+    "7-4175": {
+      "narrator_ids": [
+        7,
+        4175
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:1:9:4"
+      ]
+    },
+    "90-4154-5-4175-47": {
+      "narrator_ids": [
+        90,
+        4154,
+        5,
+        4175,
+        47
+      ],
+      "verse_paths": [
+        "/books/thawab-al-amal:2:347:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4175",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4175.json"
+  }
+}

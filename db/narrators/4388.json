@@ -1,0 +1,53 @@
+{
+  "id": 4388,
+  "type": "narrator",
+  "path": "/people/narrators/4388",
+  "titles": {
+    "ar": "مُعَاوِيَةَ بْنِ وَهْبٍ أَوْ مُعَاوِيَةَ بْنِ عَمَّارٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:91:7"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "10-4388": {
+      "narrator_ids": [
+        10,
+        4388
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:91:7"
+      ]
+    },
+    "4388-669": {
+      "narrator_ids": [
+        4388,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:91:7"
+      ]
+    },
+    "6-12-10-4388-669": {
+      "narrator_ids": [
+        6,
+        12,
+        10,
+        4388,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:91:7"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4388",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4388.json"
+  }
+}

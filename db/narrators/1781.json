@@ -1,0 +1,54 @@
+{
+  "id": 1781,
+  "type": "narrator",
+  "path": "/people/narrators/1781",
+  "titles": {
+    "ar": "أَبَانِ بْنِ عَبْدِ الرَّحْمَنِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:89:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1781-296": {
+      "narrator_ids": [
+        1781,
+        296
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:89:2"
+      ]
+    },
+    "247-1781": {
+      "narrator_ids": [
+        247,
+        1781
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:89:2"
+      ]
+    },
+    "310-297-247-1781-296-669": {
+      "narrator_ids": [
+        310,
+        297,
+        247,
+        1781,
+        296,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:89:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1781",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1781.json"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": 4629,
+  "type": "narrator",
+  "path": "/people/narrators/4629",
+  "titles": {
+    "ar": "يُونُسَ مَوْلَى عَلِيٍّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:190:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "261-4629": {
+      "narrator_ids": [
+        261,
+        4629
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:190:3"
+      ]
+    },
+    "4-5-261-4629-118": {
+      "narrator_ids": [
+        4,
+        5,
+        261,
+        4629,
+        118
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:190:3"
+      ]
+    },
+    "4629-118": {
+      "narrator_ids": [
+        4629,
+        118
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:190:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4629",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4629.json"
+  }
+}

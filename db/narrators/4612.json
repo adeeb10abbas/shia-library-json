@@ -1,0 +1,58 @@
+{
+  "id": 4612,
+  "type": "narrator",
+  "path": "/people/narrators/4612",
+  "titles": {
+    "ar": "يُوسُفَ بْنِ السُّخْتِ الْبَصْرِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:8:46:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "36-298-493-4-59-4612-240-1846-1342-326": {
+      "narrator_ids": [
+        36,
+        298,
+        493,
+        4,
+        59,
+        4612,
+        240,
+        1846,
+        1342,
+        326
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:46:5"
+      ]
+    },
+    "4612-240": {
+      "narrator_ids": [
+        4612,
+        240
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:46:5"
+      ]
+    },
+    "59-4612": {
+      "narrator_ids": [
+        59,
+        4612
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:46:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4612",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4612.json"
+  }
+}

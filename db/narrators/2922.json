@@ -1,0 +1,125 @@
+{
+  "id": 2922,
+  "type": "narrator",
+  "path": "/people/narrators/2922",
+  "titles": {
+    "ar": "بَعْضِ مَشِيخَتِهِ"
+  },
+  "versePaths": [
+    "/books/al-istibsar:3:35:4",
+    "/books/al-istibsar:3:65:2",
+    "/books/al-kafi:5:3:68:8",
+    "/books/tahdhib-al-ahkam:2:8:251",
+    "/books/tahdhib-al-ahkam:7:37:19",
+    "/books/tahdhib-al-ahkam:7:39:160"
+  ],
+  "verseCount": 6,
+  "relations": {},
+  "subchains": {
+    "11-9-2-1141-2922": {
+      "narrator_ids": [
+        11,
+        9,
+        2,
+        1141,
+        2922
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:39:160"
+      ]
+    },
+    "1141-2922": {
+      "narrator_ids": [
+        1141,
+        2922
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:3:35:4",
+        "/books/al-istibsar:3:65:2",
+        "/books/al-kafi:5:3:68:8",
+        "/books/tahdhib-al-ahkam:7:37:19",
+        "/books/tahdhib-al-ahkam:7:39:160"
+      ]
+    },
+    "4134-9-2-1141-2922": {
+      "narrator_ids": [
+        4134,
+        9,
+        2,
+        1141,
+        2922
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:3:35:4"
+      ]
+    },
+    "4134-9-2-511-57-78-2922": {
+      "narrator_ids": [
+        4134,
+        9,
+        2,
+        511,
+        57,
+        78,
+        2922
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:8:251"
+      ]
+    },
+    "6-12-2-1141-2922": {
+      "narrator_ids": [
+        6,
+        12,
+        2,
+        1141,
+        2922
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:68:8"
+      ]
+    },
+    "78-2922": {
+      "narrator_ids": [
+        78,
+        2922
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:8:251"
+      ]
+    },
+    "952-6-12-1141-2922": {
+      "narrator_ids": [
+        952,
+        6,
+        12,
+        1141,
+        2922
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:3:65:2"
+      ]
+    },
+    "952-6-12-2-1141-2922": {
+      "narrator_ids": [
+        952,
+        6,
+        12,
+        2,
+        1141,
+        2922
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:37:19"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2922",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2922.json"
+  }
+}

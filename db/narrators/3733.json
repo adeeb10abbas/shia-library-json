@@ -1,0 +1,120 @@
+{
+  "id": 3733,
+  "type": "narrator",
+  "path": "/people/narrators/3733",
+  "titles": {
+    "ar": "عَلِيِّ بْنِ إِسْمَاعِيلَ بْنِ عَمَّارٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:145:3",
+    "/books/mujam-al-ahadith-al-mutabara:3:1:1",
+    "/books/mujam-al-ahadith-al-mutabara:3:7:1",
+    "/books/tahdhib-al-ahkam:7:20:16"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "101-7-3733-51-148": {
+      "narrator_ids": [
+        101,
+        7,
+        3733,
+        51,
+        148
+      ],
+      "verse_paths": [
+        "/books/mujam-al-ahadith-al-mutabara:3:1:1"
+      ]
+    },
+    "11-7-3733-103": {
+      "narrator_ids": [
+        11,
+        7,
+        3733,
+        103
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:20:16"
+      ]
+    },
+    "3733-103": {
+      "narrator_ids": [
+        3733,
+        103
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:145:3",
+        "/books/tahdhib-al-ahkam:7:20:16"
+      ]
+    },
+    "3733-380": {
+      "narrator_ids": [
+        3733,
+        380
+      ],
+      "verse_paths": [
+        "/books/mujam-al-ahadith-al-mutabara:3:7:1"
+      ]
+    },
+    "3733-51": {
+      "narrator_ids": [
+        3733,
+        51
+      ],
+      "verse_paths": [
+        "/books/mujam-al-ahadith-al-mutabara:3:1:1"
+      ]
+    },
+    "391-884-741-3733-380": {
+      "narrator_ids": [
+        391,
+        884,
+        741,
+        3733,
+        380
+      ],
+      "verse_paths": [
+        "/books/mujam-al-ahadith-al-mutabara:3:7:1"
+      ]
+    },
+    "5-7-3733-103": {
+      "narrator_ids": [
+        5,
+        7,
+        3733,
+        103
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:145:3"
+      ]
+    },
+    "7-3733": {
+      "narrator_ids": [
+        7,
+        3733
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:145:3",
+        "/books/mujam-al-ahadith-al-mutabara:3:1:1",
+        "/books/tahdhib-al-ahkam:7:20:16"
+      ]
+    },
+    "741-3733": {
+      "narrator_ids": [
+        741,
+        3733
+      ],
+      "verse_paths": [
+        "/books/mujam-al-ahadith-al-mutabara:3:7:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3733",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3733.json"
+  }
+}

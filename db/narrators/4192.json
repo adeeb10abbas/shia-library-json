@@ -1,0 +1,77 @@
+{
+  "id": 4192,
+  "type": "narrator",
+  "path": "/people/narrators/4192",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ الْمُسْتَنِيرِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:198:11",
+    "/books/tahdhib-al-ahkam:5:20:7"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "10-4192": {
+      "narrator_ids": [
+        10,
+        4192
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:20:7"
+      ]
+    },
+    "4-5-53-4192-669": {
+      "narrator_ids": [
+        4,
+        5,
+        53,
+        4192,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:198:11"
+      ]
+    },
+    "4192-669": {
+      "narrator_ids": [
+        4192,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:198:11",
+        "/books/tahdhib-al-ahkam:5:20:7"
+      ]
+    },
+    "53-4192": {
+      "narrator_ids": [
+        53,
+        4192
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:198:11"
+      ]
+    },
+    "952-4-5-10-4192-669": {
+      "narrator_ids": [
+        952,
+        4,
+        5,
+        10,
+        4192,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:20:7"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4192",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4192.json"
+  }
+}

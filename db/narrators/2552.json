@@ -1,0 +1,74 @@
+{
+  "id": 2552,
+  "type": "narrator",
+  "path": "/people/narrators/2552",
+  "titles": {
+    "ar": "الْحَسَنِ بْنِ سَيْفِ بْنِ عَمِيرَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:3:13:11",
+    "/books/thawab-al-amal:2:208:1"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "2552-177": {
+      "narrator_ids": [
+        2552,
+        177
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:3:13:11"
+      ]
+    },
+    "2552-326": {
+      "narrator_ids": [
+        2552,
+        326
+      ],
+      "verse_paths": [
+        "/books/thawab-al-amal:2:208:1"
+      ]
+    },
+    "77-2552": {
+      "narrator_ids": [
+        77,
+        2552
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:3:13:11",
+        "/books/thawab-al-amal:2:208:1"
+      ]
+    },
+    "77-2552-177-669": {
+      "narrator_ids": [
+        77,
+        2552,
+        177,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:3:13:11"
+      ]
+    },
+    "77-2552-326-669": {
+      "narrator_ids": [
+        77,
+        2552,
+        326,
+        669
+      ],
+      "verse_paths": [
+        "/books/thawab-al-amal:2:208:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2552",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2552.json"
+  }
+}

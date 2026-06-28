@@ -1,0 +1,43 @@
+{
+  "id": 2914,
+  "type": "narrator",
+  "path": "/people/narrators/2914",
+  "titles": {
+    "ar": "بَعْضِ الطَّالِبِيِّينَ يُلَقَّبُ بِرَأْسِ الْمَدَرِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:4:100:13"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "29-2914": {
+      "narrator_ids": [
+        29,
+        2914
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:100:13"
+      ]
+    },
+    "35-8-29-2914": {
+      "narrator_ids": [
+        35,
+        8,
+        29,
+        2914
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:100:13"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2914",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2914.json"
+  }
+}

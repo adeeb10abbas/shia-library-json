@@ -1,0 +1,82 @@
+{
+  "id": 3371,
+  "type": "narrator",
+  "path": "/people/narrators/3371",
+  "titles": {
+    "ar": "سُلَيْمَانَ بْنِ سُفْيَانَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:1:37:1",
+    "/books/tahdhib-al-ahkam:5:9:117"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "11-3371": {
+      "narrator_ids": [
+        11,
+        3371
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:9:117"
+      ]
+    },
+    "11-3371-954": {
+      "narrator_ids": [
+        11,
+        3371,
+        954
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:9:117"
+      ]
+    },
+    "20-25-3371-44-669": {
+      "narrator_ids": [
+        20,
+        25,
+        3371,
+        44,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:37:1"
+      ]
+    },
+    "25-3371": {
+      "narrator_ids": [
+        25,
+        3371
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:37:1"
+      ]
+    },
+    "3371-44": {
+      "narrator_ids": [
+        3371,
+        44
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:37:1"
+      ]
+    },
+    "3371-954": {
+      "narrator_ids": [
+        3371,
+        954
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:9:117"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3371",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3371.json"
+  }
+}

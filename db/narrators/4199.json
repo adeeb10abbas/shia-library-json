@@ -1,0 +1,42 @@
+{
+  "id": 4199,
+  "type": "narrator",
+  "path": "/people/narrators/4199",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ الْوَلِيدِ الْكِرْمَانِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:8:53:4",
+    "/books/man-la-yahduruhu-al-faqih:3:2:37:22"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "11-4199": {
+      "narrator_ids": [
+        11,
+        4199
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:53:4"
+      ]
+    },
+    "404-4199": {
+      "narrator_ids": [
+        404,
+        4199
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:3:2:37:22"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4199",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4199.json"
+  }
+}

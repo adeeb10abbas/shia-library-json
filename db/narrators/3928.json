@@ -1,0 +1,54 @@
+{
+  "id": 3928,
+  "type": "narrator",
+  "path": "/people/narrators/3928",
+  "titles": {
+    "ar": "عَنْ عَبْدِ الْعَزِيزِ بْنِ الْمُهْتَدِي"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:45:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "26-3928": {
+      "narrator_ids": [
+        26,
+        3928
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:45:5"
+      ]
+    },
+    "3928-60": {
+      "narrator_ids": [
+        3928,
+        60
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:45:5"
+      ]
+    },
+    "59-593-26-3928-60-521": {
+      "narrator_ids": [
+        59,
+        593,
+        26,
+        3928,
+        60,
+        521
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:45:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3928",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3928.json"
+  }
+}

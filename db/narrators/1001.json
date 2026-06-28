@@ -1,0 +1,130 @@
+{
+  "id": 1001,
+  "type": "narrator",
+  "path": "/people/narrators/1001",
+  "titles": {
+    "ar": "أَبِيهِ مُحَمَّدِ بْنِ عِيسَى"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:73:3",
+    "/books/al-kafi:1:4:80:18",
+    "/books/al-kafi:6:3:8:3",
+    "/books/kamil-al-ziyarat:2:14:6"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "1001-51": {
+      "narrator_ids": [
+        1001,
+        51
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:3:8:3"
+      ]
+    },
+    "1001-56": {
+      "narrator_ids": [
+        1001,
+        56
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:80:18"
+      ]
+    },
+    "1001-76": {
+      "narrator_ids": [
+        1001,
+        76
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:14:6"
+      ]
+    },
+    "127-92-1001-51-28": {
+      "narrator_ids": [
+        127,
+        92,
+        1001,
+        51,
+        28
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:3:8:3"
+      ]
+    },
+    "13-1001": {
+      "narrator_ids": [
+        13,
+        1001
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:73:3",
+        "/books/kamil-al-ziyarat:2:14:6"
+      ]
+    },
+    "4-13-1001": {
+      "narrator_ids": [
+        4,
+        13,
+        1001
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:73:3"
+      ]
+    },
+    "5-1001": {
+      "narrator_ids": [
+        5,
+        1001
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:80:18"
+      ]
+    },
+    "613-355-13-1001-76-117-72-9": {
+      "narrator_ids": [
+        613,
+        355,
+        13,
+        1001,
+        76,
+        117,
+        72,
+        9
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:14:6"
+      ]
+    },
+    "77-5-1001-56-18": {
+      "narrator_ids": [
+        77,
+        5,
+        1001,
+        56,
+        18
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:80:18"
+      ]
+    },
+    "92-1001": {
+      "narrator_ids": [
+        92,
+        1001
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:3:8:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1001",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1001.json"
+  }
+}

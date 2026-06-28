@@ -1,0 +1,52 @@
+{
+  "id": 2069,
+  "type": "narrator",
+  "path": "/people/narrators/2069",
+  "titles": {
+    "ar": "أَبِي جُنَادَةَ الْحُصَيْنِ بْنِ الْمُخَارِقِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ وَرْقَاءَ بْنِ حَبَشِيِّ بْنِ جُنَادَةَ السَّلُولِيِّ صَاحِبِ رَسُولِ اللَّهِ (صلى الله عليه وآله)"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:39:18"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "12-2069": {
+      "narrator_ids": [
+        12,
+        2069
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:39:18"
+      ]
+    },
+    "2069-841": {
+      "narrator_ids": [
+        2069,
+        841
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:39:18"
+      ]
+    },
+    "3-12-2069-841": {
+      "narrator_ids": [
+        3,
+        12,
+        2069,
+        841
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:39:18"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2069",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2069.json"
+  }
+}

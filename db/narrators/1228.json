@@ -1,0 +1,125 @@
+{
+  "id": 1228,
+  "type": "narrator",
+  "path": "/people/narrators/1228",
+  "titles": {
+    "ar": "إِبْرَاهِيمَ بْنِ مُحَمَّدِ بْنِ حُمْرَانَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:1:46:4",
+    "/books/al-kafi:8:1:44:25",
+    "/books/tahdhib-al-ahkam:7:34:2",
+    "/books/tahdhib-al-ahkam:7:39:102"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "11-68-1325-1228-2-669": {
+      "narrator_ids": [
+        11,
+        68,
+        1325,
+        1228,
+        2,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:34:2"
+      ]
+    },
+    "1228-2": {
+      "narrator_ids": [
+        1228,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:44:25",
+        "/books/tahdhib-al-ahkam:7:34:2",
+        "/books/tahdhib-al-ahkam:7:39:102"
+      ]
+    },
+    "1228-669": {
+      "narrator_ids": [
+        1228,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:1:46:4"
+      ]
+    },
+    "13-1325-1228-2-669": {
+      "narrator_ids": [
+        13,
+        1325,
+        1228,
+        2,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:39:102"
+      ]
+    },
+    "1325-1228": {
+      "narrator_ids": [
+        1325,
+        1228
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:34:2",
+        "/books/tahdhib-al-ahkam:7:39:102"
+      ]
+    },
+    "4-167-500-712-1228-669": {
+      "narrator_ids": [
+        4,
+        167,
+        500,
+        712,
+        1228,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:1:46:4"
+      ]
+    },
+    "6-12-68-1228-2-669": {
+      "narrator_ids": [
+        6,
+        12,
+        68,
+        1228,
+        2,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:44:25"
+      ]
+    },
+    "68-1228": {
+      "narrator_ids": [
+        68,
+        1228
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:44:25"
+      ]
+    },
+    "712-1228": {
+      "narrator_ids": [
+        712,
+        1228
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:1:46:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1228",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1228.json"
+  }
+}

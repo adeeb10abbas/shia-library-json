@@ -1,0 +1,84 @@
+{
+  "id": 1901,
+  "type": "narrator",
+  "path": "/people/narrators/1901",
+  "titles": {
+    "ar": "ابْنِ مَسْعُودٍ"
+  },
+  "versePaths": [
+    "/books/al-amali-saduq:50:7",
+    "/books/al-kafi:1:4:93:5",
+    "/books/mujam-al-ahadith-al-mutabara:1:15:1"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "1901-1053": {
+      "narrator_ids": [
+        1901,
+        1053
+      ],
+      "verse_paths": [
+        "/books/al-amali-saduq:50:7"
+      ]
+    },
+    "1901-237": {
+      "narrator_ids": [
+        1901,
+        237
+      ],
+      "verse_paths": [
+        "/books/mujam-al-ahadith-al-mutabara:1:15:1"
+      ]
+    },
+    "1901-237-52-14": {
+      "narrator_ids": [
+        1901,
+        237,
+        52,
+        14
+      ],
+      "verse_paths": [
+        "/books/mujam-al-ahadith-al-mutabara:1:15:1"
+      ]
+    },
+    "1901-788": {
+      "narrator_ids": [
+        1901,
+        788
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:93:5"
+      ]
+    },
+    "20-25-333-1901-788": {
+      "narrator_ids": [
+        20,
+        25,
+        333,
+        1901,
+        788
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:93:5"
+      ]
+    },
+    "333-1901": {
+      "narrator_ids": [
+        333,
+        1901
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:93:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1901",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1901.json"
+  }
+}

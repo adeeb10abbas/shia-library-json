@@ -1,0 +1,54 @@
+{
+  "id": 2499,
+  "type": "narrator",
+  "path": "/people/narrators/2499",
+  "titles": {
+    "ar": "الْحَارِثِ بْنِ جَعْفَرٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:61:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "154-25-5-2499-3734-3958": {
+      "narrator_ids": [
+        154,
+        25,
+        5,
+        2499,
+        3734,
+        3958
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:61:4"
+      ]
+    },
+    "2499-3734": {
+      "narrator_ids": [
+        2499,
+        3734
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:61:4"
+      ]
+    },
+    "5-2499": {
+      "narrator_ids": [
+        5,
+        2499
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:61:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2499",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2499.json"
+  }
+}

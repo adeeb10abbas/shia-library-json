@@ -1,0 +1,84 @@
+{
+  "id": 1066,
+  "type": "narrator",
+  "path": "/people/narrators/1066",
+  "titles": {
+    "ar": "جَدِّهِ شُعَيْبٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:105:7",
+    "/books/al-kafi:2:1:107:16",
+    "/books/al-kafi:2:1:107:4"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "1066-605": {
+      "narrator_ids": [
+        1066,
+        605
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:107:16",
+        "/books/al-kafi:2:1:107:4"
+      ]
+    },
+    "11-67-1460-1189-1066-605": {
+      "narrator_ids": [
+        11,
+        67,
+        1460,
+        1189,
+        1066,
+        605
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:107:4"
+      ]
+    },
+    "11-67-967-1189-1066": {
+      "narrator_ids": [
+        11,
+        67,
+        967,
+        1189,
+        1066
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:105:7"
+      ]
+    },
+    "1189-1066": {
+      "narrator_ids": [
+        1189,
+        1066
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:105:7",
+        "/books/al-kafi:2:1:107:16",
+        "/books/al-kafi:2:1:107:4"
+      ]
+    },
+    "4-13-967-1189-1066-605": {
+      "narrator_ids": [
+        4,
+        13,
+        967,
+        1189,
+        1066,
+        605
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:107:16"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1066",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1066.json"
+  }
+}

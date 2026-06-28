@@ -1,0 +1,55 @@
+{
+  "id": 2896,
+  "type": "narrator",
+  "path": "/people/narrators/2896",
+  "titles": {
+    "ar": "بَعْضِ أَصْحَابِنَا رَفَعَ الْحَدِيثَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:3:16:4",
+    "/books/tahdhib-al-ahkam:7:33:15"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "12-2896": {
+      "narrator_ids": [
+        12,
+        2896
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:16:4",
+        "/books/tahdhib-al-ahkam:7:33:15"
+      ]
+    },
+    "6-12-2896": {
+      "narrator_ids": [
+        6,
+        12,
+        2896
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:16:4"
+      ]
+    },
+    "952-6-12-2896": {
+      "narrator_ids": [
+        952,
+        6,
+        12,
+        2896
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:33:15"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2896",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2896.json"
+  }
+}

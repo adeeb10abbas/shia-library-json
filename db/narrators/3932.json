@@ -1,0 +1,52 @@
+{
+  "id": 3932,
+  "type": "narrator",
+  "path": "/people/narrators/3932",
+  "titles": {
+    "ar": "عَنْ غَيْرِ وَاحِدٍ مِنْ أَصْحَابِنَا الْقُمِّيِّينَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:125:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "35-3932": {
+      "narrator_ids": [
+        35,
+        3932
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:125:3"
+      ]
+    },
+    "35-3932-4314-2104": {
+      "narrator_ids": [
+        35,
+        3932,
+        4314,
+        2104
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:125:3"
+      ]
+    },
+    "3932-4314": {
+      "narrator_ids": [
+        3932,
+        4314
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:125:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3932",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3932.json"
+  }
+}

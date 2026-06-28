@@ -1,0 +1,32 @@
+{
+  "id": 2628,
+  "type": "narrator",
+  "path": "/people/narrators/2628",
+  "titles": {
+    "ar": "الْحُسَيْنِ بْنِ رِزْقِ اللَّهِ أَبُو عَبْدِ اللَّهِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:77:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "4-2628": {
+      "narrator_ids": [
+        4,
+        2628
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:77:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2628",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2628.json"
+  }
+}

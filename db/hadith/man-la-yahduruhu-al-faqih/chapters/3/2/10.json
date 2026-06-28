@@ -1,0 +1,114 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "man-la-yahduruhu-al-faqih",
+  "chapterPath": "/books/man-la-yahduruhu-al-faqih:3:2:10",
+  "chapter": {
+    "path": "/books/man-la-yahduruhu-al-faqih:3:2:10",
+    "titles": {
+      "en": "Chapter on Announcing the Sale of Goods"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "man-la-yahduruhu-al-faqih:3:2:10:1",
+      "type": "hadith",
+      "book": {
+        "slug": "man-la-yahduruhu-al-faqih",
+        "titles": {
+          "ar": "من لا يحضره الفقيه",
+          "en": "Man La Yahduruhu al-Faqih"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/man-la-yahduruhu-al-faqih:3:2:10:1",
+        "parts": [
+          3,
+          2,
+          10,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 2,
+        "chapter": 10,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/man-la-yahduruhu-al-faqih:3:2:10",
+        "titles": {
+          "en": "Chapter on Announcing the Sale of Goods"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " كَانَ أَمِيرُ اَلْمُؤْمِنِينَ عَلَيْهِ اَلسَّلاَمُ يَقُولُ : \"إِذَا نَادَى اَلْمُنَادِي فَلَيْسَ لَكَ أَنْ تَزِيدَ فَإِذَا سَكَتَ فَلَكَ أَنْ تَزِيدَ وَ إِنَّمَا تَحْرُمُ اَلزِّيَادَةُ وَ اَلنِّدَاءُ يُسْمَعُ وَ يُحِلُّهَا اَلسُّكُوتُ \"."
+        ],
+        "text": "كَانَ أَمِيرُ اَلْمُؤْمِنِينَ عَلَيْهِ اَلسَّلاَمُ يَقُولُ : \"إِذَا نَادَى اَلْمُنَادِي فَلَيْسَ لَكَ أَنْ تَزِيدَ فَإِذَا سَكَتَ فَلَكَ أَنْ تَزِيدَ وَ إِنَّمَا تَحْرُمُ اَلزِّيَادَةُ وَ اَلنِّدَاءُ يُسْمَعُ وَ يُحِلُّهَا اَلسُّكُوتُ \"."
+      },
+      "translations": {
+        "en.bab-ul-qaim-publications": {
+          "segments": [
+            "Hadith.3979 - Umayyah ibn Amr narrated from Al-Sha'eeri, who narrated from Abu Abdullah (as), that Commander of the Faithful, peace be upon him, said:\n\"When the caller (auctioneer) announces the price, it is not permissible for you to increase the bid. However, when the caller becomes silent, then you are allowed to increase the bid. Indeed, raising the bid is prohibited while the announcement is still being heard, but it becomes permissible when silence follows.\""
+          ],
+          "text": "Hadith.3979 - Umayyah ibn Amr narrated from Al-Sha'eeri, who narrated from Abu Abdullah (as), that Commander of the Faithful, peace be upon him, said:\n\"When the caller (auctioneer) announces the price, it is not permissible for you to increase the bid. However, when the caller becomes silent, then you are allowed to increase the bid. Indeed, raising the bid is prohibited while the announcement is still being heard, but it becomes permissible when silence follows.\""
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "3979 - رَوَى أُمَيَّةُ بْنُ عَمْرٍو عَنِ اَلشَّعِيرِيِّ عَنْ أَبِي عَبْدِ اَللَّهِ عَلَيْهِ اَلسَّلاَمُ قَالَ",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "3979 - رَوَى "
+          },
+          {
+            "kind": "narrator",
+            "text": "أُمَيَّةُ بْنُ عَمْرٍو",
+            "path": "/people/narrators/1396"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "اَلشَّعِيرِيِّ",
+            "path": "/people/narrators/875"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اَللَّهِ عَلَيْهِ اَلسَّلاَمُ",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/1396",
+          "/people/narrators/875",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/man-la-yahduruhu-al-faqih:3:2:10:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/man-la-yahduruhu-al-faqih/3/2/10/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/34/2/21/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

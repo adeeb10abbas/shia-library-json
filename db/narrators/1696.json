@@ -1,0 +1,86 @@
+{
+  "id": 1696,
+  "type": "narrator",
+  "path": "/people/narrators/1696",
+  "titles": {
+    "ar": "مَنْصُورِ بْنِ بُزُرْجَ"
+  },
+  "versePaths": [
+    "/books/al-istibsar:3:50:1",
+    "/books/al-kafi:5:3:66:8",
+    "/books/al-kafi:6:8:44:6"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "11-17-1696": {
+      "narrator_ids": [
+        11,
+        17,
+        1696
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:44:6"
+      ]
+    },
+    "130-1696": {
+      "narrator_ids": [
+        130,
+        1696
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:3:50:1",
+        "/books/al-kafi:5:3:66:8"
+      ]
+    },
+    "1696-1128": {
+      "narrator_ids": [
+        1696,
+        1128
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:3:50:1"
+      ]
+    },
+    "17-1696": {
+      "narrator_ids": [
+        17,
+        1696
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:44:6"
+      ]
+    },
+    "4-29-130-1696": {
+      "narrator_ids": [
+        4,
+        29,
+        130,
+        1696
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:66:8"
+      ]
+    },
+    "645-67-130-1696-1128": {
+      "narrator_ids": [
+        645,
+        67,
+        130,
+        1696,
+        1128
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:3:50:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1696",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1696.json"
+  }
+}

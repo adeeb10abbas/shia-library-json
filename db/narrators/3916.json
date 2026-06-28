@@ -1,0 +1,56 @@
+{
+  "id": 3916,
+  "type": "narrator",
+  "path": "/people/narrators/3916",
+  "titles": {
+    "ar": "عَنِ ابْنِ أُذَيْنَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:173:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3-2-7-95-18-58-3916-56": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        95,
+        18,
+        58,
+        3916,
+        56
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:173:4"
+      ]
+    },
+    "3916-56": {
+      "narrator_ids": [
+        3916,
+        56
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:173:4"
+      ]
+    },
+    "58-3916": {
+      "narrator_ids": [
+        58,
+        3916
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:173:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3916",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3916.json"
+  }
+}

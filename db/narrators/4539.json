@@ -1,0 +1,57 @@
+{
+  "id": 4539,
+  "type": "narrator",
+  "path": "/people/narrators/4539",
+  "titles": {
+    "ar": "يَحْيَى الطَّوِيلِ صَاحِبِ الْمِنْقَرِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:1:29:1",
+    "/books/tahdhib-al-ahkam:6:79:5"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "3-2-7-4539-669": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        4539,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:1:29:1",
+        "/books/tahdhib-al-ahkam:6:79:5"
+      ]
+    },
+    "4539-669": {
+      "narrator_ids": [
+        4539,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:1:29:1",
+        "/books/tahdhib-al-ahkam:6:79:5"
+      ]
+    },
+    "7-4539": {
+      "narrator_ids": [
+        7,
+        4539
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:1:29:1",
+        "/books/tahdhib-al-ahkam:6:79:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4539",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4539.json"
+  }
+}

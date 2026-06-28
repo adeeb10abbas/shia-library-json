@@ -1,0 +1,67 @@
+{
+  "id": 3539,
+  "type": "narrator",
+  "path": "/people/narrators/3539",
+  "titles": {
+    "ar": "عَبْدِ الْكَرِيمِ مِنْ أَهْلِ هَمَدَانَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:19:8",
+    "/books/tahdhib-al-ahkam:6:80:7"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "12-27-792-3539": {
+      "narrator_ids": [
+        12,
+        27,
+        792,
+        3539
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:80:7"
+      ]
+    },
+    "3539-2046": {
+      "narrator_ids": [
+        3539,
+        2046
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:19:8"
+      ]
+    },
+    "6-12-27-792-3539-2046": {
+      "narrator_ids": [
+        6,
+        12,
+        27,
+        792,
+        3539,
+        2046
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:19:8"
+      ]
+    },
+    "792-3539": {
+      "narrator_ids": [
+        792,
+        3539
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:19:8",
+        "/books/tahdhib-al-ahkam:6:80:7"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3539",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3539.json"
+  }
+}

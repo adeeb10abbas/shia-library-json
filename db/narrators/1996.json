@@ -1,0 +1,75 @@
+{
+  "id": 1996,
+  "type": "narrator",
+  "path": "/people/narrators/1996",
+  "titles": {
+    "ar": "أَبِي الْعَبَّاسِ فَضْلٍ الْبَقْبَاقِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:2:13:2",
+    "/books/tahdhib-al-ahkam:9:43:31"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "11-2-78-218-1996": {
+      "narrator_ids": [
+        11,
+        2,
+        78,
+        218,
+        1996
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:13:2"
+      ]
+    },
+    "1996-669": {
+      "narrator_ids": [
+        1996,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:43:31"
+      ]
+    },
+    "218-1996": {
+      "narrator_ids": [
+        218,
+        1996
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:13:2"
+      ]
+    },
+    "353-1996": {
+      "narrator_ids": [
+        353,
+        1996
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:43:31"
+      ]
+    },
+    "645-912-353-1996-669": {
+      "narrator_ids": [
+        645,
+        912,
+        353,
+        1996,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:43:31"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1996",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1996.json"
+  }
+}

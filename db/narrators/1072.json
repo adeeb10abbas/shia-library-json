@@ -1,0 +1,118 @@
+{
+  "id": 1072,
+  "type": "narrator",
+  "path": "/people/narrators/1072",
+  "titles": {
+    "ar": "جَعْفَرِ بْنِ عِيسَى"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:8:9:8",
+    "/books/al-kafi:7:1:37:9",
+    "/books/al-kafi:7:6:19:17",
+    "/books/tahdhib-al-ahkam:3:22:16",
+    "/books/tahdhib-al-ahkam:7:5:24",
+    "/books/tahdhib-al-ahkam:7:8:109"
+  ],
+  "verseCount": 6,
+  "relations": {},
+  "subchains": {
+    "11-1072": {
+      "narrator_ids": [
+        11,
+        1072
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:9:8"
+      ]
+    },
+    "135-1072": {
+      "narrator_ids": [
+        135,
+        1072
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:1:37:9"
+      ]
+    },
+    "1654-17-1072": {
+      "narrator_ids": [
+        1654,
+        17,
+        1072
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:6:19:17"
+      ]
+    },
+    "17-1072": {
+      "narrator_ids": [
+        17,
+        1072
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:6:19:17"
+      ]
+    },
+    "27-1072": {
+      "narrator_ids": [
+        27,
+        1072
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:5:24",
+        "/books/tahdhib-al-ahkam:7:8:109"
+      ]
+    },
+    "312-695-13-39-577-1072": {
+      "narrator_ids": [
+        312,
+        695,
+        13,
+        39,
+        577,
+        1072
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:3:22:16"
+      ]
+    },
+    "4-5-135-1072": {
+      "narrator_ids": [
+        4,
+        5,
+        135,
+        1072
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:1:37:9"
+      ]
+    },
+    "4154-27-1072": {
+      "narrator_ids": [
+        4154,
+        27,
+        1072
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:8:109"
+      ]
+    },
+    "577-1072": {
+      "narrator_ids": [
+        577,
+        1072
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:3:22:16"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1072",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1072.json"
+  }
+}

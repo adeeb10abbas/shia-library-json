@@ -1,0 +1,54 @@
+{
+  "id": 3230,
+  "type": "narrator",
+  "path": "/people/narrators/3230",
+  "titles": {
+    "ar": "رَجُلٍ مِنْ بَنِي حَنِيفَةَ مِنْ أَهْلِ بُسْتَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:31:6"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2299-3230": {
+      "narrator_ids": [
+        2299,
+        3230
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:31:6"
+      ]
+    },
+    "3230-3308": {
+      "narrator_ids": [
+        3230,
+        3308
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:31:6"
+      ]
+    },
+    "4-59-230-2299-3230-3308": {
+      "narrator_ids": [
+        4,
+        59,
+        230,
+        2299,
+        3230,
+        3308
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:31:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3230",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3230.json"
+  }
+}

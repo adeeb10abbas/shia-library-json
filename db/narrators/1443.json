@@ -1,0 +1,44 @@
+{
+  "id": 1443,
+  "type": "narrator",
+  "path": "/people/narrators/1443",
+  "titles": {
+    "ar": "حَفْصٍ الْمُؤَذِّنِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:212:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "261-1443": {
+      "narrator_ids": [
+        261,
+        1443
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:212:5"
+      ]
+    },
+    "6-8-248-261-1443": {
+      "narrator_ids": [
+        6,
+        8,
+        248,
+        261,
+        1443
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:212:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1443",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1443.json"
+  }
+}

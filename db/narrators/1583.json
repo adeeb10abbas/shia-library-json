@@ -1,0 +1,90 @@
+{
+  "id": 1583,
+  "type": "narrator",
+  "path": "/people/narrators/1583",
+  "titles": {
+    "ar": "عَلِيِّ بْنِ مَيْسَرَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:7:1",
+    "/books/al-kafi:3:3:63:6",
+    "/books/tahdhib-al-ahkam:1:28:111"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "1583-44": {
+      "narrator_ids": [
+        1583,
+        44
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:63:6",
+        "/books/tahdhib-al-ahkam:1:28:111"
+      ]
+    },
+    "20-25-89-1583": {
+      "narrator_ids": [
+        20,
+        25,
+        89,
+        1583
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:7:1"
+      ]
+    },
+    "308-1583": {
+      "narrator_ids": [
+        308,
+        1583
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:63:6",
+        "/books/tahdhib-al-ahkam:1:28:111"
+      ]
+    },
+    "77-8-308-1583-44-669": {
+      "narrator_ids": [
+        77,
+        8,
+        308,
+        1583,
+        44,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:28:111"
+      ]
+    },
+    "8-308-1583-44-669": {
+      "narrator_ids": [
+        8,
+        308,
+        1583,
+        44,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:63:6"
+      ]
+    },
+    "89-1583": {
+      "narrator_ids": [
+        89,
+        1583
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:7:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1583",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1583.json"
+  }
+}

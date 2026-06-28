@@ -1,0 +1,100 @@
+{
+  "id": 1120,
+  "type": "narrator",
+  "path": "/people/narrators/1120",
+  "titles": {
+    "ar": "سُوَيْدٍ الْقَلَانِسِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:1:25:7",
+    "/books/al-kafi:5:1:6:3",
+    "/books/al-kafi:5:1:7:2"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "1120-465": {
+      "narrator_ids": [
+        1120,
+        465
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:1:6:3"
+      ]
+    },
+    "1120-48": {
+      "narrator_ids": [
+        1120,
+        48
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:1:25:7"
+      ]
+    },
+    "1120-886": {
+      "narrator_ids": [
+        1120,
+        886
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:1:7:2"
+      ]
+    },
+    "4-29-88-1120-48-14": {
+      "narrator_ids": [
+        4,
+        29,
+        88,
+        1120,
+        48,
+        14
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:1:25:7"
+      ]
+    },
+    "4-29-88-1120-886-669": {
+      "narrator_ids": [
+        4,
+        29,
+        88,
+        1120,
+        886,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:1:7:2"
+      ]
+    },
+    "88-1120": {
+      "narrator_ids": [
+        88,
+        1120
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:1:25:7",
+        "/books/al-kafi:5:1:6:3",
+        "/books/al-kafi:5:1:7:2"
+      ]
+    },
+    "88-1120-465-669": {
+      "narrator_ids": [
+        88,
+        1120,
+        465,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:1:6:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1120",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1120.json"
+  }
+}

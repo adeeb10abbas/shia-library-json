@@ -1,0 +1,53 @@
+{
+  "id": 2588,
+  "type": "narrator",
+  "path": "/people/narrators/2588",
+  "titles": {
+    "ar": "الْحَسَنِ بْنِ مُعَاوِيَةَ بْنِ وَهْبٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:49:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "248-2588": {
+      "narrator_ids": [
+        248,
+        2588
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:49:4"
+      ]
+    },
+    "2588-2": {
+      "narrator_ids": [
+        2588,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:49:4"
+      ]
+    },
+    "6-8-248-2588-2": {
+      "narrator_ids": [
+        6,
+        8,
+        248,
+        2588,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:49:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2588",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2588.json"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": 1680,
+  "type": "narrator",
+  "path": "/people/narrators/1680",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ مَسْعُودٍ الطَّائِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:3:38:3",
+    "/books/al-kafi:7:1:23:17",
+    "/books/tahdhib-al-ahkam:1:39:114"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "124-1680": {
+      "narrator_ids": [
+        124,
+        1680
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:38:3",
+        "/books/tahdhib-al-ahkam:1:39:114"
+      ]
+    },
+    "16-1680": {
+      "narrator_ids": [
+        16,
+        1680
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:1:23:17"
+      ]
+    },
+    "1680-449": {
+      "narrator_ids": [
+        1680,
+        449
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:38:3",
+        "/books/tahdhib-al-ahkam:1:39:114"
+      ]
+    },
+    "19-24-30-16-1680": {
+      "narrator_ids": [
+        19,
+        24,
+        30,
+        16,
+        1680
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:1:23:17"
+      ]
+    },
+    "395-107-124-1680-449-669": {
+      "narrator_ids": [
+        395,
+        107,
+        124,
+        1680,
+        449,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:38:3"
+      ]
+    },
+    "49-107-124-1680-449-669": {
+      "narrator_ids": [
+        49,
+        107,
+        124,
+        1680,
+        449,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:39:114"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1680",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1680.json"
+  }
+}

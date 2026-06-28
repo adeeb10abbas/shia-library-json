@@ -1,0 +1,64 @@
+{
+  "id": 1629,
+  "type": "narrator",
+  "path": "/people/narrators/1629",
+  "titles": {
+    "ar": "مَالِكِ بْنِ حُصَيْنٍ السَّكُونِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:54:5",
+    "/books/al-kafi:4:1:16:3"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "274-12-101-42-1629": {
+      "narrator_ids": [
+        274,
+        12,
+        101,
+        42,
+        1629
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:16:3"
+      ]
+    },
+    "3-37-1629": {
+      "narrator_ids": [
+        3,
+        37,
+        1629
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:54:5"
+      ]
+    },
+    "37-1629": {
+      "narrator_ids": [
+        37,
+        1629
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:54:5"
+      ]
+    },
+    "42-1629": {
+      "narrator_ids": [
+        42,
+        1629
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:16:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1629",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1629.json"
+  }
+}

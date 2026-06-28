@@ -1,0 +1,53 @@
+{
+  "id": 3494,
+  "type": "narrator",
+  "path": "/people/narrators/3494",
+  "titles": {
+    "ar": "عَبْدِ الرَّحْمَنِ بْنِ زَيْدِ بْنِ أَسْلَمَ التَّنُوكِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:8:22:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-67-73-3494-669": {
+      "narrator_ids": [
+        11,
+        67,
+        73,
+        3494,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:22:3"
+      ]
+    },
+    "3494-669": {
+      "narrator_ids": [
+        3494,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:22:3"
+      ]
+    },
+    "73-3494": {
+      "narrator_ids": [
+        73,
+        3494
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:22:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3494",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3494.json"
+  }
+}

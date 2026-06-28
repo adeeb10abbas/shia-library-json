@@ -1,0 +1,66 @@
+{
+  "id": 3349,
+  "type": "narrator",
+  "path": "/people/narrators/3349",
+  "titles": {
+    "ar": "سَلْمَانَ",
+    "en": "Salman"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:115:10",
+    "/books/kitab-al-zuhd:2:7:3"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "20-25-248-68-3349": {
+      "narrator_ids": [
+        20,
+        25,
+        248,
+        68,
+        3349
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:115:10"
+      ]
+    },
+    "3284-3349": {
+      "narrator_ids": [
+        3284,
+        3349
+      ],
+      "verse_paths": [
+        "/books/kitab-al-zuhd:2:7:3"
+      ]
+    },
+    "68-3349": {
+      "narrator_ids": [
+        68,
+        3349
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:115:10"
+      ]
+    },
+    "69-52-3284-3349": {
+      "narrator_ids": [
+        69,
+        52,
+        3284,
+        3349
+      ],
+      "verse_paths": [
+        "/books/kitab-al-zuhd:2:7:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3349",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3349.json"
+  }
+}

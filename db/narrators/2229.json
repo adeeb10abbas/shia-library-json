@@ -1,0 +1,51 @@
+{
+  "id": 2229,
+  "type": "narrator",
+  "path": "/people/narrators/2229",
+  "titles": {
+    "ar": "أَبِي يَحْيَى كَوْكَبِ الدَّمِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:44:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "10-2229": {
+      "narrator_ids": [
+        10,
+        2229
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:44:5"
+      ]
+    },
+    "10-2229-669": {
+      "narrator_ids": [
+        10,
+        2229,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:44:5"
+      ]
+    },
+    "2229-669": {
+      "narrator_ids": [
+        2229,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:44:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2229",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2229.json"
+  }
+}

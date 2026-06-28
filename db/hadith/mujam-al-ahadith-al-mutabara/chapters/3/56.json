@@ -1,0 +1,109 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "mujam-al-ahadith-al-mutabara",
+  "chapterPath": "/books/mujam-al-ahadith-al-mutabara:3:56",
+  "chapter": {
+    "path": "/books/mujam-al-ahadith-al-mutabara:3:56",
+    "titles": {
+      "en": "Abdallah b. Shubruma"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "mujam-al-ahadith-al-mutabara:3:56:1",
+      "type": "hadith",
+      "book": {
+        "slug": "mujam-al-ahadith-al-mutabara",
+        "titles": {
+          "ar": "معجم الأحاديث المعتبرة",
+          "en": "Mu'jam al-Ahadith al-Mu'tabara"
+        },
+        "author": {
+          "en": "Muhammad Asif al-Muhsini"
+        }
+      },
+      "path": {
+        "source": "/books/mujam-al-ahadith-al-mutabara:3:56:1",
+        "parts": [
+          3,
+          56,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 56,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/mujam-al-ahadith-al-mutabara:3:56",
+        "titles": {
+          "en": "Abdallah b. Shubruma"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": قيل له: إن رجلا تزوج بجارية صغيرة فأرضعتها امرأته، ثم أرضعتها امرأة له أخرى، فقال ابن شبرمة: حرمت عليه الجارية وامرأتاه، فقال أبو جعفر عليه السلام: أخطأ ابن شبرمة، حرمت عليه الجارية وامرأته التي أرضعتها أولا، فأما الأخيرة فلم تحرم عليه، كأنها أرضعت ابنته"
+        ],
+        "text": ": قيل له: إن رجلا تزوج بجارية صغيرة فأرضعتها امرأته، ثم أرضعتها امرأة له أخرى، فقال ابن شبرمة: حرمت عليه الجارية وامرأتاه، فقال أبو جعفر عليه السلام: أخطأ ابن شبرمة، حرمت عليه الجارية وامرأته التي أرضعتها أولا، فأما الأخيرة فلم تحرم عليه، كأنها أرضعت ابنته"
+      },
+      "translations": {
+        "en.ammaar-muslim": {
+          "segments": [
+            "1. [1/-] al-Kafi: Ali b. Muhammad from Salih b. Abi Hammad from Ali b. Mahziyar raising it to Abi Ja`far [al-Baqir] عليه السلام. He [Ali b. Mahziyar] said: it was said to him [the Imam]: a man marries a small girl who goes on to be breast-fed by one of his wives and then by another wife, Ibn Shubruma said [about this]: the small girl and both of his wives are prohibited for him [he cannot continue in marriage with them]. Abu Ja`far عليه السلام said: Ibn Shubruma has made a mistake, only the small girl and the wife who breast-fed her first are prohibited for him, as for the other wife [who breast-fed second] she is not prohibited for him because it is as though she breast-fed his daughter."
+          ],
+          "text": "1. [1/-] al-Kafi: Ali b. Muhammad from Salih b. Abi Hammad from Ali b. Mahziyar raising it to Abi Ja`far [al-Baqir] عليه السلام. He [Ali b. Mahziyar] said: it was said to him [the Imam]: a man marries a small girl who goes on to be breast-fed by one of his wives and then by another wife, Ibn Shubruma said [about this]: the small girl and both of his wives are prohibited for him [he cannot continue in marriage with them]. Abu Ja`far عليه السلام said: Ibn Shubruma has made a mistake, only the small girl and the wife who breast-fed her first are prohibited for him, as for the other wife [who breast-fed second] she is not prohibited for him because it is as though she breast-fed his daughter."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "[-/1] الكافي: علي بن محمد، عن صالح بن أبي حماد، عن علي بن مهزيار، رواه عن أبي جعفر عليه السلام قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "[-/1] الكافي: علي بن محمد،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "صالح بن أبي حماد،",
+            "path": "/people/narrators/166"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "علي بن مهزيار، رواه"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي جعفر عليه السلام قال",
+            "path": "/people/narrators/9"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/166",
+          "/people/narrators/9"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/mujam-al-ahadith-al-mutabara:3:56:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/mujam-al-ahadith-al-mutabara/3/56/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/9/3/57/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "id": 748,
+  "type": "narrator",
+  "path": "/people/narrators/748",
+  "titles": {
+    "ar": "أَبِي عَبْدِ اللَّهِ ( عليه السلام ) أَوْ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:5:32:5",
+    "/books/al-kafi:5:1:9:4",
+    "/books/al-kafi:5:3:35:1",
+    "/books/al-kafi:6:6:74:3"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "20-25-432-603-748": {
+      "narrator_ids": [
+        20,
+        25,
+        432,
+        603,
+        748
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:74:3"
+      ]
+    },
+    "3-2-7-4175-748-64": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        4175,
+        748,
+        64
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:1:9:4"
+      ]
+    },
+    "3-2-7-748-64": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        748,
+        64
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:5:32:5"
+      ]
+    },
+    "36-748": {
+      "narrator_ids": [
+        36,
+        748
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:35:1"
+      ]
+    },
+    "4-5-22-56-36-748-9": {
+      "narrator_ids": [
+        4,
+        5,
+        22,
+        56,
+        36,
+        748,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:35:1"
+      ]
+    },
+    "4175-748": {
+      "narrator_ids": [
+        4175,
+        748
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:1:9:4"
+      ]
+    },
+    "603-748": {
+      "narrator_ids": [
+        603,
+        748
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:74:3"
+      ]
+    },
+    "7-748": {
+      "narrator_ids": [
+        7,
+        748
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:5:32:5"
+      ]
+    },
+    "748-64": {
+      "narrator_ids": [
+        748,
+        64
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:5:32:5",
+        "/books/al-kafi:5:1:9:4"
+      ]
+    },
+    "748-9": {
+      "narrator_ids": [
+        748,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:35:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/748",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/748.json"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": 2009,
+  "type": "narrator",
+  "path": "/people/narrators/2009",
+  "titles": {
+    "ar": "أَبِي الْفَوَارِسِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:4:84:7",
+    "/books/tahdhib-al-ahkam:2:8:186"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "1077-2009": {
+      "narrator_ids": [
+        1077,
+        2009
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:84:7",
+        "/books/tahdhib-al-ahkam:2:8:186"
+      ]
+    },
+    "4-167-529-4-1077-2009": {
+      "narrator_ids": [
+        4,
+        167,
+        529,
+        4,
+        1077,
+        2009
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:84:7"
+      ]
+    },
+    "4134-781-2654-4-1077-2009": {
+      "narrator_ids": [
+        4134,
+        781,
+        2654,
+        4,
+        1077,
+        2009
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:8:186"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2009",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2009.json"
+  }
+}

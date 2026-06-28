@@ -1,0 +1,546 @@
+{
+  "id": 359,
+  "type": "narrator",
+  "path": "/people/narrators/359",
+  "titles": {
+    "ar": "عَمْرِو بْنِ جُمَيْعٍ",
+    "en": "Amr ibn Jumi'"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:194:4",
+    "/books/al-kafi:2:1:196:8",
+    "/books/al-kafi:2:1:42:3",
+    "/books/al-kafi:2:1:45:6",
+    "/books/al-kafi:2:1:56:11",
+    "/books/al-kafi:2:2:1:4",
+    "/books/al-kafi:2:3:13:5",
+    "/books/al-kafi:2:3:2:5",
+    "/books/al-kafi:3:4:48:6",
+    "/books/al-kafi:3:5:2:6",
+    "/books/al-kafi:5:1:12:1",
+    "/books/al-kafi:5:2:3:5",
+    "/books/al-kafi:5:2:52:1",
+    "/books/al-kafi:5:3:190:59",
+    "/books/al-kafi:5:3:4:7",
+    "/books/al-kafi:6:6:48:4",
+    "/books/al-kafi:6:6:49:5",
+    "/books/al-kafi:6:6:49:6",
+    "/books/al-kafi:6:9:2:8",
+    "/books/man-la-yahduruhu-al-faqih:3:1:35:8",
+    "/books/tahdhib-al-ahkam:1:39:171",
+    "/books/tahdhib-al-ahkam:3:25:38",
+    "/books/tahdhib-al-ahkam:3:26:45",
+    "/books/tahdhib-al-ahkam:4:45:8",
+    "/books/tahdhib-al-ahkam:4:50:2",
+    "/books/tahdhib-al-ahkam:6:78:1",
+    "/books/tahdhib-al-ahkam:7:1:73",
+    "/books/tahdhib-al-ahkam:7:33:14",
+    "/books/thawab-al-amal:2:1:4",
+    "/books/thawab-al-amal:3:18:11"
+  ],
+  "verseCount": 30,
+  "relations": {},
+  "subchains": {
+    "1021-359": {
+      "narrator_ids": [
+        1021,
+        359
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:194:4",
+        "/books/al-kafi:2:1:196:8",
+        "/books/al-kafi:5:2:3:5"
+      ]
+    },
+    "1025-359": {
+      "narrator_ids": [
+        1025,
+        359
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:48:6",
+        "/books/tahdhib-al-ahkam:3:26:45"
+      ]
+    },
+    "1028-1118-1521-1025-359": {
+      "narrator_ids": [
+        1028,
+        1118,
+        1521,
+        1025,
+        359
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:48:6"
+      ]
+    },
+    "11-29-763-727-359-50": {
+      "narrator_ids": [
+        11,
+        29,
+        763,
+        727,
+        359,
+        50
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:3:25:38"
+      ]
+    },
+    "11-5-3-2-7-1021-359": {
+      "narrator_ids": [
+        11,
+        5,
+        3,
+        2,
+        7,
+        1021,
+        359
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:196:8"
+      ]
+    },
+    "11-763-359-669": {
+      "narrator_ids": [
+        11,
+        763,
+        359,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:4:45:8"
+      ]
+    },
+    "11-763-359-669-2": {
+      "narrator_ids": [
+        11,
+        763,
+        359,
+        669,
+        2
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:33:14"
+      ]
+    },
+    "12-359": {
+      "narrator_ids": [
+        12,
+        359
+      ],
+      "verse_paths": [
+        "/books/thawab-al-amal:3:18:11"
+      ]
+    },
+    "1201-359": {
+      "narrator_ids": [
+        1201,
+        359
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:1:4",
+        "/books/al-kafi:2:3:13:5"
+      ]
+    },
+    "1688-359": {
+      "narrator_ids": [
+        1688,
+        359
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:4:7",
+        "/books/al-kafi:6:9:2:8",
+        "/books/tahdhib-al-ahkam:1:39:171"
+      ]
+    },
+    "19-528-49-324-763-727-359-669": {
+      "narrator_ids": [
+        19,
+        528,
+        49,
+        324,
+        763,
+        727,
+        359,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:3:2:5"
+      ]
+    },
+    "2-359": {
+      "narrator_ids": [
+        2,
+        359
+      ],
+      "verse_paths": [
+        "/books/thawab-al-amal:2:1:4"
+      ]
+    },
+    "237-763-359-669-2": {
+      "narrator_ids": [
+        237,
+        763,
+        359,
+        669,
+        2
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:4:50:2"
+      ]
+    },
+    "26-359": {
+      "narrator_ids": [
+        26,
+        359
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:42:3"
+      ]
+    },
+    "29-763-1688-359-669": {
+      "narrator_ids": [
+        29,
+        763,
+        1688,
+        359,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:39:171"
+      ]
+    },
+    "3-2-7-1021-359": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        1021,
+        359
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:194:4"
+      ]
+    },
+    "3-27-26-359-669": {
+      "narrator_ids": [
+        3,
+        27,
+        26,
+        359,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:42:3"
+      ]
+    },
+    "359-312": {
+      "narrator_ids": [
+        359,
+        312
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:3:13:5"
+      ]
+    },
+    "359-50": {
+      "narrator_ids": [
+        359,
+        50
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:3:25:38"
+      ]
+    },
+    "359-669": {
+      "narrator_ids": [
+        359,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:42:3",
+        "/books/al-kafi:2:1:45:6",
+        "/books/al-kafi:2:1:56:11",
+        "/books/al-kafi:2:2:1:4",
+        "/books/al-kafi:2:3:2:5",
+        "/books/al-kafi:3:5:2:6",
+        "/books/al-kafi:5:1:12:1",
+        "/books/al-kafi:5:2:52:1",
+        "/books/al-kafi:5:3:190:59",
+        "/books/al-kafi:5:3:4:7",
+        "/books/al-kafi:6:6:48:4",
+        "/books/al-kafi:6:6:49:6",
+        "/books/al-kafi:6:9:2:8",
+        "/books/man-la-yahduruhu-al-faqih:3:1:35:8",
+        "/books/tahdhib-al-ahkam:1:39:171",
+        "/books/tahdhib-al-ahkam:4:45:8",
+        "/books/tahdhib-al-ahkam:4:50:2",
+        "/books/tahdhib-al-ahkam:7:1:73",
+        "/books/tahdhib-al-ahkam:7:33:14",
+        "/books/thawab-al-amal:3:18:11"
+      ]
+    },
+    "359-669-2": {
+      "narrator_ids": [
+        359,
+        669,
+        2
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:3:1:35:8"
+      ]
+    },
+    "378-359": {
+      "narrator_ids": [
+        378,
+        359
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:48:4",
+        "/books/al-kafi:6:6:49:5"
+      ]
+    },
+    "41-359": {
+      "narrator_ids": [
+        41,
+        359
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:190:59"
+      ]
+    },
+    "4154-187-763-727-359": {
+      "narrator_ids": [
+        4154,
+        187,
+        763,
+        727,
+        359
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:78:1"
+      ]
+    },
+    "49-324-378-1201-359-312": {
+      "narrator_ids": [
+        49,
+        324,
+        378,
+        1201,
+        359,
+        312
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:3:13:5"
+      ]
+    },
+    "49-324-378-1201-359-669": {
+      "narrator_ids": [
+        49,
+        324,
+        378,
+        1201,
+        359,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:1:4"
+      ]
+    },
+    "49-324-378-1688-359-669": {
+      "narrator_ids": [
+        49,
+        324,
+        378,
+        1688,
+        359,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:9:2:8"
+      ]
+    },
+    "49-324-378-359": {
+      "narrator_ids": [
+        49,
+        324,
+        378,
+        359
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:49:5"
+      ]
+    },
+    "49-324-378-359-669": {
+      "narrator_ids": [
+        49,
+        324,
+        378,
+        359,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:48:4"
+      ]
+    },
+    "49-324-378-727-359-669": {
+      "narrator_ids": [
+        49,
+        324,
+        378,
+        727,
+        359,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:45:6",
+        "/books/al-kafi:2:1:56:11",
+        "/books/al-kafi:3:5:2:6",
+        "/books/al-kafi:5:1:12:1",
+        "/books/al-kafi:5:2:52:1"
+      ]
+    },
+    "49-623-1343-1688-359-669": {
+      "narrator_ids": [
+        49,
+        623,
+        1343,
+        1688,
+        359,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:4:7"
+      ]
+    },
+    "6-12-41-359-669": {
+      "narrator_ids": [
+        6,
+        12,
+        41,
+        359,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:190:59"
+      ]
+    },
+    "6-13-669-703-1021-359": {
+      "narrator_ids": [
+        6,
+        13,
+        669,
+        703,
+        1021,
+        359
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:3:5"
+      ]
+    },
+    "727-359": {
+      "narrator_ids": [
+        727,
+        359
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:45:6",
+        "/books/al-kafi:2:1:56:11",
+        "/books/al-kafi:2:3:2:5",
+        "/books/al-kafi:3:5:2:6",
+        "/books/al-kafi:5:1:12:1",
+        "/books/al-kafi:5:2:52:1",
+        "/books/tahdhib-al-ahkam:3:25:38",
+        "/books/tahdhib-al-ahkam:6:78:1",
+        "/books/tahdhib-al-ahkam:7:1:73"
+      ]
+    },
+    "763-359": {
+      "narrator_ids": [
+        763,
+        359
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:4:45:8",
+        "/books/tahdhib-al-ahkam:4:50:2",
+        "/books/tahdhib-al-ahkam:7:33:14"
+      ]
+    },
+    "77-12-359-669": {
+      "narrator_ids": [
+        77,
+        12,
+        359,
+        669
+      ],
+      "verse_paths": [
+        "/books/thawab-al-amal:3:18:11"
+      ]
+    },
+    "77-359": {
+      "narrator_ids": [
+        77,
+        359
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:49:6"
+      ]
+    },
+    "77-359-669": {
+      "narrator_ids": [
+        77,
+        359,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:49:6"
+      ]
+    },
+    "77-529-2-359": {
+      "narrator_ids": [
+        77,
+        529,
+        2,
+        359
+      ],
+      "verse_paths": [
+        "/books/thawab-al-amal:2:1:4"
+      ]
+    },
+    "952-1028-1118-1521-1025-359": {
+      "narrator_ids": [
+        952,
+        1028,
+        1118,
+        1521,
+        1025,
+        359
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:3:26:45"
+      ]
+    },
+    "952-49-324-727-359-669": {
+      "narrator_ids": [
+        952,
+        49,
+        324,
+        727,
+        359,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:1:73"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/359",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/359.json"
+  }
+}

@@ -1,0 +1,575 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:6:1:15",
+  "chapter": {
+    "path": "/books/al-kafi:6:1:15",
+    "titles": {
+      "ar": "باب أَنَّ عَقِيقَةَ الذَّكَرِ وَ الْأُنْثَى سَوَاءٌ",
+      "en": "Chapter 15 – The Aqeeqa of the male and the female is the same"
+    }
+  },
+  "count": 4,
+  "records": [
+    {
+      "id": "al-kafi:6:1:15:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:1:15:1",
+        "parts": [
+          6,
+          1,
+          15,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 1,
+        "chapter": 15,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:1:15",
+        "titles": {
+          "ar": "باب أَنَّ عَقِيقَةَ الذَّكَرِ وَ الْأُنْثَى سَوَاءٌ",
+          "en": "Chapter 15 – The Aqeeqa of the male and the female is the same"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَأَلْتُهُ عَنِ الْعَقِيقَةِ فَقَالَ فِي الذَّكَرِ وَ الْأُنْثَى سَوَاءٌ ."
+        ],
+        "text": "سَأَلْتُهُ عَنِ الْعَقِيقَةِ فَقَالَ فِي الذَّكَرِ وَ الْأُنْثَى سَوَاءٌ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Ahmad Bin Muhammad Bin Khalid, from Usman Bin Isa, from Sama’at who said, ",
+            "‘I asked him<sup>asws</sup> about the <span class=\"iTxt\">Aqeeqa</span>, so he<sup>asws</sup> said: ‘Regarding the male and the female, is the same’."
+          ],
+          "text": "A number of our companions, from Ahmad Bin Muhammad Bin Khalid, from Usman Bin Isa, from Sama’at who said,\n\n‘I asked him<sup>asws</sup> about the <span class=\"iTxt\">Aqeeqa</span>, so he<sup>asws</sup> said: ‘Regarding the male and the female, is the same’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. A number of our people have narrated from Ahmad ibn Muhammad from ibn Khalid from ‘Uthman ibn ‘Isa from Sama‘ah who has said the following: “I once asked him (the Imam), ‘Alayhi al-Salam, about ‘Aqiqah and he (the Imam) said, ‘It is the same for both male and female.”’ "
+          ],
+          "text": "1. A number of our people have narrated from Ahmad ibn Muhammad from ibn Khalid from ‘Uthman ibn ‘Isa from Sama‘ah who has said the following: “I once asked him (the Imam), ‘Alayhi al-Salam, about ‘Aqiqah and he (the Imam) said, ‘It is the same for both male and female.”’"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> موثق    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (21/47)",
+          "label": "موثق",
+          "text": "Allamah Baqir al-Majlisi: موثق - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (21/47)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ خَالِدٍ عَنْ عُثْمَانَ بْنِ عِيسَى عَنْ سَمَاعَةَ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدِ بْنِ خَالِدٍ",
+            "path": "/people/narrators/12"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عُثْمَانَ بْنِ عِيسَى",
+            "path": "/people/narrators/41"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَمَاعَةَ",
+            "path": "/people/narrators/48"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/12",
+          "/people/narrators/41",
+          "/people/narrators/48"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:1:15:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/1/15/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:1:15:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:1:15:2",
+        "parts": [
+          6,
+          1,
+          15,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 1,
+        "chapter": 15,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:1:15",
+        "titles": {
+          "ar": "باب أَنَّ عَقِيقَةَ الذَّكَرِ وَ الْأُنْثَى سَوَاءٌ",
+          "en": "Chapter 15 – The Aqeeqa of the male and the female is the same"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " الْعَقِيقَةُ فِي الْغُلَامِ وَ الْجَارِيَةِ سَوَاءٌ ."
+        ],
+        "text": "الْعَقِيقَةُ فِي الْغُلَامِ وَ الْجَارِيَةِ سَوَاءٌ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Abu Ali Al Ashary, from Muhammad Bin Abdul Jabbar, and Muhammad Bin Ismail, from Al Sazl Bin Shazaan, both together from Safwan, from Mansour Bin Hazim, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The <span class=\"iTxt\">Aqeeqa</span> regarding the boy and the girl, is the same’."
+          ],
+          "text": "Abu Ali Al Ashary, from Muhammad Bin Abdul Jabbar, and Muhammad Bin Ismail, from Al Sazl Bin Shazaan, both together from Safwan, from Mansour Bin Hazim,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The <span class=\"iTxt\">Aqeeqa</span> regarding the boy and the girl, is the same’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. Abu Ali al-Ash‘ariy has narrated from Muhammad ‘Abd al-Jabbar and Muhammad ibn ’Isma‘il has narrated from al-Fadl ibn Shadhan from all Safwan from Mansur ibn Hazim who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘ ‘Aqiqah for boys and girls is the same.’” "
+          ],
+          "text": "2. Abu Ali al-Ash‘ariy has narrated from Muhammad ‘Abd al-Jabbar and Muhammad ibn ’Isma‘il has narrated from al-Fadl ibn Shadhan from all Safwan from Mansur ibn Hazim who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘ ‘Aqiqah for boys and girls is the same.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> صحيح   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (1/47)",
+          "label": "صحيح",
+          "text": "Allamah Baqir al-Majlisi: صحيح - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (1/47)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "أَبُو عَلِيٍّ الْأَشْعَرِيُّ عَنْ مُحَمَّدِ بْنِ عَبْدِ الْجَبَّارِ وَ مُحَمَّدُ بْنُ إِسْمَاعِيلَ عَنِ الْفَضْلِ بْنِ شَاذَانَ جَمِيعاً عَنْ صَفْوَانَ عَنْ مَنْصُورِ بْنِ حَازِمٍ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "أَبُو عَلِيٍّ الْأَشْعَرِيُّ",
+            "path": "/people/narrators/19"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ عَبْدِ الْجَبَّارِ",
+            "path": "/people/narrators/24"
+          },
+          {
+            "kind": "plain",
+            "text": " وَ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ إِسْمَاعِيلَ",
+            "path": "/people/narrators/17"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْفَضْلِ بْنِ شَاذَانَ",
+            "path": "/people/narrators/33"
+          },
+          {
+            "kind": "plain",
+            "text": " جَمِيعاً عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "صَفْوَانَ",
+            "path": "/people/narrators/43"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مَنْصُورِ بْنِ حَازِمٍ",
+            "path": "/people/narrators/108"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/19",
+          "/people/narrators/24",
+          "/people/narrators/17",
+          "/people/narrators/33",
+          "/people/narrators/43",
+          "/people/narrators/108",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:1:15:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/1/15/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:1:15:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:1:15:3",
+        "parts": [
+          6,
+          1,
+          15,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 1,
+        "chapter": 15,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:1:15",
+        "titles": {
+          "ar": "باب أَنَّ عَقِيقَةَ الذَّكَرِ وَ الْأُنْثَى سَوَاءٌ",
+          "en": "Chapter 15 – The Aqeeqa of the male and the female is the same"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَأَلْتُهُ عَنِ الْعَقِيقَةِ فَقَالَ عَقِيقَةُ الْغُلَامِ وَ الْجَارِيَةِ كَبْشٌ كَبْشٌ ."
+        ],
+        "text": "سَأَلْتُهُ عَنِ الْعَقِيقَةِ فَقَالَ عَقِيقَةُ الْغُلَامِ وَ الْجَارِيَةِ كَبْشٌ كَبْشٌ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father, from Ismail Bin Marrar, from Yunus, from Ibn Muskan, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup>, said, I asked him<sup>asws</sup> about the <span class=\"iTxt\">Aqeeqa</span>, so he<sup>asws</sup> said: ‘<span class=\"iTxt\">Aqeeqa</span> of the boy and the girl, is a ram, a ram’."
+          ],
+          "text": "Ali Bin Ibrahim, from his father, from Ismail Bin Marrar, from Yunus, from Ibn Muskan,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup>, said, I asked him<sup>asws</sup> about the <span class=\"iTxt\">Aqeeqa</span>, so he<sup>asws</sup> said: ‘<span class=\"iTxt\">Aqeeqa</span> of the boy and the girl, is a ram, a ram’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "3. Ali ibn Ibrahim has narrated from his father from ’Isma‘il ibn Marrar Yunus from ibn Muskan who has said the following: “I once asked abu ‘Abd Allah, ‘Alayhi al-Salam, about ‘Aqiqah and he (the Imam) said, ‘ ‘Aqiqah for a boy and a girl is the same, one ram for this and one ram for this.’” "
+          ],
+          "text": "3. Ali ibn Ibrahim has narrated from his father from ’Isma‘il ibn Marrar Yunus from ibn Muskan who has said the following: “I once asked abu ‘Abd Allah, ‘Alayhi al-Salam, about ‘Aqiqah and he (the Imam) said, ‘ ‘Aqiqah for a boy and a girl is the same, one ram for this and one ram for this.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مجهول    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (21/47)",
+          "label": "مجهول",
+          "text": "Allamah Baqir al-Majlisi: مجهول - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (21/47)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنْ إِسْمَاعِيلَ بْنِ مَرَّارٍ عَنْ يُونُسَ عَنِ ابْنِ مُسْكَانَ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "إِسْمَاعِيلَ بْنِ مَرَّارٍ",
+            "path": "/people/narrators/106"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "يُونُسَ",
+            "path": "/people/narrators/26"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ مُسْكَانَ",
+            "path": "/people/narrators/51"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/106",
+          "/people/narrators/26",
+          "/people/narrators/51",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:1:15:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/1/15/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:1:15:4",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:1:15:4",
+        "parts": [
+          6,
+          1,
+          15,
+          4
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 1,
+        "chapter": 15,
+        "hadith": 4
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:1:15",
+        "titles": {
+          "ar": "باب أَنَّ عَقِيقَةَ الذَّكَرِ وَ الْأُنْثَى سَوَاءٌ",
+          "en": "Chapter 15 – The Aqeeqa of the male and the female is the same"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " عَقِيقَةُ الْغُلَامِ وَ الْجَارِيَةِ كَبْشٌ ."
+        ],
+        "text": "عَقِيقَةُ الْغُلَامِ وَ الْجَارِيَةِ كَبْشٌ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Ahmad Bin Muhammad, from Al Husayn Bin Saeed, from Hammad, from Shuayb, from Abu Baseer, ",
+            "Abu Abdullah<sup>asws</sup> has said: ‘<span class=\"iTxt\">Aqeeqa</span> of the boy and the girl, is a ram’."
+          ],
+          "text": "A number of our companions, from Ahmad Bin Muhammad, from Al Husayn Bin Saeed, from Hammad, from Shuayb, from Abu Baseer,\n\nAbu Abdullah<sup>asws</sup> has said: ‘<span class=\"iTxt\">Aqeeqa</span> of the boy and the girl, is a ram’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "4. A number of our people have narrated from Ahmad ibn Muhammad from al-Husayn ibn Sa‘id from Hammad ibn Shu’ayb from abu Basir who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘ ‘Aqiqah for a boy or a girl is one ram.’” "
+          ],
+          "text": "4. A number of our people have narrated from Ahmad ibn Muhammad from al-Husayn ibn Sa‘id from Hammad ibn Shu’ayb from abu Basir who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘ ‘Aqiqah for a boy or a girl is one ram.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> صحيح   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (21/47)",
+          "label": "صحيح",
+          "text": "Allamah Baqir al-Majlisi: صحيح - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (21/47)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنِ الْحُسَيْنِ بْنِ سَعِيدٍ عَنْ حَمَّادٍ عَنْ شُعَيْبٍ عَنْ أَبِي بَصِيرٍ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحُسَيْنِ بْنِ سَعِيدٍ",
+            "path": "/people/narrators/21"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "حَمَّادٍ",
+            "path": "/people/narrators/23"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "شُعَيْبٍ",
+            "path": "/people/narrators/289"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي بَصِيرٍ",
+            "path": "/people/narrators/14"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/5",
+          "/people/narrators/21",
+          "/people/narrators/23",
+          "/people/narrators/289",
+          "/people/narrators/14",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:1:15:4",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/1/15/4.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

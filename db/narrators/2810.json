@@ -1,0 +1,51 @@
+{
+  "id": 2810,
+  "type": "narrator",
+  "path": "/people/narrators/2810",
+  "titles": {
+    "ar": "النَّضْرِ بْنِ صَبَّاحٍ الْبَجَلِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:125:11"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2810-4348": {
+      "narrator_ids": [
+        2810,
+        4348
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:125:11"
+      ]
+    },
+    "50-2810": {
+      "narrator_ids": [
+        50,
+        2810
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:125:11"
+      ]
+    },
+    "50-2810-4348": {
+      "narrator_ids": [
+        50,
+        2810,
+        4348
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:125:11"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2810",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2810.json"
+  }
+}

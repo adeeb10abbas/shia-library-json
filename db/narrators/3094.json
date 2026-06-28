@@ -1,0 +1,59 @@
+{
+  "id": 3094,
+  "type": "narrator",
+  "path": "/people/narrators/3094",
+  "titles": {
+    "ar": "حَكِيمِ بْنِ جُبَيْرٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:7:9:6",
+    "/books/kamil-al-ziyarat:2:13:7"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "2-3094": {
+      "narrator_ids": [
+        2,
+        3094
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:9:6",
+        "/books/kamil-al-ziyarat:2:13:7"
+      ]
+    },
+    "20-36-244-174-2-3094": {
+      "narrator_ids": [
+        20,
+        36,
+        244,
+        174,
+        2,
+        3094
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:9:6"
+      ]
+    },
+    "234-12-174-2-3094": {
+      "narrator_ids": [
+        234,
+        12,
+        174,
+        2,
+        3094
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:13:7"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3094",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3094.json"
+  }
+}

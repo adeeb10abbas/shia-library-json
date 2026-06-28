@@ -1,0 +1,89 @@
+{
+  "id": 1589,
+  "type": "narrator",
+  "path": "/people/narrators/1589",
+  "titles": {
+    "ar": "عَمْرِو بْنِ الْبَرَاءِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:2:10:4",
+    "/books/al-kafi:7:7:7:5",
+    "/books/tahdhib-al-ahkam:8:3:86"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "11-49-94-285-801-913-1589": {
+      "narrator_ids": [
+        11,
+        49,
+        94,
+        285,
+        801,
+        913,
+        1589
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:8:3:86"
+      ]
+    },
+    "15-1589": {
+      "narrator_ids": [
+        15,
+        1589
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:7:7:5"
+      ]
+    },
+    "356-1589": {
+      "narrator_ids": [
+        356,
+        1589
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:10:4"
+      ]
+    },
+    "49-94-285-801-356-1589": {
+      "narrator_ids": [
+        49,
+        94,
+        285,
+        801,
+        356,
+        1589
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:10:4"
+      ]
+    },
+    "5-15-1589": {
+      "narrator_ids": [
+        5,
+        15,
+        1589
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:7:7:5"
+      ]
+    },
+    "913-1589": {
+      "narrator_ids": [
+        913,
+        1589
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:8:3:86"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1589",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1589.json"
+  }
+}

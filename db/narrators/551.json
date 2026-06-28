@@ -1,0 +1,266 @@
+{
+  "id": 551,
+  "type": "narrator",
+  "path": "/people/narrators/551",
+  "titles": {
+    "ar": "عَنْبَسَةَ الْعَابِدِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:120:8",
+    "/books/al-kafi:2:1:142:5",
+    "/books/al-kafi:2:1:188:6",
+    "/books/al-kafi:2:1:49:4",
+    "/books/al-kafi:2:2:15:8",
+    "/books/al-kafi:2:4:23:11",
+    "/books/al-kafi:2:4:23:15",
+    "/books/al-kafi:4:2:12:7",
+    "/books/al-kafi:7:1:37:29",
+    "/books/mujam-al-ahadith-al-mutabara:1:14:2",
+    "/books/mujam-al-ahadith-al-mutabara:5:3:1",
+    "/books/tahdhib-al-ahkam:2:13:149",
+    "/books/tahdhib-al-ahkam:9:19:20"
+  ],
+  "verseCount": 13,
+  "relations": {},
+  "subchains": {
+    "10-551": {
+      "narrator_ids": [
+        10,
+        551
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:120:8",
+        "/books/al-kafi:2:1:49:4",
+        "/books/mujam-al-ahadith-al-mutabara:1:14:2"
+      ]
+    },
+    "1041-10-551": {
+      "narrator_ids": [
+        1041,
+        10,
+        551
+      ],
+      "verse_paths": [
+        "/books/mujam-al-ahadith-al-mutabara:1:14:2"
+      ]
+    },
+    "13-53-551": {
+      "narrator_ids": [
+        13,
+        53,
+        551
+      ],
+      "verse_paths": [
+        "/books/mujam-al-ahadith-al-mutabara:5:3:1"
+      ]
+    },
+    "143-551": {
+      "narrator_ids": [
+        143,
+        551
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:142:5"
+      ]
+    },
+    "1519-551": {
+      "narrator_ids": [
+        1519,
+        551
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:188:6"
+      ]
+    },
+    "165-551": {
+      "narrator_ids": [
+        165,
+        551
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:13:149"
+      ]
+    },
+    "202-551": {
+      "narrator_ids": [
+        202,
+        551
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:23:11",
+        "/books/al-kafi:2:4:23:15"
+      ]
+    },
+    "2304-551": {
+      "narrator_ids": [
+        2304,
+        551
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:12:7"
+      ]
+    },
+    "3-157-143-551": {
+      "narrator_ids": [
+        3,
+        157,
+        143,
+        551
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:142:5"
+      ]
+    },
+    "343-551": {
+      "narrator_ids": [
+        343,
+        551
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:1:37:29",
+        "/books/tahdhib-al-ahkam:9:19:20"
+      ]
+    },
+    "4-13-10-551-669": {
+      "narrator_ids": [
+        4,
+        13,
+        10,
+        551,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:120:8"
+      ]
+    },
+    "4-13-53-551": {
+      "narrator_ids": [
+        4,
+        13,
+        53,
+        551
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:15:8"
+      ]
+    },
+    "4-5-343-551": {
+      "narrator_ids": [
+        4,
+        5,
+        343,
+        551
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:1:37:29"
+      ]
+    },
+    "4134-17-15-165-551": {
+      "narrator_ids": [
+        4134,
+        17,
+        15,
+        165,
+        551
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:13:149"
+      ]
+    },
+    "49-183-202-551": {
+      "narrator_ids": [
+        49,
+        183,
+        202,
+        551
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:23:15"
+      ]
+    },
+    "49-345-202-551": {
+      "narrator_ids": [
+        49,
+        345,
+        202,
+        551
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:23:11"
+      ]
+    },
+    "5-237-2304-551": {
+      "narrator_ids": [
+        5,
+        237,
+        2304,
+        551
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:12:7"
+      ]
+    },
+    "5-343-551": {
+      "narrator_ids": [
+        5,
+        343,
+        551
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:19:20"
+      ]
+    },
+    "53-551": {
+      "narrator_ids": [
+        53,
+        551
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:15:8",
+        "/books/mujam-al-ahadith-al-mutabara:5:3:1"
+      ]
+    },
+    "551-669": {
+      "narrator_ids": [
+        551,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:120:8",
+        "/books/al-kafi:2:1:188:6"
+      ]
+    },
+    "6-12-10-551": {
+      "narrator_ids": [
+        6,
+        12,
+        10,
+        551
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:49:4"
+      ]
+    },
+    "6-12-67-1519-551-669": {
+      "narrator_ids": [
+        6,
+        12,
+        67,
+        1519,
+        551,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:188:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/551",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/551.json"
+  }
+}

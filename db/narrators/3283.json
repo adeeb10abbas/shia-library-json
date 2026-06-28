@@ -1,0 +1,55 @@
+{
+  "id": 3283,
+  "type": "narrator",
+  "path": "/people/narrators/3283",
+  "titles": {
+    "ar": "زِيَادِ بْنِ أَبِي الْحَلَّالِ ذَكَرَاهُ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:2:69:12"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1097-3283": {
+      "narrator_ids": [
+        1097,
+        3283
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:69:12"
+      ]
+    },
+    "3283-60": {
+      "narrator_ids": [
+        3283,
+        60
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:69:12"
+      ]
+    },
+    "6-8-15-1097-3283-60-669": {
+      "narrator_ids": [
+        6,
+        8,
+        15,
+        1097,
+        3283,
+        60,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:69:12"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3283",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3283.json"
+  }
+}

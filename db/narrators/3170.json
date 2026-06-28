@@ -1,0 +1,72 @@
+{
+  "id": 3170,
+  "type": "narrator",
+  "path": "/people/narrators/3170",
+  "titles": {
+    "ar": "دَاوُدَ بْنِ سُلَيْمَانَ الْكُوفِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:3:9:4",
+    "/books/tahdhib-al-ahkam:1:28:5"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "3170-177": {
+      "narrator_ids": [
+        3170,
+        177
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:9:4",
+        "/books/tahdhib-al-ahkam:1:28:5"
+      ]
+    },
+    "4-5-21-65-3170-177": {
+      "narrator_ids": [
+        4,
+        5,
+        21,
+        65,
+        3170,
+        177
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:9:4"
+      ]
+    },
+    "65-3170": {
+      "narrator_ids": [
+        65,
+        3170
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:9:4",
+        "/books/tahdhib-al-ahkam:1:28:5"
+      ]
+    },
+    "77-952-4-5-21-65-3170-177": {
+      "narrator_ids": [
+        77,
+        952,
+        4,
+        5,
+        21,
+        65,
+        3170,
+        177
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:28:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3170",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3170.json"
+  }
+}

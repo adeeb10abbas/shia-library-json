@@ -1,0 +1,44 @@
+{
+  "id": 2036,
+  "type": "narrator",
+  "path": "/people/narrators/2036",
+  "titles": {
+    "ar": "أَبِي بَصِيرٍ عَنْهُمْ ( عليهم السلام )"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:1:8:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3-2-76-48-2036": {
+      "narrator_ids": [
+        3,
+        2,
+        76,
+        48,
+        2036
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:1:8:1"
+      ]
+    },
+    "48-2036": {
+      "narrator_ids": [
+        48,
+        2036
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:1:8:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2036",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2036.json"
+  }
+}

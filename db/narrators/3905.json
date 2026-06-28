@@ -1,0 +1,54 @@
+{
+  "id": 3905,
+  "type": "narrator",
+  "path": "/people/narrators/3905",
+  "titles": {
+    "ar": "عَمِّهِ جَعْفَرِ بْنِ سَمَاعَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:2:28:9"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3905-313": {
+      "narrator_ids": [
+        3905,
+        313
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:2:28:9"
+      ]
+    },
+    "49-94-3905-313-710-58": {
+      "narrator_ids": [
+        49,
+        94,
+        3905,
+        313,
+        710,
+        58
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:2:28:9"
+      ]
+    },
+    "94-3905": {
+      "narrator_ids": [
+        94,
+        3905
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:2:28:9"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3905",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3905.json"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": 2108,
+  "type": "narrator",
+  "path": "/people/narrators/2108",
+  "titles": {
+    "ar": "أَبِي سُلَيْمَانَ الْجَصَّاصِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:2:60:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "19-24-30-2108-412": {
+      "narrator_ids": [
+        19,
+        24,
+        30,
+        2108,
+        412
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:60:2"
+      ]
+    },
+    "2108-412": {
+      "narrator_ids": [
+        2108,
+        412
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:60:2"
+      ]
+    },
+    "30-2108": {
+      "narrator_ids": [
+        30,
+        2108
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:60:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2108",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2108.json"
+  }
+}

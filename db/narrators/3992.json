@@ -1,0 +1,52 @@
+{
+  "id": 3992,
+  "type": "narrator",
+  "path": "/people/narrators/3992",
+  "titles": {
+    "ar": "غَيْرُهُمَا قَالُوا كَانَ أَحْمَدُ بْنُ عُبَيْدِ اللَّهِ بْنِ خَاقَانَ عَلَى الضِّيَاعَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:124:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "154-4-3992-2669": {
+      "narrator_ids": [
+        154,
+        4,
+        3992,
+        2669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:124:1"
+      ]
+    },
+    "3992-2669": {
+      "narrator_ids": [
+        3992,
+        2669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:124:1"
+      ]
+    },
+    "4-3992": {
+      "narrator_ids": [
+        4,
+        3992
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:124:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3992",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3992.json"
+  }
+}

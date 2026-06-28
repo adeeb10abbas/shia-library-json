@@ -1,0 +1,55 @@
+{
+  "id": 2018,
+  "type": "narrator",
+  "path": "/people/narrators/2018",
+  "titles": {
+    "ar": "أَبِي الْوَرْدِ كِلَاهُمَا"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:2:49:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "172-2018": {
+      "narrator_ids": [
+        172,
+        2018
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:49:2"
+      ]
+    },
+    "175-10-1463-242-172-2018-9": {
+      "narrator_ids": [
+        175,
+        10,
+        1463,
+        242,
+        172,
+        2018,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:49:2"
+      ]
+    },
+    "2018-9": {
+      "narrator_ids": [
+        2018,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:49:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2018",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2018.json"
+  }
+}

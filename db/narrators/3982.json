@@ -1,0 +1,45 @@
+{
+  "id": 3982,
+  "type": "narrator",
+  "path": "/people/narrators/3982",
+  "titles": {
+    "ar": "غَيْرِ وَاحِدٍ قَالُوا كَانَ عَلِيُّ بْنُ الْحُسَيْنِ ( عليه السلام )"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:4:16:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3-2-7-47-56-3982": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        47,
+        56,
+        3982
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:4:16:3"
+      ]
+    },
+    "56-3982": {
+      "narrator_ids": [
+        56,
+        3982
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:4:16:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3982",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3982.json"
+  }
+}

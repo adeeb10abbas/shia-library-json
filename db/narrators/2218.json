@@ -1,0 +1,54 @@
+{
+  "id": 2218,
+  "type": "narrator",
+  "path": "/people/narrators/2218",
+  "titles": {
+    "ar": "أَبِي مِنْهَالٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:3:69:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2218-300": {
+      "narrator_ids": [
+        2218,
+        300
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:69:2"
+      ]
+    },
+    "56-2218": {
+      "narrator_ids": [
+        56,
+        2218
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:69:2"
+      ]
+    },
+    "6-8-122-56-2218-300": {
+      "narrator_ids": [
+        6,
+        8,
+        122,
+        56,
+        2218,
+        300
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:69:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2218",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2218.json"
+  }
+}

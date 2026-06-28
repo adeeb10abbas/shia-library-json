@@ -1,0 +1,54 @@
+{
+  "id": 3421,
+  "type": "narrator",
+  "path": "/people/narrators/3421",
+  "titles": {
+    "ar": "صَالِحٍ الْحَذَّاءِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:143:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "19-187-273-3421-182-669": {
+      "narrator_ids": [
+        19,
+        187,
+        273,
+        3421,
+        182,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:143:3"
+      ]
+    },
+    "273-3421": {
+      "narrator_ids": [
+        273,
+        3421
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:143:3"
+      ]
+    },
+    "3421-182": {
+      "narrator_ids": [
+        3421,
+        182
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:143:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3421",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3421.json"
+  }
+}

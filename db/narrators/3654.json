@@ -1,0 +1,45 @@
+{
+  "id": 3654,
+  "type": "narrator",
+  "path": "/people/narrators/3654",
+  "titles": {
+    "ar": "عُبَيْدِ اللَّهِ بْنِ الْوَلِيدِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:48:7"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1260-3654": {
+      "narrator_ids": [
+        1260,
+        3654
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:48:7"
+      ]
+    },
+    "6-5-22-3053-1260-3654": {
+      "narrator_ids": [
+        6,
+        5,
+        22,
+        3053,
+        1260,
+        3654
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:48:7"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3654",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3654.json"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": 2102,
+  "type": "narrator",
+  "path": "/people/narrators/2102",
+  "titles": {
+    "ar": "أَبِي سَعِيدٍ الرَّقَّامِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:101:12"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "133-2-432-2102-156": {
+      "narrator_ids": [
+        133,
+        2,
+        432,
+        2102,
+        156
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:101:12"
+      ]
+    },
+    "2102-156": {
+      "narrator_ids": [
+        2102,
+        156
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:101:12"
+      ]
+    },
+    "432-2102": {
+      "narrator_ids": [
+        432,
+        2102
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:101:12"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2102",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2102.json"
+  }
+}

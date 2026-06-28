@@ -1,0 +1,2098 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:6:8:2",
+  "chapter": {
+    "path": "/books/al-kafi:6:8:2",
+    "titles": {
+      "ar": "باب اللِّبَاسِ",
+      "en": "Chapter 2 – The Dress"
+    }
+  },
+  "count": 16,
+  "records": [
+    {
+      "id": "al-kafi:6:8:2:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:8:2:1",
+        "parts": [
+          6,
+          8,
+          2,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 8,
+        "chapter": 2,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:8:2",
+        "titles": {
+          "ar": "باب اللِّبَاسِ",
+          "en": "Chapter 2 – The Dress"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَمِعْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) يَقُولُ الثَّوْبُ النَّقِيُّ يَكْبِتُ الْعَدُوَّ ."
+        ],
+        "text": "سَمِعْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) يَقُولُ الثَّوْبُ النَّقِيُّ يَكْبِتُ الْعَدُوَّ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad Bin Isa, from Ali bin Al Hakam, from Abdullah Bin Jundab, from Sufyan Bin Al Samt who said, ",
+            "‘I heard Abu Abdullah<sup>asws</sup> saying: ‘The clean clothes suppress the enemy’."
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad Bin Isa, from Ali bin Al Hakam, from Abdullah Bin Jundab, from Sufyan Bin Al Samt who said,\n\n‘I heard Abu Abdullah<sup>asws</sup> saying: ‘The clean clothes suppress the enemy’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad ibn ‘Isa from Ali ibn al-Hakam from ‘Abd Allah ibn Jundab from Sufyan ibn al-Simt who has said the following: “I once heard abu ‘Abd Allah, ‘Alayhi al-Salam, saying, ‘Clean garments put down the enemy.’” "
+          ],
+          "text": "1. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad ibn ‘Isa from Ali ibn al-Hakam from ‘Abd Allah ibn Jundab from Sufyan ibn al-Simt who has said the following: “I once heard abu ‘Abd Allah, ‘Alayhi al-Salam, saying, ‘Clean garments put down the enemy.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مجهول   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/315)",
+          "label": "مجهول",
+          "text": "Allamah Baqir al-Majlisi: مجهول - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/315)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى عَنْ عَلِيِّ بْنِ الْحَكَمِ عَنْ عَبْدِ اللَّهِ بْنِ جُنْدَبٍ عَنْ سُفْيَانَ بْنِ السِّمْطِ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى",
+            "path": "/people/narrators/13"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيِّ بْنِ الْحَكَمِ",
+            "path": "/people/narrators/15"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَبْدِ اللَّهِ بْنِ جُنْدَبٍ",
+            "path": "/people/narrators/357"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سُفْيَانَ بْنِ السِّمْطِ",
+            "path": "/people/narrators/469"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/13",
+          "/people/narrators/15",
+          "/people/narrators/357",
+          "/people/narrators/469"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:8:2:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/8/2/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:8:2:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:8:2:2",
+        "parts": [
+          6,
+          8,
+          2,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 8,
+        "chapter": 2,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:8:2",
+        "titles": {
+          "ar": "باب اللِّبَاسِ",
+          "en": "Chapter 2 – The Dress"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " لَبِسَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) الطَّاقَ وَ السَّاجَ وَ الْخَمَائِصَ ."
+        ],
+        "text": "لَبِسَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) الطَّاقَ وَ السَّاجَ وَ الْخَمَائِصَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Abu Ali Al Ashary, from Muhammad Bin Salim, from Ahmad Bin Al Nazar, from Amro Bin Shimr, from Jabir, ",
+            "(It has been narrated) from Abu Ja’far<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup> wore <span class=\"iTxt\">Al-Taaq</span> (head cover), and <span class=\"iTxt\">Al-Saakh </span>(pallium), and <span class=\"iTxt\">Al-Khamais</span> (Gown)’."
+          ],
+          "text": "Abu Ali Al Ashary, from Muhammad Bin Salim, from Ahmad Bin Al Nazar, from Amro Bin Shimr, from Jabir,\n\n(It has been narrated) from Abu Ja’far<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup> wore <span class=\"iTxt\">Al-Taaq</span> (head cover), and <span class=\"iTxt\">Al-Saakh </span>(pallium), and <span class=\"iTxt\">Al-Khamais</span> (Gown)’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. Abu Ali al-Ash‘ariy has narrated from Muhammad ibn Salim from Ahmad ibn al-Nadr from ‘Amr ibn Shamir from Jabir who has said the following: “Abu Ja‘far, ‘Alayhi al-Salam, has said that the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, dressed in al-Taq, (a certain garment) al-Saj (green pallium) and al-Khama’is (a black gown).”’ "
+          ],
+          "text": "2. Abu Ali al-Ash‘ariy has narrated from Muhammad ibn Salim from Ahmad ibn al-Nadr from ‘Amr ibn Shamir from Jabir who has said the following: “Abu Ja‘far, ‘Alayhi al-Salam, has said that the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, dressed in al-Taq, (a certain garment) al-Saj (green pallium) and al-Khama’is (a black gown).”’"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/315)",
+          "label": "ضعيف",
+          "text": "Allamah Baqir al-Majlisi: ضعيف - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/315)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "أَبُو عَلِيٍّ الْأَشْعَرِيُّ عَنْ مُحَمَّدِ بْنِ سَالِمٍ عَنْ أَحْمَدَ بْنِ النَّضْرِ عَنْ عَمْرِو بْنِ شِمْرٍ عَنْ جَابِرٍ عَنْ أَبِي جَعْفَرٍ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "أَبُو عَلِيٍّ الْأَشْعَرِيُّ",
+            "path": "/people/narrators/19"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ سَالِمٍ",
+            "path": "/people/narrators/212"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ النَّضْرِ",
+            "path": "/people/narrators/179"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَمْرِو بْنِ شِمْرٍ",
+            "path": "/people/narrators/117"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "جَابِرٍ",
+            "path": "/people/narrators/72"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي جَعْفَرٍ ( عليه السلام )",
+            "path": "/people/narrators/9"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/19",
+          "/people/narrators/212",
+          "/people/narrators/179",
+          "/people/narrators/117",
+          "/people/narrators/72",
+          "/people/narrators/9"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:2:1:114:2",
+          "/books/al-kafi:2:1:151:5",
+          "/books/al-kafi:2:3:14:10",
+          "/books/al-kafi:2:3:1:11",
+          "/books/al-kafi:3:3:15:1",
+          "/books/al-kafi:3:3:3:1",
+          "/books/al-kafi:3:3:50:2",
+          "/books/al-kafi:3:3:80:2",
+          "/books/al-kafi:6:7:35:4",
+          "/books/al-kafi:6:8:9:9",
+          "/books/al-kafi:8:1:25:19",
+          "/books/tahdhib-al-ahkam:10:10:6",
+          "/books/tahdhib-al-ahkam:1:39:4",
+          "/books/tahdhib-al-ahkam:3:32:42"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:8:2:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/8/2/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:8:2:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:8:2:3",
+        "parts": [
+          6,
+          8,
+          2,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 8,
+        "chapter": 2,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:8:2",
+        "titles": {
+          "ar": "باب اللِّبَاسِ",
+          "en": "Chapter 2 – The Dress"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) مَنِ اتَّخَذَ ثَوْباً فَلْيُنَظِّفْهُ ."
+        ],
+        "text": "قَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) مَنِ اتَّخَذَ ثَوْباً فَلْيُنَظِّفْهُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father, from Al Nowfaly, from Al Sakuny, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup> said: ‘The one who takes a cloth, so let him clean it’."
+          ],
+          "text": "Ali Bin Ibrahim, from his father, from Al Nowfaly, from Al Sakuny,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup> said: ‘The one who takes a cloth, so let him clean it’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "3. Ali ibn Ibrahim has narrated from his father from al-Nawfaliy from al-Sakuniy who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, has said, ‘One who chooses (makes use of) clothes, he must clean it.’” "
+          ],
+          "text": "3. Ali ibn Ibrahim has narrated from his father from al-Nawfaliy from al-Sakuniy who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, has said, ‘One who chooses (makes use of) clothes, he must clean it.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/316)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/316)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنِ النَّوْفَلِيِّ عَنِ السَّكُونِيِّ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "النَّوْفَلِيِّ",
+            "path": "/people/narrators/32"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "السَّكُونِيِّ",
+            "path": "/people/narrators/34"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/32",
+          "/people/narrators/34",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:8:2:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/8/2/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:8:2:4",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:8:2:4",
+        "parts": [
+          6,
+          8,
+          2,
+          4
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 8,
+        "chapter": 2,
+        "hadith": 4
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:8:2",
+        "titles": {
+          "ar": "باب اللِّبَاسِ",
+          "en": "Chapter 2 – The Dress"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قُلْتُ لِأَبِي عَبْدِ اللَّهِ ( عليه السلام ) يَكُونُ لِلْمُؤْمِنِ عَشَرَةُ أَقْمِصَةٍ قَالَ نَعَمْ قُلْتُ عِشْرُونَ قَالَ نَعَمْ قُلْتُ ثَلَاثُونَ قَالَ نَعَمْ لَيْسَ هَذَا مِنَ السَّرَفِ إِنَّمَا السَّرَفُ أَنْ تَجْعَلَ ثَوْبَ صَوْنِكَ ثَوْبَ بِذْلَتِكَ ."
+        ],
+        "text": "قُلْتُ لِأَبِي عَبْدِ اللَّهِ ( عليه السلام ) يَكُونُ لِلْمُؤْمِنِ عَشَرَةُ أَقْمِصَةٍ قَالَ نَعَمْ قُلْتُ عِشْرُونَ قَالَ نَعَمْ قُلْتُ ثَلَاثُونَ قَالَ نَعَمْ لَيْسَ هَذَا مِنَ السَّرَفِ إِنَّمَا السَّرَفُ أَنْ تَجْعَلَ ثَوْبَ صَوْنِكَ ثَوْبَ بِذْلَتِكَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Sahl Bin Ziyad, from Al Jamourany, from Al Hassan Bin Ali Bin Abu Hamza, from Sayf Bin Umeyra, from Is’haq Bin Ammar who said, ",
+            "‘I said to Abu Abdullah<sup>asws</sup>, ‘Can there happen to be ten shirts for the Believer’. He<sup>asws</sup> said: ‘Yes’. I said, ‘Twenty?’ He<sup>asws</sup> said: ‘Yes’. I said, ‘Thirty?’ He<sup>asws</sup> said: ‘Yes. This is not from the extravagance if you make a dress to fend off humiliation’."
+          ],
+          "text": "A number of our companions, from Sahl Bin Ziyad, from Al Jamourany, from Al Hassan Bin Ali Bin Abu Hamza, from Sayf Bin Umeyra, from Is’haq Bin Ammar who said,\n\n‘I said to Abu Abdullah<sup>asws</sup>, ‘Can there happen to be ten shirts for the Believer’. He<sup>asws</sup> said: ‘Yes’. I said, ‘Twenty?’ He<sup>asws</sup> said: ‘Yes’. I said, ‘Thirty?’ He<sup>asws</sup> said: ‘Yes. This is not from the extravagance if you make a dress to fend off humiliation’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "4. A number of our people have narrated from Sahl ibn Ziyad from al-Jamuraniy from al-Hassan ibn Ali ibn abu Hamzah from Sayf ibn ‘Amirah from Ishaq ibn ‘Ammar who has said the following: “I once asked abu ‘Abd Allah, ‘Alayhi al-Salam, if a believing person can have ten shirts. He (the Imam) said, ‘Yes, he can do so.’ I then asked, ‘Can he have twenty.’ He (the Imam) said, ‘Yes, he can do so.’ I asked, ‘Can he have thirty?’ He (the Imam) said, ‘Yes, he can do so. This is not profligacy and lavishness. Profligacy is when you make your dress to maintain your dignity the cloth of your disgraceful condition.’” "
+          ],
+          "text": "4. A number of our people have narrated from Sahl ibn Ziyad from al-Jamuraniy from al-Hassan ibn Ali ibn abu Hamzah from Sayf ibn ‘Amirah from Ishaq ibn ‘Ammar who has said the following: “I once asked abu ‘Abd Allah, ‘Alayhi al-Salam, if a believing person can have ten shirts. He (the Imam) said, ‘Yes, he can do so.’ I then asked, ‘Can he have twenty.’ He (the Imam) said, ‘Yes, he can do so.’ I asked, ‘Can he have thirty?’ He (the Imam) said, ‘Yes, he can do so. This is not profligacy and lavishness. Profligacy is when you make your dress to maintain your dignity the cloth of your disgraceful condition.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/316)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/316)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ سَهْلِ بْنِ زِيَادٍ عَنِ الْجَامُورَانِيِّ عَنِ الْحَسَنِ بْنِ عَلِيِّ بْنِ أَبِي حَمْزَةَ عَنْ سَيْفِ بْنِ عَمِيرَةَ عَنْ إِسْحَاقَ بْنِ عَمَّارٍ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَهْلِ بْنِ زِيَادٍ",
+            "path": "/people/narrators/8"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْجَامُورَانِيِّ",
+            "path": "/people/narrators/416"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحَسَنِ بْنِ عَلِيِّ بْنِ أَبِي حَمْزَةَ",
+            "path": "/people/narrators/282"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَيْفِ بْنِ عَمِيرَةَ",
+            "path": "/people/narrators/80"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "إِسْحَاقَ بْنِ عَمَّارٍ",
+            "path": "/people/narrators/44"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/8",
+          "/people/narrators/416",
+          "/people/narrators/282",
+          "/people/narrators/80",
+          "/people/narrators/44"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:8:2:4",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/8/2/4.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:8:2:5",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:8:2:5",
+        "parts": [
+          6,
+          8,
+          2,
+          5
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 8,
+        "chapter": 2,
+        "hadith": 5
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:8:2",
+        "titles": {
+          "ar": "باب اللِّبَاسِ",
+          "en": "Chapter 2 – The Dress"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَمِعْتُ الرِّضَا ( عليه السلام ) يَقُولُ كَانَ عَلِيُّ بْنُ الْحُسَيْنِ ( عليه السلام ) يَلْبَسُ ثَوْبَيْنِ فِي الصَّيْفِ يُشْتَرَيَانِ بِخَمْسِمِائَةِ دِرْهَمٍ ."
+        ],
+        "text": "سَمِعْتُ الرِّضَا ( عليه السلام ) يَقُولُ كَانَ عَلِيُّ بْنُ الْحُسَيْنِ ( عليه السلام ) يَلْبَسُ ثَوْبَيْنِ فِي الصَّيْفِ يُشْتَرَيَانِ بِخَمْسِمِائَةِ دِرْهَمٍ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Al Husayn Bin Muhammad, from Moala Bin Muhammad, from Al Hassan Bin Ali Al Washa who said, ",
+            "‘I heard Al-Reza<sup>asws</sup> saying: ‘Ali<sup>asws</sup> Bin Al-Husayn<sup>asws</sup> was wearing two clothes in the summer both having been bought with five hundred Dirhams’."
+          ],
+          "text": "Al Husayn Bin Muhammad, from Moala Bin Muhammad, from Al Hassan Bin Ali Al Washa who said,\n\n‘I heard Al-Reza<sup>asws</sup> saying: ‘Ali<sup>asws</sup> Bin Al-Husayn<sup>asws</sup> was wearing two clothes in the summer both having been bought with five hundred Dirhams’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "5. Al-Husayn ibn Muhammad has narrated from Mu‘alla’ ibn Muhammad from al-Hassan ibn Ali al-Washsha’ who has said the following: “I once heard al-Rida’, ‘Alayhi al-Salam, saying, ‘Ali ibn al-Husayn, ‘Alayhim al-Salam, would buy two dresses for summer, each valued at five hundred dirhams.’” "
+          ],
+          "text": "5. Al-Husayn ibn Muhammad has narrated from Mu‘alla’ ibn Muhammad from al-Hassan ibn Ali al-Washsha’ who has said the following: “I once heard al-Rida’, ‘Alayhi al-Salam, saying, ‘Ali ibn al-Husayn, ‘Alayhim al-Salam, would buy two dresses for summer, each valued at five hundred dirhams.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/316)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/316)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "الْحُسَيْنُ بْنُ مُحَمَّدٍ عَنْ مُعَلَّى بْنِ مُحَمَّدٍ عَنِ الْحَسَنِ بْنِ عَلِيٍّ الْوَشَّاءِ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "الْحُسَيْنُ بْنُ مُحَمَّدٍ",
+            "path": "/people/narrators/20"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُعَلَّى بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/25"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحَسَنِ بْنِ عَلِيٍّ الْوَشَّاءِ",
+            "path": "/people/narrators/89"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/20",
+          "/people/narrators/25",
+          "/people/narrators/89"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:1:4:4:2",
+          "/books/al-kafi:1:4:60:1",
+          "/books/al-kafi:1:4:7:1",
+          "/books/al-kafi:3:4:78:2",
+          "/books/al-kafi:4:1:34:9",
+          "/books/al-kafi:5:2:73:3",
+          "/books/tahdhib-al-ahkam:3:24:62"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:8:2:5",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/8/2/5.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:8:2:6",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:8:2:6",
+        "parts": [
+          6,
+          8,
+          2,
+          6
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 8,
+        "chapter": 2,
+        "hadith": 6
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:8:2",
+        "titles": {
+          "ar": "باب اللِّبَاسِ",
+          "en": "Chapter 2 – The Dress"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " بَعَثَ أَمِيرُ الْمُؤْمِنِينَ ( عليه السلام ) عَبْدَ اللَّهِ بْنَ الْعَبَّاسِ إِلَى ابْنِ الْكَوَّاءِ وَ أَصْحَابِهِ وَ عَلَيْهِ قَمِيصٌ رَقِيقٌ وَ حُلَّةٌ فَلَمَّا نَظَرُوا إِلَيْهِ قَالُوا يَا ابْنَ عَبَّاسٍ أَنْتَ خَيْرُنَا فِي أَنْفُسِنَا وَ أَنْتَ تَلْبَسُ هَذَا اللِّبَاسَ فَقَالَ وَ هَذَا أَوَّلُ مَا أُخَاصِمُكُمْ فِيهِ قُلْ مَنْ حَرَّمَ زِينَةَ اللَّهِ الَّتِي أَخْرَجَ لِعِبادِهِ وَ الطَّيِّباتِ مِنَ الرِّزْقِ وَ قَالَ خُذُوا زِينَتَكُمْ عِنْدَ كُلِّ مَسْجِدٍ ."
+        ],
+        "text": "بَعَثَ أَمِيرُ الْمُؤْمِنِينَ ( عليه السلام ) عَبْدَ اللَّهِ بْنَ الْعَبَّاسِ إِلَى ابْنِ الْكَوَّاءِ وَ أَصْحَابِهِ وَ عَلَيْهِ قَمِيصٌ رَقِيقٌ وَ حُلَّةٌ فَلَمَّا نَظَرُوا إِلَيْهِ قَالُوا يَا ابْنَ عَبَّاسٍ أَنْتَ خَيْرُنَا فِي أَنْفُسِنَا وَ أَنْتَ تَلْبَسُ هَذَا اللِّبَاسَ فَقَالَ وَ هَذَا أَوَّلُ مَا أُخَاصِمُكُمْ فِيهِ قُلْ مَنْ حَرَّمَ زِينَةَ اللَّهِ الَّتِي أَخْرَجَ لِعِبادِهِ وَ الطَّيِّباتِ مِنَ الرِّزْقِ وَ قَالَ خُذُوا زِينَتَكُمْ عِنْدَ كُلِّ مَسْجِدٍ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "<span style=\"font-size: small\">Muhammad Bin Yahya, from Abdullah Bin Muhammad, from Ali Bin Al Hakam, from Aban Bin Usman, from Yahya Bin Abu Al A’ala, from Abu Abdullah</span><sup>asws</sup><span style=\"font-size: small\"> having said: </span>",
+            "‘Amir Al-Momineen<sup>asws</sup> sent Abdullah Bin Al-Abbas to Ibn Al-Kawwa and his companions, and upon him was a thin shirt and a garment. So when they looked at him, they said, ‘O Ibn Abbas! You are the best of us amongst ourselves and you are wearing these clothes?’ So he said, ‘<span class=\"ibTxt\"><a href=\"/#/books/quran:7#h32\"><a href=\"/books/quran:7#h32\">[7:32]</a></a> Say: Who has prohibited the adornments of Allah which He has Brought forth for His servants and the good provisions? <a href=\"/#/books/quran:7#h31\"><a href=\"/books/quran:7#h31\">[7:31]</a></a> Take to your adornments at every Masjid</span>’."
+          ],
+          "text": "<span style=\"font-size: small\">Muhammad Bin Yahya, from Abdullah Bin Muhammad, from Ali Bin Al Hakam, from Aban Bin Usman, from Yahya Bin Abu Al A’ala, from Abu Abdullah</span><sup>asws</sup><span style=\"font-size: small\"> having said: </span>\n\n‘Amir Al-Momineen<sup>asws</sup> sent Abdullah Bin Al-Abbas to Ibn Al-Kawwa and his companions, and upon him was a thin shirt and a garment. So when they looked at him, they said, ‘O Ibn Abbas! You are the best of us amongst ourselves and you are wearing these clothes?’ So he said, ‘<span class=\"ibTxt\"><a href=\"/#/books/quran:7#h32\"><a href=\"/books/quran:7#h32\">[7:32]</a></a> Say: Who has prohibited the adornments of Allah which He has Brought forth for His servants and the good provisions? <a href=\"/#/books/quran:7#h31\"><a href=\"/books/quran:7#h31\">[7:31]</a></a> Take to your adornments at every Masjid</span>’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "6. Muhammad ibn Yahya has narrated from ‘Abd Allah ibn Muhammad from Ali ibn al-Hakam from Aban ibn ‘Uthman from Yahya ibn al-‘Ala’ who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that ’Amir al-Mu’minin sent ‘Abd Allah ibn al-‘Abbas to ibn al-Kawwa’ and his people. He was wearing a shirt of fine fabric and a gown. They looked at him and said, ‘O ibn al- ‘Abbas, you are the better among us in our belief and you wear this kind of clothes.’ He replied, ‘This is the first thing about which I disagree with you. “Who has made it unlawful to maintain beauty and to eat the pure foods which Allah has created for His servants?” <a href=\"/#/books/quran:7#h32\"><a href=\"/books/quran:7#h32\">[7:32]</a></a> and He also has said, “dress well when attending the mosques.” <a href=\"/#/books/quran:7#h31\"><a href=\"/books/quran:7#h31\">[7:31]</a></a>’” "
+          ],
+          "text": "6. Muhammad ibn Yahya has narrated from ‘Abd Allah ibn Muhammad from Ali ibn al-Hakam from Aban ibn ‘Uthman from Yahya ibn al-‘Ala’ who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that ’Amir al-Mu’minin sent ‘Abd Allah ibn al-‘Abbas to ibn al-Kawwa’ and his people. He was wearing a shirt of fine fabric and a gown. They looked at him and said, ‘O ibn al- ‘Abbas, you are the better among us in our belief and you wear this kind of clothes.’ He replied, ‘This is the first thing about which I disagree with you. “Who has made it unlawful to maintain beauty and to eat the pure foods which Allah has created for His servants?” <a href=\"/#/books/quran:7#h32\"><a href=\"/books/quran:7#h32\">[7:32]</a></a> and He also has said, “dress well when attending the mosques.” <a href=\"/#/books/quran:7#h31\"><a href=\"/books/quran:7#h31\">[7:31]</a></a>’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مجهول  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/316)",
+          "label": "مجهول",
+          "text": "Allamah Baqir al-Majlisi: مجهول - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/316)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ عَبْدِ اللَّهِ بْنِ مُحَمَّدٍ عَنْ عَلِيِّ بْنِ الْحَكَمِ عَنْ أَبَانِ بْنِ عُثْمَانَ عَنْ يَحْيَى بْنِ أَبِي الْعَلَاءِ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَبْدِ اللَّهِ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/144"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيِّ بْنِ الْحَكَمِ",
+            "path": "/people/narrators/15"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبَانِ بْنِ عُثْمَانَ",
+            "path": "/people/narrators/52"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "يَحْيَى بْنِ أَبِي الْعَلَاءِ",
+            "path": "/people/narrators/454"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/144",
+          "/people/narrators/15",
+          "/people/narrators/52",
+          "/people/narrators/454",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {
+        "Mentions": [
+          "/books/quran:7:31",
+          "/books/quran:7:32"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:8:2:6",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/8/2/6.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:8:2:7",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:8:2:7",
+        "parts": [
+          6,
+          8,
+          2,
+          7
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 8,
+        "chapter": 2,
+        "hadith": 7
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:8:2",
+        "titles": {
+          "ar": "باب اللِّبَاسِ",
+          "en": "Chapter 2 – The Dress"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " دَخَلْتُ عَلَى أَبِي عَبْدِ اللَّهِ ( عليه السلام ) وَ عَلَيَّ جُبَّةُ خَزٍّ وَ طَيْلَسَانُ خَزٍّ فَنَظَرَ إِلَيَّ فَقُلْتُ جُعِلْتُ فِدَاكَ عَلَيَّ جُبَّةُ خَزٍّ وَ طَيْلَسَانُ خَزٍّ فَمَا تَقُولُ فِيهِ فَقَالَ وَ مَا بَأْسٌ بِالْخَزِّ قُلْتُ وَ سَدَاهُ إِبْرِيسَمٌ قَالَ وَ مَا بَأْسٌ بِإِبْرِيسَمٍ فَقَدْ أُصِيبَ الْحُسَيْنُ ( عليه السلام ) وَ عَلَيْهِ جُبَّةُ خَزٍّ ",
+          "ثُمَّ قَالَ إِنَّ عَبْدَ اللَّهِ بْنَ عَبَّاسٍ لَمَّا بَعَثَهُ أَمِيرُ الْمُؤْمِنِينَ ( عليه السلام ) إِلَى الْخَوَارِجِ فَوَاقَفَهُمْ لَبِسَ أَفْضَلَ ثِيَابِهِ وَ تَطَيَّبَ بِأَفْضَلِ طِيبِهِ وَ رَكِبَ أَفْضَلَ مَرَاكِبِهِ فَخَرَجَ فَوَاقَفَهُمْ فَقَالُوا يَا ابْنَ عَبَّاسٍ بَيْنَا أَنْتَ أَفْضَلُ النَّاسِ إِذَا أَتَيْتَنَا فِي لِبَاسِ الْجَبَابِرَةِ وَ مَرَاكِبِهِمْ فَتَلَا عَلَيْهِمْ هَذِهِ الْآيَةَ قُلْ مَنْ حَرَّمَ زِينَةَ اللَّهِ الَّتِي أَخْرَجَ لِعِبادِهِ وَ الطَّيِّباتِ مِنَ الرِّزْقِ فَالْبَسْ وَ تَجَمَّلْ فَإِنَّ اللَّهَ جَمِيلٌ يُحِبُّ الْجَمَالَ وَ لْيَكُنْ مِنْ حَلَالٍ ."
+        ],
+        "text": "دَخَلْتُ عَلَى أَبِي عَبْدِ اللَّهِ ( عليه السلام ) وَ عَلَيَّ جُبَّةُ خَزٍّ وَ طَيْلَسَانُ خَزٍّ فَنَظَرَ إِلَيَّ فَقُلْتُ جُعِلْتُ فِدَاكَ عَلَيَّ جُبَّةُ خَزٍّ وَ طَيْلَسَانُ خَزٍّ فَمَا تَقُولُ فِيهِ فَقَالَ وَ مَا بَأْسٌ بِالْخَزِّ قُلْتُ وَ سَدَاهُ إِبْرِيسَمٌ قَالَ وَ مَا بَأْسٌ بِإِبْرِيسَمٍ فَقَدْ أُصِيبَ الْحُسَيْنُ ( عليه السلام ) وَ عَلَيْهِ جُبَّةُ خَزٍّ\n\nثُمَّ قَالَ إِنَّ عَبْدَ اللَّهِ بْنَ عَبَّاسٍ لَمَّا بَعَثَهُ أَمِيرُ الْمُؤْمِنِينَ ( عليه السلام ) إِلَى الْخَوَارِجِ فَوَاقَفَهُمْ لَبِسَ أَفْضَلَ ثِيَابِهِ وَ تَطَيَّبَ بِأَفْضَلِ طِيبِهِ وَ رَكِبَ أَفْضَلَ مَرَاكِبِهِ فَخَرَجَ فَوَاقَفَهُمْ فَقَالُوا يَا ابْنَ عَبَّاسٍ بَيْنَا أَنْتَ أَفْضَلُ النَّاسِ إِذَا أَتَيْتَنَا فِي لِبَاسِ الْجَبَابِرَةِ وَ مَرَاكِبِهِمْ فَتَلَا عَلَيْهِمْ هَذِهِ الْآيَةَ قُلْ مَنْ حَرَّمَ زِينَةَ اللَّهِ الَّتِي أَخْرَجَ لِعِبادِهِ وَ الطَّيِّباتِ مِنَ الرِّزْقِ فَالْبَسْ وَ تَجَمَّلْ فَإِنَّ اللَّهَ جَمِيلٌ يُحِبُّ الْجَمَالَ وَ لْيَكُنْ مِنْ حَلَالٍ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Sahl Bin Ziyad, from Muhammad Bin Isa, from Safwan, from Yusuf Bin Ibrahim who said, ",
+            "‘I went over to Abu Abdullah<sup>asws</sup> and upon me was <span class=\"iTxt\">Al-Khazz</span> coat and a <span class=\"iTxt\">Al-Khazz </span>pallium. So he<sup>asws</sup> looked at me, so I said, ‘May I be sacrificed for you<sup>asws</sup>! Upon me is an <span class=\"iTxt\">Al Khazz</span> coat and an <span class=\"iTxt\">Al Khazz</span> pallium, so what are you<sup>asws</sup> saying with regards to it?’ So he<sup>asws</sup> said: ‘And what is the problem with <span class=\"iTxt\">Al-Khazz</span>?’ I said, ‘And its wrapping is embroidered’. He<sup>asws</sup> said: ‘And there is no problem with embroidery, for Al-Husayn<sup>asws</sup> was hit and upon him was an <span class=\"iTxt\">Al-Khazz</span> coat’. ",
+            "Then he<sup>asws</sup> said: ‘Abdullah Bin Abbas, when Amir Al-Momineen<sup>asws</sup> sent him to the Khawarijites, so he paused to them wearing the best of his clothes, and perfumed himself with the best of his perfumes, and rode the best of his rides. So he went and paused to them. So they said, ‘O Ibn Abbas! Between us, you are the best of the people, but you have come to us in the clothes of the tyrants and their rides’. So he recited to them this Verse <span class=\"ibTxt\"><a href=\"/#/books/quran:7#h32\"><a href=\"/books/quran:7#h32\">[7:32]</a></a> Say: Who has prohibited the adornments of Allah which He has Brought forth for His servants and the good provisions?</span> Therefore, wear (nice clothes) and beautify, for Allah<sup>azwj</sup> is Beautiful, He<sup>azwj</sup> Loves the beauty, but it should be from the Permissibles (means)’."
+          ],
+          "text": "A number of our companions, from Sahl Bin Ziyad, from Muhammad Bin Isa, from Safwan, from Yusuf Bin Ibrahim who said,\n\n‘I went over to Abu Abdullah<sup>asws</sup> and upon me was <span class=\"iTxt\">Al-Khazz</span> coat and a <span class=\"iTxt\">Al-Khazz </span>pallium. So he<sup>asws</sup> looked at me, so I said, ‘May I be sacrificed for you<sup>asws</sup>! Upon me is an <span class=\"iTxt\">Al Khazz</span> coat and an <span class=\"iTxt\">Al Khazz</span> pallium, so what are you<sup>asws</sup> saying with regards to it?’ So he<sup>asws</sup> said: ‘And what is the problem with <span class=\"iTxt\">Al-Khazz</span>?’ I said, ‘And its wrapping is embroidered’. He<sup>asws</sup> said: ‘And there is no problem with embroidery, for Al-Husayn<sup>asws</sup> was hit and upon him was an <span class=\"iTxt\">Al-Khazz</span> coat’.\n\nThen he<sup>asws</sup> said: ‘Abdullah Bin Abbas, when Amir Al-Momineen<sup>asws</sup> sent him to the Khawarijites, so he paused to them wearing the best of his clothes, and perfumed himself with the best of his perfumes, and rode the best of his rides. So he went and paused to them. So they said, ‘O Ibn Abbas! Between us, you are the best of the people, but you have come to us in the clothes of the tyrants and their rides’. So he recited to them this Verse <span class=\"ibTxt\"><a href=\"/#/books/quran:7#h32\"><a href=\"/books/quran:7#h32\">[7:32]</a></a> Say: Who has prohibited the adornments of Allah which He has Brought forth for His servants and the good provisions?</span> Therefore, wear (nice clothes) and beautify, for Allah<sup>azwj</sup> is Beautiful, He<sup>azwj</sup> Loves the beauty, but it should be from the Permissibles (means)’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "7. A number of our people have narrated from Sahl ibn Ziyad from Muhammad ibn ‘Isa from Safwan from Yusuf ibn Ibrahim who has said the following: “I once visited abu ‘Abd Allah, ‘Alayhi al-Salam, and I was wearing a Jubbah of silk and al-Taylisan (pallium) of silk. He (the Imam) looked at me and I asked saying, ‘I pray to Allah to keep my soul in service for your cause, I am wearing a Taylisan of silk and a Jubbah of silk, what do you say about them?’ He (the Imam) said, ‘Silk is not unlawful.’ I then said, ‘Its warp is abrisam (silk from silk worm as opposed to that from certain plant fibers or synthetic). He (the Imam) said, ‘Abrisam is not unlawful because when al-Husayn, ‘Alayhi al-Salam, was murdered, he was wearing abrisam and jubbah of silk.’ He (the Imam) then said, ‘Abd Allah ibn al-‘ Abbas was sent to al-Khawarij by ’Amir al-Mu’minin and he stood before them wearing the best of his dresses with the best perfumes and with the best stumper. They said, ‘O ibn al- ‘Abbas you are the best of people to us but you have come wearing the dress of the tyrants and riding the stumper of the tyrants.’ He read to them this verse, ‘Say, who has made unlawful the beauties that Allah has brought out for His servants and the best sustenance.’ So dress up and beautify; Allah is beautiful and He loves beauty but it must be of the lawful ones.’” "
+          ],
+          "text": "7. A number of our people have narrated from Sahl ibn Ziyad from Muhammad ibn ‘Isa from Safwan from Yusuf ibn Ibrahim who has said the following: “I once visited abu ‘Abd Allah, ‘Alayhi al-Salam, and I was wearing a Jubbah of silk and al-Taylisan (pallium) of silk. He (the Imam) looked at me and I asked saying, ‘I pray to Allah to keep my soul in service for your cause, I am wearing a Taylisan of silk and a Jubbah of silk, what do you say about them?’ He (the Imam) said, ‘Silk is not unlawful.’ I then said, ‘Its warp is abrisam (silk from silk worm as opposed to that from certain plant fibers or synthetic). He (the Imam) said, ‘Abrisam is not unlawful because when al-Husayn, ‘Alayhi al-Salam, was murdered, he was wearing abrisam and jubbah of silk.’ He (the Imam) then said, ‘Abd Allah ibn al-‘ Abbas was sent to al-Khawarij by ’Amir al-Mu’minin and he stood before them wearing the best of his dresses with the best perfumes and with the best stumper. They said, ‘O ibn al- ‘Abbas you are the best of people to us but you have come wearing the dress of the tyrants and riding the stumper of the tyrants.’ He read to them this verse, ‘Say, who has made unlawful the beauties that Allah has brought out for His servants and the best sustenance.’ So dress up and beautify; Allah is beautiful and He loves beauty but it must be of the lawful ones.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/317)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/317)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ سَهْلِ بْنِ زِيَادٍ عَنْ مُحَمَّدِ بْنِ عِيسَى عَنْ صَفْوَانَ عَنْ يُوسُفَ بْنِ إِبْرَاهِيمَ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَهْلِ بْنِ زِيَادٍ",
+            "path": "/people/narrators/8"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ عِيسَى",
+            "path": "/people/narrators/27"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "صَفْوَانَ",
+            "path": "/people/narrators/43"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "يُوسُفَ بْنِ إِبْرَاهِيمَ",
+            "path": "/people/narrators/4608"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/8",
+          "/people/narrators/27",
+          "/people/narrators/43",
+          "/people/narrators/4608"
+        ]
+      },
+      "relations": {
+        "Mentions": [
+          "/books/quran:7:32"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:8:2:7",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/8/2/7.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:8:2:8",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:8:2:8",
+        "parts": [
+          6,
+          8,
+          2,
+          8
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 8,
+        "chapter": 2,
+        "hadith": 8
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:8:2",
+        "titles": {
+          "ar": "باب اللِّبَاسِ",
+          "en": "Chapter 2 – The Dress"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " مَرَّ سُفْيَانُ الثَّوْرِيُّ فِي الْمَسْجِدِ الْحَرَامِ فَرَأَى أَبَا عَبْدِ اللَّهِ ( عليه السلام ) وَ عَلَيْهِ ثِيَابٌ كَثِيرَةُ الْقِيمَةِ حِسَانٌ فَقَالَ وَ اللَّهِ لآَتِيَنَّهُ وَ لَأُوَبِّخَنَّهُ فَدَنَا مِنْهُ فَقَالَ يَا ابْنَ رَسُولِ اللَّهِ مَا لَبِسَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) مِثْلَ هَذَا اللِّبَاسِ وَ لَا عَلِيٌّ ( عليه السلام ) وَ لَا أَحَدٌ مِنْ آبَائِكَ ",
+          "فَقَالَ لَهُ أَبُو عَبْدِ اللَّهِ ( عليه السلام ) كَانَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) فِي زَمَانِ قَتْرٍ مُقْتِرٍ وَ كَانَ يَأْخُذُ لِقَتْرِهِ وَ اقْتِدَارِهِ وَ إِنَّ الدُّنْيَا بَعْدَ ذَلِكَ أَرْخَتْ عَزَالِيَهَا فَأَحَقُّ أَهْلِهَا بِهَا أَبْرَارُهَا ثُمَّ تَلَا قُلْ مَنْ حَرَّمَ زِينَةَ اللَّهِ الَّتِي أَخْرَجَ لِعِبادِهِ وَ الطَّيِّباتِ مِنَ الرِّزْقِ وَ نَحْنُ أَحَقُّ مَنْ أَخَذَ مِنْهَا مَا أَعْطَاهُ اللَّهُ غَيْرَ أَنِّي يَا ثَوْرِيُّ مَا تَرَى عَلَيَّ مِنْ ثَوْبٍ إِنَّمَا أَلْبَسُهُ لِلنَّاسِ ",
+          "ثُمَّ اجْتَذَبَ يَدَ سُفْيَانَ فَجَرَّهَا إِلَيْهِ ثُمَّ رَفَعَ الثَّوْبَ الْأَعْلَى وَ أَخْرَجَ ثَوْباً تَحْتَ ذَلِكَ عَلَى جِلْدِهِ غَلِيظاً فَقَالَ هَذَا أَلْبَسُهُ لِنَفْسِي وَ مَا رَأَيْتَهُ لِلنَّاسِ ثُمَّ جَذَبَ ثَوْباً عَلَى سُفْيَانَ أَعْلَاهُ غَلِيظٌ خَشِنٌ وَ دَاخِلُ ذَلِكَ ثَوْبٌ لَيِّنٌ فَقَالَ لَبِسْتَ هَذَا الْأَعْلَى لِلنَّاسِ وَ لَبِسْتَ هَذَا لِنَفْسِكَ تَسُرُّهَا."
+        ],
+        "text": "مَرَّ سُفْيَانُ الثَّوْرِيُّ فِي الْمَسْجِدِ الْحَرَامِ فَرَأَى أَبَا عَبْدِ اللَّهِ ( عليه السلام ) وَ عَلَيْهِ ثِيَابٌ كَثِيرَةُ الْقِيمَةِ حِسَانٌ فَقَالَ وَ اللَّهِ لآَتِيَنَّهُ وَ لَأُوَبِّخَنَّهُ فَدَنَا مِنْهُ فَقَالَ يَا ابْنَ رَسُولِ اللَّهِ مَا لَبِسَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) مِثْلَ هَذَا اللِّبَاسِ وَ لَا عَلِيٌّ ( عليه السلام ) وَ لَا أَحَدٌ مِنْ آبَائِكَ\n\nفَقَالَ لَهُ أَبُو عَبْدِ اللَّهِ ( عليه السلام ) كَانَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) فِي زَمَانِ قَتْرٍ مُقْتِرٍ وَ كَانَ يَأْخُذُ لِقَتْرِهِ وَ اقْتِدَارِهِ وَ إِنَّ الدُّنْيَا بَعْدَ ذَلِكَ أَرْخَتْ عَزَالِيَهَا فَأَحَقُّ أَهْلِهَا بِهَا أَبْرَارُهَا ثُمَّ تَلَا قُلْ مَنْ حَرَّمَ زِينَةَ اللَّهِ الَّتِي أَخْرَجَ لِعِبادِهِ وَ الطَّيِّباتِ مِنَ الرِّزْقِ وَ نَحْنُ أَحَقُّ مَنْ أَخَذَ مِنْهَا مَا أَعْطَاهُ اللَّهُ غَيْرَ أَنِّي يَا ثَوْرِيُّ مَا تَرَى عَلَيَّ مِنْ ثَوْبٍ إِنَّمَا أَلْبَسُهُ لِلنَّاسِ\n\nثُمَّ اجْتَذَبَ يَدَ سُفْيَانَ فَجَرَّهَا إِلَيْهِ ثُمَّ رَفَعَ الثَّوْبَ الْأَعْلَى وَ أَخْرَجَ ثَوْباً تَحْتَ ذَلِكَ عَلَى جِلْدِهِ غَلِيظاً فَقَالَ هَذَا أَلْبَسُهُ لِنَفْسِي وَ مَا رَأَيْتَهُ لِلنَّاسِ ثُمَّ جَذَبَ ثَوْباً عَلَى سُفْيَانَ أَعْلَاهُ غَلِيظٌ خَشِنٌ وَ دَاخِلُ ذَلِكَ ثَوْبٌ لَيِّنٌ فَقَالَ لَبِسْتَ هَذَا الْأَعْلَى لِلنَّاسِ وَ لَبِسْتَ هَذَا لِنَفْسِكَ تَسُرُّهَا."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Muhammad Bin Bundar, from Ahmad Bin Abu Abdullah, from Muhammad Bin Ali, raising it, said, ",
+            "‘Sufyan Al-Sowry passed by in the Sacred Masjid, so he saw Abu Abdullah<sup>asws</sup> and upon him<sup>asws</sup> were a lot of clothes of goodly price. So he said, ‘By Allah<sup>azwj</sup>! I will go to him<sup>asws</sup> and rebuke him<sup>asws</sup>’. So he approached him<sup>asws</sup>. So he<sup>asws</sup> said, ‘O son<sup>asws</sup> of Rasool-Allah<sup>saww</sup>! Rasool-Allah<sup>saww</sup> did not wear the likes of these clothes, nor did Ali<sup>asws</sup>, nor did anyone (else) from your<sup>asws</sup> forefathers’. ",
+            "So Abu Abdullah<sup>asws</sup> said to him: ‘Rasool-Allah<sup>saww</sup> was in an era of scarcity and financial straitness, and he<sup>saww</sup> used to take in accordance with his<sup>saww</sup> straitness and his<sup>saww</sup> ability, and the world after that has long gone past it, thus the most deserving of its people with it are its righteous ones’. Then he<sup>asws</sup> recited <span class=\"ibTxt\"><a href=\"/#/books/quran:7#h32\"><a href=\"/books/quran:7#h32\">[7:32]</a></a> Say: Who has prohibited the adornments of Allah which He has Brought forth for His servants and the good provisions?</span> And we<sup>asws</sup> are the most rightful of taking from it what Allah<sup>azwj</sup> has Granted it, besides I<sup>asws</sup>, O Sowry, what you see upon me<sup>asws</sup> from the clothes, rather I<sup>asws</sup> wear it for the people’. ",
+            "Then he<sup>asws</sup> drew the hand of Sufyan, so he<sup>asws</sup> brought it towards himself<sup>asws</sup>. Then he<sup>asws</sup> raised his upper garment, and there was a cloth beneath that, upon his<sup>asws</sup> skin, which was rough. So he<sup>asws</sup> said: ‘This, I<sup>asws</sup> wear it for myself<sup>asws</sup>, and what you see is for the people’. Then he<sup>asws</sup> drew the upper clothing of Sufyan which was rough, coarse, and inside that was a smooth cloth. So he<sup>asws</sup> said: ‘You wear this outer garment for the people, and you wear this for yourself, delighting in it’."
+          ],
+          "text": "Ali Bin Muhammad Bin Bundar, from Ahmad Bin Abu Abdullah, from Muhammad Bin Ali, raising it, said,\n\n‘Sufyan Al-Sowry passed by in the Sacred Masjid, so he saw Abu Abdullah<sup>asws</sup> and upon him<sup>asws</sup> were a lot of clothes of goodly price. So he said, ‘By Allah<sup>azwj</sup>! I will go to him<sup>asws</sup> and rebuke him<sup>asws</sup>’. So he approached him<sup>asws</sup>. So he<sup>asws</sup> said, ‘O son<sup>asws</sup> of Rasool-Allah<sup>saww</sup>! Rasool-Allah<sup>saww</sup> did not wear the likes of these clothes, nor did Ali<sup>asws</sup>, nor did anyone (else) from your<sup>asws</sup> forefathers’.\n\nSo Abu Abdullah<sup>asws</sup> said to him: ‘Rasool-Allah<sup>saww</sup> was in an era of scarcity and financial straitness, and he<sup>saww</sup> used to take in accordance with his<sup>saww</sup> straitness and his<sup>saww</sup> ability, and the world after that has long gone past it, thus the most deserving of its people with it are its righteous ones’. Then he<sup>asws</sup> recited <span class=\"ibTxt\"><a href=\"/#/books/quran:7#h32\"><a href=\"/books/quran:7#h32\">[7:32]</a></a> Say: Who has prohibited the adornments of Allah which He has Brought forth for His servants and the good provisions?</span> And we<sup>asws</sup> are the most rightful of taking from it what Allah<sup>azwj</sup> has Granted it, besides I<sup>asws</sup>, O Sowry, what you see upon me<sup>asws</sup> from the clothes, rather I<sup>asws</sup> wear it for the people’.\n\nThen he<sup>asws</sup> drew the hand of Sufyan, so he<sup>asws</sup> brought it towards himself<sup>asws</sup>. Then he<sup>asws</sup> raised his upper garment, and there was a cloth beneath that, upon his<sup>asws</sup> skin, which was rough. So he<sup>asws</sup> said: ‘This, I<sup>asws</sup> wear it for myself<sup>asws</sup>, and what you see is for the people’. Then he<sup>asws</sup> drew the upper clothing of Sufyan which was rough, coarse, and inside that was a smooth cloth. So he<sup>asws</sup> said: ‘You wear this outer garment for the people, and you wear this for yourself, delighting in it’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "8. Ali ibn Muhammad ibn Bandar Ahmad ibn abu ‘Abd Allah from Muhammad ibn Ali in a marfu‘ manner has said the following: “Once, Sufyan al-Thawriy passed by Masjid al-Haram (the sacred area) and he saw abu ‘Abd Allah, ‘Alayhi al-Salam, dressed in fine expensive clothes. He decided to meet him (the Imam) and scold him. He went close and said, ‘O child of the Messenger of Allah, the Messenger of Allah did not dress up with this kind of dress, Ali did not dress with this kind of dress nor any of your ancestors did.’ Abu ‘Abd Allah, ‘Alayhi al-Salam, said, ‘The Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, lived at a time when it was a financially serious and stringent condition. He (the Messenger of Allah) lived according to such conditions but the world thereafter has become financially relaxed. The most deserving in financial opportunities are the virtuous people.’ He (the Imam) then read this verse, ‘Say, who has made unlawful the beautiful things that Allah has brought out for His servants and the fine kinds of means of sustenance.’ <a href=\"/#/books/quran:7#h31\"><a href=\"/books/quran:7#h31\">[7:31]</a></a> We are the most deserving of what Allah has granted. However, O Thawriy, what you see I have dressed up with I have done so for people. He (the Imam) pulled his hand to himself and raised the outer layer of his dress. Underneath on his body was a layer of rough textured garment. He (the Imam) said, ‘I wear this for my own soul and what you see (the outer layer) is for people.’ He (the Imam) then raised the outer layer of the garment of Sufyan, which was of rough texture but the layer underneath on his body was of a fine quality. He (the Imam) said, ‘You have dressed up for people with the outer layer and for yourself to enjoy with the fine quality layer underneath.’” "
+          ],
+          "text": "8. Ali ibn Muhammad ibn Bandar Ahmad ibn abu ‘Abd Allah from Muhammad ibn Ali in a marfu‘ manner has said the following: “Once, Sufyan al-Thawriy passed by Masjid al-Haram (the sacred area) and he saw abu ‘Abd Allah, ‘Alayhi al-Salam, dressed in fine expensive clothes. He decided to meet him (the Imam) and scold him. He went close and said, ‘O child of the Messenger of Allah, the Messenger of Allah did not dress up with this kind of dress, Ali did not dress with this kind of dress nor any of your ancestors did.’ Abu ‘Abd Allah, ‘Alayhi al-Salam, said, ‘The Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, lived at a time when it was a financially serious and stringent condition. He (the Messenger of Allah) lived according to such conditions but the world thereafter has become financially relaxed. The most deserving in financial opportunities are the virtuous people.’ He (the Imam) then read this verse, ‘Say, who has made unlawful the beautiful things that Allah has brought out for His servants and the fine kinds of means of sustenance.’ <a href=\"/#/books/quran:7#h31\"><a href=\"/books/quran:7#h31\">[7:31]</a></a> We are the most deserving of what Allah has granted. However, O Thawriy, what you see I have dressed up with I have done so for people. He (the Imam) pulled his hand to himself and raised the outer layer of his dress. Underneath on his body was a layer of rough textured garment. He (the Imam) said, ‘I wear this for my own soul and what you see (the outer layer) is for people.’ He (the Imam) then raised the outer layer of the garment of Sufyan, which was of rough texture but the layer underneath on his body was of a fine quality. He (the Imam) said, ‘You have dressed up for people with the outer layer and for yourself to enjoy with the fine quality layer underneath.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/317)",
+          "label": "ضعيف",
+          "text": "Allamah Baqir al-Majlisi: ضعيف - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/317)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ مُحَمَّدِ بْنِ بُنْدَارَ عَنْ أَحْمَدَ بْنِ أَبِي عَبْدِ اللَّهِ عَنْ مُحَمَّدِ بْنِ عَلِيٍّ رَفَعَهُ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ مُحَمَّدِ بْنِ بُنْدَارَ",
+            "path": "/people/narrators/133"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ أَبِي عَبْدِ اللَّهِ",
+            "path": "/people/narrators/12"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ عَلِيٍّ",
+            "path": "/people/narrators/67"
+          },
+          {
+            "kind": "plain",
+            "text": " رَفَعَهُ قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/133",
+          "/people/narrators/12",
+          "/people/narrators/67"
+        ]
+      },
+      "relations": {
+        "Mentions": [
+          "/books/quran:7:31",
+          "/books/quran:7:32"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:8:2:8",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/8/2/8.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:8:2:9",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:8:2:9",
+        "parts": [
+          6,
+          8,
+          2,
+          9
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 8,
+        "chapter": 2,
+        "hadith": 9
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:8:2",
+        "titles": {
+          "ar": "باب اللِّبَاسِ",
+          "en": "Chapter 2 – The Dress"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَمِعْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) يَقُولُ بَيْنَا أَنَا فِي الطَّوَافِ وَ إِذَا بِرَجُلٍ يَجْذِبُ ثَوْبِي وَ إِذَا هُوَ عَبَّادُ بْنُ كَثِيرٍ الْبَصْرِيُّ فَقَالَ يَا جَعْفَرَ بْنَ مُحَمَّدٍ تَلْبَسُ مِثْلَ هَذِهِ الثِّيَابِ وَ أَنْتَ فِي هَذَا الْمَوْضِعِ مَعَ الْمَكَانِ الَّذِي أَنْتَ فِيهِ مِنْ عَلِيٍّ ( عليه السلام ) فَقُلْتُ ثَوْبٌ فُرْقُبِيٌّ اشْتَرَيْتُهُ بِدِينَارٍ وَ كَانَ عَلِيٌّ ( عليه السلام ) فِي زَمَانٍ يَسْتَقِيمُ لَهُ مَا لَبِسَ فِيهِ وَ لَوْ لَبِسْتُ مِثْلَ ذَلِكَ اللِّبَاسِ فِي زَمَانِنَا لَقَالَ النَّاسُ هَذَا مُرَاءٍ مِثْلُ عَبَّادٍ ."
+        ],
+        "text": "سَمِعْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) يَقُولُ بَيْنَا أَنَا فِي الطَّوَافِ وَ إِذَا بِرَجُلٍ يَجْذِبُ ثَوْبِي وَ إِذَا هُوَ عَبَّادُ بْنُ كَثِيرٍ الْبَصْرِيُّ فَقَالَ يَا جَعْفَرَ بْنَ مُحَمَّدٍ تَلْبَسُ مِثْلَ هَذِهِ الثِّيَابِ وَ أَنْتَ فِي هَذَا الْمَوْضِعِ مَعَ الْمَكَانِ الَّذِي أَنْتَ فِيهِ مِنْ عَلِيٍّ ( عليه السلام ) فَقُلْتُ ثَوْبٌ فُرْقُبِيٌّ اشْتَرَيْتُهُ بِدِينَارٍ وَ كَانَ عَلِيٌّ ( عليه السلام ) فِي زَمَانٍ يَسْتَقِيمُ لَهُ مَا لَبِسَ فِيهِ وَ لَوْ لَبِسْتُ مِثْلَ ذَلِكَ اللِّبَاسِ فِي زَمَانِنَا لَقَالَ النَّاسُ هَذَا مُرَاءٍ مِثْلُ عَبَّادٍ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Al Husayn Bin Muhammad, from Moala Bin Muhammad, from Al Washa, from Abdullah Bin Sinan who said, ",
+            "‘I heard Abu Abdullah<sup>asws</sup> saying: ‘Whilst I<sup>asws</sup> was in the circumambulation (of the Kaaba) when a man grabbed hold of my<sup>asws</sup> clothes, and he was Abbad Bin Kaseer Al-Basry. So he said, ‘O Ja’far<sup>asws</sup> Bin Muhammad<sup>asws</sup>! You<sup>asws</sup> are wearing the likes of these clothes, and you<sup>asws</sup> are in this place along with the status which you<sup>asws</sup> are in from Ali<sup>asws</sup>?’ So I<sup>asws</sup> said: ‘It is a Furqaby (Egyptian) cloth, which I<sup>asws</sup> bought with one Dinar, and Ali<sup>asws</sup> was in an era in which it was correct for him<sup>asws</sup> what he<sup>asws</sup> wore in it, and if I<sup>asws</sup> were to wear the likes of that in our<sup>asws</sup> era, the people would say, ‘This is a show-off like Abbad’."
+          ],
+          "text": "Al Husayn Bin Muhammad, from Moala Bin Muhammad, from Al Washa, from Abdullah Bin Sinan who said,\n\n‘I heard Abu Abdullah<sup>asws</sup> saying: ‘Whilst I<sup>asws</sup> was in the circumambulation (of the Kaaba) when a man grabbed hold of my<sup>asws</sup> clothes, and he was Abbad Bin Kaseer Al-Basry. So he said, ‘O Ja’far<sup>asws</sup> Bin Muhammad<sup>asws</sup>! You<sup>asws</sup> are wearing the likes of these clothes, and you<sup>asws</sup> are in this place along with the status which you<sup>asws</sup> are in from Ali<sup>asws</sup>?’ So I<sup>asws</sup> said: ‘It is a Furqaby (Egyptian) cloth, which I<sup>asws</sup> bought with one Dinar, and Ali<sup>asws</sup> was in an era in which it was correct for him<sup>asws</sup> what he<sup>asws</sup> wore in it, and if I<sup>asws</sup> were to wear the likes of that in our<sup>asws</sup> era, the people would say, ‘This is a show-off like Abbad’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "9. Al-Husayn ibn Muhammad has narrated from Mu‘alla’ ibn Muhammad from ai-Washsha’ from ‘Abd Aifah ibn Sinan who has said the following: “I once heard abu ‘Abd Allah, ‘Alayhi al-Salam, saying, ‘When I was in tawaf (walking around al- Ka‘bah) someone pulled my dress and he was ‘Abbad ibn Kathir al-Basriy saying, “O Ja‘far ibn Muhammad, you wear this kind of dress and your position to Ali, ‘Alayhi al-Salam, is so close.’” I said, ‘It is a material made in Furqubiy (a place in Egypt) which I have bought for a dinar. Ali, ‘Alayhi al-Salam, lived in a time when his kind of dress was suitable for him and if I wear that kind of dress now people will say, “He is another show off like ‘Abbad.’”” "
+          ],
+          "text": "9. Al-Husayn ibn Muhammad has narrated from Mu‘alla’ ibn Muhammad from ai-Washsha’ from ‘Abd Aifah ibn Sinan who has said the following: “I once heard abu ‘Abd Allah, ‘Alayhi al-Salam, saying, ‘When I was in tawaf (walking around al- Ka‘bah) someone pulled my dress and he was ‘Abbad ibn Kathir al-Basriy saying, “O Ja‘far ibn Muhammad, you wear this kind of dress and your position to Ali, ‘Alayhi al-Salam, is so close.’” I said, ‘It is a material made in Furqubiy (a place in Egypt) which I have bought for a dinar. Ali, ‘Alayhi al-Salam, lived in a time when his kind of dress was suitable for him and if I wear that kind of dress now people will say, “He is another show off like ‘Abbad.’””"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/318)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/318)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "الْحُسَيْنُ بْنُ مُحَمَّدٍ عَنْ مُعَلَّى بْنِ مُحَمَّدٍ عَنِ الْوَشَّاءِ عَنْ عَبْدِ اللَّهِ بْنِ سِنَانٍ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "الْحُسَيْنُ بْنُ مُحَمَّدٍ",
+            "path": "/people/narrators/20"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُعَلَّى بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/25"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْوَشَّاءِ",
+            "path": "/people/narrators/61"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَبْدِ اللَّهِ بْنِ سِنَانٍ",
+            "path": "/people/narrators/31"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/20",
+          "/people/narrators/25",
+          "/people/narrators/61",
+          "/people/narrators/31"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:1:4:108:13",
+          "/books/al-kafi:1:4:12:3",
+          "/books/al-kafi:2:2:3:7",
+          "/books/al-kafi:5:2:80:15",
+          "/books/al-kafi:6:4:11:13",
+          "/books/al-kafi:6:9:4:11",
+          "/books/al-kafi:7:7:7:2"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:8:2:9",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/8/2/9.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:8:2:10",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:8:2:10",
+        "parts": [
+          6,
+          8,
+          2,
+          10
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 8,
+        "chapter": 2,
+        "hadith": 10
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:8:2",
+        "titles": {
+          "ar": "باب اللِّبَاسِ",
+          "en": "Chapter 2 – The Dress"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَأَلْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) عَنِ الرَّجُلِ يَكُونُ لَهُ عَشَرَةُ أَقْمِصَةٍ يُرَاوِحُ بَيْنَهَا قَالَ لَا بَأْسَ ."
+        ],
+        "text": "سَأَلْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) عَنِ الرَّجُلِ يَكُونُ لَهُ عَشَرَةُ أَقْمِصَةٍ يُرَاوِحُ بَيْنَهَا قَالَ لَا بَأْسَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Ahmad Bin Muhammad Bin Khalid, from Usman Bin Isa, from Is’haq Bin Ammar who said, ",
+            "‘I asked Abu Abdullah<sup>asws</sup> about the man who happened to have ten shirts for him, rotating between these. He<sup>asws</sup> said: ‘There is no problem’."
+          ],
+          "text": "A number of our companions, from Ahmad Bin Muhammad Bin Khalid, from Usman Bin Isa, from Is’haq Bin Ammar who said,\n\n‘I asked Abu Abdullah<sup>asws</sup> about the man who happened to have ten shirts for him, rotating between these. He<sup>asws</sup> said: ‘There is no problem’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "10. A number of our people have narrated from Ahmad ibn Muhammad ibn Khalid from ‘Uthman ibn ‘Isa from Ishaq ibn ‘Ammar who has said the following: “I once asked abu ‘Abd Allah, ‘Alayhi al-Salam, if a man can have ten shirts, changing them every day. He (the Imam) said, ’It is not unlawful.’” "
+          ],
+          "text": "10. A number of our people have narrated from Ahmad ibn Muhammad ibn Khalid from ‘Uthman ibn ‘Isa from Ishaq ibn ‘Ammar who has said the following: “I once asked abu ‘Abd Allah, ‘Alayhi al-Salam, if a man can have ten shirts, changing them every day. He (the Imam) said, ’It is not unlawful.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> موثق  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/318)",
+          "label": "موثق",
+          "text": "Allamah Baqir al-Majlisi: موثق - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/318)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ خَالِدٍ عَنْ عُثْمَانَ بْنِ عِيسَى عَنْ إِسْحَاقَ بْنِ عَمَّارٍ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدِ بْنِ خَالِدٍ",
+            "path": "/people/narrators/12"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عُثْمَانَ بْنِ عِيسَى",
+            "path": "/people/narrators/41"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "إِسْحَاقَ بْنِ عَمَّارٍ",
+            "path": "/people/narrators/44"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/12",
+          "/people/narrators/41",
+          "/people/narrators/44"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:8:2:10",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/8/2/10.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:8:2:11",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:8:2:11",
+        "parts": [
+          6,
+          8,
+          2,
+          11
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 8,
+        "chapter": 2,
+        "hadith": 11
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:8:2",
+        "titles": {
+          "ar": "باب اللِّبَاسِ",
+          "en": "Chapter 2 – The Dress"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قُلْتُ لِأَبِي عَبْدِ اللَّهِ ( عليه السلام ) يَكُونُ لِي ثَلَاثَةُ أَقْمِصَةٍ قَالَ لَا بَأْسَ قَالَ فَلَمْ أَزَلْ حَتَّى بَلَغْتُ عَشَرَةً فَقَالَ أَ لَيْسَ يُوَدِّعُ بَعْضُهَا بَعْضاً قُلْتُ بَلَى وَ لَوْ كُنْتُ إِنَّمَا أَلْبَسُ وَاحِداً لَكَانَ أَقَلَّ بَقَاءً قَالَ لَا بَأْسَ ."
+        ],
+        "text": "قُلْتُ لِأَبِي عَبْدِ اللَّهِ ( عليه السلام ) يَكُونُ لِي ثَلَاثَةُ أَقْمِصَةٍ قَالَ لَا بَأْسَ قَالَ فَلَمْ أَزَلْ حَتَّى بَلَغْتُ عَشَرَةً فَقَالَ أَ لَيْسَ يُوَدِّعُ بَعْضُهَا بَعْضاً قُلْتُ بَلَى وَ لَوْ كُنْتُ إِنَّمَا أَلْبَسُ وَاحِداً لَكَانَ أَقَلَّ بَقَاءً قَالَ لَا بَأْسَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "And by this chain, from Is’haq Bin Ammar who said, ",
+            "‘I said to Abu Abdullah<sup>asws</sup>, ‘There happen to be three shirts for me’. He<sup>asws</sup> said: ‘There is no problem’. So he did not cease (numbering) until it reached ten. So he<sup>asws</sup> said: ‘Do they not make each other last longer?’ I said, ‘Yes, and were I to wear one, it would last for a little (while)’ He<sup>asws</sup> said: ‘There is no problem’."
+          ],
+          "text": "And by this chain, from Is’haq Bin Ammar who said,\n\n‘I said to Abu Abdullah<sup>asws</sup>, ‘There happen to be three shirts for me’. He<sup>asws</sup> said: ‘There is no problem’. So he did not cease (numbering) until it reached ten. So he<sup>asws</sup> said: ‘Do they not make each other last longer?’ I said, ‘Yes, and were I to wear one, it would last for a little (while)’ He<sup>asws</sup> said: ‘There is no problem’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "11. Through the same chain of narrators as that of the previous Hadith the following is narrated from Ishaq ibn ‘Ammar who has said the following: “I once asked abu ‘Abd Allah, ‘Alayhi al-Salam, if I can have three shirts. He (the Imam) said, ‘It is not unlawful.’ I asked again until I reached ten shirts and he (the Imam) said, ‘Does exchanging give them more durability?’ I said, ‘It does, were I to wear one of them for a longer time, it would become less durable.’ He (the Imam) said, ‘It is not unlawful.’” "
+          ],
+          "text": "11. Through the same chain of narrators as that of the previous Hadith the following is narrated from Ishaq ibn ‘Ammar who has said the following: “I once asked abu ‘Abd Allah, ‘Alayhi al-Salam, if I can have three shirts. He (the Imam) said, ‘It is not unlawful.’ I asked again until I reached ten shirts and he (the Imam) said, ‘Does exchanging give them more durability?’ I said, ‘It does, were I to wear one of them for a longer time, it would become less durable.’ He (the Imam) said, ‘It is not unlawful.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> موثق    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/318)",
+          "label": "موثق",
+          "text": "Allamah Baqir al-Majlisi: موثق - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/318)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "وَ بِهَذَا الْإِسْنَادِ عَنْ إِسْحَاقَ بْنِ عَمَّارٍ قَالَ",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "وَ "
+          },
+          {
+            "kind": "narrator",
+            "text": "بِهَذَا الْإِسْنَادِ",
+            "path": "/people/narrators/77"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "إِسْحَاقَ بْنِ عَمَّارٍ",
+            "path": "/people/narrators/44"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/77",
+          "/people/narrators/44"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:8:2:11",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/8/2/11.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:8:2:12",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:8:2:12",
+        "parts": [
+          6,
+          8,
+          2,
+          12
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 8,
+        "chapter": 2,
+        "hadith": 12
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:8:2",
+        "titles": {
+          "ar": "باب اللِّبَاسِ",
+          "en": "Chapter 2 – The Dress"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَأَلْتُهُ عَنِ الرَّجُلِ الْمُوسِرِ يَتَّخِذُ الثِّيَابَ الْكَثِيرَةَ الْجِيَادَ وَ الطَّيَالِسَةَ وَ الْقُمُصَ الْكَثِيرَةَ يَصُونُ بَعْضُهَا بَعْضاً يَتَجَمَّلُ بِهَا أَ يَكُونُ مُسْرِفاً قَالَ لَا لِأَنَّ اللَّهَ عَزَّ وَ جَلَّ يَقُولُ لِيُنْفِقْ ذُو سَعَةٍ مِنْ سَعَتِهِ ."
+        ],
+        "text": "سَأَلْتُهُ عَنِ الرَّجُلِ الْمُوسِرِ يَتَّخِذُ الثِّيَابَ الْكَثِيرَةَ الْجِيَادَ وَ الطَّيَالِسَةَ وَ الْقُمُصَ الْكَثِيرَةَ يَصُونُ بَعْضُهَا بَعْضاً يَتَجَمَّلُ بِهَا أَ يَكُونُ مُسْرِفاً قَالَ لَا لِأَنَّ اللَّهَ عَزَّ وَ جَلَّ يَقُولُ لِيُنْفِقْ ذُو سَعَةٍ مِنْ سَعَتِهِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "From him, from Nuh Bin Shuayb, from one of his companions, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup>, said, ‘I asked him<sup>asws</sup> about the man affluent man taking many clothes, new ones, and the pallium, and an abundance of shirts making each other last longer, beautifying by these, would he happen to be an extravagant?’ He<sup>asws</sup> said: ‘No, because Allah<sup>azwj</sup> Mighty and Majestic Saying <span class=\"ibTxt\"><a href=\"/#/books/quran:65#h7\"><a href=\"/books/quran:65#h7\">[65:7]</a></a> Let him who has abundance spend out of his abundance</span>’."
+          ],
+          "text": "From him, from Nuh Bin Shuayb, from one of his companions,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup>, said, ‘I asked him<sup>asws</sup> about the man affluent man taking many clothes, new ones, and the pallium, and an abundance of shirts making each other last longer, beautifying by these, would he happen to be an extravagant?’ He<sup>asws</sup> said: ‘No, because Allah<sup>azwj</sup> Mighty and Majestic Saying <span class=\"ibTxt\"><a href=\"/#/books/quran:65#h7\"><a href=\"/books/quran:65#h7\">[65:7]</a></a> Let him who has abundance spend out of his abundance</span>’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "12. It is narrated from the narrator of the previous Hadith from Nuh ibn Shu’ayb from certain persons of his people who has said the following: “I once asked abu ‘Abd Allah, ‘Alayhi al-Salam, about the case of a man who is affluent and has a great deal of clothes and very fine ones, palliums, many shirts which are used to extend the life of each shirt and beautify himself; if it is profligacy and lavishness. He (the Imam) said, ‘No, it is not lavishness because Allah, most Majestic, most Glorious, says, “The affluent can spend according to his affluent condition.” <a href=\"/#/books/quran:65#h7\"><a href=\"/books/quran:65#h7\">[65:7]</a></a>’” "
+          ],
+          "text": "12. It is narrated from the narrator of the previous Hadith from Nuh ibn Shu’ayb from certain persons of his people who has said the following: “I once asked abu ‘Abd Allah, ‘Alayhi al-Salam, about the case of a man who is affluent and has a great deal of clothes and very fine ones, palliums, many shirts which are used to extend the life of each shirt and beautify himself; if it is profligacy and lavishness. He (the Imam) said, ‘No, it is not lavishness because Allah, most Majestic, most Glorious, says, “The affluent can spend according to his affluent condition.” <a href=\"/#/books/quran:65#h7\"><a href=\"/books/quran:65#h7\">[65:7]</a></a>’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مرسل  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/319)",
+          "label": "مرسل",
+          "text": "Allamah Baqir al-Majlisi: مرسل - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/319)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَنْهُ عَنْ نُوحِ بْنِ شُعَيْبٍ عَنْ بَعْضِ أَصْحَابِهِ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَنْهُ",
+            "path": "/people/narrators/11"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "نُوحِ بْنِ شُعَيْبٍ",
+            "path": "/people/narrators/390"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "بَعْضِ أَصْحَابِهِ",
+            "path": "/people/narrators/37"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/11",
+          "/people/narrators/390",
+          "/people/narrators/37",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {
+        "Mentions": [
+          "/books/quran:65:7"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:8:2:12",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/8/2/12.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:8:2:13",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:8:2:13",
+        "parts": [
+          6,
+          8,
+          2,
+          13
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 8,
+        "chapter": 2,
+        "hadith": 13
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:8:2",
+        "titles": {
+          "ar": "باب اللِّبَاسِ",
+          "en": "Chapter 2 – The Dress"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " كَانَ أَبُو عَبْدِ اللَّهِ ( عليه السلام ) مُتَّكِئاً عَلَيَّ أَوْ قَالَ عَلَى أَبِي فَلَقِيَهُ عَبَّادُ بْنُ كَثِيرٍ الْبَصْرِيُّ وَ عَلَيْهِ ثِيَابٌ مَرْوِيَّةٌ حِسَانٌ فَقَالَ يَا أَبَا عَبْدِ اللَّهِ ( عليه السلام ) إِنَّكَ مِنْ أَهْلِ بَيْتِ النُّبُوَّةِ وَ كَانَ أَبُوكَ وَ كَانَ فَمَا هَذِهِ الثِّيَابُ الْمَرْوِيَّةُ عَلَيْكَ فَلَوْ لَبِسْتَ دُونَ هَذِهِ الثِّيَابِ فَقَالَ لَهُ أَبُو عَبْدِ اللَّهِ ( عليه السلام ) وَيْلَكَ يَا عَبَّادُ مَنْ حَرَّمَ زِينَةَ اللَّهِ الَّتِي أَخْرَجَ لِعِبَادِهِ وَ الطَّيِّبَاتِ مِنَ الرِّزْقِ إِنَّ اللَّهَ عَزَّ وَ جَلَّ إِذَا أَنْعَمَ عَلَى عَبْدِهِ نِعْمَةً أَحَبَّ أَنْ يَرَاهَا عَلَيْهِ لَيْسَ بِهَا بَأْسٌ وَيْلَكَ يَا عَبَّادُ إِنَّمَا أَنَا بَضْعَةٌ مِنْ رَسُولِ اللَّهِ ( صلى الله عليه وآله ) فَلَا تُؤْذِنِي وَ كَانَ عَبَّادٌ يَلْبَسُ ثَوْبَيْنِ قِطْرِيَّيْنِ ."
+        ],
+        "text": "كَانَ أَبُو عَبْدِ اللَّهِ ( عليه السلام ) مُتَّكِئاً عَلَيَّ أَوْ قَالَ عَلَى أَبِي فَلَقِيَهُ عَبَّادُ بْنُ كَثِيرٍ الْبَصْرِيُّ وَ عَلَيْهِ ثِيَابٌ مَرْوِيَّةٌ حِسَانٌ فَقَالَ يَا أَبَا عَبْدِ اللَّهِ ( عليه السلام ) إِنَّكَ مِنْ أَهْلِ بَيْتِ النُّبُوَّةِ وَ كَانَ أَبُوكَ وَ كَانَ فَمَا هَذِهِ الثِّيَابُ الْمَرْوِيَّةُ عَلَيْكَ فَلَوْ لَبِسْتَ دُونَ هَذِهِ الثِّيَابِ فَقَالَ لَهُ أَبُو عَبْدِ اللَّهِ ( عليه السلام ) وَيْلَكَ يَا عَبَّادُ مَنْ حَرَّمَ زِينَةَ اللَّهِ الَّتِي أَخْرَجَ لِعِبَادِهِ وَ الطَّيِّبَاتِ مِنَ الرِّزْقِ إِنَّ اللَّهَ عَزَّ وَ جَلَّ إِذَا أَنْعَمَ عَلَى عَبْدِهِ نِعْمَةً أَحَبَّ أَنْ يَرَاهَا عَلَيْهِ لَيْسَ بِهَا بَأْسٌ وَيْلَكَ يَا عَبَّادُ إِنَّمَا أَنَا بَضْعَةٌ مِنْ رَسُولِ اللَّهِ ( صلى الله عليه وآله ) فَلَا تُؤْذِنِي وَ كَانَ عَبَّادٌ يَلْبَسُ ثَوْبَيْنِ قِطْرِيَّيْنِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Sahl Bin Ziyad, from Ja’far Bin Muhammad Al Ashary, from Ibn Al Qadah who said, ",
+            "‘Abu Abdullah<sup>asws</sup> was leaning upon me’, or said, ‘Upon my father’, so Abbad Bin Kaseer Al Basry came over and upon him<sup>asws</sup> were clothes of Merv (a city), so he said, ‘O Abu Abdullah<sup>asws</sup>! You<sup>asws</sup> are from the People<sup>asws</sup> of the Household of the Prophet-hood, and your<sup>asws</sup> father<sup>asws</sup> was what he<sup>asws</sup> was, so what are these Mervian clothes upon you<sup>asws</sup>? If only you<sup>asws</sup> would wear besides these clothes’. So Abu Abdullah<sup>asws</sup> said to him: ‘Woe be unto you, O Abbad! <span class=\"ibTxt\"><a href=\"/#/books/quran:7#h32\"><a href=\"/books/quran:7#h32\">[7:32]</a></a> Say: Who has prohibited the adornments of Allah which He has Brought forth for His servants and the good provisions?</span> When Allah<sup>azwj</sup> Mighty and Majestic Favours upon His<sup>azwj</sup> servant with a Bounty Loves that He<sup>azwj</sup> Sees it upon him. There is no problem with it. Woe be unto you, O Abbad! But rather, I<sup>asws</sup> am a part of Rasool-Allah<sup>saww</sup>, therefore do not hurt me<sup>asws</sup>’. And it was so that Abbad had worn two Qatary (a city) clothes’."
+          ],
+          "text": "A number of our companions, from Sahl Bin Ziyad, from Ja’far Bin Muhammad Al Ashary, from Ibn Al Qadah who said,\n\n‘Abu Abdullah<sup>asws</sup> was leaning upon me’, or said, ‘Upon my father’, so Abbad Bin Kaseer Al Basry came over and upon him<sup>asws</sup> were clothes of Merv (a city), so he said, ‘O Abu Abdullah<sup>asws</sup>! You<sup>asws</sup> are from the People<sup>asws</sup> of the Household of the Prophet-hood, and your<sup>asws</sup> father<sup>asws</sup> was what he<sup>asws</sup> was, so what are these Mervian clothes upon you<sup>asws</sup>? If only you<sup>asws</sup> would wear besides these clothes’. So Abu Abdullah<sup>asws</sup> said to him: ‘Woe be unto you, O Abbad! <span class=\"ibTxt\"><a href=\"/#/books/quran:7#h32\"><a href=\"/books/quran:7#h32\">[7:32]</a></a> Say: Who has prohibited the adornments of Allah which He has Brought forth for His servants and the good provisions?</span> When Allah<sup>azwj</sup> Mighty and Majestic Favours upon His<sup>azwj</sup> servant with a Bounty Loves that He<sup>azwj</sup> Sees it upon him. There is no problem with it. Woe be unto you, O Abbad! But rather, I<sup>asws</sup> am a part of Rasool-Allah<sup>saww</sup>, therefore do not hurt me<sup>asws</sup>’. And it was so that Abbad had worn two Qatary (a city) clothes’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "13. A number of our people have narrated from Sahl ibn Ziyad from Ja‘far ibn Muhammad al-Astdariy from ibn al-Qaddah who has said the following: “Once abu ‘Abd Allah, ‘Alayhi al-Salam, was leaning against me or he said, ‘against my father’ when ‘Abbad ibn Kathir al-Basriy met him (the Imam) and he (the Imam) had a dress of fabrics made in Marw (name of place) of fine quality. He (‘Abbad) said, ‘O abu ‘Abd Allah, you are of the family of the Holy Prophet, and your father was (so pious). What is this dress, made in Marw, on you? I wish you dressed in a lower quality dress.’ Abu ‘Abd Allah, ‘Alayhi al-Salam, said to him, ‘Woe on you, O ‘Abbad! Who has made unlawful the beautiful things that Allah, most Majestic, most Glorious, has brought out for His servants and the very fine kinds of means of sustenance. When Allah, most Majestic, most Glorious, grants bounties on His servant He loves to see it on him and it is not harmful. Woe on you, O ‘Abbad, I am a piece of the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, do not trouble me.’ ‘Abbad wore two pieces of clothes made in Qitr (name of a place).”’ "
+          ],
+          "text": "13. A number of our people have narrated from Sahl ibn Ziyad from Ja‘far ibn Muhammad al-Astdariy from ibn al-Qaddah who has said the following: “Once abu ‘Abd Allah, ‘Alayhi al-Salam, was leaning against me or he said, ‘against my father’ when ‘Abbad ibn Kathir al-Basriy met him (the Imam) and he (the Imam) had a dress of fabrics made in Marw (name of place) of fine quality. He (‘Abbad) said, ‘O abu ‘Abd Allah, you are of the family of the Holy Prophet, and your father was (so pious). What is this dress, made in Marw, on you? I wish you dressed in a lower quality dress.’ Abu ‘Abd Allah, ‘Alayhi al-Salam, said to him, ‘Woe on you, O ‘Abbad! Who has made unlawful the beautiful things that Allah, most Majestic, most Glorious, has brought out for His servants and the very fine kinds of means of sustenance. When Allah, most Majestic, most Glorious, grants bounties on His servant He loves to see it on him and it is not harmful. Woe on you, O ‘Abbad, I am a piece of the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, do not trouble me.’ ‘Abbad wore two pieces of clothes made in Qitr (name of a place).”’"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/319)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/319)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ سَهْلِ بْنِ زِيَادٍ عَنْ جَعْفَرِ بْنِ مُحَمَّدٍ الْأَشْعَرِيِّ عَنِ ابْنِ الْقَدَّاحِ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَهْلِ بْنِ زِيَادٍ",
+            "path": "/people/narrators/8"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "جَعْفَرِ بْنِ مُحَمَّدٍ الْأَشْعَرِيِّ",
+            "path": "/people/narrators/110"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ الْقَدَّاحِ",
+            "path": "/people/narrators/114"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/8",
+          "/people/narrators/110",
+          "/people/narrators/114"
+        ]
+      },
+      "relations": {
+        "Mentions": [
+          "/books/quran:7:32"
+        ],
+        "Shared Chain": [
+          "/books/al-kafi:6:8:21:11"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:8:2:13",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/8/2/13.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:8:2:14",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:8:2:14",
+        "parts": [
+          6,
+          8,
+          2,
+          14
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 8,
+        "chapter": 2,
+        "hadith": 14
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:8:2",
+        "titles": {
+          "ar": "باب اللِّبَاسِ",
+          "en": "Chapter 2 – The Dress"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ أَمِيرُ الْمُؤْمِنِينَ ( عليه السلام ) النَّظِيفُ مِنَ الثِّيَابِ يُذْهِبُ الْهَمَّ وَ الْحَزَنَ وَ هُوَ طَهُورٌ لِلصَّلَاةِ ."
+        ],
+        "text": "قَالَ أَمِيرُ الْمُؤْمِنِينَ ( عليه السلام ) النَّظِيفُ مِنَ الثِّيَابِ يُذْهِبُ الْهَمَّ وَ الْحَزَنَ وَ هُوَ طَهُورٌ لِلصَّلَاةِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin yahya, from Ahmad Bin Muhammad, from Al Qasim Bin Yahya, from his grandfather Al Hassan Bin Rashid, from Abu Baseer, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Amir Al-Momineen<sup>asws</sup> said: ‘The clean clothes remove the stress and the grief, and it is a cleanliness for the Salat (Prayer)’."
+          ],
+          "text": "Muhammad Bin yahya, from Ahmad Bin Muhammad, from Al Qasim Bin Yahya, from his grandfather Al Hassan Bin Rashid, from Abu Baseer,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Amir Al-Momineen<sup>asws</sup> said: ‘The clean clothes remove the stress and the grief, and it is a cleanliness for the Salat (Prayer)’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "14. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from al-Qasim ibn Yahya from his grandfather al-Hassan ibn Rashid from abu Basir who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that ’Amir al-Mu’minin has said, ‘Clean clothes remove sadness and it is of cleanliness for Salat (prayer).”’ "
+          ],
+          "text": "14. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from al-Qasim ibn Yahya from his grandfather al-Hassan ibn Rashid from abu Basir who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that ’Amir al-Mu’minin has said, ‘Clean clothes remove sadness and it is of cleanliness for Salat (prayer).”’"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/320)",
+          "label": "ضعيف",
+          "text": "Allamah Baqir al-Majlisi: ضعيف - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/320)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنِ الْقَاسِمِ بْنِ يَحْيَى عَنْ جَدِّهِ الْحَسَنِ بْنِ رَاشِدٍ عَنْ أَبِي بَصِيرٍ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْقَاسِمِ بْنِ يَحْيَى",
+            "path": "/people/narrators/151"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "جَدِّهِ الْحَسَنِ بْنِ رَاشِدٍ",
+            "path": "/people/narrators/152"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي بَصِيرٍ",
+            "path": "/people/narrators/14"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/5",
+          "/people/narrators/151",
+          "/people/narrators/152",
+          "/people/narrators/14",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:6:6:100:2",
+          "/books/al-kafi:6:6:105:1",
+          "/books/al-kafi:6:6:23:10",
+          "/books/al-kafi:6:6:44:3",
+          "/books/al-kafi:6:6:48:7",
+          "/books/al-kafi:6:6:49:1",
+          "/books/al-kafi:6:7:8:2",
+          "/books/al-kafi:6:8:1:1",
+          "/books/al-kafi:6:8:21:6",
+          "/books/al-kafi:6:8:26:9",
+          "/books/al-kafi:6:8:4:4",
+          "/books/al-kafi:6:8:8:1"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:8:2:14",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/8/2/14.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:8:2:15",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:8:2:15",
+        "parts": [
+          6,
+          8,
+          2,
+          15
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 8,
+        "chapter": 2,
+        "hadith": 15
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:8:2",
+        "titles": {
+          "ar": "باب اللِّبَاسِ",
+          "en": "Chapter 2 – The Dress"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " كُنْتُ حَاضِراً عِنْدَ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) إِذْ قَالَ لَهُ رَجُلٌ أَصْلَحَكَ اللَّهُ ذَكَرْتَ أَنَّ عَلِيَّ بْنَ أَبِي طَالِبٍ ( عليه السلام ) كَانَ يَلْبَسُ الْخَشِنَ يَلْبَسُ الْقَمِيصَ بِأَرْبَعَةِ دَرَاهِمَ وَ مَا أَشْبَهَ ذَلِكَ وَ نَرَى عَلَيْكَ اللِّبَاسَ الْجَيِّدَ قَالَ فَقَالَ لَهُ إِنَّ عَلِيَّ بْنَ أَبِي طَالِبٍ ( عليه السلام ) كَانَ يَلْبَسُ ذَلِكَ فِي زَمَانٍ لَا يُنْكَرُ وَ لَوْ لَبِسَ مِثْلَ ذَلِكَ الْيَوْمَ لَشُهِرَ بِهِ فَخَيْرُ لِبَاسِ كُلِّ زَمَانٍ لِبَاسُ أَهْلِهِ غَيْرَ أَنَّ قَائِمَنَا إِذَا قَامَ لَبِسَ لِبَاسَ عَلِيٍّ ( عليه السلام ) وَ سَارَ بِسِيرَتِهِ ."
+        ],
+        "text": "كُنْتُ حَاضِراً عِنْدَ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) إِذْ قَالَ لَهُ رَجُلٌ أَصْلَحَكَ اللَّهُ ذَكَرْتَ أَنَّ عَلِيَّ بْنَ أَبِي طَالِبٍ ( عليه السلام ) كَانَ يَلْبَسُ الْخَشِنَ يَلْبَسُ الْقَمِيصَ بِأَرْبَعَةِ دَرَاهِمَ وَ مَا أَشْبَهَ ذَلِكَ وَ نَرَى عَلَيْكَ اللِّبَاسَ الْجَيِّدَ قَالَ فَقَالَ لَهُ إِنَّ عَلِيَّ بْنَ أَبِي طَالِبٍ ( عليه السلام ) كَانَ يَلْبَسُ ذَلِكَ فِي زَمَانٍ لَا يُنْكَرُ وَ لَوْ لَبِسَ مِثْلَ ذَلِكَ الْيَوْمَ لَشُهِرَ بِهِ فَخَيْرُ لِبَاسِ كُلِّ زَمَانٍ لِبَاسُ أَهْلِهِ غَيْرَ أَنَّ قَائِمَنَا إِذَا قَامَ لَبِسَ لِبَاسَ عَلِيٍّ ( عليه السلام ) وَ سَارَ بِسِيرَتِهِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ahmad Bin Muhammad, from Muhammad Bin Yahya, from Hammad Bin Usman who said, ",
+            "‘I was there in the presence of Abu Abdullah<sup>asws</sup> when a man said to him<sup>asws</sup>, ‘May Allah<sup>azwj</sup> Keep you<sup>asws</sup> well! You<sup>asws</sup> mentioned that Ali<sup>asws</sup> Bin Abu Talib<sup>asws</sup> was wearing the coarse (clothes), wearing the shirt of four Dirhams, and what resembles that, and we see upon you<sup>asws</sup> the new clothes?’ So he<sup>asws</sup> said to him: ‘Ali<sup>asws</sup> Bin Abu Talib<sup>asws</sup> was wearing that during an era undeniably, and were he<sup>asws</sup> to wear the likes of that today he<sup>asws</sup> would have been defamed by it. So the best of the clothes during every era are clothes of its people, besides that when our<sup>asws</sup> Qaim<sup>asws</sup> rises, he<sup>asws</sup> would wear the clothes of Ali<sup>asws</sup>, and walk upon his<sup>asws</sup> way’."
+          ],
+          "text": "Ahmad Bin Muhammad, from Muhammad Bin Yahya, from Hammad Bin Usman who said,\n\n‘I was there in the presence of Abu Abdullah<sup>asws</sup> when a man said to him<sup>asws</sup>, ‘May Allah<sup>azwj</sup> Keep you<sup>asws</sup> well! You<sup>asws</sup> mentioned that Ali<sup>asws</sup> Bin Abu Talib<sup>asws</sup> was wearing the coarse (clothes), wearing the shirt of four Dirhams, and what resembles that, and we see upon you<sup>asws</sup> the new clothes?’ So he<sup>asws</sup> said to him: ‘Ali<sup>asws</sup> Bin Abu Talib<sup>asws</sup> was wearing that during an era undeniably, and were he<sup>asws</sup> to wear the likes of that today he<sup>asws</sup> would have been defamed by it. So the best of the clothes during every era are clothes of its people, besides that when our<sup>asws</sup> Qaim<sup>asws</sup> rises, he<sup>asws</sup> would wear the clothes of Ali<sup>asws</sup>, and walk upon his<sup>asws</sup> way’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "15. Ahmad ibn Muhammad has narrated from Muhammad ibn Yahya from Hammad ibn ‘Uthaman who has said the following: “Once I was with abu ‘Abd Allah, ‘Alayhi al-Salam, when a man said, ‘I pray to Allah to keep you well, you have mentioned that Ali ibn abu Talib wore very rough-textured clothes. He wore a shirt valued at four dirham and similar items and we see you wear fine clothes.’ Abu ‘Abd Allah, ‘Alayhi al-Salam, said to him, ‘Ali ibn abu Talib wore that kind of clothes in a time when it was not disliked. Were he to wear such clothes today he would have been defamed. The best dress in every period of time is what the people of that time use, however, when our al-Qa’im will rise, he will wear the kind of dress Ali, ‘Alayhi al-Salam, wore and follow his way of life.’” "
+          ],
+          "text": "15. Ahmad ibn Muhammad has narrated from Muhammad ibn Yahya from Hammad ibn ‘Uthaman who has said the following: “Once I was with abu ‘Abd Allah, ‘Alayhi al-Salam, when a man said, ‘I pray to Allah to keep you well, you have mentioned that Ali ibn abu Talib wore very rough-textured clothes. He wore a shirt valued at four dirham and similar items and we see you wear fine clothes.’ Abu ‘Abd Allah, ‘Alayhi al-Salam, said to him, ‘Ali ibn abu Talib wore that kind of clothes in a time when it was not disliked. Were he to wear such clothes today he would have been defamed. The best dress in every period of time is what the people of that time use, however, when our al-Qa’im will rise, he will wear the kind of dress Ali, ‘Alayhi al-Salam, wore and follow his way of life.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> موثق  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/320)",
+          "label": "موثق",
+          "text": "Allamah Baqir al-Majlisi: موثق - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/320)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "أَحْمَدُ بْنُ مُحَمَّدٍ عَنْ مُحَمَّدِ بْنِ يَحْيَى عَنْ حَمَّادِ بْنِ عُثْمَانَ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدُ بْنُ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "حَمَّادِ بْنِ عُثْمَانَ",
+            "path": "/people/narrators/54"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/5",
+          "/people/narrators/4",
+          "/people/narrators/54"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:8:2:15",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/8/2/15.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:8:2:16",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:8:2:16",
+        "parts": [
+          6,
+          8,
+          2,
+          16
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 8,
+        "chapter": 2,
+        "hadith": 16
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:8:2",
+        "titles": {
+          "ar": "باب اللِّبَاسِ",
+          "en": "Chapter 2 – The Dress"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " لَا بَأْسَ أَنْ يَكُونَ لِلرَّجُلِ عِشْرُونَ قَمِيصاً ."
+        ],
+        "text": "لَا بَأْسَ أَنْ يَكُونَ لِلرَّجُلِ عِشْرُونَ قَمِيصاً ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Sahl Bin Ziyad, from Ali Bin Asbaat, from the one who reported it, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘There is no problem if there happen to be twenty shirts for the man’."
+          ],
+          "text": "A number of our companions, from Sahl Bin Ziyad, from Ali Bin Asbaat, from the one who reported it,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘There is no problem if there happen to be twenty shirts for the man’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "16. A number of our people have narrated from Sahl ibn Ziyad from Ali ibn Asbat from the one who narrated to him who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘It is not unlawful if one has twenty shirts. 5 ” "
+          ],
+          "text": "16. A number of our people have narrated from Sahl ibn Ziyad from Ali ibn Asbat from the one who narrated to him who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘It is not unlawful if one has twenty shirts. 5 ”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/320)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/320)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ سَهْلِ بْنِ زِيَادٍ عَنْ عَلِيِّ بْنِ أَسْبَاطٍ عَمَّنْ رَوَاهُ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَهْلِ بْنِ زِيَادٍ",
+            "path": "/people/narrators/8"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "plain",
+            "text": "عَلِيِّ بْنِ أَسْبَاطٍ عَمَّنْ رَوَاهُ"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/8",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:2:1:108:2",
+          "/books/al-kafi:2:1:136:23",
+          "/books/al-kafi:2:1:203:23",
+          "/books/al-kafi:2:2:16:9",
+          "/books/al-kafi:2:3:8:3",
+          "/books/al-kafi:3:3:77:3",
+          "/books/al-kafi:4:3:149:5",
+          "/books/al-kafi:4:3:41:4",
+          "/books/al-kafi:5:2:30:12",
+          "/books/al-kafi:6:6:17:1",
+          "/books/al-kafi:6:7:10:4",
+          "/books/al-kafi:6:8:1:4",
+          "/books/al-kafi:6:8:24:1",
+          "/books/al-kafi:8:1:37:12",
+          "/books/al-kafi:8:1:37:6"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:8:2:16",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/8/2/16.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": 1590,
+  "type": "narrator",
+  "path": "/people/narrators/1590",
+  "titles": {
+    "ar": "عَمْرِو بْنِ سَعِيدِ بْنِ هِلَالٍ"
+  },
+  "versePaths": [
+    "/books/al-amali-mufid:23:25:1",
+    "/books/al-kafi:2:1:37:11",
+    "/books/al-kafi:8:1:37:36",
+    "/books/kitab-al-zuhd:2:2:1"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "11-13-22-132-478-1590": {
+      "narrator_ids": [
+        11,
+        13,
+        22,
+        132,
+        478,
+        1590
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:37:11"
+      ]
+    },
+    "132-478-1590": {
+      "narrator_ids": [
+        132,
+        478,
+        1590
+      ],
+      "verse_paths": [
+        "/books/al-amali-mufid:23:25:1"
+      ]
+    },
+    "170-1590": {
+      "narrator_ids": [
+        170,
+        1590
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:37:36",
+        "/books/kitab-al-zuhd:2:2:1"
+      ]
+    },
+    "21-69-170-1590": {
+      "narrator_ids": [
+        21,
+        69,
+        170,
+        1590
+      ],
+      "verse_paths": [
+        "/books/kitab-al-zuhd:2:2:1"
+      ]
+    },
+    "478-1590": {
+      "narrator_ids": [
+        478,
+        1590
+      ],
+      "verse_paths": [
+        "/books/al-amali-mufid:23:25:1",
+        "/books/al-kafi:2:1:37:11"
+      ]
+    },
+    "6-13-15-147-170-1590": {
+      "narrator_ids": [
+        6,
+        13,
+        15,
+        147,
+        170,
+        1590
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:37:36"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1590",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1590.json"
+  }
+}

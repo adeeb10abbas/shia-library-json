@@ -1,0 +1,44 @@
+{
+  "id": 4554,
+  "type": "narrator",
+  "path": "/people/narrators/4554",
+  "titles": {
+    "ar": "يَحْيَى بْنِ بَشِيرٍ النَّبَّالِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:82:9"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "6-12-544-68-4554": {
+      "narrator_ids": [
+        6,
+        12,
+        544,
+        68,
+        4554
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:82:9"
+      ]
+    },
+    "68-4554": {
+      "narrator_ids": [
+        68,
+        4554
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:82:9"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4554",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4554.json"
+  }
+}

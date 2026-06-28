@@ -1,0 +1,43 @@
+{
+  "id": 4028,
+  "type": "narrator",
+  "path": "/people/narrators/4028",
+  "titles": {
+    "ar": "قَالَ مُحَمَّدُ بْنُ يَعْقُوبَ الْكُلَيْنِيُّ مُصَنِّفُ هَذَا الْكِتَابِ رَحِمَهُ اللَّهُ حَدَّثَنِي مُحَمَّدُ بْنُ يَحْيَى"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:4:1:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "4028-13": {
+      "narrator_ids": [
+        4028,
+        13
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:1:1"
+      ]
+    },
+    "4028-13-53-109": {
+      "narrator_ids": [
+        4028,
+        13,
+        53,
+        109
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:1:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4028",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4028.json"
+  }
+}

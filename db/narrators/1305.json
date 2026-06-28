@@ -1,0 +1,96 @@
+{
+  "id": 1305,
+  "type": "narrator",
+  "path": "/people/narrators/1305",
+  "titles": {
+    "ar": "أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عَلِيٍّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:114:8",
+    "/books/al-kafi:4:2:3:3",
+    "/books/tahdhib-al-ahkam:9:1:51"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "1305-136": {
+      "narrator_ids": [
+        1305,
+        136
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:114:8"
+      ]
+    },
+    "1305-428": {
+      "narrator_ids": [
+        1305,
+        428
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:1:51"
+      ]
+    },
+    "1305-428-30-64": {
+      "narrator_ids": [
+        1305,
+        428,
+        30,
+        64
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:1:51"
+      ]
+    },
+    "1305-68": {
+      "narrator_ids": [
+        1305,
+        68
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:3:3"
+      ]
+    },
+    "1305-68-1499-489-294-669": {
+      "narrator_ids": [
+        1305,
+        68,
+        1499,
+        489,
+        294,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:3:3"
+      ]
+    },
+    "20-25-1305-136": {
+      "narrator_ids": [
+        20,
+        25,
+        1305,
+        136
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:114:8"
+      ]
+    },
+    "25-1305": {
+      "narrator_ids": [
+        25,
+        1305
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:114:8"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1305",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1305.json"
+  }
+}

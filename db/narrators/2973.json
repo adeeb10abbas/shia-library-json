@@ -1,0 +1,44 @@
+{
+  "id": 2973,
+  "type": "narrator",
+  "path": "/people/narrators/2973",
+  "titles": {
+    "ar": "جَدِّهِ أَبِي الْبِلَادِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:66:10"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2-2973": {
+      "narrator_ids": [
+        2,
+        2973
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:66:10"
+      ]
+    },
+    "6-12-561-2-2973": {
+      "narrator_ids": [
+        6,
+        12,
+        561,
+        2,
+        2973
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:66:10"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2973",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2973.json"
+  }
+}

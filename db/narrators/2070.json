@@ -1,0 +1,63 @@
+{
+  "id": 2070,
+  "type": "narrator",
+  "path": "/people/narrators/2070",
+  "titles": {
+    "ar": "أَبِي حَاتِمٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:3:81:4",
+    "/books/kitab-al-ghayba-tusi:51:59"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "11-2070": {
+      "narrator_ids": [
+        11,
+        2070
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:51:59"
+      ]
+    },
+    "153-5-313-2070-669": {
+      "narrator_ids": [
+        153,
+        5,
+        313,
+        2070,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:81:4"
+      ]
+    },
+    "2070-669": {
+      "narrator_ids": [
+        2070,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:81:4"
+      ]
+    },
+    "313-2070": {
+      "narrator_ids": [
+        313,
+        2070
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:81:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2070",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2070.json"
+  }
+}

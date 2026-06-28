@@ -1,0 +1,42 @@
+{
+  "id": 2692,
+  "type": "narrator",
+  "path": "/people/narrators/2692",
+  "titles": {
+    "ar": "الرَّيَّانِ بْنِ الصَّلْتِ جَمِيعاً"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:121:7"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3-558-2692": {
+      "narrator_ids": [
+        3,
+        558,
+        2692
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:121:7"
+      ]
+    },
+    "558-2692": {
+      "narrator_ids": [
+        558,
+        2692
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:121:7"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2692",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2692.json"
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "fadail-al-shia",
+  "chapterPath": "/books/fadail-al-shia:23",
+  "chapter": {
+    "path": "/books/fadail-al-shia:23",
+    "titles": {
+      "en": "Love for the Prophet's (sw) household aids in seven grave situations"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "fadail-al-shia:23:1",
+      "type": "hadith",
+      "book": {
+        "slug": "fadail-al-shia",
+        "titles": {
+          "ar": "فضائل الشيعة",
+          "en": "Fada'il al-Shi'a"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/fadail-al-shia:23:1",
+        "parts": [
+          23,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 23,
+        "book": 1
+      },
+      "chapter": {
+        "path": "/books/fadail-al-shia:23",
+        "titles": {
+          "en": "Love for the Prophet's (sw) household aids in seven grave situations"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": قال رسول الله صلّى الله عليه وآله: حبّي وحبّ أهل بيتي نافِعٌ في سبعة مواطن أهوالهُنّ عظيمة: عند الوفاة، وفي القبر، وعند النشور، وعند الكتاب، وعند الحساب، وعند الميزان، وعند الصراط."
+        ],
+        "text": ": قال رسول الله صلّى الله عليه وآله: حبّي وحبّ أهل بيتي نافِعٌ في سبعة مواطن أهوالهُنّ عظيمة: عند الوفاة، وفي القبر، وعند النشور، وعند الكتاب، وعند الحساب، وعند الميزان، وعند الصراط."
+      },
+      "translations": {
+        "en.badr-shahin": {
+          "segments": [
+            "Al-Hasan bin Abdullah bin Saeed narrated to us from Mohammed bin Ahmed bin Hamdan al-Qushairi from al-Mugheera bin Mohammed bin al-Muhallab al-Azdi from Abdul-Ghaffar bin Mohammed al-Kelabi from Amir bin Thabit from Jabir that Abu Ja’far related on the authority of Ali bin al-Hussein from his father (a) that the Prophet (s) said: The love for my household and me will help in seven situations whose horrors are enormous: at death, in the grave, in the Resurrection, in the Recorded Account, in the Judgment, in the Balance, and on the Path."
+          ],
+          "text": "Al-Hasan bin Abdullah bin Saeed narrated to us from Mohammed bin Ahmed bin Hamdan al-Qushairi from al-Mugheera bin Mohammed bin al-Muhallab al-Azdi from Abdul-Ghaffar bin Mohammed al-Kelabi from Amir bin Thabit from Jabir that Abu Ja’far related on the authority of Ali bin al-Hussein from his father (a) that the Prophet (s) said: The love for my household and me will help in seven situations whose horrors are enormous: at death, in the grave, in the Resurrection, in the Recorded Account, in the Judgment, in the Balance, and on the Path."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "حدّثنا الحسن بن عبد الله بن سعيد عن محمد بن أحمد بن حمدان القشيري، عن المغيرة بن محمد بن المهلّب الأزدي، عن عبد الغفار بن محمد الكلابي، عن عمرو بن ثابت، عن جابر، عن أبي جعفر، عن عليّ بن الحسين، عن أبيه عليهم السلام، قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "حدّثنا "
+          },
+          {
+            "kind": "plain",
+            "text": "الحسن بن عبد الله بن سعيد"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "محمد بن أحمد بن حمدان القشيري،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن المغيرة بن محمد بن المهلّب الأزدي، عن "
+          },
+          {
+            "kind": "plain",
+            "text": "عبد الغفار بن محمد الكلابي،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "عمرو بن ثابت،",
+            "path": "/people/narrators/549"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "جابر،",
+            "path": "/people/narrators/72"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي جعفر،",
+            "path": "/people/narrators/9"
+          },
+          {
+            "kind": "plain",
+            "text": " عن عليّ بن الحسين، عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبيه عليهم السلام، قال",
+            "path": "/people/narrators/2"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/549",
+          "/people/narrators/72",
+          "/people/narrators/9",
+          "/people/narrators/2"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/fadail-al-shia:23:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/fadail-al-shia/23/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/25/1/2/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

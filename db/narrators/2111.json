@@ -1,0 +1,54 @@
+{
+  "id": 2111,
+  "type": "narrator",
+  "path": "/people/narrators/2111",
+  "titles": {
+    "ar": "أَبِي سُلَيْمَانَ الْخَوَّاصِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:8:18:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2111-2746": {
+      "narrator_ids": [
+        2111,
+        2746
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:18:3"
+      ]
+    },
+    "230-2111": {
+      "narrator_ids": [
+        230,
+        2111
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:18:3"
+      ]
+    },
+    "4-59-230-2111-2746-424": {
+      "narrator_ids": [
+        4,
+        59,
+        230,
+        2111,
+        2746,
+        424
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:18:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2111",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2111.json"
+  }
+}

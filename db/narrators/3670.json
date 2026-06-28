@@ -1,0 +1,58 @@
+{
+  "id": 3670,
+  "type": "narrator",
+  "path": "/people/narrators/3670",
+  "titles": {
+    "ar": "عُبَيْدَةَ بْنِ بَشِيرٍ الْخَثْعَمِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:3:50:11",
+    "/books/tahdhib-al-ahkam:10:9:140"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "35-349-68-468-3670": {
+      "narrator_ids": [
+        35,
+        349,
+        68,
+        468,
+        3670
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:50:11"
+      ]
+    },
+    "468-3670": {
+      "narrator_ids": [
+        468,
+        3670
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:50:11",
+        "/books/tahdhib-al-ahkam:10:9:140"
+      ]
+    },
+    "952-643-68-468-3670": {
+      "narrator_ids": [
+        952,
+        643,
+        68,
+        468,
+        3670
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:10:9:140"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3670",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3670.json"
+  }
+}

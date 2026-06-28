@@ -1,0 +1,44 @@
+{
+  "id": 2033,
+  "type": "narrator",
+  "path": "/people/narrators/2033",
+  "titles": {
+    "ar": "أَبِي بَرْزَةَ الْأَسْلَمِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:1:9:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "133-321-387-379-2033": {
+      "narrator_ids": [
+        133,
+        321,
+        387,
+        379,
+        2033
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:9:2"
+      ]
+    },
+    "379-2033": {
+      "narrator_ids": [
+        379,
+        2033
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:9:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2033",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2033.json"
+  }
+}

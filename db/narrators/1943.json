@@ -1,0 +1,64 @@
+{
+  "id": 1943,
+  "type": "narrator",
+  "path": "/people/narrators/1943",
+  "titles": {
+    "ar": "أَبِي أَحْمَدَ عَمْرِو بْنِ حُرَيْثٍ الصَّيْرَفِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:157:4",
+    "/books/tahdhib-al-ahkam:5:11:1"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "19-24-30-1943": {
+      "narrator_ids": [
+        19,
+        24,
+        30,
+        1943
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:157:4"
+      ]
+    },
+    "30-1943": {
+      "narrator_ids": [
+        30,
+        1943
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:157:4"
+      ]
+    },
+    "43-1943": {
+      "narrator_ids": [
+        43,
+        1943
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:11:1"
+      ]
+    },
+    "952-24-43-1943": {
+      "narrator_ids": [
+        952,
+        24,
+        43,
+        1943
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:11:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1943",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1943.json"
+  }
+}

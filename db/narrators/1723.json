@@ -1,0 +1,119 @@
+{
+  "id": 1723,
+  "type": "narrator",
+  "path": "/people/narrators/1723",
+  "titles": {
+    "ar": "يَحْيَى بْنِ طَلْحَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:1:29:12",
+    "/books/al-kafi:3:4:30:3",
+    "/books/tahdhib-al-ahkam:1:21:82",
+    "/books/tahdhib-al-ahkam:2:8:137"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "161-1723": {
+      "narrator_ids": [
+        161,
+        1723
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:30:3",
+        "/books/tahdhib-al-ahkam:2:8:137"
+      ]
+    },
+    "1723-2": {
+      "narrator_ids": [
+        1723,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:1:29:12",
+        "/books/tahdhib-al-ahkam:1:21:82"
+      ]
+    },
+    "1723-589": {
+      "narrator_ids": [
+        1723,
+        589
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:30:3",
+        "/books/tahdhib-al-ahkam:2:8:137"
+      ]
+    },
+    "26-1723": {
+      "narrator_ids": [
+        26,
+        1723
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:1:29:12",
+        "/books/tahdhib-al-ahkam:1:21:82"
+      ]
+    },
+    "4-5-122-161-1723-589": {
+      "narrator_ids": [
+        4,
+        5,
+        122,
+        161,
+        1723,
+        589
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:30:3"
+      ]
+    },
+    "5-905-26-1723-2-296": {
+      "narrator_ids": [
+        5,
+        905,
+        26,
+        1723,
+        2,
+        296
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:21:82"
+      ]
+    },
+    "6-5-905-26-1723-2-296": {
+      "narrator_ids": [
+        6,
+        5,
+        905,
+        26,
+        1723,
+        2,
+        296
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:1:29:12"
+      ]
+    },
+    "952-4-122-161-1723-589": {
+      "narrator_ids": [
+        952,
+        4,
+        122,
+        161,
+        1723,
+        589
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:8:137"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1723",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1723.json"
+  }
+}

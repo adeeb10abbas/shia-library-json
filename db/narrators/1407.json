@@ -1,0 +1,114 @@
+{
+  "id": 1407,
+  "type": "narrator",
+  "path": "/people/narrators/1407",
+  "titles": {
+    "ar": "بَعْضِ أَصْحَابِهِ يَرْفَعُهُ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:3:189:6",
+    "/books/al-kafi:6:1:19:3",
+    "/books/kamil-al-ziyarat:2:108:10",
+    "/books/kamil-al-ziyarat:2:108:4"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "12-1407": {
+      "narrator_ids": [
+        12,
+        1407
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:189:6"
+      ]
+    },
+    "130-1407": {
+      "narrator_ids": [
+        130,
+        1407
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:108:10",
+        "/books/kamil-al-ziyarat:2:108:4"
+      ]
+    },
+    "1407-669": {
+      "narrator_ids": [
+        1407,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:189:6",
+        "/books/al-kafi:6:1:19:3",
+        "/books/kamil-al-ziyarat:2:108:10",
+        "/books/kamil-al-ziyarat:2:108:4"
+      ]
+    },
+    "6-12-1407-669": {
+      "narrator_ids": [
+        6,
+        12,
+        1407,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:189:6"
+      ]
+    },
+    "6-8-1407-669": {
+      "narrator_ids": [
+        6,
+        8,
+        1407,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:19:3"
+      ]
+    },
+    "613-355-13-130-1407-669": {
+      "narrator_ids": [
+        613,
+        355,
+        13,
+        130,
+        1407,
+        669
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:108:10"
+      ]
+    },
+    "613-4-5-130-1407-669": {
+      "narrator_ids": [
+        613,
+        4,
+        5,
+        130,
+        1407,
+        669
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:108:4"
+      ]
+    },
+    "8-1407": {
+      "narrator_ids": [
+        8,
+        1407
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:19:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1407",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1407.json"
+  }
+}

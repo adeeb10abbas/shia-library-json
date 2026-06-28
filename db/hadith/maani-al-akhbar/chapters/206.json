@@ -1,0 +1,90 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "maani-al-akhbar",
+  "chapterPath": "/books/maani-al-akhbar:206",
+  "chapter": {
+    "path": "/books/maani-al-akhbar:206",
+    "titles": {
+      "en": "The meaning of the leaf, the seed, the grain of the earth, the moist and the dry"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "maani-al-akhbar:206:1",
+      "type": "hadith",
+      "book": {
+        "slug": "maani-al-akhbar",
+        "titles": {
+          "ar": "معاني الأخبار",
+          "en": "Ma'ani al-Akhbar"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/maani-al-akhbar:206:1",
+        "parts": [
+          206,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 206,
+        "book": 1
+      },
+      "chapter": {
+        "path": "/books/maani-al-akhbar:206",
+        "titles": {
+          "en": "The meaning of the leaf, the seed, the grain of the earth, the moist and the dry"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا الحسين بن الحسن بن أبان عن الحسين بن سعيد، عن النضر بن سويد، عن يحيى بن عمران الحلبي، عن أبي بصير، قال: سألته عن قول الله عز وجل: \" وما تسقط من ورقة إلا يعلمها ولا حبة في ظلمات الأرض ولا رطب ولا يابس إلا في كتاب مبين   \" قال: فقال: الورقة السقط، والحبة الولد، وظلمات الأرض الأرحام، والرطب ما يحيى، واليابس ما يغيض . وكل ذلك في كتاب مبين."
+        ],
+        "text": ": حدثنا الحسين بن الحسن بن أبان عن الحسين بن سعيد، عن النضر بن سويد، عن يحيى بن عمران الحلبي، عن أبي بصير، قال: سألته عن قول الله عز وجل: \" وما تسقط من ورقة إلا يعلمها ولا حبة في ظلمات الأرض ولا رطب ولا يابس إلا في كتاب مبين   \" قال: فقال: الورقة السقط، والحبة الولد، وظلمات الأرض الأرحام، والرطب ما يحيى، واليابس ما يغيض . وكل ذلك في كتاب مبين."
+      },
+      "translations": {
+        "en.basel-kadem": {
+          "segments": [
+            "1.\tWe were told by Muhammed bin Hasan, may Allah grant him mercy, that he said: We were told by Hussain bin Hasan bin Aban, from Hussain bin Sa’eed, from Nadr bin Suwayd, from Yahya bin Imran al-Halabi, from Abu Baseer, that he said: I asked him about the saying of Allah, Exalted and Glorious is He: «And no leaf except that He knows it, and no grain is in the darknesses of the earth, nor (likewise) any moist, nor dry (thing), except that it is (mentioned) in a clear Book.» <a href=\"/books/quran:6#h59\">[6:59]</a> He said: Then he said: The leaf is the miscarried fetus, the grain is the child, the darknesses of the earth are wombs, the moist is that which lives and the dry is that which is not perfected; all of that is (mentioned) in a clear Book."
+          ],
+          "text": "1.\tWe were told by Muhammed bin Hasan, may Allah grant him mercy, that he said: We were told by Hussain bin Hasan bin Aban, from Hussain bin Sa’eed, from Nadr bin Suwayd, from Yahya bin Imran al-Halabi, from Abu Baseer, that he said: I asked him about the saying of Allah, Exalted and Glorious is He: «And no leaf except that He knows it, and no grain is in the darknesses of the earth, nor (likewise) any moist, nor dry (thing), except that it is (mentioned) in a clear Book.» <a href=\"/books/quran:6#h59\">[6:59]</a> He said: Then he said: The leaf is the miscarried fetus, the grain is the child, the darknesses of the earth are wombs, the moist is that which lives and the dry is that which is not perfected; all of that is (mentioned) in a clear Book."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "حدثنا محمد بن الحسن - رحمه الله - قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "محمد بن الحسن - رحمه الله - قال",
+            "path": "/people/narrators/90"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/90"
+        ]
+      },
+      "relations": {
+        "Mentions": [
+          "/books/quran:6:59"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/maani-al-akhbar:206:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/maani-al-akhbar/206/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/28/1/206/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

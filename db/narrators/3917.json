@@ -1,0 +1,57 @@
+{
+  "id": 3917,
+  "type": "narrator",
+  "path": "/people/narrators/3917",
+  "titles": {
+    "ar": "عَنِ ابْنِ رِبَاطٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:2:27:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-183-372-818-57-4366-3917-4367-14": {
+      "narrator_ids": [
+        11,
+        183,
+        372,
+        818,
+        57,
+        4366,
+        3917,
+        4367,
+        14
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:2:27:2"
+      ]
+    },
+    "3917-4367": {
+      "narrator_ids": [
+        3917,
+        4367
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:2:27:2"
+      ]
+    },
+    "4366-3917": {
+      "narrator_ids": [
+        4366,
+        3917
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:2:27:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3917",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3917.json"
+  }
+}

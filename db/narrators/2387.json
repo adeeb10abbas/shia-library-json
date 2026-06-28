@@ -1,0 +1,53 @@
+{
+  "id": 2387,
+  "type": "narrator",
+  "path": "/people/narrators/2387",
+  "titles": {
+    "ar": "إِدْرِيسَ بْنِ يُوسُفَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:50:13"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "227-2387": {
+      "narrator_ids": [
+        227,
+        2387
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:50:13"
+      ]
+    },
+    "2387-669": {
+      "narrator_ids": [
+        2387,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:50:13"
+      ]
+    },
+    "5-101-227-2387-669": {
+      "narrator_ids": [
+        5,
+        101,
+        227,
+        2387,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:50:13"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2387",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2387.json"
+  }
+}

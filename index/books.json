@@ -1,0 +1,321 @@
+{
+  "generatedAt": "2026-06-27T22:28:15.041Z",
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "apiDocs": "https://github.com/narmafraz/ThaqalaynData/blob/master/API.md"
+  },
+  "books": [
+    {
+      "slug": "quran",
+      "path": "/books/quran",
+      "titles": {
+        "ar": "القرآن الكريم",
+        "en": "The Holy Quran"
+      },
+      "descriptions": {
+        "en": "The Holy Quran with multiple translations"
+      },
+      "sourceUrl": "https://tanzil.net/"
+    },
+    {
+      "slug": "al-kafi",
+      "path": "/books/al-kafi",
+      "titles": {
+        "ar": "الكافي",
+        "en": "Al-Kafi"
+      },
+      "author": {
+        "ar": "الشيخ الكليني",
+        "en": "Shaykh al-Kulayni"
+      },
+      "descriptions": {
+        "en": "The most reliable Shia hadith collection compiled by Shaykh al-Kulayni"
+      },
+      "sourceUrl": "https://thaqalayn.net/"
+    },
+    {
+      "slug": "tahdhib-al-ahkam",
+      "path": "/books/tahdhib-al-ahkam",
+      "titles": {
+        "ar": "تهذيب الأحكام",
+        "en": "Tahdhib al-Ahkam"
+      },
+      "author": {
+        "ar": "الشيخ الطوسي",
+        "en": "Shaykh al-Tusi"
+      },
+      "sourceUrl": "https://ghbook.ir/"
+    },
+    {
+      "slug": "al-istibsar",
+      "path": "/books/al-istibsar",
+      "titles": {
+        "ar": "الاستبصار",
+        "en": "al-Istibsar"
+      },
+      "author": {
+        "ar": "الشيخ الطوسي",
+        "en": "Shaykh al-Tusi"
+      },
+      "sourceUrl": "https://ghbook.ir/"
+    },
+    {
+      "slug": "man-la-yahduruhu-al-faqih",
+      "path": "/books/man-la-yahduruhu-al-faqih",
+      "titles": {
+        "ar": "من لا يحضره الفقيه",
+        "en": "Man La Yahduruhu al-Faqih"
+      },
+      "author": {
+        "ar": "الشيخ الصدوق",
+        "en": "Shaykh al-Saduq"
+      },
+      "sourceUrl": "https://thaqalayn.net/"
+    },
+    {
+      "slug": "nahj-al-balagha",
+      "path": "/books/nahj-al-balagha",
+      "titles": {
+        "ar": "نهج البلاغة",
+        "en": "Nahj al-Balagha"
+      },
+      "author": {
+        "ar": "الشريف الرضي",
+        "en": "Sharif al-Radi"
+      },
+      "sourceUrl": "https://thaqalayn.net/"
+    },
+    {
+      "slug": "al-amali-mufid",
+      "path": "/books/al-amali-mufid",
+      "titles": {
+        "ar": "الأمالي (المفيد)",
+        "en": "Al-Amali (al-Mufid)"
+      },
+      "author": {
+        "ar": "الشيخ المفيد",
+        "en": "Shaykh al-Mufid"
+      },
+      "sourceUrl": "https://thaqalayn.net/"
+    },
+    {
+      "slug": "al-amali-saduq",
+      "path": "/books/al-amali-saduq",
+      "titles": {
+        "ar": "الأمالي (الصدوق)",
+        "en": "Al-Amali (al-Saduq)"
+      },
+      "author": {
+        "ar": "الشيخ الصدوق",
+        "en": "Shaykh al-Saduq"
+      },
+      "sourceUrl": "https://thaqalayn.net/"
+    },
+    {
+      "slug": "kamil-al-ziyarat",
+      "path": "/books/kamil-al-ziyarat",
+      "titles": {
+        "ar": "كامل الزيارات",
+        "en": "Kamil al-Ziyarat"
+      },
+      "author": {
+        "ar": "ابن قولويه القمي",
+        "en": "Ibn Qulawayh al-Qummi"
+      },
+      "sourceUrl": "https://thaqalayn.net/"
+    },
+    {
+      "slug": "kitab-al-ghayba-numani",
+      "path": "/books/kitab-al-ghayba-numani",
+      "titles": {
+        "ar": "كتاب الغيبة (النعماني)",
+        "en": "Kitab al-Ghayba (al-Nu'mani)"
+      },
+      "author": {
+        "en": "Muhammad ibn Ibrahim al-Nu'mani"
+      },
+      "sourceUrl": "https://thaqalayn.net/"
+    },
+    {
+      "slug": "kitab-al-ghayba-tusi",
+      "path": "/books/kitab-al-ghayba-tusi",
+      "titles": {
+        "ar": "كتاب الغيبة (الطوسي)",
+        "en": "Kitab al-Ghayba (al-Tusi)"
+      },
+      "author": {
+        "ar": "الشيخ الطوسي",
+        "en": "Shaykh al-Tusi"
+      },
+      "sourceUrl": "https://thaqalayn.net/"
+    },
+    {
+      "slug": "kitab-al-mumin",
+      "path": "/books/kitab-al-mumin",
+      "titles": {
+        "ar": "كتاب المؤمن",
+        "en": "Kitab al-Mu'min"
+      },
+      "author": {
+        "en": "Husayn ibn Sa'id al-Ahwazi"
+      },
+      "sourceUrl": "https://thaqalayn.net/"
+    },
+    {
+      "slug": "al-tawhid",
+      "path": "/books/al-tawhid",
+      "titles": {
+        "ar": "التوحيد",
+        "en": "Al-Tawhid"
+      },
+      "author": {
+        "ar": "الشيخ الصدوق",
+        "en": "Shaykh al-Saduq"
+      },
+      "sourceUrl": "https://thaqalayn.net/"
+    },
+    {
+      "slug": "uyun-akhbar-al-rida",
+      "path": "/books/uyun-akhbar-al-rida",
+      "titles": {
+        "ar": "عيون أخبار الرضا",
+        "en": "Uyun Akhbar al-Rida"
+      },
+      "author": {
+        "ar": "الشيخ الصدوق",
+        "en": "Shaykh al-Saduq"
+      },
+      "sourceUrl": "https://thaqalayn.net/"
+    },
+    {
+      "slug": "al-khisal",
+      "path": "/books/al-khisal",
+      "titles": {
+        "ar": "الخصال",
+        "en": "Al-Khisal"
+      },
+      "author": {
+        "ar": "الشيخ الصدوق",
+        "en": "Shaykh al-Saduq"
+      },
+      "sourceUrl": "https://thaqalayn.net/"
+    },
+    {
+      "slug": "maani-al-akhbar",
+      "path": "/books/maani-al-akhbar",
+      "titles": {
+        "ar": "معاني الأخبار",
+        "en": "Ma'ani al-Akhbar"
+      },
+      "author": {
+        "ar": "الشيخ الصدوق",
+        "en": "Shaykh al-Saduq"
+      },
+      "sourceUrl": "https://thaqalayn.net/"
+    },
+    {
+      "slug": "kamal-al-din",
+      "path": "/books/kamal-al-din",
+      "titles": {
+        "ar": "كمال الدين وتمام النعمة",
+        "en": "Kamal al-Din wa Tamam al-Ni'ma"
+      },
+      "author": {
+        "ar": "الشيخ الصدوق",
+        "en": "Shaykh al-Saduq"
+      },
+      "sourceUrl": "https://thaqalayn.net/"
+    },
+    {
+      "slug": "thawab-al-amal",
+      "path": "/books/thawab-al-amal",
+      "titles": {
+        "ar": "ثواب الأعمال وعقاب الأعمال",
+        "en": "Thawab al-A'mal wa 'Iqab al-A'mal"
+      },
+      "author": {
+        "ar": "الشيخ الصدوق",
+        "en": "Shaykh al-Saduq"
+      },
+      "sourceUrl": "https://thaqalayn.net/"
+    },
+    {
+      "slug": "kitab-al-zuhd",
+      "path": "/books/kitab-al-zuhd",
+      "titles": {
+        "ar": "كتاب الزهد",
+        "en": "Kitab al-Zuhd"
+      },
+      "author": {
+        "en": "Husayn ibn Sa'id al-Ahwazi"
+      },
+      "sourceUrl": "https://thaqalayn.net/"
+    },
+    {
+      "slug": "risalat-al-huquq",
+      "path": "/books/risalat-al-huquq",
+      "titles": {
+        "ar": "رسالة الحقوق",
+        "en": "Risalat al-Huquq"
+      },
+      "author": {
+        "ar": "الإمام زين العابدين",
+        "en": "Imam Zayn al-Abidin"
+      },
+      "sourceUrl": "https://thaqalayn.net/"
+    },
+    {
+      "slug": "fadail-al-shia",
+      "path": "/books/fadail-al-shia",
+      "titles": {
+        "ar": "فضائل الشيعة",
+        "en": "Fada'il al-Shi'a"
+      },
+      "author": {
+        "ar": "الشيخ الصدوق",
+        "en": "Shaykh al-Saduq"
+      },
+      "sourceUrl": "https://thaqalayn.net/"
+    },
+    {
+      "slug": "sifat-al-shia",
+      "path": "/books/sifat-al-shia",
+      "titles": {
+        "ar": "صفات الشيعة",
+        "en": "Sifat al-Shi'a"
+      },
+      "author": {
+        "ar": "الشيخ الصدوق",
+        "en": "Shaykh al-Saduq"
+      },
+      "sourceUrl": "https://thaqalayn.net/"
+    },
+    {
+      "slug": "kitab-al-duafa",
+      "path": "/books/kitab-al-duafa",
+      "titles": {
+        "ar": "كتاب الضعفاء",
+        "en": "Kitab al-Du'afa'"
+      },
+      "author": {
+        "en": "Ahmad ibn al-Husayn al-Ghada'iri"
+      },
+      "sourceUrl": "https://thaqalayn.net/"
+    },
+    {
+      "slug": "mujam-al-ahadith-al-mutabara",
+      "path": "/books/mujam-al-ahadith-al-mutabara",
+      "titles": {
+        "ar": "معجم الأحاديث المعتبرة",
+        "en": "Mu'jam al-Ahadith al-Mu'tabara"
+      },
+      "author": {
+        "en": "Muhammad Asif al-Muhsini"
+      },
+      "sourceUrl": "https://thaqalayn.net/"
+    }
+  ]
+}

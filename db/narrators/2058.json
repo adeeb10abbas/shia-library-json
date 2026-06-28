@@ -1,0 +1,54 @@
+{
+  "id": 2058,
+  "type": "narrator",
+  "path": "/people/narrators/2058",
+  "titles": {
+    "ar": "أَبِي جَعْفَرٍ الْمَدَائِنِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:1:34:14"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2058-669": {
+      "narrator_ids": [
+        2058,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:34:14"
+      ]
+    },
+    "6-8-129-720-2058-669": {
+      "narrator_ids": [
+        6,
+        8,
+        129,
+        720,
+        2058,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:34:14"
+      ]
+    },
+    "720-2058": {
+      "narrator_ids": [
+        720,
+        2058
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:34:14"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2058",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2058.json"
+  }
+}

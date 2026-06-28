@@ -1,0 +1,82 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "maani-al-akhbar",
+  "chapterPath": "/books/maani-al-akhbar:120",
+  "chapter": {
+    "path": "/books/maani-al-akhbar:120",
+    "titles": {
+      "en": "The meaning of arbi’aa’ and nitaf"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "maani-al-akhbar:120:1",
+      "type": "hadith",
+      "book": {
+        "slug": "maani-al-akhbar",
+        "titles": {
+          "ar": "معاني الأخبار",
+          "en": "Ma'ani al-Akhbar"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/maani-al-akhbar:120:1",
+        "parts": [
+          120,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 120,
+        "book": 1
+      },
+      "chapter": {
+        "path": "/books/maani-al-akhbar:120",
+        "titles": {
+          "en": "The meaning of arbi’aa’ and nitaf"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا محمد بن يحيى   العطار، عن محمد بن علي بن محبوب، عن علي بن السندي، عن صفوان، عن إسحاق بن عمار، عن أبي عبد الله عليه السلام، قال: لا تستأجر الأرض بالتمر ولا بالحنطة ولا بالشعير ولا بالأربعاء ولا بالنطاف: قلت: وما الأربعاء؟ قال: الشرب، والنطاف فضل الماء ولكن تقبلها بالذهب والفضة والنصف و الثلث والربع."
+        ],
+        "text": ": حدثنا محمد بن يحيى   العطار، عن محمد بن علي بن محبوب، عن علي بن السندي، عن صفوان، عن إسحاق بن عمار، عن أبي عبد الله عليه السلام، قال: لا تستأجر الأرض بالتمر ولا بالحنطة ولا بالشعير ولا بالأربعاء ولا بالنطاف: قلت: وما الأربعاء؟ قال: الشرب، والنطاف فضل الماء ولكن تقبلها بالذهب والفضة والنصف و الثلث والربع."
+      },
+      "translations": {
+        "en.basel-kadem": {
+          "segments": [
+            "1.\tMy father, may Allah grant him mercy, said: We were told by Muhammed bin Yahya al-‘Attar, from Muhammed bin Ali bin Mahboub, from Ali bin Sindi, from Safwan, from Ishaq bin Ammar, from Abu Abdillah, peace be upon him, that he said: Do not seek to rent a land by dates, nor wheat, nor barley, nor arbi’aa’, nor nitaf. I said: And what is arbi’aa’? He said: Drinking, and nitaf is that which is excessive from water. However, its acceptance is by silver, gold, halves, thirds and fourths."
+          ],
+          "text": "1.\tMy father, may Allah grant him mercy, said: We were told by Muhammed bin Yahya al-‘Attar, from Muhammed bin Ali bin Mahboub, from Ali bin Sindi, from Safwan, from Ishaq bin Ammar, from Abu Abdillah, peace be upon him, that he said: Do not seek to rent a land by dates, nor wheat, nor barley, nor arbi’aa’, nor nitaf. I said: And what is arbi’aa’? He said: Drinking, and nitaf is that which is excessive from water. However, its acceptance is by silver, gold, halves, thirds and fourths."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "أبي - رحمه الله - قال",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "أبي - رحمه الله - قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/maani-al-akhbar:120:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/maani-al-akhbar/120/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/28/1/120/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

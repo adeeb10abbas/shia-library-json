@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:4:106",
+  "chapter": {
+    "path": "/books/al-khisal:4:106",
+    "titles": {
+      "en": "Three Characteristics That Shiites Do Not Have"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:4:106:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:4:106:1",
+        "parts": [
+          4,
+          106,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 106,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:4:106",
+        "titles": {
+          "en": "Three Characteristics That Shiites Do Not Have"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا سعد بن عبد الله قال: حدثني الحسن بن علي بن النعمان، عن علي بن أسباط عن بعض أصحابنا، عن أبي عبد الله عليه السلام قال: ما كان في شيعتنا فلا يكون فيهم ثلاثة أشياء: لا يكون فيهم من يسأل بكفه، ولا يكون فيهم بخيل، ولا يكون فيهم من يؤتى في دبره"
+        ],
+        "text": ": حدثنا سعد بن عبد الله قال: حدثني الحسن بن علي بن النعمان، عن علي بن أسباط عن بعض أصحابنا، عن أبي عبد الله عليه السلام قال: ما كان في شيعتنا فلا يكون فيهم ثلاثة أشياء: لا يكون فيهم من يسأل بكفه، ولا يكون فيهم بخيل، ولا يكون فيهم من يؤتى في دبره"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "3-137 Muhammad ibn al-Hassan - may God be pleased with him - narrated that Sa’ed ibn Abdullah quoted on the authority of Al-Hassan ibn Ali ibn al-Nue’man, on the authority of Ali ibn Asbat, on the authority of some of our friends that Aba Abdullah as-Sadiq (MGB) said, “Whatever faults our Shiites may have, they do not have any of the following faults: none of them beg, none of them are miserly, and none of them are gay.”"
+          ],
+          "text": "3-137 Muhammad ibn al-Hassan - may God be pleased with him - narrated that Sa’ed ibn Abdullah quoted on the authority of Al-Hassan ibn Ali ibn al-Nue’man, on the authority of Ali ibn Asbat, on the authority of some of our friends that Aba Abdullah as-Sadiq (MGB) said, “Whatever faults our Shiites may have, they do not have any of the following faults: none of them beg, none of them are miserly, and none of them are gay.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "3-137 حدثنا محمد بن الحسن رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "3-137 حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "محمد بن الحسن رضي الله عنه قال",
+            "path": "/people/narrators/90"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/90"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:4:106:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/4/106/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/4/106/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

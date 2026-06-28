@@ -1,0 +1,44 @@
+{
+  "id": 3327,
+  "type": "narrator",
+  "path": "/people/narrators/3327",
+  "titles": {
+    "ar": "سَعِيدِ بْنِ عَبْدِ الرَّحْمَنِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:32:8"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3466-3327": {
+      "narrator_ids": [
+        3466,
+        3327
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:32:8"
+      ]
+    },
+    "4-90-36-3466-3327": {
+      "narrator_ids": [
+        4,
+        90,
+        36,
+        3466,
+        3327
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:32:8"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3327",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3327.json"
+  }
+}

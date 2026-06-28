@@ -1,0 +1,118 @@
+{
+  "id": 911,
+  "type": "narrator",
+  "path": "/people/narrators/911",
+  "titles": {
+    "ar": "طَاهِرٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:70:4",
+    "/books/al-kafi:1:4:70:5",
+    "/books/al-kafi:1:4:70:6",
+    "/books/al-kafi:1:4:71:10"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "15-911": {
+      "narrator_ids": [
+        15,
+        911
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:70:4"
+      ]
+    },
+    "219-67-552-911": {
+      "narrator_ids": [
+        219,
+        67,
+        552,
+        911
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:70:6"
+      ]
+    },
+    "360-911": {
+      "narrator_ids": [
+        360,
+        911
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:71:10"
+      ]
+    },
+    "4-29-143-360-911-669": {
+      "narrator_ids": [
+        4,
+        29,
+        143,
+        360,
+        911,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:71:10"
+      ]
+    },
+    "5-99-36-85-911": {
+      "narrator_ids": [
+        5,
+        99,
+        36,
+        85,
+        911
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:70:5"
+      ]
+    },
+    "552-911": {
+      "narrator_ids": [
+        552,
+        911
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:70:6"
+      ]
+    },
+    "6-5-15-911": {
+      "narrator_ids": [
+        6,
+        5,
+        15,
+        911
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:70:4"
+      ]
+    },
+    "85-911": {
+      "narrator_ids": [
+        85,
+        911
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:70:5"
+      ]
+    },
+    "911-669": {
+      "narrator_ids": [
+        911,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:71:10"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/911",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/911.json"
+  }
+}

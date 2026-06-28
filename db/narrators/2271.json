@@ -1,0 +1,32 @@
+{
+  "id": 2271,
+  "type": "narrator",
+  "path": "/people/narrators/2271",
+  "titles": {
+    "ar": "أَحْمَدَ بْنِ إِسْحَاقَ الرَّازِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:131:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "8-2271": {
+      "narrator_ids": [
+        8,
+        2271
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:131:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2271",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2271.json"
+  }
+}

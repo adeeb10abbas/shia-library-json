@@ -1,0 +1,85 @@
+{
+  "id": 1424,
+  "type": "narrator",
+  "path": "/people/narrators/1424",
+  "titles": {
+    "ar": "جَعْفَرِ بْنِ مُحَمَّدٍ الْهَاشِمِيِّ"
+  },
+  "versePaths": [
+    "/books/al-amali-mufid:23:21:1",
+    "/books/al-kafi:2:1:29:3",
+    "/books/al-kafi:3:4:19:4"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "11-169-1424-2449": {
+      "narrator_ids": [
+        11,
+        169,
+        1424,
+        2449
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:29:3"
+      ]
+    },
+    "1424-2075": {
+      "narrator_ids": [
+        1424,
+        2075
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:19:4"
+      ]
+    },
+    "1424-2449": {
+      "narrator_ids": [
+        1424,
+        2449
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:29:3"
+      ]
+    },
+    "169-1424": {
+      "narrator_ids": [
+        169,
+        1424
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:29:3"
+      ]
+    },
+    "20-176-81-1424-2075": {
+      "narrator_ids": [
+        20,
+        176,
+        81,
+        1424,
+        2075
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:19:4"
+      ]
+    },
+    "81-1424": {
+      "narrator_ids": [
+        81,
+        1424
+      ],
+      "verse_paths": [
+        "/books/al-amali-mufid:23:21:1",
+        "/books/al-kafi:3:4:19:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1424",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1424.json"
+  }
+}

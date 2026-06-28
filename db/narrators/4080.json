@@ -1,0 +1,32 @@
+{
+  "id": 4080,
+  "type": "narrator",
+  "path": "/people/narrators/4080",
+  "titles": {
+    "ar": "لُقْمَانَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:1:17:8"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "404-4080": {
+      "narrator_ids": [
+        404,
+        4080
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:17:8"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4080",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4080.json"
+  }
+}

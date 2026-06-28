@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:3:47",
+  "chapter": {
+    "path": "/books/al-khisal:3:47",
+    "titles": {
+      "en": "Two Leaders Who Are Not in Power"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:3:47:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:3:47:1",
+        "parts": [
+          3,
+          47,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 47,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:3:47",
+        "titles": {
+          "en": "Two Leaders Who Are Not in Power"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا محمد بن يحيى العطار، عن محمد بن أحمد، عن أحمد بن محمد باسناده رفعه إلى أبي عبد الله عليه السلام قال: قال رسول الله صلى الله عليه وآله: أميران وليسا بأميرين، ليس لمن تبع جنازة أن يرجع حتى تدفن أو يؤذن له، ورجل يحج مع امرأة فليس له أن ينفر حتى تقضي نسكها"
+        ],
+        "text": ": حدثنا محمد بن يحيى العطار، عن محمد بن أحمد، عن أحمد بن محمد باسناده رفعه إلى أبي عبد الله عليه السلام قال: قال رسول الله صلى الله عليه وآله: أميران وليسا بأميرين، ليس لمن تبع جنازة أن يرجع حتى تدفن أو يؤذن له، ورجل يحج مع امرأة فليس له أن ينفر حتى تقضي نسكها"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "2-58 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Muhammad ibn Yahya al-Attar quoted Muhammad ibn Ahmad, who linked it up through a chain of narrators to Aba Abdullah as-Sadiq (MGB), who said that God’s Prophet (MGB) said, “There are two leaders who are not in power: The man who is following a corpse in a funeral procession doesn’t have the power to return until the body is buried, and a man who is on a Hajj pilgrimage visit along with a woman doesn’t have the power to leave until she finishes her Hajj pilgrimage.”"
+          ],
+          "text": "2-58 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Muhammad ibn Yahya al-Attar quoted Muhammad ibn Ahmad, who linked it up through a chain of narrators to Aba Abdullah as-Sadiq (MGB), who said that God’s Prophet (MGB) said, “There are two leaders who are not in power: The man who is following a corpse in a funeral procession doesn’t have the power to return until the body is buried, and a man who is on a Hajj pilgrimage visit along with a woman doesn’t have the power to leave until she finishes her Hajj pilgrimage.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "2-58 حدثنا أبي رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "2-58 حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي رضي الله عنه قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:3:47:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/3/47/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/3/47/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

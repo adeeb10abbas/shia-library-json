@@ -1,0 +1,51 @@
+{
+  "id": 4189,
+  "type": "narrator",
+  "path": "/people/narrators/4189",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ الْقَاسِمِ بْنِ الْفُضَيْلِ الْبَصْرِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:2:75:13"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "29-4189": {
+      "narrator_ids": [
+        29,
+        4189
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:75:13"
+      ]
+    },
+    "29-4189-64": {
+      "narrator_ids": [
+        29,
+        4189,
+        64
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:75:13"
+      ]
+    },
+    "4189-64": {
+      "narrator_ids": [
+        4189,
+        64
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:75:13"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4189",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4189.json"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-amali-mufid",
+  "chapterPath": "/books/al-amali-mufid:16:7",
+  "chapter": {
+    "path": "/books/al-amali-mufid:16:7",
+    "titles": {
+      "en": "Doing a good turn to a fool"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-amali-mufid:16:7:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-amali-mufid",
+        "titles": {
+          "ar": "الأمالي (المفيد)",
+          "en": "Al-Amali (al-Mufid)"
+        },
+        "author": {
+          "ar": "الشيخ المفيد",
+          "en": "Shaykh al-Mufid"
+        }
+      },
+      "path": {
+        "source": "/books/al-amali-mufid:16:7:1",
+        "parts": [
+          16,
+          7,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 16,
+        "book": 7,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-amali-mufid:16:7",
+        "titles": {
+          "en": "Doing a good turn to a fool"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثني أبو حفص عمر بن محمد الصيرفي قال: حدثنا أبو الحسن أحمد بن الحسين الصوفي  قال: حدثنا عبد الله بن مطيع قال: حدثنا خالد بن عبد الله، عن ابن أبي ليلى، عن عطية، عن كعب الأحبار قال: مكتوب في التوراة: من صنع معروفا إلى أحمق فهي خطيئة تكتب عليه. وصلى الله على محمد وآله الطيبين الطاهرين وسلم تسليما."
+        ],
+        "text": ": حدثني أبو حفص عمر بن محمد الصيرفي قال: حدثنا أبو الحسن أحمد بن الحسين الصوفي  قال: حدثنا عبد الله بن مطيع قال: حدثنا خالد بن عبد الله، عن ابن أبي ليلى، عن عطية، عن كعب الأحبار قال: مكتوب في التوراة: من صنع معروفا إلى أحمق فهي خطيئة تكتب عليه. وصلى الله على محمد وآله الطيبين الطاهرين وسلم تسليما."
+      },
+      "translations": {
+        "en.mulla-asgharali-m-m-jaffer": {
+          "segments": [
+            "7. He said: Abu Hafs Umar ibn Muhammad al-Sayrafi reported to me from Abul Hasan Ahmad ibn al-Husayn al-Soofi, who reported from Abdullah ibn Mutee’, who reported from Khalid ibn Abdillah, from Ibn Abi Layla, from Atiyyah from Ka’b ibn al-Ahbar who said: \"It is written in Torah that whoever does a good turn to a fool, it is an error which is rendered against himself.\" And May Allah bless Muhamamad and his pure progeny and send them peaceful greetings."
+          ],
+          "text": "7. He said: Abu Hafs Umar ibn Muhammad al-Sayrafi reported to me from Abul Hasan Ahmad ibn al-Husayn al-Soofi, who reported from Abdullah ibn Mutee’, who reported from Khalid ibn Abdillah, from Ibn Abi Layla, from Atiyyah from Ka’b ibn al-Ahbar who said: \"It is written in Torah that whoever does a good turn to a fool, it is an error which is rendered against himself.\" And May Allah bless Muhamamad and his pure progeny and send them peaceful greetings."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "7 - قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "7 - "
+          },
+          {
+            "kind": "narrator",
+            "text": "قال",
+            "path": "/people/narrators/652"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/652"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-amali-mufid:16:7:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-amali-mufid/16/7/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/13/16/7/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

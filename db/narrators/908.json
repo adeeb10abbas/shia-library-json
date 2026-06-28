@@ -1,0 +1,182 @@
+{
+  "id": 908,
+  "type": "narrator",
+  "path": "/people/narrators/908",
+  "titles": {
+    "ar": "صَالِحِ بْنِ أَبِي الْأَسْوَدِ",
+    "en": "Salih ibn Abi al-Aswad"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:89:1",
+    "/books/al-kafi:3:4:103:2",
+    "/books/al-kafi:4:3:141:7",
+    "/books/al-kafi:4:3:165:6",
+    "/books/kitab-al-ghayba-tusi:52:6",
+    "/books/tahdhib-al-ahkam:3:26:11",
+    "/books/tahdhib-al-ahkam:5:10:10"
+  ],
+  "verseCount": 7,
+  "relations": {},
+  "subchains": {
+    "1315-908": {
+      "narrator_ids": [
+        1315,
+        908
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:89:1"
+      ]
+    },
+    "2522-908": {
+      "narrator_ids": [
+        2522,
+        908
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:141:7",
+        "/books/tahdhib-al-ahkam:5:10:10"
+      ]
+    },
+    "3255-4-29-2522-908-168-9": {
+      "narrator_ids": [
+        3255,
+        4,
+        29,
+        2522,
+        908,
+        168,
+        9
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:10:10"
+      ]
+    },
+    "33-41-908": {
+      "narrator_ids": [
+        33,
+        41,
+        908
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:52:6"
+      ]
+    },
+    "4-167-500-1315-908-2014": {
+      "narrator_ids": [
+        4,
+        167,
+        500,
+        1315,
+        908,
+        2014
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:89:1"
+      ]
+    },
+    "4-29-2522-908-168-9": {
+      "narrator_ids": [
+        4,
+        29,
+        2522,
+        908,
+        168,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:141:7"
+      ]
+    },
+    "4-29-63-908-168-9": {
+      "narrator_ids": [
+        4,
+        29,
+        63,
+        908,
+        168,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:165:6"
+      ]
+    },
+    "4-644-921-908": {
+      "narrator_ids": [
+        4,
+        644,
+        921,
+        908
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:103:2"
+      ]
+    },
+    "4-645-921-908": {
+      "narrator_ids": [
+        4,
+        645,
+        921,
+        908
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:3:26:11"
+      ]
+    },
+    "41-908": {
+      "narrator_ids": [
+        41,
+        908
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:52:6"
+      ]
+    },
+    "63-908": {
+      "narrator_ids": [
+        63,
+        908
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:165:6"
+      ]
+    },
+    "908-168": {
+      "narrator_ids": [
+        908,
+        168
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:141:7",
+        "/books/al-kafi:4:3:165:6",
+        "/books/tahdhib-al-ahkam:5:10:10"
+      ]
+    },
+    "908-2014": {
+      "narrator_ids": [
+        908,
+        2014
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:89:1"
+      ]
+    },
+    "921-908": {
+      "narrator_ids": [
+        921,
+        908
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:103:2",
+        "/books/tahdhib-al-ahkam:3:26:11"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/908",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/908.json"
+  }
+}

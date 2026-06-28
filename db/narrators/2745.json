@@ -1,0 +1,52 @@
+{
+  "id": 2745,
+  "type": "narrator",
+  "path": "/people/narrators/2745",
+  "titles": {
+    "ar": "الْفَضْلِ بْنِ الْمُبَارَكِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:45:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2745-505": {
+      "narrator_ids": [
+        2745,
+        505
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:45:3"
+      ]
+    },
+    "35-5-2745-505": {
+      "narrator_ids": [
+        35,
+        5,
+        2745,
+        505
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:45:3"
+      ]
+    },
+    "5-2745": {
+      "narrator_ids": [
+        5,
+        2745
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:45:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2745",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2745.json"
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "id": 2641,
+  "type": "narrator",
+  "path": "/people/narrators/2641",
+  "titles": {
+    "ar": "الْحُسَيْنِ بْنِ مُحَمَّدٍ الْقُمِّيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:234:1",
+    "/books/kamil-al-ziyarat:2:54:3",
+    "/books/kamil-al-ziyarat:2:59:2",
+    "/books/kamil-al-ziyarat:2:59:7",
+    "/books/man-la-yahduruhu-al-faqih:2:3:156:21",
+    "/books/tahdhib-al-ahkam:6:16:13"
+  ],
+  "verseCount": 6,
+  "relations": {},
+  "subchains": {
+    "1041-2641": {
+      "narrator_ids": [
+        1041,
+        2641
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:234:1"
+      ]
+    },
+    "2641-184": {
+      "narrator_ids": [
+        2641,
+        184
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:2:3:156:21"
+      ]
+    },
+    "2641-98": {
+      "narrator_ids": [
+        2641,
+        98
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:59:2",
+        "/books/tahdhib-al-ahkam:6:16:13"
+      ]
+    },
+    "4-29-17-1041-2641": {
+      "narrator_ids": [
+        4,
+        29,
+        17,
+        1041,
+        2641
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:234:1"
+      ]
+    },
+    "4-29-17-625-2641-98": {
+      "narrator_ids": [
+        4,
+        29,
+        17,
+        625,
+        2641,
+        98
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:16:13"
+      ]
+    },
+    "600-29-130-625-2641": {
+      "narrator_ids": [
+        600,
+        29,
+        130,
+        625,
+        2641
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:59:7"
+      ]
+    },
+    "600-29-17-625-2641": {
+      "narrator_ids": [
+        600,
+        29,
+        17,
+        625,
+        2641
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:54:3"
+      ]
+    },
+    "613-355-13-17-625-2641-98": {
+      "narrator_ids": [
+        613,
+        355,
+        13,
+        17,
+        625,
+        2641,
+        98
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:59:2"
+      ]
+    },
+    "625-2641": {
+      "narrator_ids": [
+        625,
+        2641
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:54:3",
+        "/books/kamil-al-ziyarat:2:59:2",
+        "/books/kamil-al-ziyarat:2:59:7",
+        "/books/tahdhib-al-ahkam:6:16:13"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2641",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2641.json"
+  }
+}

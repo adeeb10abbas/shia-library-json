@@ -1,0 +1,85 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:8:5",
+  "chapter": {
+    "path": "/books/al-khisal:8:5",
+    "titles": {
+      "en": "The Prophet Said: ‘Blessed Be Those who Believe In Me without Having Seen Me’"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:8:5:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:8:5:1",
+        "parts": [
+          8,
+          5,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 8,
+        "book": 5,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:8:5",
+        "titles": {
+          "en": "The Prophet Said: ‘Blessed Be Those who Believe In Me without Having Seen Me’"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا أبوالعباس الحمادي قال: حدثنا أبوجعفر الحضرمي قال: حدثنا هدبة بن خالد قال: حدثنا همام بن يحيى قال: حدثنا قتادة، عن أيمن، عن أبي امامة قال: قال رسول الله صلى الله عليه وآله: طوبى لمن رآني وآمن بي، طوبى ثم طوبى يقولها سبعالمن لم يرني وآمن بي"
+        ],
+        "text": ": حدثنا أبوالعباس الحمادي قال: حدثنا أبوجعفر الحضرمي قال: حدثنا هدبة بن خالد قال: حدثنا همام بن يحيى قال: حدثنا قتادة، عن أيمن، عن أبي امامة قال: قال رسول الله صلى الله عليه وآله: طوبى لمن رآني وآمن بي، طوبى ثم طوبى يقولها سبعالمن لم يرني وآمن بي"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "7-6 Muhammad ibn Ja’far al-Bindar narrated that Abul-Abbas al-Himady quoted on the authority of Abu Ja’far al-Hazrami, on the authority of Hodbat ibn Khalid, on the authority of Homam ibn Yahya, on the authority of Qitadeh, on the authority of Aymen, on the authority of Abi Imamat that God’s Prophet (MGB) said, “Blessed be those who believe in me without having seen me.” He (MGB) then repeated it seven times."
+          ],
+          "text": "7-6 Muhammad ibn Ja’far al-Bindar narrated that Abul-Abbas al-Himady quoted on the authority of Abu Ja’far al-Hazrami, on the authority of Hodbat ibn Khalid, on the authority of Homam ibn Yahya, on the authority of Qitadeh, on the authority of Aymen, on the authority of Abi Imamat that God’s Prophet (MGB) said, “Blessed be those who believe in me without having seen me.” He (MGB) then repeated it seven times."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "7-6 حدثنا محمد بن جعفر البندار قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "7-6 حدثنا "
+          },
+          {
+            "kind": "plain",
+            "text": "محمد بن جعفر البندار قال"
+          }
+        ],
+        "narratorPaths": []
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:8:5:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/8/5/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/8/5/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

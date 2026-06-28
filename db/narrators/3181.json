@@ -1,0 +1,62 @@
+{
+  "id": 3181,
+  "type": "narrator",
+  "path": "/people/narrators/3181",
+  "titles": {
+    "ar": "ذَكَرَ"
+  },
+  "versePaths": [
+    "/books/kamil-al-ziyarat:2:71:7",
+    "/books/man-la-yahduruhu-al-faqih:1:21:15",
+    "/books/tahdhib-al-ahkam:1:25:29"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "355-92-244-164-728-669-3181": {
+      "narrator_ids": [
+        355,
+        92,
+        244,
+        164,
+        728,
+        669,
+        3181
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:25:29"
+      ]
+    },
+    "4263-29-7-170-669-3181": {
+      "narrator_ids": [
+        4263,
+        29,
+        7,
+        170,
+        669,
+        3181
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:71:7"
+      ]
+    },
+    "669-3181": {
+      "narrator_ids": [
+        669,
+        3181
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:71:7",
+        "/books/tahdhib-al-ahkam:1:25:29"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3181",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3181.json"
+  }
+}

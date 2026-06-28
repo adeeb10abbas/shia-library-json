@@ -1,0 +1,63 @@
+{
+  "id": 2793,
+  "type": "narrator",
+  "path": "/people/narrators/2793",
+  "titles": {
+    "ar": "الْمَرْزُبَانِ بْنِ عِمْرَانَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:2:51:4",
+    "/books/tahdhib-al-ahkam:2:8:235"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "259-2793": {
+      "narrator_ids": [
+        259,
+        2793
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:8:235"
+      ]
+    },
+    "2793-120": {
+      "narrator_ids": [
+        2793,
+        120
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:8:235"
+      ]
+    },
+    "355-5-259-2793-120": {
+      "narrator_ids": [
+        355,
+        5,
+        259,
+        2793,
+        120
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:8:235"
+      ]
+    },
+    "5-2793": {
+      "narrator_ids": [
+        5,
+        2793
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:51:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2793",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2793.json"
+  }
+}

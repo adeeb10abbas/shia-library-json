@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:2:52",
+  "chapter": {
+    "path": "/books/al-khisal:2:52",
+    "titles": {
+      "en": "A Characteristic That Causes One to Be Thrown Out and a Characteristic That Causes One to Be Joined"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:2:52:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:2:52:1",
+        "parts": [
+          2,
+          52,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 52,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:2:52",
+        "titles": {
+          "en": "A Characteristic That Causes One to Be Thrown Out and a Characteristic That Causes One to Be Joined"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا محمد بن يحيى العطار قال: حدثني أبوسعيد الادمي قال: حدثنا الحسن بن الحسين الؤلؤي، عن محمد بن سنان، عن حذيفة بن منصور قال: سمعت أبا عبد الله عليه السلام يقول: إن قوما من قريش قلت مدارأتهم للناس فنفوا من قريش وأيم الله ما كان بأحسابهم بأس. وإن قوما من غيرهم حسنت مدرأتهم فالحقوا بالبيت الرفيع. قال: ثم قال: من كف يده عن الناس فإنما يكف عنهم يدا واحدة ويكفون عنه أيادي كثيرة"
+        ],
+        "text": ": حدثنا محمد بن يحيى العطار قال: حدثني أبوسعيد الادمي قال: حدثنا الحسن بن الحسين الؤلؤي، عن محمد بن سنان، عن حذيفة بن منصور قال: سمعت أبا عبد الله عليه السلام يقول: إن قوما من قريش قلت مدارأتهم للناس فنفوا من قريش وأيم الله ما كان بأحسابهم بأس. وإن قوما من غيرهم حسنت مدرأتهم فالحقوا بالبيت الرفيع. قال: ثم قال: من كف يده عن الناس فإنما يكف عنهم يدا واحدة ويكفون عنه أيادي كثيرة"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "1-60 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Muhammad ibn Yahya al-Attar quoted on the authority of Abu Sa’id al-Adamy, on the authority of Al-Hassan ibn al-Hussein al-Lu’lu’ee, on the authority of Muhammad ibn Sin’an that Hazifat ibn Mansoor said that he had heard Aba Abdullah as-Sadiq (MGB) say, “A group of people from the Quraysh tribe reduced their (level of) treatment of the people with moderation, and were thrown out of the Quraysh tribe. And by God, whatever there is in their records is suffering. Another group of people from the Quraysh tribe treated the people with moderation and joined the lofty household (of the Prophet).” Then he added, “Whoever withdraws his hand from the people has withdrawn just one hand, but many hands will be withdrawn from him.”"
+          ],
+          "text": "1-60 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Muhammad ibn Yahya al-Attar quoted on the authority of Abu Sa’id al-Adamy, on the authority of Al-Hassan ibn al-Hussein al-Lu’lu’ee, on the authority of Muhammad ibn Sin’an that Hazifat ibn Mansoor said that he had heard Aba Abdullah as-Sadiq (MGB) say, “A group of people from the Quraysh tribe reduced their (level of) treatment of the people with moderation, and were thrown out of the Quraysh tribe. And by God, whatever there is in their records is suffering. Another group of people from the Quraysh tribe treated the people with moderation and joined the lofty household (of the Prophet).” Then he added, “Whoever withdraws his hand from the people has withdrawn just one hand, but many hands will be withdrawn from him.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "1-60 حدثنا أبي رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "1-60 حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي رضي الله عنه قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:2:52:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/2/52/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/2/52/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

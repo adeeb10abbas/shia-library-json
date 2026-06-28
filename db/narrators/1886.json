@@ -1,0 +1,42 @@
+{
+  "id": 1886,
+  "type": "narrator",
+  "path": "/people/narrators/1886",
+  "titles": {
+    "ar": "ابْنِ سِنَانٍ أَوْ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:3:14:11"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2-1886": {
+      "narrator_ids": [
+        2,
+        1886
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:3:14:11"
+      ]
+    },
+    "3-2-1886": {
+      "narrator_ids": [
+        3,
+        2,
+        1886
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:3:14:11"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1886",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1886.json"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:5:35",
+  "chapter": {
+    "path": "/books/al-khisal:5:35",
+    "titles": {
+      "en": "Four Characteristics Are Due to Obsession"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:5:35:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:5:35:1",
+        "parts": [
+          5,
+          35,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 35,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:5:35",
+        "titles": {
+          "en": "Four Characteristics Are Due to Obsession"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا سعد بن عبد الله، عن محمد بن عيسى، عن عبيد الله بن عبد الله الدهقان، عن درست بن أبي منصور الواسطي، عن إبراهيم بن عبدالحميد، عن أبي الحسن الاول عليه السلام قال: أربعة من الوسواس: أكل الطين، وفت الطين، وتقليم الاظفار بالاسنان، وأكل اللحية"
+        ],
+        "text": ": حدثنا سعد بن عبد الله، عن محمد بن عيسى، عن عبيد الله بن عبد الله الدهقان، عن درست بن أبي منصور الواسطي، عن إبراهيم بن عبدالحميد، عن أبي الحسن الاول عليه السلام قال: أربعة من الوسواس: أكل الطين، وفت الطين، وتقليم الاظفار بالاسنان، وأكل اللحية"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "4-46 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Sa’ed ibn Abdullah quoted Muhammad ibn Isa, on the authority of Ubaydullah ibn Abdullah al-Dihqan, on the authority of Durost ibn Abi Mansoor al-Vaseti, on the authority of Ibrahim ibn Abdul-Hamid, on the authority of Durost ibn Abi Mansoor al-Vaseti, on the authority of Ibrahim ibn Abdul Hamid, on the authority of Abil Hassan - the first (MGB) , “The following four acts are due to obsession: eating clay, breaking up clay, biting one’s nails, and chewing one’s beard (Trichotillomania).”"
+          ],
+          "text": "4-46 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Sa’ed ibn Abdullah quoted Muhammad ibn Isa, on the authority of Ubaydullah ibn Abdullah al-Dihqan, on the authority of Durost ibn Abi Mansoor al-Vaseti, on the authority of Ibrahim ibn Abdul-Hamid, on the authority of Durost ibn Abi Mansoor al-Vaseti, on the authority of Ibrahim ibn Abdul Hamid, on the authority of Abil Hassan - the first (MGB) , “The following four acts are due to obsession: eating clay, breaking up clay, biting one’s nails, and chewing one’s beard (Trichotillomania).”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "4-46 حدثنا أبي رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "4-46 حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي رضي الله عنه قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:5:35:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/5/35/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/5/35/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

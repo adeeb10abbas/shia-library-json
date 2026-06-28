@@ -1,0 +1,90 @@
+{
+  "id": 3378,
+  "type": "narrator",
+  "path": "/people/narrators/3378",
+  "titles": {
+    "ar": "سُلَيْمَانَ بْنِ هَارُونَ"
+  },
+  "versePaths": [
+    "/books/al-istibsar:1:136:4",
+    "/books/al-kafi:1:2:20:3",
+    "/books/kamil-al-ziyarat:2:13:13",
+    "/books/tahdhib-al-ahkam:2:9:139"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "161-3378": {
+      "narrator_ids": [
+        161,
+        3378
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:13:13"
+      ]
+    },
+    "355-13-22-161-3378": {
+      "narrator_ids": [
+        355,
+        13,
+        22,
+        161,
+        3378
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:13:13"
+      ]
+    },
+    "46-3378": {
+      "narrator_ids": [
+        46,
+        3378
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:2:20:3"
+      ]
+    },
+    "5-15-80-3378": {
+      "narrator_ids": [
+        5,
+        15,
+        80,
+        3378
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:136:4",
+        "/books/tahdhib-al-ahkam:2:9:139"
+      ]
+    },
+    "50-127-26-46-3378": {
+      "narrator_ids": [
+        50,
+        127,
+        26,
+        46,
+        3378
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:2:20:3"
+      ]
+    },
+    "80-3378": {
+      "narrator_ids": [
+        80,
+        3378
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:136:4",
+        "/books/tahdhib-al-ahkam:2:9:139"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3378",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3378.json"
+  }
+}

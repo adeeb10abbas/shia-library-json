@@ -1,0 +1,123 @@
+{
+  "id": 1144,
+  "type": "narrator",
+  "path": "/people/narrators/1144",
+  "titles": {
+    "ar": "عَبْدِ اللَّهِ بْنِ رَاشِدٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:3:63:1",
+    "/books/al-kafi:3:3:63:7",
+    "/books/al-kafi:3:3:63:8",
+    "/books/tahdhib-al-ahkam:1:28:94"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "1144-3545": {
+      "narrator_ids": [
+        1144,
+        3545
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:63:8",
+        "/books/tahdhib-al-ahkam:1:28:94"
+      ]
+    },
+    "1144-669": {
+      "narrator_ids": [
+        1144,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:63:1"
+      ]
+    },
+    "143-1144": {
+      "narrator_ids": [
+        143,
+        1144
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:63:1"
+      ]
+    },
+    "3-2-157-143-1144-669": {
+      "narrator_ids": [
+        3,
+        2,
+        157,
+        143,
+        1144,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:63:1"
+      ]
+    },
+    "46-1144": {
+      "narrator_ids": [
+        46,
+        1144
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:63:7"
+      ]
+    },
+    "49-345-202-46-1144": {
+      "narrator_ids": [
+        49,
+        345,
+        202,
+        46,
+        1144
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:63:7"
+      ]
+    },
+    "6-8-247-831-1144-3545": {
+      "narrator_ids": [
+        6,
+        8,
+        247,
+        831,
+        1144,
+        3545
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:63:8"
+      ]
+    },
+    "8-247-831-1144-3545": {
+      "narrator_ids": [
+        8,
+        247,
+        831,
+        1144,
+        3545
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:28:94"
+      ]
+    },
+    "831-1144": {
+      "narrator_ids": [
+        831,
+        1144
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:63:8",
+        "/books/tahdhib-al-ahkam:1:28:94"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1144",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1144.json"
+  }
+}

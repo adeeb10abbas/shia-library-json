@@ -1,0 +1,53 @@
+{
+  "id": 2941,
+  "type": "narrator",
+  "path": "/people/narrators/2941",
+  "titles": {
+    "ar": "بُنْدَارَ بْنِ مُحَمَّدٍ الطَّبَرِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:1:15:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "169-2941": {
+      "narrator_ids": [
+        169,
+        2941
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:15:2"
+      ]
+    },
+    "2941-1576": {
+      "narrator_ids": [
+        2941,
+        1576
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:15:2"
+      ]
+    },
+    "652-169-2941-1576-64": {
+      "narrator_ids": [
+        652,
+        169,
+        2941,
+        1576,
+        64
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:15:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2941",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2941.json"
+  }
+}

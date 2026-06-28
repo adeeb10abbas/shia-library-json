@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-amali-mufid",
+  "chapterPath": "/books/al-amali-mufid:1:9",
+  "chapter": {
+    "path": "/books/al-amali-mufid:1:9",
+    "titles": {
+      "en": "Witnessing Hearts"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-amali-mufid:1:9:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-amali-mufid",
+        "titles": {
+          "ar": "الأمالي (المفيد)",
+          "en": "Al-Amali (al-Mufid)"
+        },
+        "author": {
+          "ar": "الشيخ المفيد",
+          "en": "Shaykh al-Mufid"
+        }
+      },
+      "path": {
+        "source": "/books/al-amali-mufid:1:9:1",
+        "parts": [
+          1,
+          9,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 1,
+        "book": 9,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-amali-mufid:1:9",
+        "titles": {
+          "en": "Witnessing Hearts"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": أخبرني أبو القاسم جعفر بن محمد ، عن أبيه، عن سعد بن عبد الله عن أحمد بن محمد بن عيسى، عن محمد بن سنان، عن حماد بن عثمان، عن ربعي بن عبد الله، والفضيل بن يسار ، عن أبي عبد الله جعفر بن محمد عليهما السلام قال: قال: أنظر قلبك فإن أنكر صاحبك فقد أحدث أحدكما ."
+        ],
+        "text": ": أخبرني أبو القاسم جعفر بن محمد ، عن أبيه، عن سعد بن عبد الله عن أحمد بن محمد بن عيسى، عن محمد بن سنان، عن حماد بن عثمان، عن ربعي بن عبد الله، والفضيل بن يسار ، عن أبي عبد الله جعفر بن محمد عليهما السلام قال: قال: أنظر قلبك فإن أنكر صاحبك فقد أحدث أحدكما ."
+      },
+      "translations": {
+        "en.mulla-asgharali-m-m-jaffer": {
+          "segments": [
+            "9. He said: Abul Qasim Ja’far ibn Muhammad reported to me from his father, from Sa’ad ibn Abdillah, from Ahmad ibn Muhammad ibn Isa from Muhammad ibn Sinan, from Hammad ibn Uthman from Rabe’e ibn Abdillah from al-Fudhail ibn Yasar from Abu Abdillah Ja’far ibn Muhammad, peace be upon him, that: He said: \"Look into your heart. If it disowns your friend (or harbours doubt about him) then either of you must have done something (improper).\""
+          ],
+          "text": "9. He said: Abul Qasim Ja’far ibn Muhammad reported to me from his father, from Sa’ad ibn Abdillah, from Ahmad ibn Muhammad ibn Isa from Muhammad ibn Sinan, from Hammad ibn Uthman from Rabe’e ibn Abdillah from al-Fudhail ibn Yasar from Abu Abdillah Ja’far ibn Muhammad, peace be upon him, that: He said: \"Look into your heart. If it disowns your friend (or harbours doubt about him) then either of you must have done something (improper).\""
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "9 - قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "9 - "
+          },
+          {
+            "kind": "narrator",
+            "text": "قال",
+            "path": "/people/narrators/652"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/652"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-amali-mufid:1:9:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-amali-mufid/1/9/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/13/1/9/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

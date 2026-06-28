@@ -1,0 +1,54 @@
+{
+  "id": 2788,
+  "type": "narrator",
+  "path": "/people/narrators/2788",
+  "titles": {
+    "ar": "الْمُخْتَارِ بْنِ مُحَمَّدٍ الْهَمْدَانِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:3:26:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2788-90": {
+      "narrator_ids": [
+        2788,
+        90
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:26:4"
+      ]
+    },
+    "3-2788": {
+      "narrator_ids": [
+        3,
+        2788
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:26:4"
+      ]
+    },
+    "3-2788-90-539-628-64": {
+      "narrator_ids": [
+        3,
+        2788,
+        90,
+        539,
+        628,
+        64
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:26:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2788",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2788.json"
+  }
+}

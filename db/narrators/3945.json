@@ -1,0 +1,78 @@
+{
+  "id": 3945,
+  "type": "narrator",
+  "path": "/people/narrators/3945",
+  "titles": {
+    "ar": "عَوْنِ بْنِ جَرِيرٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:4:13:2",
+    "/books/tahdhib-al-ahkam:9:1:250"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "11-6-12-2-3945-669": {
+      "narrator_ids": [
+        11,
+        6,
+        12,
+        2,
+        3945,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:1:250"
+      ]
+    },
+    "2-3945": {
+      "narrator_ids": [
+        2,
+        3945
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:4:13:2",
+        "/books/tahdhib-al-ahkam:9:1:250"
+      ]
+    },
+    "3945-3901": {
+      "narrator_ids": [
+        3945,
+        3901
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:4:13:2"
+      ]
+    },
+    "3945-669": {
+      "narrator_ids": [
+        3945,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:1:250"
+      ]
+    },
+    "6-12-2-3945-3901-669": {
+      "narrator_ids": [
+        6,
+        12,
+        2,
+        3945,
+        3901,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:4:13:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3945",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3945.json"
+  }
+}

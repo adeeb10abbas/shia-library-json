@@ -1,0 +1,642 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "mujam-al-ahadith-al-mutabara",
+  "chapterPath": "/books/mujam-al-ahadith-al-mutabara:1:1",
+  "chapter": {
+    "path": "/books/mujam-al-ahadith-al-mutabara:1:1",
+    "titles": {
+      "en": "Submission of Intellect and its Excellence"
+    }
+  },
+  "count": 6,
+  "records": [
+    {
+      "id": "mujam-al-ahadith-al-mutabara:1:1:1",
+      "type": "hadith",
+      "book": {
+        "slug": "mujam-al-ahadith-al-mutabara",
+        "titles": {
+          "ar": "معجم الأحاديث المعتبرة",
+          "en": "Mu'jam al-Ahadith al-Mu'tabara"
+        },
+        "author": {
+          "en": "Muhammad Asif al-Muhsini"
+        }
+      },
+      "path": {
+        "source": "/books/mujam-al-ahadith-al-mutabara:1:1:1",
+        "parts": [
+          1,
+          1,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 1,
+        "book": 1,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/mujam-al-ahadith-al-mutabara:1:1",
+        "titles": {
+          "en": "Submission of Intellect and its Excellence"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": لما خلق الله العقل استنطقه ثم قال له: أقبل فأقبل ثم قال له: أدبر فأدبر ثم قال: وعزتي وجلالي ما خلقت خلقا هو أحب إلي منك ولا أكملتك إلا فيمن احب، أما إني إياك آمر، وإياك أنهى وإياك اعاقب، وإياك اثيب"
+        ],
+        "text": ": لما خلق الله العقل استنطقه ثم قال له: أقبل فأقبل ثم قال له: أدبر فأدبر ثم قال: وعزتي وجلالي ما خلقت خلقا هو أحب إلي منك ولا أكملتك إلا فيمن احب، أما إني إياك آمر، وإياك أنهى وإياك اعاقب، وإياك اثيب"
+      },
+      "translations": {
+        "en.ammaar-muslim": {
+          "segments": [
+            "1. [1/1] Usul al-Kafi: From a number of our companions among them Muhammad b. Yahya al-Attar from Ahmad b. Muhammad from al-Hasan b. Mahbub from al-Ala b. Razin from Muhammad b. Muslim from Abi Ja’far عليه السلام who said: When Allāh created the intellect He gave it the power to speak, then He said to it: draw near, so it drew near, then He said to it: turn back, so it turned back, then He said: by my Power and Majesty I have not created a creature more beloved to me than you, and I have not perfected you except in the one I love, as for me you do I command, and you do I prohibit, and you do I punish and you do I reward."
+          ],
+          "text": "1. [1/1] Usul al-Kafi: From a number of our companions among them Muhammad b. Yahya al-Attar from Ahmad b. Muhammad from al-Hasan b. Mahbub from al-Ala b. Razin from Muhammad b. Muslim from Abi Ja’far عليه السلام who said: When Allāh created the intellect He gave it the power to speak, then He said to it: draw near, so it drew near, then He said to it: turn back, so it turned back, then He said: by my Power and Majesty I have not created a creature more beloved to me than you, and I have not perfected you except in the one I love, as for me you do I command, and you do I prohibit, and you do I punish and you do I reward."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "[1/1] اصول الكافي: عن عدة من أصحابنا منهم محمد بن يحيى العطار، عن أحمد بن محمد، عن الحسن بن محبوب، عن العلاء بن رزين، عن محمد بن مسلم، عن أبي جعفر عليه السلام قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "[1/1] اصول الكافي:"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "عدة من أصحابنا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " منهم "
+          },
+          {
+            "kind": "narrator",
+            "text": "محمد بن يحيى العطار،",
+            "path": "/people/narrators/601"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أحمد بن محمد،",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "الحسن بن محبوب،",
+            "path": "/people/narrators/53"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "العلاء بن رزين،",
+            "path": "/people/narrators/75"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "محمد بن مسلم،",
+            "path": "/people/narrators/16"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي جعفر عليه السلام قال",
+            "path": "/people/narrators/9"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/601",
+          "/people/narrators/5",
+          "/people/narrators/53",
+          "/people/narrators/75",
+          "/people/narrators/16",
+          "/people/narrators/9"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/mujam-al-ahadith-al-mutabara:1:1:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/mujam-al-ahadith-al-mutabara/1/1/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/9/1/1/1",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "mujam-al-ahadith-al-mutabara:1:1:2",
+      "type": "hadith",
+      "book": {
+        "slug": "mujam-al-ahadith-al-mutabara",
+        "titles": {
+          "ar": "معجم الأحاديث المعتبرة",
+          "en": "Mu'jam al-Ahadith al-Mu'tabara"
+        },
+        "author": {
+          "en": "Muhammad Asif al-Muhsini"
+        }
+      },
+      "path": {
+        "source": "/books/mujam-al-ahadith-al-mutabara:1:1:2",
+        "parts": [
+          1,
+          1,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 1,
+        "book": 1,
+        "chapter": 2
+      },
+      "chapter": {
+        "path": "/books/mujam-al-ahadith-al-mutabara:1:1",
+        "titles": {
+          "en": "Submission of Intellect and its Excellence"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": سمعت الرضا عليه السلام يقول: صديق كل امرء عقله، وعدوه جهله"
+        ],
+        "text": ": سمعت الرضا عليه السلام يقول: صديق كل امرء عقله، وعدوه جهله"
+      },
+      "translations": {
+        "en.ammaar-muslim": {
+          "segments": [
+            "2. [2/2] Usul al-Kafi: Muhammad b. Yahya from Ahmad b. Muhammad b. Isa from Ibn Fadhal from al-Hasan b. Jahm who said: I heard al-Ridha عليه السلام saying: the friend of every man is his intellect, and his enemy is his ignorance."
+          ],
+          "text": "2. [2/2] Usul al-Kafi: Muhammad b. Yahya from Ahmad b. Muhammad b. Isa from Ibn Fadhal from al-Hasan b. Jahm who said: I heard al-Ridha عليه السلام saying: the friend of every man is his intellect, and his enemy is his ignorance."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "[2/2] اصول الكافي: محمد بن يحيى، عن أحمد بن محمد بن عيسى، عن ابن فضال، عن الحسن بن الجهم قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "[2/2] اصول الكافي: محمد بن يحيى،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أحمد بن محمد بن عيسى،",
+            "path": "/people/narrators/13"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابن فضال،",
+            "path": "/people/narrators/22"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "الحسن بن الجهم قال",
+            "path": "/people/narrators/260"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/13",
+          "/people/narrators/22",
+          "/people/narrators/260"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/mujam-al-ahadith-al-mutabara:1:1:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/mujam-al-ahadith-al-mutabara/1/1/2.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/9/1/1/2",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "mujam-al-ahadith-al-mutabara:1:1:3",
+      "type": "hadith",
+      "book": {
+        "slug": "mujam-al-ahadith-al-mutabara",
+        "titles": {
+          "ar": "معجم الأحاديث المعتبرة",
+          "en": "Mu'jam al-Ahadith al-Mu'tabara"
+        },
+        "author": {
+          "en": "Muhammad Asif al-Muhsini"
+        }
+      },
+      "path": {
+        "source": "/books/mujam-al-ahadith-al-mutabara:1:1:3",
+        "parts": [
+          1,
+          1,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 1,
+        "book": 1,
+        "chapter": 3
+      },
+      "chapter": {
+        "path": "/books/mujam-al-ahadith-al-mutabara:1:1",
+        "titles": {
+          "en": "Submission of Intellect and its Excellence"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": قلت لابي الحسن عليه السلام: إن عندنا قوما لهم محبة، وليست لهم تلك العزيمة يقولون بهذا القول؟ فقال: ليس اولئك ممن عاتب الله إنما قال الله: فاعتبروا يا أولي الابصار"
+        ],
+        "text": ": قلت لابي الحسن عليه السلام: إن عندنا قوما لهم محبة، وليست لهم تلك العزيمة يقولون بهذا القول؟ فقال: ليس اولئك ممن عاتب الله إنما قال الله: فاعتبروا يا أولي الابصار"
+      },
+      "translations": {
+        "en.ammaar-muslim": {
+          "segments": [
+            "3. [3/3] Usul al-Kafi: From him (Muhammad b. Yahya) from Ahmad b. Muhammad from Ibn Fadhal from al-Hasan b. Jahm who said: I said to Abi al-Hasan عليه السلام: we have a group who have love (towards you) but they are not firm in resolve though they profess this belief (Tashayyu), so he عليه السلام said: these are not those who were admonished by Allāh, when Allāh said: <><a href=\"/books/quran:59#h2\">[59:2]</a>."
+          ],
+          "text": "3. [3/3] Usul al-Kafi: From him (Muhammad b. Yahya) from Ahmad b. Muhammad from Ibn Fadhal from al-Hasan b. Jahm who said: I said to Abi al-Hasan عليه السلام: we have a group who have love (towards you) but they are not firm in resolve though they profess this belief (Tashayyu), so he عليه السلام said: these are not those who were admonished by Allāh, when Allāh said: <><a href=\"/books/quran:59#h2\">[59:2]</a>."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "[3/3] اصول الكافي: وعنه، عن أحمد بن محمد، عن ابن فضال، عن الحسن بن الجهم قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "[3/3] اصول الكافي: وعنه،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أحمد بن محمد،",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابن فضال،",
+            "path": "/people/narrators/22"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "الحسن بن الجهم قال",
+            "path": "/people/narrators/260"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/5",
+          "/people/narrators/22",
+          "/people/narrators/260"
+        ]
+      },
+      "relations": {
+        "Mentions": [
+          "/books/quran:59:2"
+        ],
+        "Shared Chain": [
+          "/books/al-istibsar:4:54:11",
+          "/books/tahdhib-al-ahkam:9:18:5",
+          "/books/tahdhib-al-ahkam:9:5:27",
+          "/books/tahdhib-al-ahkam:9:5:35"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/mujam-al-ahadith-al-mutabara:1:1:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/mujam-al-ahadith-al-mutabara/1/1/3.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/9/1/1/3",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "mujam-al-ahadith-al-mutabara:1:1:4",
+      "type": "hadith",
+      "book": {
+        "slug": "mujam-al-ahadith-al-mutabara",
+        "titles": {
+          "ar": "معجم الأحاديث المعتبرة",
+          "en": "Mu'jam al-Ahadith al-Mu'tabara"
+        },
+        "author": {
+          "en": "Muhammad Asif al-Muhsini"
+        }
+      },
+      "path": {
+        "source": "/books/mujam-al-ahadith-al-mutabara:1:1:4",
+        "parts": [
+          1,
+          1,
+          4
+        ]
+      },
+      "numbering": {
+        "volume": 1,
+        "book": 1,
+        "chapter": 4
+      },
+      "chapter": {
+        "path": "/books/mujam-al-ahadith-al-mutabara:1:1",
+        "titles": {
+          "en": "Submission of Intellect and its Excellence"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " : سمعت أبا عبد الله (عليه السلام) يقول إن أصحابي أولو النهى و التقى فمن لم يكن من أهل النهى و التقى فليس من أصحابي"
+        ],
+        "text": ": سمعت أبا عبد الله (عليه السلام) يقول إن أصحابي أولو النهى و التقى فمن لم يكن من أهل النهى و التقى فليس من أصحابي"
+      },
+      "translations": {
+        "en.ammaar-muslim": {
+          "segments": [
+            "4. [4/4] Rijal al-Kashshi: Hamduwayh b. Nusayr who said: narrated to us Ayyub b. Nuh from Safwan b. Yahya from Dawud b. Farqad who said: I heard Aba Abdillah عليه السلام saying: my companions are the people of discernment and god-consciousness, whoever is not from the people of discernment and god-consciousness then he is not from my companions."
+          ],
+          "text": "4. [4/4] Rijal al-Kashshi: Hamduwayh b. Nusayr who said: narrated to us Ayyub b. Nuh from Safwan b. Yahya from Dawud b. Farqad who said: I heard Aba Abdillah عليه السلام saying: my companions are the people of discernment and god-consciousness, whoever is not from the people of discernment and god-consciousness then he is not from my companions."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "[4/4] رجال الكشي: عن حمدويه بن نصيرعن أيوب بن نوح، عن صفوان بن يحيى، عن داود بن فرقد، قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "[4/4] رجال الكشي:"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "حمدويه بن نصيرعن أيوب بن نوح،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "صفوان بن يحيى،",
+            "path": "/people/narrators/30"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "داود بن فرقد، قال",
+            "path": "/people/narrators/178"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/30",
+          "/people/narrators/178"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/mujam-al-ahadith-al-mutabara:1:1:4",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/mujam-al-ahadith-al-mutabara/1/1/4.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/9/1/1/4",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "mujam-al-ahadith-al-mutabara:1:1:5",
+      "type": "hadith",
+      "book": {
+        "slug": "mujam-al-ahadith-al-mutabara",
+        "titles": {
+          "ar": "معجم الأحاديث المعتبرة",
+          "en": "Mu'jam al-Ahadith al-Mu'tabara"
+        },
+        "author": {
+          "en": "Muhammad Asif al-Muhsini"
+        }
+      },
+      "path": {
+        "source": "/books/mujam-al-ahadith-al-mutabara:1:1:5",
+        "parts": [
+          1,
+          1,
+          5
+        ]
+      },
+      "numbering": {
+        "volume": 1,
+        "book": 1,
+        "chapter": 5
+      },
+      "chapter": {
+        "path": "/books/mujam-al-ahadith-al-mutabara:1:1",
+        "titles": {
+          "en": "Submission of Intellect and its Excellence"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": كنا عند الرضا عليه السلام فتذاكرنا العقل والادب فقال: يا أبا هاشم العقل حباء من الله والادب كلفة، فمن تكلف الادب قدر عليه، ومن تكلف العقل لم يزدد بذلك إلا جهلا"
+        ],
+        "text": ": كنا عند الرضا عليه السلام فتذاكرنا العقل والادب فقال: يا أبا هاشم العقل حباء من الله والادب كلفة، فمن تكلف الادب قدر عليه، ومن تكلف العقل لم يزدد بذلك إلا جهلا"
+      },
+      "translations": {
+        "en.ammaar-muslim": {
+          "segments": [
+            "5. [5/5] Usul al-Kafi: Ali from his father (Ibrahim b. Hashim) from Abi Hashim al-Ja’fari who said: We were with al-Ridha عليه السلام when we began discussing about the intellect and moral virtue, so he said: O Abu Hashim, intellect is a free gift from Allāh while virtue is an effortful acquisition, whoever strives to acquire virtue is able to possess it but whoever strives to acquire intellect he achieves naught by that except further ignorance."
+          ],
+          "text": "5. [5/5] Usul al-Kafi: Ali from his father (Ibrahim b. Hashim) from Abi Hashim al-Ja’fari who said: We were with al-Ridha عليه السلام when we began discussing about the intellect and moral virtue, so he said: O Abu Hashim, intellect is a free gift from Allāh while virtue is an effortful acquisition, whoever strives to acquire virtue is able to possess it but whoever strives to acquire intellect he achieves naught by that except further ignorance."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "[5/5] اصول الكافي: علي، عن أبيه، عن أبي هاشم الجعفري قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "[5/5] اصول الكافي: علي،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبيه،",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي هاشم الجعفري قال",
+            "path": "/people/narrators/401"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/2",
+          "/people/narrators/401"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/mujam-al-ahadith-al-mutabara:1:1:5",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/mujam-al-ahadith-al-mutabara/1/1/5.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/9/1/1/5",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "mujam-al-ahadith-al-mutabara:1:1:6",
+      "type": "hadith",
+      "book": {
+        "slug": "mujam-al-ahadith-al-mutabara",
+        "titles": {
+          "ar": "معجم الأحاديث المعتبرة",
+          "en": "Mu'jam al-Ahadith al-Mu'tabara"
+        },
+        "author": {
+          "en": "Muhammad Asif al-Muhsini"
+        }
+      },
+      "path": {
+        "source": "/books/mujam-al-ahadith-al-mutabara:1:1:6",
+        "parts": [
+          1,
+          1,
+          6
+        ]
+      },
+      "numbering": {
+        "volume": 1,
+        "book": 1,
+        "chapter": 6
+      },
+      "chapter": {
+        "path": "/books/mujam-al-ahadith-al-mutabara:1:1",
+        "titles": {
+          "en": "Submission of Intellect and its Excellence"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": ذكر عنده أصحابنا وذكر العقل قال: فقال عليه السلام: لا يعبأ بأهل الدين ممن لا عقل له، قلت: جعلت فداك إن ممن يصف هذا الامر قوما لا بأس بهم عندنا وليست لهم تلك العقول فقال: ليس هؤلاء ممن خاطب الله إن الله خلق العقل فقال له: اقبل فاقبل وقال له: أدبر فأدبر، فقال: وعزتي وجلالي ما خلقت شيئا أحسن منك أو احب إلي منك، بك آخذ وبك اعطي"
+        ],
+        "text": ": ذكر عنده أصحابنا وذكر العقل قال: فقال عليه السلام: لا يعبأ بأهل الدين ممن لا عقل له، قلت: جعلت فداك إن ممن يصف هذا الامر قوما لا بأس بهم عندنا وليست لهم تلك العقول فقال: ليس هؤلاء ممن خاطب الله إن الله خلق العقل فقال له: اقبل فاقبل وقال له: أدبر فأدبر، فقال: وعزتي وجلالي ما خلقت شيئا أحسن منك أو احب إلي منك، بك آخذ وبك اعطي"
+      },
+      "translations": {
+        "en.ammaar-muslim": {
+          "segments": [
+            "6. [6/6] Usul al-Kafi: Abu Abdillah al-Asimi from Ali b. al-Hasan from Ali b. Asbat from al-Hasan b. al-Jahm from Abi al-Hasan al-Ridha عليه السلام. He (al-Asimi) said: Our companions (the Shias) and intellect were mentioned in his presence, so he عليه السلام said: consideration is not given to a man of religion who has no intellect. I said: may I be made your ransom, from those who claim this affair (Wilaya) there are some who do mean well but do not have that level of intellect, so he said: such people are not the ones addressed by Allāh, verily Allāh created the intellect and said to it: draw near, so it drew near, and said to it: turn back, so it turned back, then He said: by my power and majesty I have not created a thing better than you or more beloved to me than you, by you do I take and by you do I give."
+          ],
+          "text": "6. [6/6] Usul al-Kafi: Abu Abdillah al-Asimi from Ali b. al-Hasan from Ali b. Asbat from al-Hasan b. al-Jahm from Abi al-Hasan al-Ridha عليه السلام. He (al-Asimi) said: Our companions (the Shias) and intellect were mentioned in his presence, so he عليه السلام said: consideration is not given to a man of religion who has no intellect. I said: may I be made your ransom, from those who claim this affair (Wilaya) there are some who do mean well but do not have that level of intellect, so he said: such people are not the ones addressed by Allāh, verily Allāh created the intellect and said to it: draw near, so it drew near, and said to it: turn back, so it turned back, then He said: by my power and majesty I have not created a thing better than you or more beloved to me than you, by you do I take and by you do I give."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "[6/6] اصول الكافي: أبوعبدالله العاصمي، عن علي بن الحسن، عن علي بن أسباط، عن الحسن ابن الجهم، عن أبي الحسن الرضا عليه السلام قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "[6/6] اصول الكافي: أبوعبدالله العاصمي،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "علي بن الحسن،",
+            "path": "/people/narrators/237"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "علي بن أسباط،",
+            "path": "/people/narrators/68"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "الحسن ابن الجهم،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي الحسن الرضا عليه السلام قال",
+            "path": "/people/narrators/98"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/237",
+          "/people/narrators/68",
+          "/people/narrators/98"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/mujam-al-ahadith-al-mutabara:1:1:6",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/mujam-al-ahadith-al-mutabara/1/1/6.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/9/1/1/6",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

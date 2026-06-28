@@ -1,0 +1,54 @@
+{
+  "id": 4476,
+  "type": "narrator",
+  "path": "/people/narrators/4476",
+  "titles": {
+    "ar": "نَضْرِ بْنِ قِرْوَاشٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:125:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "4-5-42-4476-44-669": {
+      "narrator_ids": [
+        4,
+        5,
+        42,
+        4476,
+        44,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:125:5"
+      ]
+    },
+    "42-4476": {
+      "narrator_ids": [
+        42,
+        4476
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:125:5"
+      ]
+    },
+    "4476-44": {
+      "narrator_ids": [
+        4476,
+        44
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:125:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4476",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4476.json"
+  }
+}

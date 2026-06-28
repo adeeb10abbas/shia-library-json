@@ -1,0 +1,43 @@
+{
+  "id": 4219,
+  "type": "narrator",
+  "path": "/people/narrators/4219",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ حَمْزَةَ الْعَلَوِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:37:15"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "16-4219": {
+      "narrator_ids": [
+        16,
+        4219
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:37:15"
+      ]
+    },
+    "20-929-16-4219": {
+      "narrator_ids": [
+        20,
+        929,
+        16,
+        4219
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:37:15"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4219",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4219.json"
+  }
+}

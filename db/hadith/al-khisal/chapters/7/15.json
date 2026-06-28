@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:7:15",
+  "chapter": {
+    "path": "/books/al-khisal:7:15",
+    "titles": {
+      "en": "I Wonder About Six Things"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:7:15:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:7:15:1",
+        "parts": [
+          7,
+          15,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 15,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:7:15",
+        "titles": {
+          "en": "I Wonder About Six Things"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا محمد بن يحيى العطار، عن محمد بن أحمد بن يحيى بن عمران الاشعري، عن الحسن بن الحسين اللؤلؤي، عن إسحاق الضحاك، عن منذر الجوان عن أبي عبد الله عليه السلام قال: قال سلمان رحمة الله عليه: عجبت بست: ثلاث أضحكتني وثلاث أبكتني، فأما التي أبكتنى: ففراق الاحبة محمد وحزبه، وهول المطلع، والوقوف بين يدي الله عز وجل، وأما التي أضحكتنى: فطاب الدنيا والموت يطلبه، وغافل وليس بمغفول عنه، وضاحك ملء فيه لا يدري أرضي الله أم سخط"
+        ],
+        "text": ": حدثنا محمد بن يحيى العطار، عن محمد بن أحمد بن يحيى بن عمران الاشعري، عن الحسن بن الحسين اللؤلؤي، عن إسحاق الضحاك، عن منذر الجوان عن أبي عبد الله عليه السلام قال: قال سلمان رحمة الله عليه: عجبت بست: ثلاث أضحكتني وثلاث أبكتني، فأما التي أبكتنى: ففراق الاحبة محمد وحزبه، وهول المطلع، والوقوف بين يدي الله عز وجل، وأما التي أضحكتنى: فطاب الدنيا والموت يطلبه، وغافل وليس بمغفول عنه، وضاحك ملء فيه لا يدري أرضي الله أم سخط"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "6-17 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Muhammad ibn Yahya al-Attar quoted Muhammad ibn Ahmad ibn Yahya ibn Imran al-Ash’ari, on the authority of Al-Hassan ibn al-Hussein al-Lu’lu’ee, on the authority of Ishaq al-Zah’hak, on the authority of Monzar al-Javan, on the authority of Aba Abdullah as-Sadiq (MGB) that Salman - may God have Mercy upon him - said, “I wonder about six things. Three of them make me cry and the other three make me laugh. The three which make me cry are: separation from the friends of Muhammad (MGB) and his fans; fear of death; and the Resurrection and standing in front of the Honorable the Exalted God. The three which make me laugh are: the state of the one who seeks this world, while death pursues him; the state of an ignorant one who is being watched over by the guardians; and the state of the one who laughs while he doesn’t know whether God is satisfied with him or is angry at him.”"
+          ],
+          "text": "6-17 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Muhammad ibn Yahya al-Attar quoted Muhammad ibn Ahmad ibn Yahya ibn Imran al-Ash’ari, on the authority of Al-Hassan ibn al-Hussein al-Lu’lu’ee, on the authority of Ishaq al-Zah’hak, on the authority of Monzar al-Javan, on the authority of Aba Abdullah as-Sadiq (MGB) that Salman - may God have Mercy upon him - said, “I wonder about six things. Three of them make me cry and the other three make me laugh. The three which make me cry are: separation from the friends of Muhammad (MGB) and his fans; fear of death; and the Resurrection and standing in front of the Honorable the Exalted God. The three which make me laugh are: the state of the one who seeks this world, while death pursues him; the state of an ignorant one who is being watched over by the guardians; and the state of the one who laughs while he doesn’t know whether God is satisfied with him or is angry at him.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "6-17 حدثنا أبي رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "6-17 حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي رضي الله عنه قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:7:15:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/7/15/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/7/15/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

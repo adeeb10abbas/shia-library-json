@@ -1,0 +1,55 @@
+{
+  "id": 4021,
+  "type": "narrator",
+  "path": "/people/narrators/4021",
+  "titles": {
+    "ar": "قَاسِمِ بْنِ يَزِيدَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:3:20:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "20-176-81-69-4021-16-9": {
+      "narrator_ids": [
+        20,
+        176,
+        81,
+        69,
+        4021,
+        16,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:20:3"
+      ]
+    },
+    "4021-16": {
+      "narrator_ids": [
+        4021,
+        16
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:20:3"
+      ]
+    },
+    "69-4021": {
+      "narrator_ids": [
+        69,
+        4021
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:20:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4021",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4021.json"
+  }
+}

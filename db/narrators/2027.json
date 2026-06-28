@@ -1,0 +1,54 @@
+{
+  "id": 2027,
+  "type": "narrator",
+  "path": "/people/narrators/2027",
+  "titles": {
+    "ar": "أَبِي أَيُّوبَ الْعَطَّارِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:99:20"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2027-72": {
+      "narrator_ids": [
+        2027,
+        72
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:99:20"
+      ]
+    },
+    "315-2027": {
+      "narrator_ids": [
+        315,
+        2027
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:99:20"
+      ]
+    },
+    "4-13-42-315-2027-72": {
+      "narrator_ids": [
+        4,
+        13,
+        42,
+        315,
+        2027,
+        72
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:99:20"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2027",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2027.json"
+  }
+}

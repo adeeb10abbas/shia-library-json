@@ -1,0 +1,43 @@
+{
+  "id": 4485,
+  "type": "narrator",
+  "path": "/people/narrators/4485",
+  "titles": {
+    "ar": "هَارُونَ بْنِ الْفَضْلِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:90:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2005-4485": {
+      "narrator_ids": [
+        2005,
+        4485
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:90:5"
+      ]
+    },
+    "3-27-2005-4485": {
+      "narrator_ids": [
+        3,
+        27,
+        2005,
+        4485
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:90:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4485",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4485.json"
+  }
+}

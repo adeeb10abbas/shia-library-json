@@ -1,0 +1,54 @@
+{
+  "id": 3426,
+  "type": "narrator",
+  "path": "/people/narrators/3426",
+  "titles": {
+    "ar": "صَالِحِ بْنِ سِنْدِيٍّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:2:66:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3426-104": {
+      "narrator_ids": [
+        3426,
+        104
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:66:3"
+      ]
+    },
+    "5-3426": {
+      "narrator_ids": [
+        5,
+        3426
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:66:3"
+      ]
+    },
+    "6-5-3426-104-60-669": {
+      "narrator_ids": [
+        6,
+        5,
+        3426,
+        104,
+        60,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:66:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3426",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3426.json"
+  }
+}

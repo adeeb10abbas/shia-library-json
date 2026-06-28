@@ -1,0 +1,64 @@
+{
+  "id": 1472,
+  "type": "narrator",
+  "path": "/people/narrators/1472",
+  "titles": {
+    "ar": "رَوَاهُ سَهْلُ بْنُ زِيَادٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:104:2",
+    "/books/al-kafi:6:6:70:4"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "1472-121": {
+      "narrator_ids": [
+        1472,
+        121
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:70:4"
+      ]
+    },
+    "1472-121-461-228-669": {
+      "narrator_ids": [
+        1472,
+        121,
+        461,
+        228,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:70:4"
+      ]
+    },
+    "1472-2275": {
+      "narrator_ids": [
+        1472,
+        2275
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:104:2"
+      ]
+    },
+    "1472-2275-2336": {
+      "narrator_ids": [
+        1472,
+        2275,
+        2336
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:104:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1472",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1472.json"
+  }
+}

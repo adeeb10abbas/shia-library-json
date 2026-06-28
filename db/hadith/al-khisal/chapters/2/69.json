@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:2:69",
+  "chapter": {
+    "path": "/books/al-khisal:2:69",
+    "titles": {
+      "en": "God the Almighty Has Not Created Anything More Delightful Than This Characteristic"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:2:69:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:2:69:1",
+        "parts": [
+          2,
+          69,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 69,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:2:69",
+        "titles": {
+          "en": "God the Almighty Has Not Created Anything More Delightful Than This Characteristic"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا أحمد بن إدريس، عن محمد بن أبي الصهبان عن محمد بن أبي عمير، عن جميل بن صالح، عن محمد بن مروان، عن أبي عبد الله عليه السلام قال: قال لي: يا محمد كان أبي عليه السلام يقول: يا بني ما خلق الله شيئا أقر لعين أبيك من التقية"
+        ],
+        "text": ": حدثنا أحمد بن إدريس، عن محمد بن أبي الصهبان عن محمد بن أبي عمير، عن جميل بن صالح، عن محمد بن مروان، عن أبي عبد الله عليه السلام قال: قال لي: يا محمد كان أبي عليه السلام يقول: يا بني ما خلق الله شيئا أقر لعين أبيك من التقية"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "1-78 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Ahmad ibn Idris quoted on the authority of Muhammad ibn Abil Sahban, on the authority of Muhammad ibn Abi Umayr, on the authority of Jamil ibn Salih, on the authority of Muhammad ibn Marvan who narrated that Aba Abdullah as-Sadiq (MGB) told him, “O Muhammad! My father said, ‘O my son! God has not created anything more delightful than concealing of faith for your father.’”"
+          ],
+          "text": "1-78 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Ahmad ibn Idris quoted on the authority of Muhammad ibn Abil Sahban, on the authority of Muhammad ibn Abi Umayr, on the authority of Jamil ibn Salih, on the authority of Muhammad ibn Marvan who narrated that Aba Abdullah as-Sadiq (MGB) told him, “O Muhammad! My father said, ‘O my son! God has not created anything more delightful than concealing of faith for your father.’”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "1-78 حدثنا أبي رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "1-78 حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي رضي الله عنه قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:2:69:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/2/69/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/2/69/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

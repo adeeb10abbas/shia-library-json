@@ -1,0 +1,127 @@
+{
+  "id": 2264,
+  "type": "narrator",
+  "path": "/people/narrators/2264",
+  "titles": {
+    "ar": "أَحْمَدَ بْنِ أَبِي بِشْرٍ"
+  },
+  "versePaths": [
+    "/books/al-istibsar:1:125:46",
+    "/books/al-istibsar:1:125:50",
+    "/books/al-kafi:1:4:40:6",
+    "/books/tahdhib-al-ahkam:2:13:46",
+    "/books/tahdhib-al-ahkam:7:15:32"
+  ],
+  "verseCount": 5,
+  "relations": {},
+  "subchains": {
+    "11-2264": {
+      "narrator_ids": [
+        11,
+        2264
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:125:46",
+        "/books/al-istibsar:1:125:50",
+        "/books/tahdhib-al-ahkam:7:15:32"
+      ]
+    },
+    "11-2264-1086": {
+      "narrator_ids": [
+        11,
+        2264,
+        1086
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:125:46"
+      ]
+    },
+    "11-2264-728": {
+      "narrator_ids": [
+        11,
+        2264,
+        728
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:15:32"
+      ]
+    },
+    "11-2264-728-669": {
+      "narrator_ids": [
+        11,
+        2264,
+        728,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:125:50"
+      ]
+    },
+    "183-2264": {
+      "narrator_ids": [
+        183,
+        2264
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:13:46"
+      ]
+    },
+    "2264-1086": {
+      "narrator_ids": [
+        2264,
+        1086
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:125:46"
+      ]
+    },
+    "2264-2936": {
+      "narrator_ids": [
+        2264,
+        2936
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:40:6"
+      ]
+    },
+    "2264-728": {
+      "narrator_ids": [
+        2264,
+        728
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:125:50",
+        "/books/tahdhib-al-ahkam:7:15:32"
+      ]
+    },
+    "397-2264": {
+      "narrator_ids": [
+        397,
+        2264
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:40:6"
+      ]
+    },
+    "6-5-397-2264-2936": {
+      "narrator_ids": [
+        6,
+        5,
+        397,
+        2264,
+        2936
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:40:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2264",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2264.json"
+  }
+}

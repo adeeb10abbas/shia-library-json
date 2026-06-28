@@ -1,0 +1,47 @@
+{
+  "id": 2785,
+  "type": "narrator",
+  "path": "/people/narrators/2785",
+  "titles": {
+    "ar": "الْكَنْزِ كَمْ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:130:19",
+    "/books/man-la-yahduruhu-al-faqih:2:1:4:2"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "3-2-7-23-28-669-2785": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        23,
+        28,
+        669,
+        2785
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:130:19"
+      ]
+    },
+    "669-2785": {
+      "narrator_ids": [
+        669,
+        2785
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:130:19"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2785",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2785.json"
+  }
+}

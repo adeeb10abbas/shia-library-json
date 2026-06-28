@@ -1,0 +1,47 @@
+{
+  "id": 2061,
+  "type": "narrator",
+  "path": "/people/narrators/2061",
+  "titles": {
+    "ar": "أَبِي جَعْفَرٍ أَوْ أَحَدِهِمَا ( عليهما السلام )"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:4:23:14"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "4-13-122-178-132-2959-669-2061": {
+      "narrator_ids": [
+        4,
+        13,
+        122,
+        178,
+        132,
+        2959,
+        669,
+        2061
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:23:14"
+      ]
+    },
+    "669-2061": {
+      "narrator_ids": [
+        669,
+        2061
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:23:14"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2061",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2061.json"
+  }
+}

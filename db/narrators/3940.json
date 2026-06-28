@@ -1,0 +1,54 @@
+{
+  "id": 3940,
+  "type": "narrator",
+  "path": "/people/narrators/3940",
+  "titles": {
+    "ar": "عَنْبَسَةَ بْنِ سَعِيدٍ رَفَعَ الْحَدِيثَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:8:37:6"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3940-1053": {
+      "narrator_ids": [
+        3940,
+        1053
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:37:6"
+      ]
+    },
+    "4-13-10-4475-3940-1053": {
+      "narrator_ids": [
+        4,
+        13,
+        10,
+        4475,
+        3940,
+        1053
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:37:6"
+      ]
+    },
+    "4475-3940": {
+      "narrator_ids": [
+        4475,
+        3940
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:37:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3940",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3940.json"
+  }
+}

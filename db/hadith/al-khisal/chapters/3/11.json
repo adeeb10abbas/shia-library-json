@@ -1,0 +1,85 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:3:11",
+  "chapter": {
+    "path": "/books/al-khisal:3:11",
+    "titles": {
+      "en": "The reward of whoever takes care of two daughters, Two sisters, two paternal aunts or two maternal aunts"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:3:11:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:3:11:1",
+        "parts": [
+          3,
+          11,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 11,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:3:11",
+        "titles": {
+          "en": "The reward of whoever takes care of two daughters, Two sisters, two paternal aunts or two maternal aunts"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا محمد ابن الحسن الصفار قال: حدثنا محمد بن عيسى بن عبيد، عن زكريا المؤمن رفعه إلى أبي عبد الله عليه السلام قال: من عال ابنتين أو اختين أو عمتين أو خالتين حجبتاه من النار"
+        ],
+        "text": ": حدثنا محمد ابن الحسن الصفار قال: حدثنا محمد بن عيسى بن عبيد، عن زكريا المؤمن رفعه إلى أبي عبد الله عليه السلام قال: من عال ابنتين أو اختين أو عمتين أو خالتين حجبتاه من النار"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "2-14 Muhammad ibn al-Hassan ibn Ahmad ibn al-Walid - may God be pleased with him - narrated that Muhammad ibn al-Hassan al-Saffar quoted on the authority of Muhammad ibn Isa ibn Ubayd, on the authority of Zakariya al-Mumin who linked it up to Aba Abdullah as-Sadiq (MGB), “Whoever takes care of two daughters, two sisters, two paternal aunts or two maternal aunts will be safeguarded from the Fire.”"
+          ],
+          "text": "2-14 Muhammad ibn al-Hassan ibn Ahmad ibn al-Walid - may God be pleased with him - narrated that Muhammad ibn al-Hassan al-Saffar quoted on the authority of Muhammad ibn Isa ibn Ubayd, on the authority of Zakariya al-Mumin who linked it up to Aba Abdullah as-Sadiq (MGB), “Whoever takes care of two daughters, two sisters, two paternal aunts or two maternal aunts will be safeguarded from the Fire.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "2-14 حدثنا محمد بن الحسن بن أحمد بن الوليد رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "2-14 حدثنا "
+          },
+          {
+            "kind": "plain",
+            "text": "محمد بن الحسن بن أحمد بن الوليد رضي الله عنه قال"
+          }
+        ],
+        "narratorPaths": []
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:3:11:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/3/11/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/3/11/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

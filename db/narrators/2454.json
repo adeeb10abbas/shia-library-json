@@ -1,0 +1,53 @@
+{
+  "id": 2454,
+  "type": "narrator",
+  "path": "/people/narrators/2454",
+  "titles": {
+    "ar": "إِسْمَاعِيلَ بْنِ عَبْدِ الْخَالِقِ بْنِ عَبْدِ رَبِّهِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:3:54:6"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2307-2454": {
+      "narrator_ids": [
+        2307,
+        2454
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:54:6"
+      ]
+    },
+    "2454-669": {
+      "narrator_ids": [
+        2454,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:54:6"
+      ]
+    },
+    "35-237-2307-2454-669": {
+      "narrator_ids": [
+        35,
+        237,
+        2307,
+        2454,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:54:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2454",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2454.json"
+  }
+}

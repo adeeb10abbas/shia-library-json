@@ -1,0 +1,49 @@
+{
+  "id": 2103,
+  "type": "narrator",
+  "path": "/people/narrators/2103",
+  "titles": {
+    "ar": "أَبِي سَعِيدٍ عَقِيصَا التَّيْمِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:7:10:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "168-2103": {
+      "narrator_ids": [
+        168,
+        2103
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:10:3"
+      ]
+    },
+    "4-3107-4-3268-6-12-2-42-168-2103": {
+      "narrator_ids": [
+        4,
+        3107,
+        4,
+        3268,
+        6,
+        12,
+        2,
+        42,
+        168,
+        2103
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:10:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2103",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2103.json"
+  }
+}

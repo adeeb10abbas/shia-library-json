@@ -1,0 +1,128 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-amali-mufid",
+  "chapterPath": "/books/al-amali-mufid:23:35",
+  "chapter": {
+    "path": "/books/al-amali-mufid:23:35",
+    "titles": {
+      "en": "When the deeds become heartbreaking anguish"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-amali-mufid:23:35:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-amali-mufid",
+        "titles": {
+          "ar": "الأمالي (المفيد)",
+          "en": "Al-Amali (al-Mufid)"
+        },
+        "author": {
+          "ar": "الشيخ المفيد",
+          "en": "Shaykh al-Mufid"
+        }
+      },
+      "path": {
+        "source": "/books/al-amali-mufid:23:35:1",
+        "parts": [
+          23,
+          35,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 23,
+        "book": 35,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-amali-mufid:23:35",
+        "titles": {
+          "en": "When the deeds become heartbreaking anguish"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " معنى قوله جل وعز: \" كذلك يريهم الله أعمالهم حسرات عليهم  \" قال: الرجل يكسب مالا فيحرم أن يعمل فيه خيرا فيموت، فيرثه غيره، فيعمل فيه عملا صالحا، فيرى الرجل ما كسب حسنات  في ميزان غيره."
+        ],
+        "text": "معنى قوله جل وعز: \" كذلك يريهم الله أعمالهم حسرات عليهم  \" قال: الرجل يكسب مالا فيحرم أن يعمل فيه خيرا فيموت، فيرثه غيره، فيعمل فيه عملا صالحا، فيرى الرجل ما كسب حسنات  في ميزان غيره."
+      },
+      "translations": {
+        "en.mulla-asgharali-m-m-jaffer": {
+          "segments": [
+            "35. And with the former chains of narration from ‘Ali ibn Mahyzar, from al-Qasim ibn Urwah, from a person, from either of them, peace be upon them, who explained the verse: ’Thus will Allah show them their deeds as heartbreaking anguish for them....’ <a href=\"/books/quran:2#h167\">[2:167]</a>. He said: \"It is parable of a man who amasses wealth but is averse to spending it in a charitable manner and then he dies, bequeathing it to the others. And the heirs spend the same wealth for good deeds; so the man who originally earned the wealth rises on the Day of Judgement to witness the reward of the good deeds going to someone else’s credit.\""
+          ],
+          "text": "35. And with the former chains of narration from ‘Ali ibn Mahyzar, from al-Qasim ibn Urwah, from a person, from either of them, peace be upon them, who explained the verse: ’Thus will Allah show them their deeds as heartbreaking anguish for them....’ <a href=\"/books/quran:2#h167\">[2:167]</a>. He said: \"It is parable of a man who amasses wealth but is averse to spending it in a charitable manner and then he dies, bequeathing it to the others. And the heirs spend the same wealth for good deeds; so the man who originally earned the wealth rises on the Day of Judgement to witness the reward of the good deeds going to someone else’s credit.\""
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "35 - وبالإسناد الأول عن علي بن مهزيار، عن القاسم بن عروة، عن رجل، عن أحدهما عليهما السلام في",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "35 - "
+          },
+          {
+            "kind": "plain",
+            "text": "وبالإسناد الأول"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "علي بن مهزيار،",
+            "path": "/people/narrators/81"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "القاسم بن عروة،",
+            "path": "/people/narrators/218"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "رجل،",
+            "path": "/people/narrators/60"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "أحدهما عليهما السلام في"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/81",
+          "/people/narrators/218",
+          "/people/narrators/60"
+        ]
+      },
+      "relations": {
+        "Mentions": [
+          "/books/quran:2:167"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-amali-mufid:23:35:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-amali-mufid/23/35/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/13/23/35/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

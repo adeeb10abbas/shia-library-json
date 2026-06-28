@@ -1,0 +1,57 @@
+{
+  "id": 3277,
+  "type": "narrator",
+  "path": "/people/narrators/3277",
+  "titles": {
+    "ar": "زَكَرِيَّا بْنِ يَحْيَى"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:2:61:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3-2-17-33-7-66-3277-875-463": {
+      "narrator_ids": [
+        3,
+        2,
+        17,
+        33,
+        7,
+        66,
+        3277,
+        875,
+        463
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:2:61:1"
+      ]
+    },
+    "3277-875": {
+      "narrator_ids": [
+        3277,
+        875
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:2:61:1"
+      ]
+    },
+    "66-3277": {
+      "narrator_ids": [
+        66,
+        3277
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:2:61:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3277",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3277.json"
+  }
+}

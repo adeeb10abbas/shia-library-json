@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-amali-mufid",
+  "chapterPath": "/books/al-amali-mufid:4:9",
+  "chapter": {
+    "path": "/books/al-amali-mufid:4:9",
+    "titles": {
+      "en": "Spare your speech"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-amali-mufid:4:9:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-amali-mufid",
+        "titles": {
+          "ar": "الأمالي (المفيد)",
+          "en": "Al-Amali (al-Mufid)"
+        },
+        "author": {
+          "ar": "الشيخ المفيد",
+          "en": "Shaykh al-Mufid"
+        }
+      },
+      "path": {
+        "source": "/books/al-amali-mufid:4:9:1",
+        "parts": [
+          4,
+          9,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 9,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-amali-mufid:4:9",
+        "titles": {
+          "en": "Spare your speech"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": أخبرني أبو بكر محمد بن عمر بن سالم  قال: حدثنا أبو العباس أحمد بن محمد بن سعيد قال: حدثنا أحمد بن يوسف قال: حدثنا محمد بن يزيد  قال: حدثنا أحمد بن رزق، عن أبي زياد الفقيمي، عن أبي عبد الله جعفر بن محمد، عن أبيه، عن علي بن الحسين عليهم السلام قال: قال رسول الله صلى الله عليه وآله وسلم: من حسن إسلام المرء تركه الكلام فيما لا يعنيه ."
+        ],
+        "text": ": أخبرني أبو بكر محمد بن عمر بن سالم  قال: حدثنا أبو العباس أحمد بن محمد بن سعيد قال: حدثنا أحمد بن يوسف قال: حدثنا محمد بن يزيد  قال: حدثنا أحمد بن رزق، عن أبي زياد الفقيمي، عن أبي عبد الله جعفر بن محمد، عن أبيه، عن علي بن الحسين عليهم السلام قال: قال رسول الله صلى الله عليه وآله وسلم: من حسن إسلام المرء تركه الكلام فيما لا يعنيه ."
+      },
+      "translations": {
+        "en.mulla-asgharali-m-m-jaffer": {
+          "segments": [
+            "9. He said: Abu Bakr Muhammad ibn Umar ibn Salim reported to me from Abul Abbas Ahmad ibn Muhammad ibn Saeed, who reported from Ahmad ibn Yusuf, who reported from Muhammad ibn Yazid who reported from Ahmad ibn Rizq, from Abu Ziyad al-Fuqaymi, from Abu Abdillah, Ja’far ibn Muhammad (as), from his father (as), from ‘Ali ibn al-Husayn (as) who reported that: The Prophet, peace be upon him and his progeny, said: \"When you see a person not engaging in a purposeless chatter, then that is the sign of his excellent (understanding of) Islam.\""
+          ],
+          "text": "9. He said: Abu Bakr Muhammad ibn Umar ibn Salim reported to me from Abul Abbas Ahmad ibn Muhammad ibn Saeed, who reported from Ahmad ibn Yusuf, who reported from Muhammad ibn Yazid who reported from Ahmad ibn Rizq, from Abu Ziyad al-Fuqaymi, from Abu Abdillah, Ja’far ibn Muhammad (as), from his father (as), from ‘Ali ibn al-Husayn (as) who reported that: The Prophet, peace be upon him and his progeny, said: \"When you see a person not engaging in a purposeless chatter, then that is the sign of his excellent (understanding of) Islam.\""
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "9 - قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "9 - "
+          },
+          {
+            "kind": "narrator",
+            "text": "قال",
+            "path": "/people/narrators/652"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/652"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-amali-mufid:4:9:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-amali-mufid/4/9/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/13/4/9/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

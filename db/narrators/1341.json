@@ -1,0 +1,81 @@
+{
+  "id": 1341,
+  "type": "narrator",
+  "path": "/people/narrators/1341",
+  "titles": {
+    "ar": "الْحَسَنِ بْنِ عَلِيِّ بْنِ كَيْسَانَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:2:32:1",
+    "/books/al-kafi:7:2:52:1",
+    "/books/tahdhib-al-ahkam:7:30:83",
+    "/books/tahdhib-al-ahkam:9:33:6",
+    "/books/uyun-akhbar-al-rida:1:2:30:42"
+  ],
+  "verseCount": 5,
+  "relations": {},
+  "subchains": {
+    "11-256-1341": {
+      "narrator_ids": [
+        11,
+        256,
+        1341
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:30:83"
+      ]
+    },
+    "256-1341": {
+      "narrator_ids": [
+        256,
+        1341
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:32:1",
+        "/books/al-kafi:7:2:52:1",
+        "/books/tahdhib-al-ahkam:7:30:83",
+        "/books/tahdhib-al-ahkam:9:33:6"
+      ]
+    },
+    "35-4238-4-256-1341": {
+      "narrator_ids": [
+        35,
+        4238,
+        4,
+        256,
+        1341
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:2:52:1"
+      ]
+    },
+    "4-256-1341": {
+      "narrator_ids": [
+        4,
+        256,
+        1341
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:32:1"
+      ]
+    },
+    "601-256-1341": {
+      "narrator_ids": [
+        601,
+        256,
+        1341
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:33:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1341",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1341.json"
+  }
+}

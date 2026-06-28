@@ -1,0 +1,44 @@
+{
+  "id": 3321,
+  "type": "narrator",
+  "path": "/people/narrators/3321",
+  "titles": {
+    "ar": "سَعِيدٍ الرُّومِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:173:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "51-3321": {
+      "narrator_ids": [
+        51,
+        3321
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:173:5"
+      ]
+    },
+    "6-5-42-51-3321": {
+      "narrator_ids": [
+        6,
+        5,
+        42,
+        51,
+        3321
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:173:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3321",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3321.json"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 4209,
+  "type": "narrator",
+  "path": "/people/narrators/4209",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ جَعْفَرِ بْنِ مُحَمَّدٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:8:53:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1710-4209": {
+      "narrator_ids": [
+        1710,
+        4209
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:53:3"
+      ]
+    },
+    "6-12-67-1710-4209": {
+      "narrator_ids": [
+        6,
+        12,
+        67,
+        1710,
+        4209
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:53:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4209",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4209.json"
+  }
+}

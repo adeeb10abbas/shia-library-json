@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:2:71",
+  "chapter": {
+    "path": "/books/al-khisal:2:71",
+    "titles": {
+      "en": "Whoever is Pleased with His Destiny or is Displeased with it"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:2:71:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:2:71:1",
+        "parts": [
+          2,
+          71,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 71,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:2:71",
+        "titles": {
+          "en": "Whoever is Pleased with His Destiny or is Displeased with it"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا سعد بن عبد الله قال: حدثنا أيوب بن نوح، عن محمد بن أبي عمير، عن الفراء، عن أبي عبد الله جعفر بن محمد عليهما السلام قال: من رضي القضاء أتى عليه القضاء وهو مأجور، ومن سخط القضاء أتى عليه القضاء وأحبط الله أجره"
+        ],
+        "text": ": حدثنا سعد بن عبد الله قال: حدثنا أيوب بن نوح، عن محمد بن أبي عمير، عن الفراء، عن أبي عبد الله جعفر بن محمد عليهما السلام قال: من رضي القضاء أتى عليه القضاء وهو مأجور، ومن سخط القضاء أتى عليه القضاء وأحبط الله أجره"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "1-80 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Sa’ed ibn Abdullah quoted on the authority of Ayoob ibn Nooh, on the authority of Muhammad ibn Abi Umayr, on the authority of Al-Fura that Aba Abdullah Ja’far ibn Muhammad as-Sadiq (MGB) said, “What is destined will happen to whoever is pleased with his destiny, and he will be rewarded. However, what is destined will happen to whoever is displeased with his destiny but God will cancel his reward.”"
+          ],
+          "text": "1-80 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Sa’ed ibn Abdullah quoted on the authority of Ayoob ibn Nooh, on the authority of Muhammad ibn Abi Umayr, on the authority of Al-Fura that Aba Abdullah Ja’far ibn Muhammad as-Sadiq (MGB) said, “What is destined will happen to whoever is pleased with his destiny, and he will be rewarded. However, what is destined will happen to whoever is displeased with his destiny but God will cancel his reward.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "1-80 حدثنا أبي رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "1-80 حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي رضي الله عنه قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:2:71:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/2/71/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/2/71/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

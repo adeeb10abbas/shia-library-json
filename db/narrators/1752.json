@@ -1,0 +1,32 @@
+{
+  "id": 1752,
+  "type": "narrator",
+  "path": "/people/narrators/1752",
+  "titles": {
+    "ar": "2ـ عَلِيُّ بْنُ مُحَمَّدٍ مُرْسَلاً"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:3:17:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1752-98": {
+      "narrator_ids": [
+        1752,
+        98
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:17:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1752",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1752.json"
+  }
+}

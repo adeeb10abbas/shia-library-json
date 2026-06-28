@@ -1,0 +1,115 @@
+{
+  "id": 1027,
+  "type": "narrator",
+  "path": "/people/narrators/1027",
+  "titles": {
+    "ar": "الْحَسَنِ بْنِ الْعَبَّاسِ بْنِ الْحَرِيشِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:126:11",
+    "/books/al-kafi:1:4:41:1",
+    "/books/al-kafi:7:4:28:1",
+    "/books/kitab-al-ghayba-numani:2:4:3",
+    "/books/tahdhib-al-ahkam:10:24:8"
+  ],
+  "verseCount": 5,
+  "relations": {},
+  "subchains": {
+    "1027-477": {
+      "narrator_ids": [
+        1027,
+        477
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:41:1",
+        "/books/al-kafi:7:4:28:1",
+        "/books/tahdhib-al-ahkam:10:24:8"
+      ]
+    },
+    "200-90-8-4-5-1027-477": {
+      "narrator_ids": [
+        200,
+        90,
+        8,
+        4,
+        5,
+        1027,
+        477
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:41:1"
+      ]
+    },
+    "4-13-200-90-8-1027": {
+      "narrator_ids": [
+        4,
+        13,
+        200,
+        90,
+        8,
+        1027
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:126:11"
+      ]
+    },
+    "4345-1027": {
+      "narrator_ids": [
+        4345,
+        1027
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-numani:2:4:3"
+      ]
+    },
+    "5-1027": {
+      "narrator_ids": [
+        5,
+        1027
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:41:1"
+      ]
+    },
+    "6-8-1027-477": {
+      "narrator_ids": [
+        6,
+        8,
+        1027,
+        477
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:4:28:1"
+      ]
+    },
+    "8-1027": {
+      "narrator_ids": [
+        8,
+        1027
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:126:11",
+        "/books/al-kafi:7:4:28:1",
+        "/books/tahdhib-al-ahkam:10:24:8"
+      ]
+    },
+    "8-1027-477": {
+      "narrator_ids": [
+        8,
+        1027,
+        477
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:10:24:8"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1027",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1027.json"
+  }
+}

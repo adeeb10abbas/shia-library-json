@@ -1,0 +1,73 @@
+{
+  "id": 1542,
+  "type": "narrator",
+  "path": "/people/narrators/1542",
+  "titles": {
+    "ar": "عَبْدِ اللَّهِ بْنِ عَمْرِو بْنِ الْأَشْعَثِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:138:5",
+    "/books/al-kafi:2:1:99:24"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "121-1542": {
+      "narrator_ids": [
+        121,
+        1542
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:138:5",
+        "/books/al-kafi:2:1:99:24"
+      ]
+    },
+    "1542-707": {
+      "narrator_ids": [
+        1542,
+        707
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:138:5",
+        "/books/al-kafi:2:1:99:24"
+      ]
+    },
+    "6-12-121-1542-707-1725-669": {
+      "narrator_ids": [
+        6,
+        12,
+        121,
+        1542,
+        707,
+        1725,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:138:5"
+      ]
+    },
+    "6-12-121-1542-707-269-2-9": {
+      "narrator_ids": [
+        6,
+        12,
+        121,
+        1542,
+        707,
+        269,
+        2,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:99:24"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1542",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1542.json"
+  }
+}

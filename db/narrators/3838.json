@@ -1,0 +1,53 @@
+{
+  "id": 3838,
+  "type": "narrator",
+  "path": "/people/narrators/3838",
+  "titles": {
+    "ar": "عَمَّارِ بْنِ حَكِيمٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:136:13"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3838-369": {
+      "narrator_ids": [
+        3838,
+        369
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:136:13"
+      ]
+    },
+    "6-12-74-3838-369": {
+      "narrator_ids": [
+        6,
+        12,
+        74,
+        3838,
+        369
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:136:13"
+      ]
+    },
+    "74-3838": {
+      "narrator_ids": [
+        74,
+        3838
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:136:13"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3838",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3838.json"
+  }
+}

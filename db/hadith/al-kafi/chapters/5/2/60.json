@@ -1,0 +1,677 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:5:2:60",
+  "chapter": {
+    "path": "/books/al-kafi:5:2:60",
+    "titles": {
+      "ar": "باب الْوَفَاءِ وَ الْبَخْسِ",
+      "en": "Chapter 60 – Fulfilment and the undervalutation (of measuring and weighing)"
+    }
+  },
+  "count": 5,
+  "records": [
+    {
+      "id": "al-kafi:5:2:60:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:5:2:60:1",
+        "parts": [
+          5,
+          2,
+          60,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 2,
+        "chapter": 60,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:5:2:60",
+        "titles": {
+          "ar": "باب الْوَفَاءِ وَ الْبَخْسِ",
+          "en": "Chapter 60 – Fulfilment and the undervalutation (of measuring and weighing)"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " لَا يَكُونُ الْوَفَاءُ حَتَّى يَمِيلَ الْمِيزَانُ ."
+        ],
+        "text": "لَا يَكُونُ الْوَفَاءُ حَتَّى يَمِيلَ الْمِيزَانُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Ahmad Bin Muhammad Bin Khalid, from Ibn Fazzal, from Ibn Bakeyr, from Hammad Bin Basheer, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The fulfilment does not occur unless the ‘scale’ inclines (tilts in favour of the buyer)’."
+          ],
+          "text": "A number of our companions, from Ahmad Bin Muhammad Bin Khalid, from Ibn Fazzal, from Ibn Bakeyr, from Hammad Bin Basheer,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The fulfilment does not occur unless the ‘scale’ inclines (tilts in favour of the buyer)’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. A number of our people have narrated from Ahmad ibn Muhammad ibn Khalid from ibn Faddal from ibn Bukayr from Hammad ibn Bashir who has said the following: “Abu ‘ Abd Allah, ‘Alayhi al-Salam, has said, ‘Proper weighing is only when a balance tilts to one side.”’ "
+          ],
+          "text": "1. A number of our people have narrated from Ahmad ibn Muhammad ibn Khalid from ibn Faddal from ibn Bukayr from Hammad ibn Bashir who has said the following: “Abu ‘ Abd Allah, ‘Alayhi al-Salam, has said, ‘Proper weighing is only when a balance tilts to one side.”’"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مجهول   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (9/147)",
+          "label": "مجهول",
+          "text": "Allamah Baqir al-Majlisi: مجهول - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (9/147)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ أَحْمَدَ بْنَ مُحَمَّدِ بْنِ خَالِدٍ عَنِ ابْنِ فَضَّالٍ عَنِ ابْنِ بُكَيْرٍ عَنْ حَمَّادِ بْنِ بَشِيرٍ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنَ مُحَمَّدِ بْنِ خَالِدٍ",
+            "path": "/people/narrators/12"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ فَضَّالٍ",
+            "path": "/people/narrators/22"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ بُكَيْرٍ",
+            "path": "/people/narrators/56"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "حَمَّادِ بْنِ بَشِيرٍ",
+            "path": "/people/narrators/690"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/12",
+          "/people/narrators/22",
+          "/people/narrators/56",
+          "/people/narrators/690",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:5:2:60:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/5/2/60/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:5:2:60:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:5:2:60:2",
+        "parts": [
+          5,
+          2,
+          60,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 2,
+        "chapter": 60,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:5:2:60",
+        "titles": {
+          "ar": "باب الْوَفَاءِ وَ الْبَخْسِ",
+          "en": "Chapter 60 – Fulfilment and the undervalutation (of measuring and weighing)"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ مَنْ أَخَذَ الْمِيزَانَ بِيَدِهِ فَنَوَى أَنْ يَأْخُذَ لِنَفْسِهِ وَافِياً لَمْ يَأْخُذْ إِلَّا رَاجِحاً وَ مَنْ أَعْطَى فَنَوَى أَنْ يُعْطِيَ سَوَاءً لَمْ يُعْطِ إِلَّا نَاقِصاً ."
+        ],
+        "text": "قَالَ مَنْ أَخَذَ الْمِيزَانَ بِيَدِهِ فَنَوَى أَنْ يَأْخُذَ لِنَفْسِهِ وَافِياً لَمْ يَأْخُذْ إِلَّا رَاجِحاً وَ مَنْ أَعْطَى فَنَوَى أَنْ يُعْطِيَ سَوَاءً لَمْ يُعْطِ إِلَّا نَاقِصاً ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "From him, from Yaqoub Bin Yazeed, from Muhammad Bin Murazim,, from a man, from Is’haq Bin Ammar who said, ",
+            "‘The one who takes the scale in his hands, so he intends that he take a full measure for himself, does not take except for an overweighing (measure); and the one who gives, so he intends that he would give equal, does not give except for a deficient (measure)’."
+          ],
+          "text": "From him, from Yaqoub Bin Yazeed, from Muhammad Bin Murazim,, from a man, from Is’haq Bin Ammar who said,\n\n‘The one who takes the scale in his hands, so he intends that he take a full measure for himself, does not take except for an overweighing (measure); and the one who gives, so he intends that he would give equal, does not give except for a deficient (measure)’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. Through the same chain of narrators as the previous one from Ya’qub ibn Yazid from Muhammad ibn Murazim from a man from Ishaq ibn ‘Ammar who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘If one uses a balance with the intention to weigh for himself properly ends up weighing heavier for himself, and one who intends to weigh equally, ends up weighing less.’” "
+          ],
+          "text": "2. Through the same chain of narrators as the previous one from Ya’qub ibn Yazid from Muhammad ibn Murazim from a man from Ishaq ibn ‘Ammar who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘If one uses a balance with the intention to weigh for himself properly ends up weighing heavier for himself, and one who intends to weigh equally, ends up weighing less.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مرسل   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (19/147)",
+          "label": "مرسل",
+          "text": "Allamah Baqir al-Majlisi: مرسل - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (19/147)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَنْهُ عَنْ يَعْقُوبَ بْنِ يَزِيدَ عَنْ مُحَمَّدِ بْنِ مُرَازِمٍ عَنْ رَجُلٍ عَنْ إِسْحَاقَ بْنِ عَمَّارٍ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَنْهُ",
+            "path": "/people/narrators/11"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "يَعْقُوبَ بْنِ يَزِيدَ",
+            "path": "/people/narrators/101"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ مُرَازِمٍ",
+            "path": "/people/narrators/656"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "رَجُلٍ",
+            "path": "/people/narrators/60"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "إِسْحَاقَ بْنِ عَمَّارٍ",
+            "path": "/people/narrators/44"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/11",
+          "/people/narrators/101",
+          "/people/narrators/656",
+          "/people/narrators/60",
+          "/people/narrators/44"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:5:2:60:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/5/2/60/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:5:2:60:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:5:2:60:3",
+        "parts": [
+          5,
+          2,
+          60,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 2,
+        "chapter": 60,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:5:2:60",
+        "titles": {
+          "ar": "باب الْوَفَاءِ وَ الْبَخْسِ",
+          "en": "Chapter 60 – Fulfilment and the undervalutation (of measuring and weighing)"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قُلْتُ لِأَبِي عَبْدِ اللَّهِ ( عليه السلام ) إِنِّي صَاحِبُ نَخْلٍ فَخَبِّرْنِي بِحَدٍّ أَنْتَهِي إِلَيْهِ فِيهِ مِنَ الْوَفَاءِ فَقَالَ أَبُو عَبْدِ اللَّهِ ( عليه السلام ) انْوِ الْوَفَاءَ فَإِنْ أَتَى عَلَى يَدِكَ وَ قَدْ نَوَيْتَ الْوَفَاءَ نُقْصَانٌ كُنْتَ مِنْ أَهْلِ الْوَفَاءِ وَ إِنْ نَوَيْتَ النُّقْصَانَ ثُمَّ أَوْفَيْتَ كُنْتَ مِنْ أَهْلِ النُّقْصَانِ ."
+        ],
+        "text": "قُلْتُ لِأَبِي عَبْدِ اللَّهِ ( عليه السلام ) إِنِّي صَاحِبُ نَخْلٍ فَخَبِّرْنِي بِحَدٍّ أَنْتَهِي إِلَيْهِ فِيهِ مِنَ الْوَفَاءِ فَقَالَ أَبُو عَبْدِ اللَّهِ ( عليه السلام ) انْوِ الْوَفَاءَ فَإِنْ أَتَى عَلَى يَدِكَ وَ قَدْ نَوَيْتَ الْوَفَاءَ نُقْصَانٌ كُنْتَ مِنْ أَهْلِ الْوَفَاءِ وَ إِنْ نَوَيْتَ النُّقْصَانَ ثُمَّ أَوْفَيْتَ كُنْتَ مِنْ أَهْلِ النُّقْصَانِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "From him, from Al Hajjal, from Ubeyd Bin Is’haq who said, ",
+            "‘I said to Abu Abdullah<sup>asws</sup>, ‘I am an owner of plam trees, so inform me with a limit that I should end up to with regards to it from the full measurement’. So Abu Abdullah<sup>asws</sup> said: ‘Intend the full measurement. So if you give by your hand with a deficiency and you have intended the full measurement, you would be from the people of the full measurement; and if you were to intend the deficiency, then you (by fluke) give the full measurement, you would be from people who have measured out deficiently’."
+          ],
+          "text": "From him, from Al Hajjal, from Ubeyd Bin Is’haq who said,\n\n‘I said to Abu Abdullah<sup>asws</sup>, ‘I am an owner of plam trees, so inform me with a limit that I should end up to with regards to it from the full measurement’. So Abu Abdullah<sup>asws</sup> said: ‘Intend the full measurement. So if you give by your hand with a deficiency and you have intended the full measurement, you would be from the people of the full measurement; and if you were to intend the deficiency, then you (by fluke) give the full measurement, you would be from people who have measured out deficiently’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "3. Through the same chain of narrators as the previous one from al-Hajjal from ‘Ubayd ibn Ishaq who has said the following: “I once said to abu ‘Abd Allah, ‘Alayhi al-Salam, ‘I own palm trees. Instruct me how to be proper in my giving and taking.’ Abu ‘Abd Allah, ‘Alayhi al-Salam, said, ‘Keep your intention to maintain it (crop) properly fair; if despite such intention, less proper fairness takes place, you are of those who maintain it properly. On the other hand, if you intended it to be less proper, but maintained it properly, you are of those who maintain it less properly.’” "
+          ],
+          "text": "3. Through the same chain of narrators as the previous one from al-Hajjal from ‘Ubayd ibn Ishaq who has said the following: “I once said to abu ‘Abd Allah, ‘Alayhi al-Salam, ‘I own palm trees. Instruct me how to be proper in my giving and taking.’ Abu ‘Abd Allah, ‘Alayhi al-Salam, said, ‘Keep your intention to maintain it (crop) properly fair; if despite such intention, less proper fairness takes place, you are of those who maintain it properly. On the other hand, if you intended it to be less proper, but maintained it properly, you are of those who maintain it less properly.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مجهول  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (9/147)",
+          "label": "مجهول",
+          "text": "Allamah Baqir al-Majlisi: مجهول - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (9/147)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَنْهُ عَنِ الْحَجَّالِ عَنْ عُبَيْدِ بْنِ إِسْحَاقَ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَنْهُ",
+            "path": "/people/narrators/11"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحَجَّالِ",
+            "path": "/people/narrators/122"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عُبَيْدِ بْنِ إِسْحَاقَ",
+            "path": "/people/narrators/3660"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/11",
+          "/people/narrators/122",
+          "/people/narrators/3660"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/tahdhib-al-ahkam:7:1:45"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:5:2:60:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/5/2/60/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:5:2:60:4",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:5:2:60:4",
+        "parts": [
+          5,
+          2,
+          60,
+          4
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 2,
+        "chapter": 60,
+        "hadith": 4
+      },
+      "chapter": {
+        "path": "/books/al-kafi:5:2:60",
+        "titles": {
+          "ar": "باب الْوَفَاءِ وَ الْبَخْسِ",
+          "en": "Chapter 60 – Fulfilment and the undervalutation (of measuring and weighing)"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قُلْتُ لَهُ رَجُلٌ مِنْ نِيَّتِهِ الْوَفَاءُ وَ هُوَ إِذَا كَالَ لَمْ يُحْسِنْ أَنْ يَكِيلَ قَالَ فَمَا يَقُولُ الَّذِينَ حَوْلَهُ قَالَ قُلْتُ يَقُولُونَ لَا يُوفِي قَالَ هَذَا لَا يَنْبَغِي لَهُ أَنْ يَكِيلَ ."
+        ],
+        "text": "قُلْتُ لَهُ رَجُلٌ مِنْ نِيَّتِهِ الْوَفَاءُ وَ هُوَ إِذَا كَالَ لَمْ يُحْسِنْ أَنْ يَكِيلَ قَالَ فَمَا يَقُولُ الَّذِينَ حَوْلَهُ قَالَ قُلْتُ يَقُولُونَ لَا يُوفِي قَالَ هَذَا لَا يَنْبَغِي لَهُ أَنْ يَكِيلَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad Bin Isa, from Ali Bin Al Hakam, from Musna Al Hannat, from one of our companions, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup>, said, ‘I said to him<sup>asws</sup>, ‘A man intends the full measurement, and he, when he weighs, is not good at it in weighing’. He<sup>asws</sup> said: ‘So what are they saying, those who are around him?’ I said, ‘They are saying, ‘He does no give full measure’. He<sup>asws</sup> said: ‘This one, it is not befitting for him that he weighs’."
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad Bin Isa, from Ali Bin Al Hakam, from Musna Al Hannat, from one of our companions,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup>, said, ‘I said to him<sup>asws</sup>, ‘A man intends the full measurement, and he, when he weighs, is not good at it in weighing’. He<sup>asws</sup> said: ‘So what are they saying, those who are around him?’ I said, ‘They are saying, ‘He does no give full measure’. He<sup>asws</sup> said: ‘This one, it is not befitting for him that he weighs’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "4. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad ibn ‘Isa from Ali ibn al-Hakam from al-Muthanna’ al-Hannat from certain persons of our people who has said the following: “I once said to abu ‘Abd Allah, ‘Alayhi al-Salam, ‘There is man who has the intention to maintain proper weighing; but when he weighs cannot do it properly.’ He (the Imam) asked, ‘What do people around say about him?’ I (the narrator) replied, ‘They say, ‘He does not maintain it properly.’ He (the Imam) said, ‘He should not do weighing.’” "
+          ],
+          "text": "4. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad ibn ‘Isa from Ali ibn al-Hakam from al-Muthanna’ al-Hannat from certain persons of our people who has said the following: “I once said to abu ‘Abd Allah, ‘Alayhi al-Salam, ‘There is man who has the intention to maintain proper weighing; but when he weighs cannot do it properly.’ He (the Imam) asked, ‘What do people around say about him?’ I (the narrator) replied, ‘They say, ‘He does not maintain it properly.’ He (the Imam) said, ‘He should not do weighing.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مرسل   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (19/148)",
+          "label": "مرسل",
+          "text": "Allamah Baqir al-Majlisi: مرسل - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (19/148)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى عَنْ عَلِيِّ بْنِ الْحَكَمِ عَنْ مُثَنًّى الْحَنَّاطِ عَنْ بَعْضِ أَصْحَابِنَا عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى",
+            "path": "/people/narrators/13"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيِّ بْنِ الْحَكَمِ",
+            "path": "/people/narrators/15"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُثَنًّى الْحَنَّاطِ",
+            "path": "/people/narrators/211"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "بَعْضِ أَصْحَابِنَا",
+            "path": "/people/narrators/36"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/13",
+          "/people/narrators/15",
+          "/people/narrators/211",
+          "/people/narrators/36",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:5:2:60:4",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/5/2/60/4.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:5:2:60:5",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:5:2:60:5",
+        "parts": [
+          5,
+          2,
+          60,
+          5
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 2,
+        "chapter": 60,
+        "hadith": 5
+      },
+      "chapter": {
+        "path": "/books/al-kafi:5:2:60",
+        "titles": {
+          "ar": "باب الْوَفَاءِ وَ الْبَخْسِ",
+          "en": "Chapter 60 – Fulfilment and the undervalutation (of measuring and weighing)"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " لَا يَكُونُ الْوَفَاءُ حَتَّى يَرْجَحَ ."
+        ],
+        "text": "لَا يَكُونُ الْوَفَاءُ حَتَّى يَرْجَحَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father, from Ibn Abu Umeyr, from someone else, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The full measurement does not happen until it swings (scale tilts in favour of the buyer)’."
+          ],
+          "text": "Ali Bin Ibrahim, from his father, from Ibn Abu Umeyr, from someone else,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The full measurement does not happen until it swings (scale tilts in favour of the buyer)’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "5. Ali ibn Ibrahim has narrated from his father from ibn abu ‘Umayr from more than one person who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘It is not a proper weighing until a side of balance tilts.’” "
+          ],
+          "text": "5. Ali ibn Ibrahim has narrated from his father from ibn abu ‘Umayr from more than one person who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘It is not a proper weighing until a side of balance tilts.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> حسن   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (9/148)",
+          "label": "حسن",
+          "text": "Allamah Baqir al-Majlisi: حسن - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (9/148)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنِ ابْنِ أَبِي عُمَيْرٍ عَنْ غَيْرِ وَاحِدٍ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ أَبِي عُمَيْرٍ",
+            "path": "/people/narrators/7"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "غَيْرِ وَاحِدٍ",
+            "path": "/people/narrators/84"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/7",
+          "/people/narrators/84",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:2:1:103:3",
+          "/books/al-kafi:6:2:1:2",
+          "/books/al-kafi:6:8:17:10",
+          "/books/al-kafi:6:8:43:26",
+          "/books/tahdhib-al-ahkam:7:1:43"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:5:2:60:5",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/5/2/60/5.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

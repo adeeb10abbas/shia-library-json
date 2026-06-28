@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:4:149",
+  "chapter": {
+    "path": "/books/al-khisal:4:149",
+    "titles": {
+      "en": "You Should Not Stand to Pray behind Three People"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:4:149:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:4:149:1",
+        "parts": [
+          4,
+          149,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 149,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:4:149",
+        "titles": {
+          "en": "You Should Not Stand to Pray behind Three People"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا سعد بن عبد الله، عن محمد بن عيسى ابن عبيد، عن الحسن علي بن يقطين، عن عمرو بن إبراهيم، عن خلف بن حماد، عن رجل من أصحابنا نسي الحسن بن علي اسمه عن أبي عبد الله عليه السلام قال:ثلاثة لا يصلى خلفهم: المجهول، والغالي وإن كان يقول بقولك، والمجاهر بالفسق وإن كان مقتصدا"
+        ],
+        "text": ": حدثنا سعد بن عبد الله، عن محمد بن عيسى ابن عبيد، عن الحسن علي بن يقطين، عن عمرو بن إبراهيم، عن خلف بن حماد، عن رجل من أصحابنا نسي الحسن بن علي اسمه عن أبي عبد الله عليه السلام قال:ثلاثة لا يصلى خلفهم: المجهول، والغالي وإن كان يقول بقولك، والمجاهر بالفسق وإن كان مقتصدا"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "3-193 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Sa’ed ibn Abdullah quoted Muhammad ibn Isa ibn Ubayd, on the authority of Al-Hassan ibn Ali ibn Yaqtayn, on the authority of Amr ibn Ibrahim, on the authority of Khalaf ibn Himmad, on the authority of one of our companions called al-Hassan ibn Ali, on the authority of Abi As-Sadiq Abdullah as-Sadiq (MGB), “You should not stand to pray behind three people: an unfamiliar person; someone who ascribes certain boastful attributes to the Divine Leaders, even if he expresses the same beliefs as you do; and one who is corrupt even if he is not boastful about the Divine Leaders.”"
+          ],
+          "text": "3-193 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Sa’ed ibn Abdullah quoted Muhammad ibn Isa ibn Ubayd, on the authority of Al-Hassan ibn Ali ibn Yaqtayn, on the authority of Amr ibn Ibrahim, on the authority of Khalaf ibn Himmad, on the authority of one of our companions called al-Hassan ibn Ali, on the authority of Abi As-Sadiq Abdullah as-Sadiq (MGB), “You should not stand to pray behind three people: an unfamiliar person; someone who ascribes certain boastful attributes to the Divine Leaders, even if he expresses the same beliefs as you do; and one who is corrupt even if he is not boastful about the Divine Leaders.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "3-193 حدثنا أبي رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "3-193 حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي رضي الله عنه قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:4:149:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/4/149/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/4/149/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

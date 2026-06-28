@@ -1,0 +1,45 @@
+{
+  "id": 2135,
+  "type": "narrator",
+  "path": "/people/narrators/2135",
+  "titles": {
+    "ar": "أَبِي عَبْدِ اللَّهِ ( عليه السلام ) مِثْلَ ذَلِكَ وَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:83:8"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "28-2135": {
+      "narrator_ids": [
+        28,
+        2135
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:83:8"
+      ]
+    },
+    "3-2-7-23-28-2135": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        23,
+        28,
+        2135
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:83:8"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2135",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2135.json"
+  }
+}

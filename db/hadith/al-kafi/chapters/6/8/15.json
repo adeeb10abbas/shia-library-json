@@ -1,0 +1,940 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:6:8:15",
+  "chapter": {
+    "path": "/books/al-kafi:6:8:15",
+    "titles": {
+      "ar": "باب الْعَمَائِمِ",
+      "en": "Chapter 15 – The Turbans"
+    }
+  },
+  "count": 7,
+  "records": [
+    {
+      "id": "al-kafi:6:8:15:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:8:15:1",
+        "parts": [
+          6,
+          8,
+          15,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 8,
+        "chapter": 15,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:8:15",
+        "titles": {
+          "ar": "باب الْعَمَائِمِ",
+          "en": "Chapter 15 – The Turbans"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " مَنْ تَعَمَّمَ وَ لَمْ يَتَحَنَّكْ فَأَصَابَهُ دَاءٌ لَا دَوَاءَ لَهُ فَلَا يَلُومَنَّ إِلَّا نَفْسَهُ ."
+        ],
+        "text": "مَنْ تَعَمَّمَ وَ لَمْ يَتَحَنَّكْ فَأَصَابَهُ دَاءٌ لَا دَوَاءَ لَهُ فَلَا يَلُومَنَّ إِلَّا نَفْسَهُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father, from Ibn Abu Umeyr, from the one who mentioned it, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The one who wears a turban and does not <span class=\"iTxt\">Tahannak</span> it (lets one end hang in front and the other at the back), so an illness strikes him and there is no cure for it, so he should not blame anyone except for himself’."
+          ],
+          "text": "Ali Bin Ibrahim, from his father, from Ibn Abu Umeyr, from the one who mentioned it,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The one who wears a turban and does not <span class=\"iTxt\">Tahannak</span> it (lets one end hang in front and the other at the back), so an illness strikes him and there is no cure for it, so he should not blame anyone except for himself’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. Ali ibn Ibrahim has narrated from his father from ibn abu ‘Umayr from those whom he has mentioned who has said the following: “Abu ‘ Abd Allah, ‘Alayhi al-Salam, has said, ‘One who wears a turban without tahannak (allowing one end to hang down on one’s front side and the other end down one’s back side), if he faces an illness without cure he then must not blame anyone for it except his own-self.’” "
+          ],
+          "text": "1. Ali ibn Ibrahim has narrated from his father from ibn abu ‘Umayr from those whom he has mentioned who has said the following: “Abu ‘ Abd Allah, ‘Alayhi al-Salam, has said, ‘One who wears a turban without tahannak (allowing one end to hang down on one’s front side and the other end down one’s back side), if he faces an illness without cure he then must not blame anyone for it except his own-self.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> حسن  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/343)",
+          "label": "حسن",
+          "text": "Allamah Baqir al-Majlisi: حسن - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/343)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنِ ابْنِ أَبِي عُمَيْرٍ عَمَّنْ ذَكَرَهُ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "plain",
+            "text": "ابْنِ أَبِي عُمَيْرٍ عَمَّنْ ذَكَرَهُ"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:2:2:16:8",
+          "/books/al-kafi:2:3:9:2",
+          "/books/al-kafi:2:4:2:3",
+          "/books/al-kafi:3:1:4:9",
+          "/books/al-kafi:3:2:3:3",
+          "/books/al-kafi:3:4:12:9",
+          "/books/al-kafi:3:4:16:2",
+          "/books/al-kafi:3:4:60:34",
+          "/books/al-kafi:4:2:75:15",
+          "/books/al-kafi:5:3:94:3",
+          "/books/al-kafi:6:1:35:5",
+          "/books/al-kafi:6:6:31:5",
+          "/books/al-kafi:6:6:41:5",
+          "/books/tahdhib-al-ahkam:9:2:147"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:8:15:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/8/15/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:8:15:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:8:15:2",
+        "parts": [
+          6,
+          8,
+          15,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 8,
+        "chapter": 15,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:8:15",
+        "titles": {
+          "ar": "باب الْعَمَائِمِ",
+          "en": "Chapter 15 – The Turbans"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " اللَّهِ عَزَّ وَ جَلَّ مُسَوِّمِينَ قَالَ الْعَمَائِمُ اعْتَمَّ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) فَسَدَلَهَا مِنْ بَيْنِ يَدَيْهِ وَ مِنْ خَلْفِهِ وَ اعْتَمَّ جَبْرَئِيلُ فَسَدَلَهَا مِنْ بَيْنِ يَدَيْهِ وَ مِنْ خَلْفِهِ ."
+        ],
+        "text": "اللَّهِ عَزَّ وَ جَلَّ مُسَوِّمِينَ قَالَ الْعَمَائِمُ اعْتَمَّ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) فَسَدَلَهَا مِنْ بَيْنِ يَدَيْهِ وَ مِنْ خَلْفِهِ وَ اعْتَمَّ جَبْرَئِيلُ فَسَدَلَهَا مِنْ بَيْنِ يَدَيْهِ وَ مِنْ خَلْفِهِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad, form Abu Hamman, ",
+            "(It has been narrated) from Abu Al-Hassan<sup>asws</sup> regarding the Words of Allah<sup>azwj</sup> Mighty and Majestic <span class=\"ibTxt\"><a href=\"/#/books/quran:3#h125\"><a href=\"/books/quran:3#h125\">[3:125]</a></a> marked Angels</span>. He<sup>asws</sup> said: ‘The turbans which Rasool-Allah<sup>saww</sup> wore, so he<sup>saww</sup> let it loose from in front of him<sup>saww</sup>, and from behind him<sup>saww</sup>, and Jibraeel<sup>as</sup> wore it letting it loose from in front of him<sup>as</sup> and from behind him<sup>as</sup>’."
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad, form Abu Hamman,\n\n(It has been narrated) from Abu Al-Hassan<sup>asws</sup> regarding the Words of Allah<sup>azwj</sup> Mighty and Majestic <span class=\"ibTxt\"><a href=\"/#/books/quran:3#h125\"><a href=\"/books/quran:3#h125\">[3:125]</a></a> marked Angels</span>. He<sup>asws</sup> said: ‘The turbans which Rasool-Allah<sup>saww</sup> wore, so he<sup>saww</sup> let it loose from in front of him<sup>saww</sup>, and from behind him<sup>saww</sup>, and Jibraeel<sup>as</sup> wore it letting it loose from in front of him<sup>as</sup> and from behind him<sup>as</sup>’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from abu Hammam who has said the following: “This is about the meaning of the words of Allah, most Majestic, most Glorious, ‘marked angels.’ <a href=\"/#/books/quran:3#h125\"><a href=\"/books/quran:3#h125\">[3:125]</a></a> Abu al-Hassan, ‘Alayhi al-Salam, has said that it is a reference to turbans. The Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, wore a turban and hanged down one end on his front side and the other end down his backside. Jibril wore a turban and hanged down one end on his front side and the other end down his back.’” "
+          ],
+          "text": "2. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from abu Hammam who has said the following: “This is about the meaning of the words of Allah, most Majestic, most Glorious, ‘marked angels.’ <a href=\"/#/books/quran:3#h125\"><a href=\"/books/quran:3#h125\">[3:125]</a></a> Abu al-Hassan, ‘Alayhi al-Salam, has said that it is a reference to turbans. The Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, wore a turban and hanged down one end on his front side and the other end down his backside. Jibril wore a turban and hanged down one end on his front side and the other end down his back.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> صحيح  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/343)",
+          "label": "صحيح",
+          "text": "Allamah Baqir al-Majlisi: صحيح - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/343)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنْ أَبِي هَمَّامٍ عَنْ أَبِي الْحَسَنِ ( عليه السلام ) فِي قَوْلِ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي هَمَّامٍ",
+            "path": "/people/narrators/671"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي الْحَسَنِ ( عليه السلام )",
+            "path": "/people/narrators/64"
+          },
+          {
+            "kind": "plain",
+            "text": " فِي قَوْلِ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/5",
+          "/people/narrators/671",
+          "/people/narrators/64"
+        ]
+      },
+      "relations": {
+        "Mentions": [
+          "/books/quran:3:125"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:8:15:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/8/15/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:8:15:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:8:15:3",
+        "parts": [
+          6,
+          8,
+          15,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 8,
+        "chapter": 15,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:8:15",
+        "titles": {
+          "ar": "باب الْعَمَائِمِ",
+          "en": "Chapter 15 – The Turbans"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " كَانَتْ عَلَى الْمَلَائِكَةِ الْعَمَائِمُ الْبِيضُ الْمُرْسَلَةُ يَوْمَ بَدْرٍ ."
+        ],
+        "text": "كَانَتْ عَلَى الْمَلَائِكَةِ الْعَمَائِمُ الْبِيضُ الْمُرْسَلَةُ يَوْمَ بَدْرٍ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Ibn Fazzal, from Abu Jameela, from Jabir, ",
+            "(It has been narrated) from Abu Ja’far<sup>asws</sup> having said: ‘There were white turbans upon the Angels Sent on the Day of Badr’."
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Ibn Fazzal, from Abu Jameela, from Jabir,\n\n(It has been narrated) from Abu Ja’far<sup>asws</sup> having said: ‘There were white turbans upon the Angels Sent on the Day of Badr’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "3. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from ibn Faddal from abu Jamilah from Jabir who has said the following: “Abu Ja‘far, ‘Alayhi al-Salam, has said that the angels had turbans hanging on them on the day of Badr.” "
+          ],
+          "text": "3. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from ibn Faddal from abu Jamilah from Jabir who has said the following: “Abu Ja‘far, ‘Alayhi al-Salam, has said that the angels had turbans hanging on them on the day of Badr.”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/343)",
+          "label": "ضعيف",
+          "text": "Allamah Baqir al-Majlisi: ضعيف - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/343)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنِ ابْنِ فَضَّالٍ عَنْ أَبِي جَمِيلَةَ عَنْ جَابِرٍ عَنْ أَبِي جَعْفَرٍ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ فَضَّالٍ",
+            "path": "/people/narrators/22"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي جَمِيلَةَ",
+            "path": "/people/narrators/100"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "جَابِرٍ",
+            "path": "/people/narrators/72"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي جَعْفَرٍ ( عليه السلام )",
+            "path": "/people/narrators/9"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/5",
+          "/people/narrators/22",
+          "/people/narrators/100",
+          "/people/narrators/72",
+          "/people/narrators/9"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:4:1:6:1"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:8:15:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/8/15/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:8:15:4",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:8:15:4",
+        "parts": [
+          6,
+          8,
+          15,
+          4
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 8,
+        "chapter": 15,
+        "hadith": 4
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:8:15",
+        "titles": {
+          "ar": "باب الْعَمَائِمِ",
+          "en": "Chapter 15 – The Turbans"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " عَمَّمَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) عَلِيّاً ( عليه السلام ) بِيَدِهِ فَسَدَلَهَا مِنْ بَيْنِ يَدَيْهِ وَ قَصَّرَهَا مِنْ خَلْفِهِ قَدْرَ أَرْبَعِ أَصَابِعَ ثُمَّ قَالَ أَدْبِرْ فَأَدْبَرَ ثُمَّ قَالَ أَقْبِلْ فَأَقْبَلَ ثُمَّ قَالَ هَكَذَا تِيجَانُ الْمَلَائِكَةِ ."
+        ],
+        "text": "عَمَّمَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) عَلِيّاً ( عليه السلام ) بِيَدِهِ فَسَدَلَهَا مِنْ بَيْنِ يَدَيْهِ وَ قَصَّرَهَا مِنْ خَلْفِهِ قَدْرَ أَرْبَعِ أَصَابِعَ ثُمَّ قَالَ أَدْبِرْ فَأَدْبَرَ ثُمَّ قَالَ أَقْبِلْ فَأَقْبَلَ ثُمَّ قَالَ هَكَذَا تِيجَانُ الْمَلَائِكَةِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Ahmad Bin Abu Abdullah, from Al Husayn Bin Ali Al Uqayli, from Ali Bin Abdu Ali Al Lahby, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup> put on the turban on Ali<sup>asws</sup> by his<sup>saww</sup> hand, so he<sup>saww</sup> let it hang from in front of him, and shortened it from behind him of the measurement of four fingers, then said: ‘Turn around’. So he<sup>asws</sup> turned. Then he<sup>saww</sup> said: ‘Face me<sup>saww</sup>’. So he<sup>asws</sup> faced. Then he<sup>saww</sup> said: ‘This is how the Angels are crowned’."
+          ],
+          "text": "A number of our companions, from Ahmad Bin Abu Abdullah, from Al Husayn Bin Ali Al Uqayli, from Ali Bin Abdu Ali Al Lahby,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup> put on the turban on Ali<sup>asws</sup> by his<sup>saww</sup> hand, so he<sup>saww</sup> let it hang from in front of him, and shortened it from behind him of the measurement of four fingers, then said: ‘Turn around’. So he<sup>asws</sup> turned. Then he<sup>saww</sup> said: ‘Face me<sup>saww</sup>’. So he<sup>asws</sup> faced. Then he<sup>saww</sup> said: ‘This is how the Angels are crowned’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "4. A number of our people have narrated from Ahmad ibn abu ‘Abd Allah from al-Husayn ibn Ali al-‘Aqiliy from Ali ibn abu Ali al- Lahbiy who has said the following: “The Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, made Ali, ‘Alayhi al-Salam, to wear turban and hanged one end down his front side but made it shorter for the end hanging down his back by four fingers. He (the Messenger of Allah) then asked him to go back which he did and then asked him to come forward which he also did and then he (the Messenger of Allah) said, ‘This is how the Tijan (crown) of the angels is.’” "
+          ],
+          "text": "4. A number of our people have narrated from Ahmad ibn abu ‘Abd Allah from al-Husayn ibn Ali al-‘Aqiliy from Ali ibn abu Ali al- Lahbiy who has said the following: “The Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, made Ali, ‘Alayhi al-Salam, to wear turban and hanged one end down his front side but made it shorter for the end hanging down his back by four fingers. He (the Messenger of Allah) then asked him to go back which he did and then asked him to come forward which he also did and then he (the Messenger of Allah) said, ‘This is how the Tijan (crown) of the angels is.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مجهول   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/343)",
+          "label": "مجهول",
+          "text": "Allamah Baqir al-Majlisi: مجهول - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/343)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ أَحْمَدَ بْنِ أَبِي عَبْدِ اللَّهِ عَنِ الْحُسَيْنِ بْنِ عَلِيٍّ الْعُقَيْلِيِّ عَنْ عَلِيِّ بْنِ أَبِي عَلِيٍّ اللَّهَبِيِّ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ أَبِي عَبْدِ اللَّهِ",
+            "path": "/people/narrators/12"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحُسَيْنِ بْنِ عَلِيٍّ الْعُقَيْلِيِّ",
+            "path": "/people/narrators/2637"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيِّ بْنِ أَبِي عَلِيٍّ اللَّهَبِيِّ",
+            "path": "/people/narrators/924"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/12",
+          "/people/narrators/2637",
+          "/people/narrators/924",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:8:15:4",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/8/15/4.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:8:15:5",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:8:15:5",
+        "parts": [
+          6,
+          8,
+          15,
+          5
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 8,
+        "chapter": 15,
+        "hadith": 5
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:8:15",
+        "titles": {
+          "ar": "باب الْعَمَائِمِ",
+          "en": "Chapter 15 – The Turbans"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) الْعَمَائِمُ تِيجَانُ الْعَرَبِ .",
+          "وَ رُوِيَ أَنَّ الطَّابِقِيَّةَ عِمَّةُ إِبْلِيسَ لَعَنَهُ اللَّهُ ."
+        ],
+        "text": "قَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) الْعَمَائِمُ تِيجَانُ الْعَرَبِ .\n\nوَ رُوِيَ أَنَّ الطَّابِقِيَّةَ عِمَّةُ إِبْلِيسَ لَعَنَهُ اللَّهُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father, from Al Nowfaly, from Al Sakuny, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup> said: ‘The turbans are the crowns of the Arabs’.",
+            "And it is reported that layering (without letting one end hang in front and the other hang at the back) is a turban of Iblees<sup>la</sup>, may Allah<sup>azwj</sup> Curse him<sup>la</sup>’."
+          ],
+          "text": "Ali Bin Ibrahim, from his father, from Al Nowfaly, from Al Sakuny,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup> said: ‘The turbans are the crowns of the Arabs’.\n\nAnd it is reported that layering (without letting one end hang in front and the other hang at the back) is a turban of Iblees<sup>la</sup>, may Allah<sup>azwj</sup> Curse him<sup>la</sup>’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "5. Ali ibn Ibrahim has narrated from his father from al-Nawfaliy from al-Sakuniy who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, has said, ‘Turbans are the crown of Arabs.’” "
+          ],
+          "text": "5. Ali ibn Ibrahim has narrated from his father from al-Nawfaliy from al-Sakuniy who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, has said, ‘Turbans are the crown of Arabs.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/343)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/343)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنِ النَّوْفَلِيِّ عَنِ السَّكُونِيِّ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "النَّوْفَلِيِّ",
+            "path": "/people/narrators/32"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "السَّكُونِيِّ",
+            "path": "/people/narrators/34"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/32",
+          "/people/narrators/34",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:8:15:5",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/8/15/5.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:8:15:6",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:8:15:6",
+        "parts": [
+          6,
+          8,
+          15,
+          6
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 8,
+        "chapter": 15,
+        "hadith": 6
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:8:15",
+        "titles": {
+          "ar": "باب الْعَمَائِمِ",
+          "en": "Chapter 15 – The Turbans"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " مَنْ خَرَجَ مِنْ مَنْزِلِهِ مُعْتَمّاً تَحْتَ حَنَكِهِ يُرِيدُ سَفَراً لَمْ يُصِبْهُ فِي سَفَرِهِ سَرَقٌ وَ لَا حَرَقٌ وَ لَا مَكْرُوهٌ ."
+        ],
+        "text": "مَنْ خَرَجَ مِنْ مَنْزِلِهِ مُعْتَمّاً تَحْتَ حَنَكِهِ يُرِيدُ سَفَراً لَمْ يُصِبْهُ فِي سَفَرِهِ سَرَقٌ وَ لَا حَرَقٌ وَ لَا مَكْرُوهٌ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Abu Ali Al Ashary, from one of his companions, from Ali Bin Al Hakam, ",
+            "(It has been narrated) raising it to Abu Abdullah<sup>asws</sup> having said: ‘The one who goes out from his house wearing a turban (passing) beneath his chin, intending a journey, would neither be hit during his journey by theft, nor by burning, nor by abhorrence’."
+          ],
+          "text": "Abu Ali Al Ashary, from one of his companions, from Ali Bin Al Hakam,\n\n(It has been narrated) raising it to Abu Abdullah<sup>asws</sup> having said: ‘The one who goes out from his house wearing a turban (passing) beneath his chin, intending a journey, would neither be hit during his journey by theft, nor by burning, nor by abhorrence’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "6. It is narrated that: al-Tabiqiyah, a turban without tahannak (allowing one end to hang down on one’s front side and the other end down one’s backside), is the turban of Satan, may he be condemned.’” "
+          ],
+          "text": "6. It is narrated that: al-Tabiqiyah, a turban without tahannak (allowing one end to hang down on one’s front side and the other end down one’s backside), is the turban of Satan, may he be condemned.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مرسل   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/344)",
+          "label": "مرسل",
+          "text": "Allamah Baqir al-Majlisi: مرسل - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/344)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "أَبُو عَلِيٍّ الْأَشْعَرِيُّ عَنْ بَعْضِ أَصْحَابِهِ عَنْ عَلِيِّ بْنِ الْحَكَمِ رَفَعَهُ إِلَى أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "أَبُو عَلِيٍّ الْأَشْعَرِيُّ",
+            "path": "/people/narrators/19"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "بَعْضِ أَصْحَابِهِ",
+            "path": "/people/narrators/37"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيِّ بْنِ الْحَكَمِ",
+            "path": "/people/narrators/15"
+          },
+          {
+            "kind": "plain",
+            "text": " رَفَعَهُ إِلَى "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/19",
+          "/people/narrators/37",
+          "/people/narrators/15",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:8:15:6",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/8/15/6.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:8:15:7",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:8:15:7",
+        "parts": [
+          6,
+          8,
+          15,
+          7
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 8,
+        "chapter": 15,
+        "hadith": 7
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:8:15",
+        "titles": {
+          "ar": "باب الْعَمَائِمِ",
+          "en": "Chapter 15 – The Turbans"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " مَنِ اعْتَمَّ فَلَمْ يُدِرِ الْعِمَامَةَ تَحْتَ حَنَكِهِ فَأَصَابَهُ أَلَمٌ لَا دَوَاءَ لَهُ فَلَا يَلُومَنَّ إِلَّا نَفْسَهُ ."
+        ],
+        "text": "مَنِ اعْتَمَّ فَلَمْ يُدِرِ الْعِمَامَةَ تَحْتَ حَنَكِهِ فَأَصَابَهُ أَلَمٌ لَا دَوَاءَ لَهُ فَلَا يَلُومَنَّ إِلَّا نَفْسَهُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Sahl Bin Ziyad, from Musa Bin Ja’far Al Baghdady, from Amro Bin Saeed, from Isa Bin Hamza, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The one who wears a turban, so he does not circle it beneath his chin, and a sickness hits him for which there is no cure for it, so he should not blame anyone except for himself’."
+          ],
+          "text": "A number of our companions, from Sahl Bin Ziyad, from Musa Bin Ja’far Al Baghdady, from Amro Bin Saeed, from Isa Bin Hamza,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The one who wears a turban, so he does not circle it beneath his chin, and a sickness hits him for which there is no cure for it, so he should not blame anyone except for himself’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "7. A number of our people have narrated from Sahl ibn Ziyad from Musa ibn Ja‘far al-Baghdadiy from ‘Amr ibn Sa‘id from “Isa ibn Hamzah who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘If one wears a turban but does not turn the turban under his chin and then suffers an incurable illness , he then must not blame anyone other than his own self.’” "
+          ],
+          "text": "7. A number of our people have narrated from Sahl ibn Ziyad from Musa ibn Ja‘far al-Baghdadiy from ‘Amr ibn Sa‘id from “Isa ibn Hamzah who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘If one wears a turban but does not turn the turban under his chin and then suffers an incurable illness , he then must not blame anyone other than his own self.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/344)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/344)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ سَهْلِ بْنِ زِيَادٍ عَنْ مُوسَى بْنِ جَعْفَرٍ الْبَغْدَادِيِّ عَنْ عَمْرِو بْنِ سَعِيدٍ عَنْ عِيسَى بْنِ حَمْزَةَ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَهْلِ بْنِ زِيَادٍ",
+            "path": "/people/narrators/8"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُوسَى بْنِ جَعْفَرٍ الْبَغْدَادِيِّ",
+            "path": "/people/narrators/732"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَمْرِو بْنِ سَعِيدٍ",
+            "path": "/people/narrators/142"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عِيسَى بْنِ حَمْزَةَ",
+            "path": "/people/narrators/3960"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/8",
+          "/people/narrators/732",
+          "/people/narrators/142",
+          "/people/narrators/3960",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:8:15:7",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/8/15/7.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

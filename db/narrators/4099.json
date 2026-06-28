@@ -1,0 +1,56 @@
+{
+  "id": 4099,
+  "type": "narrator",
+  "path": "/people/narrators/4099",
+  "titles": {
+    "ar": "مُحَسِّنِ بْنِ أَحْمَدَ بْنِ مُعَاذٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:48:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3-2-310-3798-4099-52-580-669": {
+      "narrator_ids": [
+        3,
+        2,
+        310,
+        3798,
+        4099,
+        52,
+        580,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:48:5"
+      ]
+    },
+    "3798-4099": {
+      "narrator_ids": [
+        3798,
+        4099
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:48:5"
+      ]
+    },
+    "4099-52": {
+      "narrator_ids": [
+        4099,
+        52
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:48:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4099",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4099.json"
+  }
+}

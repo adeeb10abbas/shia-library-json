@@ -1,0 +1,93 @@
+{
+  "id": 1321,
+  "type": "narrator",
+  "path": "/people/narrators/1321",
+  "titles": {
+    "ar": "إِسْمَاعِيلَ بْنِ عُمَرَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:1:7:1",
+    "/books/al-kafi:6:6:13:1",
+    "/books/tahdhib-al-ahkam:9:1:191"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "1321-289": {
+      "narrator_ids": [
+        1321,
+        289
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:13:1",
+        "/books/tahdhib-al-ahkam:9:1:191"
+      ]
+    },
+    "1321-396": {
+      "narrator_ids": [
+        1321,
+        396
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:7:1"
+      ]
+    },
+    "39-1321": {
+      "narrator_ids": [
+        39,
+        1321
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:7:1",
+        "/books/al-kafi:6:6:13:1",
+        "/books/tahdhib-al-ahkam:9:1:191"
+      ]
+    },
+    "39-1321-289-669": {
+      "narrator_ids": [
+        39,
+        1321,
+        289,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:1:191"
+      ]
+    },
+    "4-13-39-1321-289-669": {
+      "narrator_ids": [
+        4,
+        13,
+        39,
+        1321,
+        289,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:13:1"
+      ]
+    },
+    "4-78-13-39-1321-396-669": {
+      "narrator_ids": [
+        4,
+        78,
+        13,
+        39,
+        1321,
+        396,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:7:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1321",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1321.json"
+  }
+}

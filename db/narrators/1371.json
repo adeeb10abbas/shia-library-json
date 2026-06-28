@@ -1,0 +1,121 @@
+{
+  "id": 1371,
+  "type": "narrator",
+  "path": "/people/narrators/1371",
+  "titles": {
+    "ar": "الْعَلَاءِ بْنِ فُضَيْلٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:47:2",
+    "/books/al-kafi:2:1:75:12",
+    "/books/man-la-yahduruhu-al-faqih:4:113:1",
+    "/books/tahdhib-al-ahkam:5:25:564",
+    "/books/tahdhib-al-ahkam:9:23:10"
+  ],
+  "verseCount": 5,
+  "relations": {},
+  "subchains": {
+    "104-1371": {
+      "narrator_ids": [
+        104,
+        1371
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:23:10"
+      ]
+    },
+    "11-60-42-54-155-669-5-104-1371-669": {
+      "narrator_ids": [
+        11,
+        60,
+        42,
+        54,
+        155,
+        669,
+        5,
+        104,
+        1371,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:23:10"
+      ]
+    },
+    "1371-669": {
+      "narrator_ids": [
+        1371,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:47:2",
+        "/books/al-kafi:2:1:75:12",
+        "/books/man-la-yahduruhu-al-faqih:4:113:1",
+        "/books/tahdhib-al-ahkam:9:23:10"
+      ]
+    },
+    "19-13-42-1371-669": {
+      "narrator_ids": [
+        19,
+        13,
+        42,
+        1371,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:47:2"
+      ]
+    },
+    "4-13-42-1371-669": {
+      "narrator_ids": [
+        4,
+        13,
+        42,
+        1371,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:75:12"
+      ]
+    },
+    "4118-42-1371": {
+      "narrator_ids": [
+        4118,
+        42,
+        1371
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:25:564"
+      ]
+    },
+    "42-1371": {
+      "narrator_ids": [
+        42,
+        1371
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:47:2",
+        "/books/al-kafi:2:1:75:12",
+        "/books/man-la-yahduruhu-al-faqih:4:113:1",
+        "/books/tahdhib-al-ahkam:5:25:564"
+      ]
+    },
+    "42-1371-669": {
+      "narrator_ids": [
+        42,
+        1371,
+        669
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:4:113:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1371",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1371.json"
+  }
+}

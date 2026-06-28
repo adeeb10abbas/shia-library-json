@@ -1,0 +1,54 @@
+{
+  "id": 2886,
+  "type": "narrator",
+  "path": "/people/narrators/2886",
+  "titles": {
+    "ar": "بَشِيرٍ الْهُذَلِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:7:15:6"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2886-473": {
+      "narrator_ids": [
+        2886,
+        473
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:15:6"
+      ]
+    },
+    "6-5-21-69-2886-473": {
+      "narrator_ids": [
+        6,
+        5,
+        21,
+        69,
+        2886,
+        473
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:15:6"
+      ]
+    },
+    "69-2886": {
+      "narrator_ids": [
+        69,
+        2886
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:15:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2886",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2886.json"
+  }
+}

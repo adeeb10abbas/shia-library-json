@@ -1,0 +1,616 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:7:2:43",
+  "chapter": {
+    "path": "/books/al-kafi:7:2:43",
+    "titles": {
+      "ar": "باب أَنَّهُ لَا يَتَوَارَثُ الْحُرُّ وَ الْعَبْدُ",
+      "en": "Chapter 41 – They shall not inherit, the free and the slave (each other)"
+    }
+  },
+  "count": 4,
+  "records": [
+    {
+      "id": "al-kafi:7:2:43:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:2:43:1",
+        "parts": [
+          7,
+          2,
+          43,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 2,
+        "chapter": 43,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:2:43",
+        "titles": {
+          "ar": "باب أَنَّهُ لَا يَتَوَارَثُ الْحُرُّ وَ الْعَبْدُ",
+          "en": "Chapter 41 – They shall not inherit, the free and the slave (each other)"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " لَا يَتَوَارَثُ الْحُرُّ وَ الْمَمْلُوكُ ."
+        ],
+        "text": "لَا يَتَوَارَثُ الْحُرُّ وَ الْمَمْلُوكُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Al Husayn Bin Muhammad, from Moala Bin Muhammad, from Al Hassan Bin Ali Al Washa, from Jameel Bin Darraj and Muhammad Bin Humran, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘They do not inherit (each other), the free and the slave’."
+          ],
+          "text": "Al Husayn Bin Muhammad, from Moala Bin Muhammad, from Al Hassan Bin Ali Al Washa, from Jameel Bin Darraj and Muhammad Bin Humran,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘They do not inherit (each other), the free and the slave’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. Al-Husayn from Muhammad has narrated from Mu‘alla’ ibn Muhammad from al-Hassan ibn Afi af-Washsha’ from Jamif ibn Darraj and Muhammad ibn Humran who has narrated the foiiowing: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘The free and slaves do not inherit each other.’” "
+          ],
+          "text": "1. Al-Husayn from Muhammad has narrated from Mu‘alla’ ibn Muhammad from al-Hassan ibn Afi af-Washsha’ from Jamif ibn Darraj and Muhammad ibn Humran who has narrated the foiiowing: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘The free and slaves do not inherit each other.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (23/223)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (23/223)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "الْحُسَيْنُ بْنُ مُحَمَّدٍ عَنْ مُعَلَّى بْنِ مُحَمَّدٍ عَنِ الْحَسَنِ بْنِ عَلِيٍّ الْوَشَّاءِ عَنْ جَمِيلِ بْنِ دَرَّاجٍ وَ مُحَمَّدِ بْنِ حُمْرَانَ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "الْحُسَيْنُ بْنُ مُحَمَّدٍ",
+            "path": "/people/narrators/20"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُعَلَّى بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/25"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحَسَنِ بْنِ عَلِيٍّ الْوَشَّاءِ",
+            "path": "/people/narrators/89"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "جَمِيلِ بْنِ دَرَّاجٍ",
+            "path": "/people/narrators/66"
+          },
+          {
+            "kind": "plain",
+            "text": " وَ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ حُمْرَانَ",
+            "path": "/people/narrators/239"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/20",
+          "/people/narrators/25",
+          "/people/narrators/89",
+          "/people/narrators/66",
+          "/people/narrators/239",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:5:3:55:3"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:2:43:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/2/43/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:2:43:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:2:43:2",
+        "parts": [
+          7,
+          2,
+          43,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 2,
+        "chapter": 43,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:2:43",
+        "titles": {
+          "ar": "باب أَنَّهُ لَا يَتَوَارَثُ الْحُرُّ وَ الْعَبْدُ",
+          "en": "Chapter 41 – They shall not inherit, the free and the slave (each other)"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " لَا يَتَوَارَثُ الْحُرُّ وَ الْمَمْلُوكُ ."
+        ],
+        "text": "لَا يَتَوَارَثُ الْحُرُّ وَ الْمَمْلُوكُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad and Ali Bin Ibrahim, from his father, altogether from Ibn Abu Najran, from Muhammad Bin Humran, ",
+            "Abu Abdullah<sup>asws</sup> has said: ‘They do not inherit (each other), the free and the slave’."
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad and Ali Bin Ibrahim, from his father, altogether from Ibn Abu Najran, from Muhammad Bin Humran,\n\nAbu Abdullah<sup>asws</sup> has said: ‘They do not inherit (each other), the free and the slave’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad and Afi ibn Ibrahim has narrated from his father all from ibn abu Najran from Muhammad ibn Humran who has narrated the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘The free and slaves do not inherit each other.’” "
+          ],
+          "text": "2. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad and Afi ibn Ibrahim has narrated from his father all from ibn abu Najran from Muhammad ibn Humran who has narrated the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘The free and slaves do not inherit each other.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مجهول  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (3/224)",
+          "label": "مجهول",
+          "text": "Allamah Baqir al-Majlisi: مجهول - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (3/224)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ وَ عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ جَمِيعاً عَنِ ابْنِ أَبِي نَجْرَانَ عَنْ مُحَمَّدِ بْنِ حُمْرَانَ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " وَ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " جَمِيعاً عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ أَبِي نَجْرَانَ",
+            "path": "/people/narrators/74"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ حُمْرَانَ",
+            "path": "/people/narrators/239"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/5",
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/74",
+          "/people/narrators/239",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:2:43:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/2/43/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:2:43:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:2:43:3",
+        "parts": [
+          7,
+          2,
+          43,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 2,
+        "chapter": 43,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:2:43",
+        "titles": {
+          "ar": "باب أَنَّهُ لَا يَتَوَارَثُ الْحُرُّ وَ الْعَبْدُ",
+          "en": "Chapter 41 – They shall not inherit, the free and the slave (each other)"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " لَا يَتَوَارَثُ الْحُرُّ وَ الْمَمْلُوكُ ."
+        ],
+        "text": "لَا يَتَوَارَثُ الْحُرُّ وَ الْمَمْلُوكُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Ali Bin Al Hakam, from Al A’ala Bin Razeyn, from Muhammad Bin Muslim, ",
+            "(It has been narrated) from one of the two (5<sup>th</sup> or 6<sup>th</sup> Imam<sup>asws</sup>) having said: ‘They do not inherit (each other), the free and the slave’."
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Ali Bin Al Hakam, from Al A’ala Bin Razeyn, from Muhammad Bin Muslim,\n\n(It has been narrated) from one of the two (5<sup>th</sup> or 6<sup>th</sup> Imam<sup>asws</sup>) having said: ‘They do not inherit (each other), the free and the slave’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "3. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from Afi ibn af-Hakam from al-‘Ala’ ibn Razin from Muhammad ibn Muslim who has narrated the following: “One of the two Imam, (abu Ja‘far or abu ‘Abd Allah), ‘Alayhim al-Salam, has said, ‘The free and slaves do not inherit each other.’” "
+          ],
+          "text": "3. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from Afi ibn af-Hakam from al-‘Ala’ ibn Razin from Muhammad ibn Muslim who has narrated the following: “One of the two Imam, (abu Ja‘far or abu ‘Abd Allah), ‘Alayhim al-Salam, has said, ‘The free and slaves do not inherit each other.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> صحيح    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (23/224)",
+          "label": "صحيح",
+          "text": "Allamah Baqir al-Majlisi: صحيح - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (23/224)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنْ عَلِيِّ بْنِ الْحَكَمِ عَنِ الْعَلَاءِ بْنِ رَزِينٍ عَنْ مُحَمَّدِ بْنِ مُسْلِمٍ عَنْ أَحَدِهِمَا ( عليهما السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيِّ بْنِ الْحَكَمِ",
+            "path": "/people/narrators/15"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْعَلَاءِ بْنِ رَزِينٍ",
+            "path": "/people/narrators/75"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ مُسْلِمٍ",
+            "path": "/people/narrators/16"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحَدِهِمَا ( عليهما السلام )",
+            "path": "/people/narrators/58"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/5",
+          "/people/narrators/15",
+          "/people/narrators/75",
+          "/people/narrators/16",
+          "/people/narrators/58"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:5:3:124:4",
+          "/books/al-kafi:5:3:57:2",
+          "/books/al-kafi:5:3:64:3",
+          "/books/al-kafi:5:3:74:8",
+          "/books/al-kafi:5:3:77:1",
+          "/books/al-kafi:5:3:78:3",
+          "/books/al-kafi:6:2:21:7",
+          "/books/al-kafi:6:2:23:7",
+          "/books/al-kafi:6:2:43:1",
+          "/books/al-kafi:6:2:46:6",
+          "/books/al-kafi:6:2:47:1",
+          "/books/al-kafi:7:3:13:2",
+          "/books/al-kafi:7:3:45:6",
+          "/books/tahdhib-al-ahkam:7:24:21"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:2:43:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/2/43/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:2:43:4",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:2:43:4",
+        "parts": [
+          7,
+          2,
+          43,
+          4
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 2,
+        "chapter": 43,
+        "hadith": 4
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:2:43",
+        "titles": {
+          "ar": "باب أَنَّهُ لَا يَتَوَارَثُ الْحُرُّ وَ الْعَبْدُ",
+          "en": "Chapter 41 – They shall not inherit, the free and the slave (each other)"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " الْعَبْدُ لَا يَرِثُ وَ الطَّلِيقُ لَا يَرِثُ ."
+        ],
+        "text": "الْعَبْدُ لَا يَرِثُ وَ الطَّلِيقُ لَا يَرِثُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Humeyd Bin Ziyad, from Al Hassan Bin Sama’at, from Ja’far Bin Sama’at, from Al Hassan Bin Huzeyfa, from Jameel, from Al Fuzayl Bin Yasar, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The slave does not inherit and the unshackled does not inherit’."
+          ],
+          "text": "Humeyd Bin Ziyad, from Al Hassan Bin Sama’at, from Ja’far Bin Sama’at, from Al Hassan Bin Huzeyfa, from Jameel, from Al Fuzayl Bin Yasar,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The slave does not inherit and the unshackled does not inherit’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "4. Humayd ibn Ziyad has narrated from al-Hassan ibn Muhammad ibn Sama‘ah, from Ja‘far ibn Sama‘ah from al-Hassan ibn Hudhayfah from Jamil from al-Fudayf ibn Yasar who has narrated the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘A slave does not inherit and a free person does not inherit from a slave.’” (It is because a slave does not own anything.) "
+          ],
+          "text": "4. Humayd ibn Ziyad has narrated from al-Hassan ibn Muhammad ibn Sama‘ah, from Ja‘far ibn Sama‘ah from al-Hassan ibn Hudhayfah from Jamil from al-Fudayf ibn Yasar who has narrated the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘A slave does not inherit and a free person does not inherit from a slave.’” (It is because a slave does not own anything.)"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> سكت عنه  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (3/224)",
+          "label": "سكت عنه",
+          "text": "Allamah Baqir al-Majlisi: سكت عنه - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (3/224)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "حُمَيْدُ بْنُ زِيَادٍ عَنِ الْحَسَنِ بْنِ مُحَمَّدِ بْنِ سَمَاعَةَ عَنْ جَعْفَرِ بْنِ سَمَاعَةَ عَنِ الْحَسَنِ بْنِ حُذَيْفَةَ عَنْ جَمِيلٍ عَنِ الْفُضَيْلِ بْنِ يَسَارٍ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "حُمَيْدُ بْنُ زِيَادٍ",
+            "path": "/people/narrators/49"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحَسَنِ بْنِ مُحَمَّدِ بْنِ سَمَاعَةَ",
+            "path": "/people/narrators/94"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "جَعْفَرِ بْنِ سَمَاعَةَ",
+            "path": "/people/narrators/285"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحَسَنِ بْنِ حُذَيْفَةَ",
+            "path": "/people/narrators/1332"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "جَمِيلٍ",
+            "path": "/people/narrators/95"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْفُضَيْلِ بْنِ يَسَارٍ",
+            "path": "/people/narrators/155"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/49",
+          "/people/narrators/94",
+          "/people/narrators/285",
+          "/people/narrators/1332",
+          "/people/narrators/95",
+          "/people/narrators/155",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:2:43:4",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/2/43/4.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

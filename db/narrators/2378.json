@@ -1,0 +1,54 @@
+{
+  "id": 2378,
+  "type": "narrator",
+  "path": "/people/narrators/2378",
+  "titles": {
+    "ar": "أَخِيهِ عَلِيِّ بْنِ يَقْطِينٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:7:22:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2378-194": {
+      "narrator_ids": [
+        2378,
+        194
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:22:1"
+      ]
+    },
+    "6-8-261-963-2378-194": {
+      "narrator_ids": [
+        6,
+        8,
+        261,
+        963,
+        2378,
+        194
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:22:1"
+      ]
+    },
+    "963-2378": {
+      "narrator_ids": [
+        963,
+        2378
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:22:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2378",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2378.json"
+  }
+}

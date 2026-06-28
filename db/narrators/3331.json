@@ -1,0 +1,43 @@
+{
+  "id": 3331,
+  "type": "narrator",
+  "path": "/people/narrators/3331",
+  "titles": {
+    "ar": "سَعِيدِ بْنِ يَسَارٍ بَيَّاعِ السَّابِرِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:2:15:9"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-22-85-3331": {
+      "narrator_ids": [
+        11,
+        22,
+        85,
+        3331
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:15:9"
+      ]
+    },
+    "85-3331": {
+      "narrator_ids": [
+        85,
+        3331
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:15:9"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3331",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3331.json"
+  }
+}

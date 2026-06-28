@@ -1,0 +1,54 @@
+{
+  "id": 3253,
+  "type": "narrator",
+  "path": "/people/narrators/3253",
+  "titles": {
+    "ar": "رَوْحٍ ابْنِ أُخْتِ الْمُعَلَّى"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:66:14"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "19-24-22-450-3253-669": {
+      "narrator_ids": [
+        19,
+        24,
+        22,
+        450,
+        3253,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:66:14"
+      ]
+    },
+    "3253-669": {
+      "narrator_ids": [
+        3253,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:66:14"
+      ]
+    },
+    "450-3253": {
+      "narrator_ids": [
+        450,
+        3253
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:66:14"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3253",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3253.json"
+  }
+}

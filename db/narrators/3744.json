@@ -1,0 +1,86 @@
+{
+  "id": 3744,
+  "type": "narrator",
+  "path": "/people/narrators/3744",
+  "titles": {
+    "ar": "عَلِيِّ بْنِ الْحَسَنِ بْنِ حَمَّادٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:2:15:3",
+    "/books/tahdhib-al-ahkam:9:21:1"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "183-3744": {
+      "narrator_ids": [
+        183,
+        3744
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:2:15:3"
+      ]
+    },
+    "3744-1687": {
+      "narrator_ids": [
+        3744,
+        1687
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:21:1"
+      ]
+    },
+    "3744-1903": {
+      "narrator_ids": [
+        3744,
+        1903
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:2:15:3"
+      ]
+    },
+    "49-183-3744-1903-1687-14-669": {
+      "narrator_ids": [
+        49,
+        183,
+        3744,
+        1903,
+        1687,
+        14,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:2:15:3"
+      ]
+    },
+    "94-3744": {
+      "narrator_ids": [
+        94,
+        3744
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:21:1"
+      ]
+    },
+    "94-3744-1687-14-669": {
+      "narrator_ids": [
+        94,
+        3744,
+        1687,
+        14,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:21:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3744",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3744.json"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": 3562,
+  "type": "narrator",
+  "path": "/people/narrators/3562",
+  "titles": {
+    "ar": "عَبْدِ اللَّهِ بْنِ الْحَكَمِ الْأَرْمَنِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:81:17"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3562-3550": {
+      "narrator_ids": [
+        3562,
+        3550
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:81:17"
+      ]
+    },
+    "36-275-4233-3562-3550": {
+      "narrator_ids": [
+        36,
+        275,
+        4233,
+        3562,
+        3550
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:81:17"
+      ]
+    },
+    "4233-3562": {
+      "narrator_ids": [
+        4233,
+        3562
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:81:17"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3562",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3562.json"
+  }
+}

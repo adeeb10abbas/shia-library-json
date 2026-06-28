@@ -1,0 +1,57 @@
+{
+  "id": 3068,
+  "type": "narrator",
+  "path": "/people/narrators/3068",
+  "titles": {
+    "ar": "حُسَيْنِ بْنِ بَكْرٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:4:103:3",
+    "/books/tahdhib-al-ahkam:3:26:12"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "11-129-3068-3496-669": {
+      "narrator_ids": [
+        11,
+        129,
+        3068,
+        3496,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:103:3",
+        "/books/tahdhib-al-ahkam:3:26:12"
+      ]
+    },
+    "129-3068": {
+      "narrator_ids": [
+        129,
+        3068
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:103:3",
+        "/books/tahdhib-al-ahkam:3:26:12"
+      ]
+    },
+    "3068-3496": {
+      "narrator_ids": [
+        3068,
+        3496
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:103:3",
+        "/books/tahdhib-al-ahkam:3:26:12"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3068",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3068.json"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": 3781,
+  "type": "narrator",
+  "path": "/people/narrators/3781",
+  "titles": {
+    "ar": "عَلِيِّ بْنِ شِيرَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:3:73:8"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3781-240": {
+      "narrator_ids": [
+        3781,
+        240
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:73:8"
+      ]
+    },
+    "50-3781": {
+      "narrator_ids": [
+        50,
+        3781
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:73:8"
+      ]
+    },
+    "50-3781-240-3058-47": {
+      "narrator_ids": [
+        50,
+        3781,
+        240,
+        3058,
+        47
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:73:8"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3781",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3781.json"
+  }
+}

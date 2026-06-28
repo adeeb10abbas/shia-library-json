@@ -1,0 +1,53 @@
+{
+  "id": 4385,
+  "type": "narrator",
+  "path": "/people/narrators/4385",
+  "titles": {
+    "ar": "مُعَاوِيَةَ بْنِ عَمَّارٍ الدُّهْنِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:8:10"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "4385-669": {
+      "narrator_ids": [
+        4385,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:8:10"
+      ]
+    },
+    "6-8-719-4385-669": {
+      "narrator_ids": [
+        6,
+        8,
+        719,
+        4385,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:8:10"
+      ]
+    },
+    "719-4385": {
+      "narrator_ids": [
+        719,
+        4385
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:8:10"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4385",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4385.json"
+  }
+}

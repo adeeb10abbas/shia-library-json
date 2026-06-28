@@ -1,0 +1,70 @@
+{
+  "id": 2042,
+  "type": "narrator",
+  "path": "/people/narrators/2042",
+  "titles": {
+    "ar": "أَبِي بَكْرِ بْنِ عِيسَى بْنِ أَحْمَدَ الْعَلَوِيِّ"
+  },
+  "versePaths": [
+    "/books/al-istibsar:1:270:3",
+    "/books/al-kafi:3:3:53:1",
+    "/books/tahdhib-al-ahkam:3:32:40"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "4-29-4449-2042": {
+      "narrator_ids": [
+        4,
+        29,
+        4449,
+        2042
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:53:1"
+      ]
+    },
+    "4-90-4449-2042": {
+      "narrator_ids": [
+        4,
+        90,
+        4449,
+        2042
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:270:3"
+      ]
+    },
+    "4449-2042": {
+      "narrator_ids": [
+        4449,
+        2042
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:270:3",
+        "/books/al-kafi:3:3:53:1",
+        "/books/tahdhib-al-ahkam:3:32:40"
+      ]
+    },
+    "952-4-29-4449-2042": {
+      "narrator_ids": [
+        952,
+        4,
+        29,
+        4449,
+        2042
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:3:32:40"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2042",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2042.json"
+  }
+}

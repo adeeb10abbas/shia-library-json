@@ -1,0 +1,54 @@
+{
+  "id": 3605,
+  "type": "narrator",
+  "path": "/people/narrators/3605",
+  "titles": {
+    "ar": "عَبْدِ اللَّهِ بْنِ مُحَمَّدٍ الْخَشَّابِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:126:7"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3605-107": {
+      "narrator_ids": [
+        3605,
+        107
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:126:7"
+      ]
+    },
+    "4-3605": {
+      "narrator_ids": [
+        4,
+        3605
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:126:7"
+      ]
+    },
+    "4-3605-107-372-141-18": {
+      "narrator_ids": [
+        4,
+        3605,
+        107,
+        372,
+        141,
+        18
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:126:7"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3605",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3605.json"
+  }
+}

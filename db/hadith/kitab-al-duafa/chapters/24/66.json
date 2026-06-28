@@ -1,0 +1,103 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "kitab-al-duafa",
+  "chapterPath": "/books/kitab-al-duafa:24:66",
+  "chapter": {
+    "path": "/books/kitab-al-duafa:24:66",
+    "titles": {
+      "en": "Muḥammad b. Aḥmad b. Quḍāʿa b. Ṣafwān b. Mihrān, Abū ʿAbdillāh, al-Ṣafwāni"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "kitab-al-duafa:24:66:1",
+      "type": "hadith",
+      "book": {
+        "slug": "kitab-al-duafa",
+        "titles": {
+          "ar": "كتاب الضعفاء",
+          "en": "Kitab al-Du'afa'"
+        },
+        "author": {
+          "en": "Ahmad ibn al-Husayn al-Ghada'iri"
+        }
+      },
+      "path": {
+        "source": "/books/kitab-al-duafa:24:66:1",
+        "parts": [
+          24,
+          66,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 24,
+        "book": 66,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/kitab-al-duafa:24:66",
+        "titles": {
+          "en": "Muḥammad b. Aḥmad b. Quḍāʿa b. Ṣafwān b. Mihrān, Abū ʿAbdillāh, al-Ṣafwāni"
+        }
+      },
+      "arabic": {
+        "segments": [
+          "ه مناكير مكذوبة عليه. وأظن الكذب من قبل أبيه."
+        ],
+        "text": "ه مناكير مكذوبة عليه. وأظن الكذب من قبل أبيه."
+      },
+      "translations": {
+        "en.tashayyu": {
+          "segments": [
+            "66 – Muḥammad b. Aḥmad b. Quḍāʿa b. Ṣafwān b. Mihrān, Abū ʿAbdillāh, al-Ṣafwāni.  I have not disclaimed anything from him except for what he narrates from his father from his grandfather from al-Sadiq  عليه السلام , for it is something unknown and I have seen unrecognized (matters) in it, untrue against/upon him.  And I suspect that the lying was by his father."
+          ],
+          "text": "66 – Muḥammad b. Aḥmad b. Quḍāʿa b. Ṣafwān b. Mihrān, Abū ʿAbdillāh, al-Ṣafwāni.  I have not disclaimed anything from him except for what he narrates from his father from his grandfather from al-Sadiq  عليه السلام , for it is something unknown and I have seen unrecognized (matters) in it, untrue against/upon him.  And I suspect that the lying was by his father."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "66 - محمد بن أحمد بن قضاعة بن صفوان بن مهران، أبو عبد الله، الصفواني. ما أنكرت منه شيئا إلا ما يرويه [عن أبيه] عن جده، عن الصادق (عليه السلام)، فإنه شيء غير معروف، وقد رأيت في",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "66 - "
+          },
+          {
+            "kind": "plain",
+            "text": "محمد بن أحمد بن قضاعة بن صفوان بن مهران، أبو عبد الله، الصفواني. ما أنكرت منه شيئا إلا ما يرويه [عن أبيه]"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "جده،",
+            "path": "/people/narrators/253"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "الصادق (عليه السلام)، فإنه شيء غير معروف، وقد رأيت في"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/253"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/kitab-al-duafa:24:66:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/kitab-al-duafa/24/66/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/17/24/66/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

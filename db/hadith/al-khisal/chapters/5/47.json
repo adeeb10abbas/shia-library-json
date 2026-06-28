@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:5:47",
+  "chapter": {
+    "path": "/books/al-khisal:5:47",
+    "titles": {
+      "en": "Four Characteristics which Cause Grief"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:5:47:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:5:47:1",
+        "parts": [
+          5,
+          47,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 47,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:5:47",
+        "titles": {
+          "en": "Four Characteristics which Cause Grief"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا محمد بن يحيى العطار، وأحمد بن إدريس جميعا، عن محمد بن أحمد بن يحيى بن عمران الاشعري بإسناده يرفعه إلى أبي عبد الله عليه السلام قال: اغتم أمير المؤمنين عليه السلام يوما فقال: من أين اتيت فما أعلم أني جلست على عتبة باب، ولا شققت بين غنم، ولا لبست سراويلي من قيام، ولا مسحت يدي ووجهي بذيلي"
+        ],
+        "text": ": حدثنا محمد بن يحيى العطار، وأحمد بن إدريس جميعا، عن محمد بن أحمد بن يحيى بن عمران الاشعري بإسناده يرفعه إلى أبي عبد الله عليه السلام قال: اغتم أمير المؤمنين عليه السلام يوما فقال: من أين اتيت فما أعلم أني جلست على عتبة باب، ولا شققت بين غنم، ولا لبست سراويلي من قيام، ولا مسحت يدي ووجهي بذيلي"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "4-59 Muhammad ibn al-Hassan - may God be pleased with him - narrated that Muhammad ibn Yahya al-Attar and Ahmad ibn Idris quoted Muhammad ibn Ahmad ibn Yahya ibn Imran al-Ash’ari who linked it up through a chain of narrators to Aba Abdullah as-Sadiq (MGB), “One day the Commander of the Faithful (MGB) was grieved and said, ‘How come I am sad! I do not remember having sat at the doorstop; having gone in the middle of the herd; having worn my pajamas while standing up; and having cleaned my hands and face with my underwear.’ ”"
+          ],
+          "text": "4-59 Muhammad ibn al-Hassan - may God be pleased with him - narrated that Muhammad ibn Yahya al-Attar and Ahmad ibn Idris quoted Muhammad ibn Ahmad ibn Yahya ibn Imran al-Ash’ari who linked it up through a chain of narrators to Aba Abdullah as-Sadiq (MGB), “One day the Commander of the Faithful (MGB) was grieved and said, ‘How come I am sad! I do not remember having sat at the doorstop; having gone in the middle of the herd; having worn my pajamas while standing up; and having cleaned my hands and face with my underwear.’ ”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "4-59 حدثنا محمد بن الحسن رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "4-59 حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "محمد بن الحسن رضي الله عنه قال",
+            "path": "/people/narrators/90"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/90"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:5:47:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/5/47/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/5/47/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

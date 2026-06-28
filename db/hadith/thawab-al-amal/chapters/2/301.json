@@ -1,0 +1,138 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "thawab-al-amal",
+  "chapterPath": "/books/thawab-al-amal:2:301",
+  "chapter": {
+    "path": "/books/thawab-al-amal:2:301",
+    "titles": {
+      "en": "Reward of protecting the honor of a Muslim brother"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "thawab-al-amal:2:301:1",
+      "type": "hadith",
+      "book": {
+        "slug": "thawab-al-amal",
+        "titles": {
+          "ar": "ثواب الأعمال وعقاب الأعمال",
+          "en": "Thawab al-A'mal wa 'Iqab al-A'mal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/thawab-al-amal:2:301:1",
+        "parts": [
+          2,
+          301,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 301,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/thawab-al-amal:2:301",
+        "titles": {
+          "en": "Reward of protecting the honor of a Muslim brother"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ رَسُولُ اللَّهِ ص مَنْ رَدَّ عَنْ عِرْضِ أَخِیهِ الْمُسْلِمِ وَجَبَتْ لَهُ الْجَنَّهُ الْبَتَّهَ."
+        ],
+        "text": "قَالَ رَسُولُ اللَّهِ ص مَنْ رَدَّ عَنْ عِرْضِ أَخِیهِ الْمُسْلِمِ وَجَبَتْ لَهُ الْجَنَّهُ الْبَتَّهَ."
+      },
+      "translations": {
+        "en.sayed-athar-husain-rizvi-&-sayed-maqsood-athar": {
+          "segments": [
+            "1.  Imam  Ja’far  Sadiq  (a.s.)  narrates  that  the  Holy  Prophet (s.a.w.s.) said, “Paradise would certainly be made obligatory for  one who protects the honor of a Muslim brother.”"
+          ],
+          "text": "1.  Imam  Ja’far  Sadiq  (a.s.)  narrates  that  the  Holy  Prophet (s.a.w.s.) said, “Paradise would certainly be made obligatory for  one who protects the honor of a Muslim brother.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "أَبِی ره عَنْ عَلِیِّ بْنِ إِبْرَاهِیمَ عَنْ أَبِیهِ عَنِ الْحُسَیْنِ بْنِ یَزِیدَ النَّوْفَلِیِّ عَنْ إِسْمَاعِیلَ بْنِ أَبِی زِیَادٍ السَّکُونِیِّ عَنْ أَبِی عَبْدِ اللَّهِ ع قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "أَبِی ره",
+            "path": "/people/narrators/613"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِیِّ بْنِ إِبْرَاهِیمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِیهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحُسَیْنِ بْنِ یَزِیدَ النَّوْفَلِیِّ",
+            "path": "/people/narrators/32"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "إِسْمَاعِیلَ بْنِ أَبِی زِیَادٍ السَّکُونِیِّ",
+            "path": "/people/narrators/1317"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِی عَبْدِ اللَّهِ ع",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613",
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/32",
+          "/people/narrators/1317",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/thawab-al-amal:2:301:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/thawab-al-amal/2/301/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/23/2/301/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

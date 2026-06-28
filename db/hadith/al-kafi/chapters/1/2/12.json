@@ -1,0 +1,408 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:1:2:12",
+  "chapter": {
+    "path": "/books/al-kafi:1:2:12",
+    "titles": {
+      "ar": "بَابُ مَنْ عَمِلَ بِغَيْرِ عِلْمٍ",
+      "en": "Chapter 12 – The one who acts without knowledge"
+    }
+  },
+  "count": 3,
+  "records": [
+    {
+      "id": "al-kafi:1:2:12:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:1:2:12:1",
+        "parts": [
+          1,
+          2,
+          12,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 1,
+        "book": 2,
+        "chapter": 12,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:1:2:12",
+        "titles": {
+          "ar": "بَابُ مَنْ عَمِلَ بِغَيْرِ عِلْمٍ",
+          "en": "Chapter 12 – The one who acts without knowledge"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَمِعْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) يَقُولُ الْعَامِلُ عَلَى غَيْرِ بَصِيرَةٍ كَالسَّائِرِ عَلَى غَيْرِ الطَّرِيقِ لَا يَزِيدُهُ سُرْعَةُ السَّيْرِ إِلَّا بُعْداً ."
+        ],
+        "text": "سَمِعْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) يَقُولُ الْعَامِلُ عَلَى غَيْرِ بَصِيرَةٍ كَالسَّائِرِ عَلَى غَيْرِ الطَّرِيقِ لَا يَزِيدُهُ سُرْعَةُ السَّيْرِ إِلَّا بُعْداً ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Ahmad Bin Muhammad Bin Khalid, from his father, from Muhammad Bin Sinan, from Talha Bin Zayd who said, ",
+            "‘I heard Abu Abdullah<sup>asws</sup> saying: ‘The one who acts upon without an insight is like the traveller upon another road. The quickness of the travel would not increase him except for the distance (from his destination)’."
+          ],
+          "text": "A number of our companions, from Ahmad Bin Muhammad Bin Khalid, from his father, from Muhammad Bin Sinan, from Talha Bin Zayd who said,\n\n‘I heard Abu Abdullah<sup>asws</sup> saying: ‘The one who acts upon without an insight is like the traveller upon another road. The quickness of the travel would not increase him except for the distance (from his destination)’."
+        },
+        "en.sarwar": {
+          "segments": [
+            " 1. A number of our people have narrated from Ahmad ibn Muhammad ibn Khalid from his father from Muhammad ibn Sinan from Talha ibn Zayd who has said the following. “(Imam) abu ‘Abdallah (a.s.) has said, ‘Working without understanding and insight is like travelling in the wrong direction that only takes one farther away from the destination.’”"
+          ],
+          "text": "1. A number of our people have narrated from Ahmad ibn Muhammad ibn Khalid from his father from Muhammad ibn Sinan from Talha ibn Zayd who has said the following. “(Imam) abu ‘Abdallah (a.s.) has said, ‘Working without understanding and insight is like travelling in the wrong direction that only takes one farther away from the destination.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (140/ 1)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (140/ 1)"
+        },
+        {
+          "raw": "Shaykh Baqir al-Behbudi: <span>ضعيف</span> - Sahih al-Kafi",
+          "label": "ضعيف",
+          "text": "Shaykh Baqir al-Behbudi: ضعيف - Sahih al-Kafi"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ خَالِدٍ عَنْ أَبِيهِ عَنْ مُحَمَّدِ بْنِ سِنَانٍ عَنْ طَلْحَةَ بْنِ زَيْدٍ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدِ بْنِ خَالِدٍ",
+            "path": "/people/narrators/12"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ سِنَانٍ",
+            "path": "/people/narrators/42"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "طَلْحَةَ بْنِ زَيْدٍ",
+            "path": "/people/narrators/173"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/12",
+          "/people/narrators/2",
+          "/people/narrators/42",
+          "/people/narrators/173"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:1:2:12:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/1/2/12/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:1:2:12:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:1:2:12:2",
+        "parts": [
+          1,
+          2,
+          12,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 1,
+        "book": 2,
+        "chapter": 12,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:1:2:12",
+        "titles": {
+          "ar": "بَابُ مَنْ عَمِلَ بِغَيْرِ عِلْمٍ",
+          "en": "Chapter 12 – The one who acts without knowledge"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَمِعْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) يَقُولُ لَا يَقْبَلُ اللَّهُ عَمَلًا إِلَّا بِمَعْرِفَةٍ وَ لَا مَعْرِفَةَ إِلَّا بِعَمَلٍ فَمَنْ عَرَفَ دَلَّتْهُ الْمَعْرِفَةُ عَلَى الْعَمَلِ وَ مَنْ لَمْ يَعْمَلْ فَلَا مَعْرِفَةَ لَهُ أَلَا إِنَّ الْإِيمَانَ بَعْضُهُ مِنْ بَعْضٍ ."
+        ],
+        "text": "سَمِعْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) يَقُولُ لَا يَقْبَلُ اللَّهُ عَمَلًا إِلَّا بِمَعْرِفَةٍ وَ لَا مَعْرِفَةَ إِلَّا بِعَمَلٍ فَمَنْ عَرَفَ دَلَّتْهُ الْمَعْرِفَةُ عَلَى الْعَمَلِ وَ مَنْ لَمْ يَعْمَلْ فَلَا مَعْرِفَةَ لَهُ أَلَا إِنَّ الْإِيمَانَ بَعْضُهُ مِنْ بَعْضٍ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad Bin Isa, from Muhammad Bin Sinan, from Ibn Muskan, fromHusayn Al Sayqal who said, ",
+            "‘I heard Abu Abdullah<sup>asws</sup> saying: ‘Allah<sup>azwj</sup> does not Accept a deed except with the understanding, nor the understanding except with the deed. So the one who understands that, the understanding would indicate him upon the (performance of the) deed, and the one who does not act, so there is no understanding for him. Indeed! The <span class=\"iTxt\">Eman</span>, part of it is from the other part’."
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad Bin Isa, from Muhammad Bin Sinan, from Ibn Muskan, fromHusayn Al Sayqal who said,\n\n‘I heard Abu Abdullah<sup>asws</sup> saying: ‘Allah<sup>azwj</sup> does not Accept a deed except with the understanding, nor the understanding except with the deed. So the one who understands that, the understanding would indicate him upon the (performance of the) deed, and the one who does not act, so there is no understanding for him. Indeed! The <span class=\"iTxt\">Eman</span>, part of it is from the other part’."
+        },
+        "en.sarwar": {
+          "segments": [
+            " 2. Muhammad ibn Yahya from Ahmad ibn Muhammad ibn ‘Isa from Muhammad ibn Sinan from ibn Muskan from Hassan al-Sayqal who has said the following. “(Imam) abu ‘Abdallah (a.s.) who has said, “Allah does not accept a deed without good understanding and proper understanding does not come into being without work. One who achieves proper understanding it will guide him to good deeds and one who does not work will not have any understanding. Is it not a fact that parts of faith comes from other parts?”"
+          ],
+          "text": "2. Muhammad ibn Yahya from Ahmad ibn Muhammad ibn ‘Isa from Muhammad ibn Sinan from ibn Muskan from Hassan al-Sayqal who has said the following. “(Imam) abu ‘Abdallah (a.s.) who has said, “Allah does not accept a deed without good understanding and proper understanding does not come into being without work. One who achieves proper understanding it will guide him to good deeds and one who does not work will not have any understanding. Is it not a fact that parts of faith comes from other parts?”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (141/ 1)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (141/ 1)"
+        },
+        {
+          "raw": "Shaykh Baqir al-Behbudi: <span>ضعيف</span> - Sahih al-Kafi",
+          "label": "ضعيف",
+          "text": "Shaykh Baqir al-Behbudi: ضعيف - Sahih al-Kafi"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى عَنْ مُحَمَّدِ بْنِ سِنَانٍ عَنِ ابْنِ مُسْكَانَ عَنْ حُسَيْنٍ الصَّيْقَلِ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى",
+            "path": "/people/narrators/13"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ سِنَانٍ",
+            "path": "/people/narrators/42"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ مُسْكَانَ",
+            "path": "/people/narrators/51"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "حُسَيْنٍ الصَّيْقَلِ",
+            "path": "/people/narrators/3061"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/13",
+          "/people/narrators/42",
+          "/people/narrators/51",
+          "/people/narrators/3061"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:1:2:12:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/1/2/12/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:1:2:12:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:1:2:12:3",
+        "parts": [
+          1,
+          2,
+          12,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 1,
+        "book": 2,
+        "chapter": 12,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:1:2:12",
+        "titles": {
+          "ar": "بَابُ مَنْ عَمِلَ بِغَيْرِ عِلْمٍ",
+          "en": "Chapter 12 – The one who acts without knowledge"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) مَنْ عَمِلَ عَلَى غَيْرِ عِلْمٍ كَانَ مَا يُفْسِدُ أَكْثَرَ مِمَّا يُصْلِحُ ."
+        ],
+        "text": "قَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) مَنْ عَمِلَ عَلَى غَيْرِ عِلْمٍ كَانَ مَا يُفْسِدُ أَكْثَرَ مِمَّا يُصْلِحُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "From him, from Ahmad Bin Muhammad, from Ibn Fazzal, from the one who reported it, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup> said: ‘The one who acts upon without knowledge, it would be so that he would spoil more than what he would correct’."
+          ],
+          "text": "From him, from Ahmad Bin Muhammad, from Ibn Fazzal, from the one who reported it,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup> said: ‘The one who acts upon without knowledge, it would be so that he would spoil more than what he would correct’."
+        },
+        "en.sarwar": {
+          "segments": [
+            " 3. It is narrated from him from Ahmad ibn Muhammad from ibn Faddal from the one he narrated from abu ‘Abdallah (a.s.) who has said the following. “Imam abu ‘Abdallah (a.s.) has said that the Holy Prophet said, ‘Those who work without knowledge they destroy more than what they gain.’”"
+          ],
+          "text": "3. It is narrated from him from Ahmad ibn Muhammad from ibn Faddal from the one he narrated from abu ‘Abdallah (a.s.) who has said the following. “Imam abu ‘Abdallah (a.s.) has said that the Holy Prophet said, ‘Those who work without knowledge they destroy more than what they gain.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مرسل  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (141/ 1)",
+          "label": "مرسل",
+          "text": "Allamah Baqir al-Majlisi: مرسل - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (141/ 1)"
+        },
+        {
+          "raw": "Shaykh Baqir al-Behbudi: <span>ضعيف</span> - Sahih al-Kafi",
+          "label": "ضعيف",
+          "text": "Shaykh Baqir al-Behbudi: ضعيف - Sahih al-Kafi"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَنْهُ عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنِ ابْنِ فَضَّالٍ عَمَّنْ رَوَاهُ عَنْ أَبِي عَبْدِ اللَّهِ عَلَيْهِ السَّلَامُ قَالَ",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "عَنْهُ عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ فَضَّالٍ",
+            "path": "/people/narrators/22"
+          },
+          {
+            "kind": "plain",
+            "text": " عَمَّنْ رَوَاهُ عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " عَلَيْهِ السَّلَامُ قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/5",
+          "/people/narrators/22",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/tahdhib-al-ahkam:7:39:10"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:1:2:12:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/1/2/12/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

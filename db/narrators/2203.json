@@ -1,0 +1,54 @@
+{
+  "id": 2203,
+  "type": "narrator",
+  "path": "/people/narrators/2203",
+  "titles": {
+    "ar": "أَبِي مُحَمَّدٍ الْجَوْهَرِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:103:7"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2203-384": {
+      "narrator_ids": [
+        2203,
+        384
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:103:7"
+      ]
+    },
+    "6-12-544-68-2203-384": {
+      "narrator_ids": [
+        6,
+        12,
+        544,
+        68,
+        2203,
+        384
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:103:7"
+      ]
+    },
+    "68-2203": {
+      "narrator_ids": [
+        68,
+        2203
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:103:7"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2203",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2203.json"
+  }
+}

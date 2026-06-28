@@ -1,0 +1,86 @@
+{
+  "id": 1460,
+  "type": "narrator",
+  "path": "/people/narrators/1460",
+  "titles": {
+    "ar": "دَاوُدَ الْحَذَّاءِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:107:4",
+    "/books/al-kafi:6:8:18:7"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "11-67-1460-1189-1066-605": {
+      "narrator_ids": [
+        11,
+        67,
+        1460,
+        1189,
+        1066,
+        605
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:107:4"
+      ]
+    },
+    "1460-1189": {
+      "narrator_ids": [
+        1460,
+        1189
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:107:4"
+      ]
+    },
+    "1460-3625": {
+      "narrator_ids": [
+        1460,
+        3625
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:18:7"
+      ]
+    },
+    "4-59-27-487-1460-3625": {
+      "narrator_ids": [
+        4,
+        59,
+        27,
+        487,
+        1460,
+        3625
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:18:7"
+      ]
+    },
+    "487-1460": {
+      "narrator_ids": [
+        487,
+        1460
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:18:7"
+      ]
+    },
+    "67-1460": {
+      "narrator_ids": [
+        67,
+        1460
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:107:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1460",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1460.json"
+  }
+}

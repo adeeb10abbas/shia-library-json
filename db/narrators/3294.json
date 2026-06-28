@@ -1,0 +1,32 @@
+{
+  "id": 3294,
+  "type": "narrator",
+  "path": "/people/narrators/3294",
+  "titles": {
+    "ar": "زَيْدِ بْنِ الْجُهَيْمِ الْهِلَالِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:3:63:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-3294": {
+      "narrator_ids": [
+        11,
+        3294
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:63:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3294",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3294.json"
+  }
+}

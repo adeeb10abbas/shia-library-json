@@ -1,0 +1,122 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:5:78",
+  "chapter": {
+    "path": "/books/al-khisal:5:78",
+    "titles": {
+      "en": "Four Things Will Happen When Four Things Spread"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:5:78:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:5:78:1",
+        "parts": [
+          5,
+          78,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 78,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:5:78",
+        "titles": {
+          "en": "Four Things Will Happen When Four Things Spread"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": إذا فشت أربعة ظهرت أربعة: إذا فشا الزنا ظهرت الزلازل، وإذا أمسكت الزكاة هلكت الماشية، وإذا جار الحاكم في القضاء أمسكت القطر من السماء، وإذا خفرت الذمة نصر المشركون على المسلمين"
+        ],
+        "text": ": إذا فشت أربعة ظهرت أربعة: إذا فشا الزنا ظهرت الزلازل، وإذا أمسكت الزكاة هلكت الماشية، وإذا جار الحاكم في القضاء أمسكت القطر من السماء، وإذا خفرت الذمة نصر المشركون على المسلمين"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "4-95 Ja’far ibn Ali ibn al-Hassan al-Kufy - may God be pleased with him - narrated that his grandfather ibn Ali ibn Abdullah ibn al-Muqayrih al-Kufy narrated that his grandfather Al-Hassan ibn Ali ibn Abdullah ibn al-Muqayrih quoted Ali ibn Hisan, on the authority of his uncle Abdul Rahman ibn Kasir al-Hashemi that Aba Abdullah as-Sadiq (MGB) said, “When there is a lot of adultery, there will be an earthquake. When a lot of people do not pay the alms-tax, quadrupeds will die. When the judges issue unjust decrees, there will be no rain. When the safety of the unbelievers who are under the protection of Islam is denied, unbelievers will defeat the Muslims.”"
+          ],
+          "text": "4-95 Ja’far ibn Ali ibn al-Hassan al-Kufy - may God be pleased with him - narrated that his grandfather ibn Ali ibn Abdullah ibn al-Muqayrih al-Kufy narrated that his grandfather Al-Hassan ibn Ali ibn Abdullah ibn al-Muqayrih quoted Ali ibn Hisan, on the authority of his uncle Abdul Rahman ibn Kasir al-Hashemi that Aba Abdullah as-Sadiq (MGB) said, “When there is a lot of adultery, there will be an earthquake. When a lot of people do not pay the alms-tax, quadrupeds will die. When the judges issue unjust decrees, there will be no rain. When the safety of the unbelievers who are under the protection of Islam is denied, unbelievers will defeat the Muslims.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "4-95 حدثنا جعفر بن علي بن الحسن الكوفي رضي الله عنه، عن جده الحسن ابن علي بن عبد الله بن المغيرة، عن علي بن حسان، عن عمه عبدالرحمن بن كثير الهاشمي، عن أبي عبد الله عليه السلام قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "4-95 حدثنا "
+          },
+          {
+            "kind": "plain",
+            "text": "جعفر بن علي بن الحسن الكوفي رضي الله عنه،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "جده الحسن ابن علي بن عبد الله بن المغيرة،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "علي بن حسان،",
+            "path": "/people/narrators/145"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "عمه عبدالرحمن بن كثير الهاشمي،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي عبد الله عليه السلام قال",
+            "path": "/people/narrators/669"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/145",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:5:78:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/5/78/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/5/78/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

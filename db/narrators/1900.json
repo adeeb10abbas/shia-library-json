@@ -1,0 +1,53 @@
+{
+  "id": 1900,
+  "type": "narrator",
+  "path": "/people/narrators/1900",
+  "titles": {
+    "ar": "ابْنِ مُحْرِزٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:72:10"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1900-301": {
+      "narrator_ids": [
+        1900,
+        301
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:72:10"
+      ]
+    },
+    "219-67-1900-301-64": {
+      "narrator_ids": [
+        219,
+        67,
+        1900,
+        301,
+        64
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:72:10"
+      ]
+    },
+    "67-1900": {
+      "narrator_ids": [
+        67,
+        1900
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:72:10"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1900",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1900.json"
+  }
+}

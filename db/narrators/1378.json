@@ -1,0 +1,43 @@
+{
+  "id": 1378,
+  "type": "narrator",
+  "path": "/people/narrators/1378",
+  "titles": {
+    "ar": "الْفَيْضِ بْنِ الْمُخْتَارِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:71:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1525-1378": {
+      "narrator_ids": [
+        1525,
+        1378
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:71:1"
+      ]
+    },
+    "219-67-1525-1378": {
+      "narrator_ids": [
+        219,
+        67,
+        1525,
+        1378
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:71:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1378",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1378.json"
+  }
+}

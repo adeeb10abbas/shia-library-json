@@ -1,0 +1,158 @@
+{
+  "id": 2206,
+  "type": "narrator",
+  "path": "/people/narrators/2206",
+  "titles": {
+    "ar": "أَبِي مُحَمَّدٍ الرَّازِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:1:1:6",
+    "/books/kitab-al-ghayba-tusi:48:8",
+    "/books/tahdhib-al-ahkam:2:15:120",
+    "/books/tahdhib-al-ahkam:3:26:3",
+    "/books/thawab-al-amal:2:453:1"
+  ],
+  "verseCount": 5,
+  "relations": {},
+  "subchains": {
+    "11-275-2206-32-34-669": {
+      "narrator_ids": [
+        11,
+        275,
+        2206,
+        32,
+        34,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:15:120"
+      ]
+    },
+    "13-2206": {
+      "narrator_ids": [
+        13,
+        2206
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:48:8"
+      ]
+    },
+    "2206-147": {
+      "narrator_ids": [
+        2206,
+        147
+      ],
+      "verse_paths": [
+        "/books/thawab-al-amal:2:453:1"
+      ]
+    },
+    "2206-2": {
+      "narrator_ids": [
+        2206,
+        2
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:3:26:3"
+      ]
+    },
+    "2206-32": {
+      "narrator_ids": [
+        2206,
+        32
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:15:120"
+      ]
+    },
+    "2206-80": {
+      "narrator_ids": [
+        2206,
+        80
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:1:1:6"
+      ]
+    },
+    "275-2206": {
+      "narrator_ids": [
+        275,
+        2206
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:1:1:6",
+        "/books/tahdhib-al-ahkam:2:15:120"
+      ]
+    },
+    "5-2206": {
+      "narrator_ids": [
+        5,
+        2206
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:3:26:3"
+      ]
+    },
+    "5-2206-2": {
+      "narrator_ids": [
+        5,
+        2206,
+        2
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:3:26:3"
+      ]
+    },
+    "59-2206": {
+      "narrator_ids": [
+        59,
+        2206
+      ],
+      "verse_paths": [
+        "/books/thawab-al-amal:2:453:1"
+      ]
+    },
+    "601-59-2206-147-14-669": {
+      "narrator_ids": [
+        601,
+        59,
+        2206,
+        147,
+        14,
+        669
+      ],
+      "verse_paths": [
+        "/books/thawab-al-amal:2:453:1"
+      ]
+    },
+    "97-13-2206": {
+      "narrator_ids": [
+        97,
+        13,
+        2206
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:48:8"
+      ]
+    },
+    "97-275-2206-80-44": {
+      "narrator_ids": [
+        97,
+        275,
+        2206,
+        80,
+        44
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:1:1:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2206",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2206.json"
+  }
+}

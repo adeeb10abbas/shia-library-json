@@ -1,0 +1,234 @@
+{
+  "id": 1051,
+  "type": "narrator",
+  "path": "/people/narrators/1051",
+  "titles": {
+    "ar": "الْمُثَنَّى الْحَنَّاطِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:1:1:21",
+    "/books/al-kafi:2:1:48:19",
+    "/books/al-kafi:5:2:134:4",
+    "/books/kitab-al-ghayba-tusi:28:5",
+    "/books/kitab-al-ghayba-tusi:51:52",
+    "/books/tahdhib-al-ahkam:2:10:52",
+    "/books/tahdhib-al-ahkam:2:15:87"
+  ],
+  "verseCount": 7,
+  "relations": {},
+  "subchains": {
+    "1051-1333": {
+      "narrator_ids": [
+        1051,
+        1333
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:28:5"
+      ]
+    },
+    "1051-14": {
+      "narrator_ids": [
+        1051,
+        14
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:10:52"
+      ]
+    },
+    "1051-1611": {
+      "narrator_ids": [
+        1051,
+        1611
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:15:87"
+      ]
+    },
+    "1051-18": {
+      "narrator_ids": [
+        1051,
+        18
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:134:4"
+      ]
+    },
+    "1051-451": {
+      "narrator_ids": [
+        1051,
+        451
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:1:1:21"
+      ]
+    },
+    "1051-594": {
+      "narrator_ids": [
+        1051,
+        594
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:51:52"
+      ]
+    },
+    "1051-669": {
+      "narrator_ids": [
+        1051,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:48:19"
+      ]
+    },
+    "11-22-1051-594-669": {
+      "narrator_ids": [
+        11,
+        22,
+        1051,
+        594,
+        669
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:51:52"
+      ]
+    },
+    "1358-97-244-1051-1333": {
+      "narrator_ids": [
+        1358,
+        97,
+        244,
+        1051,
+        1333
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:28:5"
+      ]
+    },
+    "152-1051": {
+      "narrator_ids": [
+        152,
+        1051
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:48:19"
+      ]
+    },
+    "20-25-61-1051-451-126-4458-9": {
+      "narrator_ids": [
+        20,
+        25,
+        61,
+        1051,
+        451,
+        126,
+        4458,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:1:1:21"
+      ]
+    },
+    "22-1051": {
+      "narrator_ids": [
+        22,
+        1051
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:51:52"
+      ]
+    },
+    "244-1051": {
+      "narrator_ids": [
+        244,
+        1051
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:28:5"
+      ]
+    },
+    "39-1051": {
+      "narrator_ids": [
+        39,
+        1051
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:134:4",
+        "/books/tahdhib-al-ahkam:2:10:52",
+        "/books/tahdhib-al-ahkam:2:15:87"
+      ]
+    },
+    "4-13-151-152-1051-669": {
+      "narrator_ids": [
+        4,
+        13,
+        151,
+        152,
+        1051,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:48:19"
+      ]
+    },
+    "5-39-1051-1611": {
+      "narrator_ids": [
+        5,
+        39,
+        1051,
+        1611
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:15:87"
+      ]
+    },
+    "6-8-39-1051-18-669": {
+      "narrator_ids": [
+        6,
+        8,
+        39,
+        1051,
+        18,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:134:4"
+      ]
+    },
+    "61-1051": {
+      "narrator_ids": [
+        61,
+        1051
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:1:1:21"
+      ]
+    },
+    "695-5-318-54-1554-21-88-116-39-1051-14-669": {
+      "narrator_ids": [
+        695,
+        5,
+        318,
+        54,
+        1554,
+        21,
+        88,
+        116,
+        39,
+        1051,
+        14,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:10:52"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1051",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1051.json"
+  }
+}

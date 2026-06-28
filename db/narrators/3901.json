@@ -1,0 +1,54 @@
+{
+  "id": 3901,
+  "type": "narrator",
+  "path": "/people/narrators/3901",
+  "titles": {
+    "ar": "عَمْرِو بْنِ هَارُونَ الثَّقَفِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:4:13:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3901-669": {
+      "narrator_ids": [
+        3901,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:4:13:2"
+      ]
+    },
+    "3945-3901": {
+      "narrator_ids": [
+        3945,
+        3901
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:4:13:2"
+      ]
+    },
+    "6-12-2-3945-3901-669": {
+      "narrator_ids": [
+        6,
+        12,
+        2,
+        3945,
+        3901,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:4:13:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3901",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3901.json"
+  }
+}

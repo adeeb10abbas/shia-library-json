@@ -1,0 +1,64 @@
+{
+  "id": 2226,
+  "type": "narrator",
+  "path": "/people/narrators/2226",
+  "titles": {
+    "ar": "أَبِي وَلَّادٍ حَفْصِ بْنِ سَالِمٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:4:84:29",
+    "/books/tahdhib-al-ahkam:2:8:245"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "10-2226": {
+      "narrator_ids": [
+        10,
+        2226
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:84:29"
+      ]
+    },
+    "11-1390-158-2226": {
+      "narrator_ids": [
+        11,
+        1390,
+        158,
+        2226
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:8:245"
+      ]
+    },
+    "158-2226": {
+      "narrator_ids": [
+        158,
+        2226
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:8:245"
+      ]
+    },
+    "97-5-10-2226": {
+      "narrator_ids": [
+        97,
+        5,
+        10,
+        2226
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:84:29"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2226",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2226.json"
+  }
+}

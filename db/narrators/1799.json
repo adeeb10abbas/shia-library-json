@@ -1,0 +1,52 @@
+{
+  "id": 1799,
+  "type": "narrator",
+  "path": "/people/narrators/1799",
+  "titles": {
+    "ar": "إِبْرَاهِيمُ بْنُ أَبِي بَكْرٍ"
+  },
+  "versePaths": [
+    "/books/tahdhib-al-ahkam:4:62:38"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1799-434": {
+      "narrator_ids": [
+        1799,
+        434
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:4:62:38"
+      ]
+    },
+    "645-1799": {
+      "narrator_ids": [
+        645,
+        1799
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:4:62:38"
+      ]
+    },
+    "645-1799-434-669": {
+      "narrator_ids": [
+        645,
+        1799,
+        434,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:4:62:38"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1799",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1799.json"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 3941,
+  "type": "narrator",
+  "path": "/people/narrators/3941",
+  "titles": {
+    "ar": "عَنْبَسَةَ بْنِ مُصْعَبٍ الْعَابِدِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:3:45:8"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "4-5-10-56-3941": {
+      "narrator_ids": [
+        4,
+        5,
+        10,
+        56,
+        3941
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:45:8"
+      ]
+    },
+    "56-3941": {
+      "narrator_ids": [
+        56,
+        3941
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:45:8"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3941",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3941.json"
+  }
+}

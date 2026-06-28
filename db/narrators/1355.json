@@ -1,0 +1,129 @@
+{
+  "id": 1355,
+  "type": "narrator",
+  "path": "/people/narrators/1355",
+  "titles": {
+    "ar": "الْحُسَيْنِ بْنِ زِيَادٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:2:34:2",
+    "/books/al-kafi:5:3:188:4",
+    "/books/tahdhib-al-ahkam:7:30:80",
+    "/books/tahdhib-al-ahkam:8:6:160"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "100-1355": {
+      "narrator_ids": [
+        100,
+        1355
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:30:80"
+      ]
+    },
+    "11-2-3762-208-1355-833": {
+      "narrator_ids": [
+        11,
+        2,
+        3762,
+        208,
+        1355,
+        833
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:188:4"
+      ]
+    },
+    "1355-669": {
+      "narrator_ids": [
+        1355,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:34:2"
+      ]
+    },
+    "1355-833": {
+      "narrator_ids": [
+        1355,
+        833
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:188:4"
+      ]
+    },
+    "20-25-89-52-1355-669": {
+      "narrator_ids": [
+        20,
+        25,
+        89,
+        52,
+        1355,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:34:2"
+      ]
+    },
+    "204-1355": {
+      "narrator_ids": [
+        204,
+        1355
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:8:6:160"
+      ]
+    },
+    "208-1355": {
+      "narrator_ids": [
+        208,
+        1355
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:188:4"
+      ]
+    },
+    "4134-205-100-1355": {
+      "narrator_ids": [
+        4134,
+        205,
+        100,
+        1355
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:30:80"
+      ]
+    },
+    "4154-4169-39-204-1355": {
+      "narrator_ids": [
+        4154,
+        4169,
+        39,
+        204,
+        1355
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:8:6:160"
+      ]
+    },
+    "52-1355": {
+      "narrator_ids": [
+        52,
+        1355
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:34:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1355",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1355.json"
+  }
+}

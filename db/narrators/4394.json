@@ -1,0 +1,55 @@
+{
+  "id": 4394,
+  "type": "narrator",
+  "path": "/people/narrators/4394",
+  "titles": {
+    "ar": "مُعَمَّرِ بْنِ أَبِي زِيَادٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:4:15:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "20-25-63-313-758-4394-1885": {
+      "narrator_ids": [
+        20,
+        25,
+        63,
+        313,
+        758,
+        4394,
+        1885
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:15:3"
+      ]
+    },
+    "4394-1885": {
+      "narrator_ids": [
+        4394,
+        1885
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:15:3"
+      ]
+    },
+    "758-4394": {
+      "narrator_ids": [
+        758,
+        4394
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:15:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4394",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4394.json"
+  }
+}

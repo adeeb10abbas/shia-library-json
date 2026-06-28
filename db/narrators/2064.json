@@ -1,0 +1,52 @@
+{
+  "id": 2064,
+  "type": "narrator",
+  "path": "/people/narrators/2064",
+  "titles": {
+    "ar": "أَبِي جَعْفَرٍ مُحَمَّدِ بْنِ النُّعْمَانِ الْأَحْوَلِ صَاحِبِ الطَّاقِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:60:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "10-2064": {
+      "narrator_ids": [
+        10,
+        2064
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:60:3"
+      ]
+    },
+    "10-2064-508-9": {
+      "narrator_ids": [
+        10,
+        2064,
+        508,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:60:3"
+      ]
+    },
+    "2064-508": {
+      "narrator_ids": [
+        2064,
+        508
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:60:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2064",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2064.json"
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "mujam-al-ahadith-al-mutabara",
+  "chapterPath": "/books/mujam-al-ahadith-al-mutabara:3:69",
+  "chapter": {
+    "path": "/books/mujam-al-ahadith-al-mutabara:3:69",
+    "titles": {
+      "en": "Ammar b. Yasir"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "mujam-al-ahadith-al-mutabara:3:69:1",
+      "type": "hadith",
+      "book": {
+        "slug": "mujam-al-ahadith-al-mutabara",
+        "titles": {
+          "ar": "معجم الأحاديث المعتبرة",
+          "en": "Mu'jam al-Ahadith al-Mu'tabara"
+        },
+        "author": {
+          "en": "Muhammad Asif al-Muhsini"
+        }
+      },
+      "path": {
+        "source": "/books/mujam-al-ahadith-al-mutabara:3:69:1",
+        "parts": [
+          3,
+          69,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 69,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/mujam-al-ahadith-al-mutabara:3:69",
+        "titles": {
+          "en": "Ammar b. Yasir"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": كان عمار بن ياسر و محمد بن أبي بكر لا يرضيان أن يعصي الله عز و جل"
+        ],
+        "text": ": كان عمار بن ياسر و محمد بن أبي بكر لا يرضيان أن يعصي الله عز و جل"
+      },
+      "translations": {
+        "en.ammaar-muslim": {
+          "segments": [
+            "1. [1/-] Rijal al-Kashshi: Hamduwayh b. Nusayr and Ibrahim b. Nusayr from Ayyub from Safwan from Mu`awiya b. Ammar and another from Abi Abdillah عليه السلام who said: Ammar b. Yasir and Muhammad b. Abi Bakr could never tolerate that Allah Mighty and Majestic be disobeyed."
+          ],
+          "text": "1. [1/-] Rijal al-Kashshi: Hamduwayh b. Nusayr and Ibrahim b. Nusayr from Ayyub from Safwan from Mu`awiya b. Ammar and another from Abi Abdillah عليه السلام who said: Ammar b. Yasir and Muhammad b. Abi Bakr could never tolerate that Allah Mighty and Majestic be disobeyed."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "[-/1] رجال الكشي: حمدويه و إبراهيم ابنا نصير، عن أيوب، عن صفوان، عن معاوية بن عمار و غير واحد، عن أبي عبد الله عليه السلام قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "[-/1] رجال الكشي: حمدويه"
+          },
+          {
+            "kind": "plain",
+            "text": " و "
+          },
+          {
+            "kind": "plain",
+            "text": "إبراهيم ابنا نصير،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أيوب،",
+            "path": "/people/narrators/884"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "صفوان،",
+            "path": "/people/narrators/43"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "معاوية بن عمار",
+            "path": "/people/narrators/45"
+          },
+          {
+            "kind": "plain",
+            "text": " و "
+          },
+          {
+            "kind": "narrator",
+            "text": "غير واحد،",
+            "path": "/people/narrators/84"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي عبد الله عليه السلام قال",
+            "path": "/people/narrators/669"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/884",
+          "/people/narrators/43",
+          "/people/narrators/45",
+          "/people/narrators/84",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/mujam-al-ahadith-al-mutabara:3:81:2"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/mujam-al-ahadith-al-mutabara:3:69:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/mujam-al-ahadith-al-mutabara/3/69/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/9/3/70/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

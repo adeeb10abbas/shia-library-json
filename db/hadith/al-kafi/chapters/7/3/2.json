@@ -1,0 +1,897 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:7:3:2",
+  "chapter": {
+    "path": "/books/al-kafi:7:3:2",
+    "titles": {
+      "ar": "باب الرَّجْمِ وَ الْجَلْدِ وَ مَنْ يَجِبُ عَلَيْهِ ذَلِكَ",
+      "en": "Chapter 2 – The stoning and the whipping, and the ones upon whom that is Obligated"
+    }
+  },
+  "count": 7,
+  "records": [
+    {
+      "id": "al-kafi:7:3:2:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:3:2:1",
+        "parts": [
+          7,
+          3,
+          2,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 3,
+        "chapter": 2,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:3:2",
+        "titles": {
+          "ar": "باب الرَّجْمِ وَ الْجَلْدِ وَ مَنْ يَجِبُ عَلَيْهِ ذَلِكَ",
+          "en": "Chapter 2 – The stoning and the whipping, and the ones upon whom that is Obligated"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " الرَّجْمُ حَدُّ اللَّهِ الْأَكْبَرُ وَ الْجَلْدُ حَدُّ اللَّهِ الْأَصْغَرُ فَإِذَا زَنَى الرَّجُلُ الْمُحْصَنُ يُرْجَمُ وَ لَمْ يُجْلَدْ ."
+        ],
+        "text": "الرَّجْمُ حَدُّ اللَّهِ الْأَكْبَرُ وَ الْجَلْدُ حَدُّ اللَّهِ الْأَصْغَرُ فَإِذَا زَنَى الرَّجُلُ الْمُحْصَنُ يُرْجَمُ وَ لَمْ يُجْلَدْ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya narrated to me, and someone else, from Ahmad Bin Muhammad Bin Isa, from Al Husayn Bin Saeed, from Al Nazar Bin Suweyd, from Aasim Bin Humeyd, from Abu Baseer, ",
+            "Abu Abdullah<sup>asws</sup> has said: ‘The stoning is a bigger Penalty (<span class=\"iTxt\">Hadd</span>) of Allah<sup>azwj</sup> and the whipping is the smaller Penalty (<span class=\"iTxt\">Hadd</span>) of Allah<sup>azwj</sup>. So when the married man commits adultery, he would be stoned and not whipped’."
+          ],
+          "text": "Muhammad Bin Yahya narrated to me, and someone else, from Ahmad Bin Muhammad Bin Isa, from Al Husayn Bin Saeed, from Al Nazar Bin Suweyd, from Aasim Bin Humeyd, from Abu Baseer,\n\nAbu Abdullah<sup>asws</sup> has said: ‘The stoning is a bigger Penalty (<span class=\"iTxt\">Hadd</span>) of Allah<sup>azwj</sup> and the whipping is the smaller Penalty (<span class=\"iTxt\">Hadd</span>) of Allah<sup>azwj</sup>. So when the married man commits adultery, he would be stoned and not whipped’."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "حَدَّثَنِي مُحَمَّدُ بْنُ يَحْيَى وَ غَيْرُهُ عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى عَنِ الْحُسَيْنِ بْنِ سَعِيدٍ عَنِ النَّضْرِ بْنِ سُوَيْدٍ عَنْ عَاصِمِ بْنِ حُمَيْدٍ عَنْ أَبِي بَصِيرٍ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "حَدَّثَنِي مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " وَ "
+          },
+          {
+            "kind": "narrator",
+            "text": "غَيْرُهُ",
+            "path": "/people/narrators/78"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى",
+            "path": "/people/narrators/13"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحُسَيْنِ بْنِ سَعِيدٍ",
+            "path": "/people/narrators/21"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "النَّضْرِ بْنِ سُوَيْدٍ",
+            "path": "/people/narrators/65"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَاصِمِ بْنِ حُمَيْدٍ",
+            "path": "/people/narrators/79"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي بَصِيرٍ",
+            "path": "/people/narrators/14"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/78",
+          "/people/narrators/13",
+          "/people/narrators/21",
+          "/people/narrators/65",
+          "/people/narrators/79",
+          "/people/narrators/14",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:3:2:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/3/2/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:3:2:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:3:2:2",
+        "parts": [
+          7,
+          3,
+          2,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 3,
+        "chapter": 2,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:3:2",
+        "titles": {
+          "ar": "باب الرَّجْمِ وَ الْجَلْدِ وَ مَنْ يَجِبُ عَلَيْهِ ذَلِكَ",
+          "en": "Chapter 2 – The stoning and the whipping, and the ones upon whom that is Obligated"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " الْحُرُّ وَ الْحُرَّةُ إِذَا زَنَيَا جُلِدَ كُلُّ وَاحِدٍ مِنْهُمَا مِائَةَ جَلْدَةٍ فَأَمَّا الْمُحْصَنُ وَ الْمُحْصَنَةُ فَعَلَيْهِمَا الرَّجْمُ ."
+        ],
+        "text": "الْحُرُّ وَ الْحُرَّةُ إِذَا زَنَيَا جُلِدَ كُلُّ وَاحِدٍ مِنْهُمَا مِائَةَ جَلْدَةٍ فَأَمَّا الْمُحْصَنُ وَ الْمُحْصَنَةُ فَعَلَيْهِمَا الرَّجْمُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from Muhammad Bin Isa, from Ubeyd, from Yunus, from Sama’at, ",
+            "Abu Abdullah<sup>asws</sup> has said: ‘The free man and the free woman, when they commit adultery, every one of the two would be whipped with one hundred lashes. So, as for the married man and the married woman, upon the both of them is the stoning’."
+          ],
+          "text": "Ali Bin Ibrahim, from Muhammad Bin Isa, from Ubeyd, from Yunus, from Sama’at,\n\nAbu Abdullah<sup>asws</sup> has said: ‘The free man and the free woman, when they commit adultery, every one of the two would be whipped with one hundred lashes. So, as for the married man and the married woman, upon the both of them is the stoning’."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ مُحَمَّدِ بْنِ عِيسَى بْنِ عُبَيْدٍ عَنْ يُونُسَ عَنْ سَمَاعَةَ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ عِيسَى بْنِ عُبَيْدٍ",
+            "path": "/people/narrators/135"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "يُونُسَ",
+            "path": "/people/narrators/26"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَمَاعَةَ",
+            "path": "/people/narrators/48"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/135",
+          "/people/narrators/26",
+          "/people/narrators/48",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-istibsar:4:48:3",
+          "/books/al-kafi:7:3:8:4"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:3:2:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/3/2/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:3:2:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:3:2:3",
+        "parts": [
+          7,
+          3,
+          2,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 3,
+        "chapter": 2,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:3:2",
+        "titles": {
+          "ar": "باب الرَّجْمِ وَ الْجَلْدِ وَ مَنْ يَجِبُ عَلَيْهِ ذَلِكَ",
+          "en": "Chapter 2 – The stoning and the whipping, and the ones upon whom that is Obligated"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ أَبُو عَبْدِ اللَّهِ ( عليه السلام ) الرَّجْمُ فِي الْقُرْآنِ قَوْلُ اللَّهِ عَزَّ وَ جَلَّ إِذَا زَنَى الشَّيْخُ وَ الشَّيْخَةُ فَارْجُمُوهُمَا الْبَتَّةَ فَإِنَّهُمَا قَضَيَا الشَّهْوَةَ ."
+        ],
+        "text": "قَالَ أَبُو عَبْدِ اللَّهِ ( عليه السلام ) الرَّجْمُ فِي الْقُرْآنِ قَوْلُ اللَّهِ عَزَّ وَ جَلَّ إِذَا زَنَى الشَّيْخُ وَ الشَّيْخَةُ فَارْجُمُوهُمَا الْبَتَّةَ فَإِنَّهُمَا قَضَيَا الشَّهْوَةَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "And by his chain, form Yunus, from Abdullah Bin Sinan who said, ",
+            "‘Abu Abdullah<sup>asws</sup> said; ‘The stoning is in the Quran, the Words of Allah<sup>azwj</sup> Mighty and Majestic. When the old man and the old woman commit adultery, so stone both of them regardless, (because) for these two the lustful desire has expired’."
+          ],
+          "text": "And by his chain, form Yunus, from Abdullah Bin Sinan who said,\n\n‘Abu Abdullah<sup>asws</sup> said; ‘The stoning is in the Quran, the Words of Allah<sup>azwj</sup> Mighty and Majestic. When the old man and the old woman commit adultery, so stone both of them regardless, (because) for these two the lustful desire has expired’."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "وَ بِإِسْنَادِهِ عَنْ يُونُسَ عَنْ عَبْدِ اللَّهِ بْنِ سِنَانٍ قَالَ",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "وَ "
+          },
+          {
+            "kind": "narrator",
+            "text": "بِإِسْنَادِهِ",
+            "path": "/people/narrators/175"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "يُونُسَ",
+            "path": "/people/narrators/26"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَبْدِ اللَّهِ بْنِ سِنَانٍ",
+            "path": "/people/narrators/31"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/175",
+          "/people/narrators/26",
+          "/people/narrators/31"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:3:2:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/3/2/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:3:2:4",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:3:2:4",
+        "parts": [
+          7,
+          3,
+          2,
+          4
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 3,
+        "chapter": 2,
+        "hadith": 4
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:3:2",
+        "titles": {
+          "ar": "باب الرَّجْمِ وَ الْجَلْدِ وَ مَنْ يَجِبُ عَلَيْهِ ذَلِكَ",
+          "en": "Chapter 2 – The stoning and the whipping, and the ones upon whom that is Obligated"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " الْمُحْصَنُ يُرْجَمُ وَ الَّذِي قَدْ أُمْلِكَ وَ لَمْ يَدْخُلْ بِهَا فَجَلْدُ مِائَةٍ وَ نَفْيُ سَنَةٍ ."
+        ],
+        "text": "الْمُحْصَنُ يُرْجَمُ وَ الَّذِي قَدْ أُمْلِكَ وَ لَمْ يَدْخُلْ بِهَا فَجَلْدُ مِائَةٍ وَ نَفْيُ سَنَةٍ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "And by his chain, from Yunus, from the one who reported it, from Zurara, ",
+            "Abu Ja’far<sup>asws</sup> has said: ‘The married man would be stoned, and the one who had a slave girl and did not copulate with her, so whip him one hundred lashes and exile him for a year’."
+          ],
+          "text": "And by his chain, from Yunus, from the one who reported it, from Zurara,\n\nAbu Ja’far<sup>asws</sup> has said: ‘The married man would be stoned, and the one who had a slave girl and did not copulate with her, so whip him one hundred lashes and exile him for a year’."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "وَبِإِسْنَادِهِ عَنْ يُونُسَ عَمَّنْ رَوَاهُ عَنْ زُرَارَةَ عَنْ أَبِي جَعْفَرٍ (عَلَيْهِ السَّلَامُ)",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "وَبِإِسْنَادِهِ عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "يُونُسَ",
+            "path": "/people/narrators/26"
+          },
+          {
+            "kind": "plain",
+            "text": " "
+          },
+          {
+            "kind": "plain",
+            "text": "عَمَّنْ رَوَاهُ"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "زُرَارَةَ",
+            "path": "/people/narrators/18"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي جَعْفَرٍ",
+            "path": "/people/narrators/9"
+          },
+          {
+            "kind": "plain",
+            "text": " (عَلَيْهِ السَّلَامُ)"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/26",
+          "/people/narrators/18",
+          "/people/narrators/9"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:3:2:4",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/3/2/4.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:3:2:5",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:3:2:5",
+        "parts": [
+          7,
+          3,
+          2,
+          5
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 3,
+        "chapter": 2,
+        "hadith": 5
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:3:2",
+        "titles": {
+          "ar": "باب الرَّجْمِ وَ الْجَلْدِ وَ مَنْ يَجِبُ عَلَيْهِ ذَلِكَ",
+          "en": "Chapter 2 – The stoning and the whipping, and the ones upon whom that is Obligated"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " رَجَمَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) وَ لَمْ يَجْلِدْ وَ ذَكَرُوا أَنَّ عَلِيّاً ( عليه السلام ) رَجَمَ بِالْكُوفَةِ وَ جَلَدَ فَأَنْكَرَ ذَلِكَ أَبُو عَبْدِ اللَّهِ ( عليه السلام ) وَ قَالَ مَا نَعْرِفُ هَذَا أَيْ لَمْ يَحُدَّ رَجُلًا حَدَّيْنِ رَجْمٌ وَ ضَرْبٌ فِي ذَنْبٍ وَاحِدٍ ."
+        ],
+        "text": "رَجَمَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) وَ لَمْ يَجْلِدْ وَ ذَكَرُوا أَنَّ عَلِيّاً ( عليه السلام ) رَجَمَ بِالْكُوفَةِ وَ جَلَدَ فَأَنْكَرَ ذَلِكَ أَبُو عَبْدِ اللَّهِ ( عليه السلام ) وَ قَالَ مَا نَعْرِفُ هَذَا أَيْ لَمْ يَحُدَّ رَجُلًا حَدَّيْنِ رَجْمٌ وَ ضَرْبٌ فِي ذَنْبٍ وَاحِدٍ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from Muhammad Bin Isa, from Yunus, from Aban, from Abu Al Abbas, ",
+            "Abu Abdullah<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup> stoned and did not whip’. And they (people) mentioned that Ali<sup>asws</sup> stoned and Al-Kufa and whipped. So Abu Abdullah<sup>asws</sup> denied that and said: ‘We<sup>asws</sup> do not know this, i.e., why would he<sup>asws</sup> impose upon a man with two Penalties, stoning and whipping with regards to one sin?’"
+          ],
+          "text": "Ali Bin Ibrahim, from Muhammad Bin Isa, from Yunus, from Aban, from Abu Al Abbas,\n\nAbu Abdullah<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup> stoned and did not whip’. And they (people) mentioned that Ali<sup>asws</sup> stoned and Al-Kufa and whipped. So Abu Abdullah<sup>asws</sup> denied that and said: ‘We<sup>asws</sup> do not know this, i.e., why would he<sup>asws</sup> impose upon a man with two Penalties, stoning and whipping with regards to one sin?’"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ مُحَمَّدِ بْنِ عِيسَى عَنْ يُونُسَ عَنْ أَبَانٍ عَنْ أَبِي الْعَبَّاسِ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ عِيسَى",
+            "path": "/people/narrators/27"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "يُونُسَ",
+            "path": "/people/narrators/26"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبَانٍ",
+            "path": "/people/narrators/46"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي الْعَبَّاسِ",
+            "path": "/people/narrators/201"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/27",
+          "/people/narrators/26",
+          "/people/narrators/46",
+          "/people/narrators/201",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:3:2:5",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/3/2/5.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:3:2:6",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:3:2:6",
+        "parts": [
+          7,
+          3,
+          2,
+          6
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 3,
+        "chapter": 2,
+        "hadith": 6
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:3:2",
+        "titles": {
+          "ar": "باب الرَّجْمِ وَ الْجَلْدِ وَ مَنْ يَجِبُ عَلَيْهِ ذَلِكَ",
+          "en": "Chapter 2 – The stoning and the whipping, and the ones upon whom that is Obligated"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " الَّذِي لَمْ يُحْصَنْ يُجْلَدُ مِائَةَ جَلْدَةٍ وَ لَا يُنْفَى وَ الَّذِي قَدْ أُمْلِكَ وَ لَمْ يَدْخُلْ بِهَا يُجْلَدُ مِائَةً وَ يُنْفَى ."
+        ],
+        "text": "الَّذِي لَمْ يُحْصَنْ يُجْلَدُ مِائَةَ جَلْدَةٍ وَ لَا يُنْفَى وَ الَّذِي قَدْ أُمْلِكَ وَ لَمْ يَدْخُلْ بِهَا يُجْلَدُ مِائَةً وَ يُنْفَى ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Ahmad Bin Muhammad,f rom Al Husayn Bin Saeed, from Fazalat, from Musa Bin Bakr, from Zurara, ",
+            "Abu Ja’far<sup>asws</sup> has said: ‘(For adultery), the one who is not married, he should be whipped one hundred lashes, and he would not be exiled, and the one who has a slave girl and did not copulate with her, he would be whipped one hundred lashes and exiled’."
+          ],
+          "text": "A number of our companions, from Ahmad Bin Muhammad,f rom Al Husayn Bin Saeed, from Fazalat, from Musa Bin Bakr, from Zurara,\n\nAbu Ja’far<sup>asws</sup> has said: ‘(For adultery), the one who is not married, he should be whipped one hundred lashes, and he would not be exiled, and the one who has a slave girl and did not copulate with her, he would be whipped one hundred lashes and exiled’."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنِ الْحُسَيْنِ بْنِ سَعِيدٍ عَنْ فَضَالَةَ عَنْ مُوسَى بْنِ بَكْرٍ عَنْ زُرَارَةَ عَنْ أَبِي جَعْفَرٍ عَلَيْهِ السَّلَامُ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحُسَيْنِ بْنِ سَعِيدٍ",
+            "path": "/people/narrators/21"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "فَضَالَةَ",
+            "path": "/people/narrators/69"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُوسَى بْنِ بَكْرٍ",
+            "path": "/people/narrators/96"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "زُرَارَةَ",
+            "path": "/people/narrators/18"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي جَعْفَرٍ عَلَيْهِ السَّلَامُ",
+            "path": "/people/narrators/9"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/5",
+          "/people/narrators/21",
+          "/people/narrators/69",
+          "/people/narrators/96",
+          "/people/narrators/18",
+          "/people/narrators/9"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:5:2:91:3",
+          "/books/al-kafi:6:7:14:2"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:3:2:6",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/3/2/6.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:3:2:7",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:3:2:7",
+        "parts": [
+          7,
+          3,
+          2,
+          7
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 3,
+        "chapter": 2,
+        "hadith": 7
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:3:2",
+        "titles": {
+          "ar": "باب الرَّجْمِ وَ الْجَلْدِ وَ مَنْ يَجِبُ عَلَيْهِ ذَلِكَ",
+          "en": "Chapter 2 – The stoning and the whipping, and the ones upon whom that is Obligated"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَضَى أَمِيرُ الْمُؤْمِنِينَ ( عليه السلام ) فِي الشَّيْخِ وَ الشَّيْخَةِ أَنْ يُجْلَدَا مِائَةً وَ قَضَى لِلْمُحْصَنِ الرَّجْمَ وَ قَضَى فِي الْبِكْرِ وَ الْبِكْرَةِ إِذَا زَنَيَا جَلْدَ مِائَةٍ وَ نَفْيَ سَنَةٍ فِي غَيْرِ مِصْرِهِمَا وَ هُمَا اللَّذَانِ قَدْ أُمْلِكَا وَ لَمْ يَدْخُلَا بِهَا ."
+        ],
+        "text": "قَضَى أَمِيرُ الْمُؤْمِنِينَ ( عليه السلام ) فِي الشَّيْخِ وَ الشَّيْخَةِ أَنْ يُجْلَدَا مِائَةً وَ قَضَى لِلْمُحْصَنِ الرَّجْمَ وَ قَضَى فِي الْبِكْرِ وَ الْبِكْرَةِ إِذَا زَنَيَا جَلْدَ مِائَةٍ وَ نَفْيَ سَنَةٍ فِي غَيْرِ مِصْرِهِمَا وَ هُمَا اللَّذَانِ قَدْ أُمْلِكَا وَ لَمْ يَدْخُلَا بِهَا ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father, from Ibn Abu Najran, from Aasim Bin Humeyd, from Muhammad Bin Qays, ",
+            "Abu Ja’far<sup>asws</sup> has said: ‘Amir Al-Momineen<sup>asws</sup> judged with regards to an old man and an old woman that they should both be whipped one hundred lashes, and judged with regards to the married man for the stoning, and judged with regards to the virgin man and the virgin woman when they commit adultery, to be whipped one hundred lashes and exiled for a year in other than their own cities, and these are the ones who had slaves and did not copulate with her’."
+          ],
+          "text": "Ali Bin Ibrahim, from his father, from Ibn Abu Najran, from Aasim Bin Humeyd, from Muhammad Bin Qays,\n\nAbu Ja’far<sup>asws</sup> has said: ‘Amir Al-Momineen<sup>asws</sup> judged with regards to an old man and an old woman that they should both be whipped one hundred lashes, and judged with regards to the married man for the stoning, and judged with regards to the virgin man and the virgin woman when they commit adultery, to be whipped one hundred lashes and exiled for a year in other than their own cities, and these are the ones who had slaves and did not copulate with her’."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنِ ابْنِ أَبِي نَجْرَانَ عَنْ عَاصِمِ بْنِ حُمَيْدٍ عَنْ مُحَمَّدِ بْنِ قَيْسٍ عَنْ أَبِي جَعْفَرٍ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ أَبِي نَجْرَانَ",
+            "path": "/people/narrators/74"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَاصِمِ بْنِ حُمَيْدٍ",
+            "path": "/people/narrators/79"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ قَيْسٍ",
+            "path": "/people/narrators/105"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي جَعْفَرٍ ( عليه السلام )",
+            "path": "/people/narrators/9"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/74",
+          "/people/narrators/79",
+          "/people/narrators/105",
+          "/people/narrators/9"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:3:2:7",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/3/2/7.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

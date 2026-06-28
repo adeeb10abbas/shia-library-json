@@ -1,0 +1,197 @@
+{
+  "id": 539,
+  "type": "narrator",
+  "path": "/people/narrators/539",
+  "titles": {
+    "ar": "عَبْدِ اللَّهِ بْنِ الْحَسَنِ الْعَلَوِيِّ",
+    "en": "Abdullah ibn al-Hasan al-Alawi"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:3:17:1",
+    "/books/al-kafi:1:3:22:3",
+    "/books/al-kafi:1:3:26:4",
+    "/books/al-kafi:1:3:4:1",
+    "/books/al-kafi:5:3:96:2",
+    "/books/al-kafi:6:6:9:6",
+    "/books/al-kafi:7:4:13:16",
+    "/books/al-kafi:7:4:22:5",
+    "/books/al-kafi:7:4:53:4",
+    "/books/tahdhib-al-ahkam:10:14:52",
+    "/books/tahdhib-al-ahkam:10:15:29",
+    "/books/tahdhib-al-ahkam:10:27:13"
+  ],
+  "verseCount": 12,
+  "relations": {},
+  "subchains": {
+    "3-1384-90-539-628-64": {
+      "narrator_ids": [
+        3,
+        1384,
+        90,
+        539,
+        628,
+        64
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:17:1"
+      ]
+    },
+    "3-2788-90-539-628-64": {
+      "narrator_ids": [
+        3,
+        2788,
+        90,
+        539,
+        628,
+        64
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:26:4"
+      ]
+    },
+    "3-629-90-539-1049": {
+      "narrator_ids": [
+        3,
+        629,
+        90,
+        539,
+        1049
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:96:2"
+      ]
+    },
+    "3-629-90-539-628": {
+      "narrator_ids": [
+        3,
+        629,
+        90,
+        539,
+        628
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:22:3"
+      ]
+    },
+    "3-629-90-539-628-64": {
+      "narrator_ids": [
+        3,
+        629,
+        90,
+        539,
+        628,
+        64
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:9:6",
+        "/books/al-kafi:7:4:13:16",
+        "/books/al-kafi:7:4:22:5",
+        "/books/al-kafi:7:4:53:4",
+        "/books/tahdhib-al-ahkam:10:15:29"
+      ]
+    },
+    "50-629-90-539-628": {
+      "narrator_ids": [
+        50,
+        629,
+        90,
+        539,
+        628
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:10:27:13"
+      ]
+    },
+    "539-1049": {
+      "narrator_ids": [
+        539,
+        1049
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:96:2"
+      ]
+    },
+    "539-3": {
+      "narrator_ids": [
+        539,
+        3
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:4:1"
+      ]
+    },
+    "539-628": {
+      "narrator_ids": [
+        539,
+        628
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:17:1",
+        "/books/al-kafi:1:3:22:3",
+        "/books/al-kafi:1:3:26:4",
+        "/books/al-kafi:6:6:9:6",
+        "/books/al-kafi:7:4:13:16",
+        "/books/al-kafi:7:4:22:5",
+        "/books/al-kafi:7:4:53:4",
+        "/books/tahdhib-al-ahkam:10:14:52",
+        "/books/tahdhib-al-ahkam:10:15:29",
+        "/books/tahdhib-al-ahkam:10:27:13"
+      ]
+    },
+    "90-539": {
+      "narrator_ids": [
+        90,
+        539
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:17:1",
+        "/books/al-kafi:1:3:22:3",
+        "/books/al-kafi:1:3:26:4",
+        "/books/al-kafi:1:3:4:1",
+        "/books/al-kafi:5:3:96:2",
+        "/books/al-kafi:6:6:9:6",
+        "/books/al-kafi:7:4:13:16",
+        "/books/al-kafi:7:4:22:5",
+        "/books/al-kafi:7:4:53:4",
+        "/books/tahdhib-al-ahkam:10:14:52",
+        "/books/tahdhib-al-ahkam:10:15:29",
+        "/books/tahdhib-al-ahkam:10:27:13"
+      ]
+    },
+    "90-539-3-1384-1049-64": {
+      "narrator_ids": [
+        90,
+        539,
+        3,
+        1384,
+        1049,
+        64
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:4:1"
+      ]
+    },
+    "952-3-629-90-539-628-64": {
+      "narrator_ids": [
+        952,
+        3,
+        629,
+        90,
+        539,
+        628,
+        64
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:10:14:52"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/539",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/539.json"
+  }
+}

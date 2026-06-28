@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "mujam-al-ahadith-al-mutabara",
+  "chapterPath": "/books/mujam-al-ahadith-al-mutabara:1:11",
+  "chapter": {
+    "path": "/books/mujam-al-ahadith-al-mutabara:1:11",
+    "titles": {
+      "en": "Prohibition of Blind Following"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "mujam-al-ahadith-al-mutabara:1:11:1",
+      "type": "hadith",
+      "book": {
+        "slug": "mujam-al-ahadith-al-mutabara",
+        "titles": {
+          "ar": "معجم الأحاديث المعتبرة",
+          "en": "Mu'jam al-Ahadith al-Mu'tabara"
+        },
+        "author": {
+          "en": "Muhammad Asif al-Muhsini"
+        }
+      },
+      "path": {
+        "source": "/books/mujam-al-ahadith-al-mutabara:1:11:1",
+        "parts": [
+          1,
+          11,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 1,
+        "book": 11,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/mujam-al-ahadith-al-mutabara:1:11",
+        "titles": {
+          "en": "Prohibition of Blind Following"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " الله عزوجل: “اتخذوا أحبارهم ورهبانهم أربابا من دون الله” فقال: والله ما صاموا لهم ولا صلوا لهم ولكن أحلوا لهم حراما وحرموا عليهم حلالا فاتبعوهم"
+        ],
+        "text": "الله عزوجل: “اتخذوا أحبارهم ورهبانهم أربابا من دون الله” فقال: والله ما صاموا لهم ولا صلوا لهم ولكن أحلوا لهم حراما وحرموا عليهم حلالا فاتبعوهم"
+      },
+      "translations": {
+        "en.ammaar-muslim": {
+          "segments": [
+            "1. [1/53] Muhammad b. Ismail from al-Fadhl b. Shadhan from Hammad b. Isa from Rib’i b. Abdallah from Abi Basir from Abi Abdillah عليه السلام in regards the words of Allāh Mighty and Majestic: “they took their rabbis and monks as lords besides Allāh” <a href=\"/books/quran:9#h31\">[9:31]</a> he said: by Allāh – they did not fast for them nor did they pray to them but they (the rabbis and monks) made permissible for them the prohibited and prohibited for them the permissible so they followed them."
+          ],
+          "text": "1. [1/53] Muhammad b. Ismail from al-Fadhl b. Shadhan from Hammad b. Isa from Rib’i b. Abdallah from Abi Basir from Abi Abdillah عليه السلام in regards the words of Allāh Mighty and Majestic: “they took their rabbis and monks as lords besides Allāh” <a href=\"/books/quran:9#h31\">[9:31]</a> he said: by Allāh – they did not fast for them nor did they pray to them but they (the rabbis and monks) made permissible for them the prohibited and prohibited for them the permissible so they followed them."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "[1/53] محمد بن إسماعيل، عن الفضل بن شاذان، عن حماد بن عيسى، عن ربعي ابن عبدالله، عن أبي بصير، عن أبي عبدالله عليه السلام في قول",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "[1/53] محمد بن إسماعيل،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "الفضل بن شاذان،",
+            "path": "/people/narrators/33"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "حماد بن عيسى،",
+            "path": "/people/narrators/38"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "ربعي ابن عبدالله،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي بصير،",
+            "path": "/people/narrators/14"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "أبي عبدالله عليه السلام في قول"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/33",
+          "/people/narrators/38",
+          "/people/narrators/14"
+        ]
+      },
+      "relations": {
+        "Mentions": [
+          "/books/quran:9:31"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/mujam-al-ahadith-al-mutabara:1:11:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/mujam-al-ahadith-al-mutabara/1/11/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/9/1/11/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1227,
+  "type": "narrator",
+  "path": "/people/narrators/1227",
+  "titles": {
+    "ar": "إِبْرَاهِيمَ بْنِ عَبْدِ الرَّحْمَنِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:101:18",
+    "/books/al-kafi:6:6:125:3"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "1227-1103": {
+      "narrator_ids": [
+        1227,
+        1103
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:101:18"
+      ]
+    },
+    "1227-2": {
+      "narrator_ids": [
+        1227,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:125:3"
+      ]
+    },
+    "6-8-1227-1103-64": {
+      "narrator_ids": [
+        6,
+        8,
+        1227,
+        1103,
+        64
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:101:18"
+      ]
+    },
+    "6-8-1227-2-178": {
+      "narrator_ids": [
+        6,
+        8,
+        1227,
+        2,
+        178
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:125:3"
+      ]
+    },
+    "8-1227": {
+      "narrator_ids": [
+        8,
+        1227
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:101:18",
+        "/books/al-kafi:6:6:125:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1227",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1227.json"
+  }
+}

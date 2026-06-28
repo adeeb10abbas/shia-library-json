@@ -1,0 +1,109 @@
+{
+  "id": 1348,
+  "type": "narrator",
+  "path": "/people/narrators/1348",
+  "titles": {
+    "ar": "الْحُسَيْنِ الْأَحْمَسِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:5:15:8",
+    "/books/al-kafi:6:5:15:9",
+    "/books/kamil-al-ziyarat:2:65:1",
+    "/books/kitab-al-zuhd:2:19:15",
+    "/books/man-la-yahduruhu-al-faqih:3:2:36:64",
+    "/books/tahdhib-al-ahkam:9:2:16",
+    "/books/tahdhib-al-ahkam:9:2:18"
+  ],
+  "verseCount": 7,
+  "relations": {},
+  "subchains": {
+    "11-318-1348-669": {
+      "narrator_ids": [
+        11,
+        318,
+        1348,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:2:16",
+        "/books/tahdhib-al-ahkam:9:2:18"
+      ]
+    },
+    "1348-669": {
+      "narrator_ids": [
+        1348,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:5:15:8",
+        "/books/al-kafi:6:5:15:9",
+        "/books/kitab-al-zuhd:2:19:15",
+        "/books/man-la-yahduruhu-al-faqih:3:2:36:64",
+        "/books/tahdhib-al-ahkam:9:2:16",
+        "/books/tahdhib-al-ahkam:9:2:18"
+      ]
+    },
+    "3-2-7-1348-669": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        1348,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:5:15:8"
+      ]
+    },
+    "318-1348": {
+      "narrator_ids": [
+        318,
+        1348
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:65:1",
+        "/books/kitab-al-zuhd:2:19:15",
+        "/books/tahdhib-al-ahkam:9:2:16",
+        "/books/tahdhib-al-ahkam:9:2:18"
+      ]
+    },
+    "318-1348-669": {
+      "narrator_ids": [
+        318,
+        1348,
+        669
+      ],
+      "verse_paths": [
+        "/books/kitab-al-zuhd:2:19:15"
+      ]
+    },
+    "7-1348": {
+      "narrator_ids": [
+        7,
+        1348
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:5:15:8",
+        "/books/al-kafi:6:5:15:9"
+      ]
+    },
+    "7-1348-669": {
+      "narrator_ids": [
+        7,
+        1348,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:5:15:9"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1348",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1348.json"
+  }
+}

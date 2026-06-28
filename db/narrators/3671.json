@@ -1,0 +1,43 @@
+{
+  "id": 3671,
+  "type": "narrator",
+  "path": "/people/narrators/3671",
+  "titles": {
+    "ar": "عُتَيْبَةَ بْنِ عَبْدِ اللَّهِ بْنِ عَجْلَانَ السَّكُونِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:5:32:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "39-3671": {
+      "narrator_ids": [
+        39,
+        3671
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:5:32:1"
+      ]
+    },
+    "6-8-39-3671": {
+      "narrator_ids": [
+        6,
+        8,
+        39,
+        3671
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:5:32:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3671",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3671.json"
+  }
+}

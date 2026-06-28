@@ -1,0 +1,32 @@
+{
+  "id": 3282,
+  "type": "narrator",
+  "path": "/people/narrators/3282",
+  "titles": {
+    "ar": "زِيَادٍ الْكُنَاسِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:112:15"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "46-3282": {
+      "narrator_ids": [
+        46,
+        3282
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:112:15"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3282",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3282.json"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": 2007,
+  "type": "narrator",
+  "path": "/people/narrators/2007",
+  "titles": {
+    "ar": "أَبِي الْفَضْلِ سَالِمٍ الْحَنَّاطِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:64:4",
+    "/books/tahdhib-al-ahkam:7:13:12"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "19-24-43-2007": {
+      "narrator_ids": [
+        19,
+        24,
+        43,
+        2007
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:64:4",
+        "/books/tahdhib-al-ahkam:7:13:12"
+      ]
+    },
+    "43-2007": {
+      "narrator_ids": [
+        43,
+        2007
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:64:4",
+        "/books/tahdhib-al-ahkam:7:13:12"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2007",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2007.json"
+  }
+}

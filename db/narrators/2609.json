@@ -1,0 +1,43 @@
+{
+  "id": 2609,
+  "type": "narrator",
+  "path": "/people/narrators/2609",
+  "titles": {
+    "ar": "الْحُسَيْنِ بْنِ أَعْيَنَ أَخُو مَالِكِ بْنِ أَعْيَنَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:41:25"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "32-2609": {
+      "narrator_ids": [
+        32,
+        2609
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:41:25"
+      ]
+    },
+    "4-5-32-2609": {
+      "narrator_ids": [
+        4,
+        5,
+        32,
+        2609
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:41:25"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2609",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2609.json"
+  }
+}

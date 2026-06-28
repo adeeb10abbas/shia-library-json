@@ -1,0 +1,68 @@
+{
+  "id": 3032,
+  "type": "narrator",
+  "path": "/people/narrators/3032",
+  "titles": {
+    "ar": "حَبَابَةَ الْوَالِبِيَّةِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:81:3",
+    "/books/man-la-yahduruhu-al-faqih:4:175:137"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "2079-3032": {
+      "narrator_ids": [
+        2079,
+        3032
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:4:175:137"
+      ]
+    },
+    "221-2079-3032": {
+      "narrator_ids": [
+        221,
+        2079,
+        3032
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:4:175:137"
+      ]
+    },
+    "35-2178-2284-2362-4226-1143-3615-913-3032": {
+      "narrator_ids": [
+        35,
+        2178,
+        2284,
+        2362,
+        4226,
+        1143,
+        3615,
+        913,
+        3032
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:81:3"
+      ]
+    },
+    "913-3032": {
+      "narrator_ids": [
+        913,
+        3032
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:81:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3032",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3032.json"
+  }
+}

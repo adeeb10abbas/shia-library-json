@@ -1,0 +1,157 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "mujam-al-ahadith-al-mutabara",
+  "chapterPath": "/books/mujam-al-ahadith-al-mutabara:3:6",
+  "chapter": {
+    "path": "/books/mujam-al-ahadith-al-mutabara:3:6",
+    "titles": {
+      "en": "Usama b. Zayd"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "mujam-al-ahadith-al-mutabara:3:6:1",
+      "type": "hadith",
+      "book": {
+        "slug": "mujam-al-ahadith-al-mutabara",
+        "titles": {
+          "ar": "معجم الأحاديث المعتبرة",
+          "en": "Mu'jam al-Ahadith al-Mu'tabara"
+        },
+        "author": {
+          "en": "Muhammad Asif al-Muhsini"
+        }
+      },
+      "path": {
+        "source": "/books/mujam-al-ahadith-al-mutabara:3:6:1",
+        "parts": [
+          3,
+          6,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 6,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/mujam-al-ahadith-al-mutabara:3:6",
+        "titles": {
+          "en": "Usama b. Zayd"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": سمعت أبا جعفر عليه السلام يقول: … إن الحسن بن علي عليهما السلام كفن اسامة بن زيد في برد حبرة …"
+        ],
+        "text": ": سمعت أبا جعفر عليه السلام يقول: … إن الحسن بن علي عليهما السلام كفن اسامة بن زيد في برد حبرة …"
+      },
+      "translations": {
+        "en.ammaar-muslim": {
+          "segments": [
+            "1. [1/-] al-Tahdhib: From al-Mufid from Abi al-Qasim Ja`far b. Muhammad from his father from Sa`d b. Abdallah from Ahmad b. Muhammad b. Isa from Muhammad b. Ismail b. Bazi` from Ali b. al-Nu`man from Abi Maryam al-Ansari who said: I heard Aba Ja`far عليه السلام saying: … al-Hasan b. Ali عليهما السلام enshrouded Usama b. Zayd in a Hibara cloak …"
+          ],
+          "text": "1. [1/-] al-Tahdhib: From al-Mufid from Abi al-Qasim Ja`far b. Muhammad from his father from Sa`d b. Abdallah from Ahmad b. Muhammad b. Isa from Muhammad b. Ismail b. Bazi` from Ali b. al-Nu`man from Abi Maryam al-Ansari who said: I heard Aba Ja`far عليه السلام saying: … al-Hasan b. Ali عليهما السلام enshrouded Usama b. Zayd in a Hibara cloak …"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "[-/1] التهذيب: عن المفيد، عن أبي القاسم جعفر بن محمد، عن أبيه، عن سعد بن عبد الله، عن أحمد بن محمد بن عيسى، عن محمد بن إسماعيل بن بزيع، عن علي بن النعمان، عن أبي مريم الانصاري قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "[-/1] التهذيب:"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "المفيد،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "أبي القاسم جعفر بن محمد،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبيه،",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "سعد بن عبد الله،",
+            "path": "/people/narrators/355"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أحمد بن محمد بن عيسى،",
+            "path": "/people/narrators/13"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "محمد بن إسماعيل بن بزيع،",
+            "path": "/people/narrators/130"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "علي بن النعمان،",
+            "path": "/people/narrators/88"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي مريم الانصاري قال",
+            "path": "/people/narrators/379"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/2",
+          "/people/narrators/355",
+          "/people/narrators/13",
+          "/people/narrators/130",
+          "/people/narrators/88",
+          "/people/narrators/379"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/mujam-al-ahadith-al-mutabara:3:6:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/mujam-al-ahadith-al-mutabara/3/6/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/9/3/6/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

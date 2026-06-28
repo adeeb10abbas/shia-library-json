@@ -1,0 +1,43 @@
+{
+  "id": 4442,
+  "type": "narrator",
+  "path": "/people/narrators/4442",
+  "titles": {
+    "ar": "مُوسَى بْنِ بَكْرٍقَالَ كَانَ أَبُو الْحَسَنِ الْأَوَّلُ ( عليه السلام )"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:82:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "145-4442": {
+      "narrator_ids": [
+        145,
+        4442
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:82:1"
+      ]
+    },
+    "6-8-145-4442": {
+      "narrator_ids": [
+        6,
+        8,
+        145,
+        4442
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:82:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4442",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4442.json"
+  }
+}

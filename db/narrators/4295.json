@@ -1,0 +1,53 @@
+{
+  "id": 4295,
+  "type": "narrator",
+  "path": "/people/narrators/4295",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ عِمْرَانَ السَّبِيعِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:60:16"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "20-4295": {
+      "narrator_ids": [
+        20,
+        4295
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:60:16"
+      ]
+    },
+    "20-4295-124-44-669": {
+      "narrator_ids": [
+        20,
+        4295,
+        124,
+        44,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:60:16"
+      ]
+    },
+    "4295-124": {
+      "narrator_ids": [
+        4295,
+        124
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:60:16"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4295",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4295.json"
+  }
+}

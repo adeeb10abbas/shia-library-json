@@ -1,0 +1,123 @@
+{
+  "id": 1891,
+  "type": "narrator",
+  "path": "/people/narrators/1891",
+  "titles": {
+    "ar": "ابْنِ عَبَّاسٍ",
+    "en": "Ibn Abbas"
+  },
+  "versePaths": [
+    "/books/al-amali-saduq:44:18",
+    "/books/al-amali-saduq:4:6",
+    "/books/al-kafi:8:1:41:1",
+    "/books/man-la-yahduruhu-al-faqih:4:147:28",
+    "/books/man-la-yahduruhu-al-faqih:4:175:155",
+    "/books/man-la-yahduruhu-al-faqih:4:73:3",
+    "/books/man-la-yahduruhu-al-faqih:4:73:4"
+  ],
+  "verseCount": 7,
+  "relations": {},
+  "subchains": {
+    "1139-2-1891": {
+      "narrator_ids": [
+        1139,
+        2,
+        1891
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:4:175:155",
+        "/books/man-la-yahduruhu-al-faqih:4:73:3"
+      ]
+    },
+    "154-25-333-1366-1632-1891": {
+      "narrator_ids": [
+        154,
+        25,
+        333,
+        1366,
+        1632,
+        1891
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:41:1"
+      ]
+    },
+    "1632-1891": {
+      "narrator_ids": [
+        1632,
+        1891
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:41:1"
+      ]
+    },
+    "2-162-2079-354-1891": {
+      "narrator_ids": [
+        2,
+        162,
+        2079,
+        354,
+        1891
+      ],
+      "verse_paths": [
+        "/books/al-amali-saduq:44:18"
+      ]
+    },
+    "2-1891": {
+      "narrator_ids": [
+        2,
+        1891
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:4:175:155",
+        "/books/man-la-yahduruhu-al-faqih:4:73:3"
+      ]
+    },
+    "3286-1891": {
+      "narrator_ids": [
+        3286,
+        1891
+      ],
+      "verse_paths": [
+        "/books/al-amali-saduq:4:6"
+      ]
+    },
+    "354-1891": {
+      "narrator_ids": [
+        354,
+        1891
+      ],
+      "verse_paths": [
+        "/books/al-amali-saduq:44:18"
+      ]
+    },
+    "404-1891": {
+      "narrator_ids": [
+        404,
+        1891
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:4:73:4"
+      ]
+    },
+    "67-42-3286-1891": {
+      "narrator_ids": [
+        67,
+        42,
+        3286,
+        1891
+      ],
+      "verse_paths": [
+        "/books/al-amali-saduq:4:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1891",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1891.json"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": 4010,
+  "type": "narrator",
+  "path": "/people/narrators/4010",
+  "titles": {
+    "ar": "فُضَيْلُ بْنُ عُثْمَانَ الْأَعْوَرُ"
+  },
+  "versePaths": [
+    "/books/man-la-yahduruhu-al-faqih:2:1:7:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "4010-669": {
+      "narrator_ids": [
+        4010,
+        669
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:2:1:7:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4010",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4010.json"
+  }
+}

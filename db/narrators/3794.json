@@ -1,0 +1,53 @@
+{
+  "id": 3794,
+  "type": "narrator",
+  "path": "/people/narrators/3794",
+  "titles": {
+    "ar": "عَلِيِّ بْنِ عُقْبَةَ بَيَّاعِ الْأَكْسِيَةِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:192:6"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-5-22-3794-669": {
+      "narrator_ids": [
+        11,
+        5,
+        22,
+        3794,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:192:6"
+      ]
+    },
+    "22-3794": {
+      "narrator_ids": [
+        22,
+        3794
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:192:6"
+      ]
+    },
+    "3794-669": {
+      "narrator_ids": [
+        3794,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:192:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3794",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3794.json"
+  }
+}

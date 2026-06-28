@@ -1,0 +1,104 @@
+{
+  "id": 1140,
+  "type": "narrator",
+  "path": "/people/narrators/1140",
+  "titles": {
+    "ar": "عَبْدِ اللَّهِ بْنِ الْفَضْلِ",
+    "en": "Abdullah ibn al-Fadl"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:159:17",
+    "/books/al-kafi:5:3:39:5",
+    "/books/tahdhib-al-ahkam:4:28:41"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "11-6-12-2-1140-32-2": {
+      "narrator_ids": [
+        11,
+        6,
+        12,
+        2,
+        1140,
+        32,
+        2
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:4:28:41"
+      ]
+    },
+    "1140-2": {
+      "narrator_ids": [
+        1140,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:39:5"
+      ]
+    },
+    "1140-32": {
+      "narrator_ids": [
+        1140,
+        32
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:4:28:41"
+      ]
+    },
+    "1140-36": {
+      "narrator_ids": [
+        1140,
+        36
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:159:17"
+      ]
+    },
+    "2-1140": {
+      "narrator_ids": [
+        2,
+        1140
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:159:17",
+        "/books/al-kafi:5:3:39:5",
+        "/books/tahdhib-al-ahkam:4:28:41"
+      ]
+    },
+    "6-12-2-1140-2-60-669": {
+      "narrator_ids": [
+        6,
+        12,
+        2,
+        1140,
+        2,
+        60,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:39:5"
+      ]
+    },
+    "6-12-2-1140-36": {
+      "narrator_ids": [
+        6,
+        12,
+        2,
+        1140,
+        36
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:159:17"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1140",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1140.json"
+  }
+}

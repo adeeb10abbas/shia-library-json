@@ -1,0 +1,53 @@
+{
+  "id": 4103,
+  "type": "narrator",
+  "path": "/people/narrators/4103",
+  "titles": {
+    "ar": "مُحَمَّدٍ الْأَصَمِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:3:9:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-67-3493-4103-669": {
+      "narrator_ids": [
+        11,
+        67,
+        3493,
+        4103,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:9:3"
+      ]
+    },
+    "3493-4103": {
+      "narrator_ids": [
+        3493,
+        4103
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:9:3"
+      ]
+    },
+    "4103-669": {
+      "narrator_ids": [
+        4103,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:9:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4103",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4103.json"
+  }
+}

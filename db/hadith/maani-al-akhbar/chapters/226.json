@@ -1,0 +1,86 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "maani-al-akhbar",
+  "chapterPath": "/books/maani-al-akhbar:226",
+  "chapter": {
+    "path": "/books/maani-al-akhbar:226",
+    "titles": {
+      "en": "The meaning of the share"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "maani-al-akhbar:226:1",
+      "type": "hadith",
+      "book": {
+        "slug": "maani-al-akhbar",
+        "titles": {
+          "ar": "معاني الأخبار",
+          "en": "Ma'ani al-Akhbar"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/maani-al-akhbar:226:1",
+        "parts": [
+          226,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 226,
+        "book": 1
+      },
+      "chapter": {
+        "path": "/books/maani-al-akhbar:226",
+        "titles": {
+          "en": "The meaning of the share"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا سعد بن عبد الله، عن سلمة بن الخطاب، عن إبراهيم بن محمد الثقفي، عن إبراهيم بن ميمون، عن مصعب، عن   سعد، عن الأصبغ، عن علي عليه السلام في قول الله عز وجل: \" وقالوا ربنا الله عجل لنا قطنا قبل يوم الحساب  \" قال: نصيبهم من العذاب."
+        ],
+        "text": ": حدثنا سعد بن عبد الله، عن سلمة بن الخطاب، عن إبراهيم بن محمد الثقفي، عن إبراهيم بن ميمون، عن مصعب، عن   سعد، عن الأصبغ، عن علي عليه السلام في قول الله عز وجل: \" وقالوا ربنا الله عجل لنا قطنا قبل يوم الحساب  \" قال: نصيبهم من العذاب."
+      },
+      "translations": {
+        "en.basel-kadem": {
+          "segments": [
+            "1.\tMy father, may Allah grant him mercy, said: We were told by Sa’d bin Abdullah, from Salama bin Khattab, from Ibrahim bin Muhammed al-Thaqafi, from Ibrahim bin Maimoun, from Mus’ab, from Sa’d, from Asbagh, from Ali, peace be upon him, with regards to the saying of Allah, Exalted and Glorious is He: «And they said: Our Lord, hasten for us our share before the Day of Reckoning.» <a href=\"/books/quran:38#h16\">[38:16]</a> Their share of the torment."
+          ],
+          "text": "1.\tMy father, may Allah grant him mercy, said: We were told by Sa’d bin Abdullah, from Salama bin Khattab, from Ibrahim bin Muhammed al-Thaqafi, from Ibrahim bin Maimoun, from Mus’ab, from Sa’d, from Asbagh, from Ali, peace be upon him, with regards to the saying of Allah, Exalted and Glorious is He: «And they said: Our Lord, hasten for us our share before the Day of Reckoning.» <a href=\"/books/quran:38#h16\">[38:16]</a> Their share of the torment."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "أبي - رحمه الله - قال",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "أبي - رحمه الله - قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {
+        "Mentions": [
+          "/books/quran:38:16"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/maani-al-akhbar:226:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/maani-al-akhbar/226/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/28/1/226/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

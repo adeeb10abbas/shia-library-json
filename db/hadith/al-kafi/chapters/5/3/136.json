@@ -1,0 +1,924 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:5:3:136",
+  "chapter": {
+    "path": "/books/al-kafi:5:3:136",
+    "titles": {
+      "ar": "باب الْوَلَدِ إِذَا كَانَ أَحَدُ أَبَوَيْهِ مَمْلُوكاً وَ الْآخَرُ حُرّاً",
+      "en": "Chapter 133 – The child, when one of its parents is an owned slave, and the other one is free"
+    }
+  },
+  "count": 7,
+  "records": [
+    {
+      "id": "al-kafi:5:3:136:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:5:3:136:1",
+        "parts": [
+          5,
+          3,
+          136,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 3,
+        "chapter": 136,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:5:3:136",
+        "titles": {
+          "ar": "باب الْوَلَدِ إِذَا كَانَ أَحَدُ أَبَوَيْهِ مَمْلُوكاً وَ الْآخَرُ حُرّاً",
+          "en": "Chapter 133 – The child, when one of its parents is an owned slave, and the other one is free"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " الْوَلَدِ مِنَ الْحُرِّ وَ الْمَمْلُوكَةِ قَالَ يَذْهَبُ إِلَى الْحُرِّ مِنْهُمَا ."
+        ],
+        "text": "الْوَلَدِ مِنَ الْحُرِّ وَ الْمَمْلُوكَةِ قَالَ يَذْهَبُ إِلَى الْحُرِّ مِنْهُمَا ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father, from Ibn Abu Umeyr, from Muhammad Bin Abu Hamza, and Al Hakam Bin Miskeen, from Jameel, and Ibn Bukeyr, ",
+            "‘With regards to the child from the free man and the slave woman, he<sup>asws</sup> said: ‘He would go to the free one from them’."
+          ],
+          "text": "Ali Bin Ibrahim, from his father, from Ibn Abu Umeyr, from Muhammad Bin Abu Hamza, and Al Hakam Bin Miskeen, from Jameel, and Ibn Bukeyr,\n\n‘With regards to the child from the free man and the slave woman, he<sup>asws</sup> said: ‘He would go to the free one from them’."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنِ ابْنِ أَبِي عُمَيْرٍ عَنْ مُحَمَّدِ بْنِ أَبِي حَمْزَةَ وَ الْحَكَمِ بْنِ مِسْكِينٍ عَنْ جَمِيلٍ وَ ابْنِ بُكَيْرٍ فِي",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ أَبِي عُمَيْرٍ",
+            "path": "/people/narrators/7"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ أَبِي حَمْزَةَ",
+            "path": "/people/narrators/158"
+          },
+          {
+            "kind": "plain",
+            "text": " وَ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحَكَمِ بْنِ مِسْكِينٍ",
+            "path": "/people/narrators/291"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "جَمِيلٍ",
+            "path": "/people/narrators/95"
+          },
+          {
+            "kind": "plain",
+            "text": " وَ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ بُكَيْرٍ",
+            "path": "/people/narrators/56"
+          },
+          {
+            "kind": "plain",
+            "text": " فِي"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/7",
+          "/people/narrators/158",
+          "/people/narrators/291",
+          "/people/narrators/95",
+          "/people/narrators/56"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:5:3:136:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/5/3/136/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:5:3:136:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:5:3:136:2",
+        "parts": [
+          5,
+          3,
+          136,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 3,
+        "chapter": 136,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:5:3:136",
+        "titles": {
+          "ar": "باب الْوَلَدِ إِذَا كَانَ أَحَدُ أَبَوَيْهِ مَمْلُوكاً وَ الْآخَرُ حُرّاً",
+          "en": "Chapter 133 – The child, when one of its parents is an owned slave, and the other one is free"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " حُرٌّ فَقُلْتُ وَ الْحُرُّ يَتَزَوَّجُ الْمَمْلُوكَةَ قَالَ يُلْحَقُ الْوَلَدُ بِالْحُرِّيَّةِ حَيْثُ كَانَتْ إِنْ كَانَتِ الْأُمُّ حُرَّةً أُعْتِقَ بِأُمِّهِ وَ إِنْ كَانَ الْأَبُ حُرّاً أُعْتِقَ بِأَبِيهِ ."
+        ],
+        "text": "حُرٌّ فَقُلْتُ وَ الْحُرُّ يَتَزَوَّجُ الْمَمْلُوكَةَ قَالَ يُلْحَقُ الْوَلَدُ بِالْحُرِّيَّةِ حَيْثُ كَانَتْ إِنْ كَانَتِ الْأُمُّ حُرَّةً أُعْتِقَ بِأُمِّهِ وَ إِنْ كَانَ الْأَبُ حُرّاً أُعْتِقَ بِأَبِيهِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Muhammad Bin Ismail, from Abu Ismail, from Abu Al Fazl Al Makfouf, author of Al Arabiyya, from Abu Ja’far Al Ahowl Al Taaqy, from a man, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having been asked about the owned slave who marries a free woman, what would be the state of the child? So he<sup>asws</sup> said: ‘Free’. So I said, ‘And the free man who marries the slave woman?’ He<sup>asws</sup> said: ‘The child would be attached with the free one wherever it (the freedom) may be. If the mother was free, so he would be free with his mother, and if the father was free, so he would be free with his father’."
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Muhammad Bin Ismail, from Abu Ismail, from Abu Al Fazl Al Makfouf, author of Al Arabiyya, from Abu Ja’far Al Ahowl Al Taaqy, from a man,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having been asked about the owned slave who marries a free woman, what would be the state of the child? So he<sup>asws</sup> said: ‘Free’. So I said, ‘And the free man who marries the slave woman?’ He<sup>asws</sup> said: ‘The child would be attached with the free one wherever it (the freedom) may be. If the mother was free, so he would be free with his mother, and if the father was free, so he would be free with his father’."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنْ مُحَمَّدِ بْنِ إِسْمَاعِيلَ عَنْ أَبِي إِسْمَاعِيلَ عَنْ أَبِي الْفَضْلِ الْمَكْفُوفِ صَاحِبِ الْعَرَبِيَّةِ عَنْ أَبِي جَعْفَرٍ الْأَحْوَلِ الطَّاقِيِّ عَنْ رَجُلٍ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) أَنَّهُ سُئِلَ عَنِ الْمَمْلُوكِ يَتَزَوَّجُ الْحُرَّةَ مَا حَالُ الْوَلَدِ فَقَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ إِسْمَاعِيلَ",
+            "path": "/people/narrators/17"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي إِسْمَاعِيلَ",
+            "path": "/people/narrators/664"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي الْفَضْلِ الْمَكْفُوفِ صَاحِبِ الْعَرَبِيَّةِ",
+            "path": "/people/narrators/2006"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي جَعْفَرٍ الْأَحْوَلِ الطَّاقِيِّ",
+            "path": "/people/narrators/2052"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "رَجُلٍ",
+            "path": "/people/narrators/60"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "plain",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام ) أَنَّهُ سُئِلَ"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "plain",
+            "text": "الْمَمْلُوكِ يَتَزَوَّجُ الْحُرَّةَ مَا حَالُ الْوَلَدِ"
+          },
+          {
+            "kind": "plain",
+            "text": " فَقَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/5",
+          "/people/narrators/17",
+          "/people/narrators/664",
+          "/people/narrators/2006",
+          "/people/narrators/2052",
+          "/people/narrators/60"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:5:3:136:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/5/3/136/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:5:3:136:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:5:3:136:3",
+        "parts": [
+          5,
+          3,
+          136,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 3,
+        "chapter": 136,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:5:3:136",
+        "titles": {
+          "ar": "باب الْوَلَدِ إِذَا كَانَ أَحَدُ أَبَوَيْهِ مَمْلُوكاً وَ الْآخَرُ حُرّاً",
+          "en": "Chapter 133 – The child, when one of its parents is an owned slave, and the other one is free"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَمِعْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) يَقُولُ إِذَا تَزَوَّجَ الْعَبْدُ الْحُرَّةَ فَوُلْدُهُ أَحْرَارٌ وَ إِذَا تَزَوَّجَ الْحُرُّ الْأَمَةَ فَوُلْدُهُ أَحْرَارٌ ."
+        ],
+        "text": "سَمِعْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) يَقُولُ إِذَا تَزَوَّجَ الْعَبْدُ الْحُرَّةَ فَوُلْدُهُ أَحْرَارٌ وَ إِذَا تَزَوَّجَ الْحُرُّ الْأَمَةَ فَوُلْدُهُ أَحْرَارٌ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ahmad Bin Muhammad Al Asaamy, from Ali Bin Al Hassan Al Taymi, from Ali Bin Asbaat, from Al Hakam Bin Miseen, from Jameel Bin Darraj who said, ",
+            "‘I heard Abu Abdullah<sup>asws</sup> saying: ‘When the slave marries the free woman, so his children would be free ones, and when the free man marries the slave woman, so his children would be free ones’."
+          ],
+          "text": "Ahmad Bin Muhammad Al Asaamy, from Ali Bin Al Hassan Al Taymi, from Ali Bin Asbaat, from Al Hakam Bin Miseen, from Jameel Bin Darraj who said,\n\n‘I heard Abu Abdullah<sup>asws</sup> saying: ‘When the slave marries the free woman, so his children would be free ones, and when the free man marries the slave woman, so his children would be free ones’."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "أَحْمَدُ بْنُ مُحَمَّدٍ الْعَاصِمِيُّ عَنْ عَلِيِّ بْنِ الْحَسَنِ التَّيْمِيِّ عَنْ عَلِيِّ بْنِ أَسْبَاطٍ عَنِ الْحَكَمِ بْنِ مِسْكِينٍ عَنْ جَمِيلِ بْنِ دَرَّاجٍ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدُ بْنُ مُحَمَّدٍ الْعَاصِمِيُّ",
+            "path": "/people/narrators/332"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيِّ بْنِ الْحَسَنِ التَّيْمِيِّ",
+            "path": "/people/narrators/349"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيِّ بْنِ أَسْبَاطٍ",
+            "path": "/people/narrators/68"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحَكَمِ بْنِ مِسْكِينٍ",
+            "path": "/people/narrators/291"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "جَمِيلِ بْنِ دَرَّاجٍ",
+            "path": "/people/narrators/66"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/332",
+          "/people/narrators/349",
+          "/people/narrators/68",
+          "/people/narrators/291",
+          "/people/narrators/66"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:5:3:136:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/5/3/136/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:5:3:136:4",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:5:3:136:4",
+        "parts": [
+          5,
+          3,
+          136,
+          4
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 3,
+        "chapter": 136,
+        "hadith": 4
+      },
+      "chapter": {
+        "path": "/books/al-kafi:5:3:136",
+        "titles": {
+          "ar": "باب الْوَلَدِ إِذَا كَانَ أَحَدُ أَبَوَيْهِ مَمْلُوكاً وَ الْآخَرُ حُرّاً",
+          "en": "Chapter 133 – The child, when one of its parents is an owned slave, and the other one is free"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَأَلْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) عَنِ الْحُرِّ يَتَزَوَّجُ الْأَمَةَ أَوْ عَبْدٍ يَتَزَوَّجُ حُرَّةً قَالَ فَقَالَ لِي لَيْسَ يُسْتَرَقُّ الْوَلَدُ إِذَا كَانَ أَحَدُ أَبَوَيْهِ حُرّاً إِنَّهُ يُلْحَقُ بِالْحُرِّ مِنْهُمَا أَيَّهُمَا كَانَ أَباً كَانَ أَوْ أُمّاً ."
+        ],
+        "text": "سَأَلْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) عَنِ الْحُرِّ يَتَزَوَّجُ الْأَمَةَ أَوْ عَبْدٍ يَتَزَوَّجُ حُرَّةً قَالَ فَقَالَ لِي لَيْسَ يُسْتَرَقُّ الْوَلَدُ إِذَا كَانَ أَحَدُ أَبَوَيْهِ حُرّاً إِنَّهُ يُلْحَقُ بِالْحُرِّ مِنْهُمَا أَيَّهُمَا كَانَ أَباً كَانَ أَوْ أُمّاً ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Ali Bin Al Hakam and Ahmad Bin Muhammad Bin Abu Nasr, from Al Hakam Bin Miskeen, from Jameel Bin Darraj who said, ",
+            "‘I asked Abu Abdullah<sup>asws</sup> about the free man marrying the slave woman, or a slave marrying a free woman. So he<sup>asws</sup> said to me: ‘The child would not be enslaved when one of its parents was free. It would be attached with the free one of the two, whichever of them, be it a father or a mother’."
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Ali Bin Al Hakam and Ahmad Bin Muhammad Bin Abu Nasr, from Al Hakam Bin Miskeen, from Jameel Bin Darraj who said,\n\n‘I asked Abu Abdullah<sup>asws</sup> about the free man marrying the slave woman, or a slave marrying a free woman. So he<sup>asws</sup> said to me: ‘The child would not be enslaved when one of its parents was free. It would be attached with the free one of the two, whichever of them, be it a father or a mother’."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنْ عَلِيِّ بْنِ الْحَكَمِ وَ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ أَبِي نَصْرٍ عَنِ الْحَكَمِ بْنِ مِسْكِينٍ عَنْ جَمِيلِ بْنِ دَرَّاجٍ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيِّ بْنِ الْحَكَمِ",
+            "path": "/people/narrators/15"
+          },
+          {
+            "kind": "plain",
+            "text": " وَ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدِ بْنِ أَبِي نَصْرٍ",
+            "path": "/people/narrators/39"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحَكَمِ بْنِ مِسْكِينٍ",
+            "path": "/people/narrators/291"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "جَمِيلِ بْنِ دَرَّاجٍ",
+            "path": "/people/narrators/66"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/5",
+          "/people/narrators/15",
+          "/people/narrators/39",
+          "/people/narrators/291",
+          "/people/narrators/66"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:5:3:136:4",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/5/3/136/4.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:5:3:136:5",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:5:3:136:5",
+        "parts": [
+          5,
+          3,
+          136,
+          5
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 3,
+        "chapter": 136,
+        "hadith": 5
+      },
+      "chapter": {
+        "path": "/books/al-kafi:5:3:136",
+        "titles": {
+          "ar": "باب الْوَلَدِ إِذَا كَانَ أَحَدُ أَبَوَيْهِ مَمْلُوكاً وَ الْآخَرُ حُرّاً",
+          "en": "Chapter 133 – The child, when one of its parents is an owned slave, and the other one is free"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَمِعْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) يَقُولُ إِذَا تَزَوَّجَ الْعَبْدُ الْحُرَّةَ فَوُلْدُهُ أَحْرَارٌ وَ إِذَا تَزَوَّجَ الْحُرُّ الْأَمَةَ فَوُلْدُهُ أَحْرَارٌ ."
+        ],
+        "text": "سَمِعْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) يَقُولُ إِذَا تَزَوَّجَ الْعَبْدُ الْحُرَّةَ فَوُلْدُهُ أَحْرَارٌ وَ إِذَا تَزَوَّجَ الْحُرُّ الْأَمَةَ فَوُلْدُهُ أَحْرَارٌ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Sahl Bin Ziyad, from Ali Bin Asbaat, and Muhammad Bin Al Husayn, altogether from Al Hakam Bin Miskeen, from Jameel Bin Darraj who said, ",
+            "‘I heard Abu Abdullah<sup>asws</sup> saying: ‘When the slave marries the free woman, so his children would be free, and when the free man marries the slave woman, so his children would (also) be free’."
+          ],
+          "text": "Sahl Bin Ziyad, from Ali Bin Asbaat, and Muhammad Bin Al Husayn, altogether from Al Hakam Bin Miskeen, from Jameel Bin Darraj who said,\n\n‘I heard Abu Abdullah<sup>asws</sup> saying: ‘When the slave marries the free woman, so his children would be free, and when the free man marries the slave woman, so his children would (also) be free’."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "سَهْلُ بْنُ زِيَادٍ عَنْ عَلِيِّ بْنِ أَسْبَاطٍ وَ مُحَمَّدِ بْنِ الْحُسَيْنِ جَمِيعاً عَنِ الْحَكَمِ بْنِ مِسْكِينٍ عَنْ جَمِيلِ بْنِ دَرَّاجٍ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "سَهْلُ بْنُ زِيَادٍ",
+            "path": "/people/narrators/8"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيِّ بْنِ أَسْبَاطٍ",
+            "path": "/people/narrators/68"
+          },
+          {
+            "kind": "plain",
+            "text": " وَ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ الْحُسَيْنِ",
+            "path": "/people/narrators/29"
+          },
+          {
+            "kind": "plain",
+            "text": " جَمِيعاً عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحَكَمِ بْنِ مِسْكِينٍ",
+            "path": "/people/narrators/291"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "جَمِيلِ بْنِ دَرَّاجٍ",
+            "path": "/people/narrators/66"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/8",
+          "/people/narrators/68",
+          "/people/narrators/29",
+          "/people/narrators/291",
+          "/people/narrators/66"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:5:3:136:5",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/5/3/136/5.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:5:3:136:6",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:5:3:136:6",
+        "parts": [
+          5,
+          3,
+          136,
+          6
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 3,
+        "chapter": 136,
+        "hadith": 6
+      },
+      "chapter": {
+        "path": "/books/al-kafi:5:3:136",
+        "titles": {
+          "ar": "باب الْوَلَدِ إِذَا كَانَ أَحَدُ أَبَوَيْهِ مَمْلُوكاً وَ الْآخَرُ حُرّاً",
+          "en": "Chapter 133 – The child, when one of its parents is an owned slave, and the other one is free"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " فِي الْعَبْدِ تَكُونُ تَحْتَهُ الْحُرَّةُ قَالَ وُلْدُهُ أَحْرَارٌ فَإِنْ أُعْتِقَ الْمَمْلُوكُ لَحِقَ بِأَبِيهِ ."
+        ],
+        "text": "فِي الْعَبْدِ تَكُونُ تَحْتَهُ الْحُرَّةُ قَالَ وُلْدُهُ أَحْرَارٌ فَإِنْ أُعْتِقَ الْمَمْلُوكُ لَحِقَ بِأَبِيهِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father, from Ibn Abu Umeyr, from Abdullah Bin Sinan, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said regarding the slave who happens to have the free woman under him (as a wife). He<sup>asws</sup> said: ‘His children would be free. So if the slave is emancipated, it would be attached with its father’."
+          ],
+          "text": "Ali Bin Ibrahim, from his father, from Ibn Abu Umeyr, from Abdullah Bin Sinan,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said regarding the slave who happens to have the free woman under him (as a wife). He<sup>asws</sup> said: ‘His children would be free. So if the slave is emancipated, it would be attached with its father’."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنِ ابْنِ أَبِي عُمَيْرٍ عَنْ عَبْدِ اللَّهِ بْنِ سِنَانٍ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ أَبِي عُمَيْرٍ",
+            "path": "/people/narrators/7"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَبْدِ اللَّهِ بْنِ سِنَانٍ",
+            "path": "/people/narrators/31"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/7",
+          "/people/narrators/31",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:5:3:136:6",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/5/3/136/6.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:5:3:136:7",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:5:3:136:7",
+        "parts": [
+          5,
+          3,
+          136,
+          7
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 3,
+        "chapter": 136,
+        "hadith": 7
+      },
+      "chapter": {
+        "path": "/books/al-kafi:5:3:136",
+        "titles": {
+          "ar": "باب الْوَلَدِ إِذَا كَانَ أَحَدُ أَبَوَيْهِ مَمْلُوكاً وَ الْآخَرُ حُرّاً",
+          "en": "Chapter 133 – The child, when one of its parents is an owned slave, and the other one is free"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَأَلْتُهُ عَنِ الرَّجُلِ الْحُرِّ يَتَزَوَّجُ بِأَمَةِ قَوْمٍ الْوُلْدُ مَمَالِيكُ أَوْ أَحْرَارٌ قَالَ إِذَا كَانَ أَحَدُ أَبَوَيْهِ حُرّاً فَالْوُلْدُ أَحْرَارٌ .",
+          "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ سَهْلِ بْنِ زِيَادٍ عَنْ مُحَمَّدِ بْنِ عِيسَى عَنِ ابْنِ أَبِي عُمَيْرٍ مِثْلَهُ ."
+        ],
+        "text": "سَأَلْتُهُ عَنِ الرَّجُلِ الْحُرِّ يَتَزَوَّجُ بِأَمَةِ قَوْمٍ الْوُلْدُ مَمَالِيكُ أَوْ أَحْرَارٌ قَالَ إِذَا كَانَ أَحَدُ أَبَوَيْهِ حُرّاً فَالْوُلْدُ أَحْرَارٌ .\n\nعِدَّةٌ مِنْ أَصْحَابِنَا عَنْ سَهْلِ بْنِ زِيَادٍ عَنْ مُحَمَّدِ بْنِ عِيسَى عَنِ ابْنِ أَبِي عُمَيْرٍ مِثْلَهُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father, from Ibn Abu Umeyr, from one of our companions, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup>, said, ‘I asked him<sup>asws</sup> about the free man marrying a slave girl of a group of people, would the children be slaves or free ones?’ He<sup>asws</sup> said: ‘When it was such that one of its parents was free, so the children would be free ones’.",
+            "<span style=\"font-size: small\">A number of our companions, from Sahl Bin Ziyad, from Muhammad Bin Isa, from Ibn Abu Umeyr</span> – similar to it."
+          ],
+          "text": "Ali Bin Ibrahim, from his father, from Ibn Abu Umeyr, from one of our companions,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup>, said, ‘I asked him<sup>asws</sup> about the free man marrying a slave girl of a group of people, would the children be slaves or free ones?’ He<sup>asws</sup> said: ‘When it was such that one of its parents was free, so the children would be free ones’.\n\n<span style=\"font-size: small\">A number of our companions, from Sahl Bin Ziyad, from Muhammad Bin Isa, from Ibn Abu Umeyr</span> – similar to it."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنِ ابْنِ أَبِي عُمَيْرٍ عَنْ بَعْضِ أَصْحَابِنَا عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ أَبِي عُمَيْرٍ",
+            "path": "/people/narrators/7"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "بَعْضِ أَصْحَابِنَا",
+            "path": "/people/narrators/36"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/7",
+          "/people/narrators/36",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:1:2:9:1",
+          "/books/al-kafi:3:3:19:10",
+          "/books/al-kafi:3:3:22:1",
+          "/books/al-kafi:3:3:41:1",
+          "/books/al-kafi:3:5:17:6",
+          "/books/al-kafi:4:2:70:1",
+          "/books/al-kafi:4:3:92:8",
+          "/books/al-kafi:5:2:56:2",
+          "/books/al-kafi:5:3:75:2",
+          "/books/al-kafi:6:3:15:4",
+          "/books/al-kafi:6:6:117:2",
+          "/books/tahdhib-al-ahkam:7:32:14"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:5:3:136:7",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/5/3/136/7.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

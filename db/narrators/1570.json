@@ -1,0 +1,158 @@
+{
+  "id": 1570,
+  "type": "narrator",
+  "path": "/people/narrators/1570",
+  "titles": {
+    "ar": "عَلِيِّ بْنِ الرَّيَّانِ بْنِ الصَّلْتِ"
+  },
+  "versePaths": [
+    "/books/al-istibsar:2:144:7",
+    "/books/al-kafi:6:6:68:5",
+    "/books/al-kafi:6:7:1:4",
+    "/books/kamil-al-ziyarat:2:93:4",
+    "/books/tahdhib-al-ahkam:1:31:8"
+  ],
+  "verseCount": 5,
+  "relations": {},
+  "subchains": {
+    "11-1538-1570-1242": {
+      "narrator_ids": [
+        11,
+        1538,
+        1570,
+        1242
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:2:144:7"
+      ]
+    },
+    "11-1570": {
+      "narrator_ids": [
+        11,
+        1570
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:31:8"
+      ]
+    },
+    "11-1570-434-199-669": {
+      "narrator_ids": [
+        11,
+        1570,
+        434,
+        199,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:31:8"
+      ]
+    },
+    "12-1570": {
+      "narrator_ids": [
+        12,
+        1570
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:68:5",
+        "/books/al-kafi:6:7:1:4"
+      ]
+    },
+    "1538-1570": {
+      "narrator_ids": [
+        1538,
+        1570
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:2:144:7"
+      ]
+    },
+    "1570-1153": {
+      "narrator_ids": [
+        1570,
+        1153
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:68:5"
+      ]
+    },
+    "1570-1242": {
+      "narrator_ids": [
+        1570,
+        1242
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:2:144:7"
+      ]
+    },
+    "1570-2608": {
+      "narrator_ids": [
+        1570,
+        2608
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:93:4"
+      ]
+    },
+    "1570-434": {
+      "narrator_ids": [
+        1570,
+        434
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:31:8"
+      ]
+    },
+    "6-12-1570": {
+      "narrator_ids": [
+        6,
+        12,
+        1570
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:1:4"
+      ]
+    },
+    "6-12-1570-1153-830-245-669": {
+      "narrator_ids": [
+        6,
+        12,
+        1570,
+        1153,
+        830,
+        245,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:68:5"
+      ]
+    },
+    "781-1570": {
+      "narrator_ids": [
+        781,
+        1570
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:93:4"
+      ]
+    },
+    "781-1570-2608-715": {
+      "narrator_ids": [
+        781,
+        1570,
+        2608,
+        715
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:93:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1570",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1570.json"
+  }
+}

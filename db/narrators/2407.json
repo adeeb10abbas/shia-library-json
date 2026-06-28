@@ -1,0 +1,54 @@
+{
+  "id": 2407,
+  "type": "narrator",
+  "path": "/people/narrators/2407",
+  "titles": {
+    "ar": "إِسْحَاقَ بْنِ أَبِي هِلَالٍ الْمَدَائِنِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:2:19:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2407-890": {
+      "narrator_ids": [
+        2407,
+        890
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:19:3"
+      ]
+    },
+    "3-2-7-2407-890-669": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        2407,
+        890,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:19:3"
+      ]
+    },
+    "7-2407": {
+      "narrator_ids": [
+        7,
+        2407
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:19:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2407",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2407.json"
+  }
+}

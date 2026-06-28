@@ -1,0 +1,32 @@
+{
+  "id": 2961,
+  "type": "narrator",
+  "path": "/people/narrators/2961",
+  "titles": {
+    "ar": "ثُمَّ أَرْسَلَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:43:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2961-312": {
+      "narrator_ids": [
+        2961,
+        312
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2961",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2961.json"
+  }
+}

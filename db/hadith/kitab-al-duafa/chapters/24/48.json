@@ -1,0 +1,84 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "kitab-al-duafa",
+  "chapterPath": "/books/kitab-al-duafa:24:48",
+  "chapter": {
+    "path": "/books/kitab-al-duafa:24:48",
+    "titles": {
+      "en": "Aḥmad b. Abī ʿAbdillāh, al-Barqī"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "kitab-al-duafa:24:48:1",
+      "type": "hadith",
+      "book": {
+        "slug": "kitab-al-duafa",
+        "titles": {
+          "ar": "كتاب الضعفاء",
+          "en": "Kitab al-Du'afa'"
+        },
+        "author": {
+          "en": "Ahmad ibn al-Husayn al-Ghada'iri"
+        }
+      },
+      "path": {
+        "source": "/books/kitab-al-duafa:24:48:1",
+        "parts": [
+          24,
+          48,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 24,
+        "book": 48,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/kitab-al-duafa:24:48",
+        "titles": {
+          "en": "Aḥmad b. Abī ʿAbdillāh, al-Barqī"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سنة أربع وسبعين ومئتين."
+        ],
+        "text": "سنة أربع وسبعين ومئتين."
+      },
+      "translations": {
+        "en.tashayyu": {
+          "segments": [
+            "48 – Aḥmad b. Abī ʿAbdillāh, al-Barqī.  He died in the year 274."
+          ],
+          "text": "48 – Aḥmad b. Abī ʿAbdillāh, al-Barqī.  He died in the year 274."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "48 - أحمد بن أبي عبد الله، البرقي. توفي في",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "48 - "
+          },
+          {
+            "kind": "plain",
+            "text": "أحمد بن أبي عبد الله، البرقي. توفي في"
+          }
+        ],
+        "narratorPaths": []
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/kitab-al-duafa:24:48:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/kitab-al-duafa/24/48/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/17/24/48/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

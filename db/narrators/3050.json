@@ -1,0 +1,44 @@
+{
+  "id": 3050,
+  "type": "narrator",
+  "path": "/people/narrators/3050",
+  "titles": {
+    "ar": "حَسَّانَ بْنِ مُخْتَارٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:2:16:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "6-5-15-80-3050": {
+      "narrator_ids": [
+        6,
+        5,
+        15,
+        80,
+        3050
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:16:1"
+      ]
+    },
+    "80-3050": {
+      "narrator_ids": [
+        80,
+        3050
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:16:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3050",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3050.json"
+  }
+}

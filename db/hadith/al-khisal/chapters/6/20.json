@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:6:20",
+  "chapter": {
+    "path": "/books/al-khisal:6:20",
+    "titles": {
+      "en": "God made it incumbent upon His servants to pray five times"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:6:20:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:6:20:1",
+        "parts": [
+          6,
+          20,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 20,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:6:20",
+        "titles": {
+          "en": "God made it incumbent upon His servants to pray five times"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا سعد بن عبد الله، عن القاسم بن محمد الاصبهاني، عن سليمان بن داود المنقري قال: حدثنا حماد بن عيسى، عن أبي عبد الله عليه السلام قال: إن الله عز وجل فرض عليكم الصلوات الخمس في أفضل الساعات، فعليكم بالدعاء في أدبار الصلوات"
+        ],
+        "text": ": حدثنا سعد بن عبد الله، عن القاسم بن محمد الاصبهاني، عن سليمان بن داود المنقري قال: حدثنا حماد بن عيسى، عن أبي عبد الله عليه السلام قال: إن الله عز وجل فرض عليكم الصلوات الخمس في أفضل الساعات، فعليكم بالدعاء في أدبار الصلوات"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "5-23 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Sa’ed ibn Abdullah quoted Al-Qasim ibn Muhammad al-Isfahani, on the authority of Suleiman ibn Davood al-Minqari, on the authority of Hammad ibn Isa, on the authority of Aba Abdullah as-Sadiq (MGB), “In fact, the Honorable the Exalted God has made it incumbent upon you to pray five times at the noblest times. I advise you to say supplications after you say your prayers.”"
+          ],
+          "text": "5-23 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Sa’ed ibn Abdullah quoted Al-Qasim ibn Muhammad al-Isfahani, on the authority of Suleiman ibn Davood al-Minqari, on the authority of Hammad ibn Isa, on the authority of Aba Abdullah as-Sadiq (MGB), “In fact, the Honorable the Exalted God has made it incumbent upon you to pray five times at the noblest times. I advise you to say supplications after you say your prayers.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "5-23 حدثنا أبي رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "5-23 حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي رضي الله عنه قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:6:20:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/6/20/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/6/20/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

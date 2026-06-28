@@ -1,0 +1,42 @@
+{
+  "id": 4573,
+  "type": "narrator",
+  "path": "/people/narrators/4573",
+  "titles": {
+    "ar": "يَحْيَى بْنِ يَسَارٍ الْقَنْبَرِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:75:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "297-4573": {
+      "narrator_ids": [
+        297,
+        4573
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:75:1"
+      ]
+    },
+    "35-297-4573": {
+      "narrator_ids": [
+        35,
+        297,
+        4573
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:75:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4573",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4573.json"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": 3289,
+  "type": "narrator",
+  "path": "/people/narrators/3289",
+  "titles": {
+    "ar": "زَيْدٍ الزَّرَّادِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:106:8"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "10-3289": {
+      "narrator_ids": [
+        10,
+        3289
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:106:8"
+      ]
+    },
+    "11-5-10-3289-669": {
+      "narrator_ids": [
+        11,
+        5,
+        10,
+        3289,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:106:8"
+      ]
+    },
+    "3289-669": {
+      "narrator_ids": [
+        3289,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:106:8"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3289",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3289.json"
+  }
+}

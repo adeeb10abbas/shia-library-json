@@ -1,0 +1,43 @@
+{
+  "id": 2016,
+  "type": "narrator",
+  "path": "/people/narrators/2016",
+  "titles": {
+    "ar": "أَبِي الْمَغْرَاءِ الْعِجْلِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:32:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "12-119-80-2016": {
+      "narrator_ids": [
+        12,
+        119,
+        80,
+        2016
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:32:5"
+      ]
+    },
+    "80-2016": {
+      "narrator_ids": [
+        80,
+        2016
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:32:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2016",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2016.json"
+  }
+}

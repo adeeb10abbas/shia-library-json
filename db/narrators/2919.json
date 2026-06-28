@@ -1,0 +1,55 @@
+{
+  "id": 2919,
+  "type": "narrator",
+  "path": "/people/narrators/2919",
+  "titles": {
+    "ar": "بَعْضِ جَلَاوِزَةِ السَّوَادِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:77:11",
+    "/books/kitab-al-ghayba-tusi:35:9"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "317-4345-3802-2919": {
+      "narrator_ids": [
+        317,
+        4345,
+        3802,
+        2919
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:35:9"
+      ]
+    },
+    "35-3802-2919": {
+      "narrator_ids": [
+        35,
+        3802,
+        2919
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:77:11"
+      ]
+    },
+    "3802-2919": {
+      "narrator_ids": [
+        3802,
+        2919
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:77:11",
+        "/books/kitab-al-ghayba-tusi:35:9"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2919",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2919.json"
+  }
+}

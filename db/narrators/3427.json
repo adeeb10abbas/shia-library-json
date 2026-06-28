@@ -1,0 +1,46 @@
+{
+  "id": 3427,
+  "type": "narrator",
+  "path": "/people/narrators/3427",
+  "titles": {
+    "ar": "صَالِحِ بْنِ سَهْلٍ الْهَمْدَانِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:13:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "198-3427": {
+      "narrator_ids": [
+        198,
+        3427
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:13:5"
+      ]
+    },
+    "35-90-8-121-272-198-3427": {
+      "narrator_ids": [
+        35,
+        90,
+        8,
+        121,
+        272,
+        198,
+        3427
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:13:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3427",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3427.json"
+  }
+}

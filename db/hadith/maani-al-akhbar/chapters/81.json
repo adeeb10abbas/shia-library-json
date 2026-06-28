@@ -1,0 +1,120 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "maani-al-akhbar",
+  "chapterPath": "/books/maani-al-akhbar:81",
+  "chapter": {
+    "path": "/books/maani-al-akhbar:81",
+    "titles": {
+      "en": "The meaning of the saying of al-Sadiq, peace be upon him: «People are two: one who relieves, and another who rests»"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "maani-al-akhbar:81:1",
+      "type": "hadith",
+      "book": {
+        "slug": "maani-al-akhbar",
+        "titles": {
+          "ar": "معاني الأخبار",
+          "en": "Ma'ani al-Akhbar"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/maani-al-akhbar:81:1",
+        "parts": [
+          81,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 81,
+        "book": 1
+      },
+      "chapter": {
+        "path": "/books/maani-al-akhbar:81",
+        "titles": {
+          "en": "The meaning of the saying of al-Sadiq, peace be upon him: «People are two: one who relieves, and another who rests»"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثني بعض أصحابنا، عن أبي عبد الله عليه السلام أنه قال: الناس اثنان: واحد أراح، وآخر استراح. فأما الذي استراح فالمؤمن إذا مات استراح من الدنيا وبلائها، وأما الذي أراح فالكافر إذا مات أراح الشجر والدواب وكثيرا من الناس."
+        ],
+        "text": ": حدثني بعض أصحابنا، عن أبي عبد الله عليه السلام أنه قال: الناس اثنان: واحد أراح، وآخر استراح. فأما الذي استراح فالمؤمن إذا مات استراح من الدنيا وبلائها، وأما الذي أراح فالكافر إذا مات أراح الشجر والدواب وكثيرا من الناس."
+      },
+      "translations": {
+        "en.basel-kadem": {
+          "segments": [
+            "1.\tWe were told by Muhammed bin Ali Majilawayh, may Allah be pleased with him, from his paternal uncle, Muhammed bin Abi’l-Qasim, from Ahmad ibn Abi Abdillah al-Barqi, from his father, from Muhammed bin Abi Umayr, that he said: I was told by some of our companions, from Abu Abdillah, peace be upon him, that he said: People are (of) two (kinds): one who relieves, and another who rests. As for the one who rests, it is the believer; when he dies, he rests from this world and its tribulation. As for he who relieves, it is the disbeliever; when he dies, he relieves the trees, riding animals and many of the people."
+          ],
+          "text": "1.\tWe were told by Muhammed bin Ali Majilawayh, may Allah be pleased with him, from his paternal uncle, Muhammed bin Abi’l-Qasim, from Ahmad ibn Abi Abdillah al-Barqi, from his father, from Muhammed bin Abi Umayr, that he said: I was told by some of our companions, from Abu Abdillah, peace be upon him, that he said: People are (of) two (kinds): one who relieves, and another who rests. As for the one who rests, it is the believer; when he dies, he rests from this world and its tribulation. As for he who relieves, it is the disbeliever; when he dies, he relieves the trees, riding animals and many of the people."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "حدثنا محمد بن علي ماجيلويه - رضي الله عنه - عن عمه محمد بن أبي القاسم، عن أحمد ابن أبي عبد الله البرقي، عن أبيه، عن محمد بن أبي عمير، قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "حدثنا "
+          },
+          {
+            "kind": "plain",
+            "text": "محمد بن علي ماجيلويه - رضي الله عنه -"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "عمه محمد بن أبي القاسم،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "أحمد ابن أبي عبد الله البرقي،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبيه،",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "محمد بن أبي عمير، قال",
+            "path": "/people/narrators/318"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/2",
+          "/people/narrators/318"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/maani-al-akhbar:81:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/maani-al-akhbar/81/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/28/1/81/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

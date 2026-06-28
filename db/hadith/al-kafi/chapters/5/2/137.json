@@ -1,0 +1,895 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:5:2:137",
+  "chapter": {
+    "path": "/books/al-kafi:5:2:137",
+    "titles": {
+      "ar": "باب فِي إِحْيَاءِ أَرْضِ الْمَوَاتِ",
+      "en": "Chapter 136 – Reviving the dead lands"
+    }
+  },
+  "count": 6,
+  "records": [
+    {
+      "id": "al-kafi:5:2:137:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:5:2:137:1",
+        "parts": [
+          5,
+          2,
+          137,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 2,
+        "chapter": 137,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:5:2:137",
+        "titles": {
+          "ar": "باب فِي إِحْيَاءِ أَرْضِ الْمَوَاتِ",
+          "en": "Chapter 136 – Reviving the dead lands"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَمِعْتُ أَبَا جَعْفَرٍ ( عليه السلام ) يَقُولُ أَيُّمَا قَوْمٍ أَحْيَوْا شَيْئاً مِنَ الْأَرْضِ وَ عَمَرُوهَا فَهُمْ أَحَقُّ بِهَا وَ هِيَ لَهُمْ ."
+        ],
+        "text": "سَمِعْتُ أَبَا جَعْفَرٍ ( عليه السلام ) يَقُولُ أَيُّمَا قَوْمٍ أَحْيَوْا شَيْئاً مِنَ الْأَرْضِ وَ عَمَرُوهَا فَهُمْ أَحَقُّ بِهَا وَ هِيَ لَهُمْ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father, from Ibn Abu Umeyr, from Muhammad Bin Humran, from Muhammad Bin Muslim who said, ",
+            "‘I heard Abu Ja’far<sup>asws</sup> saying: ‘Whichever people revive something from the land, and work upon it, so they are more rightful with it, and it is for them’."
+          ],
+          "text": "Ali Bin Ibrahim, from his father, from Ibn Abu Umeyr, from Muhammad Bin Humran, from Muhammad Bin Muslim who said,\n\n‘I heard Abu Ja’far<sup>asws</sup> saying: ‘Whichever people revive something from the land, and work upon it, so they are more rightful with it, and it is for them’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. Ali ibn Ibrahim has narrated from his father from ibn abu ‘Umayr from Muhammad ibn Humran from Muhammad ibn Muslim who has said the following: “I once heard abu Ja’far, ‘Alayhi al-Salam, saying, ‘Whoever of people revive a land and build it, they are more deserving to have it and it is for them. 5 ” "
+          ],
+          "text": "1. Ali ibn Ibrahim has narrated from his father from ibn abu ‘Umayr from Muhammad ibn Humran from Muhammad ibn Muslim who has said the following: “I once heard abu Ja’far, ‘Alayhi al-Salam, saying, ‘Whoever of people revive a land and build it, they are more deserving to have it and it is for them. 5 ”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مجهول    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (19/369)",
+          "label": "مجهول",
+          "text": "Allamah Baqir al-Majlisi: مجهول - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (19/369)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنِ ابْنِ أَبِي عُمَيْرٍ عَنْ مُحَمَّدِ بْنِ حُمْرَانَ عَنْ مُحَمَّدِ بْنِ مُسْلِمٍ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ أَبِي عُمَيْرٍ",
+            "path": "/people/narrators/7"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ حُمْرَانَ",
+            "path": "/people/narrators/239"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ مُسْلِمٍ",
+            "path": "/people/narrators/16"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/7",
+          "/people/narrators/239",
+          "/people/narrators/16"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:5:2:137:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/5/2/137/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:5:2:137:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:5:2:137:2",
+        "parts": [
+          5,
+          2,
+          137,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 2,
+        "chapter": 137,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:5:2:137",
+        "titles": {
+          "ar": "باب فِي إِحْيَاءِ أَرْضِ الْمَوَاتِ",
+          "en": "Chapter 136 – Reviving the dead lands"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَمِعْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) يَقُولُ أَيُّمَا رَجُلٍ أَتَى خَرِبَةً بَائِرَةً فَاسْتَخْرَجَهَا وَ كَرَى أَنْهَارَهَا وَ عَمَرَهَا فَإِنَّ عَلَيْهِ فِيهَا الصَّدَقَةَ وَ إِنْ كَانَتْ أَرْضٌ لِرَجُلٍ قَبْلَهُ فَغَابَ عَنْهَا وَ تَرَكَهَا فَأَخْرَبَهَا ثُمَّ جَاءَ بَعْدُ يَطْلُبُهَا فَإِنَّ الْأَرْضَ لِلَّهِ وَ لِمَنْ عَمَرَهَا ."
+        ],
+        "text": "سَمِعْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) يَقُولُ أَيُّمَا رَجُلٍ أَتَى خَرِبَةً بَائِرَةً فَاسْتَخْرَجَهَا وَ كَرَى أَنْهَارَهَا وَ عَمَرَهَا فَإِنَّ عَلَيْهِ فِيهَا الصَّدَقَةَ وَ إِنْ كَانَتْ أَرْضٌ لِرَجُلٍ قَبْلَهُ فَغَابَ عَنْهَا وَ تَرَكَهَا فَأَخْرَبَهَا ثُمَّ جَاءَ بَعْدُ يَطْلُبُهَا فَإِنَّ الْأَرْضَ لِلَّهِ وَ لِمَنْ عَمَرَهَا ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Sahl Bin Ziyad and Ahmad Bin Muhammad altogether, from Ibn Mahboub, from Muawiya Bin Wahab who said, ",
+            "‘I heard Abu Abdullah<sup>asws</sup> saying: ‘Whichever man goes to a ruined well so he extracts it and digs out its rivers and develops it, so there would be charity (to give) upon him with regards to it, and if it was a land of a man before him who was absent from it, and neglected it, so he had ruined it, then he comes afterwards, so the earth is Allah<sup>ajwj</sup>’s and for the one who develops it’."
+          ],
+          "text": "A number of our companions, from Sahl Bin Ziyad and Ahmad Bin Muhammad altogether, from Ibn Mahboub, from Muawiya Bin Wahab who said,\n\n‘I heard Abu Abdullah<sup>asws</sup> saying: ‘Whichever man goes to a ruined well so he extracts it and digs out its rivers and develops it, so there would be charity (to give) upon him with regards to it, and if it was a land of a man before him who was absent from it, and neglected it, so he had ruined it, then he comes afterwards, so the earth is Allah<sup>ajwj</sup>’s and for the one who develops it’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. A number of our people have narrated from Sahl ibn Ziyad Ahmad ibn Muhammad from Ahmad ibn Muhammad all from ibn Mahbub from Mu‘awiyah ibn ‘Ammar who has said the following: “I once heard abu ‘Abd Allah, ‘Alayhi al-Salam, saying, ‘Whoever comes upon a ruined barren place, then finds out and digs its canals and builds it, he owes charity. If the land belonged to a man before him who has disappeared, abandoned it and ruined it, then came thereafter, he has to take notice that the land belongs to Allah and to those who build it.’” "
+          ],
+          "text": "2. A number of our people have narrated from Sahl ibn Ziyad Ahmad ibn Muhammad from Ahmad ibn Muhammad all from ibn Mahbub from Mu‘awiyah ibn ‘Ammar who has said the following: “I once heard abu ‘Abd Allah, ‘Alayhi al-Salam, saying, ‘Whoever comes upon a ruined barren place, then finds out and digs its canals and builds it, he owes charity. If the land belonged to a man before him who has disappeared, abandoned it and ruined it, then came thereafter, he has to take notice that the land belongs to Allah and to those who build it.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> صحيح  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (9/370)",
+          "label": "صحيح",
+          "text": "Allamah Baqir al-Majlisi: صحيح - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (9/370)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ سَهْلِ بْنِ زِيَادٍ وَ أَحْمَدَ بْنِ مُحَمَّدٍ جَمِيعاً عَنِ ابْنِ مَحْبُوبٍ عَنْ مُعَاوِيَةَ بْنِ وَهْبٍ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَهْلِ بْنِ زِيَادٍ",
+            "path": "/people/narrators/8"
+          },
+          {
+            "kind": "plain",
+            "text": " وَ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " جَمِيعاً عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ مَحْبُوبٍ",
+            "path": "/people/narrators/10"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُعَاوِيَةَ بْنِ وَهْبٍ",
+            "path": "/people/narrators/109"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/8",
+          "/people/narrators/5",
+          "/people/narrators/10",
+          "/people/narrators/109"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:5:2:137:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/5/2/137/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:5:2:137:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:5:2:137:3",
+        "parts": [
+          5,
+          2,
+          137,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 2,
+        "chapter": 137,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:5:2:137",
+        "titles": {
+          "ar": "باب فِي إِحْيَاءِ أَرْضِ الْمَوَاتِ",
+          "en": "Chapter 136 – Reviving the dead lands"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) مَنْ أَحْيَا مَوَاتاً فَهُوَ لَهُ ."
+        ],
+        "text": "قَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) مَنْ أَحْيَا مَوَاتاً فَهُوَ لَهُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father, from Hammad, from Hareyz, from Zurara, ",
+            "from Abu Ja’far<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup> said: ‘The one who revives a dead (land), so it is for him’."
+          ],
+          "text": "Ali Bin Ibrahim, from his father, from Hammad, from Hareyz, from Zurara,\n\nfrom Abu Ja’far<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup> said: ‘The one who revives a dead (land), so it is for him’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "3. Ali ibn Ibrahim has narrated from his father from Hammad from Hariz from Zurarah who has said the following: “ Abu Ja‘far, ‘Alayhi al-Salam, has said that the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, has said, ‘One who revives a barren (dead) land, it becomes his land.”’ "
+          ],
+          "text": "3. Ali ibn Ibrahim has narrated from his father from Hammad from Hariz from Zurarah who has said the following: “ Abu Ja‘far, ‘Alayhi al-Salam, has said that the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, has said, ‘One who revives a barren (dead) land, it becomes his land.”’"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> حسن    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (19/370)",
+          "label": "حسن",
+          "text": "Allamah Baqir al-Majlisi: حسن - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (19/370)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنْ حَمَّادٍ عَنْ حَرِيزٍ عَنْ زُرَارَةَ عَنْ أَبِي جَعْفَرٍ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "حَمَّادٍ",
+            "path": "/people/narrators/23"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "حَرِيزٍ",
+            "path": "/people/narrators/40"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "زُرَارَةَ",
+            "path": "/people/narrators/18"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي جَعْفَرٍ ( عليه السلام )",
+            "path": "/people/narrators/9"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/23",
+          "/people/narrators/40",
+          "/people/narrators/18",
+          "/people/narrators/9"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:3:3:79:2",
+          "/books/al-kafi:3:3:94:1",
+          "/books/al-kafi:3:4:10:3",
+          "/books/al-kafi:3:4:16:6",
+          "/books/al-kafi:3:4:32:16",
+          "/books/al-kafi:3:4:32:5",
+          "/books/al-kafi:3:4:51:4",
+          "/books/al-kafi:3:4:84:12",
+          "/books/al-kafi:4:2:48:6",
+          "/books/al-kafi:4:3:153:1",
+          "/books/tahdhib-al-ahkam:2:15:2"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:5:2:137:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/5/2/137/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:5:2:137:4",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:5:2:137:4",
+        "parts": [
+          5,
+          2,
+          137,
+          4
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 2,
+        "chapter": 137,
+        "hadith": 4
+      },
+      "chapter": {
+        "path": "/books/al-kafi:5:2:137",
+        "titles": {
+          "ar": "باب فِي إِحْيَاءِ أَرْضِ الْمَوَاتِ",
+          "en": "Chapter 136 – Reviving the dead lands"
+        }
+      },
+      "arabic": {
+        "segments": [
+          "ا قَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) مَنْ أَحْيَا مَوَاتاً فَهُوَ لَهُ ."
+        ],
+        "text": "ا قَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) مَنْ أَحْيَا مَوَاتاً فَهُوَ لَهُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Hammad, from Hareyz, from Zurara and Muhammad Bin Muslim, and Abu Baseer and Fuzayl, and Bukeyr, and Humran, and Abdul Rahman Bin Abu Abdullah, ",
+            "from Abu Ja’far<sup>asws</sup> and Abu Abdullah<sup>asws</sup> both having said: ‘Rasool-Allah<sup>saww</sup> said: ‘The one who revives a dead (land), so it is for him’."
+          ],
+          "text": "Hammad, from Hareyz, from Zurara and Muhammad Bin Muslim, and Abu Baseer and Fuzayl, and Bukeyr, and Humran, and Abdul Rahman Bin Abu Abdullah,\n\nfrom Abu Ja’far<sup>asws</sup> and Abu Abdullah<sup>asws</sup> both having said: ‘Rasool-Allah<sup>saww</sup> said: ‘The one who revives a dead (land), so it is for him’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "4. Hammad has narrated from Hariz from Zurarah and Muhammad ibn Muslim and abu Basir and Fudayl and Bukayr and Humran and ‘Abd al-Rahman ibn abu ‘Abd Allah who has said the following: “Abu Ja‘far, and abu ‘Abd Allah, ‘Alayhim al-Salam, have said that the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, has said, ‘Whoever revives a barren (dead) land, it becomes his land.’” "
+          ],
+          "text": "4. Hammad has narrated from Hariz from Zurarah and Muhammad ibn Muslim and abu Basir and Fudayl and Bukayr and Humran and ‘Abd al-Rahman ibn abu ‘Abd Allah who has said the following: “Abu Ja‘far, and abu ‘Abd Allah, ‘Alayhim al-Salam, have said that the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, has said, ‘Whoever revives a barren (dead) land, it becomes his land.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> حسن الفضلء   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (9/370)",
+          "label": "حسن الفضلء",
+          "text": "Allamah Baqir al-Majlisi: حسن الفضلء - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (9/370)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "حَمَّادٌ عَنْ حَرِيزٍ عَنْ زُرَارَةَ وَ مُحَمَّدِ بْنِ مُسْلِمٍ وَ أَبِي بَصِيرٍ وَ فُضَيْلٍ وَ بُكَيْرٍ وَ حُمْرَانَ وَ عَبْدِ الرَّحْمَنِ بْنِ أَبِي عَبْدِ اللَّهِ عَنْ أَبِي جَعْفَرٍ وَ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "حَمَّادٌ",
+            "path": "/people/narrators/23"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "حَرِيزٍ",
+            "path": "/people/narrators/40"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "زُرَارَةَ",
+            "path": "/people/narrators/18"
+          },
+          {
+            "kind": "plain",
+            "text": " وَ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ مُسْلِمٍ",
+            "path": "/people/narrators/16"
+          },
+          {
+            "kind": "plain",
+            "text": " وَ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي بَصِيرٍ",
+            "path": "/people/narrators/14"
+          },
+          {
+            "kind": "plain",
+            "text": " وَ "
+          },
+          {
+            "kind": "narrator",
+            "text": "فُضَيْلٍ",
+            "path": "/people/narrators/360"
+          },
+          {
+            "kind": "plain",
+            "text": " وَ "
+          },
+          {
+            "kind": "narrator",
+            "text": "بُكَيْرٍ",
+            "path": "/people/narrators/420"
+          },
+          {
+            "kind": "plain",
+            "text": " وَ "
+          },
+          {
+            "kind": "narrator",
+            "text": "حُمْرَانَ",
+            "path": "/people/narrators/250"
+          },
+          {
+            "kind": "plain",
+            "text": " وَ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَبْدِ الرَّحْمَنِ بْنِ أَبِي عَبْدِ اللَّهِ",
+            "path": "/people/narrators/102"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي جَعْفَرٍ",
+            "path": "/people/narrators/9"
+          },
+          {
+            "kind": "plain",
+            "text": " وَ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/23",
+          "/people/narrators/40",
+          "/people/narrators/18",
+          "/people/narrators/16",
+          "/people/narrators/14",
+          "/people/narrators/360",
+          "/people/narrators/420",
+          "/people/narrators/250",
+          "/people/narrators/102",
+          "/people/narrators/9",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:5:2:137:4",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/5/2/137/4.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:5:2:137:5",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:5:2:137:5",
+        "parts": [
+          5,
+          2,
+          137,
+          5
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 2,
+        "chapter": 137,
+        "hadith": 5
+      },
+      "chapter": {
+        "path": "/books/al-kafi:5:2:137",
+        "titles": {
+          "ar": "باب فِي إِحْيَاءِ أَرْضِ الْمَوَاتِ",
+          "en": "Chapter 136 – Reviving the dead lands"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " وَجَدْنَا فِي كِتَابِ عَلِيٍّ ( عليه السلام ) إِنَّ الْأَرْضَ لِلَّهِ يُورِثُها مَنْ يَشاءُ مِنْ عِبادِهِ وَ الْعاقِبَةُ لِلْمُتَّقِينَ أَنَا وَ أَهْلُ بَيْتِيَ الَّذِينَ أَوْرَثَنَا الْأَرْضَ وَ نَحْنُ الْمُتَّقُونَ وَ الْأَرْضُ كُلُّهَا لَنَا فَمَنْ أَحْيَا أَرْضاً مِنَ الْمُسْلِمِينَ فَلْيَعْمُرْهَا وَ لْيُؤَدِّ خَرَاجَهَا إِلَى الْإِمَامِ مِنْ أَهْلِ بَيْتِي وَ لَهُ مَا أَكَلَ مِنْهَا ",
+          "فَإِنْ تَرَكَهَا أَوْ أَخْرَبَهَا فَأَخَذَهَا رَجُلٌ مِنَ الْمُسْلِمِينَ مِنْ بَعْدِهِ فَعَمَرَهَا وَ أَحْيَاهَا فَهُوَ أَحَقُّ بِهَا مِنَ الَّذِي تَرَكَهَا فَلْيُؤَدِّ خَرَاجَهَا إِلَى الْإِمَامِ مِنْ أَهْلِ بَيْتِي وَ لَهُ مَا أَكَلَ حَتَّى يَظْهَرَ الْقَائِمُ ( عليه السلام ) مِنْ أَهْلِ بَيْتِي بِالسَّيْفِ فَيَحْوِيَهَا وَ يَمْنَعَهَا وَ يُخْرِجَهُمْ مِنْهَا كَمَا حَوَاهَا رَسُولُ اللَّهِ ( صلى الله عليه وآله ) وَ مَنَعَهَا إِلَّا مَا كَانَ فِي أَيْدِي شِيعَتِنَا فَإِنَّهُ يُقَاطِعُهُمْ عَلَى مَا فِي أَيْدِيهِمْ وَ يَتْرُكُ الْأَرْضَ فِي أَيْدِيهِمْ ."
+        ],
+        "text": "وَجَدْنَا فِي كِتَابِ عَلِيٍّ ( عليه السلام ) إِنَّ الْأَرْضَ لِلَّهِ يُورِثُها مَنْ يَشاءُ مِنْ عِبادِهِ وَ الْعاقِبَةُ لِلْمُتَّقِينَ أَنَا وَ أَهْلُ بَيْتِيَ الَّذِينَ أَوْرَثَنَا الْأَرْضَ وَ نَحْنُ الْمُتَّقُونَ وَ الْأَرْضُ كُلُّهَا لَنَا فَمَنْ أَحْيَا أَرْضاً مِنَ الْمُسْلِمِينَ فَلْيَعْمُرْهَا وَ لْيُؤَدِّ خَرَاجَهَا إِلَى الْإِمَامِ مِنْ أَهْلِ بَيْتِي وَ لَهُ مَا أَكَلَ مِنْهَا\n\nفَإِنْ تَرَكَهَا أَوْ أَخْرَبَهَا فَأَخَذَهَا رَجُلٌ مِنَ الْمُسْلِمِينَ مِنْ بَعْدِهِ فَعَمَرَهَا وَ أَحْيَاهَا فَهُوَ أَحَقُّ بِهَا مِنَ الَّذِي تَرَكَهَا فَلْيُؤَدِّ خَرَاجَهَا إِلَى الْإِمَامِ مِنْ أَهْلِ بَيْتِي وَ لَهُ مَا أَكَلَ حَتَّى يَظْهَرَ الْقَائِمُ ( عليه السلام ) مِنْ أَهْلِ بَيْتِي بِالسَّيْفِ فَيَحْوِيَهَا وَ يَمْنَعَهَا وَ يُخْرِجَهُمْ مِنْهَا كَمَا حَوَاهَا رَسُولُ اللَّهِ ( صلى الله عليه وآله ) وَ مَنَعَهَا إِلَّا مَا كَانَ فِي أَيْدِي شِيعَتِنَا فَإِنَّهُ يُقَاطِعُهُمْ عَلَى مَا فِي أَيْدِيهِمْ وَ يَتْرُكُ الْأَرْضَ فِي أَيْدِيهِمْ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Ibn Mahboub, from Hisham Bin Salim, from Abu Khalid Al Kabuly, ",
+            "from Abu Ja’far<sup>asws</sup> having said: ‘We<sup>asws</sup> found in the Book of Ali<sup>asws</sup> that <span class=\"ibTxt\"><a href=\"/#/books/quran:7#h128\"><a href=\"/books/quran:7#h128\">[7:128]</a></a> surely the earth is Allah's; He Causes such of His servants to inherit it as He so Desires, and the end is for those who are pious</span>. I<sup>asws</sup> and the people<sup>asws</sup> of my<sup>asws</sup> Household are those who inherited the earth, and we<sup>asws</sup> are the pious, and the earth, all of it, is for us<sup>asws</sup>. So the one from the Muslims who revives a land, so let him develop it, and let him pay its taxes to the Imam<sup>asws</sup> from my<sup>asws</sup> Household, and for him is whatever he consumes from it. ",
+            "So if he was to neglect it or ruin it, and (another) man from the Muslims takes it from after him, so he develops it and revives it, so he would be more rightful with it than the one who neglected it. So let him pay its taxes to the Imam<sup>asws</sup> from my<sup>asws</sup> Household, and for him would be whatever he consumes until the appearance of Al Qaim<sup>asws</sup> from my<sup>asws</sup> family withthe sword. So he<sup>asws</sup> would allow it and prevent it, and he<sup>asws</sup> would be throwing them out from it just as Rasool-Allah<sup>saww</sup> has allowed it and prevented it, except whatever was in the hands of our<sup>asws</sup> Shiah, for he<sup>asws</sup> would cut if out for them upon what is in their hands and he<sup>asws</sup> would leave the land in their hands’."
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Ibn Mahboub, from Hisham Bin Salim, from Abu Khalid Al Kabuly,\n\nfrom Abu Ja’far<sup>asws</sup> having said: ‘We<sup>asws</sup> found in the Book of Ali<sup>asws</sup> that <span class=\"ibTxt\"><a href=\"/#/books/quran:7#h128\"><a href=\"/books/quran:7#h128\">[7:128]</a></a> surely the earth is Allah's; He Causes such of His servants to inherit it as He so Desires, and the end is for those who are pious</span>. I<sup>asws</sup> and the people<sup>asws</sup> of my<sup>asws</sup> Household are those who inherited the earth, and we<sup>asws</sup> are the pious, and the earth, all of it, is for us<sup>asws</sup>. So the one from the Muslims who revives a land, so let him develop it, and let him pay its taxes to the Imam<sup>asws</sup> from my<sup>asws</sup> Household, and for him is whatever he consumes from it.\n\nSo if he was to neglect it or ruin it, and (another) man from the Muslims takes it from after him, so he develops it and revives it, so he would be more rightful with it than the one who neglected it. So let him pay its taxes to the Imam<sup>asws</sup> from my<sup>asws</sup> Household, and for him would be whatever he consumes until the appearance of Al Qaim<sup>asws</sup> from my<sup>asws</sup> family withthe sword. So he<sup>asws</sup> would allow it and prevent it, and he<sup>asws</sup> would be throwing them out from it just as Rasool-Allah<sup>saww</sup> has allowed it and prevented it, except whatever was in the hands of our<sup>asws</sup> Shiah, for he<sup>asws</sup> would cut if out for them upon what is in their hands and he<sup>asws</sup> would leave the land in their hands’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "5. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from ibn Mahbub from Hisham ibn Salim from abu Khalid al- Kabuliy who has said the following: “Abu Ja‘far, ‘Alayhi al-Salam, has said, ‘We have found in the book of Ali, ‘Alayhi al-Salam, that the land belongs to Allah which He makes whomever of His servant He wants to inherit; and the end result is in favor of the pious people. We and the people of the House have inherited the earth and we are the pious ones. All of the earth belongs to us. Whoever of the Muslims revives and builds it and pays taxes to the Imam from the people of the House, he can eat thereof. If he abandons and ruins it and then another person of the Muslims takes it after him, builds it and revives it, he then is more rightful than the one who has abandoned it. So he pays taxes to the Imam from the House and he can eat thereof until the reappearance of al-Qa’im from the people of my house with the sword to control and protect it. He sends them in exile just as the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, protected it, except for what is in the hands of our followers who will then contract with him for what is in their hands and he, ‘Alayhi al-Salam, will leave it in their hands.’” "
+          ],
+          "text": "5. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from ibn Mahbub from Hisham ibn Salim from abu Khalid al- Kabuliy who has said the following: “Abu Ja‘far, ‘Alayhi al-Salam, has said, ‘We have found in the book of Ali, ‘Alayhi al-Salam, that the land belongs to Allah which He makes whomever of His servant He wants to inherit; and the end result is in favor of the pious people. We and the people of the House have inherited the earth and we are the pious ones. All of the earth belongs to us. Whoever of the Muslims revives and builds it and pays taxes to the Imam from the people of the House, he can eat thereof. If he abandons and ruins it and then another person of the Muslims takes it after him, builds it and revives it, he then is more rightful than the one who has abandoned it. So he pays taxes to the Imam from the House and he can eat thereof until the reappearance of al-Qa’im from the people of my house with the sword to control and protect it. He sends them in exile just as the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, protected it, except for what is in the hands of our followers who will then contract with him for what is in their hands and he, ‘Alayhi al-Salam, will leave it in their hands.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> حسن   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (19/370)",
+          "label": "حسن",
+          "text": "Allamah Baqir al-Majlisi: حسن - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (19/370)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنِ ابْنِ مَحْبُوبٍ عَنْ هِشَامِ بْنِ سَالِمٍ عَنْ أَبِي خَالِدٍ الْكَابُلِيِّ عَنْ أَبِي جَعْفَرٍ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ مَحْبُوبٍ",
+            "path": "/people/narrators/10"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "هِشَامِ بْنِ سَالِمٍ",
+            "path": "/people/narrators/47"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي خَالِدٍ الْكَابُلِيِّ",
+            "path": "/people/narrators/666"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي جَعْفَرٍ ( عليه السلام )",
+            "path": "/people/narrators/9"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/5",
+          "/people/narrators/10",
+          "/people/narrators/47",
+          "/people/narrators/666",
+          "/people/narrators/9"
+        ]
+      },
+      "relations": {
+        "Mentions": [
+          "/books/quran:7:128"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:5:2:137:5",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/5/2/137/5.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:5:2:137:6",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:5:2:137:6",
+        "parts": [
+          5,
+          2,
+          137,
+          6
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 2,
+        "chapter": 137,
+        "hadith": 6
+      },
+      "chapter": {
+        "path": "/books/al-kafi:5:2:137",
+        "titles": {
+          "ar": "باب فِي إِحْيَاءِ أَرْضِ الْمَوَاتِ",
+          "en": "Chapter 136 – Reviving the dead lands"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) مَنْ غَرَسَ شَجَراً أَوْ حَفَرَ وَادِياً بَدْءاً لَمْ يَسْبِقْهُ إِلَيْهِ أَحَدٌ وَ أَحْيَا أَرْضاً مَيْتَةً فَهِيَ لَهُ قَضَاءً مِنَ اللَّهِ وَ رَسُولِهِ ( صلى الله عليه وآله ) ."
+        ],
+        "text": "قَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) مَنْ غَرَسَ شَجَراً أَوْ حَفَرَ وَادِياً بَدْءاً لَمْ يَسْبِقْهُ إِلَيْهِ أَحَدٌ وَ أَحْيَا أَرْضاً مَيْتَةً فَهِيَ لَهُ قَضَاءً مِنَ اللَّهِ وَ رَسُولِهِ ( صلى الله عليه وآله ) ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father, from Al Nowfaly, from Al Sakuny, ",
+            "from Abu Abdullah<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup> said: ‘The one who plants a tree, or digs out a valley beginning, no one else having preceded him, and revives a dead land, so it is for him, being a judgement from Allah<sup>ajwj</sup> and His<sup>ajwj</sup> Rasool<sup>saww</sup>’."
+          ],
+          "text": "Ali Bin Ibrahim, from his father, from Al Nowfaly, from Al Sakuny,\n\nfrom Abu Abdullah<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup> said: ‘The one who plants a tree, or digs out a valley beginning, no one else having preceded him, and revives a dead land, so it is for him, being a judgement from Allah<sup>ajwj</sup> and His<sup>ajwj</sup> Rasool<sup>saww</sup>’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "6. Ali ibn Ibrahim has narrated from his father from af-Nawfaliy from af-Sakuniy who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, has said, ‘Whoever plants a tree or digs a valley as the first one before anyone else and revives a land which is barren (dead), it becomes his land from Allah and the Messenger of Allah, ‘O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause.’” "
+          ],
+          "text": "6. Ali ibn Ibrahim has narrated from his father from af-Nawfaliy from af-Sakuniy who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, has said, ‘Whoever plants a tree or digs a valley as the first one before anyone else and revives a land which is barren (dead), it becomes his land from Allah and the Messenger of Allah, ‘O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (19/371)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (19/371)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنِ النَّوْفَلِيِّ عَنِ السَّكُونِيِّ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "النَّوْفَلِيِّ",
+            "path": "/people/narrators/32"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "السَّكُونِيِّ",
+            "path": "/people/narrators/34"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/32",
+          "/people/narrators/34",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:5:2:137:6",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/5/2/137/6.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

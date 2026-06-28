@@ -1,0 +1,105 @@
+{
+  "id": 1665,
+  "type": "narrator",
+  "path": "/people/narrators/1665",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ طَلْحَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:4:67:5",
+    "/books/al-kafi:6:8:38:10",
+    "/books/kitab-al-zuhd:2:11:17"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "1665-18": {
+      "narrator_ids": [
+        1665,
+        18
+      ],
+      "verse_paths": [
+        "/books/kitab-al-zuhd:2:11:17"
+      ]
+    },
+    "1665-669": {
+      "narrator_ids": [
+        1665,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:67:5"
+      ]
+    },
+    "174-1665": {
+      "narrator_ids": [
+        174,
+        1665
+      ],
+      "verse_paths": [
+        "/books/kitab-al-zuhd:2:11:17"
+      ]
+    },
+    "3-2-7-1665": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        1665
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:38:10"
+      ]
+    },
+    "36-174-1665-18-9": {
+      "narrator_ids": [
+        36,
+        174,
+        1665,
+        18,
+        9
+      ],
+      "verse_paths": [
+        "/books/kitab-al-zuhd:2:11:17"
+      ]
+    },
+    "460-1665": {
+      "narrator_ids": [
+        460,
+        1665
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:67:5"
+      ]
+    },
+    "50-571-460-1665-669": {
+      "narrator_ids": [
+        50,
+        571,
+        460,
+        1665,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:67:5"
+      ]
+    },
+    "7-1665": {
+      "narrator_ids": [
+        7,
+        1665
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:38:10"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1665",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1665.json"
+  }
+}

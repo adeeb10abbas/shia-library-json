@@ -1,0 +1,141 @@
+{
+  "id": 879,
+  "type": "narrator",
+  "path": "/people/narrators/879",
+  "titles": {
+    "ar": "الْقَاسِمِ بْنِ الرَّبِيعِ",
+    "en": "Al-Qasim ibn al-Rabi'"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:2:1:7",
+    "/books/al-kafi:1:4:35:3",
+    "/books/al-kafi:2:1:141:1",
+    "/books/al-kafi:5:2:3:6",
+    "/books/kitab-al-ghayba-tusi:49:12"
+  ],
+  "verseCount": 5,
+  "relations": {},
+  "subchains": {
+    "2-773-879": {
+      "narrator_ids": [
+        2,
+        773,
+        879
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:49:12"
+      ]
+    },
+    "20-208-879": {
+      "narrator_ids": [
+        20,
+        208,
+        879
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:3:6"
+      ]
+    },
+    "20-208-879-315": {
+      "narrator_ids": [
+        20,
+        208,
+        879,
+        315
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:2:1:7"
+      ]
+    },
+    "20-208-879-6-12": {
+      "narrator_ids": [
+        20,
+        208,
+        879,
+        6,
+        12
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:141:1"
+      ]
+    },
+    "208-879": {
+      "narrator_ids": [
+        208,
+        879
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:2:1:7",
+        "/books/al-kafi:2:1:141:1",
+        "/books/al-kafi:5:2:3:6"
+      ]
+    },
+    "35-90-8-879-3664-937-696": {
+      "narrator_ids": [
+        35,
+        90,
+        8,
+        879,
+        3664,
+        937,
+        696
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:35:3"
+      ]
+    },
+    "773-879": {
+      "narrator_ids": [
+        773,
+        879
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:49:12"
+      ]
+    },
+    "8-879": {
+      "narrator_ids": [
+        8,
+        879
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:35:3"
+      ]
+    },
+    "879-315": {
+      "narrator_ids": [
+        879,
+        315
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:2:1:7"
+      ]
+    },
+    "879-3664": {
+      "narrator_ids": [
+        879,
+        3664
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:35:3"
+      ]
+    },
+    "879-6": {
+      "narrator_ids": [
+        879,
+        6
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:141:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/879",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/879.json"
+  }
+}

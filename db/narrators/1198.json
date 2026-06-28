@@ -1,0 +1,97 @@
+{
+  "id": 1198,
+  "type": "narrator",
+  "path": "/people/narrators/1198",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ وَلِيدٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:188:5",
+    "/books/al-kafi:4:3:132:2",
+    "/books/al-kafi:4:3:132:3"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "1198-120": {
+      "narrator_ids": [
+        1198,
+        120
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:132:2",
+        "/books/al-kafi:4:3:132:3"
+      ]
+    },
+    "1198-85": {
+      "narrator_ids": [
+        1198,
+        85
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:188:5"
+      ]
+    },
+    "1756-297-1198-120": {
+      "narrator_ids": [
+        1756,
+        297,
+        1198,
+        120
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:132:3"
+      ]
+    },
+    "20-4297-1198-85-669": {
+      "narrator_ids": [
+        20,
+        4297,
+        1198,
+        85,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:188:5"
+      ]
+    },
+    "297-1198": {
+      "narrator_ids": [
+        297,
+        1198
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:132:2",
+        "/books/al-kafi:4:3:132:3"
+      ]
+    },
+    "4297-1198": {
+      "narrator_ids": [
+        4297,
+        1198
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:188:5"
+      ]
+    },
+    "5-297-1198-120": {
+      "narrator_ids": [
+        5,
+        297,
+        1198,
+        120
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:132:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1198",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1198.json"
+  }
+}

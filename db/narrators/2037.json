@@ -1,0 +1,46 @@
+{
+  "id": 2037,
+  "type": "narrator",
+  "path": "/people/narrators/2037",
+  "titles": {
+    "ar": "أَبِي بَصِيرٍ قَالُوا قُلْنَا لَهُ بِئْرٌ يُتَوَضَّأُ مِنْهَا يَجْرِي الْبَوْلُ قَرِيباً مِنْهَا أَ يُنَجِّسُهَا"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:1:5:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "16-2037": {
+      "narrator_ids": [
+        16,
+        2037
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:1:5:2"
+      ]
+    },
+    "3-2-38-40-18-16-2037": {
+      "narrator_ids": [
+        3,
+        2,
+        38,
+        40,
+        18,
+        16,
+        2037
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:1:5:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2037",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2037.json"
+  }
+}

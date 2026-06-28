@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:11:22",
+  "chapter": {
+    "path": "/books/al-khisal:11:22",
+    "titles": {
+      "en": "There Are Ten Parts in Lust"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:11:22:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:11:22:1",
+        "parts": [
+          11,
+          22,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 11,
+        "book": 22,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:11:22",
+        "titles": {
+          "en": "There Are Ten Parts in Lust"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا سعد بن عبد الله، عن أحمد بن محمد ابن عيسى، عن محمد بن سنان، عن أبي خالد القماط، عن ضريس، عن أبي عبد الله عليه السلام قال: إن الله تبارك وتعالى جعل الشهوه عشرة اجزاء تسعة منها في النساء وواحده في الرجال، ولولا ماجعل الله عز وجل فيهن من أجزاء الحياء على قدر أجزاء الشهوه لكان لكل رجل تسع نسوة متعلقات به"
+        ],
+        "text": ": حدثنا سعد بن عبد الله، عن أحمد بن محمد ابن عيسى، عن محمد بن سنان، عن أبي خالد القماط، عن ضريس، عن أبي عبد الله عليه السلام قال: إن الله تبارك وتعالى جعل الشهوه عشرة اجزاء تسعة منها في النساء وواحده في الرجال، ولولا ماجعل الله عز وجل فيهن من أجزاء الحياء على قدر أجزاء الشهوه لكان لكل رجل تسع نسوة متعلقات به"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "10-28 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Sa’ed ibn Abdullah quoted Ahmad ibn Muhammad ibn Isa, on the authority of Muhammad ibn Sin’an, on the authority of Abi Khalid al-Qamat, on the authority of Zaris that Aba Abdullah as-Sadiq (MGB) said, “The Blessed the Sublime God has made lust in ten parts, nine of which is in women and one is in men. Were it not for the fact that the Honorable the Exalted God has granted women as much shame as lust, there would have been nine women hanging over every man.”"
+          ],
+          "text": "10-28 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Sa’ed ibn Abdullah quoted Ahmad ibn Muhammad ibn Isa, on the authority of Muhammad ibn Sin’an, on the authority of Abi Khalid al-Qamat, on the authority of Zaris that Aba Abdullah as-Sadiq (MGB) said, “The Blessed the Sublime God has made lust in ten parts, nine of which is in women and one is in men. Were it not for the fact that the Honorable the Exalted God has granted women as much shame as lust, there would have been nine women hanging over every man.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "10-28 حدثنا أبي رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "10-28 حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي رضي الله عنه قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:11:22:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/11/22/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/11/21/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

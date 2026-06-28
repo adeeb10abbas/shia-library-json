@@ -1,0 +1,230 @@
+{
+  "id": 683,
+  "type": "narrator",
+  "path": "/people/narrators/683",
+  "titles": {
+    "ar": "الْقَدَّاحِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:2:4:1",
+    "/books/al-kafi:2:2:57:3",
+    "/books/al-kafi:3:1:46:2",
+    "/books/al-kafi:3:3:92:4",
+    "/books/al-kafi:3:4:100:11",
+    "/books/al-kafi:3:4:75:2",
+    "/books/mujam-al-ahadith-al-mutabara:1:4:1",
+    "/books/tahdhib-al-ahkam:9:2:112",
+    "/books/tahdhib-al-ahkam:9:2:153",
+    "/books/tahdhib-al-ahkam:9:34:14"
+  ],
+  "verseCount": 10,
+  "relations": {},
+  "subchains": {
+    "11-6-8-110-683-669": {
+      "narrator_ids": [
+        11,
+        6,
+        8,
+        110,
+        683,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:2:153"
+      ]
+    },
+    "110-2-38-683": {
+      "narrator_ids": [
+        110,
+        2,
+        38,
+        683
+      ],
+      "verse_paths": [
+        "/books/mujam-al-ahadith-al-mutabara:1:4:1"
+      ]
+    },
+    "110-683": {
+      "narrator_ids": [
+        110,
+        683
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:1:46:2",
+        "/books/al-kafi:3:3:92:4",
+        "/books/al-kafi:3:4:100:11",
+        "/books/al-kafi:3:4:75:2",
+        "/books/tahdhib-al-ahkam:9:2:153"
+      ]
+    },
+    "22-683": {
+      "narrator_ids": [
+        22,
+        683
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:2:112"
+      ]
+    },
+    "3-2-37-683-669": {
+      "narrator_ids": [
+        3,
+        2,
+        37,
+        683,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:57:3"
+      ]
+    },
+    "35-8-110-683-669": {
+      "narrator_ids": [
+        35,
+        8,
+        110,
+        683,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:1:46:2"
+      ]
+    },
+    "35-90-8-110-683-669": {
+      "narrator_ids": [
+        35,
+        90,
+        8,
+        110,
+        683,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:75:2"
+      ]
+    },
+    "37-683": {
+      "narrator_ids": [
+        37,
+        683
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:57:3"
+      ]
+    },
+    "38-683": {
+      "narrator_ids": [
+        38,
+        683
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:2:4:1",
+        "/books/mujam-al-ahadith-al-mutabara:1:4:1"
+      ]
+    },
+    "4134-683": {
+      "narrator_ids": [
+        4134,
+        683
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:34:14"
+      ]
+    },
+    "4134-683-669-2": {
+      "narrator_ids": [
+        4134,
+        683,
+        669,
+        2
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:34:14"
+      ]
+    },
+    "6-8-3-2-110-683-669-662": {
+      "narrator_ids": [
+        6,
+        8,
+        3,
+        2,
+        110,
+        683,
+        669,
+        662
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:92:4"
+      ]
+    },
+    "683-669": {
+      "narrator_ids": [
+        683,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:2:4:1",
+        "/books/al-kafi:2:2:57:3",
+        "/books/al-kafi:3:1:46:2",
+        "/books/al-kafi:3:3:92:4",
+        "/books/al-kafi:3:4:100:11",
+        "/books/al-kafi:3:4:75:2",
+        "/books/tahdhib-al-ahkam:9:2:112",
+        "/books/tahdhib-al-ahkam:9:2:153",
+        "/books/tahdhib-al-ahkam:9:34:14"
+      ]
+    },
+    "90-35-8-4-5-110-336-3-2-38-683-669": {
+      "narrator_ids": [
+        90,
+        35,
+        8,
+        4,
+        5,
+        110,
+        336,
+        3,
+        2,
+        38,
+        683,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:2:4:1"
+      ]
+    },
+    "90-8-110-683-669": {
+      "narrator_ids": [
+        90,
+        8,
+        110,
+        683,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:100:11"
+      ]
+    },
+    "952-6-8-22-683-669": {
+      "narrator_ids": [
+        952,
+        6,
+        8,
+        22,
+        683,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:2:112"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/683",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/683.json"
+  }
+}

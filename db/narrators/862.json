@@ -1,0 +1,121 @@
+{
+  "id": 862,
+  "type": "narrator",
+  "path": "/people/narrators/862",
+  "titles": {
+    "ar": "الْجَعْفَرِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:12:1",
+    "/books/al-kafi:2:1:163:2",
+    "/books/al-kafi:6:6:102:2",
+    "/books/al-kafi:6:6:76:5",
+    "/books/mujam-al-ahadith-al-mutabara:4:6:5",
+    "/books/tahdhib-al-ahkam:9:2:167"
+  ],
+  "verseCount": 6,
+  "relations": {},
+  "subchains": {
+    "11-169-862": {
+      "narrator_ids": [
+        11,
+        169,
+        862
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:2:167"
+      ]
+    },
+    "1286-862": {
+      "narrator_ids": [
+        1286,
+        862
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:12:1"
+      ]
+    },
+    "154-25-5-1286-862": {
+      "narrator_ids": [
+        154,
+        25,
+        5,
+        1286,
+        862
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:12:1"
+      ]
+    },
+    "169-862": {
+      "narrator_ids": [
+        169,
+        862
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:102:2",
+        "/books/al-kafi:6:6:76:5",
+        "/books/tahdhib-al-ahkam:9:2:167"
+      ]
+    },
+    "366-862": {
+      "narrator_ids": [
+        366,
+        862
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:163:2"
+      ]
+    },
+    "4-5-169-862-841": {
+      "narrator_ids": [
+        4,
+        5,
+        169,
+        862,
+        841
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:76:5"
+      ]
+    },
+    "5-169-862": {
+      "narrator_ids": [
+        5,
+        169,
+        862
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:102:2"
+      ]
+    },
+    "6-5-366-862": {
+      "narrator_ids": [
+        6,
+        5,
+        366,
+        862
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:163:2"
+      ]
+    },
+    "862-841": {
+      "narrator_ids": [
+        862,
+        841
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:76:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/862",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/862.json"
+  }
+}

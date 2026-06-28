@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-amali-mufid",
+  "chapterPath": "/books/al-amali-mufid:11:5",
+  "chapter": {
+    "path": "/books/al-amali-mufid:11:5",
+    "titles": {
+      "en": "Fatimah (SA) after the khilafat of Abu Bakr"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-amali-mufid:11:5:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-amali-mufid",
+        "titles": {
+          "ar": "الأمالي (المفيد)",
+          "en": "Al-Amali (al-Mufid)"
+        },
+        "author": {
+          "ar": "الشيخ المفيد",
+          "en": "Shaykh al-Mufid"
+        }
+      },
+      "path": {
+        "source": "/books/al-amali-mufid:11:5:1",
+        "parts": [
+          11,
+          5,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 11,
+        "book": 5,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-amali-mufid:11:5",
+        "titles": {
+          "en": "Fatimah (SA) after the khilafat of Abu Bakr"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": أخبرني أبو الحسن علي بن محمد الكاتب قال: أخبرني الحسن بن علي الزعفراني قال: أخبرني إبراهيم بن محمد الثقفي قال: أخبرنا أبو إسماعيل العطار قال: أخبرنا ابن لهيعة، عن أبي الأسود ، عن عروة بن الزبير قال: لما بايع الناس أبا بكر خرجت فاطمة بنت محمد صلى الله عليه وآله وسلم فوقفت على بابها وقالت: ما رأيت كاليوم قط، حضروا أسوء محضر، تركوا نبيهم صلى الله عليه وآله جنازة بين أظهرنا واستبدوا بالأمر دوننا."
+        ],
+        "text": ": أخبرني أبو الحسن علي بن محمد الكاتب قال: أخبرني الحسن بن علي الزعفراني قال: أخبرني إبراهيم بن محمد الثقفي قال: أخبرنا أبو إسماعيل العطار قال: أخبرنا ابن لهيعة، عن أبي الأسود ، عن عروة بن الزبير قال: لما بايع الناس أبا بكر خرجت فاطمة بنت محمد صلى الله عليه وآله وسلم فوقفت على بابها وقالت: ما رأيت كاليوم قط، حضروا أسوء محضر، تركوا نبيهم صلى الله عليه وآله جنازة بين أظهرنا واستبدوا بالأمر دوننا."
+      },
+      "translations": {
+        "en.mulla-asgharali-m-m-jaffer": {
+          "segments": [
+            "5. He said: Abul Hasan ‘Ali ibn Muhammad al-Katib reported to me from al-Hasan ibn ‘Ali al-Zafarani, who reported from Ibrahim ibn Muhammad al-Thaqafi, who reported from Abu Ismail al-Attar, from Ibn Luhaya’h, from Abul Aswad, from Urwah ibn al-Zubayr that: When people swore allegiance to Abu Bakr, Fatimah, the daughter of (Prophet) Muhammad, peace be upon him and his progeny, came to the door of her house and said: \"Never have I witnessed a day like this. They have indeed, set a worst record. They left their Prophet, peace be upon him and his progeny, with his corpse in our midst and preoccupied themselves with the matter (of succession) without us.\""
+          ],
+          "text": "5. He said: Abul Hasan ‘Ali ibn Muhammad al-Katib reported to me from al-Hasan ibn ‘Ali al-Zafarani, who reported from Ibrahim ibn Muhammad al-Thaqafi, who reported from Abu Ismail al-Attar, from Ibn Luhaya’h, from Abul Aswad, from Urwah ibn al-Zubayr that: When people swore allegiance to Abu Bakr, Fatimah, the daughter of (Prophet) Muhammad, peace be upon him and his progeny, came to the door of her house and said: \"Never have I witnessed a day like this. They have indeed, set a worst record. They left their Prophet, peace be upon him and his progeny, with his corpse in our midst and preoccupied themselves with the matter (of succession) without us.\""
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "5 - قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "5 - "
+          },
+          {
+            "kind": "narrator",
+            "text": "قال",
+            "path": "/people/narrators/652"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/652"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-amali-mufid:11:5:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-amali-mufid/11/5/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/13/11/5/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "id": 2447,
+  "type": "narrator",
+  "path": "/people/narrators/2447",
+  "titles": {
+    "ar": "إِسْمَاعِيلَ بْنِ رِيَاحٍ"
+  },
+  "versePaths": [
+    "/books/al-istibsar:2:116:1",
+    "/books/al-kafi:4:3:209:8",
+    "/books/tahdhib-al-ahkam:2:9:8"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "13-21-318-2447-669": {
+      "narrator_ids": [
+        13,
+        21,
+        318,
+        2447,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:9:8"
+      ]
+    },
+    "2447-64": {
+      "narrator_ids": [
+        2447,
+        64
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:209:8"
+      ]
+    },
+    "2447-669": {
+      "narrator_ids": [
+        2447,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:9:8"
+      ]
+    },
+    "3-2-7-36-2447-64": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        36,
+        2447,
+        64
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:209:8"
+      ]
+    },
+    "318-2447": {
+      "narrator_ids": [
+        318,
+        2447
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:9:8"
+      ]
+    },
+    "36-2447": {
+      "narrator_ids": [
+        36,
+        2447
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:209:8"
+      ]
+    },
+    "4134-2447": {
+      "narrator_ids": [
+        4134,
+        2447
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:2:116:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2447",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2447.json"
+  }
+}

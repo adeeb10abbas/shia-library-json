@@ -1,0 +1,86 @@
+{
+  "id": 1633,
+  "type": "narrator",
+  "path": "/people/narrators/1633",
+  "titles": {
+    "ar": "مُحْرِزٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:20:9",
+    "/books/al-kafi:6:7:15:15",
+    "/books/tahdhib-al-ahkam:9:2:185"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "1633-14": {
+      "narrator_ids": [
+        1633,
+        14
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:20:9",
+        "/books/al-kafi:6:7:15:15",
+        "/books/tahdhib-al-ahkam:9:2:185"
+      ]
+    },
+    "223-1633": {
+      "narrator_ids": [
+        223,
+        1633
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:20:9",
+        "/books/al-kafi:6:7:15:15",
+        "/books/tahdhib-al-ahkam:9:2:185"
+      ]
+    },
+    "3-2-223-1633-14-669": {
+      "narrator_ids": [
+        3,
+        2,
+        223,
+        1633,
+        14,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:15:15"
+      ]
+    },
+    "6-12-2-223-1633-14-669": {
+      "narrator_ids": [
+        6,
+        12,
+        2,
+        223,
+        1633,
+        14,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:20:9"
+      ]
+    },
+    "77-223-1633-14-669": {
+      "narrator_ids": [
+        77,
+        223,
+        1633,
+        14,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:2:185"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1633",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1633.json"
+  }
+}

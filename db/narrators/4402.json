@@ -1,0 +1,65 @@
+{
+  "id": 4402,
+  "type": "narrator",
+  "path": "/people/narrators/4402",
+  "titles": {
+    "ar": "مُفَضَّلِ بْنِ قَيْسِ بْنِ رُمَّانَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:1:17:7",
+    "/books/mujam-al-ahadith-al-mutabara:3:108:1"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "27-7-4402": {
+      "narrator_ids": [
+        27,
+        7,
+        4402
+      ],
+      "verse_paths": [
+        "/books/mujam-al-ahadith-al-mutabara:3:108:1"
+      ]
+    },
+    "35-5-237-292-4111-4402": {
+      "narrator_ids": [
+        35,
+        5,
+        237,
+        292,
+        4111,
+        4402
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:17:7"
+      ]
+    },
+    "4111-4402": {
+      "narrator_ids": [
+        4111,
+        4402
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:17:7"
+      ]
+    },
+    "7-4402": {
+      "narrator_ids": [
+        7,
+        4402
+      ],
+      "verse_paths": [
+        "/books/mujam-al-ahadith-al-mutabara:3:108:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4402",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4402.json"
+  }
+}

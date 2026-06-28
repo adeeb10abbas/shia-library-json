@@ -1,0 +1,148 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:7:2:1",
+  "chapter": {
+    "path": "/books/al-kafi:7:2:1",
+    "titles": {
+      "en": "Chapter 1a"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-kafi:7:2:1:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:2:1:1",
+        "parts": [
+          7,
+          2,
+          1,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 2,
+        "chapter": 1,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:2:1",
+        "titles": {
+          "en": "Chapter 1a"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " أَمَرْتُ مَنْ يَسْأَلُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) الْمَالُ لِمَنْ هُوَ لِلْأَقْرَبِ أَوْ لِلْعَصَبَةِ فَقَالَ الْمَالُ لِلْأَقْرَبِ وَ الْعَصَبَةُ فِي فِيهِ التُّرَابُ ."
+        ],
+        "text": "أَمَرْتُ مَنْ يَسْأَلُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) الْمَالُ لِمَنْ هُوَ لِلْأَقْرَبِ أَوْ لِلْعَصَبَةِ فَقَالَ الْمَالُ لِلْأَقْرَبِ وَ الْعَصَبَةُ فِي فِيهِ التُّرَابُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from Salih Bin Al Sindy, from Ja’far Bin Basheer, from Abdullah Bin Bakeyr, from Husayn Al Razaz who said, ",
+            "‘I instructed someone to ask Abu Abdullah<sup>asws</sup>, ‘The wealth is for the one who is the relative or for the society?’ So he<sup>asws</sup> said: ‘The wealth is for the relatives, and the society, in their mouths is the dust’."
+          ],
+          "text": "Ali Bin Ibrahim, from Salih Bin Al Sindy, from Ja’far Bin Basheer, from Abdullah Bin Bakeyr, from Husayn Al Razaz who said,\n\n‘I instructed someone to ask Abu Abdullah<sup>asws</sup>, ‘The wealth is for the one who is the relative or for the society?’ So he<sup>asws</sup> said: ‘The wealth is for the relatives, and the society, in their mouths is the dust’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. Ali ibn Ibrahim has narrated from Salih al-Sindiy from Ja‘far ibn Bashir from ‘Abd Allah ibn Bukayr from Husayn al-Raziy who has narrated the following: “I instructed a person to ask abu ‘Abd Allah, ‘Alayhi al-Salam, if the legacy is for the nearest relative or for al-‘Asabah (the relatives from the father’s side only). He (the Imam) said, ‘The legacy is for the nearest relatives and for the mouth of relatives from the father’s side only is dirt (soil).”’ "
+          ],
+          "text": "1. Ali ibn Ibrahim has narrated from Salih al-Sindiy from Ja‘far ibn Bashir from ‘Abd Allah ibn Bukayr from Husayn al-Raziy who has narrated the following: “I instructed a person to ask abu ‘Abd Allah, ‘Alayhi al-Salam, if the legacy is for the nearest relative or for al-‘Asabah (the relatives from the father’s side only). He (the Imam) said, ‘The legacy is for the nearest relatives and for the mouth of relatives from the father’s side only is dirt (soil).”’"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (3/117)",
+          "label": "ضعيف",
+          "text": "Allamah Baqir al-Majlisi: ضعيف - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (3/117)"
+        },
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> صحيح على الظاهر  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (3/117)",
+          "label": "صحيح على الظاهر",
+          "text": "Allamah Baqir al-Majlisi: صحيح على الظاهر - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (3/117)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ صَالِحِ بْنِ السِّنْدِيِّ عَنْ جَعْفَرِ بْنِ بَشِيرٍ عَنْ عَبْدِ اللَّهِ بْنِ بُكَيْرٍ عَنْ حُسَيْنٍ الرَّزَّازِ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "صَالِحِ بْنِ السِّنْدِيِّ",
+            "path": "/people/narrators/157"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "جَعْفَرِ بْنِ بَشِيرٍ",
+            "path": "/people/narrators/143"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَبْدِ اللَّهِ بْنِ بُكَيْرٍ",
+            "path": "/people/narrators/164"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "حُسَيْنٍ الرَّزَّازِ",
+            "path": "/people/narrators/3060"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/157",
+          "/people/narrators/143",
+          "/people/narrators/164",
+          "/people/narrators/3060"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:2:1:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/2/1/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

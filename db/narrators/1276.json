@@ -1,0 +1,64 @@
+{
+  "id": 1276,
+  "type": "narrator",
+  "path": "/people/narrators/1276",
+  "titles": {
+    "ar": "أَبِي شُعَيْبٍ الْمَحَامِلِيِّ الرِّفَاعِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:6:19:21",
+    "/books/al-kafi:7:6:19:3"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "277-1276": {
+      "narrator_ids": [
+        277,
+        1276
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:6:19:3"
+      ]
+    },
+    "350-1276": {
+      "narrator_ids": [
+        350,
+        1276
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:6:19:21"
+      ]
+    },
+    "4-59-277-1276": {
+      "narrator_ids": [
+        4,
+        59,
+        277,
+        1276
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:6:19:3"
+      ]
+    },
+    "6-8-350-1276": {
+      "narrator_ids": [
+        6,
+        8,
+        350,
+        1276
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:6:19:21"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1276",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1276.json"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 3542,
+  "type": "narrator",
+  "path": "/people/narrators/3542",
+  "titles": {
+    "ar": "عَبْدِ اللَّهِ الْأَرَّجَانِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:49:9"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "461-3542": {
+      "narrator_ids": [
+        461,
+        3542
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:49:9"
+      ]
+    },
+    "6-12-37-461-3542": {
+      "narrator_ids": [
+        6,
+        12,
+        37,
+        461,
+        3542
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:49:9"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3542",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3542.json"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": 2296,
+  "type": "narrator",
+  "path": "/people/narrators/2296",
+  "titles": {
+    "ar": "أَحْمَدَ بْنِ رِزْقٍ الْغُمْشَانِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:109:3",
+    "/books/kamil-al-ziyarat:2:37:5",
+    "/books/tahdhib-al-ahkam:1:28:46"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "2296-1667": {
+      "narrator_ids": [
+        2296,
+        1667
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:109:3"
+      ]
+    },
+    "2296-45": {
+      "narrator_ids": [
+        2296,
+        45
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:28:46"
+      ]
+    },
+    "292-2296": {
+      "narrator_ids": [
+        292,
+        2296
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:109:3",
+        "/books/kamil-al-ziyarat:2:37:5"
+      ]
+    },
+    "4-167-448-292-2296-1667-669": {
+      "narrator_ids": [
+        4,
+        167,
+        448,
+        292,
+        2296,
+        1667,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:109:3"
+      ]
+    },
+    "613-312-355-292-2296": {
+      "narrator_ids": [
+        613,
+        312,
+        355,
+        292,
+        2296
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:37:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2296",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2296.json"
+  }
+}

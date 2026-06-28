@@ -1,0 +1,76 @@
+{
+  "id": 1277,
+  "type": "narrator",
+  "path": "/people/narrators/1277",
+  "titles": {
+    "ar": "أَبِي شَيْبَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:2:19:14",
+    "/books/al-kafi:2:1:140:2"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "11-127-26-46-1277": {
+      "narrator_ids": [
+        11,
+        127,
+        26,
+        46,
+        1277
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:2:19:14"
+      ]
+    },
+    "1277-438": {
+      "narrator_ids": [
+        1277,
+        438
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:140:2"
+      ]
+    },
+    "41-1277": {
+      "narrator_ids": [
+        41,
+        1277
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:140:2"
+      ]
+    },
+    "46-1277": {
+      "narrator_ids": [
+        46,
+        1277
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:2:19:14"
+      ]
+    },
+    "6-12-41-1277-438-9": {
+      "narrator_ids": [
+        6,
+        12,
+        41,
+        1277,
+        438,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:140:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1277",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1277.json"
+  }
+}

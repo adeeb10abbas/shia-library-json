@@ -1,0 +1,155 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:6:6:118",
+  "chapter": {
+    "path": "/books/al-kafi:6:6:118",
+    "titles": {
+      "ar": "باب الْخَسِّ",
+      "en": "Chapter 117 – The Lettuce"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-kafi:6:6:118:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:6:118:1",
+        "parts": [
+          6,
+          6,
+          118,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 6,
+        "chapter": 118,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:6:118",
+        "titles": {
+          "ar": "باب الْخَسِّ",
+          "en": "Chapter 117 – The Lettuce"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " عَلَيْكُمْ بِالْخَسِّ فَإِنَّهُ يُصَفِّي الدَّمَ ."
+        ],
+        "text": "عَلَيْكُمْ بِالْخَسِّ فَإِنَّهُ يُصَفِّي الدَّمَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Ahmad Bin Abu Abdullah, from his father, from one of his companions, from Abu Hafs Al Abbar, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘it is upon you with (eating) the lettuce, for it cleans the blood’."
+          ],
+          "text": "A number of our companions, from Ahmad Bin Abu Abdullah, from his father, from one of his companions, from Abu Hafs Al Abbar,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘it is upon you with (eating) the lettuce, for it cleans the blood’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. A number of our people have narrated from Ahmad ibn abu ‘ Abd Allah from his father from certain persons of his people from abu Hafs ibn al-Abbar who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘You must eat lettuce because it cleanses blood.’” "
+          ],
+          "text": "1. A number of our people have narrated from Ahmad ibn abu ‘ Abd Allah from his father from certain persons of his people from abu Hafs ibn al-Abbar who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘You must eat lettuce because it cleanses blood.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مجهول   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/211)",
+          "label": "مجهول",
+          "text": "Allamah Baqir al-Majlisi: مجهول - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/211)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ أَحْمَدَ بْنِ أَبِي عَبْدِ اللَّهِ عَنْ أَبِيهِ عَنْ بَعْضِ أَصْحَابِهِ عَنْ أَبِي حَفْصٍ الْأَبَّارِ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ أَبِي عَبْدِ اللَّهِ",
+            "path": "/people/narrators/12"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "بَعْضِ أَصْحَابِهِ",
+            "path": "/people/narrators/37"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي حَفْصٍ الْأَبَّارِ",
+            "path": "/people/narrators/1264"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/12",
+          "/people/narrators/2",
+          "/people/narrators/37",
+          "/people/narrators/1264",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:6:118:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/6/118/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

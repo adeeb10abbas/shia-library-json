@@ -1,0 +1,54 @@
+{
+  "id": 2261,
+  "type": "narrator",
+  "path": "/people/narrators/2261",
+  "titles": {
+    "ar": "أَحْمَدَ ابْنَيْ مُحَمَّدٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:3:170:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1524-2261": {
+      "narrator_ids": [
+        1524,
+        2261
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:170:1"
+      ]
+    },
+    "2261-15": {
+      "narrator_ids": [
+        2261,
+        15
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:170:1"
+      ]
+    },
+    "4-1524-2261-15-52-102": {
+      "narrator_ids": [
+        4,
+        1524,
+        2261,
+        15,
+        52,
+        102
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:170:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2261",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2261.json"
+  }
+}

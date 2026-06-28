@@ -1,0 +1,44 @@
+{
+  "id": 2492,
+  "type": "narrator",
+  "path": "/people/narrators/2492",
+  "titles": {
+    "ar": "الْجَهْمِ بْنِ حُمَيْدٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:68:30"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "35-166-63-43-2492": {
+      "narrator_ids": [
+        35,
+        166,
+        63,
+        43,
+        2492
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:68:30"
+      ]
+    },
+    "43-2492": {
+      "narrator_ids": [
+        43,
+        2492
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:68:30"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2492",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2492.json"
+  }
+}

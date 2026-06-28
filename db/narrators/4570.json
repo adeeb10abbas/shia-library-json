@@ -1,0 +1,88 @@
+{
+  "id": 4570,
+  "type": "narrator",
+  "path": "/people/narrators/4570",
+  "titles": {
+    "ar": "يَحْيَى بْنِ مُعَمَّرٍ الْعَطَّارِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:65:4",
+    "/books/kamil-al-ziyarat:2:77:2"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "143-4570": {
+      "narrator_ids": [
+        143,
+        4570
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:65:4"
+      ]
+    },
+    "3-2-157-143-4570-465-669": {
+      "narrator_ids": [
+        3,
+        2,
+        157,
+        143,
+        4570,
+        465,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:65:4"
+      ]
+    },
+    "364-4570": {
+      "narrator_ids": [
+        364,
+        4570
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:77:2"
+      ]
+    },
+    "431-29-130-364-4570-14-9": {
+      "narrator_ids": [
+        431,
+        29,
+        130,
+        364,
+        4570,
+        14,
+        9
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:77:2"
+      ]
+    },
+    "4570-14": {
+      "narrator_ids": [
+        4570,
+        14
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:77:2"
+      ]
+    },
+    "4570-465": {
+      "narrator_ids": [
+        4570,
+        465
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:65:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4570",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4570.json"
+  }
+}

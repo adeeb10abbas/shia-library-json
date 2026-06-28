@@ -1,0 +1,124 @@
+{
+  "id": 867,
+  "type": "narrator",
+  "path": "/people/narrators/867",
+  "titles": {
+    "ar": "الْحَسَنِ بْنِ عَبْدِ الرَّحْمَنِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:108:90",
+    "/books/al-kafi:8:1:21:1",
+    "/books/al-kafi:8:1:39:21",
+    "/books/al-kafi:8:1:44:40"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "167-867": {
+      "narrator_ids": [
+        167,
+        867
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:108:90"
+      ]
+    },
+    "35-512-867-57-14-669": {
+      "narrator_ids": [
+        35,
+        512,
+        867,
+        57,
+        14,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:39:21"
+      ]
+    },
+    "35-512-867-79-71-9": {
+      "narrator_ids": [
+        35,
+        512,
+        867,
+        79,
+        71,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:44:40"
+      ]
+    },
+    "36-512-867-64": {
+      "narrator_ids": [
+        36,
+        512,
+        867,
+        64
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:21:1"
+      ]
+    },
+    "4-167-867-57-14-669": {
+      "narrator_ids": [
+        4,
+        167,
+        867,
+        57,
+        14,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:108:90"
+      ]
+    },
+    "512-867": {
+      "narrator_ids": [
+        512,
+        867
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:21:1",
+        "/books/al-kafi:8:1:39:21",
+        "/books/al-kafi:8:1:44:40"
+      ]
+    },
+    "867-57": {
+      "narrator_ids": [
+        867,
+        57
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:108:90",
+        "/books/al-kafi:8:1:39:21"
+      ]
+    },
+    "867-64": {
+      "narrator_ids": [
+        867,
+        64
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:21:1"
+      ]
+    },
+    "867-79": {
+      "narrator_ids": [
+        867,
+        79
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:44:40"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/867",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/867.json"
+  }
+}

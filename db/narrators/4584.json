@@ -1,0 +1,56 @@
+{
+  "id": 4584,
+  "type": "narrator",
+  "path": "/people/narrators/4584",
+  "titles": {
+    "ar": "يَزِيدَ بْنِ كَلْثَمَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:2:48:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1947-4584": {
+      "narrator_ids": [
+        1947,
+        4584
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:48:4"
+      ]
+    },
+    "4-5-122-366-1947-4584-992-9": {
+      "narrator_ids": [
+        4,
+        5,
+        122,
+        366,
+        1947,
+        4584,
+        992,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:48:4"
+      ]
+    },
+    "4584-992": {
+      "narrator_ids": [
+        4584,
+        992
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:48:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4584",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4584.json"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "id": 1316,
+  "type": "narrator",
+  "path": "/people/narrators/1316",
+  "titles": {
+    "ar": "إِسْمَاعِيلَ بْنِ إِبْرَاهِيمَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:196:2",
+    "/books/al-kafi:2:2:30:5"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "1316-3005": {
+      "narrator_ids": [
+        1316,
+        3005
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:30:5"
+      ]
+    },
+    "1316-463": {
+      "narrator_ids": [
+        1316,
+        463
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:196:2"
+      ]
+    },
+    "240-1316": {
+      "narrator_ids": [
+        240,
+        1316
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:30:5"
+      ]
+    },
+    "3-2-7-1316-463": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        1316,
+        463
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:196:2"
+      ]
+    },
+    "35-240-1316-3005-3076-669": {
+      "narrator_ids": [
+        35,
+        240,
+        1316,
+        3005,
+        3076,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:30:5"
+      ]
+    },
+    "7-1316": {
+      "narrator_ids": [
+        7,
+        1316
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:196:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1316",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1316.json"
+  }
+}

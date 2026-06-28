@@ -1,0 +1,55 @@
+{
+  "id": 3833,
+  "type": "narrator",
+  "path": "/people/narrators/3833",
+  "titles": {
+    "ar": "عَمَّارٍ الدُّهْنِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:48:30",
+    "/books/kitab-al-ghayba-tusi:51:55"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "1187-3833": {
+      "narrator_ids": [
+        1187,
+        3833
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:51:55"
+      ]
+    },
+    "3-2-82-304-384-3833": {
+      "narrator_ids": [
+        3,
+        2,
+        82,
+        304,
+        384,
+        3833
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:48:30"
+      ]
+    },
+    "384-3833": {
+      "narrator_ids": [
+        384,
+        3833
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:48:30"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3833",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3833.json"
+  }
+}

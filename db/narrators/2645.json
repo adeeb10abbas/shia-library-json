@@ -1,0 +1,55 @@
+{
+  "id": 2645,
+  "type": "narrator",
+  "path": "/people/narrators/2645",
+  "titles": {
+    "ar": "الْحُسَيْنِ بْنِ مُخَارِقٍ أَبِي جُنَادَةَ السَّلُولِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:2:13:8"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2645-71": {
+      "narrator_ids": [
+        2645,
+        71
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:13:8"
+      ]
+    },
+    "6-12-67-2645-71-9-2": {
+      "narrator_ids": [
+        6,
+        12,
+        67,
+        2645,
+        71,
+        9,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:13:8"
+      ]
+    },
+    "67-2645": {
+      "narrator_ids": [
+        67,
+        2645
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:13:8"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2645",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2645.json"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": 3983,
+  "type": "narrator",
+  "path": "/people/narrators/3983",
+  "titles": {
+    "ar": "غَيْرِ وَاحِدٍ مِنْ أَصْحَابِنَا قَالُوا قُلْنَا لَهُ جُعِلْنَا فِدَاكَ إِنْ لَمْ نَقْدِرْ عَلَى الْجَرِيدَةِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:3:24:10"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "6-8-3983": {
+      "narrator_ids": [
+        6,
+        8,
+        3983
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:24:10"
+      ]
+    },
+    "8-3983": {
+      "narrator_ids": [
+        8,
+        3983
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:24:10"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3983",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3983.json"
+  }
+}

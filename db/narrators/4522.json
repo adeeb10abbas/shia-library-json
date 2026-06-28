@@ -1,0 +1,54 @@
+{
+  "id": 4522,
+  "type": "narrator",
+  "path": "/people/narrators/4522",
+  "titles": {
+    "ar": "وَرْدَانَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:76:11"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2323-4522": {
+      "narrator_ids": [
+        2323,
+        4522
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:76:11"
+      ]
+    },
+    "3-2-76-2323-4522-841": {
+      "narrator_ids": [
+        3,
+        2,
+        76,
+        2323,
+        4522,
+        841
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:76:11"
+      ]
+    },
+    "4522-841": {
+      "narrator_ids": [
+        4522,
+        841
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:76:11"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4522",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4522.json"
+  }
+}

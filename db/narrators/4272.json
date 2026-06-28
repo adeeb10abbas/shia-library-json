@@ -1,0 +1,66 @@
+{
+  "id": 4272,
+  "type": "narrator",
+  "path": "/people/narrators/4272",
+  "titles": {
+    "ar": "مُحَمَّدُ بْنُ عَقِيلٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:11:1",
+    "/books/tahdhib-al-ahkam:5:25:467"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "4272-482": {
+      "narrator_ids": [
+        4272,
+        482
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:11:1",
+        "/books/tahdhib-al-ahkam:5:25:467"
+      ]
+    },
+    "4272-482-1162-237": {
+      "narrator_ids": [
+        4272,
+        482,
+        1162,
+        237
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:11:1"
+      ]
+    },
+    "952-4272": {
+      "narrator_ids": [
+        952,
+        4272
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:25:467"
+      ]
+    },
+    "952-4272-482-312-1162": {
+      "narrator_ids": [
+        952,
+        4272,
+        482,
+        312,
+        1162
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:25:467"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4272",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4272.json"
+  }
+}

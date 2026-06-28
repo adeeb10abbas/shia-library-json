@@ -1,0 +1,176 @@
+{
+  "id": 2000,
+  "type": "narrator",
+  "path": "/people/narrators/2000",
+  "titles": {
+    "ar": "أَبِي الْعَلَاءِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:49:8",
+    "/books/man-la-yahduruhu-al-faqih:3:2:30:7",
+    "/books/sifat-al-shia:36:1",
+    "/books/tahdhib-al-ahkam:6:90:234",
+    "/books/tahdhib-al-ahkam:6:92:13",
+    "/books/tahdhib-al-ahkam:7:13:7",
+    "/books/thawab-al-amal:2:245:1"
+  ],
+  "verseCount": 7,
+  "relations": {},
+  "subchains": {
+    "110-2000": {
+      "narrator_ids": [
+        110,
+        2000
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:13:7"
+      ]
+    },
+    "120-2000": {
+      "narrator_ids": [
+        120,
+        2000
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:90:234"
+      ]
+    },
+    "2000-14": {
+      "narrator_ids": [
+        2000,
+        14
+      ],
+      "verse_paths": [
+        "/books/thawab-al-amal:2:245:1"
+      ]
+    },
+    "2000-669": {
+      "narrator_ids": [
+        2000,
+        669
+      ],
+      "verse_paths": [
+        "/books/sifat-al-shia:36:1",
+        "/books/tahdhib-al-ahkam:6:90:234",
+        "/books/tahdhib-al-ahkam:7:13:7"
+      ]
+    },
+    "216-2000": {
+      "narrator_ids": [
+        216,
+        2000
+      ],
+      "verse_paths": [
+        "/books/thawab-al-amal:2:245:1"
+      ]
+    },
+    "3-2-36-2000": {
+      "narrator_ids": [
+        3,
+        2,
+        36,
+        2000
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:49:8"
+      ]
+    },
+    "3-2-7-120-2000-669": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        120,
+        2000,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:90:234"
+      ]
+    },
+    "36-2000": {
+      "narrator_ids": [
+        36,
+        2000
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:49:8",
+        "/books/tahdhib-al-ahkam:6:92:13"
+      ]
+    },
+    "404-2000": {
+      "narrator_ids": [
+        404,
+        2000
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:3:2:30:7"
+      ]
+    },
+    "59-2000": {
+      "narrator_ids": [
+        59,
+        2000
+      ],
+      "verse_paths": [
+        "/books/sifat-al-shia:36:1"
+      ]
+    },
+    "77-417-2-216-2000-14-669": {
+      "narrator_ids": [
+        77,
+        417,
+        2,
+        216,
+        2000,
+        14,
+        669
+      ],
+      "verse_paths": [
+        "/books/thawab-al-amal:2:245:1"
+      ]
+    },
+    "77-59-2000-669": {
+      "narrator_ids": [
+        77,
+        59,
+        2000,
+        669
+      ],
+      "verse_paths": [
+        "/books/sifat-al-shia:36:1"
+      ]
+    },
+    "8-110-2000-669": {
+      "narrator_ids": [
+        8,
+        110,
+        2000,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:13:7"
+      ]
+    },
+    "952-3-2-36-2000": {
+      "narrator_ids": [
+        952,
+        3,
+        2,
+        36,
+        2000
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:92:13"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2000",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2000.json"
+  }
+}

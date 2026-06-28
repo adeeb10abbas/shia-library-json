@@ -1,0 +1,45 @@
+{
+  "id": 3538,
+  "type": "narrator",
+  "path": "/people/narrators/3538",
+  "titles": {
+    "ar": "عَبْدِ الْكَرِيمِ عُتْبَةَ الْهَاشِمِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:1:7:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "18-3538": {
+      "narrator_ids": [
+        18,
+        3538
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:1:7:1"
+      ]
+    },
+    "3-2-7-83-18-3538": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        83,
+        18,
+        3538
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:1:7:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3538",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3538.json"
+  }
+}

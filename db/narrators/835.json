@@ -1,0 +1,170 @@
+{
+  "id": 835,
+  "type": "narrator",
+  "path": "/people/narrators/835",
+  "titles": {
+    "ar": "ابْنِ أَسْبَاطٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:4:102:5",
+    "/books/al-kafi:3:4:102:7",
+    "/books/al-kafi:3:4:84:26",
+    "/books/al-kafi:3:4:93:5",
+    "/books/kitab-al-ghayba-tusi:51:49",
+    "/books/tahdhib-al-ahkam:2:8:287"
+  ],
+  "verseCount": 6,
+  "relations": {},
+  "subchains": {
+    "11-835": {
+      "narrator_ids": [
+        11,
+        835
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:51:49"
+      ]
+    },
+    "11-835-260": {
+      "narrator_ids": [
+        11,
+        835,
+        260
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:51:49"
+      ]
+    },
+    "153-835": {
+      "narrator_ids": [
+        153,
+        835
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:102:7"
+      ]
+    },
+    "2-835": {
+      "narrator_ids": [
+        2,
+        835
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:93:5"
+      ]
+    },
+    "3-2-835-59-826-68": {
+      "narrator_ids": [
+        3,
+        2,
+        835,
+        59,
+        826,
+        68
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:93:5"
+      ]
+    },
+    "35-153-835-669": {
+      "narrator_ids": [
+        35,
+        153,
+        835,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:102:7"
+      ]
+    },
+    "35-8-835": {
+      "narrator_ids": [
+        35,
+        8,
+        835
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:102:5"
+      ]
+    },
+    "35-8-835-270": {
+      "narrator_ids": [
+        35,
+        8,
+        835,
+        270
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:84:26"
+      ]
+    },
+    "8-835": {
+      "narrator_ids": [
+        8,
+        835
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:102:5",
+        "/books/al-kafi:3:4:84:26",
+        "/books/tahdhib-al-ahkam:2:8:287"
+      ]
+    },
+    "835-260": {
+      "narrator_ids": [
+        835,
+        260
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:51:49"
+      ]
+    },
+    "835-270": {
+      "narrator_ids": [
+        835,
+        270
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:84:26",
+        "/books/tahdhib-al-ahkam:2:8:287"
+      ]
+    },
+    "835-59": {
+      "narrator_ids": [
+        835,
+        59
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:93:5"
+      ]
+    },
+    "835-669": {
+      "narrator_ids": [
+        835,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:102:7"
+      ]
+    },
+    "952-35-8-835-270": {
+      "narrator_ids": [
+        952,
+        35,
+        8,
+        835,
+        270
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:8:287"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/835",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/835.json"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 1592,
+  "type": "narrator",
+  "path": "/people/narrators/1592",
+  "titles": {
+    "ar": "عَمْرُو بْنُ مَرْوَانَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:7:21:13"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "6-8-205-85-1592": {
+      "narrator_ids": [
+        6,
+        8,
+        205,
+        85,
+        1592
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:21:13"
+      ]
+    },
+    "85-1592": {
+      "narrator_ids": [
+        85,
+        1592
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:21:13"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1592",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1592.json"
+  }
+}

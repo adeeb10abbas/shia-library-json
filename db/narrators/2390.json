@@ -1,0 +1,130 @@
+{
+  "id": 2390,
+  "type": "narrator",
+  "path": "/people/narrators/2390",
+  "titles": {
+    "ar": "أُدَيْمِ بْنِ الْحُرِّ"
+  },
+  "versePaths": [
+    "/books/al-istibsar:1:124:3",
+    "/books/al-istibsar:1:127:35",
+    "/books/al-kafi:3:2:1:1",
+    "/books/tahdhib-al-ahkam:1:21:10",
+    "/books/tahdhib-al-ahkam:2:13:95",
+    "/books/tahdhib-al-ahkam:2:9:113",
+    "/books/tahdhib-al-ahkam:7:25:27"
+  ],
+  "verseCount": 7,
+  "relations": {},
+  "subchains": {
+    "11-257-54-2390": {
+      "narrator_ids": [
+        11,
+        257,
+        54,
+        2390
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:9:113"
+      ]
+    },
+    "11-29-143-2390": {
+      "narrator_ids": [
+        11,
+        29,
+        143,
+        2390
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:13:95"
+      ]
+    },
+    "13-63-164-2390": {
+      "narrator_ids": [
+        13,
+        63,
+        164,
+        2390
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:25:27"
+      ]
+    },
+    "143-2390": {
+      "narrator_ids": [
+        143,
+        2390
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:124:3",
+        "/books/al-istibsar:1:127:35",
+        "/books/tahdhib-al-ahkam:2:13:95"
+      ]
+    },
+    "164-2390": {
+      "narrator_ids": [
+        164,
+        2390
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:25:27"
+      ]
+    },
+    "20-25-89-54-2390": {
+      "narrator_ids": [
+        20,
+        25,
+        89,
+        54,
+        2390
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:2:1:1"
+      ]
+    },
+    "4286-29-143-2390": {
+      "narrator_ids": [
+        4286,
+        29,
+        143,
+        2390
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:124:3",
+        "/books/al-istibsar:1:127:35"
+      ]
+    },
+    "4630-5-2-21-54-2390": {
+      "narrator_ids": [
+        4630,
+        5,
+        2,
+        21,
+        54,
+        2390
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:21:10"
+      ]
+    },
+    "54-2390": {
+      "narrator_ids": [
+        54,
+        2390
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:2:1:1",
+        "/books/tahdhib-al-ahkam:1:21:10",
+        "/books/tahdhib-al-ahkam:2:9:113"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2390",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2390.json"
+  }
+}

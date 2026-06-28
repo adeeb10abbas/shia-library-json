@@ -1,0 +1,45 @@
+{
+  "id": 2934,
+  "type": "narrator",
+  "path": "/people/narrators/2934",
+  "titles": {
+    "ar": "بَكْرِ بْنِ عَبْدِ اللَّهِ الْأَزْدِيِّ شَرِيكِ أَبِي حَمْزَةَ الثُّمَالِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:156:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "128-2934": {
+      "narrator_ids": [
+        128,
+        2934
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:156:3"
+      ]
+    },
+    "4-167-237-638-128-2934": {
+      "narrator_ids": [
+        4,
+        167,
+        237,
+        638,
+        128,
+        2934
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:156:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2934",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2934.json"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": 4171,
+  "type": "narrator",
+  "path": "/people/narrators/4171",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ الْحُسَيْنِ بْنِ صَفْوَانَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:85:7"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "4-4171": {
+      "narrator_ids": [
+        4,
+        4171
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:85:7"
+      ]
+    },
+    "4-4171-885-1711": {
+      "narrator_ids": [
+        4,
+        4171,
+        885,
+        1711
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:85:7"
+      ]
+    },
+    "4171-885": {
+      "narrator_ids": [
+        4171,
+        885
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:85:7"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4171",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4171.json"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": 4026,
+  "type": "narrator",
+  "path": "/people/narrators/4026",
+  "titles": {
+    "ar": "قَالَ أَحْمَدُ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:2:3:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "4026-3183": {
+      "narrator_ids": [
+        4026,
+        3183
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:3:4"
+      ]
+    },
+    "4026-3183-669-495-14-439": {
+      "narrator_ids": [
+        4026,
+        3183,
+        669,
+        495,
+        14,
+        439
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:3:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4026",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4026.json"
+  }
+}

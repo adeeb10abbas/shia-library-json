@@ -1,0 +1,54 @@
+{
+  "id": 4264,
+  "type": "narrator",
+  "path": "/people/narrators/4264",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ عَبْدِ اللَّهِ بْنِ سَيَابَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:53:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-6-68-4264-3024-206": {
+      "narrator_ids": [
+        11,
+        6,
+        68,
+        4264,
+        3024,
+        206
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:53:5"
+      ]
+    },
+    "4264-3024": {
+      "narrator_ids": [
+        4264,
+        3024
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:53:5"
+      ]
+    },
+    "68-4264": {
+      "narrator_ids": [
+        68,
+        4264
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:53:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4264",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4264.json"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": 4606,
+  "type": "narrator",
+  "path": "/people/narrators/4606",
+  "titles": {
+    "ar": "يُوسُفَ الْأَبْزَارِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:42:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "4-616-773-4606-441": {
+      "narrator_ids": [
+        4,
+        616,
+        773,
+        4606,
+        441
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:42:2"
+      ]
+    },
+    "4606-441": {
+      "narrator_ids": [
+        4606,
+        441
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:42:2"
+      ]
+    },
+    "773-4606": {
+      "narrator_ids": [
+        773,
+        4606
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:42:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4606",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4606.json"
+  }
+}

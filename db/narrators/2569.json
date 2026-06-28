@@ -1,0 +1,55 @@
+{
+  "id": 2569,
+  "type": "narrator",
+  "path": "/people/narrators/2569",
+  "titles": {
+    "ar": "الْحَسَنِ بْنِ عَلِيِّ بْنِ رِبَاطٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:20:1",
+    "/books/tahdhib-al-ahkam:6:80:9"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "185-2569": {
+      "narrator_ids": [
+        185,
+        2569
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:20:1",
+        "/books/tahdhib-al-ahkam:6:80:9"
+      ]
+    },
+    "5-185-2569": {
+      "narrator_ids": [
+        5,
+        185,
+        2569
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:80:9"
+      ]
+    },
+    "6-5-185-2569": {
+      "narrator_ids": [
+        6,
+        5,
+        185,
+        2569
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:20:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2569",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2569.json"
+  }
+}

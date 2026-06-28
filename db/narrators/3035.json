@@ -1,0 +1,47 @@
+{
+  "id": 3035,
+  "type": "narrator",
+  "path": "/people/narrators/3035",
+  "titles": {
+    "ar": "حَبِيبِ بْنِ بِشْرِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:97:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1080-3035": {
+      "narrator_ids": [
+        1080,
+        3035
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:97:4"
+      ]
+    },
+    "4-13-99-21-65-375-1080-3035": {
+      "narrator_ids": [
+        4,
+        13,
+        99,
+        21,
+        65,
+        375,
+        1080,
+        3035
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:97:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3035",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3035.json"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": 2743,
+  "type": "narrator",
+  "path": "/people/narrators/2743",
+  "titles": {
+    "ar": "الْفَضْلِ بْنِ أَبِي غُرَّةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:130:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2743-669": {
+      "narrator_ids": [
+        2743,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:130:1"
+      ]
+    },
+    "407-2743": {
+      "narrator_ids": [
+        407,
+        2743
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:130:1"
+      ]
+    },
+    "6-12-407-2743-669": {
+      "narrator_ids": [
+        6,
+        12,
+        407,
+        2743,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:130:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2743",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2743.json"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "id": 3986,
+  "type": "narrator",
+  "path": "/people/narrators/3986",
+  "titles": {
+    "ar": "غَيْرُهُ مِنْ أَصْحَابِنَا"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:47:2",
+    "/books/man-la-yahduruhu-al-faqih:3:3:25:7",
+    "/books/tahdhib-al-ahkam:6:91:46"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "10-352-3986-669": {
+      "narrator_ids": [
+        10,
+        352,
+        3986,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:47:2"
+      ]
+    },
+    "109-3986": {
+      "narrator_ids": [
+        109,
+        3986
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:3:3:25:7"
+      ]
+    },
+    "298-3986": {
+      "narrator_ids": [
+        298,
+        3986
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:91:46"
+      ]
+    },
+    "352-3986": {
+      "narrator_ids": [
+        352,
+        3986
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:47:2"
+      ]
+    },
+    "3986-669": {
+      "narrator_ids": [
+        3986,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:47:2",
+        "/books/man-la-yahduruhu-al-faqih:3:3:25:7"
+      ]
+    },
+    "4286-230-298-3986": {
+      "narrator_ids": [
+        4286,
+        230,
+        298,
+        3986
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:91:46"
+      ]
+    },
+    "53-109-3986-669": {
+      "narrator_ids": [
+        53,
+        109,
+        3986,
+        669
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:3:3:25:7"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3986",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3986.json"
+  }
+}

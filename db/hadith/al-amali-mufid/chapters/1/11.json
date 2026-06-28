@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-amali-mufid",
+  "chapterPath": "/books/al-amali-mufid:1:11",
+  "chapter": {
+    "path": "/books/al-amali-mufid:1:11",
+    "titles": {
+      "en": "Provision from unexpected quarters"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-amali-mufid:1:11:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-amali-mufid",
+        "titles": {
+          "ar": "الأمالي (المفيد)",
+          "en": "Al-Amali (al-Mufid)"
+        },
+        "author": {
+          "ar": "الشيخ المفيد",
+          "en": "Shaykh al-Mufid"
+        }
+      },
+      "path": {
+        "source": "/books/al-amali-mufid:1:11:1",
+        "parts": [
+          1,
+          11,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 1,
+        "book": 11,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-amali-mufid:1:11",
+        "titles": {
+          "en": "Provision from unexpected quarters"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": أخبرني أبو الحسن أحمد بن محمد الحسن، عن أبيه، عن محمد ابن الحسن الصفار، عن أحمد بن محمد بن عيسى، عن محمد بن خالد البرقي قال: قال حماد بن عيسى: قلت لأبي الحسن موسى بن جعفر عليهما السلام: جعلت فداك ادع الله أن يرزقني ولدا ولا يحرمني الحج ما دمت حيا، قال: فدعا لي فرزقني الله ابني هذا، وربما حضرت أيام الحج ولا أعرف للنفقة فيه وجها، فيأتي الله بها من حيث لا أحتسب."
+        ],
+        "text": ": أخبرني أبو الحسن أحمد بن محمد الحسن، عن أبيه، عن محمد ابن الحسن الصفار، عن أحمد بن محمد بن عيسى، عن محمد بن خالد البرقي قال: قال حماد بن عيسى: قلت لأبي الحسن موسى بن جعفر عليهما السلام: جعلت فداك ادع الله أن يرزقني ولدا ولا يحرمني الحج ما دمت حيا، قال: فدعا لي فرزقني الله ابني هذا، وربما حضرت أيام الحج ولا أعرف للنفقة فيه وجها، فيأتي الله بها من حيث لا أحتسب."
+      },
+      "translations": {
+        "en.mulla-asgharali-m-m-jaffer": {
+          "segments": [
+            "11. He said: Abul Hasan Ahmad ibn Muhammad ibn Ja’far reported to me from his father, from Muhammad ibn al-Hasan al-Saffar, from Ahmad ibn Muhammad ibn Isa, from Muhammad ibn Khalid al-Barqi that Hammad ibn Isa said: I requested Abul Hasan Musa ibn Ja’far, peace be upon him, saying: \"May I be your ransom, pray to Allah that He may bless me with a son, and may not deprive me from Haj as long as I live.\" He says: \"He prayed for me and Allah gave me this son. And whenever the days of Haj arrived while I had no means for the expenses, Allah provided from unexpected quarters.\""
+          ],
+          "text": "11. He said: Abul Hasan Ahmad ibn Muhammad ibn Ja’far reported to me from his father, from Muhammad ibn al-Hasan al-Saffar, from Ahmad ibn Muhammad ibn Isa, from Muhammad ibn Khalid al-Barqi that Hammad ibn Isa said: I requested Abul Hasan Musa ibn Ja’far, peace be upon him, saying: \"May I be your ransom, pray to Allah that He may bless me with a son, and may not deprive me from Haj as long as I live.\" He says: \"He prayed for me and Allah gave me this son. And whenever the days of Haj arrived while I had no means for the expenses, Allah provided from unexpected quarters.\""
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "11 - قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "11 - "
+          },
+          {
+            "kind": "narrator",
+            "text": "قال",
+            "path": "/people/narrators/652"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/652"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-amali-mufid:1:11:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-amali-mufid/1/11/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/13/1/11/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

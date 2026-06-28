@@ -1,0 +1,212 @@
+{
+  "id": 160,
+  "type": "narrator",
+  "path": "/people/narrators/160",
+  "titles": {
+    "ar": "أَخْبَرَهُ"
+  },
+  "versePaths": [
+    "/books/al-istibsar:1:261:4",
+    "/books/al-istibsar:1:35:14",
+    "/books/al-istibsar:2:146:4",
+    "/books/al-istibsar:2:2:1",
+    "/books/al-istibsar:3:70:13",
+    "/books/al-istibsar:4:28:6",
+    "/books/kitab-al-zuhd:2:10:6",
+    "/books/kitab-al-zuhd:2:4:5",
+    "/books/kitab-al-zuhd:2:4:6",
+    "/books/kitab-al-zuhd:2:8:16"
+  ],
+  "verseCount": 10,
+  "relations": {},
+  "subchains": {
+    "160-14": {
+      "narrator_ids": [
+        160,
+        14
+      ],
+      "verse_paths": [
+        "/books/kitab-al-zuhd:2:10:6"
+      ]
+    },
+    "160-669": {
+      "narrator_ids": [
+        160,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:261:4",
+        "/books/al-istibsar:1:35:14",
+        "/books/al-istibsar:2:146:4",
+        "/books/al-istibsar:2:2:1",
+        "/books/al-istibsar:3:70:13",
+        "/books/al-istibsar:4:28:6"
+      ]
+    },
+    "160-9": {
+      "narrator_ids": [
+        160,
+        9
+      ],
+      "verse_paths": [
+        "/books/kitab-al-zuhd:2:8:16"
+      ]
+    },
+    "1848-160": {
+      "narrator_ids": [
+        1848,
+        160
+      ],
+      "verse_paths": [
+        "/books/kitab-al-zuhd:2:4:5",
+        "/books/kitab-al-zuhd:2:4:6"
+      ]
+    },
+    "21-23-40-160-669": {
+      "narrator_ids": [
+        21,
+        23,
+        40,
+        160,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:261:4",
+        "/books/al-istibsar:1:35:14"
+      ]
+    },
+    "22-160": {
+      "narrator_ids": [
+        22,
+        160
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:3:70:13"
+      ]
+    },
+    "22-160-669": {
+      "narrator_ids": [
+        22,
+        160,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:3:70:13"
+      ]
+    },
+    "26-160": {
+      "narrator_ids": [
+        26,
+        160
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:2:2:1"
+      ]
+    },
+    "318-160": {
+      "narrator_ids": [
+        318,
+        160
+      ],
+      "verse_paths": [
+        "/books/kitab-al-zuhd:2:8:16"
+      ]
+    },
+    "318-160-9": {
+      "narrator_ids": [
+        318,
+        160,
+        9
+      ],
+      "verse_paths": [
+        "/books/kitab-al-zuhd:2:8:16"
+      ]
+    },
+    "40-160": {
+      "narrator_ids": [
+        40,
+        160
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:261:4",
+        "/books/al-istibsar:1:35:14",
+        "/books/al-istibsar:2:146:4"
+      ]
+    },
+    "42-160": {
+      "narrator_ids": [
+        42,
+        160
+      ],
+      "verse_paths": [
+        "/books/kitab-al-zuhd:2:10:6"
+      ]
+    },
+    "42-160-14": {
+      "narrator_ids": [
+        42,
+        160,
+        14
+      ],
+      "verse_paths": [
+        "/books/kitab-al-zuhd:2:10:6"
+      ]
+    },
+    "46-160": {
+      "narrator_ids": [
+        46,
+        160
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:4:28:6"
+      ]
+    },
+    "5-15-46-160-669": {
+      "narrator_ids": [
+        5,
+        15,
+        46,
+        160,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:4:28:6"
+      ]
+    },
+    "952-3-2-23-40-160-669": {
+      "narrator_ids": [
+        952,
+        3,
+        2,
+        23,
+        40,
+        160,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:2:146:4"
+      ]
+    },
+    "952-3-27-26-160-669": {
+      "narrator_ids": [
+        952,
+        3,
+        27,
+        26,
+        160,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:2:2:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/160",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/160.json"
+  }
+}

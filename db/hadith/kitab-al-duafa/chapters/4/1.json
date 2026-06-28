@@ -1,0 +1,70 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "kitab-al-duafa",
+  "chapterPath": "/books/kitab-al-duafa:4:1",
+  "chapter": {
+    "path": "/books/kitab-al-duafa:4:1",
+    "titles": {
+      "en": "Tamīm b. ʿAbdullāh b. Tamīm, al-Qarashī"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "kitab-al-duafa:4:1:1",
+      "type": "hadith",
+      "book": {
+        "slug": "kitab-al-duafa",
+        "titles": {
+          "ar": "كتاب الضعفاء",
+          "en": "Kitab al-Du'afa'"
+        },
+        "author": {
+          "en": "Ahmad ibn al-Husayn al-Ghada'iri"
+        }
+      },
+      "path": {
+        "source": "/books/kitab-al-duafa:4:1:1",
+        "parts": [
+          4,
+          1,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 1,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/kitab-al-duafa:4:1",
+        "titles": {
+          "en": "Tamīm b. ʿAbdullāh b. Tamīm, al-Qarashī"
+        }
+      },
+      "arabic": {
+        "segments": [
+          "1 - تميم بن عبد الله بن تميم، القرشي. الذي يروي عنه أبو جعفر محمد ابن بابويه. ضعيف."
+        ],
+        "text": "1 - تميم بن عبد الله بن تميم، القرشي. الذي يروي عنه أبو جعفر محمد ابن بابويه. ضعيف."
+      },
+      "translations": {
+        "en.tashayyu": {
+          "segments": [
+            "1 – Tamīm b. ʿAbdullāh b. Tamīm, al-Qarashī.  Abū Jaʿfar Muḥammad b. Bābawayh narrated from him.  Weak."
+          ],
+          "text": "1 – Tamīm b. ʿAbdullāh b. Tamīm, al-Qarashī.  Abū Jaʿfar Muḥammad b. Bābawayh narrated from him.  Weak."
+        }
+      },
+      "gradings": [],
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/kitab-al-duafa:4:1:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/kitab-al-duafa/4/1/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/17/4/1/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 1885,
+  "type": "narrator",
+  "path": "/people/narrators/1885",
+  "titles": {
+    "ar": "ابْنِ رِئَابٍ قَالُوا كُنَّا جُلُوساً عِنْدَ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) إِذْ عَطَسَ رَجُلٌ فَمَا رَدَّ عَلَيْهِ أَحَدٌ مِنَ الْقَوْمِ شَيْئاً حَتَّى ابْتَدَأَ هُوَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:4:15:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "20-25-63-313-758-4394-1885": {
+      "narrator_ids": [
+        20,
+        25,
+        63,
+        313,
+        758,
+        4394,
+        1885
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:15:3"
+      ]
+    },
+    "4394-1885": {
+      "narrator_ids": [
+        4394,
+        1885
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:15:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1885",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1885.json"
+  }
+}

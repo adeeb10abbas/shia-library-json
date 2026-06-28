@@ -1,0 +1,92 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "kitab-al-duafa",
+  "chapterPath": "/books/kitab-al-duafa:24:12",
+  "chapter": {
+    "path": "/books/kitab-al-duafa:24:12",
+    "titles": {
+      "en": "Sulaymān b. ʿUmar, Abū Dāwud, al-Nakhaʿī"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "kitab-al-duafa:24:12:1",
+      "type": "hadith",
+      "book": {
+        "slug": "kitab-al-duafa",
+        "titles": {
+          "ar": "كتاب الضعفاء",
+          "en": "Kitab al-Du'afa'"
+        },
+        "author": {
+          "en": "Ahmad ibn al-Husayn al-Ghada'iri"
+        }
+      },
+      "path": {
+        "source": "/books/kitab-al-duafa:24:12:1",
+        "parts": [
+          24,
+          12,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 24,
+        "book": 12,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/kitab-al-duafa:24:12",
+        "titles": {
+          "en": "Sulaymān b. ʿUmar, Abū Dāwud, al-Nakhaʿī"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا أحمد بن محمد بن سعيد، قال: كان أبو داوود النخعي يلقبه المحدثون: \" كذاب النخع \"."
+        ],
+        "text": ": حدثنا أحمد بن محمد بن سعيد، قال: كان أبو داوود النخعي يلقبه المحدثون: \" كذاب النخع \"."
+      },
+      "translations": {
+        "en.tashayyu": {
+          "segments": [
+            "12 – Sulaymān b. ʿUmar, Abū Dāwud, al-Nakhaʿī.  Narrated from Abū ʿAbdillāh   . عليه السلام Aḥmad b. Muḥammad b. Mūsā narrated to me, he said: Aḥmad b. Muḥammad b. Saʿīd narrated to me, he said: The muḥaddiths used to nickname Abū Dāwud “the liar of al-Nakhaʿ”"
+          ],
+          "text": "12 – Sulaymān b. ʿUmar, Abū Dāwud, al-Nakhaʿī.  Narrated from Abū ʿAbdillāh   . عليه السلام Aḥmad b. Muḥammad b. Mūsā narrated to me, he said: Aḥmad b. Muḥammad b. Saʿīd narrated to me, he said: The muḥaddiths used to nickname Abū Dāwud “the liar of al-Nakhaʿ”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "12 - سليمان بن عمر، أبو داوود، النخعي. روى عن أبي عبد الله (عليه السلام). حدثني أحمد بن محمد بن موسى، قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "12 - "
+          },
+          {
+            "kind": "plain",
+            "text": "سليمان بن عمر، أبو داوود، النخعي. روى"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "أبي عبد الله (عليه السلام). حدثني أحمد بن محمد بن موسى، قال"
+          }
+        ],
+        "narratorPaths": []
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/kitab-al-duafa:24:12:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/kitab-al-duafa/24/12/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/17/24/12/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

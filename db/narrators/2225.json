@@ -1,0 +1,108 @@
+{
+  "id": 2225,
+  "type": "narrator",
+  "path": "/people/narrators/2225",
+  "titles": {
+    "ar": "أَبِي هِلَالٍ الرَّازِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:2:56:4",
+    "/books/man-la-yahduruhu-al-faqih:3:1:41:2",
+    "/books/tahdhib-al-ahkam:5:25:251",
+    "/books/tahdhib-al-ahkam:8:3:33"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "115-2225": {
+      "narrator_ids": [
+        115,
+        2225
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:25:251"
+      ]
+    },
+    "127-5-22-51-2225": {
+      "narrator_ids": [
+        127,
+        5,
+        22,
+        51,
+        2225
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:56:4"
+      ]
+    },
+    "128-2225": {
+      "narrator_ids": [
+        128,
+        2225
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:3:1:41:2"
+      ]
+    },
+    "2225-669": {
+      "narrator_ids": [
+        2225,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:25:251"
+      ]
+    },
+    "244-51-2225": {
+      "narrator_ids": [
+        244,
+        51,
+        2225
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:8:3:33"
+      ]
+    },
+    "404-128-2225": {
+      "narrator_ids": [
+        404,
+        128,
+        2225
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:3:1:41:2"
+      ]
+    },
+    "4134-5-259-115-2225-669": {
+      "narrator_ids": [
+        4134,
+        5,
+        259,
+        115,
+        2225,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:25:251"
+      ]
+    },
+    "51-2225": {
+      "narrator_ids": [
+        51,
+        2225
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:56:4",
+        "/books/tahdhib-al-ahkam:8:3:33"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2225",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2225.json"
+  }
+}

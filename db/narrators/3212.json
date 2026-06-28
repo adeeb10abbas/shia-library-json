@@ -1,0 +1,46 @@
+{
+  "id": 3212,
+  "type": "narrator",
+  "path": "/people/narrators/3212",
+  "titles": {
+    "ar": "رَجُلٍ مِنْ أَصْحَابِ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) لَمْ أَحْفَظْ اسْمَهُ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:36:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "329-3212": {
+      "narrator_ids": [
+        329,
+        3212
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:36:2"
+      ]
+    },
+    "4-5-21-99-3275-329-3212": {
+      "narrator_ids": [
+        4,
+        5,
+        21,
+        99,
+        3275,
+        329,
+        3212
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:36:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3212",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3212.json"
+  }
+}

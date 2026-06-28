@@ -1,0 +1,53 @@
+{
+  "id": 3408,
+  "type": "narrator",
+  "path": "/people/narrators/3408",
+  "titles": {
+    "ar": "شَيْخٌ مِنْ أَصْحَابِنَا"
+  },
+  "versePaths": [
+    "/books/kamil-al-ziyarat:2:91:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "29-3408": {
+      "narrator_ids": [
+        29,
+        3408
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:91:5"
+      ]
+    },
+    "3408-116": {
+      "narrator_ids": [
+        3408,
+        116
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:91:5"
+      ]
+    },
+    "431-29-3408-116-669": {
+      "narrator_ids": [
+        431,
+        29,
+        3408,
+        116,
+        669
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:91:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3408",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3408.json"
+  }
+}

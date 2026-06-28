@@ -1,0 +1,43 @@
+{
+  "id": 4441,
+  "type": "narrator",
+  "path": "/people/narrators/4441",
+  "titles": {
+    "ar": "مُوسَى بْنِ بَكْرٍقَالَ اشْتَكَيْتُ بِالْمَدِينَةِ شَكَاةً ضَعُفْتُ مَعَهَا فَأَتَيْتُ أَبَا الْحَسَنِ ( عليه السلام )"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:68:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "145-4441": {
+      "narrator_ids": [
+        145,
+        4441
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:68:2"
+      ]
+    },
+    "6-8-145-4441": {
+      "narrator_ids": [
+        6,
+        8,
+        145,
+        4441
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:68:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4441",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4441.json"
+  }
+}

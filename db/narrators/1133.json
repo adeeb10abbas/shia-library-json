@@ -1,0 +1,95 @@
+{
+  "id": 1133,
+  "type": "narrator",
+  "path": "/people/narrators/1133",
+  "titles": {
+    "ar": "عَبْدِ الْعَظِيمِ بْنِ عَبْدِ اللَّهِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:108:57",
+    "/books/al-kafi:1:4:108:58",
+    "/books/al-kafi:5:3:44:6"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "1133-4558": {
+      "narrator_ids": [
+        1133,
+        4558
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:108:57"
+      ]
+    },
+    "1133-73": {
+      "narrator_ids": [
+        1133,
+        73
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:108:58"
+      ]
+    },
+    "12-1133": {
+      "narrator_ids": [
+        12,
+        1133
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:44:6"
+      ]
+    },
+    "219-1133": {
+      "narrator_ids": [
+        219,
+        1133
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:108:57",
+        "/books/al-kafi:1:4:108:58"
+      ]
+    },
+    "219-1133-4558-669": {
+      "narrator_ids": [
+        219,
+        1133,
+        4558,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:108:57"
+      ]
+    },
+    "219-1133-73-71-9": {
+      "narrator_ids": [
+        219,
+        1133,
+        73,
+        71,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:108:58"
+      ]
+    },
+    "6-12-1133": {
+      "narrator_ids": [
+        6,
+        12,
+        1133
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:44:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1133",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1133.json"
+  }
+}

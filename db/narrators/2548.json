@@ -1,0 +1,44 @@
+{
+  "id": 2548,
+  "type": "narrator",
+  "path": "/people/narrators/2548",
+  "titles": {
+    "ar": "الْحَسَنِ بْنِ سَرِيٍّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:212:6"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "128-2548": {
+      "narrator_ids": [
+        128,
+        2548
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:212:6"
+      ]
+    },
+    "19-24-30-128-2548": {
+      "narrator_ids": [
+        19,
+        24,
+        30,
+        128,
+        2548
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:212:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2548",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2548.json"
+  }
+}

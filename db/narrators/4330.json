@@ -1,0 +1,94 @@
+{
+  "id": 4330,
+  "type": "narrator",
+  "path": "/people/narrators/4330",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ مَيْمُونٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:149:2",
+    "/books/man-la-yahduruhu-al-faqih:2:3:60:2",
+    "/books/tahdhib-al-ahkam:5:10:62",
+    "/books/tahdhib-al-ahkam:5:11:17"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "11-6-5-21-38-4330": {
+      "narrator_ids": [
+        11,
+        6,
+        5,
+        21,
+        38,
+        4330
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:11:17"
+      ]
+    },
+    "21-23-4330": {
+      "narrator_ids": [
+        21,
+        23,
+        4330
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:2:3:60:2"
+      ]
+    },
+    "23-4330": {
+      "narrator_ids": [
+        23,
+        4330
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:2:3:60:2"
+      ]
+    },
+    "38-4330": {
+      "narrator_ids": [
+        38,
+        4330
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:149:2",
+        "/books/tahdhib-al-ahkam:5:10:62",
+        "/books/tahdhib-al-ahkam:5:11:17"
+      ]
+    },
+    "6-5-21-38-4330": {
+      "narrator_ids": [
+        6,
+        5,
+        21,
+        38,
+        4330
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:149:2"
+      ]
+    },
+    "952-6-5-21-38-4330": {
+      "narrator_ids": [
+        952,
+        6,
+        5,
+        21,
+        38,
+        4330
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:10:62"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4330",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4330.json"
+  }
+}

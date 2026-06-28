@@ -1,0 +1,55 @@
+{
+  "id": 1255,
+  "type": "narrator",
+  "path": "/people/narrators/1255",
+  "titles": {
+    "ar": "أَبِي الْعَبَّاسِ الْمَكِّيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:25:6",
+    "/books/al-kafi:8:1:43:13"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "102-1255": {
+      "narrator_ids": [
+        102,
+        1255
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:25:6",
+        "/books/al-kafi:8:1:43:13"
+      ]
+    },
+    "46-102-1255": {
+      "narrator_ids": [
+        46,
+        102,
+        1255
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:13"
+      ]
+    },
+    "77-46-102-1255": {
+      "narrator_ids": [
+        77,
+        46,
+        102,
+        1255
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:25:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1255",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1255.json"
+  }
+}

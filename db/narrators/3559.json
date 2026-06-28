@@ -1,0 +1,109 @@
+{
+  "id": 3559,
+  "type": "narrator",
+  "path": "/people/narrators/3559",
+  "titles": {
+    "ar": "عَبْدِ اللَّهِ بْنِ الْحَجَّالِ"
+  },
+  "versePaths": [
+    "/books/al-istibsar:1:127:38",
+    "/books/al-kafi:1:4:40:1",
+    "/books/tahdhib-al-ahkam:2:16:43"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "29-3559": {
+      "narrator_ids": [
+        29,
+        3559
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:16:43"
+      ]
+    },
+    "3559-161": {
+      "narrator_ids": [
+        3559,
+        161
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:127:38"
+      ]
+    },
+    "3559-565": {
+      "narrator_ids": [
+        3559,
+        565
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:16:43"
+      ]
+    },
+    "3559-620": {
+      "narrator_ids": [
+        3559,
+        620
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:40:1"
+      ]
+    },
+    "4286-29-3559-565-294-669": {
+      "narrator_ids": [
+        4286,
+        29,
+        3559,
+        565,
+        294,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:16:43"
+      ]
+    },
+    "5-3559": {
+      "narrator_ids": [
+        5,
+        3559
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:127:38",
+        "/books/al-kafi:1:4:40:1"
+      ]
+    },
+    "6-5-3559-620-14": {
+      "narrator_ids": [
+        6,
+        5,
+        3559,
+        620,
+        14
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:40:1"
+      ]
+    },
+    "952-4-5-3559-161-3873": {
+      "narrator_ids": [
+        952,
+        4,
+        5,
+        3559,
+        161,
+        3873
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:127:38"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3559",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3559.json"
+  }
+}

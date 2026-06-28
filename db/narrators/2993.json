@@ -1,0 +1,47 @@
+{
+  "id": 2993,
+  "type": "narrator",
+  "path": "/people/narrators/2993",
+  "titles": {
+    "ar": "جَعْفَرِ بْنِ حَيَّانَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:1:23:29"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "6-8-5-3-2-53-93-2993": {
+      "narrator_ids": [
+        6,
+        8,
+        5,
+        3,
+        2,
+        53,
+        93,
+        2993
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:1:23:29"
+      ]
+    },
+    "93-2993": {
+      "narrator_ids": [
+        93,
+        2993
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:1:23:29"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2993",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2993.json"
+  }
+}

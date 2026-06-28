@@ -1,0 +1,42 @@
+{
+  "id": 1986,
+  "type": "narrator",
+  "path": "/people/narrators/1986",
+  "titles": {
+    "ar": "أَبِي الْحَكَمِ الْأَرْمَنِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:72:14"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "219-67-1986": {
+      "narrator_ids": [
+        219,
+        67,
+        1986
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:72:14"
+      ]
+    },
+    "67-1986": {
+      "narrator_ids": [
+        67,
+        1986
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:72:14"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1986",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1986.json"
+  }
+}

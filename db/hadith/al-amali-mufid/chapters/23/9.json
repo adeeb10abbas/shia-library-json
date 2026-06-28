@@ -1,0 +1,122 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-amali-mufid",
+  "chapterPath": "/books/al-amali-mufid:23:9",
+  "chapter": {
+    "path": "/books/al-amali-mufid:23:9",
+    "titles": {
+      "en": "The most worshipful servant"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-amali-mufid:23:9:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-amali-mufid",
+        "titles": {
+          "ar": "الأمالي (المفيد)",
+          "en": "Al-Amali (al-Mufid)"
+        },
+        "author": {
+          "ar": "الشيخ المفيد",
+          "en": "Shaykh al-Mufid"
+        }
+      },
+      "path": {
+        "source": "/books/al-amali-mufid:23:9:1",
+        "parts": [
+          23,
+          9,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 23,
+        "book": 9,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-amali-mufid:23:9",
+        "titles": {
+          "en": "The most worshipful servant"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": سمعت علي بن الحسين عليهما السلام يقول: من عمل بما افترض الله عليه فهو من خير الناس، ومن اجتنب ما حرم الله عليه فهو من أعبد الناس ومن أورع الناس، ومن قنع بما قسم الله له فهو من أغنى الناس."
+        ],
+        "text": ": سمعت علي بن الحسين عليهما السلام يقول: من عمل بما افترض الله عليه فهو من خير الناس، ومن اجتنب ما حرم الله عليه فهو من أعبد الناس ومن أورع الناس، ومن قنع بما قسم الله له فهو من أغنى الناس."
+      },
+      "translations": {
+        "en.mulla-asgharali-m-m-jaffer": {
+          "segments": [
+            "9. And with the preceding chains of narration, from ‘Ali ibn Mahzyar, from al-Hasan ibn Mahboob, from Abu Hamza who said: I heard ‘Ali ibn al-Husayn, peace be upon him, say: \"He who obediently acts according to what Allah has commanded him to do, he is the best of men on earth! And he who obediently refrains from that which Allah has forbidden him, he is the most worshipping servant, the most pious. And whoever is content with what Allah has apportioned to him, is the richest of all men.\""
+          ],
+          "text": "9. And with the preceding chains of narration, from ‘Ali ibn Mahzyar, from al-Hasan ibn Mahboob, from Abu Hamza who said: I heard ‘Ali ibn al-Husayn, peace be upon him, say: \"He who obediently acts according to what Allah has commanded him to do, he is the best of men on earth! And he who obediently refrains from that which Allah has forbidden him, he is the most worshipping servant, the most pious. And whoever is content with what Allah has apportioned to him, is the richest of all men.\""
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "وَبِالْإِسْنَادِ الْأَوَّلِ عَنْ عَلِيِّ بْنِ مَهْزِيَارَ، عَنِ الْحَسَنِ بْنِ مَحْبُوبٍ، عَنْ أَبِي حَمْزَةَ قَالَ: سَمِعْتُ عَلِيَّ بْنَ الْحُسَيْنِ عَلَيْهِمَا السَّلَامُ يَقُولُ:",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "وَبِالْإِسْنَادِ الْأَوَّلِ عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيِّ بْنِ مَهْزِيَارَ",
+            "path": "/people/narrators/81"
+          },
+          {
+            "kind": "plain",
+            "text": "، عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحَسَنِ بْنِ مَحْبُوبٍ",
+            "path": "/people/narrators/53"
+          },
+          {
+            "kind": "plain",
+            "text": "، عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي حَمْزَةَ",
+            "path": "/people/narrators/71"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ: سَمِعْتُ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيَّ بْنَ الْحُسَيْنِ",
+            "path": "/people/narrators/312"
+          },
+          {
+            "kind": "plain",
+            "text": " عَلَيْهِمَا السَّلَامُ يَقُولُ:"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/81",
+          "/people/narrators/53",
+          "/people/narrators/71",
+          "/people/narrators/312"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-amali-mufid:23:9:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-amali-mufid/23/9/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/13/23/9/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

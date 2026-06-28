@@ -1,0 +1,132 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "maani-al-akhbar",
+  "chapterPath": "/books/maani-al-akhbar:95",
+  "chapter": {
+    "path": "/books/maani-al-akhbar:95",
+    "titles": {
+      "en": "The meaning of generosity of the grace"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "maani-al-akhbar:95:1",
+      "type": "hadith",
+      "book": {
+        "slug": "maani-al-akhbar",
+        "titles": {
+          "ar": "معاني الأخبار",
+          "en": "Ma'ani al-Akhbar"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/maani-al-akhbar:95:1",
+        "parts": [
+          95,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 95,
+        "book": 1
+      },
+      "chapter": {
+        "path": "/books/maani-al-akhbar:95",
+        "titles": {
+          "en": "The meaning of generosity of the grace"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": يا حسين أكرم النعمة  . قلت: جعلت فداك، وأي شئ كرامتها؟ قال: اصطناع المعروف فيما يبقى عليك."
+        ],
+        "text": ": يا حسين أكرم النعمة  . قلت: جعلت فداك، وأي شئ كرامتها؟ قال: اصطناع المعروف فيما يبقى عليك."
+      },
+      "translations": {
+        "en.basel-kadem": {
+          "segments": [
+            "1.\tWe were told by Muhammed bin Ali Majilawayh, may Allah be pleased with him, from his paternal uncle, Muhammed bin Abi’l-Qasim, from Muhammed bin Ali al-Sayrafi, from Sa’dan bin Muslim, from Hussain bin Na’eem, from Abu Abdillah, peace be upon him, that he said: O Hussain, be generous with the grace. I said: May I be sacrificed for you, and what thing is generosity with it? He said: To attempt doing good with what remains to you."
+          ],
+          "text": "1.\tWe were told by Muhammed bin Ali Majilawayh, may Allah be pleased with him, from his paternal uncle, Muhammed bin Abi’l-Qasim, from Muhammed bin Ali al-Sayrafi, from Sa’dan bin Muslim, from Hussain bin Na’eem, from Abu Abdillah, peace be upon him, that he said: O Hussain, be generous with the grace. I said: May I be sacrificed for you, and what thing is generosity with it? He said: To attempt doing good with what remains to you."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "حدثنا محمد بن علي ماجيلويه - رضي الله عنه -، عن عمه محمد بن أبي القاسم، عن محمد بن علي الصيرفي، عن سعدان بن مسلم، عن حسين بن نعيم، عن أبي عبد الله عليه السلام قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "حدثنا "
+          },
+          {
+            "kind": "plain",
+            "text": "محمد بن علي ماجيلويه - رضي الله عنه -،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "عمه محمد بن أبي القاسم،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "محمد بن علي الصيرفي،",
+            "path": "/people/narrators/4275"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "سعدان بن مسلم،",
+            "path": "/people/narrators/255"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "حسين بن نعيم،",
+            "path": "/people/narrators/3080"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي عبد الله عليه السلام قال",
+            "path": "/people/narrators/669"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4275",
+          "/people/narrators/255",
+          "/people/narrators/3080",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/maani-al-akhbar:95:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/maani-al-akhbar/95/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/28/1/95/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

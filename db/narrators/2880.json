@@ -1,0 +1,44 @@
+{
+  "id": 2880,
+  "type": "narrator",
+  "path": "/people/narrators/2880",
+  "titles": {
+    "ar": "بِشْرِ بْنِ إِسْمَاعِيلَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:90:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "6-5-1421-73-2880": {
+      "narrator_ids": [
+        6,
+        5,
+        1421,
+        73,
+        2880
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:90:1"
+      ]
+    },
+    "73-2880": {
+      "narrator_ids": [
+        73,
+        2880
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:90:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2880",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2880.json"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": 3040,
+  "type": "narrator",
+  "path": "/people/narrators/3040",
+  "titles": {
+    "ar": "حَدَّثَنِي أَحْمَدُ بْنُ إِدْرِيسَ الْقُمِّيُّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:42:1",
+    "/books/mujam-al-ahadith-al-mutabara:3:101:1"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "3040-4": {
+      "narrator_ids": [
+        3040,
+        4
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:42:1"
+      ]
+    },
+    "3040-4-187-351-1143-998-669": {
+      "narrator_ids": [
+        3040,
+        4,
+        187,
+        351,
+        1143,
+        998,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:42:1"
+      ]
+    },
+    "3040-59": {
+      "narrator_ids": [
+        3040,
+        59
+      ],
+      "verse_paths": [
+        "/books/mujam-al-ahadith-al-mutabara:3:101:1"
+      ]
+    },
+    "3040-59-187-292-80-2969-669": {
+      "narrator_ids": [
+        3040,
+        59,
+        187,
+        292,
+        80,
+        2969,
+        669
+      ],
+      "verse_paths": [
+        "/books/mujam-al-ahadith-al-mutabara:3:101:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3040",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3040.json"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1792,
+  "type": "narrator",
+  "path": "/people/narrators/1792",
+  "titles": {
+    "ar": "إِبْرَاهِيمَ الْخَزَّازِ أَبِي أَيُّوبَ"
+  },
+  "versePaths": [
+    "/books/al-istibsar:1:264:2",
+    "/books/al-kafi:3:4:65:3",
+    "/books/tahdhib-al-ahkam:3:31:2"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "11-27-26-1792-669": {
+      "narrator_ids": [
+        11,
+        27,
+        26,
+        1792,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:264:2",
+        "/books/tahdhib-al-ahkam:3:31:2"
+      ]
+    },
+    "1792-669": {
+      "narrator_ids": [
+        1792,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:264:2",
+        "/books/al-kafi:3:4:65:3",
+        "/books/tahdhib-al-ahkam:3:31:2"
+      ]
+    },
+    "26-1792": {
+      "narrator_ids": [
+        26,
+        1792
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:264:2",
+        "/books/al-kafi:3:4:65:3",
+        "/books/tahdhib-al-ahkam:3:31:2"
+      ]
+    },
+    "3-27-26-1792-669": {
+      "narrator_ids": [
+        3,
+        27,
+        26,
+        1792,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:65:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1792",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1792.json"
+  }
+}

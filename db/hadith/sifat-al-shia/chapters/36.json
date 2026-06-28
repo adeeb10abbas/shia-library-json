@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "sifat-al-shia",
+  "chapterPath": "/books/sifat-al-shia:36",
+  "chapter": {
+    "path": "/books/sifat-al-shia:36",
+    "titles": {
+      "en": "The true believer's power and fearlessness in faith"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "sifat-al-shia:36:1",
+      "type": "hadith",
+      "book": {
+        "slug": "sifat-al-shia",
+        "titles": {
+          "ar": "صفات الشيعة",
+          "en": "Sifat al-Shi'a"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/sifat-al-shia:36:1",
+        "parts": [
+          36,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 36,
+        "book": 1
+      },
+      "chapter": {
+        "path": "/books/sifat-al-shia:36",
+        "titles": {
+          "en": "The true believer's power and fearlessness in faith"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " : إِنَّ اَلْمُؤْمِنَ مَنْ يَخَافُهُ كُلُّ شَيْ‌ءٍ وَ ذَلِكَ أَنَّهُ عَزِيزٌ فِي دِينِ اَللَّهِ وَ لاَ يَخَافُ مِنْ شَيْ‌ءٍ وَ هُوَ عَلاَمَةُ كُلِّ مُؤْمِنٍ."
+        ],
+        "text": ": إِنَّ اَلْمُؤْمِنَ مَنْ يَخَافُهُ كُلُّ شَيْ‌ءٍ وَ ذَلِكَ أَنَّهُ عَزِيزٌ فِي دِينِ اَللَّهِ وَ لاَ يَخَافُ مِنْ شَيْ‌ءٍ وَ هُوَ عَلاَمَةُ كُلِّ مُؤْمِنٍ."
+      },
+      "translations": {
+        "en.badr-shahin": {
+          "segments": [
+            "(The same previous series of relaters)… from Mohammed bin Ahmed from Abu al-Alaa that Abu Abdullah (a) said: The true believer is feared by everything, for he is powerful in the religion of Allah and he does not fear anything. This is the distinctive feature of the believers."
+          ],
+          "text": "(The same previous series of relaters)… from Mohammed bin Ahmed from Abu al-Alaa that Abu Abdullah (a) said: The true believer is feared by everything, for he is powerful in the religion of Allah and he does not fear anything. This is the distinctive feature of the believers."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "وَ بِهَذَا اَلْإِسْنَادِ عَنْ مُحَمَّدِ بْنِ أَحْمَدَ عَنْ أَبِي اَلْعَلاَءِ عَنْ أَبِي عَبْدِ اَللَّهِ ع قَالَ",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "وَ "
+          },
+          {
+            "kind": "narrator",
+            "text": "بِهَذَا اَلْإِسْنَادِ",
+            "path": "/people/narrators/77"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ أَحْمَدَ",
+            "path": "/people/narrators/59"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي اَلْعَلاَءِ",
+            "path": "/people/narrators/2000"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اَللَّهِ ع",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/77",
+          "/people/narrators/59",
+          "/people/narrators/2000",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {
+        "Quotes Quran": [
+          "/books/quran:91:15"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/sifat-al-shia:36:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/sifat-al-shia/36/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/26/1/55/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-amali-mufid",
+  "chapterPath": "/books/al-amali-mufid:23:10",
+  "chapter": {
+    "path": "/books/al-amali-mufid:23:10",
+    "titles": {
+      "en": "Living with the believers and non-believers"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-amali-mufid:23:10:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-amali-mufid",
+        "titles": {
+          "ar": "الأمالي (المفيد)",
+          "en": "Al-Amali (al-Mufid)"
+        },
+        "author": {
+          "ar": "الشيخ المفيد",
+          "en": "Shaykh al-Mufid"
+        }
+      },
+      "path": {
+        "source": "/books/al-amali-mufid:23:10:1",
+        "parts": [
+          23,
+          10,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 23,
+        "book": 10,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-amali-mufid:23:10",
+        "titles": {
+          "en": "Living with the believers and non-believers"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": صانع المنافق بلسانك، وأخلص ودك للمؤمن، وإن جالسك يهودي فأحسن مجالسته ."
+        ],
+        "text": ": صانع المنافق بلسانك، وأخلص ودك للمؤمن، وإن جالسك يهودي فأحسن مجالسته ."
+      },
+      "translations": {
+        "en.mulla-asgharali-m-m-jaffer": {
+          "segments": [
+            "10. And with the preceding chains of narration from ‘Ali ibn Mahzyar, from al-Hasan ibn Mahboob, from Muhammad ibn Sinan, from al-Husayn ibn Mas’ab, from Sa’d ibn Turaif, from: Abu Ja’far Muhammad ibn ‘Ali, peace be upon both, who said: \"Soften your speech with [even] the hypocrite, love the faithful believer sincerely, and [even] if a Jew were to sit with you, then be gracious in his company.\""
+          ],
+          "text": "10. And with the preceding chains of narration from ‘Ali ibn Mahzyar, from al-Hasan ibn Mahboob, from Muhammad ibn Sinan, from al-Husayn ibn Mas’ab, from Sa’d ibn Turaif, from: Abu Ja’far Muhammad ibn ‘Ali, peace be upon both, who said: \"Soften your speech with [even] the hypocrite, love the faithful believer sincerely, and [even] if a Jew were to sit with you, then be gracious in his company.\""
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "10 - وبالإسناد الأول عن علي بن مهزيار، عن الحسن بن محبوب، عن محمد بن سنان، عن الحسين بن مصعب، عن سعد بن طريف، عن أبي جعفر محمد بن علي صلوات الله عليهما إنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "10 - "
+          },
+          {
+            "kind": "plain",
+            "text": "وبالإسناد الأول"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "علي بن مهزيار،",
+            "path": "/people/narrators/81"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "الحسن بن محبوب،",
+            "path": "/people/narrators/53"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "محمد بن سنان،",
+            "path": "/people/narrators/42"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "الحسين بن مصعب،",
+            "path": "/people/narrators/2647"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "سعد بن طريف،",
+            "path": "/people/narrators/354"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "أبي جعفر محمد بن علي صلوات الله عليهما إنه قال"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/81",
+          "/people/narrators/53",
+          "/people/narrators/42",
+          "/people/narrators/2647",
+          "/people/narrators/354"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-amali-mufid:23:10:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-amali-mufid/23/10/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/13/23/10/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

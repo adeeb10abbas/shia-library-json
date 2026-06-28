@@ -1,0 +1,53 @@
+{
+  "id": 3967,
+  "type": "narrator",
+  "path": "/people/narrators/3967",
+  "titles": {
+    "ar": "عِيسَى بْنِ عَبْدِ اللَّهِ بْنِ عُمَرَ بْنِ عَلِيِّ بْنِ أَبِي طَالِبٍ ( عليه السلام )"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:63:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3967-669": {
+      "narrator_ids": [
+        3967,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:63:5"
+      ]
+    },
+    "4-29-74-3967-669": {
+      "narrator_ids": [
+        4,
+        29,
+        74,
+        3967,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:63:5"
+      ]
+    },
+    "74-3967": {
+      "narrator_ids": [
+        74,
+        3967
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:63:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3967",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3967.json"
+  }
+}

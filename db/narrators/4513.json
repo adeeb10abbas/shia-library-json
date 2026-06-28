@@ -1,0 +1,46 @@
+{
+  "id": 4513,
+  "type": "narrator",
+  "path": "/people/narrators/4513",
+  "titles": {
+    "ar": "هُوَ يَزِيدُ بْنُ خَلِيفَةَ الْحَارِثِيُّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:3:95:8"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3-2-310-37-30-4578-4513": {
+      "narrator_ids": [
+        3,
+        2,
+        310,
+        37,
+        30,
+        4578,
+        4513
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:95:8"
+      ]
+    },
+    "4578-4513": {
+      "narrator_ids": [
+        4578,
+        4513
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:95:8"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4513",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4513.json"
+  }
+}

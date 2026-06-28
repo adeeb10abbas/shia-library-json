@@ -1,0 +1,53 @@
+{
+  "id": 3269,
+  "type": "narrator",
+  "path": "/people/narrators/3269",
+  "titles": {
+    "ar": "زَكَرِيَّا ابْنِ آدَمَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:13:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "119-3269": {
+      "narrator_ids": [
+        119,
+        3269
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:13:2"
+      ]
+    },
+    "3269-98": {
+      "narrator_ids": [
+        3269,
+        98
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:13:2"
+      ]
+    },
+    "6-12-119-3269-98": {
+      "narrator_ids": [
+        6,
+        12,
+        119,
+        3269,
+        98
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:13:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3269",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3269.json"
+  }
+}

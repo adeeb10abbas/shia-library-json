@@ -1,0 +1,69 @@
+{
+  "id": 1469,
+  "type": "narrator",
+  "path": "/people/narrators/1469",
+  "titles": {
+    "ar": "رَجُلٍ مِنْ أَهْلِ مِصْرَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:25:4",
+    "/books/tahdhib-al-ahkam:9:16:18"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "11-59-1165-498-1469": {
+      "narrator_ids": [
+        11,
+        59,
+        1165,
+        498,
+        1469
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:16:18"
+      ]
+    },
+    "1109-1469": {
+      "narrator_ids": [
+        1109,
+        1469
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:25:4"
+      ]
+    },
+    "498-1469": {
+      "narrator_ids": [
+        498,
+        1469
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:16:18"
+      ]
+    },
+    "5-643-1007-92-1165-498-1109-1469": {
+      "narrator_ids": [
+        5,
+        643,
+        1007,
+        92,
+        1165,
+        498,
+        1109,
+        1469
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:25:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1469",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1469.json"
+  }
+}

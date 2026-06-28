@@ -1,0 +1,52 @@
+{
+  "id": 2109,
+  "type": "narrator",
+  "path": "/people/narrators/2109",
+  "titles": {
+    "ar": "أَبِي سُلَيْمَانَ الْحَذَّاءِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:91:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "12-2109": {
+      "narrator_ids": [
+        12,
+        2109
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:91:3"
+      ]
+    },
+    "2109-475": {
+      "narrator_ids": [
+        2109,
+        475
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:91:3"
+      ]
+    },
+    "6-12-2109-475": {
+      "narrator_ids": [
+        6,
+        12,
+        2109,
+        475
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:91:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2109",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2109.json"
+  }
+}

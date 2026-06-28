@@ -1,0 +1,53 @@
+{
+  "id": 2639,
+  "type": "narrator",
+  "path": "/people/narrators/2639",
+  "titles": {
+    "ar": "الْحُسَيْنِ بْنِ عَلِيِّ بْنِ مَرْوَانَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:3:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2639-6": {
+      "narrator_ids": [
+        2639,
+        6
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:3:5"
+      ]
+    },
+    "4-59-2639-6-163": {
+      "narrator_ids": [
+        4,
+        59,
+        2639,
+        6,
+        163
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:3:5"
+      ]
+    },
+    "59-2639": {
+      "narrator_ids": [
+        59,
+        2639
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:3:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2639",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2639.json"
+  }
+}

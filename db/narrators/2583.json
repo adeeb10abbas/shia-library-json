@@ -1,0 +1,63 @@
+{
+  "id": 2583,
+  "type": "narrator",
+  "path": "/people/narrators/2583",
+  "titles": {
+    "ar": "الْحَسَنِ بْنِ مُحَمَّدِ بْنِ بَشَّارٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:47:2",
+    "/books/kitab-al-ghayba-tusi:9:6"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "135-2583": {
+      "narrator_ids": [
+        135,
+        2583
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:9:6"
+      ]
+    },
+    "27-2583": {
+      "narrator_ids": [
+        27,
+        2583
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:47:2"
+      ]
+    },
+    "3-27-2583": {
+      "narrator_ids": [
+        3,
+        27,
+        2583
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:47:2"
+      ]
+    },
+    "952-3-135-2583": {
+      "narrator_ids": [
+        952,
+        3,
+        135,
+        2583
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:9:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2583",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2583.json"
+  }
+}

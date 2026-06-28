@@ -1,0 +1,120 @@
+{
+  "id": 1282,
+  "type": "narrator",
+  "path": "/people/narrators/1282",
+  "titles": {
+    "ar": "أَبِي عَلِيٍّ الْخَزَّازِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:72:11",
+    "/books/al-kafi:3:4:95:4",
+    "/books/kitab-al-ghayba-tusi:10:9",
+    "/books/tahdhib-al-ahkam:6:91:33"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "11-219-67-1282-3167": {
+      "narrator_ids": [
+        11,
+        219,
+        67,
+        1282,
+        3167
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:10:9"
+      ]
+    },
+    "11-5-2365-1282-254-669": {
+      "narrator_ids": [
+        11,
+        5,
+        2365,
+        1282,
+        254,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:91:33"
+      ]
+    },
+    "1282-254": {
+      "narrator_ids": [
+        1282,
+        254
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:91:33"
+      ]
+    },
+    "1282-3167": {
+      "narrator_ids": [
+        1282,
+        3167
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:72:11",
+        "/books/kitab-al-ghayba-tusi:10:9"
+      ]
+    },
+    "21-1282": {
+      "narrator_ids": [
+        21,
+        1282
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:95:4"
+      ]
+    },
+    "219-67-1282-3167": {
+      "narrator_ids": [
+        219,
+        67,
+        1282,
+        3167
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:72:11"
+      ]
+    },
+    "2365-1282": {
+      "narrator_ids": [
+        2365,
+        1282
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:91:33"
+      ]
+    },
+    "6-5-21-1282": {
+      "narrator_ids": [
+        6,
+        5,
+        21,
+        1282
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:95:4"
+      ]
+    },
+    "67-1282": {
+      "narrator_ids": [
+        67,
+        1282
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:72:11",
+        "/books/kitab-al-ghayba-tusi:10:9"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1282",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1282.json"
+  }
+}

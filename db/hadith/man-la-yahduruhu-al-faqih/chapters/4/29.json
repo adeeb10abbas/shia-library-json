@@ -1,0 +1,132 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "man-la-yahduruhu-al-faqih",
+  "chapterPath": "/books/man-la-yahduruhu-al-faqih:4:29",
+  "chapter": {
+    "path": "/books/man-la-yahduruhu-al-faqih:4:29",
+    "titles": {
+      "en": "Chapter on Bias in Bequests Being Among the Major Sins"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "man-la-yahduruhu-al-faqih:4:29:1",
+      "type": "hadith",
+      "book": {
+        "slug": "man-la-yahduruhu-al-faqih",
+        "titles": {
+          "ar": "من لا يحضره الفقيه",
+          "en": "Man La Yahduruhu al-Faqih"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/man-la-yahduruhu-al-faqih:4:29:1",
+        "parts": [
+          4,
+          29,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 29,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/man-la-yahduruhu-al-faqih:4:29",
+        "titles": {
+          "en": "Chapter on Bias in Bequests Being Among the Major Sins"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ عَلِيٌّ عَلَيْهِ اَلسَّلاَمُ : \"اَلْحَيْفُ فِي اَلْوَصِيَّةِ مِنَ اَلْكَبَائِرِ\"."
+        ],
+        "text": "قَالَ عَلِيٌّ عَلَيْهِ اَلسَّلاَمُ : \"اَلْحَيْفُ فِي اَلْوَصِيَّةِ مِنَ اَلْكَبَائِرِ\"."
+      },
+      "translations": {
+        "en.bab-ul-qaim-publications": {
+          "segments": [
+            "Hadith.5420 - Harun ibn Muslim narrated from Masadah ibn Ṣadaqah from Imam Jafar ibn Muhammad Al-Sadiq (as) from his father, Imam Muhammad ibn Ali Al-Baqir (as) from his forefathers (peace be upon them), who said that Imam Ali ibn Abi Talib (as) said:\n\"Injustice in a will is among the major sins.\""
+          ],
+          "text": "Hadith.5420 - Harun ibn Muslim narrated from Masadah ibn Ṣadaqah from Imam Jafar ibn Muhammad Al-Sadiq (as) from his father, Imam Muhammad ibn Ali Al-Baqir (as) from his forefathers (peace be upon them), who said that Imam Ali ibn Abi Talib (as) said:\n\"Injustice in a will is among the major sins.\""
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "5420 - رَوَى هَارُونُ بْنُ مُسْلِمٍ عَنْ مَسْعَدَةَ بْنِ صَدَقَةَ عَنْ جَعْفَرِ بْنِ مُحَمَّدٍ عَنْ أَبِيهِ عَنْ آبَائِهِ عَلَيْهِمُ اَلسَّلاَمُ قَالَ",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "5420 - رَوَى "
+          },
+          {
+            "kind": "narrator",
+            "text": "هَارُونُ بْنُ مُسْلِمٍ",
+            "path": "/people/narrators/113"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مَسْعَدَةَ بْنِ صَدَقَةَ",
+            "path": "/people/narrators/134"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "جَعْفَرِ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/208"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "آبَائِهِ عَلَيْهِمُ اَلسَّلاَمُ",
+            "path": "/people/narrators/662"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/113",
+          "/people/narrators/134",
+          "/people/narrators/208",
+          "/people/narrators/2",
+          "/people/narrators/662"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/man-la-yahduruhu-al-faqih:4:29:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/man-la-yahduruhu-al-faqih/4/29/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/34/1/83/5420",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

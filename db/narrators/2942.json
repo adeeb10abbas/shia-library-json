@@ -1,0 +1,43 @@
+{
+  "id": 2942,
+  "type": "narrator",
+  "path": "/people/narrators/2942",
+  "titles": {
+    "ar": "بِهَذِهِ الْأَسَانِيدِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:4:29:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2942-38": {
+      "narrator_ids": [
+        2942,
+        38
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:29:2"
+      ]
+    },
+    "2942-38-40-18": {
+      "narrator_ids": [
+        2942,
+        38,
+        40,
+        18
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:29:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2942",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2942.json"
+  }
+}

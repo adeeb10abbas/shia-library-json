@@ -1,0 +1,55 @@
+{
+  "id": 1845,
+  "type": "narrator",
+  "path": "/people/narrators/1845",
+  "titles": {
+    "ar": "إِبْرَاهِيمَ بْنِ يَحْيَى الثَّوْرِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:3:63:13"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1845-4517": {
+      "narrator_ids": [
+        1845,
+        4517
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:63:13"
+      ]
+    },
+    "500-1845": {
+      "narrator_ids": [
+        500,
+        1845
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:63:13"
+      ]
+    },
+    "59-37-500-1845-4517-2034-50": {
+      "narrator_ids": [
+        59,
+        37,
+        500,
+        1845,
+        4517,
+        2034,
+        50
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:63:13"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1845",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1845.json"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": 2402,
+  "type": "narrator",
+  "path": "/people/narrators/2402",
+  "titles": {
+    "ar": "إِسْحَاقَ الْمَدَائِنِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:74:9",
+    "/books/man-la-yahduruhu-al-faqih:3:2:21:8",
+    "/books/tahdhib-al-ahkam:7:3:44"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "4-29-43-51-2402": {
+      "narrator_ids": [
+        4,
+        29,
+        43,
+        51,
+        2402
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:74:9",
+        "/books/tahdhib-al-ahkam:7:3:44"
+      ]
+    },
+    "404-51-2402": {
+      "narrator_ids": [
+        404,
+        51,
+        2402
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:3:2:21:8"
+      ]
+    },
+    "51-2402": {
+      "narrator_ids": [
+        51,
+        2402
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:74:9",
+        "/books/man-la-yahduruhu-al-faqih:3:2:21:8",
+        "/books/tahdhib-al-ahkam:7:3:44"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2402",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2402.json"
+  }
+}

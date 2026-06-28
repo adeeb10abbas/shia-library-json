@@ -1,0 +1,54 @@
+{
+  "id": 4484,
+  "type": "narrator",
+  "path": "/people/narrators/4484",
+  "titles": {
+    "ar": "هَارُونَ بْنِ الْخَطَّابِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:99:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "378-4484": {
+      "narrator_ids": [
+        378,
+        4484
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:99:5"
+      ]
+    },
+    "4-373-37-378-4484-1968": {
+      "narrator_ids": [
+        4,
+        373,
+        37,
+        378,
+        4484,
+        1968
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:99:5"
+      ]
+    },
+    "4484-1968": {
+      "narrator_ids": [
+        4484,
+        1968
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:99:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4484",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4484.json"
+  }
+}

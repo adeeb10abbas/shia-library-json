@@ -1,0 +1,54 @@
+{
+  "id": 3010,
+  "type": "narrator",
+  "path": "/people/narrators/3010",
+  "titles": {
+    "ar": "جَعْفَرِ بْنِ مُحَمَّدِ بْنِ بَشِيرٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:3:13:14"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3010-3652": {
+      "narrator_ids": [
+        3010,
+        3652
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:3:13:14"
+      ]
+    },
+    "6-8-3010-3652-245-669": {
+      "narrator_ids": [
+        6,
+        8,
+        3010,
+        3652,
+        245,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:3:13:14"
+      ]
+    },
+    "8-3010": {
+      "narrator_ids": [
+        8,
+        3010
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:3:13:14"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3010",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3010.json"
+  }
+}

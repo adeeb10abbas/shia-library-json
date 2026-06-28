@@ -1,0 +1,56 @@
+{
+  "id": 1726,
+  "type": "narrator",
+  "path": "/people/narrators/1726",
+  "titles": {
+    "ar": "يَحْيَى بْنِ عُقْبَةَ الْأَزْدِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:126:7",
+    "/books/al-kafi:2:1:61:20"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "1726-669": {
+      "narrator_ids": [
+        1726,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:126:7",
+        "/books/al-kafi:2:1:61:20"
+      ]
+    },
+    "27-1726": {
+      "narrator_ids": [
+        27,
+        1726
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:126:7",
+        "/books/al-kafi:2:1:61:20"
+      ]
+    },
+    "3-27-1726-669": {
+      "narrator_ids": [
+        3,
+        27,
+        1726,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:126:7",
+        "/books/al-kafi:2:1:61:20"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1726",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1726.json"
+  }
+}

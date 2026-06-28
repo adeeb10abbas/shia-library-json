@@ -1,0 +1,102 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "fadail-al-shia",
+  "chapterPath": "/books/fadail-al-shia:45",
+  "chapter": {
+    "path": "/books/fadail-al-shia:45",
+    "titles": {
+      "en": "Prophet's (sw) assurance of companionship for loving him"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "fadail-al-shia:45:1",
+      "type": "hadith",
+      "book": {
+        "slug": "fadail-al-shia",
+        "titles": {
+          "ar": "فضائل الشيعة",
+          "en": "Fada'il al-Shi'a"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/fadail-al-shia:45:1",
+        "parts": [
+          45,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 45,
+        "book": 1
+      },
+      "chapter": {
+        "path": "/books/fadail-al-shia:45",
+        "titles": {
+          "en": "Prophet's (sw) assurance of companionship for loving him"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": أتى رسول الله صلّى الله عليه وآله رجل، فقال: يا رسول الله، إنّي لاحبّك. فقال: إنّك لتحبّني؟ فقال: والله إنّي لاحبّك. فقال رسول الله صلّى الله عليه وآله : أنت مع من أحببت."
+        ],
+        "text": ": أتى رسول الله صلّى الله عليه وآله رجل، فقال: يا رسول الله، إنّي لاحبّك. فقال: إنّك لتحبّني؟ فقال: والله إنّي لاحبّك. فقال رسول الله صلّى الله عليه وآله : أنت مع من أحببت."
+      },
+      "translations": {
+        "en.badr-shahin": {
+          "segments": [
+            "(The same previous series of relaters)… from al-Hasan bin Ali from Ali bin Aqaba from Musa an-Numayri that Abu Abdullah (a) said: A man came to the Prophet (s) and said: \"O Allah’s Messenger, I do like you.\" He (s) asked: \"Do you really like me?\" The man said: \"By Allah I swear, I love you.\" The Prophet (s) said: \"You will be with whomever you like.\""
+          ],
+          "text": "(The same previous series of relaters)… from al-Hasan bin Ali from Ali bin Aqaba from Musa an-Numayri that Abu Abdullah (a) said: A man came to the Prophet (s) and said: \"O Allah’s Messenger, I do like you.\" He (s) asked: \"Do you really like me?\" The man said: \"By Allah I swear, I love you.\" The Prophet (s) said: \"You will be with whomever you like.\""
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "وبهذا الاسناد، عن الحسن بن عليّ، عن عليّ بن عقبة، عن موسى النميري، عن أبي عبد الله عليه السلام قال",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "وبهذا الاسناد،",
+            "path": "/people/narrators/4521"
+          },
+          {
+            "kind": "plain",
+            "text": " عن الحسن بن عليّ، عن عليّ بن عقبة، عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "موسى النميري،",
+            "path": "/people/narrators/4432"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي عبد الله عليه السلام قال",
+            "path": "/people/narrators/669"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4521",
+          "/people/narrators/4432",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/fadail-al-shia:45:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/fadail-al-shia/45/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/25/1/42/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

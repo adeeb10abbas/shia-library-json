@@ -1,0 +1,86 @@
+{
+  "id": 2316,
+  "type": "narrator",
+  "path": "/people/narrators/2316",
+  "titles": {
+    "ar": "أَحْمَدَ بْنِ عُدَيْسٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:17:7",
+    "/books/tahdhib-al-ahkam:9:3:4"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "2316-46": {
+      "narrator_ids": [
+        2316,
+        46
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:3:4"
+      ]
+    },
+    "2316-52": {
+      "narrator_ids": [
+        2316,
+        52
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:17:7"
+      ]
+    },
+    "345-2316": {
+      "narrator_ids": [
+        345,
+        2316
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:17:7"
+      ]
+    },
+    "49-345-2316-52-365": {
+      "narrator_ids": [
+        49,
+        345,
+        2316,
+        52,
+        365
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:17:7"
+      ]
+    },
+    "761-2316": {
+      "narrator_ids": [
+        761,
+        2316
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:3:4"
+      ]
+    },
+    "952-49-761-2316-46-102-669": {
+      "narrator_ids": [
+        952,
+        49,
+        761,
+        2316,
+        46,
+        102,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:3:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2316",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2316.json"
+  }
+}

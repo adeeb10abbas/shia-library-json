@@ -1,0 +1,44 @@
+{
+  "id": 3047,
+  "type": "narrator",
+  "path": "/people/narrators/3047",
+  "titles": {
+    "ar": "حَدِيدِ بْنِ حَكِيمٍ أَوْ مُرَازِمٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:1:21:8"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "4-13-53-66-3047": {
+      "narrator_ids": [
+        4,
+        13,
+        53,
+        66,
+        3047
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:21:8"
+      ]
+    },
+    "66-3047": {
+      "narrator_ids": [
+        66,
+        3047
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:21:8"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3047",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3047.json"
+  }
+}

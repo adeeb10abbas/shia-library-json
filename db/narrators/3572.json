@@ -1,0 +1,53 @@
+{
+  "id": 3572,
+  "type": "narrator",
+  "path": "/people/narrators/3572",
+  "titles": {
+    "ar": "عَبْدِ اللَّهِ بْنِ بُكَيْرٍ الْهَجَرِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:75:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-15-3572-309-669": {
+      "narrator_ids": [
+        11,
+        15,
+        3572,
+        309,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:75:2"
+      ]
+    },
+    "15-3572": {
+      "narrator_ids": [
+        15,
+        3572
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:75:2"
+      ]
+    },
+    "3572-309": {
+      "narrator_ids": [
+        3572,
+        309
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:75:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3572",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3572.json"
+  }
+}

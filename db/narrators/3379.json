@@ -1,0 +1,54 @@
+{
+  "id": 3379,
+  "type": "narrator",
+  "path": "/people/narrators/3379",
+  "titles": {
+    "ar": "سُلَيْمَانَ بْنِخَالِدٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:7:16:11"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3379-669": {
+      "narrator_ids": [
+        3379,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:16:11"
+      ]
+    },
+    "47-3379": {
+      "narrator_ids": [
+        47,
+        3379
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:16:11"
+      ]
+    },
+    "50-2-65-47-3379-669": {
+      "narrator_ids": [
+        50,
+        2,
+        65,
+        47,
+        3379,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:16:11"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3379",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3379.json"
+  }
+}

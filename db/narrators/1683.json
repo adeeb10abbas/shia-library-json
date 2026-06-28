@@ -1,0 +1,106 @@
+{
+  "id": 1683,
+  "type": "narrator",
+  "path": "/people/narrators/1683",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ هَارُونَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:2:20:19",
+    "/books/al-kafi:7:3:21:11",
+    "/books/maani-al-akhbar:427:76"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "11-67-4401-1683-669": {
+      "narrator_ids": [
+        11,
+        67,
+        4401,
+        1683,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:20:19"
+      ]
+    },
+    "1683-331": {
+      "narrator_ids": [
+        1683,
+        331
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:21:11",
+        "/books/maani-al-akhbar:427:76"
+      ]
+    },
+    "1683-669": {
+      "narrator_ids": [
+        1683,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:20:19"
+      ]
+    },
+    "4-5-1683-331": {
+      "narrator_ids": [
+        4,
+        5,
+        1683,
+        331
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:21:11"
+      ]
+    },
+    "4401-1683": {
+      "narrator_ids": [
+        4401,
+        1683
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:20:19"
+      ]
+    },
+    "4521-59-1683-331-55": {
+      "narrator_ids": [
+        4521,
+        59,
+        1683,
+        331,
+        55
+      ],
+      "verse_paths": [
+        "/books/maani-al-akhbar:427:76"
+      ]
+    },
+    "5-1683": {
+      "narrator_ids": [
+        5,
+        1683
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:21:11"
+      ]
+    },
+    "59-1683": {
+      "narrator_ids": [
+        59,
+        1683
+      ],
+      "verse_paths": [
+        "/books/maani-al-akhbar:427:76"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1683",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1683.json"
+  }
+}

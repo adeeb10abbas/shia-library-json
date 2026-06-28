@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:4:23",
+  "chapter": {
+    "path": "/books/al-khisal:4:23",
+    "titles": {
+      "en": "You Must Seek Permission to Enter Three Times"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:4:23:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:4:23:1",
+        "parts": [
+          4,
+          23,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 23,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:4:23",
+        "titles": {
+          "en": "You Must Seek Permission to Enter Three Times"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا محمد بن الحسن الصفار، عن أحمد بن أبي عبد الله البرقي، عن أبيه، عن علي بن أسباط، عن عمه يعقوب بن سالم، عن أبي بصير، عن أبي عبد الله عليه السلام قال: الاستيذان ثلاثة أولهن يسمعون، والثانية يحذرون، والثالثة إن شاؤوا أذنوا وإن شاؤوا لم يفعلوا فيرجع المستأذن"
+        ],
+        "text": ": حدثنا محمد بن الحسن الصفار، عن أحمد بن أبي عبد الله البرقي، عن أبيه، عن علي بن أسباط، عن عمه يعقوب بن سالم، عن أبي بصير، عن أبي عبد الله عليه السلام قال: الاستيذان ثلاثة أولهن يسمعون، والثانية يحذرون، والثالثة إن شاؤوا أذنوا وإن شاؤوا لم يفعلوا فيرجع المستأذن"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "3-30 Muhammad ibn al-Hassan - may God be pleased with him - narrated that Muhammad ibn al-Hassan al-Saffar quoted Ahmad ibn Aba Abdullah al-Barqy, on the authority of his father, on the authority of Ali ibn Asbat, on the authority of his uncle Yaqoob ibn Salim, on the authority of Abi Basir, on the authority of Aba Abdullah as-Sadiq (MGB), “You must ask permission to enter (from outside the door). The first time is to let the residents of the house hear your request. The second request is to let them cover up their bodies (to meet the veiling requirements), and the third request is to give them a chance to grant you permission to enter or deny it. If they do not grant you permission to enter, you must immediately return.”"
+          ],
+          "text": "3-30 Muhammad ibn al-Hassan - may God be pleased with him - narrated that Muhammad ibn al-Hassan al-Saffar quoted Ahmad ibn Aba Abdullah al-Barqy, on the authority of his father, on the authority of Ali ibn Asbat, on the authority of his uncle Yaqoob ibn Salim, on the authority of Abi Basir, on the authority of Aba Abdullah as-Sadiq (MGB), “You must ask permission to enter (from outside the door). The first time is to let the residents of the house hear your request. The second request is to let them cover up their bodies (to meet the veiling requirements), and the third request is to give them a chance to grant you permission to enter or deny it. If they do not grant you permission to enter, you must immediately return.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "3-30 حدثنا محمد بن الحسن رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "3-30 حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "محمد بن الحسن رضي الله عنه قال",
+            "path": "/people/narrators/90"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/90"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:4:23:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/4/23/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/4/23/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

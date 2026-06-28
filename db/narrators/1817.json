@@ -1,0 +1,54 @@
+{
+  "id": 1817,
+  "type": "narrator",
+  "path": "/people/narrators/1817",
+  "titles": {
+    "ar": "إِبْرَاهِيمَ بْنِ حَنَانٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:2:55:21"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1817-3780": {
+      "narrator_ids": [
+        1817,
+        3780
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:55:21"
+      ]
+    },
+    "37-1817": {
+      "narrator_ids": [
+        37,
+        1817
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:55:21"
+      ]
+    },
+    "6-5-37-1817-3780-48": {
+      "narrator_ids": [
+        6,
+        5,
+        37,
+        1817,
+        3780,
+        48
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:55:21"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1817",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1817.json"
+  }
+}

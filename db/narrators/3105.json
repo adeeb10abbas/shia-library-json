@@ -1,0 +1,51 @@
+{
+  "id": 3105,
+  "type": "narrator",
+  "path": "/people/narrators/3105",
+  "titles": {
+    "ar": "حَمْدَانَ بْنِ إِبْرَاهِيمَ الْهَمْدَانِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:19:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3105-2913": {
+      "narrator_ids": [
+        3105,
+        2913
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:19:3"
+      ]
+    },
+    "5-3105": {
+      "narrator_ids": [
+        5,
+        3105
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:19:3"
+      ]
+    },
+    "5-3105-2913": {
+      "narrator_ids": [
+        5,
+        3105,
+        2913
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:19:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3105",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3105.json"
+  }
+}

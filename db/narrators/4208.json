@@ -1,0 +1,64 @@
+{
+  "id": 4208,
+  "type": "narrator",
+  "path": "/people/narrators/4208",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ جَعْفَرٍ النَّوْفَلِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:123:19",
+    "/books/tahdhib-al-ahkam:5:9:18"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "11-4208": {
+      "narrator_ids": [
+        11,
+        4208
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:9:18"
+      ]
+    },
+    "11-4208-1829-2": {
+      "narrator_ids": [
+        11,
+        4208,
+        1829,
+        2
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:9:18"
+      ]
+    },
+    "4208-1829": {
+      "narrator_ids": [
+        4208,
+        1829
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:123:19",
+        "/books/tahdhib-al-ahkam:5:9:18"
+      ]
+    },
+    "4208-1829-2": {
+      "narrator_ids": [
+        4208,
+        1829,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:123:19"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4208",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4208.json"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": 3761,
+  "type": "narrator",
+  "path": "/people/narrators/3761",
+  "titles": {
+    "ar": "عَلِيِّ بْنِ الْعَبَّاسِ بْنِ عَامِرٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:80:26"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "20-78-208-3761-4455-790-9": {
+      "narrator_ids": [
+        20,
+        78,
+        208,
+        3761,
+        4455,
+        790,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:80:26"
+      ]
+    },
+    "208-3761": {
+      "narrator_ids": [
+        208,
+        3761
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:80:26"
+      ]
+    },
+    "3761-4455": {
+      "narrator_ids": [
+        3761,
+        4455
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:80:26"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3761",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3761.json"
+  }
+}

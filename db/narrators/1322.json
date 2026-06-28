@@ -1,0 +1,54 @@
+{
+  "id": 1322,
+  "type": "narrator",
+  "path": "/people/narrators/1322",
+  "titles": {
+    "ar": "إِسْمَاعِيلُ بْنُ قُتَيْبَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:37:27"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "101-1322": {
+      "narrator_ids": [
+        101,
+        1322
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:37:27"
+      ]
+    },
+    "1322-583": {
+      "narrator_ids": [
+        1322,
+        583
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:37:27"
+      ]
+    },
+    "8-101-1322-583-861-669": {
+      "narrator_ids": [
+        8,
+        101,
+        1322,
+        583,
+        861,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:37:27"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1322",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1322.json"
+  }
+}

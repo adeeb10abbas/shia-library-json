@@ -1,0 +1,163 @@
+{
+  "id": 887,
+  "type": "narrator",
+  "path": "/people/narrators/887",
+  "titles": {
+    "ar": "بَكَّارِ بْنِ كَرْدَمٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:3:29:3",
+    "/books/al-kafi:2:1:83:1",
+    "/books/al-kafi:5:3:111:4",
+    "/books/al-kafi:5:3:1:7",
+    "/books/man-la-yahduruhu-al-faqih:3:3:44:27",
+    "/books/tahdhib-al-ahkam:7:23:70"
+  ],
+  "verseCount": 6,
+  "relations": {},
+  "subchains": {
+    "26-887": {
+      "narrator_ids": [
+        26,
+        887
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:29:3"
+      ]
+    },
+    "3-27-26-887-315-918-669": {
+      "narrator_ids": [
+        3,
+        27,
+        26,
+        887,
+        315,
+        918,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:29:3"
+      ]
+    },
+    "318-887": {
+      "narrator_ids": [
+        318,
+        887
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:1:7"
+      ]
+    },
+    "318-887-84-669": {
+      "narrator_ids": [
+        318,
+        887,
+        84,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:1:7"
+      ]
+    },
+    "3962-887": {
+      "narrator_ids": [
+        3962,
+        887
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:111:4",
+        "/books/tahdhib-al-ahkam:7:23:70"
+      ]
+    },
+    "4-13-63-887-441-669": {
+      "narrator_ids": [
+        4,
+        13,
+        63,
+        887,
+        441,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:83:1"
+      ]
+    },
+    "404-887": {
+      "narrator_ids": [
+        404,
+        887
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:3:3:44:27"
+      ]
+    },
+    "5-231-327-3962-887": {
+      "narrator_ids": [
+        5,
+        231,
+        327,
+        3962,
+        887
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:23:70"
+      ]
+    },
+    "5-36-327-3962-887": {
+      "narrator_ids": [
+        5,
+        36,
+        327,
+        3962,
+        887
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:111:4"
+      ]
+    },
+    "63-887": {
+      "narrator_ids": [
+        63,
+        887
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:83:1"
+      ]
+    },
+    "887-315": {
+      "narrator_ids": [
+        887,
+        315
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:29:3"
+      ]
+    },
+    "887-441": {
+      "narrator_ids": [
+        887,
+        441
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:83:1"
+      ]
+    },
+    "887-84": {
+      "narrator_ids": [
+        887,
+        84
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:1:7"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/887",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/887.json"
+  }
+}

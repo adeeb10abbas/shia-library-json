@@ -1,0 +1,74 @@
+{
+  "id": 1397,
+  "type": "narrator",
+  "path": "/people/narrators/1397",
+  "titles": {
+    "ar": "أَنَسٍ أَوْ هَيْثَمِ بْنِ الْبَرَاءِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:1:23:1",
+    "/books/al-kafi:7:4:17:5",
+    "/books/tahdhib-al-ahkam:10:15:31"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "1397-9": {
+      "narrator_ids": [
+        1397,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:4:17:5",
+        "/books/tahdhib-al-ahkam:10:15:31"
+      ]
+    },
+    "1616-1397": {
+      "narrator_ids": [
+        1616,
+        1397
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:1:23:1",
+        "/books/al-kafi:7:4:17:5",
+        "/books/tahdhib-al-ahkam:10:15:31"
+      ]
+    },
+    "310-1177-852-124-1616-1397": {
+      "narrator_ids": [
+        310,
+        1177,
+        852,
+        124,
+        1616,
+        1397
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:1:23:1"
+      ]
+    },
+    "5-1177-852-124-1616-1397-9": {
+      "narrator_ids": [
+        5,
+        1177,
+        852,
+        124,
+        1616,
+        1397,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:4:17:5",
+        "/books/tahdhib-al-ahkam:10:15:31"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1397",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1397.json"
+  }
+}

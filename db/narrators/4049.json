@@ -1,0 +1,61 @@
+{
+  "id": 4049,
+  "type": "narrator",
+  "path": "/people/narrators/4049",
+  "titles": {
+    "ar": "كَانَ تَعَبَّدَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:3:1:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "17-33-3-2-7-140-3342-4049-2945-2718-2715-2138-3187": {
+      "narrator_ids": [
+        17,
+        33,
+        3,
+        2,
+        7,
+        140,
+        3342,
+        4049,
+        2945,
+        2718,
+        2715,
+        2138,
+        3187
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:1:4"
+      ]
+    },
+    "3342-4049": {
+      "narrator_ids": [
+        3342,
+        4049
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:1:4"
+      ]
+    },
+    "4049-2945": {
+      "narrator_ids": [
+        4049,
+        2945
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:1:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4049",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4049.json"
+  }
+}

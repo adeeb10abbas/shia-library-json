@@ -1,0 +1,101 @@
+{
+  "id": 972,
+  "type": "narrator",
+  "path": "/people/narrators/972",
+  "titles": {
+    "ar": "ابْنِ الْعَرْزَمِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:13:4",
+    "/books/al-kafi:2:1:60:11",
+    "/books/al-kafi:6:7:4:6"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "12-972": {
+      "narrator_ids": [
+        12,
+        972
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:60:11",
+        "/books/al-kafi:6:7:4:6"
+      ]
+    },
+    "21-972": {
+      "narrator_ids": [
+        21,
+        972
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:13:4"
+      ]
+    },
+    "4-13-21-972-2-1365": {
+      "narrator_ids": [
+        4,
+        13,
+        21,
+        972,
+        2,
+        1365
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:13:4"
+      ]
+    },
+    "6-12-972-2-771-9": {
+      "narrator_ids": [
+        6,
+        12,
+        972,
+        2,
+        771,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:60:11"
+      ]
+    },
+    "6-12-972-3031-381": {
+      "narrator_ids": [
+        6,
+        12,
+        972,
+        3031,
+        381
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:4:6"
+      ]
+    },
+    "972-2": {
+      "narrator_ids": [
+        972,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:13:4",
+        "/books/al-kafi:2:1:60:11"
+      ]
+    },
+    "972-3031": {
+      "narrator_ids": [
+        972,
+        3031
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:4:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/972",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/972.json"
+  }
+}

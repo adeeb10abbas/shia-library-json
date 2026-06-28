@@ -1,0 +1,130 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "thawab-al-amal",
+  "chapterPath": "/books/thawab-al-amal:3:111",
+  "chapter": {
+    "path": "/books/thawab-al-amal:3:111",
+    "titles": {
+      "en": "Punishment of looking at women"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "thawab-al-amal:3:111:1",
+      "type": "hadith",
+      "book": {
+        "slug": "thawab-al-amal",
+        "titles": {
+          "ar": "ثواب الأعمال وعقاب الأعمال",
+          "en": "Thawab al-A'mal wa 'Iqab al-A'mal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/thawab-al-amal:3:111:1",
+        "parts": [
+          3,
+          111,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 111,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/thawab-al-amal:3:111",
+        "titles": {
+          "en": "Punishment of looking at women"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَمِعْتُهُ یَقُولُ النَّظَرُ سَهْمٌ مِنْ سِهَامِ إِبْلِیسَ مَسْمُومٌ وَ کَمْ مِنْ نَظْرَهٍ أَوْرَثَتْ حَسْرَهً طَوِیلَهً."
+        ],
+        "text": "سَمِعْتُهُ یَقُولُ النَّظَرُ سَهْمٌ مِنْ سِهَامِ إِبْلِیسَ مَسْمُومٌ وَ کَمْ مِنْ نَظْرَهٍ أَوْرَثَتْ حَسْرَهً طَوِیلَهً."
+      },
+      "translations": {
+        "en.sayed-athar-husain-rizvi-&-sayed-maqsood-athar": {
+          "segments": [
+            "1.  It is narrated that Imam Ja’far Sadiq (a.s.) said, “Looking at non-Mahram  women  is  one  of  the  poisonous  arrows  of Shaitaan. Many a times, it is a cause of development of evil desires.”"
+          ],
+          "text": "1.  It is narrated that Imam Ja’far Sadiq (a.s.) said, “Looking at non-Mahram  women  is  one  of  the  poisonous  arrows  of Shaitaan. Many a times, it is a cause of development of evil desires.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "وَ بِهَذَا الْإِسْنَادِ عَنْ أَحْمَدَ بْنِ فَضَّالٍ عَنْ عُقْبَهَ عَنْ أَبِیهِ عَنْ أَبِی عَبْدِ اللَّهِ ع قَالَ",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "وَ "
+          },
+          {
+            "kind": "narrator",
+            "text": "بِهَذَا الْإِسْنَادِ",
+            "path": "/people/narrators/77"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "plain",
+            "text": "أَحْمَدَ بْنِ فَضَّالٍ"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عُقْبَهَ",
+            "path": "/people/narrators/793"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِیهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِی عَبْدِ اللَّهِ ع",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/77",
+          "/people/narrators/793",
+          "/people/narrators/2",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/thawab-al-amal:3:111:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/thawab-al-amal/3/111/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/23/3/111/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

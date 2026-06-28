@@ -1,0 +1,84 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "kitab-al-duafa",
+  "chapterPath": "/books/kitab-al-duafa:7:3",
+  "chapter": {
+    "path": "/books/kitab-al-duafa:7:3",
+    "titles": {
+      "en": "Khalaf b. Muḥammad b. Abī al-Ḥasan al-Māwardī, al-Baṣrī"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "kitab-al-duafa:7:3:1",
+      "type": "hadith",
+      "book": {
+        "slug": "kitab-al-duafa",
+        "titles": {
+          "ar": "كتاب الضعفاء",
+          "en": "Kitab al-Du'afa'"
+        },
+        "author": {
+          "en": "Ahmad ibn al-Husayn al-Ghada'iri"
+        }
+      },
+      "path": {
+        "source": "/books/kitab-al-duafa:7:3:1",
+        "parts": [
+          7,
+          3,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 3,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/kitab-al-duafa:7:3",
+        "titles": {
+          "en": "Khalaf b. Muḥammad b. Abī al-Ḥasan al-Māwardī, al-Baṣrī"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " مذهبه، ضعيفا، لا يلتفت إليه."
+        ],
+        "text": "مذهبه، ضعيفا، لا يلتفت إليه."
+      },
+      "translations": {
+        "en.tashayyu": {
+          "segments": [
+            "3 – Khalaf b. Muḥammad b. Abī al-Ḥasan al-Māwardī, al-Baṣrī.    He was a ghālī in his madhhab.  Weak.  He is not regarded."
+          ],
+          "text": "3 – Khalaf b. Muḥammad b. Abī al-Ḥasan al-Māwardī, al-Baṣrī.    He was a ghālī in his madhhab.  Weak.  He is not regarded."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "3 - خلف بن محمد بن أبي الحسن، الماوردي، البصري. كان غاليا في",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "3 - "
+          },
+          {
+            "kind": "plain",
+            "text": "خلف بن محمد بن أبي الحسن، الماوردي، البصري. كان غاليا في"
+          }
+        ],
+        "narratorPaths": []
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/kitab-al-duafa:7:3:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/kitab-al-duafa/7/3/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/17/7/3/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

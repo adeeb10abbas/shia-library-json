@@ -1,0 +1,92 @@
+{
+  "id": 1557,
+  "type": "narrator",
+  "path": "/people/narrators/1557",
+  "titles": {
+    "ar": "عُثْمَانَ بْنِ عِيسَى الْكِلَابِيِّ"
+  },
+  "versePaths": [
+    "/books/al-istibsar:4:2:2",
+    "/books/al-kafi:4:3:90:7",
+    "/books/al-kafi:6:3:10:5",
+    "/books/tahdhib-al-ahkam:8:11:10"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "11-6-5-1557-841": {
+      "narrator_ids": [
+        11,
+        6,
+        5,
+        1557,
+        841
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:8:11:10"
+      ]
+    },
+    "1557-841": {
+      "narrator_ids": [
+        1557,
+        841
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:4:2:2",
+        "/books/al-kafi:6:3:10:5",
+        "/books/tahdhib-al-ahkam:8:11:10"
+      ]
+    },
+    "5-1557": {
+      "narrator_ids": [
+        5,
+        1557
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:4:2:2",
+        "/books/al-kafi:6:3:10:5",
+        "/books/tahdhib-al-ahkam:8:11:10"
+      ]
+    },
+    "6-5-1557-841": {
+      "narrator_ids": [
+        6,
+        5,
+        1557,
+        841
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:3:10:5"
+      ]
+    },
+    "92-1557": {
+      "narrator_ids": [
+        92,
+        1557
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:90:7"
+      ]
+    },
+    "952-6-5-1557-841": {
+      "narrator_ids": [
+        952,
+        6,
+        5,
+        1557,
+        841
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:4:2:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1557",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1557.json"
+  }
+}

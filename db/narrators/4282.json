@@ -1,0 +1,32 @@
+{
+  "id": 4282,
+  "type": "narrator",
+  "path": "/people/narrators/4282",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ عَلِيِّ بْنِ شَاذَانَ النَّيْسَابُورِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:125:23"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "35-4282": {
+      "narrator_ids": [
+        35,
+        4282
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:125:23"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4282",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4282.json"
+  }
+}

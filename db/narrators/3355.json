@@ -1,0 +1,44 @@
+{
+  "id": 3355,
+  "type": "narrator",
+  "path": "/people/narrators/3355",
+  "titles": {
+    "ar": "سَلَمَةَ بَيَّاعِ الْقَلَانِسِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:8:12:10"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "6-12-67-60-3355": {
+      "narrator_ids": [
+        6,
+        12,
+        67,
+        60,
+        3355
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:12:10"
+      ]
+    },
+    "60-3355": {
+      "narrator_ids": [
+        60,
+        3355
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:12:10"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3355",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3355.json"
+  }
+}

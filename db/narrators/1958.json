@@ -1,0 +1,83 @@
+{
+  "id": 1958,
+  "type": "narrator",
+  "path": "/people/narrators/1958",
+  "titles": {
+    "ar": "أَبِي الْحَارِثِ"
+  },
+  "versePaths": [
+    "/books/al-istibsar:1:203:3",
+    "/books/al-kafi:3:4:82:10",
+    "/books/tahdhib-al-ahkam:2:11:15",
+    "/books/tahdhib-al-ahkam:2:3:3"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "11-4-311-1203-1958": {
+      "narrator_ids": [
+        11,
+        4,
+        311,
+        1203,
+        1958
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:3:3"
+      ]
+    },
+    "1203-1958": {
+      "narrator_ids": [
+        1203,
+        1958
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:82:10",
+        "/books/tahdhib-al-ahkam:2:3:3"
+      ]
+    },
+    "4-618-311-1203-1958": {
+      "narrator_ids": [
+        4,
+        618,
+        311,
+        1203,
+        1958
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:82:10"
+      ]
+    },
+    "4134-101-6-68-1958": {
+      "narrator_ids": [
+        4134,
+        101,
+        6,
+        68,
+        1958
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:203:3",
+        "/books/tahdhib-al-ahkam:2:11:15"
+      ]
+    },
+    "68-1958": {
+      "narrator_ids": [
+        68,
+        1958
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:203:3",
+        "/books/tahdhib-al-ahkam:2:11:15"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1958",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1958.json"
+  }
+}

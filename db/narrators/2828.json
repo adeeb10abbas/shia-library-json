@@ -1,0 +1,98 @@
+{
+  "id": 2828,
+  "type": "narrator",
+  "path": "/people/narrators/2828",
+  "titles": {
+    "ar": "الْوَلِيدِ بْنِ أَبَانٍ"
+  },
+  "versePaths": [
+    "/books/al-istibsar:1:201:8",
+    "/books/al-kafi:1:4:113:1",
+    "/books/tahdhib-al-ahkam:2:11:13",
+    "/books/tahdhib-al-ahkam:2:13:106"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "20-4337-2082-2828-4266-2": {
+      "narrator_ids": [
+        20,
+        4337,
+        2082,
+        2828,
+        4266,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:113:1"
+      ]
+    },
+    "2082-2828": {
+      "narrator_ids": [
+        2082,
+        2828
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:113:1"
+      ]
+    },
+    "2828-203": {
+      "narrator_ids": [
+        2828,
+        203
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:13:106"
+      ]
+    },
+    "2828-4266": {
+      "narrator_ids": [
+        2828,
+        4266
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:113:1"
+      ]
+    },
+    "4546-2828": {
+      "narrator_ids": [
+        4546,
+        2828
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:13:106"
+      ]
+    },
+    "5-2828": {
+      "narrator_ids": [
+        5,
+        2828
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:201:8",
+        "/books/tahdhib-al-ahkam:2:11:13"
+      ]
+    },
+    "952-50-2753-4546-2828-203": {
+      "narrator_ids": [
+        952,
+        50,
+        2753,
+        4546,
+        2828,
+        203
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:13:106"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2828",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2828.json"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": 2180,
+  "type": "narrator",
+  "path": "/people/narrators/2180",
+  "titles": {
+    "ar": "أَبِي عُمَارَةَ الطَّيَّارِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:159:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "22-2180": {
+      "narrator_ids": [
+        22,
+        2180
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:159:3"
+      ]
+    },
+    "4-5-22-2180": {
+      "narrator_ids": [
+        4,
+        5,
+        22,
+        2180
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:159:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2180",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2180.json"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": 4472,
+  "type": "narrator",
+  "path": "/people/narrators/4472",
+  "titles": {
+    "ar": "نَصْرِ بْنِ صَاعِدٍ مَوْلَى أَبِي عَبْدِ اللَّهِ ( عليه السلام )"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:160:10"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "20-25-5-4472-2": {
+      "narrator_ids": [
+        20,
+        25,
+        5,
+        4472,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:160:10"
+      ]
+    },
+    "4472-2": {
+      "narrator_ids": [
+        4472,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:160:10"
+      ]
+    },
+    "5-4472": {
+      "narrator_ids": [
+        5,
+        4472
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:160:10"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4472",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4472.json"
+  }
+}

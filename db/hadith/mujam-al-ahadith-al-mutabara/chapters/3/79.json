@@ -1,0 +1,121 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "mujam-al-ahadith-al-mutabara",
+  "chapterPath": "/books/mujam-al-ahadith-al-mutabara:3:79",
+  "chapter": {
+    "path": "/books/mujam-al-ahadith-al-mutabara:3:79",
+    "titles": {
+      "en": "Kumayt b. Zayd"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "mujam-al-ahadith-al-mutabara:3:79:1",
+      "type": "hadith",
+      "book": {
+        "slug": "mujam-al-ahadith-al-mutabara",
+        "titles": {
+          "ar": "معجم الأحاديث المعتبرة",
+          "en": "Mu'jam al-Ahadith al-Mu'tabara"
+        },
+        "author": {
+          "en": "Muhammad Asif al-Muhsini"
+        }
+      },
+      "path": {
+        "source": "/books/mujam-al-ahadith-al-mutabara:3:79:1",
+        "parts": [
+          3,
+          79,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 79,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/mujam-al-ahadith-al-mutabara:3:79",
+        "titles": {
+          "en": "Kumayt b. Zayd"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": دخل الكميت بن زيد على أبي جعفر عليه السلام و أنا عنده، فأنشده من لقلب متيم مستهام، فلما فرغ منها قال للكميت: لا تزال مؤيدا بروح القدس ما دمت تقول فينا"
+        ],
+        "text": ": دخل الكميت بن زيد على أبي جعفر عليه السلام و أنا عنده، فأنشده من لقلب متيم مستهام، فلما فرغ منها قال للكميت: لا تزال مؤيدا بروح القدس ما دمت تقول فينا"
+      },
+      "translations": {
+        "en.ammaar-muslim": {
+          "segments": [
+            "1. [1/224] Rijal al-Kashshi: Hamduwayh b. Nusayr from Muhammad b. Isa from Hanan from Ubayd b. Zurara from his father who said: al-Kumayt b. Zayd entered in to see Abi Ja’far عليه السلام while I was with him. He [Kumayt] proceeded to recite the poetry which begins ‘Who will be [a help] for [my] ensnared and infatuated heart [madly in love] …’ so when he had completed it – he [the Imam] said to Kumayt: You will not stop being aided by the Holy Spirit so long as you speak [compose] about us."
+          ],
+          "text": "1. [1/224] Rijal al-Kashshi: Hamduwayh b. Nusayr from Muhammad b. Isa from Hanan from Ubayd b. Zurara from his father who said: al-Kumayt b. Zayd entered in to see Abi Ja’far عليه السلام while I was with him. He [Kumayt] proceeded to recite the poetry which begins ‘Who will be [a help] for [my] ensnared and infatuated heart [madly in love] …’ so when he had completed it – he [the Imam] said to Kumayt: You will not stop being aided by the Holy Spirit so long as you speak [compose] about us."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "[1/224] حمدويه بن نصير، عن محمد بن عيسى، عن حنان، عن عبيد بن زرارة، عن أبيه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "[1/224] حمدويه بن نصير،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "محمد بن عيسى،",
+            "path": "/people/narrators/27"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "حنان،",
+            "path": "/people/narrators/267"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "عبيد بن زرارة،",
+            "path": "/people/narrators/103"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبيه قال",
+            "path": "/people/narrators/2"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/27",
+          "/people/narrators/267",
+          "/people/narrators/103",
+          "/people/narrators/2"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/mujam-al-ahadith-al-mutabara:3:79:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/mujam-al-ahadith-al-mutabara/3/79/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/9/3/80/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

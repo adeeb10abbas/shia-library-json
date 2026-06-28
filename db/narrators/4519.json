@@ -1,0 +1,51 @@
+{
+  "id": 4519,
+  "type": "narrator",
+  "path": "/people/narrators/4519",
+  "titles": {
+    "ar": "وَ أَحْمَدُ بْنُ إِدْرِيسَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:114:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "219-4519": {
+      "narrator_ids": [
+        219,
+        4519
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:114:3"
+      ]
+    },
+    "219-4519-4248": {
+      "narrator_ids": [
+        219,
+        4519,
+        4248
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:114:3"
+      ]
+    },
+    "4519-4248": {
+      "narrator_ids": [
+        4519,
+        4248
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:114:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4519",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4519.json"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": 2713,
+  "type": "narrator",
+  "path": "/people/narrators/2713",
+  "titles": {
+    "ar": "الصَّلْتِ الْخَزَّازِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:2:6:7"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1531-2713": {
+      "narrator_ids": [
+        1531,
+        2713
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:6:7"
+      ]
+    },
+    "2713-669": {
+      "narrator_ids": [
+        2713,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:6:7"
+      ]
+    },
+    "4-5-99-311-1531-2713-669": {
+      "narrator_ids": [
+        4,
+        5,
+        99,
+        311,
+        1531,
+        2713,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:6:7"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2713",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2713.json"
+  }
+}

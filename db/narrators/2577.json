@@ -1,0 +1,71 @@
+{
+  "id": 2577,
+  "type": "narrator",
+  "path": "/people/narrators/2577",
+  "titles": {
+    "ar": "الْحَسَنِ بْنِ عِيسَى بْنِ مُحَمَّدِ بْنِ عَلِيِّ بْنِ جَعْفَرٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:80:2",
+    "/books/kitab-al-ghayba-numani:2:10:11"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "2577-2": {
+      "narrator_ids": [
+        2577,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:80:2",
+        "/books/kitab-al-ghayba-numani:2:10:11"
+      ]
+    },
+    "35-2577": {
+      "narrator_ids": [
+        35,
+        2577
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:80:2",
+        "/books/kitab-al-ghayba-numani:2:10:11"
+      ]
+    },
+    "35-2577-2-253-136-572": {
+      "narrator_ids": [
+        35,
+        2577,
+        2,
+        253,
+        136,
+        572
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:80:2"
+      ]
+    },
+    "4345-35-2577-2-253-136-572": {
+      "narrator_ids": [
+        4345,
+        35,
+        2577,
+        2,
+        253,
+        136,
+        572
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-numani:2:10:11"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2577",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2577.json"
+  }
+}

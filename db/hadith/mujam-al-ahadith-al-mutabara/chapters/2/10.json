@@ -1,0 +1,286 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "mujam-al-ahadith-al-mutabara",
+  "chapterPath": "/books/mujam-al-ahadith-al-mutabara:2:10",
+  "chapter": {
+    "path": "/books/mujam-al-ahadith-al-mutabara:2:10",
+    "titles": {
+      "en": "Judging Conflict between Narrations"
+    }
+  },
+  "count": 3,
+  "records": [
+    {
+      "id": "mujam-al-ahadith-al-mutabara:2:10:1",
+      "type": "hadith",
+      "book": {
+        "slug": "mujam-al-ahadith-al-mutabara",
+        "titles": {
+          "ar": "معجم الأحاديث المعتبرة",
+          "en": "Mu'jam al-Ahadith al-Mu'tabara"
+        },
+        "author": {
+          "en": "Muhammad Asif al-Muhsini"
+        }
+      },
+      "path": {
+        "source": "/books/mujam-al-ahadith-al-mutabara:2:10:1",
+        "parts": [
+          2,
+          10,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 10,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/mujam-al-ahadith-al-mutabara:2:10",
+        "titles": {
+          "en": "Judging Conflict between Narrations"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": سألته عن رجل اختلف عليه رجلان من أهل دينه في أمر كلاهما يرويه: أحدهما يأمر بأخذه والآخر ينهاه عنه، كيف يصنع؟ فقال: يرجئه حتى يلقي من يخبره، فهو في سعة حتي يلقاه، وفي رواية اخرى بأيهما أخذت من باب التسليم وسعك"
+        ],
+        "text": ": سألته عن رجل اختلف عليه رجلان من أهل دينه في أمر كلاهما يرويه: أحدهما يأمر بأخذه والآخر ينهاه عنه، كيف يصنع؟ فقال: يرجئه حتى يلقي من يخبره، فهو في سعة حتي يلقاه، وفي رواية اخرى بأيهما أخذت من باب التسليم وسعك"
+      },
+      "translations": {
+        "en.ammaar-muslim": {
+          "segments": [
+            "1. [1/-] al-Kafi: Ali b. Ibrahim from his father from Uthman b. Isa and al-Hasan b. Mahbub all together from Sama’a from Abi Abdillah عليه السلام, he (Sama’a) said: I asked him about a man who is answered oppositely by two of his co-religionists (i.e. Shi’as) in regards to a matter – both transmitting it [their answers – on your authority], one of them obligates it while the other forbids it – what should he do? he said: he withholds [doing anything] until he accesses one who will inform him (of the true position), and he is respited until such a time as he meets him. [And in another narration [the Imam said]: whichever of them you act by – suffices you – if done in subservience (with the intention of obeying)]."
+          ],
+          "text": "1. [1/-] al-Kafi: Ali b. Ibrahim from his father from Uthman b. Isa and al-Hasan b. Mahbub all together from Sama’a from Abi Abdillah عليه السلام, he (Sama’a) said: I asked him about a man who is answered oppositely by two of his co-religionists (i.e. Shi’as) in regards to a matter – both transmitting it [their answers – on your authority], one of them obligates it while the other forbids it – what should he do? he said: he withholds [doing anything] until he accesses one who will inform him (of the true position), and he is respited until such a time as he meets him. [And in another narration [the Imam said]: whichever of them you act by – suffices you – if done in subservience (with the intention of obeying)]."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "[-/1] الكافي: علي بن إبراهيم، عن أبيه، عن عثمان بن عيسى والحسن بن محبوب جميعا، عن سماعة، عن أبي عبد الله عليه السلام قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "[-/1] الكافي: علي بن إبراهيم،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبيه،",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "عثمان بن عيسى والحسن بن محبوب جميعا،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "سماعة،",
+            "path": "/people/narrators/48"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي عبد الله عليه السلام قال",
+            "path": "/people/narrators/669"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/2",
+          "/people/narrators/48",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/mujam-al-ahadith-al-mutabara:1:15:5"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/mujam-al-ahadith-al-mutabara:2:10:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/mujam-al-ahadith-al-mutabara/2/10/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/9/2/10/1",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "mujam-al-ahadith-al-mutabara:2:10:2",
+      "type": "hadith",
+      "book": {
+        "slug": "mujam-al-ahadith-al-mutabara",
+        "titles": {
+          "ar": "معجم الأحاديث المعتبرة",
+          "en": "Mu'jam al-Ahadith al-Mu'tabara"
+        },
+        "author": {
+          "en": "Muhammad Asif al-Muhsini"
+        }
+      },
+      "path": {
+        "source": "/books/mujam-al-ahadith-al-mutabara:2:10:2",
+        "parts": [
+          2,
+          10,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 10,
+        "chapter": 2
+      },
+      "chapter": {
+        "path": "/books/mujam-al-ahadith-al-mutabara:2:10",
+        "titles": {
+          "en": "Judging Conflict between Narrations"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " احوال احاديث اصحابنا واثبات صحتها لسعد بن هبة الله الراوندي: الصدوق، عن أبيه، عن سعد بن عبدالله، عن أيوب بن نوح، عن محمد ابن أبي عمير، عن عبد الرحمن بن أبي عبدالله قال: قال الصادق عليه السلام: إذا ورد عليكم حديثان مختلفان فاعرضوهما على كتاب الله، فما وافق كتاب الله فخذوه، وما خالف كتاب الله فردوه، فان لم تجدوهما في كتاب الله فاعرضوهما على أخبار العامة، فما وافق أخبارهم فذروه، وما خالف أخبارهم فخذوه"
+        ],
+        "text": "احوال احاديث اصحابنا واثبات صحتها لسعد بن هبة الله الراوندي: الصدوق، عن أبيه، عن سعد بن عبدالله، عن أيوب بن نوح، عن محمد ابن أبي عمير، عن عبد الرحمن بن أبي عبدالله قال: قال الصادق عليه السلام: إذا ورد عليكم حديثان مختلفان فاعرضوهما على كتاب الله، فما وافق كتاب الله فخذوه، وما خالف كتاب الله فردوه، فان لم تجدوهما في كتاب الله فاعرضوهما على أخبار العامة، فما وافق أخبارهم فذروه، وما خالف أخبارهم فخذوه"
+      },
+      "translations": {
+        "en.ammaar-muslim": {
+          "segments": [
+            "2. [2/-] The Treatise on the ‘Status of the Narrations of our Companions and Establishing their Authenticity’ authored by Sa’d b. Hibat Allah al-Rawandi: al-Saduq from his father from Sa’d b. Abdallah from Ayyub b. Nuh from Muhammad b. Abi Umayr from Abd al-Rahman b. Abi Abdillah who said: al-Sadiq عليه السلام said: if there comes to you two divergent Hadith then compare them with the book of Allah, then take the one which agrees with the book of Allah and reject the one that opposes the book of Allah, so if you do not find anything to do with them in the book of Allah then compare both to the reports of the Amma, so the one that agrees with their reports then leave it, and the one that opposes their reports then take it."
+          ],
+          "text": "2. [2/-] The Treatise on the ‘Status of the Narrations of our Companions and Establishing their Authenticity’ authored by Sa’d b. Hibat Allah al-Rawandi: al-Saduq from his father from Sa’d b. Abdallah from Ayyub b. Nuh from Muhammad b. Abi Umayr from Abd al-Rahman b. Abi Abdillah who said: al-Sadiq عليه السلام said: if there comes to you two divergent Hadith then compare them with the book of Allah, then take the one which agrees with the book of Allah and reject the one that opposes the book of Allah, so if you do not find anything to do with them in the book of Allah then compare both to the reports of the Amma, so the one that agrees with their reports then leave it, and the one that opposes their reports then take it."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "[-/2] الرسالة المؤلفة في",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "[-/2] الرسالة المؤلفة في"
+          }
+        ],
+        "narratorPaths": []
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/mujam-al-ahadith-al-mutabara:2:10:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/mujam-al-ahadith-al-mutabara/2/10/2.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/9/2/10/2",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "mujam-al-ahadith-al-mutabara:2:10:3",
+      "type": "hadith",
+      "book": {
+        "slug": "mujam-al-ahadith-al-mutabara",
+        "titles": {
+          "ar": "معجم الأحاديث المعتبرة",
+          "en": "Mu'jam al-Ahadith al-Mu'tabara"
+        },
+        "author": {
+          "en": "Muhammad Asif al-Muhsini"
+        }
+      },
+      "path": {
+        "source": "/books/mujam-al-ahadith-al-mutabara:2:10:3",
+        "parts": [
+          2,
+          10,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 10,
+        "chapter": 3
+      },
+      "chapter": {
+        "path": "/books/mujam-al-ahadith-al-mutabara:2:10",
+        "titles": {
+          "en": "Judging Conflict between Narrations"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": قرأت في كتاب لعبد الله بن محمد إلى ابى الحسن عليه السلام إختلف أصحابنا في رواياتهم عن ابي عبدالله عليه السلام في ركعتي الفجر في السفر فروى بعضهم ان صلهما في المحمل، وروى بعضهم ان لا تصلهما إلا على الارض فاعلمني كيف تصنع انت لا قتدي بك في ذلك؟ فوقع عليه السلام: موسع عليك بأية عملت"
+        ],
+        "text": ": قرأت في كتاب لعبد الله بن محمد إلى ابى الحسن عليه السلام إختلف أصحابنا في رواياتهم عن ابي عبدالله عليه السلام في ركعتي الفجر في السفر فروى بعضهم ان صلهما في المحمل، وروى بعضهم ان لا تصلهما إلا على الارض فاعلمني كيف تصنع انت لا قتدي بك في ذلك؟ فوقع عليه السلام: موسع عليك بأية عملت"
+      },
+      "translations": {
+        "en.ammaar-muslim": {
+          "segments": [
+            "3. [3/-] al-Tahdhib: Via his chain from Ahmad b. Muhammad from al-Abbas b. Ma’ruf from Ali b. Mahziyar who said: I read in a letter of Abdallah b. Muhammad to Abi al-Hasan عليه السلام [the following]: our fellows have differed in their narration from Abi Abdillah عليه السلام in regards the two units of Fajr whilst travelling, some of them narrated ‘pray them in your litter’ while others narrated ‘do not pray them except stationary on the ground’ so inform me what you personally do so that I can follow you in it? he wrote: it is accommodating for you whichever of them you act by."
+          ],
+          "text": "3. [3/-] al-Tahdhib: Via his chain from Ahmad b. Muhammad from al-Abbas b. Ma’ruf from Ali b. Mahziyar who said: I read in a letter of Abdallah b. Muhammad to Abi al-Hasan عليه السلام [the following]: our fellows have differed in their narration from Abi Abdillah عليه السلام in regards the two units of Fajr whilst travelling, some of them narrated ‘pray them in your litter’ while others narrated ‘do not pray them except stationary on the ground’ so inform me what you personally do so that I can follow you in it? he wrote: it is accommodating for you whichever of them you act by."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "[-/3] التهذيب: باسناده عن احمد بن محمد عن العباس بن معروف عن علي بن مهزيار قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "[-/3] التهذيب: باسناده"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "احمد بن محمد",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "العباس بن معروف",
+            "path": "/people/narrators/277"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "علي بن مهزيار قال",
+            "path": "/people/narrators/81"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/5",
+          "/people/narrators/277",
+          "/people/narrators/81"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/mujam-al-ahadith-al-mutabara:2:10:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/mujam-al-ahadith-al-mutabara/2/10/3.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/9/2/10/3",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

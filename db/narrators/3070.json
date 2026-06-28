@@ -1,0 +1,54 @@
+{
+  "id": 3070,
+  "type": "narrator",
+  "path": "/people/narrators/3070",
+  "titles": {
+    "ar": "حُسَيْنِ بْنِ حَنْظَلَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:68:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1545-3070": {
+      "narrator_ids": [
+        1545,
+        3070
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:68:4"
+      ]
+    },
+    "3-2-39-1545-3070-58": {
+      "narrator_ids": [
+        3,
+        2,
+        39,
+        1545,
+        3070,
+        58
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:68:4"
+      ]
+    },
+    "3070-58": {
+      "narrator_ids": [
+        3070,
+        58
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:68:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3070",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3070.json"
+  }
+}

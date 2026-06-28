@@ -1,0 +1,211 @@
+{
+  "id": 1054,
+  "type": "narrator",
+  "path": "/people/narrators/1054",
+  "titles": {
+    "ar": "النَّهْدِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:6:5",
+    "/books/al-kafi:2:1:124:17",
+    "/books/al-kafi:5:2:104:6",
+    "/books/kitab-al-ghayba-numani:2:9:5",
+    "/books/tahdhib-al-ahkam:2:15:116",
+    "/books/tahdhib-al-ahkam:6:91:202",
+    "/books/tahdhib-al-ahkam:7:20:80"
+  ],
+  "verseCount": 7,
+  "relations": {},
+  "subchains": {
+    "1054-2": {
+      "narrator_ids": [
+        1054,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:6:5",
+        "/books/kitab-al-ghayba-numani:2:9:5"
+      ]
+    },
+    "1054-41": {
+      "narrator_ids": [
+        1054,
+        41
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:20:80"
+      ]
+    },
+    "1054-7": {
+      "narrator_ids": [
+        1054,
+        7
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:15:116"
+      ]
+    },
+    "1054-735": {
+      "narrator_ids": [
+        1054,
+        735
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:124:17"
+      ]
+    },
+    "1054-74": {
+      "narrator_ids": [
+        1054,
+        74
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:104:6",
+        "/books/tahdhib-al-ahkam:6:91:202"
+      ]
+    },
+    "11-1054": {
+      "narrator_ids": [
+        11,
+        1054
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:15:116"
+      ]
+    },
+    "11-1054-7-31-669": {
+      "narrator_ids": [
+        11,
+        1054,
+        7,
+        31,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:15:116"
+      ]
+    },
+    "11-2817-1054-41": {
+      "narrator_ids": [
+        11,
+        2817,
+        1054,
+        41
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:20:80"
+      ]
+    },
+    "20-1054": {
+      "narrator_ids": [
+        20,
+        1054
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:104:6",
+        "/books/tahdhib-al-ahkam:6:91:202"
+      ]
+    },
+    "20-1054-74-37-669": {
+      "narrator_ids": [
+        20,
+        1054,
+        74,
+        37,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:104:6"
+      ]
+    },
+    "2817-1054": {
+      "narrator_ids": [
+        2817,
+        1054
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:20:80"
+      ]
+    },
+    "37-1054": {
+      "narrator_ids": [
+        37,
+        1054
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:124:17"
+      ]
+    },
+    "4-59-37-1054-735-3567-164": {
+      "narrator_ids": [
+        4,
+        59,
+        37,
+        1054,
+        735,
+        3567,
+        164
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:124:17"
+      ]
+    },
+    "5-90-1054-2-85-669": {
+      "narrator_ids": [
+        5,
+        90,
+        1054,
+        2,
+        85,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:6:5"
+      ]
+    },
+    "90-1054": {
+      "narrator_ids": [
+        90,
+        1054
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:6:5",
+        "/books/kitab-al-ghayba-numani:2:9:5"
+      ]
+    },
+    "952-20-1054-74-37-669": {
+      "narrator_ids": [
+        952,
+        20,
+        1054,
+        74,
+        37,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:91:202"
+      ]
+    },
+    "952-5-90-1054-2-85": {
+      "narrator_ids": [
+        952,
+        5,
+        90,
+        1054,
+        2,
+        85
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-numani:2:9:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1054",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1054.json"
+  }
+}

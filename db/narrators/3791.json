@@ -1,0 +1,55 @@
+{
+  "id": 3791,
+  "type": "narrator",
+  "path": "/people/narrators/3791",
+  "titles": {
+    "ar": "عَلِيِّ بْنِ عَطِيَّةَ الزَّيَّاتِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:46:31"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "145-3791": {
+      "narrator_ids": [
+        145,
+        3791
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:46:31"
+      ]
+    },
+    "3791-309": {
+      "narrator_ids": [
+        3791,
+        309
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:46:31"
+      ]
+    },
+    "4-167-6-8-145-3791-309": {
+      "narrator_ids": [
+        4,
+        167,
+        6,
+        8,
+        145,
+        3791,
+        309
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:46:31"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3791",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3791.json"
+  }
+}

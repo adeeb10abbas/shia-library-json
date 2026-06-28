@@ -1,0 +1,720 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:6:8:8",
+  "chapter": {
+    "path": "/books/al-kafi:6:8:8",
+    "titles": {
+      "ar": "باب لُبْسِ الصُّوفِ وَ الشَّعْرِ وَ الْوَبَرِ",
+      "en": "Chapter 8 – Wearing the wool, and the hair, and the fur"
+    }
+  },
+  "count": 5,
+  "records": [
+    {
+      "id": "al-kafi:6:8:8:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:8:8:1",
+        "parts": [
+          6,
+          8,
+          8,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 8,
+        "chapter": 8,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:8:8",
+        "titles": {
+          "ar": "باب لُبْسِ الصُّوفِ وَ الشَّعْرِ وَ الْوَبَرِ",
+          "en": "Chapter 8 – Wearing the wool, and the hair, and the fur"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " لَا تَلْبَسِ الصُّوفَ وَ الشَّعْرَ إِلَّا مِنْ عِلَّةٍ ."
+        ],
+        "text": "لَا تَلْبَسِ الصُّوفَ وَ الشَّعْرَ إِلَّا مِنْ عِلَّةٍ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Al Qasim Bin Yahya, from his grandfather Al Hassan Bin Rashid, from Abu Baseer, ",
+            "Abu Abdullah<sup>asws</sup> has said: ‘Do not wear the wool and the hair, except for a reason’."
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Al Qasim Bin Yahya, from his grandfather Al Hassan Bin Rashid, from Abu Baseer,\n\nAbu Abdullah<sup>asws</sup> has said: ‘Do not wear the wool and the hair, except for a reason’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from al-Qasim ibn Yahya from his grandfather al-Hassan ibn Rashid from abu Basir who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘Do not wear wool or hairs unless because of illness.’” "
+          ],
+          "text": "1. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from al-Qasim ibn Yahya from his grandfather al-Hassan ibn Rashid from abu Basir who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘Do not wear wool or hairs unless because of illness.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/328)",
+          "label": "ضعيف",
+          "text": "Allamah Baqir al-Majlisi: ضعيف - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/328)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنِ الْقَاسِمِ بْنِ يَحْيَى عَنْ جَدِّهِ الْحَسَنِ بْنِ رَاشِدٍ عَنْ أَبِي بَصِيرٍ عَنْ أَبِي عَبْدِ اللَّهِ عَلَيْهِ السَّلَامُ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْقَاسِمِ بْنِ يَحْيَى",
+            "path": "/people/narrators/151"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ جَدِّهِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحَسَنِ بْنِ رَاشِدٍ",
+            "path": "/people/narrators/434"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي بَصِيرٍ",
+            "path": "/people/narrators/14"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ عَلَيْهِ السَّلَامُ",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/5",
+          "/people/narrators/151",
+          "/people/narrators/434",
+          "/people/narrators/14",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:6:6:100:2",
+          "/books/al-kafi:6:6:105:1",
+          "/books/al-kafi:6:6:23:10",
+          "/books/al-kafi:6:6:44:3",
+          "/books/al-kafi:6:6:48:7",
+          "/books/al-kafi:6:6:49:1",
+          "/books/al-kafi:6:7:8:2",
+          "/books/al-kafi:6:8:1:1",
+          "/books/al-kafi:6:8:21:6",
+          "/books/al-kafi:6:8:26:9",
+          "/books/al-kafi:6:8:2:14",
+          "/books/al-kafi:6:8:4:4"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:8:8:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/8/8/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:8:8:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:8:8:2",
+        "parts": [
+          6,
+          8,
+          8,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 8,
+        "chapter": 8,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:8:8",
+        "titles": {
+          "ar": "باب لُبْسِ الصُّوفِ وَ الشَّعْرِ وَ الْوَبَرِ",
+          "en": "Chapter 8 – Wearing the wool, and the hair, and the fur"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " الْبَسُوا الثِّيَابَ مِنَ الْقُطْنِ فَإِنَّهُ لِبَاسُ رَسُولِ اللَّهِ ( صلى الله عليه وآله ) وَ لِبَاسُنَا وَ لَمْ يَكُنْ يَلْبَسُ الصُّوفَ وَ الشَّعْرَ إِلَّا مِنْ عِلَّةٍ ."
+        ],
+        "text": "الْبَسُوا الثِّيَابَ مِنَ الْقُطْنِ فَإِنَّهُ لِبَاسُ رَسُولِ اللَّهِ ( صلى الله عليه وآله ) وَ لِبَاسُنَا وَ لَمْ يَكُنْ يَلْبَسُ الصُّوفَ وَ الشَّعْرَ إِلَّا مِنْ عِلَّةٍ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Sahl Bin Ziyad, from Muhammad Bin Isa, from Abdullah Bin Abdul Rahman, from Shuayb, form Abu Baseer, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> from Amir Al-Momineen<sup>asws</sup> having said: ‘Wear the cotton dresses for it is a clothing of Rasool-Allah<sup>saww</sup> and our<sup>asws</sup> clothing, and do not become a wearer of the wool, and the hair, except for a reason’."
+          ],
+          "text": "A number of our companions, from Sahl Bin Ziyad, from Muhammad Bin Isa, from Abdullah Bin Abdul Rahman, from Shuayb, form Abu Baseer,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> from Amir Al-Momineen<sup>asws</sup> having said: ‘Wear the cotton dresses for it is a clothing of Rasool-Allah<sup>saww</sup> and our<sup>asws</sup> clothing, and do not become a wearer of the wool, and the hair, except for a reason’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. A number of our people have narrated from Sahl ibn Ziyad from Muhammad ibn ‘Isa from ‘Abd Allah ibn ‘Abd al-Rahman from Shu’ayb from abu Basir who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that ’Amir al-Mu’minin has said, ‘You must wear clothes of cotton because it is the cloth of the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, as well as our cloth. He (the Messenger of Allah) did not wear wool or hairs except because of illness.’” "
+          ],
+          "text": "2. A number of our people have narrated from Sahl ibn Ziyad from Muhammad ibn ‘Isa from ‘Abd Allah ibn ‘Abd al-Rahman from Shu’ayb from abu Basir who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that ’Amir al-Mu’minin has said, ‘You must wear clothes of cotton because it is the cloth of the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, as well as our cloth. He (the Messenger of Allah) did not wear wool or hairs except because of illness.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/328)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/328)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ سَهْلِ بْنِ زِيَادٍ عَنْ مُحَمَّدِ بْنِ عِيسَى عَنْ عَبْدِ اللَّهِ بْنِ عَبْدِ الرَّحْمَنِ عَنْ شُعَيْبٍ عَنْ أَبِي بَصِيرٍ عَنْ أَبِي عَبْدِ اللَّهِ عَنْ أَمِيرِ الْمُؤْمِنِينَ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَهْلِ بْنِ زِيَادٍ",
+            "path": "/people/narrators/8"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ عِيسَى",
+            "path": "/people/narrators/27"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَبْدِ اللَّهِ بْنِ عَبْدِ الرَّحْمَنِ",
+            "path": "/people/narrators/171"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "شُعَيْبٍ",
+            "path": "/people/narrators/289"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي بَصِيرٍ",
+            "path": "/people/narrators/14"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَمِيرِ الْمُؤْمِنِينَ ( عليه السلام )",
+            "path": "/people/narrators/394"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/8",
+          "/people/narrators/27",
+          "/people/narrators/171",
+          "/people/narrators/289",
+          "/people/narrators/14",
+          "/people/narrators/669",
+          "/people/narrators/394"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:8:8:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/8/8/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:8:8:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:8:8:3",
+        "parts": [
+          6,
+          8,
+          8,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 8,
+        "chapter": 8,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:8:8",
+        "titles": {
+          "ar": "باب لُبْسِ الصُّوفِ وَ الشَّعْرِ وَ الْوَبَرِ",
+          "en": "Chapter 8 – Wearing the wool, and the hair, and the fur"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قُلْتُ لِأَبِي جَعْفَرٍ الثَّانِي ( عليه السلام ) إِنَّ بِلَادَنَا بِلَادٌ بَارِدَةٌ فَمَا تَقُولُ فِي لُبْسِ هَذَا الْوَبَرِ قَالَ الْبَسْ مِنْهَا مَا أُكِلَ وَ ضُمِنَ ."
+        ],
+        "text": "قُلْتُ لِأَبِي جَعْفَرٍ الثَّانِي ( عليه السلام ) إِنَّ بِلَادَنَا بِلَادٌ بَارِدَةٌ فَمَا تَقُولُ فِي لُبْسِ هَذَا الْوَبَرِ قَالَ الْبَسْ مِنْهَا مَا أُكِلَ وَ ضُمِنَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Sahl Bin Ziyad from Muhammad Bin Isa, from Usman Bin Saeed, from Abdul Kareem Al Hamdany, from Abu Tamama who said, ",
+            "‘I said to Abu Ja’far<sup>asws</sup> the 2<sup>nd</sup> that our city is a cold city, so what are you<sup>asws</sup> saying regarding wearing of these furs’. He<sup>asws</sup> said: ‘Wear from it what can be eaten (Permissible animals), and responsibly’."
+          ],
+          "text": "A number of our companions, from Sahl Bin Ziyad from Muhammad Bin Isa, from Usman Bin Saeed, from Abdul Kareem Al Hamdany, from Abu Tamama who said,\n\n‘I said to Abu Ja’far<sup>asws</sup> the 2<sup>nd</sup> that our city is a cold city, so what are you<sup>asws</sup> saying regarding wearing of these furs’. He<sup>asws</sup> said: ‘Wear from it what can be eaten (Permissible animals), and responsibly’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "3. A number of our people have narrated from Sahl ibn Ziyad from Muhammad ibn ‘Isa from ‘Uthman ibn Sa‘id from ‘Abd al-Karim al-Hamadaniy from abu Tamamah who has said the following: “I once asked abu Ja‘far, al-Thaniy, ‘Alayhi al-Salam, saying, ‘Our land is cold. What do you say about wearing fur?’ He (the Imam) said, ‘Wear that which is from edible animals and verify (that it is from edible animals).”’ "
+          ],
+          "text": "3. A number of our people have narrated from Sahl ibn Ziyad from Muhammad ibn ‘Isa from ‘Uthman ibn Sa‘id from ‘Abd al-Karim al-Hamadaniy from abu Tamamah who has said the following: “I once asked abu Ja‘far, al-Thaniy, ‘Alayhi al-Salam, saying, ‘Our land is cold. What do you say about wearing fur?’ He (the Imam) said, ‘Wear that which is from edible animals and verify (that it is from edible animals).”’"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/328)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/328)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ سَهْلِ بْنِ زِيَادٍ عَنْ مُحَمَّدِ بْنِ عِيسَى عَنْ عُثْمَانَ بْنِ سَعِيدٍ عَنْ عَبْدِ الْكَرِيمِ الْهَمْدَانِيِّ عَنْ أَبِي تُمَامَةَ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَهْلِ بْنِ زِيَادٍ",
+            "path": "/people/narrators/8"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ عِيسَى",
+            "path": "/people/narrators/27"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عُثْمَانَ بْنِ سَعِيدٍ",
+            "path": "/people/narrators/792"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَبْدِ الْكَرِيمِ الْهَمْدَانِيِّ",
+            "path": "/people/narrators/3535"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي تُمَامَةَ",
+            "path": "/people/narrators/2045"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/8",
+          "/people/narrators/27",
+          "/people/narrators/792",
+          "/people/narrators/3535",
+          "/people/narrators/2045"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:8:8:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/8/8/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:8:8:4",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:8:8:4",
+        "parts": [
+          6,
+          8,
+          8,
+          4
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 8,
+        "chapter": 8,
+        "hadith": 4
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:8:8",
+        "titles": {
+          "ar": "باب لُبْسِ الصُّوفِ وَ الشَّعْرِ وَ الْوَبَرِ",
+          "en": "Chapter 8 – Wearing the wool, and the hair, and the fur"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " رَأَيْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) وَ عَلَيْهِ قَمِيصٌ غَلِيظٌ خَشِنٌ تَحْتَ ثِيَابِهِ وَ فَوْقَهَا جُبَّةُ صُوفٍ وَ فَوْقَهَا قَمِيصٌ غَلِيظٌ فَمَسِسْتُهَا فَقُلْتُ جُعِلْتُ فِدَاكَ إِنَّ النَّاسَ يَكْرَهُونَ لِبَاسَ الصُّوفِ فَقَالَ كَلَّا كَانَ أَبِي مُحَمَّدُ بْنُ عَلِيٍّ ( عليه السلام ) يَلْبَسُهَا وَ كَانَ عَلِيُّ بْنُ الْحُسَيْنِ ( عليه السلام ) يَلْبَسُهَا وَ كَانُوا ( عليهم السلام ) يَلْبَسُونَ أَغْلَظَ ثِيَابِهِمْ إِذَا قَامُوا إِلَى الصَّلَاةِ وَ نَحْنُ نَفْعَلُ ذَلِكَ ."
+        ],
+        "text": "رَأَيْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) وَ عَلَيْهِ قَمِيصٌ غَلِيظٌ خَشِنٌ تَحْتَ ثِيَابِهِ وَ فَوْقَهَا جُبَّةُ صُوفٍ وَ فَوْقَهَا قَمِيصٌ غَلِيظٌ فَمَسِسْتُهَا فَقُلْتُ جُعِلْتُ فِدَاكَ إِنَّ النَّاسَ يَكْرَهُونَ لِبَاسَ الصُّوفِ فَقَالَ كَلَّا كَانَ أَبِي مُحَمَّدُ بْنُ عَلِيٍّ ( عليه السلام ) يَلْبَسُهَا وَ كَانَ عَلِيُّ بْنُ الْحُسَيْنِ ( عليه السلام ) يَلْبَسُهَا وَ كَانُوا ( عليهم السلام ) يَلْبَسُونَ أَغْلَظَ ثِيَابِهِمْ إِذَا قَامُوا إِلَى الصَّلَاةِ وَ نَحْنُ نَفْعَلُ ذَلِكَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Abu Ali Al Ashary, from Muhammad in Abdul Jabbar, from Ibn Fazzal, from Muhammad Bin Al Husayn Bin Kaseer Al Khazzaz, from his father who said, ",
+            "‘I saw Abu Abdullah<sup>asws</sup>, and upon him<sup>asws</sup> was a coarse, rough shirt underneath his<sup>asws</sup> clothes, and above it was a woolen coat, and above it was a coarse shirt. So I touched it and said, ‘May I be sacrificed for you<sup>asws</sup>! The people are disliking the woolen dress’. So he<sup>asws</sup> said: ‘Never! My<sup>asws</sup> father<sup>asws</sup> Muhammad<sup>asws</sup> Bin Ali<sup>asws</sup> wore it, and Ali<sup>asws</sup> Bin Al-Husayn<sup>asws</sup> wore it, and they<sup>asws</sup> used to wear the roughest of their clothes whenever they<sup>asws</sup> stood for the Prayer, and we<sup>asws</sup> do that (as well)’."
+          ],
+          "text": "Abu Ali Al Ashary, from Muhammad in Abdul Jabbar, from Ibn Fazzal, from Muhammad Bin Al Husayn Bin Kaseer Al Khazzaz, from his father who said,\n\n‘I saw Abu Abdullah<sup>asws</sup>, and upon him<sup>asws</sup> was a coarse, rough shirt underneath his<sup>asws</sup> clothes, and above it was a woolen coat, and above it was a coarse shirt. So I touched it and said, ‘May I be sacrificed for you<sup>asws</sup>! The people are disliking the woolen dress’. So he<sup>asws</sup> said: ‘Never! My<sup>asws</sup> father<sup>asws</sup> Muhammad<sup>asws</sup> Bin Ali<sup>asws</sup> wore it, and Ali<sup>asws</sup> Bin Al-Husayn<sup>asws</sup> wore it, and they<sup>asws</sup> used to wear the roughest of their clothes whenever they<sup>asws</sup> stood for the Prayer, and we<sup>asws</sup> do that (as well)’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "4. Abu Ali al-Ash‘ariy has narrated from Muhammad ibn ‘Abd al-Jabbar from ibn Faddal from Muhammad ibn al-Hassan ibn Kathir al- Khazzaz from his father who has said the following: “I saw abu ‘Abd Allah, ‘Alayhi al-Salam, wearing a shirt of rough texture underneath his clothes, over which was a woolen gown over which was a thick shirt and I felt it, and said, ‘I pray to Allah to keep my soul in service for your cause, people dislike wearing wool.’ He (the Imam) said, ‘Not so, my father, Muhammad ibn Ali, ‘Alayhi al-Salam, would wear it as well as Ali ibn al-Husayn, ‘Alayhi al- Salam, did. They, ‘Alayhim al-Salam, wore their clothes of the roughest texture in their Salat (prayer) and we also do so.’” "
+          ],
+          "text": "4. Abu Ali al-Ash‘ariy has narrated from Muhammad ibn ‘Abd al-Jabbar from ibn Faddal from Muhammad ibn al-Hassan ibn Kathir al- Khazzaz from his father who has said the following: “I saw abu ‘Abd Allah, ‘Alayhi al-Salam, wearing a shirt of rough texture underneath his clothes, over which was a woolen gown over which was a thick shirt and I felt it, and said, ‘I pray to Allah to keep my soul in service for your cause, people dislike wearing wool.’ He (the Imam) said, ‘Not so, my father, Muhammad ibn Ali, ‘Alayhi al-Salam, would wear it as well as Ali ibn al-Husayn, ‘Alayhi al- Salam, did. They, ‘Alayhim al-Salam, wore their clothes of the roughest texture in their Salat (prayer) and we also do so.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مجهول   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/329)",
+          "label": "مجهول",
+          "text": "Allamah Baqir al-Majlisi: مجهول - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/329)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "أَبُو عَلِيٍّ الْأَشْعَرِيُّ عَنْ مُحَمَّدِ بْنِ عَبْدِ الْجَبَّارِ عَنِ ابْنِ فَضَّالٍ عَنْ مُحَمَّدِ بْنِ الْحُسَيْنِ بْنِ كَثِيرٍ الْخَزَّازِ عَنْ أَبِيهِ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "أَبُو عَلِيٍّ الْأَشْعَرِيُّ",
+            "path": "/people/narrators/19"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ عَبْدِ الْجَبَّارِ",
+            "path": "/people/narrators/24"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ فَضَّالٍ",
+            "path": "/people/narrators/22"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ الْحُسَيْنِ بْنِ كَثِيرٍ الْخَزَّازِ",
+            "path": "/people/narrators/1644"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/19",
+          "/people/narrators/24",
+          "/people/narrators/22",
+          "/people/narrators/1644",
+          "/people/narrators/2"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:8:8:4",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/8/8/4.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:8:8:5",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:8:8:5",
+        "parts": [
+          6,
+          8,
+          8,
+          5
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 8,
+        "chapter": 8,
+        "hadith": 5
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:8:8",
+        "titles": {
+          "ar": "باب لُبْسِ الصُّوفِ وَ الشَّعْرِ وَ الْوَبَرِ",
+          "en": "Chapter 8 – Wearing the wool, and the hair, and the fur"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَأَلْتُ الرِّضَا ( عليه السلام ) عَنِ الرِّيشِ أَ ذَكِيٌّ هُوَ فَقَالَ كَانَ أَبِي ( عليه السلام ) يَتَوَسَّدُ الرِّيشَ ."
+        ],
+        "text": "سَأَلْتُ الرِّضَا ( عليه السلام ) عَنِ الرِّيشِ أَ ذَكِيٌّ هُوَ فَقَالَ كَانَ أَبِي ( عليه السلام ) يَتَوَسَّدُ الرِّيشَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Muhammad Bin Bundar, from Ahmad Bin Abu Abdullah, from Ahmad Bin Muhammad Bin Abu Nasr, from Abu Jareer Al Qummy who said, ",
+            "‘I asked Al-Reza<sup>asws</sup> about the feather, is it pure?’ So he<sup>asws</sup> said: ‘My<sup>asws</sup> father<sup>asws</sup> used to stuff the pillow with the feathers’."
+          ],
+          "text": "Ali Bin Muhammad Bin Bundar, from Ahmad Bin Abu Abdullah, from Ahmad Bin Muhammad Bin Abu Nasr, from Abu Jareer Al Qummy who said,\n\n‘I asked Al-Reza<sup>asws</sup> about the feather, is it pure?’ So he<sup>asws</sup> said: ‘My<sup>asws</sup> father<sup>asws</sup> used to stuff the pillow with the feathers’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "5. Ali ibn Muhammad ibn Bandar has narrated from Ahmad ibn abu ‘Abd Allah from Ahmad ibn Muhammad from ibn abu Nasr from abu Jarir al-Qummiy who has said the following: “I once asked al-Rida’, ‘Alayhi al-Salam, about feathers; if it is lawful. He (the Imam) said, ‘My father would use a pillow of feathers.’” "
+          ],
+          "text": "5. Ali ibn Muhammad ibn Bandar has narrated from Ahmad ibn abu ‘Abd Allah from Ahmad ibn Muhammad from ibn abu Nasr from abu Jarir al-Qummiy who has said the following: “I once asked al-Rida’, ‘Alayhi al-Salam, about feathers; if it is lawful. He (the Imam) said, ‘My father would use a pillow of feathers.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مجهول كالصحيح   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/329)",
+          "label": "مجهول كالصحيح",
+          "text": "Allamah Baqir al-Majlisi: مجهول كالصحيح - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/329)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ مُحَمَّدِ بْنِ بُنْدَارَ عَنْ أَحْمَدَ بْنِ أَبِي عَبْدِ اللَّهِ عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ أَبِي نَصْرٍ عَنْ أَبِي جَرِيرٍ الْقُمِّيِّ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ مُحَمَّدِ بْنِ بُنْدَارَ",
+            "path": "/people/narrators/133"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ أَبِي عَبْدِ اللَّهِ",
+            "path": "/people/narrators/12"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدِ بْنِ أَبِي نَصْرٍ",
+            "path": "/people/narrators/39"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي جَرِيرٍ الْقُمِّيِّ",
+            "path": "/people/narrators/614"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/133",
+          "/people/narrators/12",
+          "/people/narrators/39",
+          "/people/narrators/614"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:8:8:5",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/8/8/5.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

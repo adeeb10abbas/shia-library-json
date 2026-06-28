@@ -1,0 +1,54 @@
+{
+  "id": 2888,
+  "type": "narrator",
+  "path": "/people/narrators/2888",
+  "titles": {
+    "ar": "بَشِيرِ بْنِ يَسَارٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:65:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2888-669": {
+      "narrator_ids": [
+        2888,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:65:5"
+      ]
+    },
+    "52-2888": {
+      "narrator_ids": [
+        52,
+        2888
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:65:5"
+      ]
+    },
+    "6-12-15-52-2888-669": {
+      "narrator_ids": [
+        6,
+        12,
+        15,
+        52,
+        2888,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:65:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2888",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2888.json"
+  }
+}

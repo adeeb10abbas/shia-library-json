@@ -1,0 +1,32 @@
+{
+  "id": 2895,
+  "type": "narrator",
+  "path": "/people/narrators/2895",
+  "titles": {
+    "ar": "بَعْضِ أَصْحَابِنَا ذَكَرَ اسْمَهُ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:81:15"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "35-2895": {
+      "narrator_ids": [
+        35,
+        2895
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:81:15"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2895",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2895.json"
+  }
+}

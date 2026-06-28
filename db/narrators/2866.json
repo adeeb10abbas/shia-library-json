@@ -1,0 +1,54 @@
+{
+  "id": 2866,
+  "type": "narrator",
+  "path": "/people/narrators/2866",
+  "titles": {
+    "ar": "بُرَيْدِ [بْنِ مُعَاوِيَةَ]"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:5:12:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "218-2866": {
+      "narrator_ids": [
+        218,
+        2866
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:5:12:3"
+      ]
+    },
+    "2866-669": {
+      "narrator_ids": [
+        2866,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:5:12:3"
+      ]
+    },
+    "3-2-7-218-2866-669": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        218,
+        2866,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:5:12:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2866",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2866.json"
+  }
+}

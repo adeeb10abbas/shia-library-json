@@ -1,0 +1,53 @@
+{
+  "id": 2282,
+  "type": "narrator",
+  "path": "/people/narrators/2282",
+  "titles": {
+    "ar": "أَحْمَدَ بْنِ الرَّيَّانِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:43:35"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1188-2282": {
+      "narrator_ids": [
+        1188,
+        2282
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:35"
+      ]
+    },
+    "1188-2282-2-66-669": {
+      "narrator_ids": [
+        1188,
+        2282,
+        2,
+        66,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:35"
+      ]
+    },
+    "2282-2": {
+      "narrator_ids": [
+        2282,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:35"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2282",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2282.json"
+  }
+}

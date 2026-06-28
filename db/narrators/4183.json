@@ -1,0 +1,90 @@
+{
+  "id": 4183,
+  "type": "narrator",
+  "path": "/people/narrators/4183",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ الْفُرَاتِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:3:63:26",
+    "/books/tahdhib-al-ahkam:10:22:84",
+    "/books/tahdhib-al-ahkam:10:2:178"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "2-4183": {
+      "narrator_ids": [
+        2,
+        4183
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:10:2:178"
+      ]
+    },
+    "247-4183": {
+      "narrator_ids": [
+        247,
+        4183
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:63:26",
+        "/books/tahdhib-al-ahkam:10:22:84"
+      ]
+    },
+    "3-2-247-4183-322": {
+      "narrator_ids": [
+        3,
+        2,
+        247,
+        4183,
+        322
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:63:26"
+      ]
+    },
+    "3-2-4183-322": {
+      "narrator_ids": [
+        3,
+        2,
+        4183,
+        322
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:10:2:178"
+      ]
+    },
+    "4183-322": {
+      "narrator_ids": [
+        4183,
+        322
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:63:26",
+        "/books/tahdhib-al-ahkam:10:22:84",
+        "/books/tahdhib-al-ahkam:10:2:178"
+      ]
+    },
+    "50-2-247-4183-322": {
+      "narrator_ids": [
+        50,
+        2,
+        247,
+        4183,
+        322
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:10:22:84"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4183",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4183.json"
+  }
+}

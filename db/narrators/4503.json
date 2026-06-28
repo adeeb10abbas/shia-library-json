@@ -1,0 +1,69 @@
+{
+  "id": 4503,
+  "type": "narrator",
+  "path": "/people/narrators/4503",
+  "titles": {
+    "ar": "هِنْدٍ السَّرَّاجِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:32:2",
+    "/books/man-la-yahduruhu-al-faqih:3:2:11:96",
+    "/books/tahdhib-al-ahkam:6:91:120"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "1268-4503": {
+      "narrator_ids": [
+        1268,
+        4503
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:32:2",
+        "/books/man-la-yahduruhu-al-faqih:3:2:11:96",
+        "/books/tahdhib-al-ahkam:6:91:120"
+      ]
+    },
+    "5-10-372-1268-4503": {
+      "narrator_ids": [
+        5,
+        10,
+        372,
+        1268,
+        4503
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:32:2"
+      ]
+    },
+    "53-1268-4503": {
+      "narrator_ids": [
+        53,
+        1268,
+        4503
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:91:120"
+      ]
+    },
+    "53-372-1268-4503": {
+      "narrator_ids": [
+        53,
+        372,
+        1268,
+        4503
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:3:2:11:96"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4503",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4503.json"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": 3977,
+  "type": "narrator",
+  "path": "/people/narrators/3977",
+  "titles": {
+    "ar": "غُلَاماً بِذَلِكَ اللَّبَنِ هَلْ يَحْرُمُ بِذَلِكَ اللَّبَنِ مَا يَحْرُمُ مِنَ الرَّضَاعِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:3:91:11"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2842-3977": {
+      "narrator_ids": [
+        2842,
+        3977
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:91:11"
+      ]
+    },
+    "49-183-202-85-669-2842-3977": {
+      "narrator_ids": [
+        49,
+        183,
+        202,
+        85,
+        669,
+        2842,
+        3977
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:91:11"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3977",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3977.json"
+  }
+}

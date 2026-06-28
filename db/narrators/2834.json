@@ -1,0 +1,44 @@
+{
+  "id": 2834,
+  "type": "narrator",
+  "path": "/people/narrators/2834",
+  "titles": {
+    "ar": "الْيَسَعِ بْنِ عَبْدِ اللَّهِ الْقُمِّيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:3:46:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2244-2834": {
+      "narrator_ids": [
+        2244,
+        2834
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:46:1"
+      ]
+    },
+    "3-2-1216-2244-2834": {
+      "narrator_ids": [
+        3,
+        2,
+        1216,
+        2244,
+        2834
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:46:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2834",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2834.json"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": 1438,
+  "type": "narrator",
+  "path": "/people/narrators/1438",
+  "titles": {
+    "ar": "حُسَيْنِ بْنِ الْمُخْتَارِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:2:13:5",
+    "/books/al-kafi:4:3:116:2",
+    "/books/kitab-al-zuhd:2:14:5",
+    "/books/kitab-al-zuhd:2:15:6"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "11-2-38-1438-14-669": {
+      "narrator_ids": [
+        11,
+        2,
+        38,
+        1438,
+        14,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:13:5"
+      ]
+    },
+    "1438-14": {
+      "narrator_ids": [
+        1438,
+        14
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:13:5",
+        "/books/kitab-al-zuhd:2:15:6"
+      ]
+    },
+    "1438-150": {
+      "narrator_ids": [
+        1438,
+        150
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:116:2"
+      ]
+    },
+    "3-157-38-1438-150": {
+      "narrator_ids": [
+        3,
+        157,
+        38,
+        1438,
+        150
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:116:2"
+      ]
+    },
+    "38-1438": {
+      "narrator_ids": [
+        38,
+        1438
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:13:5",
+        "/books/al-kafi:4:3:116:2",
+        "/books/kitab-al-zuhd:2:14:5",
+        "/books/kitab-al-zuhd:2:15:6"
+      ]
+    },
+    "38-1438-14-669": {
+      "narrator_ids": [
+        38,
+        1438,
+        14,
+        669
+      ],
+      "verse_paths": [
+        "/books/kitab-al-zuhd:2:15:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1438",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1438.json"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "kitab-al-duafa",
+  "chapterPath": "/books/kitab-al-duafa:24:40",
+  "chapter": {
+    "path": "/books/kitab-al-duafa:24:40",
+    "titles": {
+      "en": "al-Muʿtaqal (likely an error for al-Mufaḍḍal) b. ʿUmar, al-Juʿfī, Abū ʿAbdillāh"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "kitab-al-duafa:24:40:1",
+      "type": "hadith",
+      "book": {
+        "slug": "kitab-al-duafa",
+        "titles": {
+          "ar": "كتاب الضعفاء",
+          "en": "Kitab al-Du'afa'"
+        },
+        "author": {
+          "en": "Ahmad ibn al-Husayn al-Ghada'iri"
+        }
+      },
+      "path": {
+        "source": "/books/kitab-al-duafa:24:40:1",
+        "parts": [
+          24,
+          40,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 24,
+        "book": 40,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/kitab-al-duafa:24:40",
+        "titles": {
+          "en": "al-Muʿtaqal (likely an error for al-Mufaḍḍal) b. ʿUmar, al-Juʿfī, Abū ʿAbdillāh"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " نفسه ثقة، لكن أحاديثه كلها مناكير، وليس يخلص من حديثه شيء يجوز أن يعول عليه."
+        ],
+        "text": "نفسه ثقة، لكن أحاديثه كلها مناكير، وليس يخلص من حديثه شيء يجوز أن يعول عليه."
+      },
+      "translations": {
+        "en.tashayyu": {
+          "segments": [
+            "40 – al-Muʿtaqal (likely an error for al-Mufaḍḍal) b. ʿUmar, al-Juʿfī, Abū ʿAbdillāh.  According to me he is thiqa in himself, however his ḥadīths – all of them – are unrecognized, and nothing is cleared from his ḥadīth that is permissible to rely upon."
+          ],
+          "text": "40 – al-Muʿtaqal (likely an error for al-Mufaḍḍal) b. ʿUmar, al-Juʿfī, Abū ʿAbdillāh.  According to me he is thiqa in himself, however his ḥadīths – all of them – are unrecognized, and nothing is cleared from his ḥadīth that is permissible to rely upon."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "40 - المعتقل بن عمر، الجعفي، أبو عبد الله. هو عندي في",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "40 - "
+          },
+          {
+            "kind": "plain",
+            "text": "المعتقل بن عمر، الجعفي، أبو عبد الله. هو عندي في"
+          }
+        ],
+        "narratorPaths": []
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/kitab-al-duafa:24:40:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/kitab-al-duafa/24/40/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/17/24/40/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 4265,
+  "type": "narrator",
+  "path": "/people/narrators/4265",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ عَبْدِ اللَّهِ بْنِ عَلِيِّ بْنِ الْحُسَيْنِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:8:45:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "478-4265": {
+      "narrator_ids": [
+        478,
+        4265
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:45:3"
+      ]
+    },
+    "5-22-132-478-4265": {
+      "narrator_ids": [
+        5,
+        22,
+        132,
+        478,
+        4265
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:45:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4265",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4265.json"
+  }
+}

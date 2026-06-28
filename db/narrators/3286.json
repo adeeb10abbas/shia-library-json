@@ -1,0 +1,77 @@
+{
+  "id": 3286,
+  "type": "narrator",
+  "path": "/people/narrators/3286",
+  "titles": {
+    "ar": "زِيَادِ بْنِ الْمُنْذِرِ",
+    "en": "Ziyad ibn al-Mundhir"
+  },
+  "versePaths": [
+    "/books/al-amali-saduq:4:6",
+    "/books/al-kafi:6:8:19:5",
+    "/books/man-la-yahduruhu-al-faqih:1:40:51",
+    "/books/man-la-yahduruhu-al-faqih:3:4:20:17"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "3286-1891": {
+      "narrator_ids": [
+        3286,
+        1891
+      ],
+      "verse_paths": [
+        "/books/al-amali-saduq:4:6"
+      ]
+    },
+    "3286-60": {
+      "narrator_ids": [
+        3286,
+        60
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:3:4:20:17"
+      ]
+    },
+    "4-13-42-3286": {
+      "narrator_ids": [
+        4,
+        13,
+        42,
+        3286
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:19:5"
+      ]
+    },
+    "42-3286": {
+      "narrator_ids": [
+        42,
+        3286
+      ],
+      "verse_paths": [
+        "/books/al-amali-saduq:4:6",
+        "/books/al-kafi:6:8:19:5"
+      ]
+    },
+    "67-42-3286-1891": {
+      "narrator_ids": [
+        67,
+        42,
+        3286,
+        1891
+      ],
+      "verse_paths": [
+        "/books/al-amali-saduq:4:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3286",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3286.json"
+  }
+}

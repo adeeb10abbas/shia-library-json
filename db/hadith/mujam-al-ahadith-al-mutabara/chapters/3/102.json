@@ -1,0 +1,115 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "mujam-al-ahadith-al-mutabara",
+  "chapterPath": "/books/mujam-al-ahadith-al-mutabara:3:102",
+  "chapter": {
+    "path": "/books/mujam-al-ahadith-al-mutabara:3:102",
+    "titles": {
+      "en": "Marthad b. Abi Marthad al-Ghanawi"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "mujam-al-ahadith-al-mutabara:3:102:1",
+      "type": "hadith",
+      "book": {
+        "slug": "mujam-al-ahadith-al-mutabara",
+        "titles": {
+          "ar": "معجم الأحاديث المعتبرة",
+          "en": "Mu'jam al-Ahadith al-Mu'tabara"
+        },
+        "author": {
+          "en": "Muhammad Asif al-Muhsini"
+        }
+      },
+      "path": {
+        "source": "/books/mujam-al-ahadith-al-mutabara:3:102:1",
+        "parts": [
+          3,
+          102,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 102,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/mujam-al-ahadith-al-mutabara:3:102",
+        "titles": {
+          "en": "Marthad b. Abi Marthad al-Ghanawi"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": كان رسول الله صلى الله عليه وآله وأمير المؤمنين عليه السلام ومرثد بن أبي مرثد الغنوي يعقبون بعيرا بينهم وهم منطلقون إلى بدر"
+        ],
+        "text": ": كان رسول الله صلى الله عليه وآله وأمير المؤمنين عليه السلام ومرثد بن أبي مرثد الغنوي يعقبون بعيرا بينهم وهم منطلقون إلى بدر"
+      },
+      "translations": {
+        "en.ammaar-muslim": {
+          "segments": [
+            "1. [1/259] al-Faqih: Via his chain to Ali b. Riab from Abi Basir from Abi Ja’far عليه السلام who said: The Messenger of Allah صلى الله عليه وآله, the Commander of the Faithful عليه السلام and Marthad b. Abi Marthad al-Ghanawi shared a camel between themselves while they were on their way to Badr."
+          ],
+          "text": "1. [1/259] al-Faqih: Via his chain to Ali b. Riab from Abi Basir from Abi Ja’far عليه السلام who said: The Messenger of Allah صلى الله عليه وآله, the Commander of the Faithful عليه السلام and Marthad b. Abi Marthad al-Ghanawi shared a camel between themselves while they were on their way to Badr."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "[1/259] الفقيه: باسناده عن علي بن رئاب، عن أبي بصير، عن أبي جعفر عليه السلام قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "[1/259] الفقيه: باسناده"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "علي بن رئاب،",
+            "path": "/people/narrators/93"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي بصير،",
+            "path": "/people/narrators/14"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي جعفر عليه السلام قال",
+            "path": "/people/narrators/9"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/93",
+          "/people/narrators/14",
+          "/people/narrators/9"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/man-la-yahduruhu-al-faqih:2:3:33:1"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/mujam-al-ahadith-al-mutabara:3:102:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/mujam-al-ahadith-al-mutabara/3/102/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/9/3/103/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

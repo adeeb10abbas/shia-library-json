@@ -1,0 +1,59 @@
+{
+  "id": 3850,
+  "type": "narrator",
+  "path": "/people/narrators/3850",
+  "titles": {
+    "ar": "عُمَرَ بْنِ أَبِي حَفْصٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:46:4",
+    "/books/tahdhib-al-ahkam:6:91:111"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "26-3850": {
+      "narrator_ids": [
+        26,
+        3850
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:46:4",
+        "/books/tahdhib-al-ahkam:6:91:111"
+      ]
+    },
+    "3-2-106-26-3850": {
+      "narrator_ids": [
+        3,
+        2,
+        106,
+        26,
+        3850
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:46:4"
+      ]
+    },
+    "952-3-2-106-26-3850": {
+      "narrator_ids": [
+        952,
+        3,
+        2,
+        106,
+        26,
+        3850
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:91:111"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3850",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3850.json"
+  }
+}

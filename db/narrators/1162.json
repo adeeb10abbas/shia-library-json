@@ -1,0 +1,154 @@
+{
+  "id": 1162,
+  "type": "narrator",
+  "path": "/people/narrators/1162",
+  "titles": {
+    "ar": "عَلِيِّ بْنِ عِيسَى",
+    "en": "Ali ibn Isa"
+  },
+  "versePaths": [
+    "/books/al-amali-saduq:47:13",
+    "/books/al-amali-saduq:72:12",
+    "/books/al-amali-saduq:74:13",
+    "/books/al-amali-saduq:80:16",
+    "/books/al-amali-saduq:84:7",
+    "/books/al-kafi:2:1:135:1",
+    "/books/al-kafi:2:2:56:11",
+    "/books/al-kafi:4:3:11:1",
+    "/books/tahdhib-al-ahkam:5:25:467",
+    "/books/thawab-al-amal:3:118:3"
+  ],
+  "verseCount": 10,
+  "relations": {},
+  "subchains": {
+    "1162-237": {
+      "narrator_ids": [
+        1162,
+        237
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:11:1"
+      ]
+    },
+    "1162-715": {
+      "narrator_ids": [
+        1162,
+        715
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:56:11"
+      ]
+    },
+    "1162-927": {
+      "narrator_ids": [
+        1162,
+        927
+      ],
+      "verse_paths": [
+        "/books/thawab-al-amal:3:118:3"
+      ]
+    },
+    "129-1162": {
+      "narrator_ids": [
+        129,
+        1162
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:135:1",
+        "/books/al-kafi:2:2:56:11"
+      ]
+    },
+    "3-2-129-1162-715": {
+      "narrator_ids": [
+        3,
+        2,
+        129,
+        1162,
+        715
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:56:11"
+      ]
+    },
+    "312-1162": {
+      "narrator_ids": [
+        312,
+        1162
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:25:467"
+      ]
+    },
+    "4272-482-1162-237": {
+      "narrator_ids": [
+        4272,
+        482,
+        1162,
+        237
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:11:1"
+      ]
+    },
+    "482-1162": {
+      "narrator_ids": [
+        482,
+        1162
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:11:1"
+      ]
+    },
+    "5-1162": {
+      "narrator_ids": [
+        5,
+        1162
+      ],
+      "verse_paths": [
+        "/books/thawab-al-amal:3:118:3"
+      ]
+    },
+    "6-5-129-1162": {
+      "narrator_ids": [
+        6,
+        5,
+        129,
+        1162
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:135:1"
+      ]
+    },
+    "77-5-1162-927": {
+      "narrator_ids": [
+        77,
+        5,
+        1162,
+        927
+      ],
+      "verse_paths": [
+        "/books/thawab-al-amal:3:118:3"
+      ]
+    },
+    "952-4272-482-312-1162": {
+      "narrator_ids": [
+        952,
+        4272,
+        482,
+        312,
+        1162
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:25:467"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1162",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1162.json"
+  }
+}

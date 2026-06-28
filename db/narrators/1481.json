@@ -1,0 +1,94 @@
+{
+  "id": 1481,
+  "type": "narrator",
+  "path": "/people/narrators/1481",
+  "titles": {
+    "ar": "زَيْدِ بْنِ الْجَهْمِ الْهِلَالِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:65:1",
+    "/books/al-kafi:2:1:78:13",
+    "/books/man-la-yahduruhu-al-faqih:3:3:25:74"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "11-1481": {
+      "narrator_ids": [
+        11,
+        1481
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:78:13"
+      ]
+    },
+    "11-1481-1176-9": {
+      "narrator_ids": [
+        11,
+        1481,
+        1176,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:78:13"
+      ]
+    },
+    "1481-1176": {
+      "narrator_ids": [
+        1481,
+        1176
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:78:13"
+      ]
+    },
+    "1481-669": {
+      "narrator_ids": [
+        1481,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:65:1"
+      ]
+    },
+    "165-1481": {
+      "narrator_ids": [
+        165,
+        1481
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:65:1"
+      ]
+    },
+    "30-1481": {
+      "narrator_ids": [
+        30,
+        1481
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:3:3:25:74"
+      ]
+    },
+    "4-29-17-165-1481-669": {
+      "narrator_ids": [
+        4,
+        29,
+        17,
+        165,
+        1481,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:65:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1481",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1481.json"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": 3376,
+  "type": "narrator",
+  "path": "/people/narrators/3376",
+  "titles": {
+    "ar": "سُلَيْمَانَ بْنِ مُحَمَّدٍ الْخَثْعَمِيِّ"
+  },
+  "versePaths": [
+    "/books/al-istibsar:1:111:13",
+    "/books/al-kafi:6:8:48:18",
+    "/books/tahdhib-al-ahkam:3:24:8"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "11-29-350-3376-44": {
+      "narrator_ids": [
+        11,
+        29,
+        350,
+        3376,
+        44
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:111:13",
+        "/books/tahdhib-al-ahkam:3:24:8"
+      ]
+    },
+    "29-3376": {
+      "narrator_ids": [
+        29,
+        3376
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:48:18"
+      ]
+    },
+    "3376-2400": {
+      "narrator_ids": [
+        3376,
+        2400
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:48:18"
+      ]
+    },
+    "3376-44": {
+      "narrator_ids": [
+        3376,
+        44
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:111:13",
+        "/books/tahdhib-al-ahkam:3:24:8"
+      ]
+    },
+    "350-3376": {
+      "narrator_ids": [
+        350,
+        3376
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:111:13",
+        "/books/tahdhib-al-ahkam:3:24:8"
+      ]
+    },
+    "4-29-3376-2400-669": {
+      "narrator_ids": [
+        4,
+        29,
+        3376,
+        2400,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:48:18"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3376",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3376.json"
+  }
+}

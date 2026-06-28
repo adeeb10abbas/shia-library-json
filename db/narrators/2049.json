@@ -1,0 +1,45 @@
+{
+  "id": 2049,
+  "type": "narrator",
+  "path": "/people/narrators/2049",
+  "titles": {
+    "ar": "أَبِي جَعْفَرٍ ( عليه السلام ) قَالُوا"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:141:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1171-10-352-669-78-2049": {
+      "narrator_ids": [
+        1171,
+        10,
+        352,
+        669,
+        78,
+        2049
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:141:5"
+      ]
+    },
+    "78-2049": {
+      "narrator_ids": [
+        78,
+        2049
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:141:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2049",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2049.json"
+  }
+}

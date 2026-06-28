@@ -1,0 +1,55 @@
+{
+  "id": 2013,
+  "type": "narrator",
+  "path": "/people/narrators/2013",
+  "titles": {
+    "ar": "أَبِي الْمُرْهِفِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:44:20"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2013-9": {
+      "narrator_ids": [
+        2013,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:44:20"
+      ]
+    },
+    "537-2013": {
+      "narrator_ids": [
+        537,
+        2013
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:44:20"
+      ]
+    },
+    "6-12-67-3084-537-2013-9": {
+      "narrator_ids": [
+        6,
+        12,
+        67,
+        3084,
+        537,
+        2013,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:44:20"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2013",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2013.json"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1186,
+  "type": "narrator",
+  "path": "/people/narrators/1186",
+  "titles": {
+    "ar": "مُحَمَّدُ بْنُ جَعْفَرٍ أَبُو الْعَبَّاسِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:2:57:10",
+    "/books/al-kafi:5:3:137:2",
+    "/books/al-kafi:6:2:4:8"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "1186-189": {
+      "narrator_ids": [
+        1186,
+        189
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:137:2",
+        "/books/al-kafi:6:2:4:8"
+      ]
+    },
+    "1186-189-43-182": {
+      "narrator_ids": [
+        1186,
+        189,
+        43,
+        182
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:4:8"
+      ]
+    },
+    "1186-189-43-288": {
+      "narrator_ids": [
+        1186,
+        189,
+        43,
+        288
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:137:2"
+      ]
+    },
+    "1186-27": {
+      "narrator_ids": [
+        1186,
+        27
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:57:10"
+      ]
+    },
+    "1186-27-397-9": {
+      "narrator_ids": [
+        1186,
+        27,
+        397,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:57:10"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1186",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1186.json"
+  }
+}

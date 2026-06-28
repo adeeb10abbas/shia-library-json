@@ -1,0 +1,51 @@
+{
+  "id": 4392,
+  "type": "narrator",
+  "path": "/people/narrators/4392",
+  "titles": {
+    "ar": "مُعَلَّى بْنِ مُحَمَّدٍ بِإِسْنَادٍ ذَكَرَهُ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:34:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "20-4392": {
+      "narrator_ids": [
+        20,
+        4392
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:34:4"
+      ]
+    },
+    "20-4392-194": {
+      "narrator_ids": [
+        20,
+        4392,
+        194
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:34:4"
+      ]
+    },
+    "4392-194": {
+      "narrator_ids": [
+        4392,
+        194
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:34:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4392",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4392.json"
+  }
+}

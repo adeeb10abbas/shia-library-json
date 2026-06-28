@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:2:50",
+  "chapter": {
+    "path": "/books/al-khisal:2:50",
+    "titles": {
+      "en": "Whoever Earns More Than His Meals fom This World"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:2:50:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:2:50:1",
+        "parts": [
+          2,
+          50,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 50,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:2:50",
+        "titles": {
+          "en": "Whoever Earns More Than His Meals fom This World"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا سعد بن عبد الله، عن يعقوب بن يزيد، عن ابن محبوب، عن علي بن الحسين بن رباط، رفعه قال: شكى رجل إلى أمير المؤمنين عليه السلام الحاجة فقال له: اعلم أن كل شيء تصيبه من الدنيا فوق قوتك فإنما أنت فيه خازن لغيرك"
+        ],
+        "text": ": حدثنا سعد بن عبد الله، عن يعقوب بن يزيد، عن ابن محبوب، عن علي بن الحسين بن رباط، رفعه قال: شكى رجل إلى أمير المؤمنين عليه السلام الحاجة فقال له: اعلم أن كل شيء تصيبه من الدنيا فوق قوتك فإنما أنت فيه خازن لغيرك"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "1-58 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Sa’ed ibn Abdullah quoted on the authority of Yaqoob ibn Yazid, on the authority of Ibn Mahboob, on the authority of Ali ibn al-Hussein ibn Ribat who linked it up to a man who complained to the Commander of the Faithful Imam Ali (MGB) about his needs. The Commander of the Faithful (MGB) said, “Know that you are only a treasurer for other people for what you earn from this world that is more than your meals.”"
+          ],
+          "text": "1-58 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Sa’ed ibn Abdullah quoted on the authority of Yaqoob ibn Yazid, on the authority of Ibn Mahboob, on the authority of Ali ibn al-Hussein ibn Ribat who linked it up to a man who complained to the Commander of the Faithful Imam Ali (MGB) about his needs. The Commander of the Faithful (MGB) said, “Know that you are only a treasurer for other people for what you earn from this world that is more than your meals.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "1-58 حدثنا أبي رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "1-58 حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي رضي الله عنه قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:2:50:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/2/50/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/2/50/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

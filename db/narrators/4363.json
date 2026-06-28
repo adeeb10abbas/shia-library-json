@@ -1,0 +1,56 @@
+{
+  "id": 4363,
+  "type": "narrator",
+  "path": "/people/narrators/4363",
+  "titles": {
+    "ar": "مِسْمَعِ بْنِ الْحَجَّاجِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:48:7"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1149-4363": {
+      "narrator_ids": [
+        1149,
+        4363
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:48:7"
+      ]
+    },
+    "4-618-1149-4363-446-784-72-9": {
+      "narrator_ids": [
+        4,
+        618,
+        1149,
+        4363,
+        446,
+        784,
+        72,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:48:7"
+      ]
+    },
+    "4363-446": {
+      "narrator_ids": [
+        4363,
+        446
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:48:7"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4363",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4363.json"
+  }
+}

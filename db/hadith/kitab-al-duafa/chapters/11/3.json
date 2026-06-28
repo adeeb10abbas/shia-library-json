@@ -1,0 +1,95 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "kitab-al-duafa",
+  "chapterPath": "/books/kitab-al-duafa:11:3",
+  "chapter": {
+    "path": "/books/kitab-al-duafa:11:3",
+    "titles": {
+      "en": "Zakariyya, Abū Yaḥyā, Kawkab al-Dam"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "kitab-al-duafa:11:3:1",
+      "type": "hadith",
+      "book": {
+        "slug": "kitab-al-duafa",
+        "titles": {
+          "ar": "كتاب الضعفاء",
+          "en": "Kitab al-Du'afa'"
+        },
+        "author": {
+          "en": "Ahmad ibn al-Husayn al-Ghada'iri"
+        }
+      },
+      "path": {
+        "source": "/books/kitab-al-duafa:11:3:1",
+        "parts": [
+          11,
+          3,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 11,
+        "book": 3,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/kitab-al-duafa:11:3",
+        "titles": {
+          "en": "Zakariyya, Abū Yaḥyā, Kawkab al-Dam"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " المصنف (رحمه الله):"
+        ],
+        "text": "المصنف (رحمه الله):"
+      },
+      "translations": {
+        "en.tashayyu": {
+          "segments": [
+            "4 – Zakariyya, Abū Yaḥyā, Kawkab al-Dam.  Kufan.  Weak.  Narrated from Abū ʿAbdillāh عليه السلام. The author said"
+          ],
+          "text": "4 – Zakariyya, Abū Yaḥyā, Kawkab al-Dam.  Kufan.  Weak.  Narrated from Abū ʿAbdillāh عليه السلام. The author said"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "4 - زكريا، أبو يحيى، كوكب الدم، كوفي. ضعيف. روى عن أبي عبد الله (عليه السلام). قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "4 - "
+          },
+          {
+            "kind": "plain",
+            "text": "زكريا، أبو يحيى، كوكب الدم، كوفي. ضعيف. روى"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي عبد الله (عليه السلام). قال",
+            "path": "/people/narrators/669"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/kitab-al-duafa:11:3:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/kitab-al-duafa/11/3/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/17/11/3/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

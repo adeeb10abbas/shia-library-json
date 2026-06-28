@@ -1,0 +1,405 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:5:2:24",
+  "chapter": {
+    "path": "/books/al-kafi:5:2:24",
+    "titles": {
+      "ar": "باب بَيْعِ الدَّيْنِ بِالدَّيْنِ",
+      "en": "Chapter 24 – Selling the debt with the debt"
+    }
+  },
+  "count": 3,
+  "records": [
+    {
+      "id": "al-kafi:5:2:24:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:5:2:24:1",
+        "parts": [
+          5,
+          2,
+          24,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 2,
+        "chapter": 24,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:5:2:24",
+        "titles": {
+          "ar": "باب بَيْعِ الدَّيْنِ بِالدَّيْنِ",
+          "en": "Chapter 24 – Selling the debt with the debt"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) لَا يُبَاعُ الدَّيْنُ بِالدَّيْنِ ."
+        ],
+        "text": "قَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) لَا يُبَاعُ الدَّيْنُ بِالدَّيْنِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhamamd Bin Yahya, from Ahmad Bin Muhammad, from Ibn Mahboub, from Ibrahim Bin Mihzam, from Talha Bin Yazeed, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup> said: ‘Do not sell the debt by the debt’."
+          ],
+          "text": "Muhamamd Bin Yahya, from Ahmad Bin Muhammad, from Ibn Mahboub, from Ibrahim Bin Mihzam, from Talha Bin Yazeed,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup> said: ‘Do not sell the debt by the debt’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from ibn Mahbub from Ibrahim ibn Mihzam from Talhah ibn Yazid who has said the following: “Abu ‘ Abd Allah, ‘Alayhi al-Salam, has said that the Messenger of Allah has said, ’It is not lawful to buy a debt with debt (on credit).”’ "
+          ],
+          "text": "1. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from ibn Mahbub from Ibrahim ibn Mihzam from Talhah ibn Yazid who has said the following: “Abu ‘ Abd Allah, ‘Alayhi al-Salam, has said that the Messenger of Allah has said, ’It is not lawful to buy a debt with debt (on credit).”’"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف كالموثق    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (19/52)",
+          "label": "ضعيف كالموثق",
+          "text": "Allamah Baqir al-Majlisi: ضعيف كالموثق - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (19/52)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنِ ابْنِ مَحْبُوبٍ عَنْ إِبْرَاهِيمَ بْنِ مِهْزَمٍ عَنْ طَلْحَةَ بْنِ يَزِيدَ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ مَحْبُوبٍ",
+            "path": "/people/narrators/10"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "إِبْرَاهِيمَ بْنِ مِهْزَمٍ",
+            "path": "/people/narrators/343"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "طَلْحَةَ بْنِ يَزِيدَ",
+            "path": "/people/narrators/3449"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/5",
+          "/people/narrators/10",
+          "/people/narrators/343",
+          "/people/narrators/3449",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:5:2:24:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/5/2/24/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:5:2:24:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:5:2:24:2",
+        "parts": [
+          5,
+          2,
+          24,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 2,
+        "chapter": 24,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:5:2:24",
+        "titles": {
+          "ar": "باب بَيْعِ الدَّيْنِ بِالدَّيْنِ",
+          "en": "Chapter 24 – Selling the debt with the debt"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَأَلْتُ أَبَا جَعْفَرٍ ( عليه السلام ) عَنْ رَجُلٍ كَانَ لَهُ عَلَى رَجُلٍ دَيْنٌ فَجَاءَهُ رَجُلٌ فَاشْتَرَاهُ مِنْهُ [بِعَرْضٍ] ثُمَّ انْطَلَقَ إِلَى الَّذِي عَلَيْهِ الدَّيْنُ فَقَالَ لَهُ أَعْطِنِي مَا لِفُلَانٍ عَلَيْكَ فَإِنِّي قَدِ اشْتَرَيْتُهُ مِنْهُ كَيْفَ يَكُونُ الْقَضَاءُ فِي ذَلِكَ فَقَالَ أَبُو جَعْفَرٍ ( عليه السلام ) يَرُدُّ عَلَيْهِ الرَّجُلُ الَّذِي عَلَيْهِ الدَّيْنُ مَالَهُ الَّذِي اشْتَرَاهُ بِهِ مِنَ الرَّجُلِ الَّذِي لَهُ الدَّيْنُ ."
+        ],
+        "text": "سَأَلْتُ أَبَا جَعْفَرٍ ( عليه السلام ) عَنْ رَجُلٍ كَانَ لَهُ عَلَى رَجُلٍ دَيْنٌ فَجَاءَهُ رَجُلٌ فَاشْتَرَاهُ مِنْهُ [بِعَرْضٍ] ثُمَّ انْطَلَقَ إِلَى الَّذِي عَلَيْهِ الدَّيْنُ فَقَالَ لَهُ أَعْطِنِي مَا لِفُلَانٍ عَلَيْكَ فَإِنِّي قَدِ اشْتَرَيْتُهُ مِنْهُ كَيْفَ يَكُونُ الْقَضَاءُ فِي ذَلِكَ فَقَالَ أَبُو جَعْفَرٍ ( عليه السلام ) يَرُدُّ عَلَيْهِ الرَّجُلُ الَّذِي عَلَيْهِ الدَّيْنُ مَالَهُ الَّذِي اشْتَرَاهُ بِهِ مِنَ الرَّجُلِ الَّذِي لَهُ الدَّيْنُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ahmad Bin Muhammad, from Al Hassan Bin Ali, from Muhammad Bin Al Fazeyl, from Abu Hamza who said, ",
+            "‘I asked Abu Ja’far<sup>asws</sup> about a man who had a debt for him upon a man. So (another) man came over and bought it from him with an offer. Then he goes to the one upon whom is the debt, so he says to him, ‘Give me what is upon you for so and so, for I have bought it from it’. How would the judgement happen to be with regards to that?’ So Abu Ja’far<sup>asws</sup> said: ‘The man upon whom is the debt would return his wealth to the one who has bought it, from the man for whom was the debt’."
+          ],
+          "text": "Ahmad Bin Muhammad, from Al Hassan Bin Ali, from Muhammad Bin Al Fazeyl, from Abu Hamza who said,\n\n‘I asked Abu Ja’far<sup>asws</sup> about a man who had a debt for him upon a man. So (another) man came over and bought it from him with an offer. Then he goes to the one upon whom is the debt, so he says to him, ‘Give me what is upon you for so and so, for I have bought it from it’. How would the judgement happen to be with regards to that?’ So Abu Ja’far<sup>asws</sup> said: ‘The man upon whom is the debt would return his wealth to the one who has bought it, from the man for whom was the debt’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. Ahmad ibn Muhammad has narrated from al-Hassan ibn Ali from Muhammad ibn al-Fudayl from abu Hamzah who has said the following: “I once asked abu Ja’far, ‘Alayhi al-Salam, about the case of a man to whom another person owes a loan and a third person buys the loan from the creditor to collect it from the debtor. The collector demands the debtor for payment; and (what is the Imam’s) judgment in this issue. Abu Ja’far, ‘Alayhi al-Salam, made a pronouncement that said, The debtor can pay to the collector what he (the collector) has paid to the creditor.’” "
+          ],
+          "text": "2. Ahmad ibn Muhammad has narrated from al-Hassan ibn Ali from Muhammad ibn al-Fudayl from abu Hamzah who has said the following: “I once asked abu Ja’far, ‘Alayhi al-Salam, about the case of a man to whom another person owes a loan and a third person buys the loan from the creditor to collect it from the debtor. The collector demands the debtor for payment; and (what is the Imam’s) judgment in this issue. Abu Ja’far, ‘Alayhi al-Salam, made a pronouncement that said, The debtor can pay to the collector what he (the collector) has paid to the creditor.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مجهول    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (19/53)",
+          "label": "مجهول",
+          "text": "Allamah Baqir al-Majlisi: مجهول - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (19/53)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "أَحْمَدُ بْنُ مُحَمَّدٍ عَنِ الْحَسَنِ بْنِ عَلِيٍّ عَنْ مُحَمَّدِ بْنِ الْفُضَيْلِ عَنْ أَبِي حَمْزَةَ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدُ بْنُ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحَسَنِ بْنِ عَلِيٍّ",
+            "path": "/people/narrators/63"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ الْفُضَيْلِ",
+            "path": "/people/narrators/73"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي حَمْزَةَ",
+            "path": "/people/narrators/71"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/5",
+          "/people/narrators/63",
+          "/people/narrators/73",
+          "/people/narrators/71"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:5:2:24:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/5/2/24/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:5:2:24:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:5:2:24:3",
+        "parts": [
+          5,
+          2,
+          24,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 2,
+        "chapter": 24,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:5:2:24",
+        "titles": {
+          "ar": "باب بَيْعِ الدَّيْنِ بِالدَّيْنِ",
+          "en": "Chapter 24 – Selling the debt with the debt"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قُلْتُ لِلرِّضَا ( عليه السلام ) رَجُلٌ اشْتَرَى دَيْناً عَلَى رَجُلٍ ثُمَّ ذَهَبَ إِلَى صَاحِبِ الدَّيْنِ فَقَالَ لَهُ ادْفَعْ إِلَيَّ مَا لِفُلَانٍ عَلَيْكَ فَقَدِ اشْتَرَيْتُهُ مِنْهُ قَالَ يَدْفَعُ إِلَيْهِ قِيمَةَ مَا دَفَعَ إِلَى صَاحِبِ الدَّيْنِ وَ بَرِئَ الَّذِي عَلَيْهِ الْمَالُ مِنْ جَمِيعِ مَا بَقِيَ عَلَيْهِ ."
+        ],
+        "text": "قُلْتُ لِلرِّضَا ( عليه السلام ) رَجُلٌ اشْتَرَى دَيْناً عَلَى رَجُلٍ ثُمَّ ذَهَبَ إِلَى صَاحِبِ الدَّيْنِ فَقَالَ لَهُ ادْفَعْ إِلَيَّ مَا لِفُلَانٍ عَلَيْكَ فَقَدِ اشْتَرَيْتُهُ مِنْهُ قَالَ يَدْفَعُ إِلَيْهِ قِيمَةَ مَا دَفَعَ إِلَى صَاحِبِ الدَّيْنِ وَ بَرِئَ الَّذِي عَلَيْهِ الْمَالُ مِنْ جَمِيعِ مَا بَقِيَ عَلَيْهِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, and someone else, from Muhammad Bin Ahmad, from Muhammad Bin Isa, from Muhammad Bin Al Fuzayl who said, ",
+            "‘I said to Al-Reza<sup>asws</sup>, ‘A man bought a debt (which was) upon a man. Then he went to the one with the debt, so he said to him, ‘Hand over to me what is upon you for so and so, for I have bought it from him’. He<sup>asws</sup> said: ‘He should hand over to him the price what he had handed over to the (original) creditor, and the one upon whom was the wealth (debt) would be free from the entirety of what was remaining upon him’."
+          ],
+          "text": "Muhammad Bin Yahya, and someone else, from Muhammad Bin Ahmad, from Muhammad Bin Isa, from Muhammad Bin Al Fuzayl who said,\n\n‘I said to Al-Reza<sup>asws</sup>, ‘A man bought a debt (which was) upon a man. Then he went to the one with the debt, so he said to him, ‘Hand over to me what is upon you for so and so, for I have bought it from him’. He<sup>asws</sup> said: ‘He should hand over to him the price what he had handed over to the (original) creditor, and the one upon whom was the wealth (debt) would be free from the entirety of what was remaining upon him’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "3. Muhammad ibn Yahya and others have narrated from Muhammad ibn Ahmad from Muhammad ibn ‘Isa from Muhammad ibn al- Fudayl who has said the following: “I once asked al-Rida’, ‘Alayhi al-Salam, about the case of a man who buys a loan to collect it from the debtor and demands the debtor for payment. He (the Imam) said, The debtor pays what the collector has paid to the creditor and in so doing becomes free of the responsibility of paying all that was due on him.’” "
+          ],
+          "text": "3. Muhammad ibn Yahya and others have narrated from Muhammad ibn Ahmad from Muhammad ibn ‘Isa from Muhammad ibn al- Fudayl who has said the following: “I once asked al-Rida’, ‘Alayhi al-Salam, about the case of a man who buys a loan to collect it from the debtor and demands the debtor for payment. He (the Imam) said, The debtor pays what the collector has paid to the creditor and in so doing becomes free of the responsibility of paying all that was due on him.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مجهول    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (19/53)",
+          "label": "مجهول",
+          "text": "Allamah Baqir al-Majlisi: مجهول - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (19/53)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى وَ غَيْرُهُ عَنْ مُحَمَّدِ بْنِ أَحْمَدَ عَنْ مُحَمَّدِ بْنِ عِيسَى عَنْ مُحَمَّدِ بْنِ الْفُضَيْلِ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " وَ "
+          },
+          {
+            "kind": "narrator",
+            "text": "غَيْرُهُ",
+            "path": "/people/narrators/78"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ أَحْمَدَ",
+            "path": "/people/narrators/59"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ عِيسَى",
+            "path": "/people/narrators/27"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ الْفُضَيْلِ",
+            "path": "/people/narrators/73"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/78",
+          "/people/narrators/59",
+          "/people/narrators/27",
+          "/people/narrators/73"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:5:2:24:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/5/2/24/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

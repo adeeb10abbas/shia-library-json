@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:6:70",
+  "chapter": {
+    "path": "/books/al-khisal:6:70",
+    "titles": {
+      "en": "The Gates of the Heavens Open At Five Appointed Times"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:6:70:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:6:70:1",
+        "parts": [
+          6,
+          70,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 70,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:6:70",
+        "titles": {
+          "en": "The Gates of the Heavens Open At Five Appointed Times"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا سعد بن عبد الله قال: حدثني أحمد ابن محمد بن عيسى، عن ابن يحيى، عن جده الحسن بن راشد، عن أبي بصير، ومحمد ابن مسلم، عن أبي عبد الله عليه السلام قال: حدثني أبي، عن جدي عن آبائه عليهم السلام أن أمير المؤمنين عليه السلام قال فيما علم أصحابه: تفتح أبواب السماء في خمسة مواقيت، عند نزول الغيث، وعند الزحف، وعند الاذان، وعند قراءة القرآن، ومع زوال الشمس، وعند طلوع الفجر"
+        ],
+        "text": ": حدثنا سعد بن عبد الله قال: حدثني أحمد ابن محمد بن عيسى، عن ابن يحيى، عن جده الحسن بن راشد، عن أبي بصير، ومحمد ابن مسلم، عن أبي عبد الله عليه السلام قال: حدثني أبي، عن جدي عن آبائه عليهم السلام أن أمير المؤمنين عليه السلام قال فيما علم أصحابه: تفتح أبواب السماء في خمسة مواقيت، عند نزول الغيث، وعند الزحف، وعند الاذان، وعند قراءة القرآن، ومع زوال الشمس، وعند طلوع الفجر"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "5-80 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Sa’ed ibn Abdullah quoted Ahmad ibn Muhammad ibn Isa, on the authority of Ibn Yahya, on the authority of his grandfather Al-Hassan ibn Rashid, on the authority of Abi Basir and Muhammad ibn Muslim, on the authority of Aba Abdullah as-Sadiq (MGB), on the authority of his father (MGB), on the authority of his forefathers (MGB) that from amongst what the Commander of the Faithful Imam Ali (MGB) taught his companions, he (MGB) said, “The gates of the heavens open at five appointed times. At the time of descending of rain; at the time of a holy war; at the time of the general call to prayer; at the time of reading of the Quran; at the time of the disappearance of the sun and at the time of the rise of the dawn.”"
+          ],
+          "text": "5-80 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Sa’ed ibn Abdullah quoted Ahmad ibn Muhammad ibn Isa, on the authority of Ibn Yahya, on the authority of his grandfather Al-Hassan ibn Rashid, on the authority of Abi Basir and Muhammad ibn Muslim, on the authority of Aba Abdullah as-Sadiq (MGB), on the authority of his father (MGB), on the authority of his forefathers (MGB) that from amongst what the Commander of the Faithful Imam Ali (MGB) taught his companions, he (MGB) said, “The gates of the heavens open at five appointed times. At the time of descending of rain; at the time of a holy war; at the time of the general call to prayer; at the time of reading of the Quran; at the time of the disappearance of the sun and at the time of the rise of the dawn.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "5-80 حدثنا أبي رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "5-80 حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي رضي الله عنه قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:6:70:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/6/70/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/6/70/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

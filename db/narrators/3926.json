@@ -1,0 +1,56 @@
+{
+  "id": 3926,
+  "type": "narrator",
+  "path": "/people/narrators/3926",
+  "titles": {
+    "ar": "عَنْ حَمْزَةَ بْنِ حُمْرَانَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:95:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-556-61-913-389-3926-250-9": {
+      "narrator_ids": [
+        11,
+        556,
+        61,
+        913,
+        389,
+        3926,
+        250,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:95:3"
+      ]
+    },
+    "389-3926": {
+      "narrator_ids": [
+        389,
+        3926
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:95:3"
+      ]
+    },
+    "3926-250": {
+      "narrator_ids": [
+        3926,
+        250
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:95:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3926",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3926.json"
+  }
+}

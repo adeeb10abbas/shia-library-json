@@ -1,0 +1,107 @@
+{
+  "id": 928,
+  "type": "narrator",
+  "path": "/people/narrators/928",
+  "titles": {
+    "ar": "عَلِيِّ بْنِ مُحَمَّدٍ النَّوْفَلِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:123:5",
+    "/books/al-kafi:1:4:36:3",
+    "/books/al-kafi:4:2:74:4",
+    "/books/tahdhib-al-ahkam:2:8:218"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "11-732-121-928": {
+      "narrator_ids": [
+        11,
+        732,
+        121,
+        928
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:8:218"
+      ]
+    },
+    "121-928": {
+      "narrator_ids": [
+        121,
+        928
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:8:218"
+      ]
+    },
+    "154-25-333-928-1244": {
+      "narrator_ids": [
+        154,
+        25,
+        333,
+        928,
+        1244
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:36:3"
+      ]
+    },
+    "20-2512-928": {
+      "narrator_ids": [
+        20,
+        2512,
+        928
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:74:4"
+      ]
+    },
+    "20-684-333-928": {
+      "narrator_ids": [
+        20,
+        684,
+        333,
+        928
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:123:5"
+      ]
+    },
+    "2512-928": {
+      "narrator_ids": [
+        2512,
+        928
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:74:4"
+      ]
+    },
+    "333-928": {
+      "narrator_ids": [
+        333,
+        928
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:123:5",
+        "/books/al-kafi:1:4:36:3"
+      ]
+    },
+    "928-1244": {
+      "narrator_ids": [
+        928,
+        1244
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:36:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/928",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/928.json"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": 3336,
+  "type": "narrator",
+  "path": "/people/narrators/3336",
+  "titles": {
+    "ar": "سُفْيَانَ الْحَرِيرِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:3:1:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1037-3336": {
+      "narrator_ids": [
+        1037,
+        3336
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:3:1:1"
+      ]
+    },
+    "3336-2": {
+      "narrator_ids": [
+        3336,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:3:1:1"
+      ]
+    },
+    "35-512-1037-3336-2-3311-9": {
+      "narrator_ids": [
+        35,
+        512,
+        1037,
+        3336,
+        2,
+        3311,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:3:1:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3336",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3336.json"
+  }
+}

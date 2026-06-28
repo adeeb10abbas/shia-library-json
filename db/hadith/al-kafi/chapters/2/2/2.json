@@ -1,0 +1,834 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:2:2:2",
+  "chapter": {
+    "path": "/books/al-kafi:2:2:2",
+    "titles": {
+      "ar": "بَابُ أَنَّ الدُّعَاءَ سِلَاحُ الْمُؤْمِنِ",
+      "en": "Chapter 2 – The supplication is a weapon of the Momin"
+    }
+  },
+  "count": 7,
+  "records": [
+    {
+      "id": "al-kafi:2:2:2:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:2:2:2:1",
+        "parts": [
+          2,
+          2,
+          2,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 2,
+        "chapter": 2,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:2:2:2",
+        "titles": {
+          "ar": "بَابُ أَنَّ الدُّعَاءَ سِلَاحُ الْمُؤْمِنِ",
+          "en": "Chapter 2 – The supplication is a weapon of the Momin"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) الدُّعَاءُ سِلَاحُ الْمُؤْمِنِ وَ عَمُودُ الدِّينِ وَ نُورُ السَّمَاوَاتِ وَ الْأَرْضِ ."
+        ],
+        "text": "قَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) الدُّعَاءُ سِلَاحُ الْمُؤْمِنِ وَ عَمُودُ الدِّينِ وَ نُورُ السَّمَاوَاتِ وَ الْأَرْضِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Ahmad Bin Muhammad Bin Khalid, from his father, from Fazalat Bin Ayoub, from Al Sakuny, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup> said: ‘The supplication is a weapon of the <span class=\"iTxt\">Momin</span> and a pillar of the Religion, and a Light of the skies and the earth’."
+          ],
+          "text": "A number of our companions, from Ahmad Bin Muhammad Bin Khalid, from his father, from Fazalat Bin Ayoub, from Al Sakuny,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup> said: ‘The supplication is a weapon of the <span class=\"iTxt\">Momin</span> and a pillar of the Religion, and a Light of the skies and the earth’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. A number of our people have narrated from Ahmad ibn Muhammad ibn Khalid from his father from Fadalah ibn Ayyub from al-Sakuni from abu ‘Abd Allah (a.s.) who has said the following: “The Messenger of Allah has said, ‘Pleading before Allah for help is believing people’s weapons, the pillar of religion and the light of the heavens and earth.’” "
+          ],
+          "text": "1. A number of our people have narrated from Ahmad ibn Muhammad ibn Khalid from his father from Fadalah ibn Ayyub from al-Sakuni from abu ‘Abd Allah (a.s.) who has said the following: “The Messenger of Allah has said, ‘Pleading before Allah for help is believing people’s weapons, the pillar of religion and the light of the heavens and earth.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (12/10)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (12/10)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ خَالِدٍ عَنْ أَبِيهِ عَنْ فَضَالَةَ بْنِ أَيُّوبَ عَنِ السَّكُونِيِّ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدِ بْنِ خَالِدٍ",
+            "path": "/people/narrators/12"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "فَضَالَةَ بْنِ أَيُّوبَ",
+            "path": "/people/narrators/69"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "السَّكُونِيِّ",
+            "path": "/people/narrators/34"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/12",
+          "/people/narrators/2",
+          "/people/narrators/69",
+          "/people/narrators/34",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:2:2:2:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/2/2/2/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:2:2:2:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:2:2:2:2",
+        "parts": [
+          2,
+          2,
+          2,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 2,
+        "chapter": 2,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:2:2:2",
+        "titles": {
+          "ar": "بَابُ أَنَّ الدُّعَاءَ سِلَاحُ الْمُؤْمِنِ",
+          "en": "Chapter 2 – The supplication is a weapon of the Momin"
+        }
+      },
+      "arabic": {
+        "segments": [
+          "وَ بِهَذَا الْإِسْنَادِ قَالَ قَالَ أَمِيرُ الْمُؤْمِنِينَ ( عليه السلام ) الدُّعَاءُ مَفَاتِيحُ النَّجَاحِ وَ مَقَالِيدُ الْفَلَاحِ وَ خَيْرُ الدُّعَاءِ مَا صَدَرَ عَنْ صَدْرٍ نَقِيٍّ وَ قَلْبٍ تَقِيٍّ وَ فِي الْمُنَاجَاةِ سَبَبُ النَّجَاةِ وَ بِالْإِخْلَاصِ يَكُونُ الْخَلَاصُ فَإِذَا اشْتَدَّ الْفَزَعُ فَإِلَى اللَّهِ الْمَفْزَعُ ."
+        ],
+        "text": "وَ بِهَذَا الْإِسْنَادِ قَالَ قَالَ أَمِيرُ الْمُؤْمِنِينَ ( عليه السلام ) الدُّعَاءُ مَفَاتِيحُ النَّجَاحِ وَ مَقَالِيدُ الْفَلَاحِ وَ خَيْرُ الدُّعَاءِ مَا صَدَرَ عَنْ صَدْرٍ نَقِيٍّ وَ قَلْبٍ تَقِيٍّ وَ فِي الْمُنَاجَاةِ سَبَبُ النَّجَاةِ وَ بِالْإِخْلَاصِ يَكُونُ الْخَلَاصُ فَإِذَا اشْتَدَّ الْفَزَعُ فَإِلَى اللَّهِ الْمَفْزَعُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "And by this chain, ",
+            "‘He<sup>asws</sup> said: ‘The supplications are the keys to achievement and collars of the success, and the best of the supplication is what is generated by a clean chest and a fearful heart’."
+          ],
+          "text": "And by this chain,\n\n‘He<sup>asws</sup> said: ‘The supplications are the keys to achievement and collars of the success, and the best of the supplication is what is generated by a clean chest and a fearful heart’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. Through the same chain of narrators it is narrated from Amir al-Mu’minin, Ali ibn abu Talib (a.s.) who has said the following: “Pleading before Allah for help is the key to success and the input for one’s well being. The best prayer is what comes out of a clean chest and pious heart. In pleading before Allah for help there is the means for salvation, in sincerity there is freedom and when distress intensifies, Allah is the only One before Whom one must implore for protection.” "
+          ],
+          "text": "2. Through the same chain of narrators it is narrated from Amir al-Mu’minin, Ali ibn abu Talib (a.s.) who has said the following: “Pleading before Allah for help is the key to success and the input for one’s well being. The best prayer is what comes out of a clean chest and pious heart. In pleading before Allah for help there is the means for salvation, in sincerity there is freedom and when distress intensifies, Allah is the only One before Whom one must implore for protection.”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (12/10)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (12/10)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "وَبِهَذَا الْإِسْنَادِ قَالَ أَمِيرُ الْمُؤْمِنِينَ عَلَيْهِ السَّلَامُ",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "وَبِهَذَا الْإِسْنَادِ قَالَ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَمِيرُ الْمُؤْمِنِينَ",
+            "path": "/people/narrators/394"
+          },
+          {
+            "kind": "plain",
+            "text": " عَلَيْهِ السَّلَامُ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/394"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:2:2:2:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/2/2/2/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:2:2:2:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:2:2:2:3",
+        "parts": [
+          2,
+          2,
+          2,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 2,
+        "chapter": 2,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:2:2:2",
+        "titles": {
+          "ar": "بَابُ أَنَّ الدُّعَاءَ سِلَاحُ الْمُؤْمِنِ",
+          "en": "Chapter 2 – The supplication is a weapon of the Momin"
+        }
+      },
+      "arabic": {
+        "segments": [
+          "وَ بِإِسْنَادِهِ قَالَ قَالَ النَّبِيُّ ( صلى الله عليه وآله ) أَ لَا أَدُلُّكُمْ عَلَى سِلَاحٍ يُنْجِيكُمْ مِنْ أَعْدَائِكُمْ وَ يُدِرُّ أَرْزَاقَكُمْ قَالُوا بَلَى قَالَ تَدْعُونَ رَبَّكُمْ بِاللَّيْلِ وَ النَّهَارِ فَإِنَّ سِلَاحَ الْمُؤْمِنِ الدُّعَاءُ ."
+        ],
+        "text": "وَ بِإِسْنَادِهِ قَالَ قَالَ النَّبِيُّ ( صلى الله عليه وآله ) أَ لَا أَدُلُّكُمْ عَلَى سِلَاحٍ يُنْجِيكُمْ مِنْ أَعْدَائِكُمْ وَ يُدِرُّ أَرْزَاقَكُمْ قَالُوا بَلَى قَالَ تَدْعُونَ رَبَّكُمْ بِاللَّيْلِ وَ النَّهَارِ فَإِنَّ سِلَاحَ الْمُؤْمِنِ الدُّعَاءُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "And by his chain, ",
+            "‘He<sup>asws</sup> said: ‘The Prophet<sup>saww</sup> said: ‘Indeed! Shall I<sup>saww</sup> point you all to a weapon to save you from your enemies and generate your sustenance?’ So they said, ‘Yes’. He<sup>saww</sup> said: ‘You should be supplicating to your Lord<sup>azwj</sup> by the night and the day, for a weapon of the Believers, it is the supplication’."
+          ],
+          "text": "And by his chain,\n\n‘He<sup>asws</sup> said: ‘The Prophet<sup>saww</sup> said: ‘Indeed! Shall I<sup>saww</sup> point you all to a weapon to save you from your enemies and generate your sustenance?’ So they said, ‘Yes’. He<sup>saww</sup> said: ‘You should be supplicating to your Lord<sup>azwj</sup> by the night and the day, for a weapon of the Believers, it is the supplication’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "3. Through his chain of narrators the narrator has said the following: “The Holy Prophet (a.s.) once said, ‘Should I guide you to a weapon that will save you from your enemies and increase your means of living?’ They said, ‘Yes, (O Messenger of Allah).’ The Holy Prophet said, ‘Pray and plead before Allah for help night and day; prayer is the weapon of believing people.’” "
+          ],
+          "text": "3. Through his chain of narrators the narrator has said the following: “The Holy Prophet (a.s.) once said, ‘Should I guide you to a weapon that will save you from your enemies and increase your means of living?’ They said, ‘Yes, (O Messenger of Allah).’ The Holy Prophet said, ‘Pray and plead before Allah for help night and day; prayer is the weapon of believing people.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/11)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/11)"
+        }
+      ],
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:2:2:2:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/2/2/2/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:2:2:2:4",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:2:2:2:4",
+        "parts": [
+          2,
+          2,
+          2,
+          4
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 2,
+        "chapter": 2,
+        "hadith": 4
+      },
+      "chapter": {
+        "path": "/books/al-kafi:2:2:2",
+        "titles": {
+          "ar": "بَابُ أَنَّ الدُّعَاءَ سِلَاحُ الْمُؤْمِنِ",
+          "en": "Chapter 2 – The supplication is a weapon of the Momin"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ أَمِيرُ الْمُؤْمِنِينَ ( عليه السلام ) الدُّعَاءُ تُرْسُ الْمُؤْمِنِ وَ مَتَى تُكْثِرْ قَرْعَ الْبَابِ يُفْتَحْ لَكَ ."
+        ],
+        "text": "قَالَ أَمِيرُ الْمُؤْمِنِينَ ( عليه السلام ) الدُّعَاءُ تُرْسُ الْمُؤْمِنِ وَ مَتَى تُكْثِرْ قَرْعَ الْبَابِ يُفْتَحْ لَكَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Sahl Bin Ziyad, from Ja’far Bin Muhammad Al Ashary, from Ibn Al Qaddah, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Amir Al-Momineen<sup>asws</sup> said: ‘The supplication is a shield of the <span class=\"iTxt\">Momin</span>, and when the door is knocked upon frequently, it would be opened for you’."
+          ],
+          "text": "A number of our companions, from Sahl Bin Ziyad, from Ja’far Bin Muhammad Al Ashary, from Ibn Al Qaddah,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Amir Al-Momineen<sup>asws</sup> said: ‘The supplication is a shield of the <span class=\"iTxt\">Momin</span>, and when the door is knocked upon frequently, it would be opened for you’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "4. A number of our people have narrated from Sahl ibn Ziyad from Ja’far ibn Muhammad al-Ash’ari from ibn al-Qaddah from abu ‘Abd Allah (a.s.) who has said the following: “Amir al-Mu’minin, Ali ibn abu Talib (a.s.) has said, ‘Prayer is a shield for a believing person. When a door is knocked often it will sooner or later open up.’” "
+          ],
+          "text": "4. A number of our people have narrated from Sahl ibn Ziyad from Ja’far ibn Muhammad al-Ash’ari from ibn al-Qaddah from abu ‘Abd Allah (a.s.) who has said the following: “Amir al-Mu’minin, Ali ibn abu Talib (a.s.) has said, ‘Prayer is a shield for a believing person. When a door is knocked often it will sooner or later open up.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/12)",
+          "label": "ضعيف",
+          "text": "Allamah Baqir al-Majlisi: ضعيف - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/12)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ سَهْلِ بْنِ زِيَادٍ عَنْ جَعْفَرِ بْنِ مُحَمَّدٍ الْأَشْعَرِيِّ عَنِ ابْنِ الْقَدَّاحِ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَهْلِ بْنِ زِيَادٍ",
+            "path": "/people/narrators/8"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "جَعْفَرِ بْنِ مُحَمَّدٍ الْأَشْعَرِيِّ",
+            "path": "/people/narrators/110"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ الْقَدَّاحِ",
+            "path": "/people/narrators/114"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/8",
+          "/people/narrators/110",
+          "/people/narrators/114",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:2:2:2:4",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/2/2/2/4.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:2:2:2:5",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:2:2:2:5",
+        "parts": [
+          2,
+          2,
+          2,
+          5
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 2,
+        "chapter": 2,
+        "hadith": 5
+      },
+      "chapter": {
+        "path": "/books/al-kafi:2:2:2",
+        "titles": {
+          "ar": "بَابُ أَنَّ الدُّعَاءَ سِلَاحُ الْمُؤْمِنِ",
+          "en": "Chapter 2 – The supplication is a weapon of the Momin"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " لِأَصْحَابِهِ عَلَيْكُمْ بِسِلَاحِ الْأَنْبِيَاءِ فَقِيلَ وَ مَا سِلَاحُ الْأَنْبِيَاءِ قَالَ الدُّعَاءُ ."
+        ],
+        "text": "لِأَصْحَابِهِ عَلَيْكُمْ بِسِلَاحِ الْأَنْبِيَاءِ فَقِيلَ وَ مَا سِلَاحُ الْأَنْبِيَاءِ قَالَ الدُّعَاءُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Ahmad Bin Muhammad, from Ibm Fazzal, from one of our companions, ",
+            "(It has been narrated) from Al-Reza<sup>asws</sup> having frequently said to his<sup>asws</sup> companions: ‘It is upon you to be with a weapon of the Prophets<sup>as</sup>’. So it was said, ‘What is a weapon of the Prophets<sup>as</sup>?’ He<sup>asws</sup> said: ‘The supplication’."
+          ],
+          "text": "A number of our companions, from Ahmad Bin Muhammad, from Ibm Fazzal, from one of our companions,\n\n(It has been narrated) from Al-Reza<sup>asws</sup> having frequently said to his<sup>asws</sup> companions: ‘It is upon you to be with a weapon of the Prophets<sup>as</sup>’. So it was said, ‘What is a weapon of the Prophets<sup>as</sup>?’ He<sup>asws</sup> said: ‘The supplication’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "5. A number of our people have narrated from Ahmad ibn Muhammad from ibn Faddal from certain individuals of our people who has said the following: “Al-Rida (a.s.) would say to his disciples, ‘You must keep with you the weapons of the prophets.’ It was asked, ‘What are the weapons of the prophets?’ The Imam said, ‘It is prayer, pleading before Allah for help.’” "
+          ],
+          "text": "5. A number of our people have narrated from Ahmad ibn Muhammad from ibn Faddal from certain individuals of our people who has said the following: “Al-Rida (a.s.) would say to his disciples, ‘You must keep with you the weapons of the prophets.’ It was asked, ‘What are the weapons of the prophets?’ The Imam said, ‘It is prayer, pleading before Allah for help.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مرسل    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (12/12)",
+          "label": "مرسل",
+          "text": "Allamah Baqir al-Majlisi: مرسل - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (12/12)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنِ ابْنِ فَضَّالٍ عَنْ بَعْضِ أَصْحَابِنَا عَنِ الرِّضَا ( عليه السلام ) أَنَّهُ كَانَ يَقُولُ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ فَضَّالٍ",
+            "path": "/people/narrators/22"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "بَعْضِ أَصْحَابِنَا",
+            "path": "/people/narrators/36"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "plain",
+            "text": "الرِّضَا ( عليه السلام ) أَنَّهُ كَانَ"
+          },
+          {
+            "kind": "plain",
+            "text": " يَقُولُ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/5",
+          "/people/narrators/22",
+          "/people/narrators/36"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:2:2:2:5",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/2/2/2/5.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:2:2:2:6",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:2:2:2:6",
+        "parts": [
+          2,
+          2,
+          2,
+          6
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 2,
+        "chapter": 2,
+        "hadith": 6
+      },
+      "chapter": {
+        "path": "/books/al-kafi:2:2:2",
+        "titles": {
+          "ar": "بَابُ أَنَّ الدُّعَاءَ سِلَاحُ الْمُؤْمِنِ",
+          "en": "Chapter 2 – The supplication is a weapon of the Momin"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ أَبُو عَبْدِ اللَّهِ ( عليه السلام ) إِنَّ الدُّعَاءَ أَنْفَذُ مِنَ السِّنَانِ ."
+        ],
+        "text": "قَالَ أَبُو عَبْدِ اللَّهِ ( عليه السلام ) إِنَّ الدُّعَاءَ أَنْفَذُ مِنَ السِّنَانِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father, from Abdullah Bin Al Mugheira, from Abu Saeed Al Bajaly who said, ",
+            "‘Abu Abdullah<sup>asws</sup> said: ‘The supplication is more piercing than the spear-heads’."
+          ],
+          "text": "Ali Bin Ibrahim, from his father, from Abdullah Bin Al Mugheira, from Abu Saeed Al Bajaly who said,\n\n‘Abu Abdullah<sup>asws</sup> said: ‘The supplication is more piercing than the spear-heads’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "6. Ali ibn Ibrahim has narrated from his father from ‘Abd Allah ibn al-Mughirah from abu Sa’Id al-Bajilli who has said the following: “Abu ‘Abd Allah (a.s.) has said, ‘Prayer, pleading before Allah for help is more effective than spears.’” "
+          ],
+          "text": "6. Ali ibn Ibrahim has narrated from his father from ‘Abd Allah ibn al-Mughirah from abu Sa’Id al-Bajilli who has said the following: “Abu ‘Abd Allah (a.s.) has said, ‘Prayer, pleading before Allah for help is more effective than spears.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مجهول  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/12)",
+          "label": "مجهول",
+          "text": "Allamah Baqir al-Majlisi: مجهول - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/12)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنْ عَبْدِ اللَّهِ بْنِ الْمُغِيرَةِ عَنْ أَبِي سَعِيدٍ الْبَجَلِيِّ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَبْدِ اللَّهِ بْنِ الْمُغِيرَةِ",
+            "path": "/people/narrators/76"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي سَعِيدٍ الْبَجَلِيِّ",
+            "path": "/people/narrators/2099"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/76",
+          "/people/narrators/2099"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:2:2:2:6",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/2/2/2/6.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:2:2:2:7",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:2:2:2:7",
+        "parts": [
+          2,
+          2,
+          2,
+          7
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 2,
+        "chapter": 2,
+        "hadith": 7
+      },
+      "chapter": {
+        "path": "/books/al-kafi:2:2:2",
+        "titles": {
+          "ar": "بَابُ أَنَّ الدُّعَاءَ سِلَاحُ الْمُؤْمِنِ",
+          "en": "Chapter 2 – The supplication is a weapon of the Momin"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " الدُّعَاءُ أَنْفَذُ مِنَ السِّنَانِ الْحَدِيدِ ."
+        ],
+        "text": "الدُّعَاءُ أَنْفَذُ مِنَ السِّنَانِ الْحَدِيدِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "From him, from his father, from Ibn Abu Umeyr, from Abdullah Bin Sinan, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The supplication is more piercing than the spear-heads of the iron’."
+          ],
+          "text": "From him, from his father, from Ibn Abu Umeyr, from Abdullah Bin Sinan,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The supplication is more piercing than the spear-heads of the iron’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "7. It is narrated from him (narrator of the Hadith above) from his father from ibn abu ‘Umayr from ‘Abd Allah ibn Sinan from abu ‘Abd Allah (a.s.) who has said the following: “Abu ‘Abd Allah (a.s.) has said, ‘Prayer, pleading before Allah for help, is more effective than spears of iron.’” "
+          ],
+          "text": "7. It is narrated from him (narrator of the Hadith above) from his father from ibn abu ‘Umayr from ‘Abd Allah ibn Sinan from abu ‘Abd Allah (a.s.) who has said the following: “Abu ‘Abd Allah (a.s.) has said, ‘Prayer, pleading before Allah for help, is more effective than spears of iron.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> حسن كالصحيح    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (12/12)",
+          "label": "حسن كالصحيح",
+          "text": "Allamah Baqir al-Majlisi: حسن كالصحيح - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (12/12)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَنْهُ عَنْ أَبِيهِ عَنِ ابْنِ أَبِي عُمَيْرٍ عَنْ عَبْدِ اللَّهِ بْنِ سِنَانٍ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَنْهُ",
+            "path": "/people/narrators/11"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ أَبِي عُمَيْرٍ",
+            "path": "/people/narrators/7"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَبْدِ اللَّهِ بْنِ سِنَانٍ",
+            "path": "/people/narrators/31"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/11",
+          "/people/narrators/2",
+          "/people/narrators/7",
+          "/people/narrators/31",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:2:1:49:8"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:2:2:2:7",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/2/2/2/7.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

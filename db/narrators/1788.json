@@ -1,0 +1,53 @@
+{
+  "id": 1788,
+  "type": "narrator",
+  "path": "/people/narrators/1788",
+  "titles": {
+    "ar": "إِبْرَاهِيمَ الْأَحْمَرِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:3:9:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1788-387": {
+      "narrator_ids": [
+        1788,
+        387
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:3:9:3"
+      ]
+    },
+    "35-1788": {
+      "narrator_ids": [
+        35,
+        1788
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:3:9:3"
+      ]
+    },
+    "35-1788-387-31-669": {
+      "narrator_ids": [
+        35,
+        1788,
+        387,
+        31,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:3:9:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1788",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1788.json"
+  }
+}

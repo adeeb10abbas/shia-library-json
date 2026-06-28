@@ -1,0 +1,141 @@
+{
+  "id": 1036,
+  "type": "narrator",
+  "path": "/people/narrators/1036",
+  "titles": {
+    "ar": "الْحُسَيْنِ بْنِ زُرَارَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:9:3",
+    "/books/al-kafi:6:8:66:6",
+    "/books/al-kafi:7:7:13:8",
+    "/books/tahdhib-al-ahkam:9:2:54",
+    "/books/tahdhib-al-ahkam:9:2:65"
+  ],
+  "verseCount": 5,
+  "relations": {},
+  "subchains": {
+    "1036-16": {
+      "narrator_ids": [
+        1036,
+        16
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:66:6"
+      ]
+    },
+    "1036-669": {
+      "narrator_ids": [
+        1036,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:2:65"
+      ]
+    },
+    "11-30-1036-669": {
+      "narrator_ids": [
+        11,
+        30,
+        1036,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:2:65"
+      ]
+    },
+    "11-4-5-22-56-1036": {
+      "narrator_ids": [
+        11,
+        4,
+        5,
+        22,
+        56,
+        1036
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:2:54"
+      ]
+    },
+    "143-1036": {
+      "narrator_ids": [
+        143,
+        1036
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:66:6"
+      ]
+    },
+    "30-1036": {
+      "narrator_ids": [
+        30,
+        1036
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:2:65"
+      ]
+    },
+    "4-5-22-56-1036": {
+      "narrator_ids": [
+        4,
+        5,
+        22,
+        56,
+        1036
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:9:3"
+      ]
+    },
+    "5-237-68-1036": {
+      "narrator_ids": [
+        5,
+        237,
+        68,
+        1036
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:7:13:8"
+      ]
+    },
+    "56-1036": {
+      "narrator_ids": [
+        56,
+        1036
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:9:3",
+        "/books/tahdhib-al-ahkam:9:2:54"
+      ]
+    },
+    "6-8-143-1036-16": {
+      "narrator_ids": [
+        6,
+        8,
+        143,
+        1036,
+        16
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:66:6"
+      ]
+    },
+    "68-1036": {
+      "narrator_ids": [
+        68,
+        1036
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:7:13:8"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1036",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1036.json"
+  }
+}

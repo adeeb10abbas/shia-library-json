@@ -1,0 +1,144 @@
+{
+  "id": 1499,
+  "type": "narrator",
+  "path": "/people/narrators/1499",
+  "titles": {
+    "ar": "سَيَابَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:2:3:3",
+    "/books/al-kafi:5:2:124:3",
+    "/books/tahdhib-al-ahkam:6:89:20",
+    "/books/tahdhib-al-ahkam:6:91:251",
+    "/books/tahdhib-al-ahkam:7:20:111"
+  ],
+  "verseCount": 5,
+  "relations": {},
+  "subchains": {
+    "11-38-1499-499-669": {
+      "narrator_ids": [
+        11,
+        38,
+        1499,
+        499,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:89:20"
+      ]
+    },
+    "13-99-1499-669": {
+      "narrator_ids": [
+        13,
+        99,
+        1499,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:20:111"
+      ]
+    },
+    "1305-68-1499-489-294-669": {
+      "narrator_ids": [
+        1305,
+        68,
+        1499,
+        489,
+        294,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:3:3"
+      ]
+    },
+    "1499-489": {
+      "narrator_ids": [
+        1499,
+        489
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:3:3"
+      ]
+    },
+    "1499-499": {
+      "narrator_ids": [
+        1499,
+        499
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:89:20"
+      ]
+    },
+    "1499-669": {
+      "narrator_ids": [
+        1499,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:124:3",
+        "/books/tahdhib-al-ahkam:6:91:251",
+        "/books/tahdhib-al-ahkam:7:20:111"
+      ]
+    },
+    "38-1499": {
+      "narrator_ids": [
+        38,
+        1499
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:89:20"
+      ]
+    },
+    "4-13-99-1499-669": {
+      "narrator_ids": [
+        4,
+        13,
+        99,
+        1499,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:124:3"
+      ]
+    },
+    "5-99-1499-669": {
+      "narrator_ids": [
+        5,
+        99,
+        1499,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:91:251"
+      ]
+    },
+    "68-1499": {
+      "narrator_ids": [
+        68,
+        1499
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:3:3"
+      ]
+    },
+    "99-1499": {
+      "narrator_ids": [
+        99,
+        1499
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:124:3",
+        "/books/tahdhib-al-ahkam:6:91:251",
+        "/books/tahdhib-al-ahkam:7:20:111"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1499",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1499.json"
+  }
+}

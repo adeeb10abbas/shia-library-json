@@ -1,0 +1,44 @@
+{
+  "id": 2192,
+  "type": "narrator",
+  "path": "/people/narrators/2192",
+  "titles": {
+    "ar": "أَبِي عَمْرٍو الْكِنَانِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:97:7"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "4-13-53-47-2192": {
+      "narrator_ids": [
+        4,
+        13,
+        53,
+        47,
+        2192
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:97:7"
+      ]
+    },
+    "47-2192": {
+      "narrator_ids": [
+        47,
+        2192
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:97:7"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2192",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2192.json"
+  }
+}

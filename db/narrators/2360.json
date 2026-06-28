@@ -1,0 +1,52 @@
+{
+  "id": 2360,
+  "type": "narrator",
+  "path": "/people/narrators/2360",
+  "titles": {
+    "ar": "أَحْمَدَ بْنِ هَارُونَ بْنِ مُوَفَّقٍ الْمَدِينِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:71:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2360-2": {
+      "narrator_ids": [
+        2360,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:71:1"
+      ]
+    },
+    "6-8-2360-2": {
+      "narrator_ids": [
+        6,
+        8,
+        2360,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:71:1"
+      ]
+    },
+    "8-2360": {
+      "narrator_ids": [
+        8,
+        2360
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:71:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2360",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2360.json"
+  }
+}

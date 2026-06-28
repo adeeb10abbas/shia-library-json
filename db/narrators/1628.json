@@ -1,0 +1,98 @@
+{
+  "id": 1628,
+  "type": "narrator",
+  "path": "/people/narrators/1628",
+  "titles": {
+    "ar": "مَالِكِ بْنِ أَعْيَنَ الْجُهَنِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:78:3",
+    "/books/al-kafi:2:1:95:2",
+    "/books/kitab-al-ghayba-numani:2:5:12"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "128-1628": {
+      "narrator_ids": [
+        128,
+        1628
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-numani:2:5:12"
+      ]
+    },
+    "1628-9": {
+      "narrator_ids": [
+        1628,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:78:3"
+      ]
+    },
+    "20-25-89-79-1628": {
+      "narrator_ids": [
+        20,
+        25,
+        89,
+        79,
+        1628
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:95:2"
+      ]
+    },
+    "22-132-884-2702-1628-9": {
+      "narrator_ids": [
+        22,
+        132,
+        884,
+        2702,
+        1628,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:78:3"
+      ]
+    },
+    "2702-1628": {
+      "narrator_ids": [
+        2702,
+        1628
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:78:3"
+      ]
+    },
+    "371-2-76-128-1628": {
+      "narrator_ids": [
+        371,
+        2,
+        76,
+        128,
+        1628
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-numani:2:5:12"
+      ]
+    },
+    "79-1628": {
+      "narrator_ids": [
+        79,
+        1628
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:95:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1628",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1628.json"
+  }
+}

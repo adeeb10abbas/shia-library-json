@@ -1,0 +1,53 @@
+{
+  "id": 3588,
+  "type": "narrator",
+  "path": "/people/narrators/3588",
+  "titles": {
+    "ar": "عَبْدِ اللَّهِ بْنِ طَلْحَةَ النَّهْدِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:2:31:6"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3588-669": {
+      "narrator_ids": [
+        3588,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:31:6"
+      ]
+    },
+    "4-29-88-3588-669": {
+      "narrator_ids": [
+        4,
+        29,
+        88,
+        3588,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:31:6"
+      ]
+    },
+    "88-3588": {
+      "narrator_ids": [
+        88,
+        3588
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:31:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3588",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3588.json"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": 2983,
+  "type": "narrator",
+  "path": "/people/narrators/2983",
+  "titles": {
+    "ar": "جَرَّاحِ بْنِ عَبْدِ اللَّهِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:81:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "142-2983": {
+      "narrator_ids": [
+        142,
+        2983
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:81:2"
+      ]
+    },
+    "2983-3188": {
+      "narrator_ids": [
+        2983,
+        3188
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:81:2"
+      ]
+    },
+    "35-90-8-19-275-67-1211-142-2983-3188": {
+      "narrator_ids": [
+        35,
+        90,
+        8,
+        19,
+        275,
+        67,
+        1211,
+        142,
+        2983,
+        3188
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:81:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2983",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2983.json"
+  }
+}

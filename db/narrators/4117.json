@@ -1,0 +1,54 @@
+{
+  "id": 4117,
+  "type": "narrator",
+  "path": "/people/narrators/4117",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ أَبِي الْحَكَمِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:21:3",
+    "/books/man-la-yahduruhu-al-faqih:2:3:6:25"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "506-4117": {
+      "narrator_ids": [
+        506,
+        4117
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:2:3:6:25"
+      ]
+    },
+    "6-8-39-946-4117": {
+      "narrator_ids": [
+        6,
+        8,
+        39,
+        946,
+        4117
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:21:3"
+      ]
+    },
+    "946-4117": {
+      "narrator_ids": [
+        946,
+        4117
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:21:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4117",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4117.json"
+  }
+}

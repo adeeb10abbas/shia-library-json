@@ -1,0 +1,153 @@
+{
+  "id": 1192,
+  "type": "narrator",
+  "path": "/people/narrators/1192",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ عُثْمَانَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:21:2",
+    "/books/al-kafi:3:3:91:4",
+    "/books/al-kafi:3:3:92:1",
+    "/books/kitab-al-ghayba-numani:2:4:32",
+    "/books/kitab-al-ghayba-numani:2:4:33",
+    "/books/kitab-al-ghayba-numani:2:4:34",
+    "/books/kitab-al-ghayba-numani:2:4:35",
+    "/books/kitab-al-ghayba-numani:2:4:36",
+    "/books/kitab-al-ghayba-numani:2:4:37",
+    "/books/kitab-al-ghayba-numani:2:4:38",
+    "/books/kitab-al-ghayba-tusi:25:3",
+    "/books/kitab-al-ghayba-tusi:25:4",
+    "/books/kitab-al-ghayba-tusi:25:5",
+    "/books/kitab-al-ghayba-tusi:25:6",
+    "/books/kitab-al-ghayba-tusi:25:7",
+    "/books/kitab-al-ghayba-tusi:25:8",
+    "/books/kitab-al-ghayba-tusi:25:9",
+    "/books/thawab-al-amal:2:15:1"
+  ],
+  "verseCount": 18,
+  "relations": {},
+  "subchains": {
+    "1192-14": {
+      "narrator_ids": [
+        1192,
+        14
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:91:4",
+        "/books/al-kafi:3:3:92:1"
+      ]
+    },
+    "1192-419": {
+      "narrator_ids": [
+        1192,
+        419
+      ],
+      "verse_paths": [
+        "/books/thawab-al-amal:2:15:1"
+      ]
+    },
+    "1192-4216": {
+      "narrator_ids": [
+        1192,
+        4216
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:21:2"
+      ]
+    },
+    "1338-1192": {
+      "narrator_ids": [
+        1338,
+        1192
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:21:2"
+      ]
+    },
+    "3-2-7-1192-14-669": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        1192,
+        14,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:91:4",
+        "/books/al-kafi:3:3:92:1"
+      ]
+    },
+    "318-1192": {
+      "narrator_ids": [
+        318,
+        1192
+      ],
+      "verse_paths": [
+        "/books/thawab-al-amal:2:15:1"
+      ]
+    },
+    "4-59-37-1338-1192-4216-3522": {
+      "narrator_ids": [
+        4,
+        59,
+        37,
+        1338,
+        1192,
+        4216,
+        3522
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:21:2"
+      ]
+    },
+    "4154-101-318-1192-419-526-669": {
+      "narrator_ids": [
+        4154,
+        101,
+        318,
+        1192,
+        419,
+        526,
+        669
+      ],
+      "verse_paths": [
+        "/books/thawab-al-amal:2:15:1"
+      ]
+    },
+    "4521-1192": {
+      "narrator_ids": [
+        4521,
+        1192
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:25:3",
+        "/books/kitab-al-ghayba-tusi:25:4",
+        "/books/kitab-al-ghayba-tusi:25:5",
+        "/books/kitab-al-ghayba-tusi:25:6",
+        "/books/kitab-al-ghayba-tusi:25:7",
+        "/books/kitab-al-ghayba-tusi:25:8",
+        "/books/kitab-al-ghayba-tusi:25:9"
+      ]
+    },
+    "7-1192": {
+      "narrator_ids": [
+        7,
+        1192
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:91:4",
+        "/books/al-kafi:3:3:92:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1192",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1192.json"
+  }
+}

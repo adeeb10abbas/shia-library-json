@@ -1,0 +1,54 @@
+{
+  "id": 2388,
+  "type": "narrator",
+  "path": "/people/narrators/2388",
+  "titles": {
+    "ar": "آدَمَ أَبِي الْحُسَيْنِ اللُّؤْلُؤِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:99:18"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1695-2388": {
+      "narrator_ids": [
+        1695,
+        2388
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:99:18"
+      ]
+    },
+    "2388-669": {
+      "narrator_ids": [
+        2388,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:99:18"
+      ]
+    },
+    "6-12-119-1695-2388-669": {
+      "narrator_ids": [
+        6,
+        12,
+        119,
+        1695,
+        2388,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:99:18"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2388",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2388.json"
+  }
+}

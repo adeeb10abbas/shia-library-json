@@ -1,0 +1,57 @@
+{
+  "id": 3236,
+  "type": "narrator",
+  "path": "/people/narrators/3236",
+  "titles": {
+    "ar": "رَجُلٍ يُسَمَّى سَوَادَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:184:3",
+    "/books/tahdhib-al-ahkam:5:16:40"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "6-5-63-3236": {
+      "narrator_ids": [
+        6,
+        5,
+        63,
+        3236
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:184:3"
+      ]
+    },
+    "63-3236": {
+      "narrator_ids": [
+        63,
+        3236
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:184:3",
+        "/books/tahdhib-al-ahkam:5:16:40"
+      ]
+    },
+    "952-6-5-63-3236": {
+      "narrator_ids": [
+        952,
+        6,
+        5,
+        63,
+        3236
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:16:40"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3236",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3236.json"
+  }
+}

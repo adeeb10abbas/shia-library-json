@@ -1,0 +1,98 @@
+{
+  "id": 945,
+  "type": "narrator",
+  "path": "/people/narrators/945",
+  "titles": {
+    "ar": "فَيْضِ بْنِ الْمُخْتَارِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:71:9",
+    "/books/al-kafi:4:1:38:5",
+    "/books/al-kafi:8:1:50:18"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "143-945": {
+      "narrator_ids": [
+        143,
+        945
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:50:18"
+      ]
+    },
+    "202-945": {
+      "narrator_ids": [
+        202,
+        945
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:71:9"
+      ]
+    },
+    "3-157-143-945": {
+      "narrator_ids": [
+        3,
+        157,
+        143,
+        945
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:50:18"
+      ]
+    },
+    "4-97-24-482-202-945": {
+      "narrator_ids": [
+        4,
+        97,
+        24,
+        482,
+        202,
+        945
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:71:9"
+      ]
+    },
+    "5-67-763-80-945-669": {
+      "narrator_ids": [
+        5,
+        67,
+        763,
+        80,
+        945,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:38:5"
+      ]
+    },
+    "80-945": {
+      "narrator_ids": [
+        80,
+        945
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:38:5"
+      ]
+    },
+    "945-669": {
+      "narrator_ids": [
+        945,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:38:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/945",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/945.json"
+  }
+}

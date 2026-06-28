@@ -1,0 +1,87 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "maani-al-akhbar",
+  "chapterPath": "/books/maani-al-akhbar:422",
+  "chapter": {
+    "path": "/books/maani-al-akhbar:422",
+    "titles": {
+      "en": "The meaning of fear and covet"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "maani-al-akhbar:422:1",
+      "type": "hadith",
+      "book": {
+        "slug": "maani-al-akhbar",
+        "titles": {
+          "ar": "معاني الأخبار",
+          "en": "Ma'ani al-Akhbar"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/maani-al-akhbar:422:1",
+        "parts": [
+          422,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 422,
+        "book": 1
+      },
+      "chapter": {
+        "path": "/books/maani-al-akhbar:422",
+        "titles": {
+          "en": "The meaning of fear and covet"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": أخبرنا أحمد بن محمد بن سعيد الهمداني، قال: حدثنا علي بن الحسن بن فضال، عن أبيه قال: قال الرضا عليه السلام في قول الله عز وجل: \" هو الذي يريكم البرق خوفا وطمعا \" قال: خوفا للمسافر، و طمعا للمقيم."
+        ],
+        "text": ": أخبرنا أحمد بن محمد بن سعيد الهمداني، قال: حدثنا علي بن الحسن بن فضال، عن أبيه قال: قال الرضا عليه السلام في قول الله عز وجل: \" هو الذي يريكم البرق خوفا وطمعا \" قال: خوفا للمسافر، و طمعا للمقيم."
+      },
+      "translations": {
+        "en.basel-kadem": {
+          "segments": [
+            "1.\tWe were told by Muhammed bin Ibrahim bin Ishaq, may Allah be pleased with him, that he said: We were informed by Ahmad bin Sa’eed al-Hamdani, that he said: We were told by Ali bin Hasan bin Faddal, from his father, that he said: Al-Rida, peace be upon him, said with regards to the saying of Allah, Exalted and Glorious is He: «He is the One who shows you the lightning, out of fear and covet» <a href=\"/books/quran:13#h12\">[13:12]</a>. He said: Out of fear for the traveler, and out of covet for the lodging."
+          ],
+          "text": "1.\tWe were told by Muhammed bin Ibrahim bin Ishaq, may Allah be pleased with him, that he said: We were informed by Ahmad bin Sa’eed al-Hamdani, that he said: We were told by Ali bin Hasan bin Faddal, from his father, that he said: Al-Rida, peace be upon him, said with regards to the saying of Allah, Exalted and Glorious is He: «He is the One who shows you the lightning, out of fear and covet» <a href=\"/books/quran:13#h12\">[13:12]</a>. He said: Out of fear for the traveler, and out of covet for the lodging."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "حدثنا محمد بن إبراهيم بن إسحاق - رضي الله عنه - قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "حدثنا "
+          },
+          {
+            "kind": "plain",
+            "text": "محمد بن إبراهيم بن إسحاق - رضي الله عنه - قال"
+          }
+        ],
+        "narratorPaths": []
+      },
+      "relations": {
+        "Mentions": [
+          "/books/quran:13:12"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/maani-al-akhbar:422:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/maani-al-akhbar/422/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/28/1/424/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

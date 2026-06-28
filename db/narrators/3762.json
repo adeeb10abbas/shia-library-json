@@ -1,0 +1,54 @@
+{
+  "id": 3762,
+  "type": "narrator",
+  "path": "/people/narrators/3762",
+  "titles": {
+    "ar": "عَلِيِّ بْنِ الْقَاسِمِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:3:188:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-2-3762-208-1355-833": {
+      "narrator_ids": [
+        11,
+        2,
+        3762,
+        208,
+        1355,
+        833
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:188:4"
+      ]
+    },
+    "2-3762": {
+      "narrator_ids": [
+        2,
+        3762
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:188:4"
+      ]
+    },
+    "3762-208": {
+      "narrator_ids": [
+        3762,
+        208
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:188:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3762",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3762.json"
+  }
+}

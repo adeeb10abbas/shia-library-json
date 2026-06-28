@@ -1,0 +1,119 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "mujam-al-ahadith-al-mutabara",
+  "chapterPath": "/books/mujam-al-ahadith-al-mutabara:3:25",
+  "chapter": {
+    "path": "/books/mujam-al-ahadith-al-mutabara:3:25",
+    "titles": {
+      "en": "Hamza b. Bazi`"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "mujam-al-ahadith-al-mutabara:3:25:1",
+      "type": "hadith",
+      "book": {
+        "slug": "mujam-al-ahadith-al-mutabara",
+        "titles": {
+          "ar": "معجم الأحاديث المعتبرة",
+          "en": "Mu'jam al-Ahadith al-Mu'tabara"
+        },
+        "author": {
+          "en": "Muhammad Asif al-Muhsini"
+        }
+      },
+      "path": {
+        "source": "/books/mujam-al-ahadith-al-mutabara:3:25:1",
+        "parts": [
+          3,
+          25,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 25,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/mujam-al-ahadith-al-mutabara:3:25",
+        "titles": {
+          "en": "Hamza b. Bazi`"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": قال الرضا عليه السلام: ما فعل الشقي حمزة بن بزيع؟ قلت: هو ذا قد قدم، فقال عليه السلام: يزعم أن أبي حي؟! هم اليوم شكاك ولا يموتون غدا إلا على الزندقة …"
+        ],
+        "text": ": قال الرضا عليه السلام: ما فعل الشقي حمزة بن بزيع؟ قلت: هو ذا قد قدم، فقال عليه السلام: يزعم أن أبي حي؟! هم اليوم شكاك ولا يموتون غدا إلا على الزندقة …"
+      },
+      "translations": {
+        "en.ammaar-muslim": {
+          "segments": [
+            "1. [1/151] Ghayba of al-Tusi: Ahmad b. Muhammad b. Yahya from his father from Muhammad b. al-Husayn b. Abi al-Khattab from Safwan b. Yahya from Ibrahim b. Yahya b. Abi al-Bilad who said: al-Ridha عليه السلام said: what’s happened to the wretched Hamza b. Bazi`? I said: he is here – come to see you, so he عليه السلام said: he claims that my father is alive?! today they are doubters but tomorrow they won’t die except upon heresy [other than islam] …"
+          ],
+          "text": "1. [1/151] Ghayba of al-Tusi: Ahmad b. Muhammad b. Yahya from his father from Muhammad b. al-Husayn b. Abi al-Khattab from Safwan b. Yahya from Ibrahim b. Yahya b. Abi al-Bilad who said: al-Ridha عليه السلام said: what’s happened to the wretched Hamza b. Bazi`? I said: he is here – come to see you, so he عليه السلام said: he claims that my father is alive?! today they are doubters but tomorrow they won’t die except upon heresy [other than islam] …"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "[1/151] غيبة الطوسي: أحمد بن محمد بن يحيى، عن أبيه، عن محمد بن الحسين ابن أبي الخطاب، عن صفوان بن يحيى، عن إبراهيم بن يحيى بن أبي البلاد قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "[1/151] غيبة الطوسي: أحمد بن محمد بن يحيى،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبيه،",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "محمد بن الحسين ابن أبي الخطاب،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "صفوان بن يحيى،",
+            "path": "/people/narrators/30"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "إبراهيم بن يحيى بن أبي البلاد قال",
+            "path": "/people/narrators/1846"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/2",
+          "/people/narrators/30",
+          "/people/narrators/1846"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/mujam-al-ahadith-al-mutabara:3:25:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/mujam-al-ahadith-al-mutabara/3/25/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/9/3/26/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

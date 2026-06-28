@@ -1,0 +1,42 @@
+{
+  "id": 3202,
+  "type": "narrator",
+  "path": "/people/narrators/3202",
+  "titles": {
+    "ar": "رَجُلٍ رَأَى أَبَا الْحَسَنِ ( عليه السلام ) بِخُرَاسَانَ يَأْكُلُ الْكُرَّاثَ مِنَ الْبُسْتَانِ كَمَا هُوَ فَقِيلَ لَهُ إِنَّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:114:6"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-3159-3202": {
+      "narrator_ids": [
+        11,
+        3159,
+        3202
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:114:6"
+      ]
+    },
+    "3159-3202": {
+      "narrator_ids": [
+        3159,
+        3202
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:114:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3202",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3202.json"
+  }
+}

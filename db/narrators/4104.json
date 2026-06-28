@@ -1,0 +1,54 @@
+{
+  "id": 4104,
+  "type": "narrator",
+  "path": "/people/narrators/4104",
+  "titles": {
+    "ar": "مُحَمَّدٍ الْجُعْفِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:2:52:11"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3-2-7-4104-2-669": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        4104,
+        2,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:52:11"
+      ]
+    },
+    "4104-2": {
+      "narrator_ids": [
+        4104,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:52:11"
+      ]
+    },
+    "7-4104": {
+      "narrator_ids": [
+        7,
+        4104
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:52:11"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4104",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4104.json"
+  }
+}

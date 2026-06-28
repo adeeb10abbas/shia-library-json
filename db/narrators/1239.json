@@ -1,0 +1,80 @@
+{
+  "id": 1239,
+  "type": "narrator",
+  "path": "/people/narrators/1239",
+  "titles": {
+    "ar": "أَبِي أَحْمَدَ بْنِ رَاشِدٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:124:5",
+    "/books/al-kafi:1:4:77:15"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "1239-2917": {
+      "narrator_ids": [
+        1239,
+        2917
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:77:15"
+      ]
+    },
+    "1239-401": {
+      "narrator_ids": [
+        1239,
+        401
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:124:5"
+      ]
+    },
+    "35-1239": {
+      "narrator_ids": [
+        35,
+        1239
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:77:15"
+      ]
+    },
+    "35-1239-2917": {
+      "narrator_ids": [
+        35,
+        1239,
+        2917
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:77:15"
+      ]
+    },
+    "50-1239": {
+      "narrator_ids": [
+        50,
+        1239
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:124:5"
+      ]
+    },
+    "50-1239-401": {
+      "narrator_ids": [
+        50,
+        1239,
+        401
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:124:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1239",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1239.json"
+  }
+}

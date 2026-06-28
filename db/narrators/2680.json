@@ -1,0 +1,59 @@
+{
+  "id": 2680,
+  "type": "narrator",
+  "path": "/people/narrators/2680",
+  "titles": {
+    "ar": "الرَّبِيعِ بْنِ خُثَيْمٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:136:1",
+    "/books/tahdhib-al-ahkam:5:9:68"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "4-5-17-73-2680": {
+      "narrator_ids": [
+        4,
+        5,
+        17,
+        73,
+        2680
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:136:1"
+      ]
+    },
+    "73-2680": {
+      "narrator_ids": [
+        73,
+        2680
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:136:1",
+        "/books/tahdhib-al-ahkam:5:9:68"
+      ]
+    },
+    "952-4-5-17-73-2680": {
+      "narrator_ids": [
+        952,
+        4,
+        5,
+        17,
+        73,
+        2680
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:9:68"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2680",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2680.json"
+  }
+}

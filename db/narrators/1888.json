@@ -1,0 +1,43 @@
+{
+  "id": 1888,
+  "type": "narrator",
+  "path": "/people/narrators/1888",
+  "titles": {
+    "ar": "ابْنِ شُبْرُمَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:2:11:9"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "26-1888": {
+      "narrator_ids": [
+        26,
+        1888
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:2:11:9"
+      ]
+    },
+    "3-27-26-1888": {
+      "narrator_ids": [
+        3,
+        27,
+        26,
+        1888
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:2:11:9"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1888",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1888.json"
+  }
+}

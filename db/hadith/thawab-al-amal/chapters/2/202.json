@@ -1,0 +1,116 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "thawab-al-amal",
+  "chapterPath": "/books/thawab-al-amal:2:202",
+  "chapter": {
+    "path": "/books/thawab-al-amal:2:202",
+    "titles": {
+      "en": "Reward of reciting Surah Ha Mim Momin"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "thawab-al-amal:2:202:1",
+      "type": "hadith",
+      "book": {
+        "slug": "thawab-al-amal",
+        "titles": {
+          "ar": "ثواب الأعمال وعقاب الأعمال",
+          "en": "Thawab al-A'mal wa 'Iqab al-A'mal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/thawab-al-amal:2:202:1",
+        "parts": [
+          2,
+          202,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 202,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/thawab-al-amal:2:202",
+        "titles": {
+          "en": "Reward of reciting Surah Ha Mim Momin"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": مَنْ قَرَأَ حم الْمُؤْمِنَ فِی کُلِّ لَیْلَهٍ غَفَرَ اللَّهُ لَهُ مَا تَقَدَّمَ مِنْ ذَنْبِهِ وَ مَا تَأَخَّرَ وَ أَلْزَمَهُ کَلِمَهَ التَّقْوی وَ جَعَلَ الْآخِرَهَ خَیْراً لَهُ مِنَ الدُّنْیَا."
+        ],
+        "text": ": مَنْ قَرَأَ حم الْمُؤْمِنَ فِی کُلِّ لَیْلَهٍ غَفَرَ اللَّهُ لَهُ مَا تَقَدَّمَ مِنْ ذَنْبِهِ وَ مَا تَأَخَّرَ وَ أَلْزَمَهُ کَلِمَهَ التَّقْوی وَ جَعَلَ الْآخِرَهَ خَیْراً لَهُ مِنَ الدُّنْیَا."
+      },
+      "translations": {
+        "en.sayed-athar-husain-rizvi-&-sayed-maqsood-athar": {
+          "segments": [
+            "1. From the previous chain from al-Hassan b. Jawrawayh b. Abi al-’Ala from Abi al-Sabah from Abi Ja’far (a.s.) who said: “One who recites Ha Mim Momin every night, Allah forgives him all his past and future sins and makes compulsory for him the word of piety (that is he would be inclined to it) and makes the hereafter for him better than the world.”"
+          ],
+          "text": "1. From the previous chain from al-Hassan b. Jawrawayh b. Abi al-’Ala from Abi al-Sabah from Abi Ja’far (a.s.) who said: “One who recites Ha Mim Momin every night, Allah forgives him all his past and future sins and makes compulsory for him the word of piety (that is he would be inclined to it) and makes the hereafter for him better than the world.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "بِهَذَا الْإِسْنَادِ عَنِ الْحَسَنِ بْنِ جُوَیْرِیَهَ بْنِ أَبِی الْعَلَاءِ عَنْ أَبِی الصَّبَّاحِ عَنْ أَبِی جَعْفَرٍ ع قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "بِهَذَا الْإِسْنَادِ",
+            "path": "/people/narrators/77"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "plain",
+            "text": "الْحَسَنِ بْنِ جُوَیْرِیَهَ بْنِ أَبِی الْعَلَاءِ"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِی الصَّبَّاحِ",
+            "path": "/people/narrators/365"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِی جَعْفَرٍ ع",
+            "path": "/people/narrators/9"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/77",
+          "/people/narrators/365",
+          "/people/narrators/9"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/thawab-al-amal:2:202:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/thawab-al-amal/2/202/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/23/2/202/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

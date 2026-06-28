@@ -1,0 +1,86 @@
+{
+  "id": 2647,
+  "type": "narrator",
+  "path": "/people/narrators/2647",
+  "titles": {
+    "ar": "الْحُسَيْنِ بْنِ مُصْعَبٍ"
+  },
+  "versePaths": [
+    "/books/al-amali-mufid:23:10:1",
+    "/books/al-kafi:8:1:43:62"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "1657-2647": {
+      "narrator_ids": [
+        1657,
+        2647
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:62"
+      ]
+    },
+    "2647-354": {
+      "narrator_ids": [
+        2647,
+        354
+      ],
+      "verse_paths": [
+        "/books/al-amali-mufid:23:10:1"
+      ]
+    },
+    "2647-669": {
+      "narrator_ids": [
+        2647,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:62"
+      ]
+    },
+    "4-13-63-43-1657-2647-669": {
+      "narrator_ids": [
+        4,
+        13,
+        63,
+        43,
+        1657,
+        2647,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:62"
+      ]
+    },
+    "42-2647": {
+      "narrator_ids": [
+        42,
+        2647
+      ],
+      "verse_paths": [
+        "/books/al-amali-mufid:23:10:1"
+      ]
+    },
+    "81-53-42-2647-354": {
+      "narrator_ids": [
+        81,
+        53,
+        42,
+        2647,
+        354
+      ],
+      "verse_paths": [
+        "/books/al-amali-mufid:23:10:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2647",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2647.json"
+  }
+}

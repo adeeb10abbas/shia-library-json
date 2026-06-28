@@ -1,0 +1,78 @@
+{
+  "id": 2168,
+  "type": "narrator",
+  "path": "/people/narrators/2168",
+  "titles": {
+    "ar": "أَبِي عِصْمَةَ قَاضِي مَرْوَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:1:28:1",
+    "/books/tahdhib-al-ahkam:6:79:16"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "12-36-2168-72-9": {
+      "narrator_ids": [
+        12,
+        36,
+        2168,
+        72,
+        9
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:79:16"
+      ]
+    },
+    "2168-72": {
+      "narrator_ids": [
+        2168,
+        72
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:1:28:1",
+        "/books/tahdhib-al-ahkam:6:79:16"
+      ]
+    },
+    "2884-2168": {
+      "narrator_ids": [
+        2884,
+        2168
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:1:28:1"
+      ]
+    },
+    "36-2168": {
+      "narrator_ids": [
+        36,
+        2168
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:79:16"
+      ]
+    },
+    "6-12-36-2884-2168-72-9": {
+      "narrator_ids": [
+        6,
+        12,
+        36,
+        2884,
+        2168,
+        72,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:1:28:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2168",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2168.json"
+  }
+}

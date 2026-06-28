@@ -1,0 +1,55 @@
+{
+  "id": 2779,
+  "type": "narrator",
+  "path": "/people/narrators/2779",
+  "titles": {
+    "ar": "الْقَاسِمِ بْنِ مُحَمَّدٍ]"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:29:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2775-2779": {
+      "narrator_ids": [
+        2775,
+        2779
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:29:3"
+      ]
+    },
+    "2779-325": {
+      "narrator_ids": [
+        2779,
+        325
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:29:3"
+      ]
+    },
+    "3-2-2775-2779-325-286-669": {
+      "narrator_ids": [
+        3,
+        2,
+        2775,
+        2779,
+        325,
+        286,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:29:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2779",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2779.json"
+  }
+}

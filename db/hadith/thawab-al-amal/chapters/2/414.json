@@ -1,0 +1,116 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "thawab-al-amal",
+  "chapterPath": "/books/thawab-al-amal:2:414",
+  "chapter": {
+    "path": "/books/thawab-al-amal:2:414",
+    "titles": {
+      "en": "Reward of enjoying water"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "thawab-al-amal:2:414:1",
+      "type": "hadith",
+      "book": {
+        "slug": "thawab-al-amal",
+        "titles": {
+          "ar": "ثواب الأعمال وعقاب الأعمال",
+          "en": "Thawab al-A'mal wa 'Iqab al-A'mal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/thawab-al-amal:2:414:1",
+        "parts": [
+          2,
+          414,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 414,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/thawab-al-amal:2:414",
+        "titles": {
+          "en": "Reward of enjoying water"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": مَنْ تَلَذَّذَ بِالْمَاءِ فِی الدُّنْیَا لَذَّذَهُ اللَّهُ مِنْ أَشْرِبَهِ الْجَنَّهِ."
+        ],
+        "text": ": مَنْ تَلَذَّذَ بِالْمَاءِ فِی الدُّنْیَا لَذَّذَهُ اللَّهُ مِنْ أَشْرِبَهِ الْجَنَّهِ."
+      },
+      "translations": {
+        "en.sayed-athar-husain-rizvi-&-sayed-maqsood-athar": {
+          "segments": [
+            "1. Abi (rah) from Sa’d b. Abdillah from Ya’qub b. Yazid from Ibn Fadhal who raised it to Abi Abdillah (a.s.) who said: “One who enjoys tasting water in the world, Allah will make him enjoy pure wine in Paradise.”"
+          ],
+          "text": "1. Abi (rah) from Sa’d b. Abdillah from Ya’qub b. Yazid from Ibn Fadhal who raised it to Abi Abdillah (a.s.) who said: “One who enjoys tasting water in the world, Allah will make him enjoy pure wine in Paradise.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "أَبِی ره عَنْ سَعْدِ بْنِ عَبْدِ اللَّهِ عَنْ یَعْقُوبَ بْنِ یَزِیدَ عَنِ ابْنِ فَضَّالٍ یَرْفَعُهُ إِلَی أَبِی عَبْدِ اللَّهِ ع قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "أَبِی ره",
+            "path": "/people/narrators/613"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَعْدِ بْنِ عَبْدِ اللَّهِ",
+            "path": "/people/narrators/355"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "یَعْقُوبَ بْنِ یَزِیدَ",
+            "path": "/people/narrators/101"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "plain",
+            "text": "ابْنِ فَضَّالٍ یَرْفَعُهُ إِلَی أَبِی عَبْدِ اللَّهِ ع"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613",
+          "/people/narrators/355",
+          "/people/narrators/101"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/thawab-al-amal:2:414:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/thawab-al-amal/2/414/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/23/2/415/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

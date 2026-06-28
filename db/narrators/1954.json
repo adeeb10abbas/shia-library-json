@@ -1,0 +1,55 @@
+{
+  "id": 1954,
+  "type": "narrator",
+  "path": "/people/narrators/1954",
+  "titles": {
+    "ar": "أَبِي إِسْمَاعِيلَ السَّرَّاجِ عَبْدِ اللَّهِ بْنِ عُثْمَانَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:1:5:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "17-1954": {
+      "narrator_ids": [
+        17,
+        1954
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:1:5:3"
+      ]
+    },
+    "1954-4037": {
+      "narrator_ids": [
+        1954,
+        4037
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:1:5:3"
+      ]
+    },
+    "4-5-17-1954-4037-36-669": {
+      "narrator_ids": [
+        4,
+        5,
+        17,
+        1954,
+        4037,
+        36,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:1:5:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1954",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1954.json"
+  }
+}

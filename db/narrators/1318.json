@@ -1,0 +1,91 @@
+{
+  "id": 1318,
+  "type": "narrator",
+  "path": "/people/narrators/1318",
+  "titles": {
+    "ar": "إِسْمَاعِيلَ بْنِ أَبِي قُرَّةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:109:17",
+    "/books/al-kafi:5:2:22:1",
+    "/books/tahdhib-al-ahkam:7:15:34"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "1318-14": {
+      "narrator_ids": [
+        1318,
+        14
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:109:17",
+        "/books/al-kafi:5:2:22:1",
+        "/books/tahdhib-al-ahkam:7:15:34"
+      ]
+    },
+    "19-24-37-223-1318-14": {
+      "narrator_ids": [
+        19,
+        24,
+        37,
+        223,
+        1318,
+        14
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:22:1"
+      ]
+    },
+    "223-1318": {
+      "narrator_ids": [
+        223,
+        1318
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:109:17",
+        "/books/al-kafi:5:2:22:1",
+        "/books/tahdhib-al-ahkam:7:15:34"
+      ]
+    },
+    "4-36-248-261-548-223-1318-14-669": {
+      "narrator_ids": [
+        4,
+        36,
+        248,
+        261,
+        548,
+        223,
+        1318,
+        14,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:109:17"
+      ]
+    },
+    "4134-669-248-548-223-1318-14-669": {
+      "narrator_ids": [
+        4134,
+        669,
+        248,
+        548,
+        223,
+        1318,
+        14,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:15:34"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1318",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1318.json"
+  }
+}

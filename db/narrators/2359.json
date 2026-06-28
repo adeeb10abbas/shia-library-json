@@ -1,0 +1,55 @@
+{
+  "id": 2359,
+  "type": "narrator",
+  "path": "/people/narrators/2359",
+  "titles": {
+    "ar": "أَحْمَدَ بْنِ هَارُونَ"
+  },
+  "versePaths": [
+    "/books/al-amali-saduq:11:8",
+    "/books/al-kafi:6:6:111:1"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "2359-4457": {
+      "narrator_ids": [
+        2359,
+        4457
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:111:1"
+      ]
+    },
+    "6-8-2359-4457-2-253": {
+      "narrator_ids": [
+        6,
+        8,
+        2359,
+        4457,
+        2,
+        253
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:111:1"
+      ]
+    },
+    "8-2359": {
+      "narrator_ids": [
+        8,
+        2359
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:111:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2359",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2359.json"
+  }
+}

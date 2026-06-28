@@ -1,0 +1,54 @@
+{
+  "id": 2977,
+  "type": "narrator",
+  "path": "/people/narrators/2977",
+  "titles": {
+    "ar": "جَدِّهِ سُفْيَانَ بْنِ السِّمْطِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:112:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-5-15-3131-2977-669": {
+      "narrator_ids": [
+        11,
+        5,
+        15,
+        3131,
+        2977,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:112:2"
+      ]
+    },
+    "2977-669": {
+      "narrator_ids": [
+        2977,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:112:2"
+      ]
+    },
+    "3131-2977": {
+      "narrator_ids": [
+        3131,
+        2977
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:112:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2977",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2977.json"
+  }
+}

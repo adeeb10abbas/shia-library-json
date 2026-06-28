@@ -1,0 +1,229 @@
+{
+  "id": 985,
+  "type": "narrator",
+  "path": "/people/narrators/985",
+  "titles": {
+    "ar": "أَبِي السَّفَاتِجِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:108:33",
+    "/books/al-kafi:1:4:108:68",
+    "/books/al-kafi:2:1:40:3",
+    "/books/kitab-al-ghayba-tusi:26:4",
+    "/books/maani-al-akhbar:427:5",
+    "/books/man-la-yahduruhu-al-faqih:4:19:22",
+    "/books/tahdhib-al-ahkam:10:11:37",
+    "/books/uyun-akhbar-al-rida:1:2:6:5"
+  ],
+  "verseCount": 8,
+  "relations": {},
+  "subchains": {
+    "11-2-320-198-985-485-9-1065": {
+      "narrator_ids": [
+        11,
+        2,
+        320,
+        198,
+        985,
+        485,
+        9,
+        1065
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:26:4"
+      ]
+    },
+    "124-985": {
+      "narrator_ids": [
+        124,
+        985
+      ],
+      "verse_paths": [
+        "/books/uyun-akhbar-al-rida:1:2:6:5"
+      ]
+    },
+    "198-985": {
+      "narrator_ids": [
+        198,
+        985
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:26:4"
+      ]
+    },
+    "2-245-702-198-124-985-771": {
+      "narrator_ids": [
+        2,
+        245,
+        702,
+        198,
+        124,
+        985,
+        771
+      ],
+      "verse_paths": [
+        "/books/uyun-akhbar-al-rida:1:2:6:5"
+      ]
+    },
+    "2-985": {
+      "narrator_ids": [
+        2,
+        985
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:108:33"
+      ]
+    },
+    "20-25-227-527-218-985-18-9": {
+      "narrator_ids": [
+        20,
+        25,
+        227,
+        527,
+        218,
+        985,
+        18,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:108:68"
+      ]
+    },
+    "20-25-5-1905-2-985-14-669": {
+      "narrator_ids": [
+        20,
+        25,
+        5,
+        1905,
+        2,
+        985,
+        14,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:108:33"
+      ]
+    },
+    "21-38-985-669": {
+      "narrator_ids": [
+        21,
+        38,
+        985,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:10:11:37"
+      ]
+    },
+    "218-985": {
+      "narrator_ids": [
+        218,
+        985
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:108:68"
+      ]
+    },
+    "38-985": {
+      "narrator_ids": [
+        38,
+        985
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:40:3",
+        "/books/maani-al-akhbar:427:5",
+        "/books/man-la-yahduruhu-al-faqih:4:19:22",
+        "/books/tahdhib-al-ahkam:10:11:37"
+      ]
+    },
+    "38-985-669": {
+      "narrator_ids": [
+        38,
+        985,
+        669
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:4:19:22"
+      ]
+    },
+    "4521-21-38-985": {
+      "narrator_ids": [
+        4521,
+        21,
+        38,
+        985
+      ],
+      "verse_paths": [
+        "/books/maani-al-akhbar:427:5"
+      ]
+    },
+    "6-8-185-38-985-669": {
+      "narrator_ids": [
+        6,
+        8,
+        185,
+        38,
+        985,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:40:3"
+      ]
+    },
+    "985-14": {
+      "narrator_ids": [
+        985,
+        14
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:108:33"
+      ]
+    },
+    "985-18": {
+      "narrator_ids": [
+        985,
+        18
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:108:68"
+      ]
+    },
+    "985-485": {
+      "narrator_ids": [
+        985,
+        485
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:26:4"
+      ]
+    },
+    "985-669": {
+      "narrator_ids": [
+        985,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:40:3",
+        "/books/man-la-yahduruhu-al-faqih:4:19:22",
+        "/books/tahdhib-al-ahkam:10:11:37"
+      ]
+    },
+    "985-771": {
+      "narrator_ids": [
+        985,
+        771
+      ],
+      "verse_paths": [
+        "/books/uyun-akhbar-al-rida:1:2:6:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/985",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/985.json"
+  }
+}

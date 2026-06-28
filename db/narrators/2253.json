@@ -1,0 +1,52 @@
+{
+  "id": 2253,
+  "type": "narrator",
+  "path": "/people/narrators/2253",
+  "titles": {
+    "ar": "أَبِيهِ وَمُحَمَّدُ بْنُ يَحْيَى"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:1:22:16"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2253-173": {
+      "narrator_ids": [
+        2253,
+        173
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:1:22:16"
+      ]
+    },
+    "3-2253": {
+      "narrator_ids": [
+        3,
+        2253
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:1:22:16"
+      ]
+    },
+    "3-2253-173-669": {
+      "narrator_ids": [
+        3,
+        2253,
+        173,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:1:22:16"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2253",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2253.json"
+  }
+}

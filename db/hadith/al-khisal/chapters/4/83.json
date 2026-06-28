@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:4:83",
+  "chapter": {
+    "path": "/books/al-khisal:4:83",
+    "titles": {
+      "en": "All the Nation but Three Can Hope to Be Saved"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:4:83:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:4:83:1",
+        "parts": [
+          4,
+          83,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 83,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:4:83",
+        "titles": {
+          "en": "All the Nation but Three Can Hope to Be Saved"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا سعد بن عبد الله، عن القاسم ابن محمد الاصفهاني، عن سليمان بن داود المنقري، عن حفص بن غياث النخعي، عن جعفر ابن محمد عليهما السلام قال: إني لارجو النجاة لهذه الامة لمن عرف حقنا منهم إلا لاحد ثلاثة: صاحب سلطان جائر، وصاحب هوى، والفاسق المعلن"
+        ],
+        "text": ": حدثنا سعد بن عبد الله، عن القاسم ابن محمد الاصفهاني، عن سليمان بن داود المنقري، عن حفص بن غياث النخعي، عن جعفر ابن محمد عليهما السلام قال: إني لارجو النجاة لهذه الامة لمن عرف حقنا منهم إلا لاحد ثلاثة: صاحب سلطان جائر، وصاحب هوى، والفاسق المعلن"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "3-107 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Sa’ed ibn Abdullah quoted Al-Qasim ibn Muhammad al-Isfahani, on the authority of Suleiman ibn Davood al-Minqari, on the authority of Hafs ibn Qiyath al-Nakha’ee that Ja’far ibn Muhammad as-Sadiq (MGB) said, “Anyone in this nation who has recognized our right can hope to be saved but three: one who helps the oppressive King; one who follows his selfish desires; and one who engages in corrupt deeds in public.”"
+          ],
+          "text": "3-107 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Sa’ed ibn Abdullah quoted Al-Qasim ibn Muhammad al-Isfahani, on the authority of Suleiman ibn Davood al-Minqari, on the authority of Hafs ibn Qiyath al-Nakha’ee that Ja’far ibn Muhammad as-Sadiq (MGB) said, “Anyone in this nation who has recognized our right can hope to be saved but three: one who helps the oppressive King; one who follows his selfish desires; and one who engages in corrupt deeds in public.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "3-107 حدثنا أبي رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "3-107 حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي رضي الله عنه قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:4:83:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/4/83/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/4/83/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

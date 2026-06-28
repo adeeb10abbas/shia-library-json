@@ -1,0 +1,53 @@
+{
+  "id": 3435,
+  "type": "narrator",
+  "path": "/people/narrators/3435",
+  "titles": {
+    "ar": "صَدَقَةَ الْأَحْدَبِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:83:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-257-530-3435-669": {
+      "narrator_ids": [
+        11,
+        257,
+        530,
+        3435,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:83:3"
+      ]
+    },
+    "3435-669": {
+      "narrator_ids": [
+        3435,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:83:3"
+      ]
+    },
+    "530-3435": {
+      "narrator_ids": [
+        530,
+        3435
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:83:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3435",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3435.json"
+  }
+}

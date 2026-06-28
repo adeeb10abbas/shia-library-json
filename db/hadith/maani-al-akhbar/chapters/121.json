@@ -1,0 +1,82 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "maani-al-akhbar",
+  "chapterPath": "/books/maani-al-akhbar:121",
+  "chapter": {
+    "path": "/books/maani-al-akhbar:121",
+    "titles": {
+      "en": "The meaning of Al-Khaba'a by which Allah has not been worshipped with anything more beloved than it"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "maani-al-akhbar:121:1",
+      "type": "hadith",
+      "book": {
+        "slug": "maani-al-akhbar",
+        "titles": {
+          "ar": "معاني الأخبار",
+          "en": "Ma'ani al-Akhbar"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/maani-al-akhbar:121:1",
+        "parts": [
+          121,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 121,
+        "book": 1
+      },
+      "chapter": {
+        "path": "/books/maani-al-akhbar:121",
+        "titles": {
+          "en": "The meaning of Al-Khaba'a by which Allah has not been worshipped with anything more beloved than it"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا علي بن بن إبراهيم، عن محمد بن عيسى، عن يونس ابن عبد الرحمن، عن هشام بن سالم، قال: سمعت أبا عبد الله عليه السلام يقول: ما عبد الله بشئ أحب إليه من الخبء. قلت: وما الخبء؟ قال: التقية."
+        ],
+        "text": ": حدثنا علي بن بن إبراهيم، عن محمد بن عيسى، عن يونس ابن عبد الرحمن، عن هشام بن سالم، قال: سمعت أبا عبد الله عليه السلام يقول: ما عبد الله بشئ أحب إليه من الخبء. قلت: وما الخبء؟ قال: التقية."
+      },
+      "translations": {
+        "en.basel-kadem": {
+          "segments": [
+            "1.\tMy father, may Allah grant him mercy, said: We were told by Ali bin Ibrahim, from Muhammed bin Isa, from Yunus ibn Abdil-Rahman, from Hisham bin Salem, that he said: I heard Abu Abdillah, peace be upon him, say: Allah has not been worshipped with anything more beloved to him than Al-Khaba'a. I said: And what is Al-Khaba'a? He said: Taqiya."
+          ],
+          "text": "1.\tMy father, may Allah grant him mercy, said: We were told by Ali bin Ibrahim, from Muhammed bin Isa, from Yunus ibn Abdil-Rahman, from Hisham bin Salem, that he said: I heard Abu Abdillah, peace be upon him, say: Allah has not been worshipped with anything more beloved to him than Al-Khaba'a. I said: And what is Al-Khaba'a? He said: Taqiya."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "أبي - رحمه الله - قال",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "أبي - رحمه الله - قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/maani-al-akhbar:121:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/maani-al-akhbar/121/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/28/1/121/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

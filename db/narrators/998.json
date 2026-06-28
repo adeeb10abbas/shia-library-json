@@ -1,0 +1,99 @@
+{
+  "id": 998,
+  "type": "narrator",
+  "path": "/people/narrators/998",
+  "titles": {
+    "ar": "أَبِي يَحْيَى الصَّنْعَانِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:42:1",
+    "/books/al-kafi:1:4:73:9",
+    "/books/al-kafi:6:6:47:12"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "11-67-998": {
+      "narrator_ids": [
+        11,
+        67,
+        998
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:73:9"
+      ]
+    },
+    "1143-998": {
+      "narrator_ids": [
+        1143,
+        998
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:42:1"
+      ]
+    },
+    "3040-4-187-351-1143-998-669": {
+      "narrator_ids": [
+        3040,
+        4,
+        187,
+        351,
+        1143,
+        998,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:42:1"
+      ]
+    },
+    "3880-998": {
+      "narrator_ids": [
+        3880,
+        998
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:47:12"
+      ]
+    },
+    "6-12-234-3880-998-669": {
+      "narrator_ids": [
+        6,
+        12,
+        234,
+        3880,
+        998,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:47:12"
+      ]
+    },
+    "67-998": {
+      "narrator_ids": [
+        67,
+        998
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:73:9"
+      ]
+    },
+    "998-669": {
+      "narrator_ids": [
+        998,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:42:1",
+        "/books/al-kafi:6:6:47:12"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/998",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/998.json"
+  }
+}

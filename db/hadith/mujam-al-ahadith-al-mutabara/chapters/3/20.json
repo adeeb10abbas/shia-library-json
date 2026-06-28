@@ -1,0 +1,109 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "mujam-al-ahadith-al-mutabara",
+  "chapterPath": "/books/mujam-al-ahadith-al-mutabara:3:20",
+  "chapter": {
+    "path": "/books/mujam-al-ahadith-al-mutabara:3:20",
+    "titles": {
+      "en": "al-Hasan and al-Husayn the two sons of Zurara"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "mujam-al-ahadith-al-mutabara:3:20:1",
+      "type": "hadith",
+      "book": {
+        "slug": "mujam-al-ahadith-al-mutabara",
+        "titles": {
+          "ar": "معجم الأحاديث المعتبرة",
+          "en": "Mu'jam al-Ahadith al-Mu'tabara"
+        },
+        "author": {
+          "en": "Muhammad Asif al-Muhsini"
+        }
+      },
+      "path": {
+        "source": "/books/mujam-al-ahadith-al-mutabara:3:20:1",
+        "parts": [
+          3,
+          20,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 20,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/mujam-al-ahadith-al-mutabara:3:20",
+        "titles": {
+          "en": "al-Hasan and al-Husayn the two sons of Zurara"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": قال لي أبو عبد الله عليه السلام: اقرأ مني على والدك السلام و قل له: … و لقد أدى إلي ابناك الحسن و الحسين رسالتك، حاطهما الله و كلأهما و رعاهما و حفظهما بصلاح أبيهما كما حفظ الغلامين …"
+        ],
+        "text": ": قال لي أبو عبد الله عليه السلام: اقرأ مني على والدك السلام و قل له: … و لقد أدى إلي ابناك الحسن و الحسين رسالتك، حاطهما الله و كلأهما و رعاهما و حفظهما بصلاح أبيهما كما حفظ الغلامين …"
+      },
+      "translations": {
+        "en.ammaar-muslim": {
+          "segments": [
+            "1. [1/144] Rijal al-Kashshi: Hamduwayh b. Nusayr from Muhammad b. Isa b. Ubayd from Yunus b. Abd al-Rahman from Abdallah b. Zurara who said: Abu Abdillah عليه السلام said to me: convey my salutations to your father and say to him: … and your two sons al-Hasan and al-Husayn brought me your letter, may Allah guard, defend, watch over and protect them because of the goodness of their father, the way He had protected the two boys (the orphans in Surat al-Kahf) …"
+          ],
+          "text": "1. [1/144] Rijal al-Kashshi: Hamduwayh b. Nusayr from Muhammad b. Isa b. Ubayd from Yunus b. Abd al-Rahman from Abdallah b. Zurara who said: Abu Abdillah عليه السلام said to me: convey my salutations to your father and say to him: … and your two sons al-Hasan and al-Husayn brought me your letter, may Allah guard, defend, watch over and protect them because of the goodness of their father, the way He had protected the two boys (the orphans in Surat al-Kahf) …"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "[1/144] رجال الكشي: حمدويه بن نصير، عن محمد بن عيسى بن عبيد، عن يونس بن عبد الرحمن، عن عبد الله بن زرارة قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "[1/144] رجال الكشي: حمدويه بن نصير،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "محمد بن عيسى بن عبيد،",
+            "path": "/people/narrators/135"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "يونس بن عبد الرحمن،",
+            "path": "/people/narrators/146"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "عبد الله بن زرارة قال"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/135",
+          "/people/narrators/146"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/mujam-al-ahadith-al-mutabara:3:20:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/mujam-al-ahadith-al-mutabara/3/20/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/9/3/20/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

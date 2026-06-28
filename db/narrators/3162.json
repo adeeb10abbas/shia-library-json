@@ -1,0 +1,52 @@
+{
+  "id": 3162,
+  "type": "narrator",
+  "path": "/people/narrators/3162",
+  "titles": {
+    "ar": "دَاوُدَ بْنِ إِسْحَاقَ أَبِي سُلَيْمَانَ الْحَذَّاءِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:8:60:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "12-3162": {
+      "narrator_ids": [
+        12,
+        3162
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:60:3"
+      ]
+    },
+    "3162-475": {
+      "narrator_ids": [
+        3162,
+        475
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:60:3"
+      ]
+    },
+    "6-12-3162-475": {
+      "narrator_ids": [
+        6,
+        12,
+        3162,
+        475
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:60:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3162",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3162.json"
+  }
+}

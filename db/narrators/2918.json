@@ -1,0 +1,59 @@
+{
+  "id": 2918,
+  "type": "narrator",
+  "path": "/people/narrators/2918",
+  "titles": {
+    "ar": "بَعْضِ أَهْلِ بَيْتِهِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:54:4",
+    "/books/tahdhib-al-ahkam:7:1:15"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "3-209-68-789-2918": {
+      "narrator_ids": [
+        3,
+        209,
+        68,
+        789,
+        2918
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:54:4"
+      ]
+    },
+    "789-2918": {
+      "narrator_ids": [
+        789,
+        2918
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:54:4",
+        "/books/tahdhib-al-ahkam:7:1:15"
+      ]
+    },
+    "952-3-209-68-789-2918": {
+      "narrator_ids": [
+        952,
+        3,
+        209,
+        68,
+        789,
+        2918
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:1:15"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2918",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2918.json"
+  }
+}

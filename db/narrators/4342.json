@@ -1,0 +1,42 @@
+{
+  "id": 4342,
+  "type": "narrator",
+  "path": "/people/narrators/4342",
+  "titles": {
+    "ar": "مُحَمَّدُ بْنُ يَحْيَى وَغَيْرُهُ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:95:17"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "4342-5": {
+      "narrator_ids": [
+        4342,
+        5
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:95:17"
+      ]
+    },
+    "4342-5-671": {
+      "narrator_ids": [
+        4342,
+        5,
+        671
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:95:17"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4342",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4342.json"
+  }
+}

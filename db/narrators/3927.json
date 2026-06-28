@@ -1,0 +1,101 @@
+{
+  "id": 3927,
+  "type": "narrator",
+  "path": "/people/narrators/3927",
+  "titles": {
+    "ar": "عَنْ زُرَارَةَ"
+  },
+  "versePaths": [
+    "/books/al-istibsar:3:95:8",
+    "/books/al-istibsar:3:96:2",
+    "/books/al-kafi:5:2:139:3",
+    "/books/kitab-al-mumin:1:1",
+    "/books/kitab-al-mumin:2:1",
+    "/books/man-la-yahduruhu-al-faqih:1:79:3",
+    "/books/tahdhib-al-ahkam:4:28:25",
+    "/books/tahdhib-al-ahkam:8:4:17",
+    "/books/tahdhib-al-ahkam:8:4:23"
+  ],
+  "verseCount": 9,
+  "relations": {},
+  "subchains": {
+    "11-243-234-138-36-669-3927-16-669": {
+      "narrator_ids": [
+        11,
+        243,
+        234,
+        138,
+        36,
+        669,
+        3927,
+        16,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:8:4:17",
+        "/books/tahdhib-al-ahkam:8:4:23"
+      ]
+    },
+    "3-2-38-40-16-9-3921-3927": {
+      "narrator_ids": [
+        3,
+        2,
+        38,
+        40,
+        16,
+        9,
+        3921,
+        3927
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:139:3"
+      ]
+    },
+    "3921-3927": {
+      "narrator_ids": [
+        3921,
+        3927
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:139:3"
+      ]
+    },
+    "3927-16": {
+      "narrator_ids": [
+        3927,
+        16
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:8:4:17",
+        "/books/tahdhib-al-ahkam:8:4:23"
+      ]
+    },
+    "3927-9": {
+      "narrator_ids": [
+        3927,
+        9
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:1:79:3"
+      ]
+    },
+    "669-3927": {
+      "narrator_ids": [
+        669,
+        3927
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:8:4:17",
+        "/books/tahdhib-al-ahkam:8:4:23"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3927",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3927.json"
+  }
+}

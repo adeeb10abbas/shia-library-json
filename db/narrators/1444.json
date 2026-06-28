@@ -1,0 +1,64 @@
+{
+  "id": 1444,
+  "type": "narrator",
+  "path": "/people/narrators/1444",
+  "titles": {
+    "ar": "حَفْصِ بْنِ أَبِي عَائِشَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:55:7",
+    "/books/al-kafi:8:1:18:10"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "11-5-122-1444": {
+      "narrator_ids": [
+        11,
+        5,
+        122,
+        1444
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:18:10"
+      ]
+    },
+    "122-1444": {
+      "narrator_ids": [
+        122,
+        1444
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:18:10"
+      ]
+    },
+    "4-13-787-1444": {
+      "narrator_ids": [
+        4,
+        13,
+        787,
+        1444
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:55:7"
+      ]
+    },
+    "787-1444": {
+      "narrator_ids": [
+        787,
+        1444
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:55:7"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1444",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1444.json"
+  }
+}

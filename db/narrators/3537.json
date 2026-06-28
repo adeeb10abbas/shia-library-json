@@ -1,0 +1,116 @@
+{
+  "id": 3537,
+  "type": "narrator",
+  "path": "/people/narrators/3537",
+  "titles": {
+    "ar": "عَبْدِ الْكَرِيمِ بْنِ عُتْبَةَ الْهَاشِمِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:5:35:8",
+    "/books/man-la-yahduruhu-al-faqih:2:1:2:22",
+    "/books/tahdhib-al-ahkam:1:19:68",
+    "/books/tahdhib-al-ahkam:4:28:26",
+    "/books/tahdhib-al-ahkam:6:65:7"
+  ],
+  "verseCount": 5,
+  "relations": {},
+  "subchains": {
+    "18-3537": {
+      "narrator_ids": [
+        18,
+        3537
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:5:35:8",
+        "/books/man-la-yahduruhu-al-faqih:2:1:2:22",
+        "/books/tahdhib-al-ahkam:4:28:26",
+        "/books/tahdhib-al-ahkam:6:65:7"
+      ]
+    },
+    "3-2-7-141-18-3537": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        141,
+        18,
+        3537
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:65:7"
+      ]
+    },
+    "3-2-7-83-18-3537-669": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        83,
+        18,
+        3537,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:5:35:8",
+        "/books/man-la-yahduruhu-al-faqih:2:1:2:22"
+      ]
+    },
+    "3537-669": {
+      "narrator_ids": [
+        3537,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:5:35:8",
+        "/books/man-la-yahduruhu-al-faqih:2:1:2:22",
+        "/books/tahdhib-al-ahkam:4:28:26"
+      ]
+    },
+    "430-3537": {
+      "narrator_ids": [
+        430,
+        3537
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:19:68"
+      ]
+    },
+    "77-21-88-42-128-430-3537": {
+      "narrator_ids": [
+        77,
+        21,
+        88,
+        42,
+        128,
+        430,
+        3537
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:19:68"
+      ]
+    },
+    "952-3-2-7-141-18-3537-669": {
+      "narrator_ids": [
+        952,
+        3,
+        2,
+        7,
+        141,
+        18,
+        3537,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:4:28:26"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3537",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3537.json"
+  }
+}

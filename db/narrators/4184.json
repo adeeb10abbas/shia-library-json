@@ -1,0 +1,33 @@
+{
+  "id": 4184,
+  "type": "narrator",
+  "path": "/people/narrators/4184",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ الْفَرَجِ الرُّخَّجِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:3:11:5",
+    "/books/mujam-al-ahadith-al-mutabara:4:4:9"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "35-4184": {
+      "narrator_ids": [
+        35,
+        4184
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:11:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4184",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4184.json"
+  }
+}

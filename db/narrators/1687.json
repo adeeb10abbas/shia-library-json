@@ -1,0 +1,101 @@
+{
+  "id": 1687,
+  "type": "narrator",
+  "path": "/people/narrators/1687",
+  "titles": {
+    "ar": "مُشْمَعِلِّ بْنِ سَعْدٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:2:15:3",
+    "/books/al-kafi:7:2:22:6",
+    "/books/tahdhib-al-ahkam:9:21:1"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "11-273-1687-14-669": {
+      "narrator_ids": [
+        11,
+        273,
+        1687,
+        14,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:2:22:6"
+      ]
+    },
+    "1687-14": {
+      "narrator_ids": [
+        1687,
+        14
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:2:15:3",
+        "/books/al-kafi:7:2:22:6",
+        "/books/tahdhib-al-ahkam:9:21:1"
+      ]
+    },
+    "1903-1687": {
+      "narrator_ids": [
+        1903,
+        1687
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:2:15:3"
+      ]
+    },
+    "273-1687": {
+      "narrator_ids": [
+        273,
+        1687
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:2:22:6"
+      ]
+    },
+    "3744-1687": {
+      "narrator_ids": [
+        3744,
+        1687
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:21:1"
+      ]
+    },
+    "49-183-3744-1903-1687-14-669": {
+      "narrator_ids": [
+        49,
+        183,
+        3744,
+        1903,
+        1687,
+        14,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:2:15:3"
+      ]
+    },
+    "94-3744-1687-14-669": {
+      "narrator_ids": [
+        94,
+        3744,
+        1687,
+        14,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:21:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1687",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1687.json"
+  }
+}

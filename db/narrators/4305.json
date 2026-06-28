@@ -1,0 +1,32 @@
+{
+  "id": 4305,
+  "type": "narrator",
+  "path": "/people/narrators/4305",
+  "titles": {
+    "ar": "مُحَمَّدُ بْنُ عِيسَى بِإِسْنَادِهِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:2:70:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "4305-2711": {
+      "narrator_ids": [
+        4305,
+        2711
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:70:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4305",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4305.json"
+  }
+}

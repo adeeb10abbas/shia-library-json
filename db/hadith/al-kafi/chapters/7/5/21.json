@@ -1,0 +1,415 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:7:5:21",
+  "chapter": {
+    "path": "/books/al-kafi:7:5:21",
+    "titles": {
+      "ar": "باب شَهَادَةِ الْأَعْمَى وَ الْأَصَمِّ",
+      "en": "Chapter 21 – Testimony of the blind and the deaf"
+    }
+  },
+  "count": 3,
+  "records": [
+    {
+      "id": "al-kafi:7:5:21:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:5:21:1",
+        "parts": [
+          7,
+          5,
+          21,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 5,
+        "chapter": 21,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:5:21",
+        "titles": {
+          "ar": "باب شَهَادَةِ الْأَعْمَى وَ الْأَصَمِّ",
+          "en": "Chapter 21 – Testimony of the blind and the deaf"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَأَلْتُهُ عَنْ شَهَادَةِ الْأَعْمَى فَقَالَ نَعَمْ إِذَا أَثْبَتَ ."
+        ],
+        "text": "سَأَلْتُهُ عَنْ شَهَادَةِ الْأَعْمَى فَقَالَ نَعَمْ إِذَا أَثْبَتَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Sahl Bin Ziyad, from Ahmad Bin Muhammad Bin Abu Nasr, from Sa’alba Bin Maymoun, from Muhammad Bin Qays, ",
+            "(The narrator) says, ‘I asked Abu Ja’far<sup>asws</sup> testimony of the blind. So he<sup>asws</sup> said: ‘Yes, when it is proved’."
+          ],
+          "text": "A number of our companions, from Sahl Bin Ziyad, from Ahmad Bin Muhammad Bin Abu Nasr, from Sa’alba Bin Maymoun, from Muhammad Bin Qays,\n\n(The narrator) says, ‘I asked Abu Ja’far<sup>asws</sup> testimony of the blind. So he<sup>asws</sup> said: ‘Yes, when it is proved’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. A number of our people have narrated from Sahl ibn Ziyad from Ahmad ibn Muhammad from ibn abu Nasr from Tha‘labah ibn Maymun from Muhammad ibn Qays who has narrated the following: “I once asked abu Ja‘far, ‘Alayhi al-Salam, about the testimony of a blind man. He (the Imam) said, ‘Yes, it is admissible if he has preserved it.’” "
+          ],
+          "text": "1. A number of our people have narrated from Sahl ibn Ziyad from Ahmad ibn Muhammad from ibn abu Nasr from Tha‘labah ibn Maymun from Muhammad ibn Qays who has narrated the following: “I once asked abu Ja‘far, ‘Alayhi al-Salam, about the testimony of a blind man. He (the Imam) said, ‘Yes, it is admissible if he has preserved it.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (24/256)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (24/256)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ سَهْلِ بْنِ زِيَادٍ عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ أَبِي نَصْرٍ عَنْ ثَعْلَبَةَ بْنِ مَيْمُونٍ عَنْ مُحَمَّدِ بْنِ قَيْسٍ عَنْ أَبِي جَعْفَرٍ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَهْلِ بْنِ زِيَادٍ",
+            "path": "/people/narrators/8"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدِ بْنِ أَبِي نَصْرٍ",
+            "path": "/people/narrators/39"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ثَعْلَبَةَ بْنِ مَيْمُونٍ",
+            "path": "/people/narrators/161"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ قَيْسٍ",
+            "path": "/people/narrators/105"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي جَعْفَرٍ ( عليه السلام )",
+            "path": "/people/narrators/9"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/8",
+          "/people/narrators/39",
+          "/people/narrators/161",
+          "/people/narrators/105",
+          "/people/narrators/9"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:5:21:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/5/21/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:5:21:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:5:21:2",
+        "parts": [
+          7,
+          5,
+          21,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 5,
+        "chapter": 21,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:5:21",
+        "titles": {
+          "ar": "باب شَهَادَةِ الْأَعْمَى وَ الْأَصَمِّ",
+          "en": "Chapter 21 – Testimony of the blind and the deaf"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَأَلْتُ أَبَا جَعْفَرٍ ( عليه السلام ) عَنِ الْأَعْمَى تَجُوزُ شَهَادَتُهُ قَالَ نَعَمْ إِذَا أَثْبَتَ ."
+        ],
+        "text": "سَأَلْتُ أَبَا جَعْفَرٍ ( عليه السلام ) عَنِ الْأَعْمَى تَجُوزُ شَهَادَتُهُ قَالَ نَعَمْ إِذَا أَثْبَتَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad Bin Isa, from Al Hajjal, from Sa’albat Bin Maymoun, from Muhammad Bin Qays who said, ",
+            "‘I asked Abu Abdullah<sup>asws</sup> about the blind, is his testimony allowed?’ He<sup>asws</sup> said: ‘Yes, when it is proved’."
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad Bin Isa, from Al Hajjal, from Sa’albat Bin Maymoun, from Muhammad Bin Qays who said,\n\n‘I asked Abu Abdullah<sup>asws</sup> about the blind, is his testimony allowed?’ He<sup>asws</sup> said: ‘Yes, when it is proved’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad ibn ‘Isa from al-Hajjal from Tha‘labah ibn Maymun from Muhammad ibn Qays who has narrated the following: “I once asked abu Ja‘far, ‘Alayhi al-Salam, about the testimony of a blind man if it is admissible. He (the Imam) said, ‘Yes, it is admissible if he has preserved it.’” "
+          ],
+          "text": "2. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad ibn ‘Isa from al-Hajjal from Tha‘labah ibn Maymun from Muhammad ibn Qays who has narrated the following: “I once asked abu Ja‘far, ‘Alayhi al-Salam, about the testimony of a blind man if it is admissible. He (the Imam) said, ‘Yes, it is admissible if he has preserved it.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> صحيح على الظاهر    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (24/257)",
+          "label": "صحيح على الظاهر",
+          "text": "Allamah Baqir al-Majlisi: صحيح على الظاهر - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (24/257)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى عَنِ الْحَجَّالِ عَنْ ثَعْلَبَةَ بْنِ مَيْمُونٍ عَنْ مُحَمَّدِ بْنِ قَيْسٍ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى",
+            "path": "/people/narrators/13"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحَجَّالِ",
+            "path": "/people/narrators/122"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ثَعْلَبَةَ بْنِ مَيْمُونٍ",
+            "path": "/people/narrators/161"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ قَيْسٍ",
+            "path": "/people/narrators/105"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/13",
+          "/people/narrators/122",
+          "/people/narrators/161",
+          "/people/narrators/105"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:5:21:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/5/21/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:5:21:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:5:21:3",
+        "parts": [
+          7,
+          5,
+          21,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 5,
+        "chapter": 21,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:5:21",
+        "titles": {
+          "ar": "باب شَهَادَةِ الْأَعْمَى وَ الْأَصَمِّ",
+          "en": "Chapter 21 – Testimony of the blind and the deaf"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَأَلْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) عَنْ شَهَادَةِ الْأَصَمِّ فِي الْقَتْلِ قَالَ يُؤْخَذُ بِأَوَّلِ قَوْلِهِ وَ لَا يُؤْخَذُ بِالثَّانِي ."
+        ],
+        "text": "سَأَلْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) عَنْ شَهَادَةِ الْأَصَمِّ فِي الْقَتْلِ قَالَ يُؤْخَذُ بِأَوَّلِ قَوْلِهِ وَ لَا يُؤْخَذُ بِالثَّانِي ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Sahl Bin Ziyad, from Ismail Bin Mahran, from Dorost, from Jameel who said, ",
+            "‘I asked Abu Abdullah<sup>asws</sup> about the testimony of the deaf regarding the killing. He<sup>asws</sup> said: ‘He would be taken with the first of his speech, and would not be taken by the second’."
+          ],
+          "text": "A number of our companions, from Sahl Bin Ziyad, from Ismail Bin Mahran, from Dorost, from Jameel who said,\n\n‘I asked Abu Abdullah<sup>asws</sup> about the testimony of the deaf regarding the killing. He<sup>asws</sup> said: ‘He would be taken with the first of his speech, and would not be taken by the second’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "3. A number of our people have narrated from Sahl ibn Ziyad from ’Isma‘il ibn Mehran from Durust from Jamil who has narrated the following: “I once asked abu ‘Abd Allah, ‘Alayhi al-Salam, about the testimony of a speechless man in the case of murder. He (the Imam) said, ‘His first words are admissible and his second words are not admissible.”’ "
+          ],
+          "text": "3. A number of our people have narrated from Sahl ibn Ziyad from ’Isma‘il ibn Mehran from Durust from Jamil who has narrated the following: “I once asked abu ‘Abd Allah, ‘Alayhi al-Salam, about the testimony of a speechless man in the case of murder. He (the Imam) said, ‘His first words are admissible and his second words are not admissible.”’"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (4/257)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (4/257)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ سَهْلِ بْنِ زِيَادٍ عَنْ إِسْمَاعِيلَ بْنِ مِهْرَانَ عَنْ دُرُسْتَ عَنْ جَمِيلٍ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَهْلِ بْنِ زِيَادٍ",
+            "path": "/people/narrators/8"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "إِسْمَاعِيلَ بْنِ مِهْرَانَ",
+            "path": "/people/narrators/119"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "دُرُسْتَ",
+            "path": "/people/narrators/245"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "جَمِيلٍ",
+            "path": "/people/narrators/95"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/8",
+          "/people/narrators/119",
+          "/people/narrators/245",
+          "/people/narrators/95"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:5:21:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/5/21/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

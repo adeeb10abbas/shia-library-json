@@ -1,0 +1,53 @@
+{
+  "id": 3172,
+  "type": "narrator",
+  "path": "/people/narrators/3172",
+  "titles": {
+    "ar": "دَاوُدَ بْنِ فَرْقَدٍ أَوْ قُتَيْبَةَ الْأَعْشَى"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:1:24:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3172-669": {
+      "narrator_ids": [
+        3172,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:24:1"
+      ]
+    },
+    "536-3172": {
+      "narrator_ids": [
+        536,
+        3172
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:24:1"
+      ]
+    },
+    "6-12-536-3172-669": {
+      "narrator_ids": [
+        6,
+        12,
+        536,
+        3172,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:24:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3172",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3172.json"
+  }
+}

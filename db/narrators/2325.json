@@ -1,0 +1,52 @@
+{
+  "id": 2325,
+  "type": "narrator",
+  "path": "/people/narrators/2325",
+  "titles": {
+    "ar": "أَحْمَدَ بْنِ غَسَّانَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:131:14"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-556-2325-48": {
+      "narrator_ids": [
+        11,
+        556,
+        2325,
+        48
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:131:14"
+      ]
+    },
+    "2325-48": {
+      "narrator_ids": [
+        2325,
+        48
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:131:14"
+      ]
+    },
+    "556-2325": {
+      "narrator_ids": [
+        556,
+        2325
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:131:14"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2325",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2325.json"
+  }
+}

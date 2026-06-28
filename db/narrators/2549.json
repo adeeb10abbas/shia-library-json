@@ -1,0 +1,44 @@
+{
+  "id": 2549,
+  "type": "narrator",
+  "path": "/people/narrators/2549",
+  "titles": {
+    "ar": "الْحَسَنِ بْنِ سَعِيدٍ اللَّخْمِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:1:3:11"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "6-12-544-763-2549": {
+      "narrator_ids": [
+        6,
+        12,
+        544,
+        763,
+        2549
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:3:11"
+      ]
+    },
+    "763-2549": {
+      "narrator_ids": [
+        763,
+        2549
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:3:11"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2549",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2549.json"
+  }
+}

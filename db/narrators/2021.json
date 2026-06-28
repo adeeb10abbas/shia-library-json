@@ -1,0 +1,56 @@
+{
+  "id": 2021,
+  "type": "narrator",
+  "path": "/people/narrators/2021",
+  "titles": {
+    "ar": "أَبِي الْيَسَعِ دَاوُدَ الْأَبْزَارِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:187:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1102-2021": {
+      "narrator_ids": [
+        1102,
+        2021
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:187:5"
+      ]
+    },
+    "2021-250": {
+      "narrator_ids": [
+        2021,
+        250
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:187:5"
+      ]
+    },
+    "6-12-861-1651-1102-2021-250-9": {
+      "narrator_ids": [
+        6,
+        12,
+        861,
+        1651,
+        1102,
+        2021,
+        250,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:187:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2021",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2021.json"
+  }
+}

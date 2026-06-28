@@ -1,0 +1,60 @@
+{
+  "id": 3199,
+  "type": "narrator",
+  "path": "/people/narrators/3199",
+  "titles": {
+    "ar": "رَجُلٍ أَوْصَى بِعِشْرِينَ دِرْهَماً"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:62:5",
+    "/books/tahdhib-al-ahkam:9:18:42"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "11-67-42-51-3199": {
+      "narrator_ids": [
+        11,
+        67,
+        42,
+        51,
+        3199
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:18:42"
+      ]
+    },
+    "51-3199": {
+      "narrator_ids": [
+        51,
+        3199
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:62:5",
+        "/books/tahdhib-al-ahkam:9:18:42"
+      ]
+    },
+    "6-8-4242-60-42-51-3199": {
+      "narrator_ids": [
+        6,
+        8,
+        4242,
+        60,
+        42,
+        51,
+        3199
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:62:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3199",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3199.json"
+  }
+}

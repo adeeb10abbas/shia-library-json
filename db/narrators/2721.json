@@ -1,0 +1,52 @@
+{
+  "id": 2721,
+  "type": "narrator",
+  "path": "/people/narrators/2721",
+  "titles": {
+    "ar": "الْعَبَّاسِ بْنِ عَامِرٍعَنِ الرَّبِيعِ بْنِ مُحَمَّدٍ الْمُسْلِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:43:17"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "187-2721": {
+      "narrator_ids": [
+        187,
+        2721
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:17"
+      ]
+    },
+    "19-187-2721-344": {
+      "narrator_ids": [
+        19,
+        187,
+        2721,
+        344
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:17"
+      ]
+    },
+    "2721-344": {
+      "narrator_ids": [
+        2721,
+        344
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:17"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2721",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2721.json"
+  }
+}

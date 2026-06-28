@@ -1,0 +1,77 @@
+{
+  "id": 4598,
+  "type": "narrator",
+  "path": "/people/narrators/4598",
+  "titles": {
+    "ar": "يَعْقُوبَ بْنِ زَيْدٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:126:6",
+    "/books/man-la-yahduruhu-al-faqih:4:128:16"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "12-4598": {
+      "narrator_ids": [
+        12,
+        4598
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:126:6"
+      ]
+    },
+    "4598-347": {
+      "narrator_ids": [
+        4598,
+        347
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:126:6"
+      ]
+    },
+    "4598-720": {
+      "narrator_ids": [
+        4598,
+        720
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:4:128:16"
+      ]
+    },
+    "4598-720-478-669": {
+      "narrator_ids": [
+        4598,
+        720,
+        478,
+        669
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:4:128:16"
+      ]
+    },
+    "6-12-4598-347-1289-567-863-394": {
+      "narrator_ids": [
+        6,
+        12,
+        4598,
+        347,
+        1289,
+        567,
+        863,
+        394
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:126:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4598",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4598.json"
+  }
+}

@@ -1,0 +1,486 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:7:3:27",
+  "chapter": {
+    "path": "/books/al-kafi:7:3:27",
+    "titles": {
+      "ar": "باب الرَّجُلِ يَقْذِفُ جَمَاعَةً",
+      "en": "Chapter 27 – The man slanders a group"
+    }
+  },
+  "count": 4,
+  "records": [
+    {
+      "id": "al-kafi:7:3:27:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:3:27:1",
+        "parts": [
+          7,
+          3,
+          27,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 3,
+        "chapter": 27,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:3:27",
+        "titles": {
+          "ar": "باب الرَّجُلِ يَقْذِفُ جَمَاعَةً",
+          "en": "Chapter 27 – The man slanders a group"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَأَلْتُهُ عَنْ رَجُلٍ افْتَرَى عَلَى قَوْمٍ جَمَاعَةً قَالَ إِنْ أَتَوْا بِهِ مُجْتَمِعِينَ ضُرِبَ حَدّاً وَاحِداً وَ إِنْ أَتَوْا بِهِ مُتَفَرِّقِينَ ضُرِبَ لِكُلِّ وَاحِدٍ مِنْهُمْ حَدّاً ."
+        ],
+        "text": "سَأَلْتُهُ عَنْ رَجُلٍ افْتَرَى عَلَى قَوْمٍ جَمَاعَةً قَالَ إِنْ أَتَوْا بِهِ مُجْتَمِعِينَ ضُرِبَ حَدّاً وَاحِداً وَ إِنْ أَتَوْا بِهِ مُتَفَرِّقِينَ ضُرِبَ لِكُلِّ وَاحِدٍ مِنْهُمْ حَدّاً ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father, from Ibn Abu Umeyr, from Jameel Bin Darraj, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup>, said, ‘I asked him<sup>asws</sup> about a man who fabricated upon a group of people. He<sup>asws</sup> said: ‘If they come with it altogether, he would be whipped with one Penalty (<span class=\"iTxt\">Hadd</span>), and if they come to be separately, he would be whipped a Penalty (<span class=\"iTxt\">Hadd</span>) for each one of them’."
+          ],
+          "text": "Ali Bin Ibrahim, from his father, from Ibn Abu Umeyr, from Jameel Bin Darraj,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup>, said, ‘I asked him<sup>asws</sup> about a man who fabricated upon a group of people. He<sup>asws</sup> said: ‘If they come with it altogether, he would be whipped with one Penalty (<span class=\"iTxt\">Hadd</span>), and if they come to be separately, he would be whipped a Penalty (<span class=\"iTxt\">Hadd</span>) for each one of them’."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنِ ابْنِ أَبِي عُمَيْرٍ عَنْ جَمِيلِ بْنِ دَرَّاجٍ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ أَبِي عُمَيْرٍ",
+            "path": "/people/narrators/7"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "جَمِيلِ بْنِ دَرَّاجٍ",
+            "path": "/people/narrators/66"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/7",
+          "/people/narrators/66",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:2:1:187:2",
+          "/books/al-kafi:2:1:61:9",
+          "/books/al-kafi:4:1:21:6",
+          "/books/al-kafi:4:3:161:2",
+          "/books/al-kafi:4:3:171:3",
+          "/books/al-kafi:4:3:198:6",
+          "/books/al-kafi:5:2:86:1",
+          "/books/al-kafi:5:3:178:1",
+          "/books/al-kafi:5:3:47:2",
+          "/books/al-kafi:5:3:82:13",
+          "/books/al-kafi:5:3:83:5",
+          "/books/al-kafi:6:2:74:7",
+          "/books/al-kafi:6:6:30:2",
+          "/books/al-kafi:6:8:42:8",
+          "/books/al-kafi:7:2:24:11",
+          "/books/tahdhib-al-ahkam:5:23:25"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:3:27:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/3/27/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:3:27:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:3:27:2",
+        "parts": [
+          7,
+          3,
+          27,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 3,
+        "chapter": 27,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:3:27",
+        "titles": {
+          "ar": "باب الرَّجُلِ يَقْذِفُ جَمَاعَةً",
+          "en": "Chapter 27 – The man slanders a group"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قُلْتُ لِأَبِي عَبْدِ اللَّهِ ( عليه السلام ) رَجُلٌ قَذَفَ قَوْماً قَالَ قَالَ بِكَلِمَةٍ وَاحِدَةٍ قُلْتُ نَعَمْ قَالَ يُضْرَبُ حَدّاً وَاحِداً فَإِنْ فَرَّقَ بَيْنَهُمْ فِي الْقَذْفِ ضُرِبَ لِكُلِّ وَاحِدٍ مِنْهُمْ حَدّاً ."
+        ],
+        "text": "قُلْتُ لِأَبِي عَبْدِ اللَّهِ ( عليه السلام ) رَجُلٌ قَذَفَ قَوْماً قَالَ قَالَ بِكَلِمَةٍ وَاحِدَةٍ قُلْتُ نَعَمْ قَالَ يُضْرَبُ حَدّاً وَاحِداً فَإِنْ فَرَّقَ بَيْنَهُمْ فِي الْقَذْفِ ضُرِبَ لِكُلِّ وَاحِدٍ مِنْهُمْ حَدّاً ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Ali Bin Al Hakam, from Aban Bin Usman, form Al Hassan Al Ataar who said, ",
+            "‘I said to Abu Abdullah<sup>asws</sup>, ‘A man who slanders a people?’ He<sup>asws</sup> said: ‘With one speech?’ I said, ‘Yes’. He<sup>asws</sup> said: ‘He would be whipped one Penalty (<span class=\"iTxt\">Hadd</span>). So if he had differentiated between them with regards to the slander, he would be whipped a Penalty (<span class=\"iTxt\">Hadd</span>) for each one of them’."
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Ali Bin Al Hakam, from Aban Bin Usman, form Al Hassan Al Ataar who said,\n\n‘I said to Abu Abdullah<sup>asws</sup>, ‘A man who slanders a people?’ He<sup>asws</sup> said: ‘With one speech?’ I said, ‘Yes’. He<sup>asws</sup> said: ‘He would be whipped one Penalty (<span class=\"iTxt\">Hadd</span>). So if he had differentiated between them with regards to the slander, he would be whipped a Penalty (<span class=\"iTxt\">Hadd</span>) for each one of them’."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنْ عَلِيِّ بْنِ الْحَكَمِ عَنْ أَبَانِ بْنِ عُثْمَانَ عَنِ الْحَسَنِ الْعَطَّارِ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيِّ بْنِ الْحَكَمِ",
+            "path": "/people/narrators/15"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبَانِ بْنِ عُثْمَانَ",
+            "path": "/people/narrators/52"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحَسَنِ الْعَطَّارِ",
+            "path": "/people/narrators/1329"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/5",
+          "/people/narrators/15",
+          "/people/narrators/52",
+          "/people/narrators/1329"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:3:27:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/3/27/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:3:27:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:3:27:3",
+        "parts": [
+          7,
+          3,
+          27,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 3,
+        "chapter": 27,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:3:27",
+        "titles": {
+          "ar": "باب الرَّجُلِ يَقْذِفُ جَمَاعَةً",
+          "en": "Chapter 27 – The man slanders a group"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَأَلْتُهُ عَنْ رَجُلٍ افْتَرَى عَلَى قَوْمٍ جَمَاعَةً قَالَ فَقَالَ إِنْ أَتَوْا بِهِ مُجْتَمِعِينَ ضُرِبَ حَدّاً وَاحِداً وَ إِنْ أَتَوْا بِهِ مُتَفَرِّقِينَ ضُرِبَ لِكُلِّ رَجُلٍ حَدّاً."
+        ],
+        "text": "سَأَلْتُهُ عَنْ رَجُلٍ افْتَرَى عَلَى قَوْمٍ جَمَاعَةً قَالَ فَقَالَ إِنْ أَتَوْا بِهِ مُجْتَمِعِينَ ضُرِبَ حَدّاً وَاحِداً وَ إِنْ أَتَوْا بِهِ مُتَفَرِّقِينَ ضُرِبَ لِكُلِّ رَجُلٍ حَدّاً."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, form Muhammad Bin Isa, from Yunus, from Muhammad Bin Humran, ",
+            "(The narrator) says, ‘I asked Abu Abdullah<sup>asws</sup> about a man who fabricated upon a group of people. So he<sup>asws</sup> said: ‘If they come with it altogether, he would be whipped one Penalty (<span class=\"iTxt\">Hadd</span>), and if they come with it seperately, he would be whipped for each man, one Penalty (<span class=\"iTxt\">Hadd</span>)’."
+          ],
+          "text": "Ali Bin Ibrahim, form Muhammad Bin Isa, from Yunus, from Muhammad Bin Humran,\n\n(The narrator) says, ‘I asked Abu Abdullah<sup>asws</sup> about a man who fabricated upon a group of people. So he<sup>asws</sup> said: ‘If they come with it altogether, he would be whipped one Penalty (<span class=\"iTxt\">Hadd</span>), and if they come with it seperately, he would be whipped for each man, one Penalty (<span class=\"iTxt\">Hadd</span>)’."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ مُحَمَّدِ بْنِ عِيسَى عَنْ يُونُسَ عَنْ مُحَمَّدِ بْنِ حُمْرَانَ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ عِيسَى",
+            "path": "/people/narrators/27"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "يُونُسَ",
+            "path": "/people/narrators/26"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ حُمْرَانَ",
+            "path": "/people/narrators/239"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/27",
+          "/people/narrators/26",
+          "/people/narrators/239",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:3:27:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/3/27/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:3:27:4",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:3:27:4",
+        "parts": [
+          7,
+          3,
+          27,
+          4
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 3,
+        "chapter": 27,
+        "hadith": 4
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:3:27",
+        "titles": {
+          "ar": "باب الرَّجُلِ يَقْذِفُ جَمَاعَةً",
+          "en": "Chapter 27 – The man slanders a group"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " ."
+        ],
+        "text": "."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "From him, from Sama’at, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup>, similar to it’."
+          ],
+          "text": "From him, from Sama’at,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup>, similar to it’."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "عَنْهُ عَنْ سَمَاعَةَ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) مِثْلَهُ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَنْهُ",
+            "path": "/people/narrators/11"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَمَاعَةَ",
+            "path": "/people/narrators/48"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " مِثْلَهُ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/11",
+          "/people/narrators/48",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:3:27:4",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/3/27/4.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

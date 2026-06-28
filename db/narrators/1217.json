@@ -1,0 +1,115 @@
+{
+  "id": 1217,
+  "type": "narrator",
+  "path": "/people/narrators/1217",
+  "titles": {
+    "ar": "يُونُسَ الشَّيْبَانِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:4:23:3",
+    "/books/al-kafi:7:4:39:11",
+    "/books/al-kafi:7:4:39:12",
+    "/books/man-la-yahduruhu-al-faqih:4:36:2",
+    "/books/tahdhib-al-ahkam:10:25:7",
+    "/books/tahdhib-al-ahkam:10:25:8",
+    "/books/tahdhib-al-ahkam:2:14:27",
+    "/books/tahdhib-al-ahkam:7:1:78"
+  ],
+  "verseCount": 8,
+  "relations": {},
+  "subchains": {
+    "11-29-17-156-1217-669": {
+      "narrator_ids": [
+        11,
+        29,
+        17,
+        156,
+        1217,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:14:27"
+      ]
+    },
+    "11-67-4559-4619-156-1217": {
+      "narrator_ids": [
+        11,
+        67,
+        4559,
+        4619,
+        156,
+        1217
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:23:3"
+      ]
+    },
+    "1217-669": {
+      "narrator_ids": [
+        1217,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:14:27"
+      ]
+    },
+    "13-27-76-4169-17-156-1217": {
+      "narrator_ids": [
+        13,
+        27,
+        76,
+        4169,
+        17,
+        156,
+        1217
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:10:25:7"
+      ]
+    },
+    "156-1217": {
+      "narrator_ids": [
+        156,
+        1217
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:23:3",
+        "/books/al-kafi:7:4:39:11",
+        "/books/al-kafi:7:4:39:12",
+        "/books/tahdhib-al-ahkam:10:25:7",
+        "/books/tahdhib-al-ahkam:10:25:8",
+        "/books/tahdhib-al-ahkam:2:14:27",
+        "/books/tahdhib-al-ahkam:7:1:78"
+      ]
+    },
+    "17-1217": {
+      "narrator_ids": [
+        17,
+        1217
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:4:36:2"
+      ]
+    },
+    "4154-4169-130-156-1217": {
+      "narrator_ids": [
+        4154,
+        4169,
+        130,
+        156,
+        1217
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:1:78"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1217",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1217.json"
+  }
+}

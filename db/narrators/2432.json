@@ -1,0 +1,55 @@
+{
+  "id": 2432,
+  "type": "narrator",
+  "path": "/people/narrators/2432",
+  "titles": {
+    "ar": "إِسْمَاعِيلَ بْنِ أَبِي الْحَسَنِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:48:15"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "19-808-81-82-2432-60-669": {
+      "narrator_ids": [
+        19,
+        808,
+        81,
+        82,
+        2432,
+        60,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:48:15"
+      ]
+    },
+    "2432-60": {
+      "narrator_ids": [
+        2432,
+        60
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:48:15"
+      ]
+    },
+    "82-2432": {
+      "narrator_ids": [
+        82,
+        2432
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:48:15"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2432",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2432.json"
+  }
+}

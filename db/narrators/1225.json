@@ -1,0 +1,82 @@
+{
+  "id": 1225,
+  "type": "narrator",
+  "path": "/people/narrators/1225",
+  "titles": {
+    "ar": "إِبْرَاهِيمَ بْنِ أَيُّوبَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:28:5",
+    "/books/al-kafi:1:4:98:6"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "1225-117": {
+      "narrator_ids": [
+        1225,
+        117
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:28:5",
+        "/books/al-kafi:1:4:98:6"
+      ]
+    },
+    "129-1225": {
+      "narrator_ids": [
+        129,
+        1225
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:98:6"
+      ]
+    },
+    "362-1225": {
+      "narrator_ids": [
+        362,
+        1225
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:28:5"
+      ]
+    },
+    "4-29-362-1225-117-72-9": {
+      "narrator_ids": [
+        4,
+        29,
+        362,
+        1225,
+        117,
+        72,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:28:5"
+      ]
+    },
+    "4-5-90-1843-129-1225-117-72-9": {
+      "narrator_ids": [
+        4,
+        5,
+        90,
+        1843,
+        129,
+        1225,
+        117,
+        72,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:98:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1225",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1225.json"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": 2452,
+  "type": "narrator",
+  "path": "/people/narrators/2452",
+  "titles": {
+    "ar": "إِسْمَاعِيلَ بْنِ عَبْدِ الْخَالِقِ أَخِي شِهَابِ بْنِ عَبْدِ رَبِّهِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:3:74:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "26-2452": {
+      "narrator_ids": [
+        26,
+        2452
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:74:5"
+      ]
+    },
+    "3-27-26-2452": {
+      "narrator_ids": [
+        3,
+        27,
+        26,
+        2452
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:74:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2452",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2452.json"
+  }
+}

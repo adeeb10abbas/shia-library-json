@@ -1,0 +1,44 @@
+{
+  "id": 1739,
+  "type": "narrator",
+  "path": "/people/narrators/1739",
+  "titles": {
+    "ar": "11ـ سَعْدُ بْنُ عَبْدِ الله"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:113:12"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1739-13": {
+      "narrator_ids": [
+        1739,
+        13
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:113:12"
+      ]
+    },
+    "1739-13-244-1526-36": {
+      "narrator_ids": [
+        1739,
+        13,
+        244,
+        1526,
+        36
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:113:12"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1739",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1739.json"
+  }
+}

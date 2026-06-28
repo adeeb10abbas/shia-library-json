@@ -1,0 +1,52 @@
+{
+  "id": 4144,
+  "type": "narrator",
+  "path": "/people/narrators/4144",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ إِسْمَاعِيلَ الْقُمِّيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:4:85:8"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "4-4144": {
+      "narrator_ids": [
+        4,
+        4144
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:85:8"
+      ]
+    },
+    "4-4144-15-80": {
+      "narrator_ids": [
+        4,
+        4144,
+        15,
+        80
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:85:8"
+      ]
+    },
+    "4144-15": {
+      "narrator_ids": [
+        4144,
+        15
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:85:8"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4144",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4144.json"
+  }
+}

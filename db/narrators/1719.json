@@ -1,0 +1,124 @@
+{
+  "id": 1719,
+  "type": "narrator",
+  "path": "/people/narrators/1719",
+  "titles": {
+    "ar": "وَاصِلٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:203:20",
+    "/books/al-kafi:6:6:36:2",
+    "/books/al-khisal:4:139:1",
+    "/books/tahdhib-al-ahkam:6:55:3"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "1160-1719": {
+      "narrator_ids": [
+        1160,
+        1719
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:55:3"
+      ]
+    },
+    "1279-1719": {
+      "narrator_ids": [
+        1279,
+        1719
+      ],
+      "verse_paths": [
+        "/books/al-khisal:4:139:1"
+      ]
+    },
+    "1338-1719": {
+      "narrator_ids": [
+        1338,
+        1719
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:203:20"
+      ]
+    },
+    "1719-31": {
+      "narrator_ids": [
+        1719,
+        31
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:203:20",
+        "/books/al-kafi:6:6:36:2",
+        "/books/al-khisal:4:139:1",
+        "/books/tahdhib-al-ahkam:6:55:3"
+      ]
+    },
+    "2-1279-1719-31-669": {
+      "narrator_ids": [
+        2,
+        1279,
+        1719,
+        31,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-khisal:4:139:1"
+      ]
+    },
+    "20-25-1719-31-669": {
+      "narrator_ids": [
+        20,
+        25,
+        1719,
+        31,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:36:2"
+      ]
+    },
+    "25-1719": {
+      "narrator_ids": [
+        25,
+        1719
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:36:2"
+      ]
+    },
+    "4-5-37-1338-1719-31-669": {
+      "narrator_ids": [
+        4,
+        5,
+        37,
+        1338,
+        1719,
+        31,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:203:20"
+      ]
+    },
+    "4134-1843-1160-1719-31": {
+      "narrator_ids": [
+        4134,
+        1843,
+        1160,
+        1719,
+        31
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:55:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1719",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1719.json"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "id": 1585,
+  "type": "narrator",
+  "path": "/people/narrators/1585",
+  "titles": {
+    "ar": "عَمَّارِ بْنِ أَبِي الْأَحْوَصِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:20:1",
+    "/books/al-kafi:7:2:66:2",
+    "/books/man-la-yahduruhu-al-faqih:3:1:1:11",
+    "/books/tahdhib-al-ahkam:8:10:160",
+    "/books/tahdhib-al-ahkam:9:43:23"
+  ],
+  "verseCount": 5,
+  "relations": {},
+  "subchains": {
+    "10-1585": {
+      "narrator_ids": [
+        10,
+        1585
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:3:1:1:11"
+      ]
+    },
+    "10-87-1585": {
+      "narrator_ids": [
+        10,
+        87,
+        1585
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:2:66:2"
+      ]
+    },
+    "11-1585": {
+      "narrator_ids": [
+        11,
+        1585
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:8:10:160"
+      ]
+    },
+    "1585-669": {
+      "narrator_ids": [
+        1585,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:20:1"
+      ]
+    },
+    "53-1585": {
+      "narrator_ids": [
+        53,
+        1585
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:20:1",
+        "/books/tahdhib-al-ahkam:9:43:23"
+      ]
+    },
+    "6-12-53-1585-669": {
+      "narrator_ids": [
+        6,
+        12,
+        53,
+        1585,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:20:1"
+      ]
+    },
+    "87-1585": {
+      "narrator_ids": [
+        87,
+        1585
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:2:66:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1585",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1585.json"
+  }
+}

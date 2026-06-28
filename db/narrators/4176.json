@@ -1,0 +1,52 @@
+{
+  "id": 4176,
+  "type": "narrator",
+  "path": "/people/narrators/4176",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ الْحَكَمِ أَخِي هِشَامِ بْنِ الْحَكَمِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:7:37:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "4176-120": {
+      "narrator_ids": [
+        4176,
+        120
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:37:5"
+      ]
+    },
+    "7-4176": {
+      "narrator_ids": [
+        7,
+        4176
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:37:5"
+      ]
+    },
+    "7-4176-120-669": {
+      "narrator_ids": [
+        7,
+        4176,
+        120,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:37:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4176",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4176.json"
+  }
+}

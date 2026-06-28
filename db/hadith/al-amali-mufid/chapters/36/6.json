@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-amali-mufid",
+  "chapterPath": "/books/al-amali-mufid:36:6",
+  "chapter": {
+    "path": "/books/al-amali-mufid:36:6",
+    "titles": {
+      "en": "The Chosen ones"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-amali-mufid:36:6:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-amali-mufid",
+        "titles": {
+          "ar": "الأمالي (المفيد)",
+          "en": "Al-Amali (al-Mufid)"
+        },
+        "author": {
+          "ar": "الشيخ المفيد",
+          "en": "Shaykh al-Mufid"
+        }
+      },
+      "path": {
+        "source": "/books/al-amali-mufid:36:6:1",
+        "parts": [
+          36,
+          6,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 36,
+        "book": 6,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-amali-mufid:36:6",
+        "titles": {
+          "en": "The Chosen ones"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا أبو بكر محمد بن عمر الجعابي قال: حدثني جعفر بن محمد بن سليمان أبو الفضل  قال: حدثنا داود بن رشيد قال: حدثنا محمد بن إسحاق الثعلبي الموصلي أبو نوفل  قال: سمعت جعفر بن محمد عليهما السلام يقول: نحن خيرة الله من خلقه، وشيعتنا خيرة الله من أمة نبيه صلى الله عليه وآله."
+        ],
+        "text": ": حدثنا أبو بكر محمد بن عمر الجعابي قال: حدثني جعفر بن محمد بن سليمان أبو الفضل  قال: حدثنا داود بن رشيد قال: حدثنا محمد بن إسحاق الثعلبي الموصلي أبو نوفل  قال: سمعت جعفر بن محمد عليهما السلام يقول: نحن خيرة الله من خلقه، وشيعتنا خيرة الله من أمة نبيه صلى الله عليه وآله."
+      },
+      "translations": {
+        "en.mulla-asgharali-m-m-jaffer": {
+          "segments": [
+            "6. He said: Abu Bakr Muhammad ibn Umar al-Ji’abi reported to me from Ja’far ibn Muhammad ibn Sulaiman Abul Fadhl, who reported from Dawood ibn Rushaid, who reported from Muhammad ibn Ishaq al-Tha’labi al-Mosili Abu Nawfil, who said: I heard Ja’far ibn Muhammad, peace be upon him, say: \"We are the Chosen ones by Allah among His creation, and our Shi’ahs are His Chosen ones from the Ummah of Muhammad, peace be upon him and his progeny.\""
+          ],
+          "text": "6. He said: Abu Bakr Muhammad ibn Umar al-Ji’abi reported to me from Ja’far ibn Muhammad ibn Sulaiman Abul Fadhl, who reported from Dawood ibn Rushaid, who reported from Muhammad ibn Ishaq al-Tha’labi al-Mosili Abu Nawfil, who said: I heard Ja’far ibn Muhammad, peace be upon him, say: \"We are the Chosen ones by Allah among His creation, and our Shi’ahs are His Chosen ones from the Ummah of Muhammad, peace be upon him and his progeny.\""
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "6 - قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "6 - "
+          },
+          {
+            "kind": "narrator",
+            "text": "قال",
+            "path": "/people/narrators/652"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/652"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-amali-mufid:36:6:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-amali-mufid/36/6/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/13/36/6/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": 1116,
+  "type": "narrator",
+  "path": "/people/narrators/1116",
+  "titles": {
+    "ar": "سُلَيْمَانَ بْنِ عَمْرٍو"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:2:25:2",
+    "/books/al-kafi:2:2:9:1",
+    "/books/al-kafi:4:2:39:7",
+    "/books/man-la-yahduruhu-al-faqih:2:2:19:4"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "1116-2015": {
+      "narrator_ids": [
+        1116,
+        2015
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:25:2"
+      ]
+    },
+    "1116-669": {
+      "narrator_ids": [
+        1116,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:39:7",
+        "/books/man-la-yahduruhu-al-faqih:2:2:19:4"
+      ]
+    },
+    "217-1116": {
+      "narrator_ids": [
+        217,
+        1116
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:39:7"
+      ]
+    },
+    "3-2-7-80-1116": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        80,
+        1116
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:9:1"
+      ]
+    },
+    "5-21-217-1116-669": {
+      "narrator_ids": [
+        5,
+        21,
+        217,
+        1116,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:39:7"
+      ]
+    },
+    "6-12-119-80-1116-2015": {
+      "narrator_ids": [
+        6,
+        12,
+        119,
+        80,
+        1116,
+        2015
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:25:2"
+      ]
+    },
+    "80-1116": {
+      "narrator_ids": [
+        80,
+        1116
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:25:2",
+        "/books/al-kafi:2:2:9:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1116",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1116.json"
+  }
+}

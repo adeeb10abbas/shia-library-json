@@ -1,0 +1,76 @@
+{
+  "id": 1644,
+  "type": "narrator",
+  "path": "/people/narrators/1644",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ الْحُسَيْنِ بْنِ كَثِيرٍ الْخَزَّازِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:107:17",
+    "/books/al-kafi:6:8:8:4"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "1644-2": {
+      "narrator_ids": [
+        1644,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:8:4"
+      ]
+    },
+    "1644-669": {
+      "narrator_ids": [
+        1644,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:107:17"
+      ]
+    },
+    "19-24-22-1644-2": {
+      "narrator_ids": [
+        19,
+        24,
+        22,
+        1644,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:8:4"
+      ]
+    },
+    "19-24-22-1644-669": {
+      "narrator_ids": [
+        19,
+        24,
+        22,
+        1644,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:107:17"
+      ]
+    },
+    "22-1644": {
+      "narrator_ids": [
+        22,
+        1644
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:107:17",
+        "/books/al-kafi:6:8:8:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1644",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1644.json"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": 2269,
+  "type": "narrator",
+  "path": "/people/narrators/2269",
+  "titles": {
+    "ar": "أَحْمَدَ بْنِ أَبِي عَلِيِّ بْنِ غِيَاثٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:125:22"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2269-243": {
+      "narrator_ids": [
+        2269,
+        243
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:125:22"
+      ]
+    },
+    "35-2269": {
+      "narrator_ids": [
+        35,
+        2269
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:125:22"
+      ]
+    },
+    "35-2269-243": {
+      "narrator_ids": [
+        35,
+        2269,
+        243
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:125:22"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2269",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2269.json"
+  }
+}

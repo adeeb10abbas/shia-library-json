@@ -1,0 +1,43 @@
+{
+  "id": 2114,
+  "type": "narrator",
+  "path": "/people/narrators/2114",
+  "titles": {
+    "ar": "أَبِي شَيْبَةَ الْأَسَدِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:8:30:9"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "80-2114": {
+      "narrator_ids": [
+        80,
+        2114
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:30:9"
+      ]
+    },
+    "837-205-80-2114": {
+      "narrator_ids": [
+        837,
+        205,
+        80,
+        2114
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:30:9"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2114",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2114.json"
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "mujam-al-ahadith-al-mutabara",
+  "chapterPath": "/books/mujam-al-ahadith-al-mutabara:2:20",
+  "chapter": {
+    "path": "/books/mujam-al-ahadith-al-mutabara:2:20",
+    "titles": {
+      "en": "One of the Reasons for Differences between Narrations"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "mujam-al-ahadith-al-mutabara:2:20:1",
+      "type": "hadith",
+      "book": {
+        "slug": "mujam-al-ahadith-al-mutabara",
+        "titles": {
+          "ar": "معجم الأحاديث المعتبرة",
+          "en": "Mu'jam al-Ahadith al-Mu'tabara"
+        },
+        "author": {
+          "en": "Muhammad Asif al-Muhsini"
+        }
+      },
+      "path": {
+        "source": "/books/mujam-al-ahadith-al-mutabara:2:20:1",
+        "parts": [
+          2,
+          20,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 20,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/mujam-al-ahadith-al-mutabara:2:20",
+        "titles": {
+          "en": "One of the Reasons for Differences between Narrations"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": سأل انسان وأنا حاضر فقال: ربما دخلت المسجد وبعض أصحابنا يصلي العصر وبعضهم يصلي الظهر فقال: انا أمرتهم بهذا لو صلوا على وقت واحد لعرفوا فأخذوا برقابهم"
+        ],
+        "text": ": سأل انسان وأنا حاضر فقال: ربما دخلت المسجد وبعض أصحابنا يصلي العصر وبعضهم يصلي الظهر فقال: انا أمرتهم بهذا لو صلوا على وقت واحد لعرفوا فأخذوا برقابهم"
+      },
+      "translations": {
+        "en.ammaar-muslim": {
+          "segments": [
+            "1. [1/112] al-Tahdhib: Muhammad b. Yahya from Muhammad b. al-Husayn from Abd al-Rahman b. Abi Hashim al-Bajali from Salim Abi Khadija from Abi Abdillah عليه السلام, he (Salim) said: a man asked [him] while I was present: I happen to enter the Masjid and one of our companions is praying the Asr prayer while another is praying Dhuhr [why this divergence]? He said: I ordered them to do that, if they were all to pray at one time they would be known and it would be off with their necks."
+          ],
+          "text": "1. [1/112] al-Tahdhib: Muhammad b. Yahya from Muhammad b. al-Husayn from Abd al-Rahman b. Abi Hashim al-Bajali from Salim Abi Khadija from Abi Abdillah عليه السلام, he (Salim) said: a man asked [him] while I was present: I happen to enter the Masjid and one of our companions is praying the Asr prayer while another is praying Dhuhr [why this divergence]? He said: I ordered them to do that, if they were all to pray at one time they would be known and it would be off with their necks."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "[1/112] التهذيب: محمد بن يحيى عن محمد بن الحسين عن عبدالرحمن بن أبي هاشم البجلي عن سالم أبي خديجة عن أبي عبدالله عليه السلام قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "[1/112] التهذيب: محمد بن يحيى"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "محمد بن الحسين",
+            "path": "/people/narrators/29"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "عبدالرحمن بن أبي هاشم البجلي"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "سالم أبي خديجة",
+            "path": "/people/narrators/3300"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "أبي عبدالله عليه السلام قال"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/29",
+          "/people/narrators/3300"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/mujam-al-ahadith-al-mutabara:2:20:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/mujam-al-ahadith-al-mutabara/2/20/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/9/2/21/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

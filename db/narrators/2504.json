@@ -1,0 +1,85 @@
+{
+  "id": 2504,
+  "type": "narrator",
+  "path": "/people/narrators/2504",
+  "titles": {
+    "ar": "الْحَارِثِ بْنِ مُحَمَّدٍ الْأَحْوَلِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:45:2",
+    "/books/fadail-al-shia:17:1"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "10-2504": {
+      "narrator_ids": [
+        10,
+        2504
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:45:2"
+      ]
+    },
+    "2504-534": {
+      "narrator_ids": [
+        2504,
+        534
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:45:2"
+      ]
+    },
+    "2504-669": {
+      "narrator_ids": [
+        2504,
+        669
+      ],
+      "verse_paths": [
+        "/books/fadail-al-shia:17:1"
+      ]
+    },
+    "4154-4169-576-2504-669-9": {
+      "narrator_ids": [
+        4154,
+        4169,
+        576,
+        2504,
+        669,
+        9
+      ],
+      "verse_paths": [
+        "/books/fadail-al-shia:17:1"
+      ]
+    },
+    "576-2504": {
+      "narrator_ids": [
+        576,
+        2504
+      ],
+      "verse_paths": [
+        "/books/fadail-al-shia:17:1"
+      ]
+    },
+    "6-5-10-2504-534": {
+      "narrator_ids": [
+        6,
+        5,
+        10,
+        2504,
+        534
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:45:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2504",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2504.json"
+  }
+}

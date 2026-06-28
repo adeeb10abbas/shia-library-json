@@ -1,0 +1,44 @@
+{
+  "id": 4254,
+  "type": "narrator",
+  "path": "/people/narrators/4254",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ عَبْدِ اللَّهِ الْخُرَاسَانِيِّ خَادِمِ الرِّضَا ( عليه السلام )"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:3:1:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3045-4142-2613-67-4254": {
+      "narrator_ids": [
+        3045,
+        4142,
+        2613,
+        67,
+        4254
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:1:3"
+      ]
+    },
+    "67-4254": {
+      "narrator_ids": [
+        67,
+        4254
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:1:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4254",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4254.json"
+  }
+}

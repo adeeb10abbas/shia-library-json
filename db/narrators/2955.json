@@ -1,0 +1,45 @@
+{
+  "id": 2955,
+  "type": "narrator",
+  "path": "/people/narrators/2955",
+  "titles": {
+    "ar": "ثَابِتِ بْنِ سَعِيدٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:3:35:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "51-2955": {
+      "narrator_ids": [
+        51,
+        2955
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:35:1"
+      ]
+    },
+    "6-13-17-2426-51-2955": {
+      "narrator_ids": [
+        6,
+        13,
+        17,
+        2426,
+        51,
+        2955
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:35:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2955",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2955.json"
+  }
+}

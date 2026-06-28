@@ -1,0 +1,44 @@
+{
+  "id": 2897,
+  "type": "narrator",
+  "path": "/people/narrators/2897",
+  "titles": {
+    "ar": "بَعْضِ أَصْحَابِنَا رَفَعَهُ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:8:6"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "4-59-27-65-2897": {
+      "narrator_ids": [
+        4,
+        59,
+        27,
+        65,
+        2897
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:8:6"
+      ]
+    },
+    "65-2897": {
+      "narrator_ids": [
+        65,
+        2897
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:8:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2897",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2897.json"
+  }
+}

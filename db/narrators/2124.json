@@ -1,0 +1,56 @@
+{
+  "id": 2124,
+  "type": "narrator",
+  "path": "/people/narrators/2124",
+  "titles": {
+    "ar": "أَبِي عَبْدِ الرَّحْمَنِ الْأَعْرَجِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:204:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2124-307": {
+      "narrator_ids": [
+        2124,
+        307
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:204:4"
+      ]
+    },
+    "26-2124": {
+      "narrator_ids": [
+        26,
+        2124
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:204:4"
+      ]
+    },
+    "3-27-26-2124-307-71-9-312": {
+      "narrator_ids": [
+        3,
+        27,
+        26,
+        2124,
+        307,
+        71,
+        9,
+        312
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:204:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2124",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2124.json"
+  }
+}

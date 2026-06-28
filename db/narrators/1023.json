@@ -1,0 +1,60 @@
+{
+  "id": 1023,
+  "type": "narrator",
+  "path": "/people/narrators/1023",
+  "titles": {
+    "ar": "الْحَسَنِ الزَّيَّاتِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:130:3",
+    "/books/al-kafi:6:8:28:5",
+    "/books/al-kafi:6:8:35:4"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "11-41-128-1023": {
+      "narrator_ids": [
+        11,
+        41,
+        128,
+        1023
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:35:4"
+      ]
+    },
+    "128-1023": {
+      "narrator_ids": [
+        128,
+        1023
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:130:3",
+        "/books/al-kafi:6:8:28:5",
+        "/books/al-kafi:6:8:35:4"
+      ]
+    },
+    "6-12-41-128-1023": {
+      "narrator_ids": [
+        6,
+        12,
+        41,
+        128,
+        1023
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:130:3",
+        "/books/al-kafi:6:8:28:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1023",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1023.json"
+  }
+}

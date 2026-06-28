@@ -1,0 +1,54 @@
+{
+  "id": 4551,
+  "type": "narrator",
+  "path": "/people/narrators/4551",
+  "titles": {
+    "ar": "يَحْيَى بْنِ الْمُبَارَكِ [عَنْ عَبْدِ اللَّهِ بْنِ الْمُبَارَكِ]"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:126:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "101-4551": {
+      "narrator_ids": [
+        101,
+        4551
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:126:3"
+      ]
+    },
+    "11-101-4551-124-57-1960": {
+      "narrator_ids": [
+        11,
+        101,
+        4551,
+        124,
+        57,
+        1960
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:126:3"
+      ]
+    },
+    "4551-124": {
+      "narrator_ids": [
+        4551,
+        124
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:126:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4551",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4551.json"
+  }
+}

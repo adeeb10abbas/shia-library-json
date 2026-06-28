@@ -1,0 +1,45 @@
+{
+  "id": 3506,
+  "type": "narrator",
+  "path": "/people/narrators/3506",
+  "titles": {
+    "ar": "عَبْدِ الرَّحْمَنِ بْنِ مَسْلَمَةَ الْجَرِيرِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:39:59"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "19-24-22-122-197-3506": {
+      "narrator_ids": [
+        19,
+        24,
+        22,
+        122,
+        197,
+        3506
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:39:59"
+      ]
+    },
+    "197-3506": {
+      "narrator_ids": [
+        197,
+        3506
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:39:59"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3506",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3506.json"
+  }
+}

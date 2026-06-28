@@ -1,0 +1,54 @@
+{
+  "id": 4545,
+  "type": "narrator",
+  "path": "/people/narrators/4545",
+  "titles": {
+    "ar": "يَحْيَى بْنِ أَبِي رَافِعٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:52:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "230-4545": {
+      "narrator_ids": [
+        230,
+        4545
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:52:3"
+      ]
+    },
+    "4-5-230-4545-3987-669": {
+      "narrator_ids": [
+        4,
+        5,
+        230,
+        4545,
+        3987,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:52:3"
+      ]
+    },
+    "4545-3987": {
+      "narrator_ids": [
+        4545,
+        3987
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:52:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4545",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4545.json"
+  }
+}

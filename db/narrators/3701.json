@@ -1,0 +1,57 @@
+{
+  "id": 3701,
+  "type": "narrator",
+  "path": "/people/narrators/3701",
+  "titles": {
+    "ar": "عَلَاءٍ بَيَّاعِ السَّابِرِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:7:18:11",
+    "/books/tahdhib-al-ahkam:8:13:79"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "128-3701": {
+      "narrator_ids": [
+        128,
+        3701
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:7:18:11",
+        "/books/tahdhib-al-ahkam:8:13:79"
+      ]
+    },
+    "21-88-128-3701": {
+      "narrator_ids": [
+        21,
+        88,
+        128,
+        3701
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:8:13:79"
+      ]
+    },
+    "5-21-88-128-3701": {
+      "narrator_ids": [
+        5,
+        21,
+        88,
+        128,
+        3701
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:7:18:11"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3701",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3701.json"
+  }
+}

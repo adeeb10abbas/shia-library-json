@@ -1,0 +1,43 @@
+{
+  "id": 1889,
+  "type": "narrator",
+  "path": "/people/narrators/1889",
+  "titles": {
+    "ar": "ابْنِ طَيْفُورٍ الْمُتَطَبِّبِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:9:1:1",
+    "/books/tahdhib-al-ahkam:6:76:1"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "20-25-1889": {
+      "narrator_ids": [
+        20,
+        25,
+        1889
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:9:1:1"
+      ]
+    },
+    "25-1889": {
+      "narrator_ids": [
+        25,
+        1889
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:9:1:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1889",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1889.json"
+  }
+}

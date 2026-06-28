@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:4:165",
+  "chapter": {
+    "path": "/books/al-khisal:4:165",
+    "titles": {
+      "en": "A Believer’s Amusement Is in Three Things"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:4:165:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:4:165:1",
+        "parts": [
+          4,
+          165,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 165,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:4:165",
+        "titles": {
+          "en": "A Believer’s Amusement Is in Three Things"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا سعد بن عبد الله قال: حدثني حماد بن يعلى بن حماد، عن أبيه، عن حماد بن عيسى الجهني، عن حريز بن عبد الله، عن زرارة بن أعين، عن أبي جعفر عليه السلام قال:لهو المؤمن في ثلاثة أشياء: التمتع بالنساء ومفاكهة الاخوان والصلاة بالليل"
+        ],
+        "text": ": حدثنا سعد بن عبد الله قال: حدثني حماد بن يعلى بن حماد، عن أبيه، عن حماد بن عيسى الجهني، عن حريز بن عبد الله، عن زرارة بن أعين، عن أبي جعفر عليه السلام قال:لهو المؤمن في ثلاثة أشياء: التمتع بالنساء ومفاكهة الاخوان والصلاة بالليل"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "3-210 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Sa’ed ibn Abdullah quoted Hammad ibn Ya’la ibn Himad, on the authority of his father, on the authority of Hammad ibn Isa al-Jahani, on the authority of Hurayz ibn Abdullah, on the authority of Zurarah ibn A’ayan that Abi Ja’far al-Baqir (MGB) said, “A believer’s amusement is in three things: enjoying his women; joking around with his brethren; and praying at night.”"
+          ],
+          "text": "3-210 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Sa’ed ibn Abdullah quoted Hammad ibn Ya’la ibn Himad, on the authority of his father, on the authority of Hammad ibn Isa al-Jahani, on the authority of Hurayz ibn Abdullah, on the authority of Zurarah ibn A’ayan that Abi Ja’far al-Baqir (MGB) said, “A believer’s amusement is in three things: enjoying his women; joking around with his brethren; and praying at night.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "3-210 حدثنا أبي رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "3-210 حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي رضي الله عنه قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:4:165:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/4/165/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/4/165/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

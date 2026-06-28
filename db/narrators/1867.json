@@ -1,0 +1,67 @@
+{
+  "id": 1867,
+  "type": "narrator",
+  "path": "/people/narrators/1867",
+  "titles": {
+    "ar": "ابْنِ الْبَرْقِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:4:58:12",
+    "/books/tahdhib-al-ahkam:2:11:57"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "1867-2": {
+      "narrator_ids": [
+        1867,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:58:12",
+        "/books/tahdhib-al-ahkam:2:11:57"
+      ]
+    },
+    "274-1867": {
+      "narrator_ids": [
+        274,
+        1867
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:58:12",
+        "/books/tahdhib-al-ahkam:2:11:57"
+      ]
+    },
+    "274-1867-2-669": {
+      "narrator_ids": [
+        274,
+        1867,
+        2,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:58:12"
+      ]
+    },
+    "952-274-1867-2-669": {
+      "narrator_ids": [
+        952,
+        274,
+        1867,
+        2,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:11:57"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1867",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1867.json"
+  }
+}

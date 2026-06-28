@@ -1,0 +1,220 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "mujam-al-ahadith-al-mutabara",
+  "chapterPath": "/books/mujam-al-ahadith-al-mutabara:2:13",
+  "chapter": {
+    "path": "/books/mujam-al-ahadith-al-mutabara:2:13",
+    "titles": {
+      "en": "Primary Doubts"
+    }
+  },
+  "count": 2,
+  "records": [
+    {
+      "id": "mujam-al-ahadith-al-mutabara:2:13:1",
+      "type": "hadith",
+      "book": {
+        "slug": "mujam-al-ahadith-al-mutabara",
+        "titles": {
+          "ar": "معجم الأحاديث المعتبرة",
+          "en": "Mu'jam al-Ahadith al-Mu'tabara"
+        },
+        "author": {
+          "en": "Muhammad Asif al-Muhsini"
+        }
+      },
+      "path": {
+        "source": "/books/mujam-al-ahadith-al-mutabara:2:13:1",
+        "parts": [
+          2,
+          13,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 13,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/mujam-al-ahadith-al-mutabara:2:13",
+        "titles": {
+          "en": "Primary Doubts"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": قال رسول الله صلى الله عليه واله: رفع عن امتي تسعة: الخطاء، والنسيان، وما أكرهوا عليه، وما لا يطيقون، وما لا يعلمون، وما اضطروا إليه، والحسد، والطيرة، والتفكر في الوسوسة في الخلق ما لم ينطق بشفة"
+        ],
+        "text": ": قال رسول الله صلى الله عليه واله: رفع عن امتي تسعة: الخطاء، والنسيان، وما أكرهوا عليه، وما لا يطيقون، وما لا يعلمون، وما اضطروا إليه، والحسد، والطيرة، والتفكر في الوسوسة في الخلق ما لم ينطق بشفة"
+      },
+      "translations": {
+        "en.ammaar-muslim": {
+          "segments": [
+            "1. [1/-] Tawhid al-Saduq: From Ahmad b. Muhammad b. Yahya al-Attar from Sa’d b. Abdallah from Ya’qub b. Yazid from Hammad b. Isa from Hariz b. Abdallah from Abi Abdillah عليه السلام who said: the messenger of Allah صلى الله عليه واله said: my Umma are exempted from nine things: error, forgetfulness, what they are coerced to do, what they do not have the strength for, what they do not know, what they have to do out of necessity, jealousy, bad omen, and thinking about the whispered (Shaytan-inspired) prompts (doubts cast) in regards the creation – so long as it is not voiced aloud."
+          ],
+          "text": "1. [1/-] Tawhid al-Saduq: From Ahmad b. Muhammad b. Yahya al-Attar from Sa’d b. Abdallah from Ya’qub b. Yazid from Hammad b. Isa from Hariz b. Abdallah from Abi Abdillah عليه السلام who said: the messenger of Allah صلى الله عليه واله said: my Umma are exempted from nine things: error, forgetfulness, what they are coerced to do, what they do not have the strength for, what they do not know, what they have to do out of necessity, jealousy, bad omen, and thinking about the whispered (Shaytan-inspired) prompts (doubts cast) in regards the creation – so long as it is not voiced aloud."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "[-/1] توحيد الصدوق: عن احمد بن محمد بن يحيى العطار، عن سعد بن عبدالله، عن يعقوب بن يزيد، عن حماد بن عيسى، عن حريز بن عبدالله، عن أبي عبد الله عليه السلام قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "[-/1] توحيد الصدوق:"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "احمد بن محمد بن يحيى العطار،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "سعد بن عبدالله،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "يعقوب بن يزيد،",
+            "path": "/people/narrators/101"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "حماد بن عيسى،",
+            "path": "/people/narrators/38"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "حريز بن عبدالله،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي عبد الله عليه السلام قال",
+            "path": "/people/narrators/669"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/101",
+          "/people/narrators/38",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/mujam-al-ahadith-al-mutabara:2:13:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/mujam-al-ahadith-al-mutabara/2/13/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/9/2/13/1",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "mujam-al-ahadith-al-mutabara:2:13:2",
+      "type": "hadith",
+      "book": {
+        "slug": "mujam-al-ahadith-al-mutabara",
+        "titles": {
+          "ar": "معجم الأحاديث المعتبرة",
+          "en": "Mu'jam al-Ahadith al-Mu'tabara"
+        },
+        "author": {
+          "en": "Muhammad Asif al-Muhsini"
+        }
+      },
+      "path": {
+        "source": "/books/mujam-al-ahadith-al-mutabara:2:13:2",
+        "parts": [
+          2,
+          13,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 13,
+        "chapter": 2
+      },
+      "chapter": {
+        "path": "/books/mujam-al-ahadith-al-mutabara:2:13",
+        "titles": {
+          "en": "Primary Doubts"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": قال ابوعبدالله عليه السلام: كل شئ يكون فيه حرام وحلال فهو لك حلال ابدا حتى تعرف الحرام منه بعينه فتدعه"
+        ],
+        "text": ": قال ابوعبدالله عليه السلام: كل شئ يكون فيه حرام وحلال فهو لك حلال ابدا حتى تعرف الحرام منه بعينه فتدعه"
+      },
+      "translations": {
+        "en.ammaar-muslim": {
+          "segments": [
+            "2. [2/93] al-Faqih and al-Tahdhib: From Ibn Mahbub from Abdallah b. Sinan who said: Abu Abdillah عليه السلام said: everything which has both Halal and Haram [elements mixed into it] then it is Halal for you forever until you know the Haram in it specifically so you abandon it."
+          ],
+          "text": "2. [2/93] al-Faqih and al-Tahdhib: From Ibn Mahbub from Abdallah b. Sinan who said: Abu Abdillah عليه السلام said: everything which has both Halal and Haram [elements mixed into it] then it is Halal for you forever until you know the Haram in it specifically so you abandon it."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "[2/93] الفقيه والتهذيب: عن ابن محبوب عن عبدالله بن سنان قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "[2/93] الفقيه والتهذيب:"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابن محبوب",
+            "path": "/people/narrators/10"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "عبدالله بن سنان قال"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/10"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/mujam-al-ahadith-al-mutabara:2:13:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/mujam-al-ahadith-al-mutabara/2/13/2.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/9/2/13/2",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

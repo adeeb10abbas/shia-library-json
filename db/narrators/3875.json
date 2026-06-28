@@ -1,0 +1,94 @@
+{
+  "id": 3875,
+  "type": "narrator",
+  "path": "/people/narrators/3875",
+  "titles": {
+    "ar": "عِمْرَانَ بْنِ مِيثَمٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:39:48",
+    "/books/kitab-al-ghayba-tusi:39:11",
+    "/books/mujam-al-ahadith-al-mutabara:5:9:6"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "11-4169-130-3875": {
+      "narrator_ids": [
+        11,
+        4169,
+        130,
+        3875
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:39:11"
+      ]
+    },
+    "130-3875": {
+      "narrator_ids": [
+        130,
+        3875
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:39:11"
+      ]
+    },
+    "182-3875": {
+      "narrator_ids": [
+        182,
+        3875
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:39:48",
+        "/books/mujam-al-ahadith-al-mutabara:5:9:6"
+      ]
+    },
+    "3875-669": {
+      "narrator_ids": [
+        3875,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:39:48",
+        "/books/mujam-al-ahadith-al-mutabara:5:9:6"
+      ]
+    },
+    "4-5-21-65-158-182-3875-669": {
+      "narrator_ids": [
+        4,
+        5,
+        21,
+        65,
+        158,
+        182,
+        3875,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:39:48"
+      ]
+    },
+    "5-21-65-158-182-3875-669": {
+      "narrator_ids": [
+        5,
+        21,
+        65,
+        158,
+        182,
+        3875,
+        669
+      ],
+      "verse_paths": [
+        "/books/mujam-al-ahadith-al-mutabara:5:9:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3875",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3875.json"
+  }
+}

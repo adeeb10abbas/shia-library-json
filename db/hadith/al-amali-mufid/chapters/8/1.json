@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-amali-mufid",
+  "chapterPath": "/books/al-amali-mufid:8:1",
+  "chapter": {
+    "path": "/books/al-amali-mufid:8:1",
+    "titles": {
+      "en": "Benevolence & Tyranny"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-amali-mufid:8:1:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-amali-mufid",
+        "titles": {
+          "ar": "الأمالي (المفيد)",
+          "en": "Al-Amali (al-Mufid)"
+        },
+        "author": {
+          "ar": "الشيخ المفيد",
+          "en": "Shaykh al-Mufid"
+        }
+      },
+      "path": {
+        "source": "/books/al-amali-mufid:8:1:1",
+        "parts": [
+          8,
+          1,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 8,
+        "book": 1,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-amali-mufid:8:1",
+        "titles": {
+          "en": "Benevolence & Tyranny"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا أبو جعفر محمد بن علي بن الحسين قال: حدثني محمد بن موسى بن المتوكل قال: حدثنا علي بن الحسين السعدآبادي، عن أحمد بن أبي عبد الله البرقي، عن عبد الرحمن بن أبي نجران، عن عاصم بن حميد، عن أبي حمزة الثمالي، عن أبي جعفر الباقر محمد بن علي، عن آبائه عليهم السلام قال: قال رسول الله صلى الله عليه وآله: إن أسرع الخير ثوابا البر، وأسرع الشر عقابا البغي، وكفى بالمرء عيبا أن ينظر من الناس إلى ما يعمي عنه من نفسه ، أو يعير الناس بما لا يستطيع تركه، ويؤذي جليسه بما لا يعنيه."
+        ],
+        "text": ": حدثنا أبو جعفر محمد بن علي بن الحسين قال: حدثني محمد بن موسى بن المتوكل قال: حدثنا علي بن الحسين السعدآبادي، عن أحمد بن أبي عبد الله البرقي، عن عبد الرحمن بن أبي نجران، عن عاصم بن حميد، عن أبي حمزة الثمالي، عن أبي جعفر الباقر محمد بن علي، عن آبائه عليهم السلام قال: قال رسول الله صلى الله عليه وآله: إن أسرع الخير ثوابا البر، وأسرع الشر عقابا البغي، وكفى بالمرء عيبا أن ينظر من الناس إلى ما يعمي عنه من نفسه ، أو يعير الناس بما لا يستطيع تركه، ويؤذي جليسه بما لا يعنيه."
+      },
+      "translations": {
+        "en.mulla-asgharali-m-m-jaffer": {
+          "segments": [
+            "1. He said: ’Abu Ja’far Muhammad ibn ‘Ali ibn al-Husayn reported to me from Muhammad ibn Musa al-Mutawakkil, who reported from ‘Ali ibn al-Husayn al-Sa’dabadi, from Ahmed ibn Abu Abdillah al-Barqi, from Abdul Rahman ibn Abi Najran, from Asim ibn Hamid, from Abu Hamzah al-Thumali that Abu Ja’far al-Baqir Muhammad ibn ‘Ali, peace be upon him, reported from his forefathers that: The Prophet, peace be upon him and his progeny, said: \"Benevolence is a good turn, earning the quickest reward, and tyranny is an evil, earning quickest requital. Enough for ones blemish that one should see faults in others while condoning the same faults in oneself; or scoff at the others for an act from which he himself cannot abstain, and hurt ones companion in matters with which one has no concern.\""
+          ],
+          "text": "1. He said: ’Abu Ja’far Muhammad ibn ‘Ali ibn al-Husayn reported to me from Muhammad ibn Musa al-Mutawakkil, who reported from ‘Ali ibn al-Husayn al-Sa’dabadi, from Ahmed ibn Abu Abdillah al-Barqi, from Abdul Rahman ibn Abi Najran, from Asim ibn Hamid, from Abu Hamzah al-Thumali that Abu Ja’far al-Baqir Muhammad ibn ‘Ali, peace be upon him, reported from his forefathers that: The Prophet, peace be upon him and his progeny, said: \"Benevolence is a good turn, earning the quickest reward, and tyranny is an evil, earning quickest requital. Enough for ones blemish that one should see faults in others while condoning the same faults in oneself; or scoff at the others for an act from which he himself cannot abstain, and hurt ones companion in matters with which one has no concern.\""
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "1 - قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "1 - "
+          },
+          {
+            "kind": "narrator",
+            "text": "قال",
+            "path": "/people/narrators/652"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/652"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-amali-mufid:8:1:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-amali-mufid/8/1/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/13/8/1/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

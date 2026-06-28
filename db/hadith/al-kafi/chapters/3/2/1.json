@@ -1,0 +1,289 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:3:2:1",
+  "chapter": {
+    "path": "/books/al-kafi:3:2:1",
+    "titles": {
+      "ar": "باب الْحَيْضِ",
+      "en": "Chapter 1 – The Menstruation (Haydh)"
+    }
+  },
+  "count": 2,
+  "records": [
+    {
+      "id": "al-kafi:3:2:1:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:3:2:1:1",
+        "parts": [
+          3,
+          2,
+          1,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 2,
+        "chapter": 1,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:3:2:1",
+        "titles": {
+          "ar": "باب الْحَيْضِ",
+          "en": "Chapter 1 – The Menstruation (Haydh)"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَمِعْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) يَقُولُ إِنَّ اللَّهَ تَبَارَكَ وَ تَعَالَى حَدَّ لِلنِّسَاءِ فِي كُلِّ شَهْرٍ مَرَّةً ."
+        ],
+        "text": "سَمِعْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) يَقُولُ إِنَّ اللَّهَ تَبَارَكَ وَ تَعَالَى حَدَّ لِلنِّسَاءِ فِي كُلِّ شَهْرٍ مَرَّةً ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Al Husayn Bin Muhammad, from Moalla Bin Muhammad, from Al Hassan Bin Ali Al Washa, from Hammad Bin Usman, from Adeym Bin Al Hurr who said, ",
+            "‘I heard Abu Abdullah<sup>asws</sup> saying that Allah<sup>azwj</sup> Blessed and High has Limitation for the women, once during every month’."
+          ],
+          "text": "Al Husayn Bin Muhammad, from Moalla Bin Muhammad, from Al Hassan Bin Ali Al Washa, from Hammad Bin Usman, from Adeym Bin Al Hurr who said,\n\n‘I heard Abu Abdullah<sup>asws</sup> saying that Allah<sup>azwj</sup> Blessed and High has Limitation for the women, once during every month’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. Al-Husayn ibn Muhammad has narrated from Mu‘alla’ ibn Muhammad from al-Hassan ibn Ali al-Washsha’ from Hammad ibn ‘Uthman from ‘Udaym ibn al-Hurr who has said the following: “I once heard abu ’Abd Allah, ‘Alayhi al-Salam, say, ‘Allah, most Blessed, most High, has established a certain limit for women every month.’” "
+          ],
+          "text": "1. Al-Husayn ibn Muhammad has narrated from Mu‘alla’ ibn Muhammad from al-Hassan ibn Ali al-Washsha’ from Hammad ibn ‘Uthman from ‘Udaym ibn al-Hurr who has said the following: “I once heard abu ’Abd Allah, ‘Alayhi al-Salam, say, ‘Allah, most Blessed, most High, has established a certain limit for women every month.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (13/203)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (13/203)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "الْحُسَيْنُ بْنُ مُحَمَّدٍ عَنْ مُعَلَّى بْنِ مُحَمَّدٍ عَنِ الْحَسَنِ بْنِ عَلِيٍّ الْوَشَّاءِ عَنْ حَمَّادِ بْنِ عُثْمَانَ عَنْ أُدَيْمِ بْنِ الْحُرِّ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "الْحُسَيْنُ بْنُ مُحَمَّدٍ",
+            "path": "/people/narrators/20"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُعَلَّى بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/25"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحَسَنِ بْنِ عَلِيٍّ الْوَشَّاءِ",
+            "path": "/people/narrators/89"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "حَمَّادِ بْنِ عُثْمَانَ",
+            "path": "/people/narrators/54"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أُدَيْمِ بْنِ الْحُرِّ",
+            "path": "/people/narrators/2390"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/20",
+          "/people/narrators/25",
+          "/people/narrators/89",
+          "/people/narrators/54",
+          "/people/narrators/2390"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:3:2:1:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/3/2/1/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:3:2:1:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:3:2:1:2",
+        "parts": [
+          3,
+          2,
+          1,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 2,
+        "chapter": 1,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:3:2:1",
+        "titles": {
+          "ar": "باب الْحَيْضِ",
+          "en": "Chapter 1 – The Menstruation (Haydh)"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَأَلْتُهُ عَنْ قَوْلِ اللَّهِ عَزَّ وَ جَلَّ إِنِ ارْتَبْتُمْ فَقَالَ مَا جَازَ الشَّهْرَ فَهُوَ رِيبَةٌ ."
+        ],
+        "text": "سَأَلْتُهُ عَنْ قَوْلِ اللَّهِ عَزَّ وَ جَلَّ إِنِ ارْتَبْتُمْ فَقَالَ مَا جَازَ الشَّهْرَ فَهُوَ رِيبَةٌ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father, from Ibn Abu Umeyr, from Hammad, from Al Halby, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup>, said, ‘I asked him<sup>asws</sup> about the Words of Allah<sup>azwj</sup> Mighty and Majestic <span class=\"ibTxt\"><a href=\"/#/books/quran:65#h4\"><a href=\"/books/quran:65#h4\">[65:4]</a></a> if you have a doubt</span>. So he<sup>asws</sup> said: ‘Whatever exceeds the month, so it is doubtful’."
+          ],
+          "text": "Ali Bin Ibrahim, from his father, from Ibn Abu Umeyr, from Hammad, from Al Halby,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup>, said, ‘I asked him<sup>asws</sup> about the Words of Allah<sup>azwj</sup> Mighty and Majestic <span class=\"ibTxt\"><a href=\"/#/books/quran:65#h4\"><a href=\"/books/quran:65#h4\">[65:4]</a></a> if you have a doubt</span>. So he<sup>asws</sup> said: ‘Whatever exceeds the month, so it is doubtful’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. Ali ibn Ibrahim has narrated from his father from ibn abu ‘Umayr from Hammad from al-Halabiy who has said the following: “I once asked abu ‘Abd Allah, ‘Alayhi al-Salam, about the words of Allah, most Majestic, most Glorious, ‘. . . if you doubt . . <a href=\"/#/books/quran:65#h4\"><a href=\"/books/quran:65#h4\">[65:4]</a></a> He (the Imam) said, ‘Whatever takes place after a month is doubtful.’”"
+          ],
+          "text": "2. Ali ibn Ibrahim has narrated from his father from ibn abu ‘Umayr from Hammad from al-Halabiy who has said the following: “I once asked abu ‘Abd Allah, ‘Alayhi al-Salam, about the words of Allah, most Majestic, most Glorious, ‘. . . if you doubt . . <a href=\"/#/books/quran:65#h4\"><a href=\"/books/quran:65#h4\">[65:4]</a></a> He (the Imam) said, ‘Whatever takes place after a month is doubtful.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> حسن   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (3/203)",
+          "label": "حسن",
+          "text": "Allamah Baqir al-Majlisi: حسن - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (3/203)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنِ ابْنِ أَبِي عُمَيْرٍ عَنْ حَمَّادٍ عَنِ الْحَلَبِيِّ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ أَبِي عُمَيْرٍ",
+            "path": "/people/narrators/7"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "حَمَّادٍ",
+            "path": "/people/narrators/23"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحَلَبِيِّ",
+            "path": "/people/narrators/28"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/7",
+          "/people/narrators/23",
+          "/people/narrators/28",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {
+        "Mentions": [
+          "/books/quran:65:4"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:3:2:1:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/3/2/1/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

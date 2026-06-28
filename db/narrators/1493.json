@@ -1,0 +1,104 @@
+{
+  "id": 1493,
+  "type": "narrator",
+  "path": "/people/narrators/1493",
+  "titles": {
+    "ar": "سُلَيْمَانَ بْنِ حَفْصٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:39:3",
+    "/books/al-kafi:6:6:40:4",
+    "/books/tahdhib-al-ahkam:9:2:262"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "1026-1493": {
+      "narrator_ids": [
+        1026,
+        1493
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:39:3"
+      ]
+    },
+    "11-1493": {
+      "narrator_ids": [
+        11,
+        1493
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:40:4"
+      ]
+    },
+    "11-1493-136-757": {
+      "narrator_ids": [
+        11,
+        1493,
+        136,
+        757
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:40:4"
+      ]
+    },
+    "1493-136": {
+      "narrator_ids": [
+        1493,
+        136
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:40:4"
+      ]
+    },
+    "1493-669": {
+      "narrator_ids": [
+        1493,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:39:3"
+      ]
+    },
+    "17-1493": {
+      "narrator_ids": [
+        17,
+        1493
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:2:262"
+      ]
+    },
+    "3-2-1026-1493-669": {
+      "narrator_ids": [
+        3,
+        2,
+        1026,
+        1493,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:39:3"
+      ]
+    },
+    "4134-617-17-1493": {
+      "narrator_ids": [
+        4134,
+        617,
+        17,
+        1493
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:2:262"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1493",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1493.json"
+  }
+}

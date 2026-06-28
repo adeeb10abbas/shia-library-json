@@ -1,0 +1,60 @@
+{
+  "id": 4138,
+  "type": "narrator",
+  "path": "/people/narrators/4138",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ إِسْحَاقَ الْكَاهِلِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:99:27"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3-27-26-1205-36-67-4138-19-187-292-1098-1206": {
+      "narrator_ids": [
+        3,
+        27,
+        26,
+        1205,
+        36,
+        67,
+        4138,
+        19,
+        187,
+        292,
+        1098,
+        1206
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:99:27"
+      ]
+    },
+    "4138-19": {
+      "narrator_ids": [
+        4138,
+        19
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:99:27"
+      ]
+    },
+    "67-4138": {
+      "narrator_ids": [
+        67,
+        4138
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:99:27"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4138",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4138.json"
+  }
+}

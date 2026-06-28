@@ -1,0 +1,80 @@
+{
+  "id": 4593,
+  "type": "narrator",
+  "path": "/people/narrators/4593",
+  "titles": {
+    "ar": "يَعْقُوبَ بْنِ إِبْرَاهِيمَ بْنِ سَعْدٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:2:6:3",
+    "/books/man-la-yahduruhu-al-faqih:4:130:3",
+    "/books/tahdhib-al-ahkam:9:19:51"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "17-33-4-474-4593": {
+      "narrator_ids": [
+        17,
+        33,
+        4,
+        474,
+        4593
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:2:6:3"
+      ]
+    },
+    "33-4-474-4593": {
+      "narrator_ids": [
+        33,
+        4,
+        474,
+        4593
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:19:51"
+      ]
+    },
+    "33-4-474-4593-2": {
+      "narrator_ids": [
+        33,
+        4,
+        474,
+        4593,
+        2
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:4:130:3"
+      ]
+    },
+    "4593-2": {
+      "narrator_ids": [
+        4593,
+        2
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:4:130:3"
+      ]
+    },
+    "474-4593": {
+      "narrator_ids": [
+        474,
+        4593
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:2:6:3",
+        "/books/man-la-yahduruhu-al-faqih:4:130:3",
+        "/books/tahdhib-al-ahkam:9:19:51"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4593",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4593.json"
+  }
+}

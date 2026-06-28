@@ -1,0 +1,92 @@
+{
+  "id": 2227,
+  "type": "narrator",
+  "path": "/people/narrators/2227",
+  "titles": {
+    "ar": "أَبِي يَحْيَى الرَّازِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:1:13:1",
+    "/books/tahdhib-al-ahkam:7:1:36",
+    "/books/tahdhib-al-ahkam:7:39:2"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "11-2-4003-2227": {
+      "narrator_ids": [
+        11,
+        2,
+        4003,
+        2227
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:1:36"
+      ]
+    },
+    "11-4-5-22-1955-2227-669": {
+      "narrator_ids": [
+        11,
+        4,
+        5,
+        22,
+        1955,
+        2227,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:39:2"
+      ]
+    },
+    "1955-2227": {
+      "narrator_ids": [
+        1955,
+        2227
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:13:1",
+        "/books/tahdhib-al-ahkam:7:39:2"
+      ]
+    },
+    "2227-669": {
+      "narrator_ids": [
+        2227,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:13:1",
+        "/books/tahdhib-al-ahkam:7:39:2"
+      ]
+    },
+    "4-5-22-1955-2227-669": {
+      "narrator_ids": [
+        4,
+        5,
+        22,
+        1955,
+        2227,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:13:1"
+      ]
+    },
+    "4003-2227": {
+      "narrator_ids": [
+        4003,
+        2227
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:1:36"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2227",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2227.json"
+  }
+}

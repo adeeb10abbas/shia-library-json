@@ -1,0 +1,43 @@
+{
+  "id": 2369,
+  "type": "narrator",
+  "path": "/people/narrators/2369",
+  "titles": {
+    "ar": "أَخِيهِ أَبِي الْحَسَنِ الْأَوَّلِ ( عليه السلام )"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:4:12:11"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "136-2369": {
+      "narrator_ids": [
+        136,
+        2369
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:4:12:11"
+      ]
+    },
+    "4-249-136-2369": {
+      "narrator_ids": [
+        4,
+        249,
+        136,
+        2369
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:4:12:11"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2369",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2369.json"
+  }
+}

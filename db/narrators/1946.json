@@ -1,0 +1,53 @@
+{
+  "id": 1946,
+  "type": "narrator",
+  "path": "/people/narrators/1946",
+  "titles": {
+    "ar": "أَبِي إِسْحَاقَ الْجُرْجَانِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:44:9"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1946-669": {
+      "narrator_ids": [
+        1946,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:44:9"
+      ]
+    },
+    "41-1946": {
+      "narrator_ids": [
+        41,
+        1946
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:44:9"
+      ]
+    },
+    "6-12-41-1946-669": {
+      "narrator_ids": [
+        6,
+        12,
+        41,
+        1946,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:44:9"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1946",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1946.json"
+  }
+}

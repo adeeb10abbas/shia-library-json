@@ -1,0 +1,152 @@
+{
+  "id": 1032,
+  "type": "narrator",
+  "path": "/people/narrators/1032",
+  "titles": {
+    "ar": "الْحَسَنِ بْنِ هَارُونَ"
+  },
+  "versePaths": [
+    "/books/al-istibsar:2:87:8",
+    "/books/al-kafi:4:3:92:9",
+    "/books/al-kafi:6:6:55:8",
+    "/books/al-kafi:6:7:36:16",
+    "/books/man-la-yahduruhu-al-faqih:2:3:55:16",
+    "/books/tahdhib-al-ahkam:5:24:6",
+    "/books/tahdhib-al-ahkam:5:25:86"
+  ],
+  "verseCount": 7,
+  "relations": {},
+  "subchains": {
+    "1032-669": {
+      "narrator_ids": [
+        1032,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:55:8",
+        "/books/tahdhib-al-ahkam:5:24:6"
+      ]
+    },
+    "11-632-51-1032-669": {
+      "narrator_ids": [
+        11,
+        632,
+        51,
+        1032,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:24:6"
+      ]
+    },
+    "204-1032": {
+      "narrator_ids": [
+        204,
+        1032
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:92:9"
+      ]
+    },
+    "299-1032": {
+      "narrator_ids": [
+        299,
+        1032
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:25:86"
+      ]
+    },
+    "3-2-7-658-1032": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        658,
+        1032
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:36:16"
+      ]
+    },
+    "341-44-299-1032": {
+      "narrator_ids": [
+        341,
+        44,
+        299,
+        1032
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:25:86"
+      ]
+    },
+    "404-1032": {
+      "narrator_ids": [
+        404,
+        1032
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:2:3:55:16"
+      ]
+    },
+    "5-15-80-1032-669": {
+      "narrator_ids": [
+        5,
+        15,
+        80,
+        1032,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:55:8"
+      ]
+    },
+    "51-1032": {
+      "narrator_ids": [
+        51,
+        1032
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:24:6"
+      ]
+    },
+    "6-8-5-204-1032": {
+      "narrator_ids": [
+        6,
+        8,
+        5,
+        204,
+        1032
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:92:9"
+      ]
+    },
+    "658-1032": {
+      "narrator_ids": [
+        658,
+        1032
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:36:16"
+      ]
+    },
+    "80-1032": {
+      "narrator_ids": [
+        80,
+        1032
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:55:8"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1032",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1032.json"
+  }
+}

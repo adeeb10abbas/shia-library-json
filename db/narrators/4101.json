@@ -1,0 +1,54 @@
+{
+  "id": 4101,
+  "type": "narrator",
+  "path": "/people/narrators/4101",
+  "titles": {
+    "ar": "مُحَمَّدٍ أَخِي عُرَامٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:36:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3-2-39-4101-16-9": {
+      "narrator_ids": [
+        3,
+        2,
+        39,
+        4101,
+        16,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:36:1"
+      ]
+    },
+    "39-4101": {
+      "narrator_ids": [
+        39,
+        4101
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:36:1"
+      ]
+    },
+    "4101-16": {
+      "narrator_ids": [
+        4101,
+        16
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:36:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4101",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4101.json"
+  }
+}

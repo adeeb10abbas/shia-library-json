@@ -1,0 +1,44 @@
+{
+  "id": 3304,
+  "type": "narrator",
+  "path": "/people/narrators/3304",
+  "titles": {
+    "ar": "سَالِمٍ مَوْلَى أَبَانٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:5:2:18"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1238-643-68-2241-3304": {
+      "narrator_ids": [
+        1238,
+        643,
+        68,
+        2241,
+        3304
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:5:2:18"
+      ]
+    },
+    "2241-3304": {
+      "narrator_ids": [
+        2241,
+        3304
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:5:2:18"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3304",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3304.json"
+  }
+}

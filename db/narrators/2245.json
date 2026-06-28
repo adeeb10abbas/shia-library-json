@@ -1,0 +1,47 @@
+{
+  "id": 2245,
+  "type": "narrator",
+  "path": "/people/narrators/2245",
+  "titles": {
+    "ar": "أَبِيهِ سُلَيْمَانَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:2:6:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "296-2245": {
+      "narrator_ids": [
+        296,
+        2245
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:6:1"
+      ]
+    },
+    "4-5-29-130-165-294-296-2245": {
+      "narrator_ids": [
+        4,
+        5,
+        29,
+        130,
+        165,
+        294,
+        296,
+        2245
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:6:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2245",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2245.json"
+  }
+}

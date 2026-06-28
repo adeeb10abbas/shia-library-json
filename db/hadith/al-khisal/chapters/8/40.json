@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:8:40",
+  "chapter": {
+    "path": "/books/al-khisal:8:40",
+    "titles": {
+      "en": "The seven sisters in Paradise"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:8:40:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:8:40:1",
+        "parts": [
+          8,
+          40,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 8,
+        "book": 40,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:8:40",
+        "titles": {
+          "en": "The seven sisters in Paradise"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا سعد بن عبد الله، عن أحمد بن محمد ابن عيسى، عن أحمد بن محمد بن أبي نصر البزنطي، عن عاصم بن حميد، عن أبي بصير، عن أبي جعفر عليه السلام قال: سمعته يقول: رحم الله الاخوات من أهل الجنة فسماهن: أسما بنت عميس الخثعمية وكانت تحت جعفر بن أبي طالب عليه السلام، وسلمى بنت عميس الخثعمية وكانت تحت حمزة، وخمس من بني هلال: ميمونة بنت الحارث كانت تحت النبي صلى الله عليه وآله، وام الفضل عند العباس اسمها هند، والغميصاء ام خالد بن الوليد، وعزة كانت في ثقيف الحجاج بن غلاظ، وحميدة ولم يكن لها عقب"
+        ],
+        "text": ": حدثنا سعد بن عبد الله، عن أحمد بن محمد ابن عيسى، عن أحمد بن محمد بن أبي نصر البزنطي، عن عاصم بن حميد، عن أبي بصير، عن أبي جعفر عليه السلام قال: سمعته يقول: رحم الله الاخوات من أهل الجنة فسماهن: أسما بنت عميس الخثعمية وكانت تحت جعفر بن أبي طالب عليه السلام، وسلمى بنت عميس الخثعمية وكانت تحت حمزة، وخمس من بني هلال: ميمونة بنت الحارث كانت تحت النبي صلى الله عليه وآله، وام الفضل عند العباس اسمها هند، والغميصاء ام خالد بن الوليد، وعزة كانت في ثقيف الحجاج بن غلاظ، وحميدة ولم يكن لها عقب"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "7-56 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Sa’ed ibn Abdullah quoted Ahmad ibn Muhammad ibn Isa, on the authority of Ahmad ibn Muhammad ibn Abi Nasr al-Bazanty, on the authority of Asim ibn Hamid, on the authority of Abi Basir that Abi Ja’far al-Baqir (MGB) said, “God is kind to Heavenly sisters.” Then he (MGB) said their names as follows: Asma’, the daughter of Amis, from the Khasam clan and the wife of Ja’far ibn Abi Talib; Salmi, the daughter of Amis, and the wife of Hamzih; and five from the Hellal clan: Maymuna - the daughter of Al-Harith and the wife of the Prophet; Umm Al-Fazl Hind - the wife of Abbas ibn Abdul Mutalib; Qamisa - the mother of Khalid ibn Valid; Ezzat who was in the Saqif clan - the wife of Hajjaj ibn Qalaz; and Hamideh who did not have any children.”"
+          ],
+          "text": "7-56 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Sa’ed ibn Abdullah quoted Ahmad ibn Muhammad ibn Isa, on the authority of Ahmad ibn Muhammad ibn Abi Nasr al-Bazanty, on the authority of Asim ibn Hamid, on the authority of Abi Basir that Abi Ja’far al-Baqir (MGB) said, “God is kind to Heavenly sisters.” Then he (MGB) said their names as follows: Asma’, the daughter of Amis, from the Khasam clan and the wife of Ja’far ibn Abi Talib; Salmi, the daughter of Amis, and the wife of Hamzih; and five from the Hellal clan: Maymuna - the daughter of Al-Harith and the wife of the Prophet; Umm Al-Fazl Hind - the wife of Abbas ibn Abdul Mutalib; Qamisa - the mother of Khalid ibn Valid; Ezzat who was in the Saqif clan - the wife of Hajjaj ibn Qalaz; and Hamideh who did not have any children.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "7-56 حدثنا أبي رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "7-56 حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي رضي الله عنه قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:8:40:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/8/40/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/8/40/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

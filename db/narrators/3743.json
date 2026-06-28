@@ -1,0 +1,32 @@
+{
+  "id": 3743,
+  "type": "narrator",
+  "path": "/people/narrators/3743",
+  "titles": {
+    "ar": "عَلِيِّ بْنِ الْحَسَنِ بْنِ الْفَضْلِ الْيَمَانِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:124:7"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "35-3743": {
+      "narrator_ids": [
+        35,
+        3743
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:124:7"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3743",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3743.json"
+  }
+}

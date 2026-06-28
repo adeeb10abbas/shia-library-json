@@ -1,0 +1,44 @@
+{
+  "id": 4198,
+  "type": "narrator",
+  "path": "/people/narrators/4198",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ الْوَرَّاقِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:3:14:8"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3-2-43-51-4198": {
+      "narrator_ids": [
+        3,
+        2,
+        43,
+        51,
+        4198
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:3:14:8"
+      ]
+    },
+    "51-4198": {
+      "narrator_ids": [
+        51,
+        4198
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:3:14:8"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4198",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4198.json"
+  }
+}

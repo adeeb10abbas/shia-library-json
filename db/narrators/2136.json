@@ -1,0 +1,55 @@
+{
+  "id": 2136,
+  "type": "narrator",
+  "path": "/people/narrators/2136",
+  "titles": {
+    "ar": "أَبِي عَبْدِ اللَّهِ ( عليه السلام ) نَحْوَهُ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:134:7"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2136-1474": {
+      "narrator_ids": [
+        2136,
+        1474
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:134:7"
+      ]
+    },
+    "48-2136": {
+      "narrator_ids": [
+        48,
+        2136
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:134:7"
+      ]
+    },
+    "6-5-10-86-48-2136-1474": {
+      "narrator_ids": [
+        6,
+        5,
+        10,
+        86,
+        48,
+        2136,
+        1474
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:134:7"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2136",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2136.json"
+  }
+}

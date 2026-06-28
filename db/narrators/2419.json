@@ -1,0 +1,45 @@
+{
+  "id": 2419,
+  "type": "narrator",
+  "path": "/people/narrators/2419",
+  "titles": {
+    "ar": "أَسْمَاءَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:2:55:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1064-2419": {
+      "narrator_ids": [
+        1064,
+        2419
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:55:2"
+      ]
+    },
+    "6-8-185-79-1064-2419": {
+      "narrator_ids": [
+        6,
+        8,
+        185,
+        79,
+        1064,
+        2419
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:55:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2419",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2419.json"
+  }
+}

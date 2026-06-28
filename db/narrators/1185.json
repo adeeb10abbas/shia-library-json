@@ -1,0 +1,89 @@
+{
+  "id": 1185,
+  "type": "narrator",
+  "path": "/people/narrators/1185",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ جَزَّكٍ"
+  },
+  "versePaths": [
+    "/books/al-istibsar:1:115:10",
+    "/books/al-kafi:3:4:80:11",
+    "/books/al-kafi:3:5:33:10",
+    "/books/al-kafi:5:3:70:2",
+    "/books/man-la-yahduruhu-al-faqih:1:59:15"
+  ],
+  "verseCount": 5,
+  "relations": {},
+  "subchains": {
+    "11-76-1185": {
+      "narrator_ids": [
+        11,
+        76,
+        1185
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:115:10"
+      ]
+    },
+    "256-1185": {
+      "narrator_ids": [
+        256,
+        1185
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:80:11",
+        "/books/al-kafi:5:3:70:2",
+        "/books/man-la-yahduruhu-al-faqih:1:59:15"
+      ]
+    },
+    "36-1185": {
+      "narrator_ids": [
+        36,
+        1185
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:5:33:10"
+      ]
+    },
+    "4-256-1185": {
+      "narrator_ids": [
+        4,
+        256,
+        1185
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:80:11",
+        "/books/al-kafi:5:3:70:2"
+      ]
+    },
+    "76-1185": {
+      "narrator_ids": [
+        76,
+        1185
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:115:10"
+      ]
+    },
+    "97-78-59-36-1185": {
+      "narrator_ids": [
+        97,
+        78,
+        59,
+        36,
+        1185
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:5:33:10"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1185",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1185.json"
+  }
+}

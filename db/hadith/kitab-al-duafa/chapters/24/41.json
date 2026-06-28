@@ -1,0 +1,84 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "kitab-al-duafa",
+  "chapterPath": "/books/kitab-al-duafa:24:41",
+  "chapter": {
+    "path": "/books/kitab-al-duafa:24:41",
+    "titles": {
+      "en": "al-Mughīra b. Saʿīd"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "kitab-al-duafa:24:41:1",
+      "type": "hadith",
+      "book": {
+        "slug": "kitab-al-duafa",
+        "titles": {
+          "ar": "كتاب الضعفاء",
+          "en": "Kitab al-Du'afa'"
+        },
+        "author": {
+          "en": "Ahmad ibn al-Husayn al-Ghada'iri"
+        }
+      },
+      "path": {
+        "source": "/books/kitab-al-duafa:24:41:1",
+        "parts": [
+          24,
+          41,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 24,
+        "book": 41,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/kitab-al-duafa:24:41",
+        "titles": {
+          "en": "al-Mughīra b. Saʿīd"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": إنه كان يكذب علينا، وكان يدعو إلى محمد بن عبد الله بن الحسن، في أول أمره."
+        ],
+        "text": ": إنه كان يكذب علينا، وكان يدعو إلى محمد بن عبد الله بن الحسن، في أول أمره."
+      },
+      "translations": {
+        "en.tashayyu": {
+          "segments": [
+            "41 – al-Mughīra b. Saʿīd.  Abū Jaʿfar  عليه السلام came out and said: Indeed he used to lie against us.  And he used to call to Muḥammad b. ʿAbdullāh b. al-Ḥasan, in the beginning of his affair."
+          ],
+          "text": "41 – al-Mughīra b. Saʿīd.  Abū Jaʿfar  عليه السلام came out and said: Indeed he used to lie against us.  And he used to call to Muḥammad b. ʿAbdullāh b. al-Ḥasan, in the beginning of his affair."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "41 - المغيرة بن سعيد. خرج أبو جعفر (عليه السلام) فقال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "41 - "
+          },
+          {
+            "kind": "plain",
+            "text": "المغيرة بن سعيد. خرج أبو جعفر (عليه السلام) فقال"
+          }
+        ],
+        "narratorPaths": []
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/kitab-al-duafa:24:41:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/kitab-al-duafa/24/41/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/17/24/41/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

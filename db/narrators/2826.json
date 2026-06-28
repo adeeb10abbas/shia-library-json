@@ -1,0 +1,54 @@
+{
+  "id": 2826,
+  "type": "narrator",
+  "path": "/people/narrators/2826",
+  "titles": {
+    "ar": "الْوَشَّاءِ أَبِي الْفَرَجِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:229:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2518-2826": {
+      "narrator_ids": [
+        2518,
+        2826
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:229:2"
+      ]
+    },
+    "2826-148": {
+      "narrator_ids": [
+        2826,
+        148
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:229:2"
+      ]
+    },
+    "6-8-476-2518-2826-148": {
+      "narrator_ids": [
+        6,
+        8,
+        476,
+        2518,
+        2826,
+        148
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:229:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2826",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2826.json"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": 3322,
+  "type": "narrator",
+  "path": "/people/narrators/3322",
+  "titles": {
+    "ar": "سَعِيدٍ النَّقَّاشِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:2:71:1",
+    "/books/man-la-yahduruhu-al-faqih:2:2:34:1",
+    "/books/tahdhib-al-ahkam:3:6:36"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "11-35-12-2-223-3322": {
+      "narrator_ids": [
+        11,
+        35,
+        12,
+        2,
+        223,
+        3322
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:3:6:36"
+      ]
+    },
+    "223-3322": {
+      "narrator_ids": [
+        223,
+        3322
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:71:1",
+        "/books/tahdhib-al-ahkam:3:6:36"
+      ]
+    },
+    "35-12-2-223-3322": {
+      "narrator_ids": [
+        35,
+        12,
+        2,
+        223,
+        3322
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:71:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3322",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3322.json"
+  }
+}

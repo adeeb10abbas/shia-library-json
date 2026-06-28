@@ -1,0 +1,55 @@
+{
+  "id": 3814,
+  "type": "narrator",
+  "path": "/people/narrators/3814",
+  "titles": {
+    "ar": "عَلِيِّ بْنِ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:3:63:29"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "122-3814": {
+      "narrator_ids": [
+        122,
+        3814
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:63:29"
+      ]
+    },
+    "3-2-122-3814-32-34-669": {
+      "narrator_ids": [
+        3,
+        2,
+        122,
+        3814,
+        32,
+        34,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:63:29"
+      ]
+    },
+    "3814-32": {
+      "narrator_ids": [
+        3814,
+        32
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:63:29"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3814",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3814.json"
+  }
+}

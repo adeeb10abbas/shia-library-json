@@ -1,0 +1,85 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:4:200",
+  "chapter": {
+    "path": "/books/al-khisal:4:200",
+    "titles": {
+      "en": "The Best Deeds in the Opinion of the Honorable the Exalted God Are Three"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:4:200:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:4:200:1",
+        "parts": [
+          4,
+          200,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 200,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:4:200",
+        "titles": {
+          "en": "The Best Deeds in the Opinion of the Honorable the Exalted God Are Three"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": أخبرنا أبوالقاسم البغوي قال: حدثنا علي يعني ابن الجعد قال: حدثنا شعبة قال: أخبرنا الوليد بن العيزار بن حريث قال: سمعت أبا عمرو الشيباني قال: حدثني عبد الله بن مسعود، عن النبي صلى الله عليه وآله: إن أحب الاعمال إلى الله الصلاة والبر والجهاد"
+        ],
+        "text": ": أخبرنا أبوالقاسم البغوي قال: حدثنا علي يعني ابن الجعد قال: حدثنا شعبة قال: أخبرنا الوليد بن العيزار بن حريث قال: سمعت أبا عمرو الشيباني قال: حدثني عبد الله بن مسعود، عن النبي صلى الله عليه وآله: إن أحب الاعمال إلى الله الصلاة والبر والجهاد"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "3-256 Al-Khalil ibn Ahmad narrated that Abul Qasim al-Boqavy quoted Ali - that is Ibn al-Ja’ed, on the authority of Al-Shu’bat, on the authority of Al-Walid ibn al-Ayzar ibn Hareeth, on the authority of Aba Amr al-Sheibany, on the authority of Abdullah ibn Masood, on the authority of the Prophet (MGB), “Indeed the best deeds in the Opinion of God are praying, kindness and participating in a holy war.”"
+          ],
+          "text": "3-256 Al-Khalil ibn Ahmad narrated that Abul Qasim al-Boqavy quoted Ali - that is Ibn al-Ja’ed, on the authority of Al-Shu’bat, on the authority of Al-Walid ibn al-Ayzar ibn Hareeth, on the authority of Aba Amr al-Sheibany, on the authority of Abdullah ibn Masood, on the authority of the Prophet (MGB), “Indeed the best deeds in the Opinion of God are praying, kindness and participating in a holy war.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "3-256 أخبرني الخليل بن أحمد قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "3-256 "
+          },
+          {
+            "kind": "plain",
+            "text": "أخبرني الخليل بن أحمد قال"
+          }
+        ],
+        "narratorPaths": []
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:4:200:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/4/200/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/4/200/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

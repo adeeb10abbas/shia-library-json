@@ -1,0 +1,75 @@
+{
+  "id": 2010,
+  "type": "narrator",
+  "path": "/people/narrators/2010",
+  "titles": {
+    "ar": "أَبِي الْقَاسِمِ الصَّيْقَلِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:103:10",
+    "/books/tahdhib-al-ahkam:6:91:212",
+    "/books/tahdhib-al-ahkam:6:91:240"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "11-27-2010": {
+      "narrator_ids": [
+        11,
+        27,
+        2010
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:91:240"
+      ]
+    },
+    "135-2010": {
+      "narrator_ids": [
+        135,
+        2010
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:91:212"
+      ]
+    },
+    "27-2010": {
+      "narrator_ids": [
+        27,
+        2010
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:103:10",
+        "/books/tahdhib-al-ahkam:6:91:240"
+      ]
+    },
+    "4-5-27-2010": {
+      "narrator_ids": [
+        4,
+        5,
+        27,
+        2010
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:103:10"
+      ]
+    },
+    "4154-135-2010": {
+      "narrator_ids": [
+        4154,
+        135,
+        2010
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:91:212"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2010",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2010.json"
+  }
+}

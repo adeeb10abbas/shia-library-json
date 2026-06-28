@@ -1,0 +1,86 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "maani-al-akhbar",
+  "chapterPath": "/books/maani-al-akhbar:393",
+  "chapter": {
+    "path": "/books/maani-al-akhbar:393",
+    "titles": {
+      "en": "The meaning of Ameen"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "maani-al-akhbar:393:1",
+      "type": "hadith",
+      "book": {
+        "slug": "maani-al-akhbar",
+        "titles": {
+          "ar": "معاني الأخبار",
+          "en": "Ma'ani al-Akhbar"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/maani-al-akhbar:393:1",
+        "parts": [
+          393,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 393,
+        "book": 1
+      },
+      "chapter": {
+        "path": "/books/maani-al-akhbar:393",
+        "titles": {
+          "en": "The meaning of Ameen"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا أحمد بن إدريس، عن محمد بن أحمد، قال: حدثني عمر بن علي بن عمر بن يزيد، عن الحسين بن قارن رفعه إلى أبي عبد الله عليه السلام قال: إن تفسير قولك: \" آمين \" رب افعل. وروي في حديث آخر آمين اسم من أسماء الله عز وجل."
+        ],
+        "text": ": حدثنا أحمد بن إدريس، عن محمد بن أحمد، قال: حدثني عمر بن علي بن عمر بن يزيد، عن الحسين بن قارن رفعه إلى أبي عبد الله عليه السلام قال: إن تفسير قولك: \" آمين \" رب افعل. وروي في حديث آخر آمين اسم من أسماء الله عز وجل."
+      },
+      "translations": {
+        "en.basel-kadem": {
+          "segments": [
+            "1.\tWe were told by my father, may Allah grant him mercy, that he said: We were told by Ahmad bin Idrees, from Muhammed bin Ahmad, that he said: I was told by Umar bin Ali bin Umar bin Yazid, from Hussain bin Qarin, that he ascribed it to Abu Abdillah, peace be upon him, that he said: Indeed, the interpretation of your saying of «Ameen», is: My Lord, do. It has been narrated in another narration that Ameen [1] is a Name from the Names of Allah, Exalted and Glorious is He."
+          ],
+          "text": "1.\tWe were told by my father, may Allah grant him mercy, that he said: We were told by Ahmad bin Idrees, from Muhammed bin Ahmad, that he said: I was told by Umar bin Ali bin Umar bin Yazid, from Hussain bin Qarin, that he ascribed it to Abu Abdillah, peace be upon him, that he said: Indeed, the interpretation of your saying of «Ameen», is: My Lord, do. It has been narrated in another narration that Ameen [1] is a Name from the Names of Allah, Exalted and Glorious is He."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "حدثنا أبي - رحمه الله - قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي - رحمه الله - قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/maani-al-akhbar:393:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/maani-al-akhbar/393/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/28/1/395/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

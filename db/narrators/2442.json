@@ -1,0 +1,53 @@
+{
+  "id": 2442,
+  "type": "narrator",
+  "path": "/people/narrators/2442",
+  "titles": {
+    "ar": "إِسْمَاعِيلَ بْنِ بَشَّارٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:7:17:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2442-669": {
+      "narrator_ids": [
+        2442,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:17:1"
+      ]
+    },
+    "3-2-7-2442-669": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        2442,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:17:1"
+      ]
+    },
+    "7-2442": {
+      "narrator_ids": [
+        7,
+        2442
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:17:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2442",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2442.json"
+  }
+}

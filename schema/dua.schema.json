@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.local/shia-library-json/schema/dua.schema.json",
+  "title": "Dua Record",
+  "type": "object",
+  "required": ["id", "type", "slug", "title", "lines", "pairs", "source"],
+  "properties": {
+    "id": { "type": "string" },
+    "type": { "const": "dua" },
+    "slug": { "type": "string" },
+    "title": { "type": "string" },
+    "alternateName": { "type": "string" },
+    "lines": { "type": "array" },
+    "pairs": { "type": "array" },
+    "source": { "type": "object" }
+  }
+}
+

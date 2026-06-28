@@ -1,0 +1,53 @@
+{
+  "id": 3954,
+  "type": "narrator",
+  "path": "/people/narrators/3954",
+  "titles": {
+    "ar": "عِيسَى النَّهْرِيرِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:99:25"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-67-42-3954-669": {
+      "narrator_ids": [
+        11,
+        67,
+        42,
+        3954,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:99:25"
+      ]
+    },
+    "3954-669": {
+      "narrator_ids": [
+        3954,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:99:25"
+      ]
+    },
+    "42-3954": {
+      "narrator_ids": [
+        42,
+        3954
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:99:25"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3954",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3954.json"
+  }
+}

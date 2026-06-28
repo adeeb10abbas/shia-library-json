@@ -1,0 +1,32 @@
+{
+  "id": 3922,
+  "type": "narrator",
+  "path": "/people/narrators/3922",
+  "titles": {
+    "ar": "عَنِ الْمُفَضَّلِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:46:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "35-3922": {
+      "narrator_ids": [
+        35,
+        3922
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:46:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3922",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3922.json"
+  }
+}

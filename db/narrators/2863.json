@@ -1,0 +1,44 @@
+{
+  "id": 2863,
+  "type": "narrator",
+  "path": "/people/narrators/2863",
+  "titles": {
+    "ar": "بَدْرِ بْنِ الْخَلِيلِ الْأَسَدِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:6:8"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "161-2863": {
+      "narrator_ids": [
+        161,
+        2863
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:6:8"
+      ]
+    },
+    "3-2-22-161-2863": {
+      "narrator_ids": [
+        3,
+        2,
+        22,
+        161,
+        2863
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:6:8"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2863",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2863.json"
+  }
+}

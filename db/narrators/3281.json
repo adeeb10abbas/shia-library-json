@@ -1,0 +1,51 @@
+{
+  "id": 3281,
+  "type": "narrator",
+  "path": "/people/narrators/3281",
+  "titles": {
+    "ar": "زِيَادٍ أَبِي الْحَسَنِ الْوَاسِطِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:21:13"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "30-3281": {
+      "narrator_ids": [
+        30,
+        3281
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:21:13"
+      ]
+    },
+    "30-3281-194": {
+      "narrator_ids": [
+        30,
+        3281,
+        194
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:21:13"
+      ]
+    },
+    "3281-194": {
+      "narrator_ids": [
+        3281,
+        194
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:21:13"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3281",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3281.json"
+  }
+}

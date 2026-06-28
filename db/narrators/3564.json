@@ -1,0 +1,90 @@
+{
+  "id": 3564,
+  "type": "narrator",
+  "path": "/people/narrators/3564",
+  "titles": {
+    "ar": "عَبْدِ اللَّهِ بْنِ الْخَطَّابِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:237:8",
+    "/books/kamil-al-ziyarat:2:96:3",
+    "/books/kamil-al-ziyarat:2:97:9"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "167-3564": {
+      "narrator_ids": [
+        167,
+        3564
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:237:8",
+        "/books/kamil-al-ziyarat:2:96:3",
+        "/books/kamil-al-ziyarat:2:97:9"
+      ]
+    },
+    "167-3564-3608-1698-146-267-2": {
+      "narrator_ids": [
+        167,
+        3564,
+        3608,
+        1698,
+        146,
+        267,
+        2
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:97:9"
+      ]
+    },
+    "167-3564-3608-4424-146-174-2": {
+      "narrator_ids": [
+        167,
+        3564,
+        3608,
+        4424,
+        146,
+        174,
+        2
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:96:3"
+      ]
+    },
+    "3564-3608": {
+      "narrator_ids": [
+        3564,
+        3608
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:237:8",
+        "/books/kamil-al-ziyarat:2:96:3",
+        "/books/kamil-al-ziyarat:2:97:9"
+      ]
+    },
+    "4-167-3564-3608-199-146-267-2": {
+      "narrator_ids": [
+        4,
+        167,
+        3564,
+        3608,
+        199,
+        146,
+        267,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:237:8"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3564",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3564.json"
+  }
+}

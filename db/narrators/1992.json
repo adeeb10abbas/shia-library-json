@@ -1,0 +1,54 @@
+{
+  "id": 1992,
+  "type": "narrator",
+  "path": "/people/narrators/1992",
+  "titles": {
+    "ar": "أَبِي الصَّبَّاحِ بْنِ عَبْدِ الْحَمِيدِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:46:30"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1992-16": {
+      "narrator_ids": [
+        1992,
+        16
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:46:30"
+      ]
+    },
+    "4-5-42-1992-16-9": {
+      "narrator_ids": [
+        4,
+        5,
+        42,
+        1992,
+        16,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:46:30"
+      ]
+    },
+    "42-1992": {
+      "narrator_ids": [
+        42,
+        1992
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:46:30"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1992",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1992.json"
+  }
+}

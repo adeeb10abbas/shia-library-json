@@ -1,0 +1,53 @@
+{
+  "id": 3440,
+  "type": "narrator",
+  "path": "/people/narrators/3440",
+  "titles": {
+    "ar": "صَنْدَلٍ الْخَيَّاطِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:52:10"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1037-3440": {
+      "narrator_ids": [
+        1037,
+        3440
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:52:10"
+      ]
+    },
+    "3440-170": {
+      "narrator_ids": [
+        3440,
+        170
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:52:10"
+      ]
+    },
+    "35-36-1037-3440-170": {
+      "narrator_ids": [
+        35,
+        36,
+        1037,
+        3440,
+        170
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:52:10"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3440",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3440.json"
+  }
+}

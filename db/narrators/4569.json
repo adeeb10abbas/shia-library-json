@@ -1,0 +1,51 @@
+{
+  "id": 4569,
+  "type": "narrator",
+  "path": "/people/narrators/4569",
+  "titles": {
+    "ar": "يَحْيَى بْنِ عِيسَى"
+  },
+  "versePaths": [
+    "/books/tahdhib-al-ahkam:4:13:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-4569": {
+      "narrator_ids": [
+        11,
+        4569
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:4:13:5"
+      ]
+    },
+    "11-4569-288": {
+      "narrator_ids": [
+        11,
+        4569,
+        288
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:4:13:5"
+      ]
+    },
+    "4569-288": {
+      "narrator_ids": [
+        4569,
+        288
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:4:13:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4569",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4569.json"
+  }
+}

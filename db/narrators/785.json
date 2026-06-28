@@ -1,0 +1,152 @@
+{
+  "id": 785,
+  "type": "narrator",
+  "path": "/people/narrators/785",
+  "titles": {
+    "ar": "عَبْدِ الرَّحْمَنِ الْعَزْرَمِيِّ"
+  },
+  "versePaths": [
+    "/books/al-istibsar:1:274:2",
+    "/books/al-kafi:4:1:37:7",
+    "/books/al-kafi:5:2:102:3",
+    "/books/al-kafi:5:3:187:3",
+    "/books/al-kafi:6:6:25:2",
+    "/books/al-kafi:6:6:47:14",
+    "/books/tahdhib-al-ahkam:10:3:2"
+  ],
+  "verseCount": 7,
+  "relations": {},
+  "subchains": {
+    "11-785": {
+      "narrator_ids": [
+        11,
+        785
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:47:14"
+      ]
+    },
+    "11-785-669": {
+      "narrator_ids": [
+        11,
+        785,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:47:14"
+      ]
+    },
+    "12-785": {
+      "narrator_ids": [
+        12,
+        785
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:37:7",
+        "/books/al-kafi:6:6:25:2"
+      ]
+    },
+    "127-5-15-785-669": {
+      "narrator_ids": [
+        127,
+        5,
+        15,
+        785,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:187:3"
+      ]
+    },
+    "13-15-785-669": {
+      "narrator_ids": [
+        13,
+        15,
+        785,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:274:2"
+      ]
+    },
+    "15-785": {
+      "narrator_ids": [
+        15,
+        785
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:274:2",
+        "/books/al-kafi:5:2:102:3",
+        "/books/al-kafi:5:3:187:3"
+      ]
+    },
+    "19-187-292-80-785": {
+      "narrator_ids": [
+        19,
+        187,
+        292,
+        80,
+        785
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:10:3:2"
+      ]
+    },
+    "4-13-15-785-669-2": {
+      "narrator_ids": [
+        4,
+        13,
+        15,
+        785,
+        669,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:102:3"
+      ]
+    },
+    "6-12-785-669": {
+      "narrator_ids": [
+        6,
+        12,
+        785,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:37:7",
+        "/books/al-kafi:6:6:25:2"
+      ]
+    },
+    "785-669": {
+      "narrator_ids": [
+        785,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:274:2",
+        "/books/al-kafi:4:1:37:7",
+        "/books/al-kafi:5:2:102:3",
+        "/books/al-kafi:5:3:187:3",
+        "/books/al-kafi:6:6:25:2",
+        "/books/al-kafi:6:6:47:14"
+      ]
+    },
+    "80-785": {
+      "narrator_ids": [
+        80,
+        785
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:10:3:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/785",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/785.json"
+  }
+}

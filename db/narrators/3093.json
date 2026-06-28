@@ -1,0 +1,44 @@
+{
+  "id": 3093,
+  "type": "narrator",
+  "path": "/people/narrators/3093",
+  "titles": {
+    "ar": "حُكَيْمٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:124:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3-27-26-46-3093": {
+      "narrator_ids": [
+        3,
+        27,
+        26,
+        46,
+        3093
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:124:1"
+      ]
+    },
+    "46-3093": {
+      "narrator_ids": [
+        46,
+        3093
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:124:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3093",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3093.json"
+  }
+}

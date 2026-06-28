@@ -1,0 +1,55 @@
+{
+  "id": 2761,
+  "type": "narrator",
+  "path": "/people/narrators/2761",
+  "titles": {
+    "ar": "الْقَاسِمِ ابْنِ عُرْوَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:2:20:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2761-222": {
+      "narrator_ids": [
+        2761,
+        222
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:20:2"
+      ]
+    },
+    "3-2-6-5-7-2761-222": {
+      "narrator_ids": [
+        3,
+        2,
+        6,
+        5,
+        7,
+        2761,
+        222
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:20:2"
+      ]
+    },
+    "7-2761": {
+      "narrator_ids": [
+        7,
+        2761
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:20:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2761",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2761.json"
+  }
+}

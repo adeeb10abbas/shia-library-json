@@ -1,0 +1,53 @@
+{
+  "id": 3556,
+  "type": "narrator",
+  "path": "/people/narrators/3556",
+  "titles": {
+    "ar": "عَبْدِ اللَّهِ بْنِ إِسْحَاقَ الْجَعْفَرِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:48:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3004-3556": {
+      "narrator_ids": [
+        3004,
+        3556
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:48:3"
+      ]
+    },
+    "3556-669": {
+      "narrator_ids": [
+        3556,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:48:3"
+      ]
+    },
+    "4-13-3004-3556-669": {
+      "narrator_ids": [
+        4,
+        13,
+        3004,
+        3556,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:48:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3556",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3556.json"
+  }
+}

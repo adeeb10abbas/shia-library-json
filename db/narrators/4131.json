@@ -1,0 +1,32 @@
+{
+  "id": 4131,
+  "type": "narrator",
+  "path": "/people/narrators/4131",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ أَحْمَدَ بِإِسْنَادٍ لَهُ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:3:92:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "4-4131": {
+      "narrator_ids": [
+        4,
+        4131
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:92:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4131",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4131.json"
+  }
+}

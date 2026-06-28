@@ -1,0 +1,86 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "maani-al-akhbar",
+  "chapterPath": "/books/maani-al-akhbar:92",
+  "chapter": {
+    "path": "/books/maani-al-akhbar:92",
+    "titles": {
+      "en": "The meaning of the cruel and the villainous"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "maani-al-akhbar:92:1",
+      "type": "hadith",
+      "book": {
+        "slug": "maani-al-akhbar",
+        "titles": {
+          "ar": "معاني الأخبار",
+          "en": "Ma'ani al-Akhbar"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/maani-al-akhbar:92:1",
+        "parts": [
+          92,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 92,
+        "book": 1
+      },
+      "chapter": {
+        "path": "/books/maani-al-akhbar:92",
+        "titles": {
+          "en": "The meaning of the cruel and the villainous"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا سعد بن عبد الله، عن أحمد بن محمد بن عيسى، عن العباس بن معروف، عن صفوان بن يحيى، عن ابن مسكان، عن محمد بن مسلم، قال: قلت لأبي عبد الله عليه السلام: \" عتل بعد ذلك زنيم \"   قال: العتل العظيم الكفر، والزنيم المستهتر بكفره ."
+        ],
+        "text": ": حدثنا سعد بن عبد الله، عن أحمد بن محمد بن عيسى، عن العباس بن معروف، عن صفوان بن يحيى، عن ابن مسكان، عن محمد بن مسلم، قال: قلت لأبي عبد الله عليه السلام: \" عتل بعد ذلك زنيم \"   قال: العتل العظيم الكفر، والزنيم المستهتر بكفره ."
+      },
+      "translations": {
+        "en.basel-kadem": {
+          "segments": [
+            "1.\tMy father, may Allah grant him mercy, said: We were told by Sa’d bin Abdullah, from Ahmad bin Muhammed bin Isa, from Abbas bin Ma’ruf, from Safwan bin Yahya, from Ibn Maskan, from Muhammed bin Muslim, that he said: I said to Abu Abdillah, peace be upon him: «Cruel, moreover, a bastard.» <a href=\"/books/quran:68#h13\">[68:13]</a> He said: The great cruelty is disbelief, and the villainous is the one who wantons with his disbelief."
+          ],
+          "text": "1.\tMy father, may Allah grant him mercy, said: We were told by Sa’d bin Abdullah, from Ahmad bin Muhammed bin Isa, from Abbas bin Ma’ruf, from Safwan bin Yahya, from Ibn Maskan, from Muhammed bin Muslim, that he said: I said to Abu Abdillah, peace be upon him: «Cruel, moreover, a bastard.» <a href=\"/books/quran:68#h13\">[68:13]</a> He said: The great cruelty is disbelief, and the villainous is the one who wantons with his disbelief."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "أبي - رحمه الله - قال",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "أبي - رحمه الله - قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {
+        "Mentions": [
+          "/books/quran:68:13"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/maani-al-akhbar:92:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/maani-al-akhbar/92/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/28/1/92/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

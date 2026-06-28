@@ -1,0 +1,64 @@
+{
+  "id": 1624,
+  "type": "narrator",
+  "path": "/people/narrators/1624",
+  "titles": {
+    "ar": "كَانَ مِنَ الْوَاقِفَةِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:72:6",
+    "/books/al-kafi:1:4:81:11"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "1104-1624": {
+      "narrator_ids": [
+        1104,
+        1624
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:72:6"
+      ]
+    },
+    "1235-1624": {
+      "narrator_ids": [
+        1235,
+        1624
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:81:11"
+      ]
+    },
+    "219-67-1104-1624": {
+      "narrator_ids": [
+        219,
+        67,
+        1104,
+        1624
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:72:6"
+      ]
+    },
+    "219-67-1235-1624": {
+      "narrator_ids": [
+        219,
+        67,
+        1235,
+        1624
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:81:11"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1624",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1624.json"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": 2731,
+  "type": "narrator",
+  "path": "/people/narrators/2731",
+  "titles": {
+    "ar": "الْعَزْرَمِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:3:3:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "12-2731": {
+      "narrator_ids": [
+        12,
+        2731
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:3:5"
+      ]
+    },
+    "2731-2": {
+      "narrator_ids": [
+        2731,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:3:5"
+      ]
+    },
+    "6-12-2731-2-669": {
+      "narrator_ids": [
+        6,
+        12,
+        2731,
+        2,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:3:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2731",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2731.json"
+  }
+}

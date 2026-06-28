@@ -1,0 +1,135 @@
+{
+  "id": 1728,
+  "type": "narrator",
+  "path": "/people/narrators/1728",
+  "titles": {
+    "ar": "يَحْيَى بْنِ مُحَمَّدٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:4:32:7",
+    "/books/al-kafi:7:1:2:6",
+    "/books/man-la-yahduruhu-al-faqih:4:87:3",
+    "/books/tahdhib-al-ahkam:2:8:158",
+    "/books/tahdhib-al-ahkam:9:7:1"
+  ],
+  "verseCount": 5,
+  "relations": {},
+  "subchains": {
+    "12-1728": {
+      "narrator_ids": [
+        12,
+        1728
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:32:7",
+        "/books/tahdhib-al-ahkam:2:8:158"
+      ]
+    },
+    "146-1728": {
+      "narrator_ids": [
+        146,
+        1728
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:1:2:6",
+        "/books/man-la-yahduruhu-al-faqih:4:87:3"
+      ]
+    },
+    "146-1728-669": {
+      "narrator_ids": [
+        146,
+        1728,
+        669
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:4:87:3"
+      ]
+    },
+    "146-927-1728": {
+      "narrator_ids": [
+        146,
+        927,
+        1728
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:7:1"
+      ]
+    },
+    "1728-669": {
+      "narrator_ids": [
+        1728,
+        669
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:4:87:3"
+      ]
+    },
+    "1728-88": {
+      "narrator_ids": [
+        1728,
+        88
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:32:7",
+        "/books/tahdhib-al-ahkam:2:8:158"
+      ]
+    },
+    "59-593-146-1728": {
+      "narrator_ids": [
+        59,
+        593,
+        146,
+        1728
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:1:2:6"
+      ]
+    },
+    "6-12-1728-88-74-60-669": {
+      "narrator_ids": [
+        6,
+        12,
+        1728,
+        88,
+        74,
+        60,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:32:7"
+      ]
+    },
+    "927-1728": {
+      "narrator_ids": [
+        927,
+        1728
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:7:1"
+      ]
+    },
+    "952-6-12-1728-88-74-60-669": {
+      "narrator_ids": [
+        952,
+        6,
+        12,
+        1728,
+        88,
+        74,
+        60,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:8:158"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1728",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1728.json"
+  }
+}

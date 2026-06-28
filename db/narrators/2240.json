@@ -1,0 +1,54 @@
+{
+  "id": 2240,
+  "type": "narrator",
+  "path": "/people/narrators/2240",
+  "titles": {
+    "ar": "أَبِيهِ أَسْبَاطٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:11:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2240-589": {
+      "narrator_ids": [
+        2240,
+        589
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:11:2"
+      ]
+    },
+    "6-5-21-68-2240-589": {
+      "narrator_ids": [
+        6,
+        5,
+        21,
+        68,
+        2240,
+        589
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:11:2"
+      ]
+    },
+    "68-2240": {
+      "narrator_ids": [
+        68,
+        2240
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:11:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2240",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2240.json"
+  }
+}

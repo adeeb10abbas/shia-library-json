@@ -1,0 +1,54 @@
+{
+  "id": 1879,
+  "type": "narrator",
+  "path": "/people/narrators/1879",
+  "titles": {
+    "ar": "ابْنِ جَبَلٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:98:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1812-1879": {
+      "narrator_ids": [
+        1812,
+        1879
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:98:2"
+      ]
+    },
+    "1879-669": {
+      "narrator_ids": [
+        1879,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:98:2"
+      ]
+    },
+    "35-8-145-1812-1879-669": {
+      "narrator_ids": [
+        35,
+        8,
+        145,
+        1812,
+        1879,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:98:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1879",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1879.json"
+  }
+}

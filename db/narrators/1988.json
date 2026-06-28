@@ -1,0 +1,54 @@
+{
+  "id": 1988,
+  "type": "narrator",
+  "path": "/people/narrators/1988",
+  "titles": {
+    "ar": "أَبِي الرَّبِيعِ الْقَزَّازِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:107:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1988-72": {
+      "narrator_ids": [
+        1988,
+        72
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:107:4"
+      ]
+    },
+    "3-101-7-1988-72-9": {
+      "narrator_ids": [
+        3,
+        101,
+        7,
+        1988,
+        72,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:107:4"
+      ]
+    },
+    "7-1988": {
+      "narrator_ids": [
+        7,
+        1988
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:107:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1988",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1988.json"
+  }
+}

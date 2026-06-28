@@ -1,0 +1,134 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:4:53",
+  "chapter": {
+    "path": "/books/al-khisal:4:53",
+    "titles": {
+      "en": "Our Followers Will be Tested Under Three Circumstances"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:4:53:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:4:53:1",
+        "parts": [
+          4,
+          53,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 53,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:4:53",
+        "titles": {
+          "en": "Our Followers Will be Tested Under Three Circumstances"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": امتحنوا شيعتنا عند ثلاث: عند مواقيت الصلاة كيف محافظتهم عليها، وعند أسرارهم كيف حفظهم لها عند عدونا، وإلى أموالهم كيف مواساتهم لاخوانهم فيها"
+        ],
+        "text": ": امتحنوا شيعتنا عند ثلاث: عند مواقيت الصلاة كيف محافظتهم عليها، وعند أسرارهم كيف حفظهم لها عند عدونا، وإلى أموالهم كيف مواساتهم لاخوانهم فيها"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "3-62 Ahmad ibn Muhammad ibn Yahya al-Attar - may God be pleased with him - narrated that his father quoted Muhammad ibn Ahmad, on the authority of Harun leftover ibn Muslim, on the authority of Al-Laysee that Ja’far ibn Muhammad as-Sadiq (MGB) said, “Our followers will be tested under three circumstances. They will be tested as how well they guard their prayers. They will be tested as how well they keep our secrets from our enemies. And they will be tested as how they use their wealth to help their brethren.”"
+          ],
+          "text": "3-62 Ahmad ibn Muhammad ibn Yahya al-Attar - may God be pleased with him - narrated that his father quoted Muhammad ibn Ahmad, on the authority of Harun leftover ibn Muslim, on the authority of Al-Laysee that Ja’far ibn Muhammad as-Sadiq (MGB) said, “Our followers will be tested under three circumstances. They will be tested as how well they guard their prayers. They will be tested as how well they keep our secrets from our enemies. And they will be tested as how they use their wealth to help their brethren.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "3-62 حدثنا أحمد بن محمد بن يحيى العطار رضي الله عنه، عن أبيه، عن محمد بن أحمد، عن هارون بن مسلم، عن الليثي، عن جعفر بن محمد عليهما السلام قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "3-62 حدثنا "
+          },
+          {
+            "kind": "plain",
+            "text": "أحمد بن محمد بن يحيى العطار رضي الله عنه،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبيه،",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "محمد بن أحمد،",
+            "path": "/people/narrators/59"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "هارون بن مسلم،",
+            "path": "/people/narrators/113"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "الليثي،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "جعفر بن محمد عليهما السلام قال",
+            "path": "/people/narrators/208"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/2",
+          "/people/narrators/59",
+          "/people/narrators/113",
+          "/people/narrators/208"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:4:53:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/4/53/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/4/53/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

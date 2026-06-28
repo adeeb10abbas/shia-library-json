@@ -1,0 +1,54 @@
+{
+  "id": 2165,
+  "type": "narrator",
+  "path": "/people/narrators/2165",
+  "titles": {
+    "ar": "أَبِي عُرْوَةَ أَخِي شُعَيْبٍ أَوْ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:39:31"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1465-2165": {
+      "narrator_ids": [
+        1465,
+        2165
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:39:31"
+      ]
+    },
+    "2165-396": {
+      "narrator_ids": [
+        2165,
+        396
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:39:31"
+      ]
+    },
+    "6-8-101-1465-2165-396": {
+      "narrator_ids": [
+        6,
+        8,
+        101,
+        1465,
+        2165,
+        396
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:39:31"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2165",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2165.json"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": 2533,
+  "type": "narrator",
+  "path": "/people/narrators/2533",
+  "titles": {
+    "ar": "الْحَسَنِ بْنِ الْحُسَيْنِ اللُّؤْلُؤِيِّ بِإِسْنَادِهِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:1:1:2",
+    "/books/tahdhib-al-ahkam:1:25:2"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "4-78-59-2533": {
+      "narrator_ids": [
+        4,
+        78,
+        59,
+        2533
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:1:1:2"
+      ]
+    },
+    "59-2533": {
+      "narrator_ids": [
+        59,
+        2533
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:1:1:2",
+        "/books/tahdhib-al-ahkam:1:25:2"
+      ]
+    },
+    "77-952-4-78-59-2533": {
+      "narrator_ids": [
+        77,
+        952,
+        4,
+        78,
+        59,
+        2533
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:25:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2533",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2533.json"
+  }
+}

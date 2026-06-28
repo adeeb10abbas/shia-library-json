@@ -1,0 +1,92 @@
+{
+  "id": 3636,
+  "type": "narrator",
+  "path": "/people/narrators/3636",
+  "titles": {
+    "ar": "عَبْدِ الْوَهَّابِ"
+  },
+  "versePaths": [
+    "/books/al-istibsar:1:92:3",
+    "/books/al-kafi:3:1:46:13",
+    "/books/tahdhib-al-ahkam:1:27:94"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "19-24-43-3636-158-47-299-669": {
+      "narrator_ids": [
+        19,
+        24,
+        43,
+        3636,
+        158,
+        47,
+        299,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:1:46:13"
+      ]
+    },
+    "3636-158": {
+      "narrator_ids": [
+        3636,
+        158
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:92:3",
+        "/books/al-kafi:3:1:46:13",
+        "/books/tahdhib-al-ahkam:1:27:94"
+      ]
+    },
+    "4-29-43-3636-158-47-299-669": {
+      "narrator_ids": [
+        4,
+        29,
+        43,
+        3636,
+        158,
+        47,
+        299,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:92:3"
+      ]
+    },
+    "4134-29-43-3636-158-47-299-669": {
+      "narrator_ids": [
+        4134,
+        29,
+        43,
+        3636,
+        158,
+        47,
+        299,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:27:94"
+      ]
+    },
+    "43-3636": {
+      "narrator_ids": [
+        43,
+        3636
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:92:3",
+        "/books/al-kafi:3:1:46:13",
+        "/books/tahdhib-al-ahkam:1:27:94"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3636",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3636.json"
+  }
+}

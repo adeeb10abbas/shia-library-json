@@ -1,0 +1,43 @@
+{
+  "id": 3420,
+  "type": "narrator",
+  "path": "/people/narrators/3420",
+  "titles": {
+    "ar": "صَالِحٍ الْأَحْوَلِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:37:15"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3364-3420": {
+      "narrator_ids": [
+        3364,
+        3420
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:37:15"
+      ]
+    },
+    "8-248-3364-3420": {
+      "narrator_ids": [
+        8,
+        248,
+        3364,
+        3420
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:37:15"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3420",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3420.json"
+  }
+}

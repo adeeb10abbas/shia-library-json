@@ -1,0 +1,545 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:4:2:67",
+  "chapter": {
+    "path": "/books/al-kafi:4:2:67",
+    "titles": {
+      "ar": "بَابُ الْغُسْلِ فِي شَهْرِ رَمَضَانَ",
+      "en": "Chapter 67 – The bathing during the Month of Ramazan"
+    }
+  },
+  "count": 4,
+  "records": [
+    {
+      "id": "al-kafi:4:2:67:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:4:2:67:1",
+        "parts": [
+          4,
+          2,
+          67,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 2,
+        "chapter": 67,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:4:2:67",
+        "titles": {
+          "ar": "بَابُ الْغُسْلِ فِي شَهْرِ رَمَضَانَ",
+          "en": "Chapter 67 – The bathing during the Month of Ramazan"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " الْغُسْلُ فِي شَهْرِ رَمَضَانَ عِنْدَ وُجُوبِ الشَّمْسِ قُبَيْلَهُ ثُمَّ يُصَلِّي ثُمَّ يُفْطِرُ ."
+        ],
+        "text": "الْغُسْلُ فِي شَهْرِ رَمَضَانَ عِنْدَ وُجُوبِ الشَّمْسِ قُبَيْلَهُ ثُمَّ يُصَلِّي ثُمَّ يُفْطِرُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father, from Hammad Bin Isa, from Hareyz, from Zurara and Fuzayl, ",
+            "(It has been narrated) from Abu Ja’far<sup>asws</sup> having said: ‘The bathing during the Month of Ramazan is during the setting of the sun, shortly before it. Then one should Pray, then break the Fast’."
+          ],
+          "text": "Ali Bin Ibrahim, from his father, from Hammad Bin Isa, from Hareyz, from Zurara and Fuzayl,\n\n(It has been narrated) from Abu Ja’far<sup>asws</sup> having said: ‘The bathing during the Month of Ramazan is during the setting of the sun, shortly before it. Then one should Pray, then break the Fast’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. Ali ibn Ibrahim has narrated from his father from Hammad ibn ‘Isa from Hariz, from Zurarah from Fudayl who has said the following: “Abu Ja’far, ‘Alayhi al-Salam, has said, ‘Shower in the month of Ramadan is just before sunset, thereafter one performs salat (prayer) and takes breakfast after sunset.” "
+          ],
+          "text": "1. Ali ibn Ibrahim has narrated from his father from Hammad ibn ‘Isa from Hariz, from Zurarah from Fudayl who has said the following: “Abu Ja’far, ‘Alayhi al-Salam, has said, ‘Shower in the month of Ramadan is just before sunset, thereafter one performs salat (prayer) and takes breakfast after sunset.”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> حسن   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (6/375)",
+          "label": "حسن",
+          "text": "Allamah Baqir al-Majlisi: حسن - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (6/375)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنْ حَمَّادِ بْنِ عِيسَى عَنْ حَرِيزٍ عَنْ زُرَارَةَ وَ فُضَيْلٍ عَنْ أَبِي جَعْفَرٍ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "حَمَّادِ بْنِ عِيسَى",
+            "path": "/people/narrators/38"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "حَرِيزٍ",
+            "path": "/people/narrators/40"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "زُرَارَةَ",
+            "path": "/people/narrators/18"
+          },
+          {
+            "kind": "plain",
+            "text": " وَ "
+          },
+          {
+            "kind": "narrator",
+            "text": "فُضَيْلٍ",
+            "path": "/people/narrators/360"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي جَعْفَرٍ ( عليه السلام )",
+            "path": "/people/narrators/9"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/38",
+          "/people/narrators/40",
+          "/people/narrators/18",
+          "/people/narrators/360",
+          "/people/narrators/9"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:4:2:67:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/4/2/67/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:4:2:67:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:4:2:67:2",
+        "parts": [
+          4,
+          2,
+          67,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 2,
+        "chapter": 67,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:4:2:67",
+        "titles": {
+          "ar": "بَابُ الْغُسْلِ فِي شَهْرِ رَمَضَانَ",
+          "en": "Chapter 67 – The bathing during the Month of Ramazan"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَأَلْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) كَمْ أَغْتَسِلُ فِي شَهْرِ رَمَضَانَ لَيْلَةً قَالَ لَيْلَةَ تِسْعَ عَشْرَةَ وَ لَيْلَةَ إِحْدَى وَ عِشْرِينَ وَ ثَلَاثٍ وَ عِشْرِينَ قَالَ قُلْتُ فَإِنْ شَقَّ عَلَيَّ قَالَ فِي إِحْدَى وَ عِشْرِينَ وَ ثَلَاثٍ وَ عِشْرِينَ قُلْتُ فَإِنْ شَقَّ عَلَيَّ قَالَ حَسْبُكَ الْآنَ ."
+        ],
+        "text": "سَأَلْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) كَمْ أَغْتَسِلُ فِي شَهْرِ رَمَضَانَ لَيْلَةً قَالَ لَيْلَةَ تِسْعَ عَشْرَةَ وَ لَيْلَةَ إِحْدَى وَ عِشْرِينَ وَ ثَلَاثٍ وَ عِشْرِينَ قَالَ قُلْتُ فَإِنْ شَقَّ عَلَيَّ قَالَ فِي إِحْدَى وَ عِشْرِينَ وَ ثَلَاثٍ وَ عِشْرِينَ قُلْتُ فَإِنْ شَقَّ عَلَيَّ قَالَ حَسْبُكَ الْآنَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Ismail, from Al Fazl Bin Shazaan, from Safwan Bin Yahya, from Mansour Bin Hazim, from Suleyman Bin Khalid who said, ",
+            "‘I asked Abu Abdullah<sup>asws</sup>, ‘In how may nights should one bathe during the Month of Ramazan?’ He<sup>asws</sup> said: ‘The night of 19<sup>th</sup>, and night of 21<sup>st</sup> and 23<sup>rd</sup>’. I said, ‘Supposing it was difficult upon me?’ He<sup>asws</sup> said: ‘During 21<sup>st</sup> and 23rd’. I said, ‘Supposing it was grievous upon me?’ He<sup>asws</sup> said: ‘Enough, now!’"
+          ],
+          "text": "Muhammad Bin Ismail, from Al Fazl Bin Shazaan, from Safwan Bin Yahya, from Mansour Bin Hazim, from Suleyman Bin Khalid who said,\n\n‘I asked Abu Abdullah<sup>asws</sup>, ‘In how may nights should one bathe during the Month of Ramazan?’ He<sup>asws</sup> said: ‘The night of 19<sup>th</sup>, and night of 21<sup>st</sup> and 23<sup>rd</sup>’. I said, ‘Supposing it was difficult upon me?’ He<sup>asws</sup> said: ‘During 21<sup>st</sup> and 23rd’. I said, ‘Supposing it was grievous upon me?’ He<sup>asws</sup> said: ‘Enough, now!’"
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. Muhammad ibn Isma‘il has narrated from al-Fadl ibn Shadhan from Safwan ibn Yahya from Mansur ibn Hazim from Sulayman ibn Khalid who has said the following: “I once asked abu ‘ Abd Allah, ‘Alayhi al-Salam, on how many nights should one take a shower in the month of Ramadan?’ He (the Imam) replied, ‘It is on the nineteenth, twenty- first and twenty-third nights.’ I then said, ‘What if even this much becomes difficult for me?’ He then said, ‘Take a shower on the twenty- first and twenty-third nights.’ I then said, ‘What happens if this becomes difficult for me?’ He (the Imam) said, ‘Now it is enough.’” "
+          ],
+          "text": "2. Muhammad ibn Isma‘il has narrated from al-Fadl ibn Shadhan from Safwan ibn Yahya from Mansur ibn Hazim from Sulayman ibn Khalid who has said the following: “I once asked abu ‘ Abd Allah, ‘Alayhi al-Salam, on how many nights should one take a shower in the month of Ramadan?’ He (the Imam) replied, ‘It is on the nineteenth, twenty- first and twenty-third nights.’ I then said, ‘What if even this much becomes difficult for me?’ He then said, ‘Take a shower on the twenty- first and twenty-third nights.’ I then said, ‘What happens if this becomes difficult for me?’ He (the Imam) said, ‘Now it is enough.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مجهول كالصحيح   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (16/375)",
+          "label": "مجهول كالصحيح",
+          "text": "Allamah Baqir al-Majlisi: مجهول كالصحيح - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (16/375)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ إِسْمَاعِيلَ عَنِ الْفَضْلِ بْنِ شَاذَانَ عَنْ صَفْوَانَ بْنِ يَحْيَى عَنْ مَنْصُورِ بْنِ حَازِمٍ عَنْ سُلَيْمَانَ بْنِ خَالِدٍ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ إِسْمَاعِيلَ",
+            "path": "/people/narrators/17"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْفَضْلِ بْنِ شَاذَانَ",
+            "path": "/people/narrators/33"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "صَفْوَانَ بْنِ يَحْيَى",
+            "path": "/people/narrators/30"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مَنْصُورِ بْنِ حَازِمٍ",
+            "path": "/people/narrators/108"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سُلَيْمَانَ بْنِ خَالِدٍ",
+            "path": "/people/narrators/123"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/17",
+          "/people/narrators/33",
+          "/people/narrators/30",
+          "/people/narrators/108",
+          "/people/narrators/123"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:4:2:67:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/4/2/67/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:4:2:67:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:4:2:67:3",
+        "parts": [
+          4,
+          2,
+          67,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 2,
+        "chapter": 67,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:4:2:67",
+        "titles": {
+          "ar": "بَابُ الْغُسْلِ فِي شَهْرِ رَمَضَانَ",
+          "en": "Chapter 67 – The bathing during the Month of Ramazan"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَأَلْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) عَنِ اللَّيْلَةِ الَّتِي يُطْلَبُ فِيهَا مَا يُطْلَبُ مَتَى الْغُسْلُ فَقَالَ مِنْ أَوَّلِ اللَّيْلِ وَ إِنْ شِئْتَ حَيْثُ تَقُومُ مِنْ آخِرِهِ وَ سَأَلْتُهُ عَنِ الْقِيَامِ فَقَالَ تَقُومُ فِي أَوَّلِهِ وَ آخِرِهِ ."
+        ],
+        "text": "سَأَلْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) عَنِ اللَّيْلَةِ الَّتِي يُطْلَبُ فِيهَا مَا يُطْلَبُ مَتَى الْغُسْلُ فَقَالَ مِنْ أَوَّلِ اللَّيْلِ وَ إِنْ شِئْتَ حَيْثُ تَقُومُ مِنْ آخِرِهِ وَ سَأَلْتُهُ عَنِ الْقِيَامِ فَقَالَ تَقُومُ فِي أَوَّلِهِ وَ آخِرِهِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Safwan Bin Yahya, from Ays Bin Al Qasim who said, ",
+            "‘I asked Abu Abdullah<sup>asws</sup> about the night in which to seek what is sought, when to bathe?’ So he<sup>asws</sup> said: ‘From the beginning of the night; and if you so desire to, when you are standing (for Prayer) at its end’. And I asked him<sup>asws</sup> about the standing (for the Prayer), so he<sup>asws</sup> said: ‘You should be standing during its beginning and its end’."
+          ],
+          "text": "Safwan Bin Yahya, from Ays Bin Al Qasim who said,\n\n‘I asked Abu Abdullah<sup>asws</sup> about the night in which to seek what is sought, when to bathe?’ So he<sup>asws</sup> said: ‘From the beginning of the night; and if you so desire to, when you are standing (for Prayer) at its end’. And I asked him<sup>asws</sup> about the standing (for the Prayer), so he<sup>asws</sup> said: ‘You should be standing during its beginning and its end’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "3. Safwan ibn Yahya has narrated from ‘Is ibn al-Qasim who has said the following: “I once asked abu ‘Abd Allah, ‘Alayhi al-Salam, about the night during which one can appeal before Allah for one’s needs when it is the time for a shower. He (the Imam) replied, ‘It is at the beginning of the night, or if you like, at the end of the night as you wake up.’ I then asked about al-Qiyam (rising up) (for salat [prayer]). He said, ‘You may rise in the beginning or toward the end of the night.’” "
+          ],
+          "text": "3. Safwan ibn Yahya has narrated from ‘Is ibn al-Qasim who has said the following: “I once asked abu ‘Abd Allah, ‘Alayhi al-Salam, about the night during which one can appeal before Allah for one’s needs when it is the time for a shower. He (the Imam) replied, ‘It is at the beginning of the night, or if you like, at the end of the night as you wake up.’ I then asked about al-Qiyam (rising up) (for salat [prayer]). He said, ‘You may rise in the beginning or toward the end of the night.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مجهول كالصحيح   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (16/375)",
+          "label": "مجهول كالصحيح",
+          "text": "Allamah Baqir al-Majlisi: مجهول كالصحيح - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (16/375)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "صَفْوَانُ بْنُ يَحْيَى عَنْ عِيصِ بْنِ الْقَاسِمِ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "صَفْوَانُ بْنُ يَحْيَى",
+            "path": "/people/narrators/30"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عِيصِ بْنِ الْقَاسِمِ",
+            "path": "/people/narrators/265"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/30",
+          "/people/narrators/265"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:4:2:67:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/4/2/67/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:4:2:67:4",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:4:2:67:4",
+        "parts": [
+          4,
+          2,
+          67,
+          4
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 2,
+        "chapter": 67,
+        "hadith": 4
+      },
+      "chapter": {
+        "path": "/books/al-kafi:4:2:67",
+        "titles": {
+          "ar": "بَابُ الْغُسْلِ فِي شَهْرِ رَمَضَانَ",
+          "en": "Chapter 67 – The bathing during the Month of Ramazan"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " الْغُسْلُ فِي لَيَالٍ مِنْ شَهْرِ رَمَضَانَ فِي تِسْعَ عَشْرَةَ وَ إِحْدَى وَ عِشْرِينَ وَ ثَلَاثٍ وَ عِشْرِينَ وَ أُصِيبَ أَمِيرُ الْمُؤْمِنِينَ صَلَوَاتُ اللَّهِ عَلَيْهِ فِي لَيْلَةِ تِسْعَ عَشْرَةَ وَ قُبِضَ فِي لَيْلَةِ إِحْدَى وَ عِشْرِينَ صَلَوَاتُ اللَّهِ عَلَيْهِ قَالَ وَ الْغُسْلُ فِي أَوَّلِ لَيْلَةٍ وَ هُوَ يُجْزِئُ إِلَى آخِرِهِ ."
+        ],
+        "text": "الْغُسْلُ فِي لَيَالٍ مِنْ شَهْرِ رَمَضَانَ فِي تِسْعَ عَشْرَةَ وَ إِحْدَى وَ عِشْرِينَ وَ ثَلَاثٍ وَ عِشْرِينَ وَ أُصِيبَ أَمِيرُ الْمُؤْمِنِينَ صَلَوَاتُ اللَّهِ عَلَيْهِ فِي لَيْلَةِ تِسْعَ عَشْرَةَ وَ قُبِضَ فِي لَيْلَةِ إِحْدَى وَ عِشْرِينَ صَلَوَاتُ اللَّهِ عَلَيْهِ قَالَ وَ الْغُسْلُ فِي أَوَّلِ لَيْلَةٍ وَ هُوَ يُجْزِئُ إِلَى آخِرِهِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Muhammad Bin Al Husayn and Safwan Bin yahya, and Ali Bin Al Hakam, from Al A’ala Bin Razeyn, from Muhammad Bin Muslim, ",
+            "(It has been narrated) from one of the two (5<sup>th</sup> or 6<sup>th</sup> Imam<sup>asws</sup>) having said: ‘The bathing during a night from the Month of Ramazan is during the 19<sup>th</sup>, and 21<sup>st</sup>, and 23<sup>rd</sup>. And, Amir Al-Momineen<sup>asws</sup> was injured during the night of the 19<sup>th</sup>, and he<sup>asws</sup> passed away during the night of the 21<sup>st</sup>’. He<sup>asws</sup> said: ‘The bathing is during the beginning of a night, and it suffices up to its end’."
+          ],
+          "text": "Muhammad Bin Yahya, from Muhammad Bin Al Husayn and Safwan Bin yahya, and Ali Bin Al Hakam, from Al A’ala Bin Razeyn, from Muhammad Bin Muslim,\n\n(It has been narrated) from one of the two (5<sup>th</sup> or 6<sup>th</sup> Imam<sup>asws</sup>) having said: ‘The bathing during a night from the Month of Ramazan is during the 19<sup>th</sup>, and 21<sup>st</sup>, and 23<sup>rd</sup>. And, Amir Al-Momineen<sup>asws</sup> was injured during the night of the 19<sup>th</sup>, and he<sup>asws</sup> passed away during the night of the 21<sup>st</sup>’. He<sup>asws</sup> said: ‘The bathing is during the beginning of a night, and it suffices up to its end’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "4. Muhammad ibn Yahya has narrated from Muhammad ibn al-Husayn and Safwan ibn Yahya and Ali ibn al-Hakam from al-‘Ala’ ibn Razin from Muhammad ibn Muslim who has said the following: “One of the two Imam, ‘Alayhim al-Salam, has said, ‘One should take a shower in the nineteenth, twenty-first and twenty-third nights of the month of Ramadan. ’Amir al-Mu’minin, ‘Alayhi al-Salam, sustained a mortal wound by an assassin in the nineteenth night. He (the Imam) passed away on the twenty-first night of the month of Ramadan. A shower should be taken at the beginning of the night and it is enough until the end of the night.” "
+          ],
+          "text": "4. Muhammad ibn Yahya has narrated from Muhammad ibn al-Husayn and Safwan ibn Yahya and Ali ibn al-Hakam from al-‘Ala’ ibn Razin from Muhammad ibn Muslim who has said the following: “One of the two Imam, ‘Alayhim al-Salam, has said, ‘One should take a shower in the nineteenth, twenty-first and twenty-third nights of the month of Ramadan. ’Amir al-Mu’minin, ‘Alayhi al-Salam, sustained a mortal wound by an assassin in the nineteenth night. He (the Imam) passed away on the twenty-first night of the month of Ramadan. A shower should be taken at the beginning of the night and it is enough until the end of the night.”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> صحيح  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (6/376)",
+          "label": "صحيح",
+          "text": "Allamah Baqir al-Majlisi: صحيح - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (6/376)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ مُحَمَّدِ بْنِ الْحُسَيْنِ وَ صَفْوَانَ بْنِ يَحْيَى وَ عَلِيِّ بْنِ الْحَكَمِ عَنِ الْعَلَاءِ بْنِ رَزِينٍ عَنْ مُحَمَّدِ بْنِ مُسْلِمٍ عَنْ أَحَدِهِمَا ( عليهما السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ الْحُسَيْنِ",
+            "path": "/people/narrators/29"
+          },
+          {
+            "kind": "plain",
+            "text": " وَ "
+          },
+          {
+            "kind": "narrator",
+            "text": "صَفْوَانَ بْنِ يَحْيَى",
+            "path": "/people/narrators/30"
+          },
+          {
+            "kind": "plain",
+            "text": " وَ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيِّ بْنِ الْحَكَمِ",
+            "path": "/people/narrators/15"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْعَلَاءِ بْنِ رَزِينٍ",
+            "path": "/people/narrators/75"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ مُسْلِمٍ",
+            "path": "/people/narrators/16"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحَدِهِمَا ( عليهما السلام )",
+            "path": "/people/narrators/58"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/29",
+          "/people/narrators/30",
+          "/people/narrators/15",
+          "/people/narrators/75",
+          "/people/narrators/16",
+          "/people/narrators/58"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:4:2:67:4",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/4/2/67/4.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

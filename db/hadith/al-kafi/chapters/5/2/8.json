@@ -1,0 +1,683 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:5:2:8",
+  "chapter": {
+    "path": "/books/al-kafi:5:2:8",
+    "titles": {
+      "ar": "باب الرِّزْقِ مِنْ حَيْثُ لَا يُحْتَسَبُ",
+      "en": "Chapter 8 – The livelihood from where one did not reckon"
+    }
+  },
+  "count": 5,
+  "records": [
+    {
+      "id": "al-kafi:5:2:8:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:5:2:8:1",
+        "parts": [
+          5,
+          2,
+          8,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 2,
+        "chapter": 8,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:5:2:8",
+        "titles": {
+          "ar": "باب الرِّزْقِ مِنْ حَيْثُ لَا يُحْتَسَبُ",
+          "en": "Chapter 8 – The livelihood from where one did not reckon"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " أَبَى اللَّهُ عَزَّ وَ جَلَّ إِلَّا أَنْ يَجْعَلَ أَرْزَاقَ الْمُؤْمِنِينَ مِنْ حَيْثُ لَا يَحْتَسِبُونَ ."
+        ],
+        "text": "أَبَى اللَّهُ عَزَّ وَ جَلَّ إِلَّا أَنْ يَجْعَلَ أَرْزَاقَ الْمُؤْمِنِينَ مِنْ حَيْثُ لَا يَحْتَسِبُونَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, form his father, from Ibn Abu Umeyr, from Abu Ayoub Al Khazzaz, from Muhammad Bin Muslim, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Allah<sup>azwj</sup> has Refused except that He<sup>azwj</sup> would Make the livelihoods of the Believers from where they did not reckon’."
+          ],
+          "text": "Ali Bin Ibrahim, form his father, from Ibn Abu Umeyr, from Abu Ayoub Al Khazzaz, from Muhammad Bin Muslim,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Allah<sup>azwj</sup> has Refused except that He<sup>azwj</sup> would Make the livelihoods of the Believers from where they did not reckon’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. Ali ibn Ibrahim has narrated from his father from ibn abu ‘Umayr from abu Ayyub af-Khazzaz from Muhammad ibn Muslim who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that Allah, most Majestic, most Glorious, disdains to provide sustenance for a believing person from any source other than an unexpected source.” "
+          ],
+          "text": "1. Ali ibn Ibrahim has narrated from his father from ibn abu ‘Umayr from abu Ayyub af-Khazzaz from Muhammad ibn Muslim who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that Allah, most Majestic, most Glorious, disdains to provide sustenance for a believing person from any source other than an unexpected source.”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> حسن  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (9/31)",
+          "label": "حسن",
+          "text": "Allamah Baqir al-Majlisi: حسن - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (9/31)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنِ ابْنِ أَبِي عُمَيْرٍ عَنْ أَبِي أَيُّوبَ الْخَزَّازِ عَنْ مُحَمَّدِ بْنِ مُسْلِمٍ عَنْ أَبِي عَبْدِ اللَّهِ عَلَيْهِ السَّلَامُ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ أَبِي عُمَيْرٍ",
+            "path": "/people/narrators/7"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي أَيُّوبَ الْخَزَّازِ",
+            "path": "/people/narrators/118"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ مُسْلِمٍ",
+            "path": "/people/narrators/16"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " عَلَيْهِ السَّلَامُ قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/7",
+          "/people/narrators/118",
+          "/people/narrators/16",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:5:2:8:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/5/2/8/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:5:2:8:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:5:2:8:2",
+        "parts": [
+          5,
+          2,
+          8,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 2,
+        "chapter": 8,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:5:2:8",
+        "titles": {
+          "ar": "باب الرِّزْقِ مِنْ حَيْثُ لَا يُحْتَسَبُ",
+          "en": "Chapter 8 – The livelihood from where one did not reckon"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَمِعْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) يَقُولُ كُنْ لِمَا لَا تَرْجُو أَرْجَى مِنْكَ لِمَا تَرْجُو فَإِنَّ مُوسَى ( عليه السلام ) ذَهَبَ لِيَقْتَبِسَ لِأَهْلِهِ نَاراً فَانْصَرَفَ إِلَيْهِمْ وَ هُوَ نَبِيٌّ مُرْسَلٌ ."
+        ],
+        "text": "سَمِعْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) يَقُولُ كُنْ لِمَا لَا تَرْجُو أَرْجَى مِنْكَ لِمَا تَرْجُو فَإِنَّ مُوسَى ( عليه السلام ) ذَهَبَ لِيَقْتَبِسَ لِأَهْلِهِ نَاراً فَانْصَرَفَ إِلَيْهِمْ وَ هُوَ نَبِيٌّ مُرْسَلٌ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad, form Ali Bin Al Hakam, from Abu Jameela who said, ",
+            "‘I heard Abu Abdullah<sup>asws</sup> saying: ‘Become such that you are hoping from there where there is no hope for you to what will (come your way), for Musa<sup>as</sup> went to attain fire for his family, so he<sup>as</sup> returned to them and he<sup>as</sup> was a <span class=\"iTxt\">Mursil</span> Prophet<sup>as</sup>’."
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad, form Ali Bin Al Hakam, from Abu Jameela who said,\n\n‘I heard Abu Abdullah<sup>asws</sup> saying: ‘Become such that you are hoping from there where there is no hope for you to what will (come your way), for Musa<sup>as</sup> went to attain fire for his family, so he<sup>as</sup> returned to them and he<sup>as</sup> was a <span class=\"iTxt\">Mursil</span> Prophet<sup>as</sup>’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from Ali ibn al-Hakam from abu Jamilah who has said the following: “I heard abu ‘ Abd Allah, ‘Alayhi al-Salam, saying, ‘Your hope for help from an unexpected source should be greater than an expected source. Musa ‘Alayhi al-Salam, went to find fire for his family and came back as a prophet commissioned to preach.’” "
+          ],
+          "text": "2. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from Ali ibn al-Hakam from abu Jamilah who has said the following: “I heard abu ‘ Abd Allah, ‘Alayhi al-Salam, saying, ‘Your hope for help from an unexpected source should be greater than an expected source. Musa ‘Alayhi al-Salam, went to find fire for his family and came back as a prophet commissioned to preach.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (19/31)",
+          "label": "ضعيف",
+          "text": "Allamah Baqir al-Majlisi: ضعيف - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (19/31)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنْ عَلِيِّ بْنِ الْحَكَمِ عَنْ أَبِي جَمِيلَةَ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيِّ بْنِ الْحَكَمِ",
+            "path": "/people/narrators/15"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي جَمِيلَةَ",
+            "path": "/people/narrators/100"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/5",
+          "/people/narrators/15",
+          "/people/narrators/100"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:5:2:8:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/5/2/8/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:5:2:8:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:5:2:8:3",
+        "parts": [
+          5,
+          2,
+          8,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 2,
+        "chapter": 8,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:5:2:8",
+        "titles": {
+          "ar": "باب الرِّزْقِ مِنْ حَيْثُ لَا يُحْتَسَبُ",
+          "en": "Chapter 8 – The livelihood from where one did not reckon"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ أَمِيرُ الْمُؤْمِنِينَ ( عليه السلام ) كُنْ لِمَا لَا تَرْجُو أَرْجَى مِنْكَ لِمَا تَرْجُو فَإِنَّ مُوسَى بْنَ عِمْرَانَ ( عليه السلام ) خَرَجَ يَقْتَبِسُ لِأَهْلِهِ نَاراً فَكَلَّمَهُ اللَّهُ عَزَّ وَ جَلَّ وَ رَجَعَ نَبِيّاً مُرْسَلًا وَ خَرَجَتْ مَلِكَةُ سَبَإٍ فَأَسْلَمَتْ مَعَ سُلَيْمَانَ ( عليه السلام ) وَ خَرَجَتْ سَحَرَةُ فِرْعَوْنَ يَطْلُبُونَ الْعِزَّ لِفِرْعَوْنَ فَرَجَعُوا مُؤْمِنِينَ .  "
+        ],
+        "text": "قَالَ أَمِيرُ الْمُؤْمِنِينَ ( عليه السلام ) كُنْ لِمَا لَا تَرْجُو أَرْجَى مِنْكَ لِمَا تَرْجُو فَإِنَّ مُوسَى بْنَ عِمْرَانَ ( عليه السلام ) خَرَجَ يَقْتَبِسُ لِأَهْلِهِ نَاراً فَكَلَّمَهُ اللَّهُ عَزَّ وَ جَلَّ وَ رَجَعَ نَبِيّاً مُرْسَلًا وَ خَرَجَتْ مَلِكَةُ سَبَإٍ فَأَسْلَمَتْ مَعَ سُلَيْمَانَ ( عليه السلام ) وَ خَرَجَتْ سَحَرَةُ فِرْعَوْنَ يَطْلُبُونَ الْعِزَّ لِفِرْعَوْنَ فَرَجَعُوا مُؤْمِنِينَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Ahmad Bin Abu Abdullah, from Ali Bin Muhammad Al Qasany, from the one who mentioned it, from Abdullah Bin Al Qasim, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup>, from his<sup>asws</sup> father<sup>asws</sup>, from his<sup>asws</sup> grandfather<sup>asws</sup> having said: ‘Amir Al-Momineen<sup>asws</sup> said: ‘Become such that you are hoping from there where there is no expectation for, from you to what you were expecting, for Musa<sup>as</sup> Bin Imran<sup>as</sup> went out to attain fire for his<sup>as</sup> family, so Allah<sup>azwj</sup> Mighty and Majestic Spoke to him<sup>as</sup>, and he<sup>as</sup> returned as a Mursil Prophet<sup>as</sup>; and the queen of Sheba went out, so she (converted to Islam) with Suleyman<sup>as</sup>; and the magicians of Pharaoh<sup>la</sup> went out seeking the honour for Pharaoh<sup>la</sup>, but they returned as Believers’."
+          ],
+          "text": "A number of our companions, from Ahmad Bin Abu Abdullah, from Ali Bin Muhammad Al Qasany, from the one who mentioned it, from Abdullah Bin Al Qasim,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup>, from his<sup>asws</sup> father<sup>asws</sup>, from his<sup>asws</sup> grandfather<sup>asws</sup> having said: ‘Amir Al-Momineen<sup>asws</sup> said: ‘Become such that you are hoping from there where there is no expectation for, from you to what you were expecting, for Musa<sup>as</sup> Bin Imran<sup>as</sup> went out to attain fire for his<sup>as</sup> family, so Allah<sup>azwj</sup> Mighty and Majestic Spoke to him<sup>as</sup>, and he<sup>as</sup> returned as a Mursil Prophet<sup>as</sup>; and the queen of Sheba went out, so she (converted to Islam) with Suleyman<sup>as</sup>; and the magicians of Pharaoh<sup>la</sup> went out seeking the honour for Pharaoh<sup>la</sup>, but they returned as Believers’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "3. A number of our people have narrated from Ahmad ibn abu ‘Abd Allah from Ali ibn Muhammad al-Qasaniy from the one whom he has mentioned from ‘Abd Allah ibn al-Qasim ibn Muhammad from abu ‘Abd Allah from his father, from his grandfather ‘Alayhi al- Salam, who has said the following: “Abu Ja’far, ‘Alayhi al-Salam, has said that Amir al-Mu’minin, ‘Alayhi al-Salam, has said, ‘Your hope for help from an unexpected source should be greater than an expected source. Musa (Moses) ‘Alayhi al-Salam went to find fire for his family, Allah, most Majestic, most Glorious, spoke to him and he came back as a messenger prophet. Queen of Sheba’ (Saba’) went out and became a Muslim with Sulayman (Solomon). The magician went out to defend Pharaoh’s majesty then returned as believing people.’” "
+          ],
+          "text": "3. A number of our people have narrated from Ahmad ibn abu ‘Abd Allah from Ali ibn Muhammad al-Qasaniy from the one whom he has mentioned from ‘Abd Allah ibn al-Qasim ibn Muhammad from abu ‘Abd Allah from his father, from his grandfather ‘Alayhi al- Salam, who has said the following: “Abu Ja’far, ‘Alayhi al-Salam, has said that Amir al-Mu’minin, ‘Alayhi al-Salam, has said, ‘Your hope for help from an unexpected source should be greater than an expected source. Musa (Moses) ‘Alayhi al-Salam went to find fire for his family, Allah, most Majestic, most Glorious, spoke to him and he came back as a messenger prophet. Queen of Sheba’ (Saba’) went out and became a Muslim with Sulayman (Solomon). The magician went out to defend Pharaoh’s majesty then returned as believing people.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (19/31)",
+          "label": "ضعيف",
+          "text": "Allamah Baqir al-Majlisi: ضعيف - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (19/31)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ أَحْمَدَ بْنِ أَبِي عَبْدِ اللَّهِ عَنْ عَلِيِّ بْنِ مُحَمَّدٍ الْقَاسَانِيِّ عَمَّنْ ذَكَرَهُ عَنْ عَبْدِ اللَّهِ بْنِ الْقَاسِمِ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) عَنْ أَبِيهِ عَنْ جَدِّهِ ( عليهما السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ أَبِي عَبْدِ اللَّهِ",
+            "path": "/people/narrators/12"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "plain",
+            "text": "عَلِيِّ بْنِ مُحَمَّدٍ الْقَاسَانِيِّ عَمَّنْ ذَكَرَهُ"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَبْدِ اللَّهِ بْنِ الْقَاسِمِ",
+            "path": "/people/narrators/198"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "جَدِّهِ ( عليهما السلام )",
+            "path": "/people/narrators/253"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/12",
+          "/people/narrators/198",
+          "/people/narrators/669",
+          "/people/narrators/2",
+          "/people/narrators/253"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:5:2:8:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/5/2/8/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:5:2:8:4",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:5:2:8:4",
+        "parts": [
+          5,
+          2,
+          8,
+          4
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 2,
+        "chapter": 8,
+        "hadith": 4
+      },
+      "chapter": {
+        "path": "/books/al-kafi:5:2:8",
+        "titles": {
+          "ar": "باب الرِّزْقِ مِنْ حَيْثُ لَا يُحْتَسَبُ",
+          "en": "Chapter 8 – The livelihood from where one did not reckon"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَمِعْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) يَقُولُ إِنَّ اللَّهَ عَزَّ وَ جَلَّ جَعَلَ أَرْزَاقَ الْمُؤْمِنِينَ مِنْ حَيْثُ لَا يَحْتَسِبُونَ وَ ذَلِكَ أَنَّ الْعَبْدَ إِذَا لَمْ يَعْرِفْ وَجْهَ رِزْقِهِ كَثُرَ دُعَاؤُهُ ."
+        ],
+        "text": "سَمِعْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) يَقُولُ إِنَّ اللَّهَ عَزَّ وَ جَلَّ جَعَلَ أَرْزَاقَ الْمُؤْمِنِينَ مِنْ حَيْثُ لَا يَحْتَسِبُونَ وَ ذَلِكَ أَنَّ الْعَبْدَ إِذَا لَمْ يَعْرِفْ وَجْهَ رِزْقِهِ كَثُرَ دُعَاؤُهُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "From him, from his father, from Safwan, from Muhammad Bin Abu Al Hazhaaz, from Ali Bin Al Sarayy who said, ",
+            "‘I heard Abu Abdullah<sup>asws</sup> saying that Allah<sup>azwj</sup> Mighty and Majestic Made the sustenances of the believers from where they are not reckoning, and in the case of a servant, when he does not know the direction of his sustenance, would supplicate frequently for it’."
+          ],
+          "text": "From him, from his father, from Safwan, from Muhammad Bin Abu Al Hazhaaz, from Ali Bin Al Sarayy who said,\n\n‘I heard Abu Abdullah<sup>asws</sup> saying that Allah<sup>azwj</sup> Mighty and Majestic Made the sustenances of the believers from where they are not reckoning, and in the case of a servant, when he does not know the direction of his sustenance, would supplicate frequently for it’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "4. It is narrated from him (narrator of previous Hadith) from Safwan from Muhammad ibn abu al-Haz Haz from Ali ibn al-Sariy who has said the following: “I heard abu ‘Abd Allah, ‘Alayhi al-Salam, saying, ‘Allah, most Majestic, most Glorious, has made the sustenance of the believing people to come unexpectedly; when a servant (of Allah) does not know wherefrom his sustenance comes, he prays a great deal.’” "
+          ],
+          "text": "4. It is narrated from him (narrator of previous Hadith) from Safwan from Muhammad ibn abu al-Haz Haz from Ali ibn al-Sariy who has said the following: “I heard abu ‘Abd Allah, ‘Alayhi al-Salam, saying, ‘Allah, most Majestic, most Glorious, has made the sustenance of the believing people to come unexpectedly; when a servant (of Allah) does not know wherefrom his sustenance comes, he prays a great deal.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مجهول  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (9/31)",
+          "label": "مجهول",
+          "text": "Allamah Baqir al-Majlisi: مجهول - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (9/31)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَنْهُ عَنْ أَبِيهِ عَنْ صَفْوَانَ عَنْ مُحَمَّدِ بْنِ أَبِي الْهَزْهَازِ عَنْ عَلِيِّ بْنِ السَّرِيِّ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَنْهُ",
+            "path": "/people/narrators/11"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "صَفْوَانَ",
+            "path": "/people/narrators/43"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ أَبِي الْهَزْهَازِ",
+            "path": "/people/narrators/4120"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيِّ بْنِ السَّرِيِّ",
+            "path": "/people/narrators/3759"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/11",
+          "/people/narrators/2",
+          "/people/narrators/43",
+          "/people/narrators/4120",
+          "/people/narrators/3759"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:5:2:8:4",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/5/2/8/4.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:5:2:8:5",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:5:2:8:5",
+        "parts": [
+          5,
+          2,
+          8,
+          5
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 2,
+        "chapter": 8,
+        "hadith": 5
+      },
+      "chapter": {
+        "path": "/books/al-kafi:5:2:8",
+        "titles": {
+          "ar": "باب الرِّزْقِ مِنْ حَيْثُ لَا يُحْتَسَبُ",
+          "en": "Chapter 8 – The livelihood from where one did not reckon"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ لِي أَبُو عَبْدِ اللَّهِ ( عليه السلام ) مَا فَعَلَ عُمَرُ بْنُ مُسْلِمٍ قُلْتُ جُعِلْتُ فِدَاكَ أَقْبَلَ عَلَى الْعِبَادَةِ وَ تَرَكَ التِّجَارَةَ فَقَالَ وَيْحَهُ أَ مَا عَلِمَ أَنَّ تَارِكَ الطَّلَبِ لَا يُسْتَجَابُ لَهُ ",
+          "إِنَّ قَوْماً مِنْ أَصْحَابِ رَسُولِ اللَّهِ ( صلى الله عليه وآله ) لَمَّا نَزَلَتْ وَ مَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجاً وَ يَرْزُقْهُ مِنْ حَيْثُ لا يَحْتَسِبُ أَغْلَقُوا الْأَبْوَابَ وَ أَقْبَلُوا عَلَى الْعِبَادَةِ وَ قَالُوا قَدْ كُفِينَا ",
+          "فَبَلَغَ ذَلِكَ النَّبِيَّ ( صلى الله عليه وآله ) فَأَرْسَلَ إِلَيْهِمْ فَقَالَ مَا حَمَلَكُمْ عَلَى مَا صَنَعْتُمْ قَالُوا يَا رَسُولَ اللَّهِ تُكُفِّلَ لَنَا بِأَرْزَاقِنَا فَأَقْبَلْنَا عَلَى الْعِبَادَةِ فَقَالَ إِنَّهُ مَنْ فَعَلَ ذَلِكَ لَمْ يُسْتَجَبْ لَهُ عَلَيْكُمْ بِالطَّلَبِ ."
+        ],
+        "text": "قَالَ لِي أَبُو عَبْدِ اللَّهِ ( عليه السلام ) مَا فَعَلَ عُمَرُ بْنُ مُسْلِمٍ قُلْتُ جُعِلْتُ فِدَاكَ أَقْبَلَ عَلَى الْعِبَادَةِ وَ تَرَكَ التِّجَارَةَ فَقَالَ وَيْحَهُ أَ مَا عَلِمَ أَنَّ تَارِكَ الطَّلَبِ لَا يُسْتَجَابُ لَهُ\n\nإِنَّ قَوْماً مِنْ أَصْحَابِ رَسُولِ اللَّهِ ( صلى الله عليه وآله ) لَمَّا نَزَلَتْ وَ مَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجاً وَ يَرْزُقْهُ مِنْ حَيْثُ لا يَحْتَسِبُ أَغْلَقُوا الْأَبْوَابَ وَ أَقْبَلُوا عَلَى الْعِبَادَةِ وَ قَالُوا قَدْ كُفِينَا\n\nفَبَلَغَ ذَلِكَ النَّبِيَّ ( صلى الله عليه وآله ) فَأَرْسَلَ إِلَيْهِمْ فَقَالَ مَا حَمَلَكُمْ عَلَى مَا صَنَعْتُمْ قَالُوا يَا رَسُولَ اللَّهِ تُكُفِّلَ لَنَا بِأَرْزَاقِنَا فَأَقْبَلْنَا عَلَى الْعِبَادَةِ فَقَالَ إِنَّهُ مَنْ فَعَلَ ذَلِكَ لَمْ يُسْتَجَبْ لَهُ عَلَيْكُمْ بِالطَّلَبِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "From him, from Muhammad Bin Ali, from Haroun Bin Hamza, from Ali Bin Abdul Aziz who said, ",
+            "‘Abu Abdullah<sup>asws</sup> said to me: ‘What does Umar Bin Muslim do?’ I said, ‘May I be sacrificed for you<sup>asws</sup>! He has diverted towards the worship and neglects the business’. So he<sup>asws</sup> said: ‘Woe be unto him! The neglector of the seeking does not get his supplications Answered for him. ",
+            "A group from the companions of Rasool-Allah<sup>saww</sup>, when (the Verse)  <span class=\"ibTxt\"><a href=\"/#/books/quran:65#h2\"><a href=\"/books/quran:65#h2\">[65:2]</a></a> and whoever is fearful of Allah, He will make for him an outlet <a href=\"/#/books/quran:65#h3\"><a href=\"/books/quran:65#h3\">[65:3]</a></a> And He provides for him from (sources) he does not reckon</span>, was Revealed, they locked their doors and diverted themselves towards the worship, and they were saying, ‘Allah<sup>azwj</sup> would Suffice for us’. ",
+            "So that reached the Prophet<sup>saww</sup>, so he<sup>saww</sup> sent for them. He<sup>saww</sup> said: ‘What made you carry upon what you are doing?’ They said, ‘O Rasool-Allah<sup>saww</sup>! You<sup>saww</sup> guaranteed our livelihood for us, so we diverted ourselves towards the worship’. So he<sup>saww</sup> said: ‘The one who does that, (his supplications) would not be Answered for him. It is upon you with the seeking (of the livelihood)’."
+          ],
+          "text": "From him, from Muhammad Bin Ali, from Haroun Bin Hamza, from Ali Bin Abdul Aziz who said,\n\n‘Abu Abdullah<sup>asws</sup> said to me: ‘What does Umar Bin Muslim do?’ I said, ‘May I be sacrificed for you<sup>asws</sup>! He has diverted towards the worship and neglects the business’. So he<sup>asws</sup> said: ‘Woe be unto him! The neglector of the seeking does not get his supplications Answered for him.\n\nA group from the companions of Rasool-Allah<sup>saww</sup>, when (the Verse)  <span class=\"ibTxt\"><a href=\"/#/books/quran:65#h2\"><a href=\"/books/quran:65#h2\">[65:2]</a></a> and whoever is fearful of Allah, He will make for him an outlet <a href=\"/#/books/quran:65#h3\"><a href=\"/books/quran:65#h3\">[65:3]</a></a> And He provides for him from (sources) he does not reckon</span>, was Revealed, they locked their doors and diverted themselves towards the worship, and they were saying, ‘Allah<sup>azwj</sup> would Suffice for us’.\n\nSo that reached the Prophet<sup>saww</sup>, so he<sup>saww</sup> sent for them. He<sup>saww</sup> said: ‘What made you carry upon what you are doing?’ They said, ‘O Rasool-Allah<sup>saww</sup>! You<sup>saww</sup> guaranteed our livelihood for us, so we diverted ourselves towards the worship’. So he<sup>saww</sup> said: ‘The one who does that, (his supplications) would not be Answered for him. It is upon you with the seeking (of the livelihood)’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "5. It is narrated from him (narrator of previous Hadith) from Muhammad ibn Ali from Harun ibn Hamzah from Ali ibn ‘Abd al-‘Aziz who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, once asked me, ‘What has ‘Umar ibn Muslim done?’ I replied, ‘I pray to Allah to keep my soul in service for your cause, ‘he has devoted himself in worship and has given up doing any business.’ He (the Imam) said, ‘Fie upon him! Does he not know that the prayer of one who neglects work to make a living is not answered? A people of the companions of the Messenger of Allah, when this was revealed, “Those who maintain piety before Allah, He makes a way out for them and provides them sustenance from unexpected sources” <a href=\"/#/books/quran:66#h7\"><a href=\"/books/quran:66#h7\">[66:7]</a></a>, closed their doors and begun to worship. They said, “We have found what we needed.” This was reported to the Holy Prophet who called them in his presence and asked, “What made you do what you had been doing?” They replied, O Messenger of Allah, you guaranteed our sustenance, and thus, we devoted ourselves in worship.” He said, “Whoever does this his prayer is not answered. You must work for your living.’”” "
+          ],
+          "text": "5. It is narrated from him (narrator of previous Hadith) from Muhammad ibn Ali from Harun ibn Hamzah from Ali ibn ‘Abd al-‘Aziz who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, once asked me, ‘What has ‘Umar ibn Muslim done?’ I replied, ‘I pray to Allah to keep my soul in service for your cause, ‘he has devoted himself in worship and has given up doing any business.’ He (the Imam) said, ‘Fie upon him! Does he not know that the prayer of one who neglects work to make a living is not answered? A people of the companions of the Messenger of Allah, when this was revealed, “Those who maintain piety before Allah, He makes a way out for them and provides them sustenance from unexpected sources” <a href=\"/#/books/quran:66#h7\"><a href=\"/books/quran:66#h7\">[66:7]</a></a>, closed their doors and begun to worship. They said, “We have found what we needed.” This was reported to the Holy Prophet who called them in his presence and asked, “What made you do what you had been doing?” They replied, O Messenger of Allah, you guaranteed our sustenance, and thus, we devoted ourselves in worship.” He said, “Whoever does this his prayer is not answered. You must work for your living.’””"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (19/32)",
+          "label": "ضعيف",
+          "text": "Allamah Baqir al-Majlisi: ضعيف - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (19/32)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَنْهُ عَنْ مُحَمَّدِ بْنِ عَلِيٍّ عَنْ هَارُونَ بْنِ حَمْزَةَ عَنْ عَلِيِّ بْنِ عَبْدِ الْعَزِيزِ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَنْهُ",
+            "path": "/people/narrators/11"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ عَلِيٍّ",
+            "path": "/people/narrators/67"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "هَارُونَ بْنِ حَمْزَةَ",
+            "path": "/people/narrators/518"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيِّ بْنِ عَبْدِ الْعَزِيزِ",
+            "path": "/people/narrators/648"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/11",
+          "/people/narrators/67",
+          "/people/narrators/518",
+          "/people/narrators/648"
+        ]
+      },
+      "relations": {
+        "Mentions": [
+          "/books/quran:65:2",
+          "/books/quran:65:3",
+          "/books/quran:66:7"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:5:2:8:5",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/5/2/8/5.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

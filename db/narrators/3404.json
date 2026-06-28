@@ -1,0 +1,54 @@
+{
+  "id": 3404,
+  "type": "narrator",
+  "path": "/people/narrators/3404",
+  "titles": {
+    "ar": "شُعَيْبِ بْنِ جَنَاحٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:3:7:6"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "20-25-248-3404-4375-669": {
+      "narrator_ids": [
+        20,
+        25,
+        248,
+        3404,
+        4375,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:7:6"
+      ]
+    },
+    "248-3404": {
+      "narrator_ids": [
+        248,
+        3404
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:7:6"
+      ]
+    },
+    "3404-4375": {
+      "narrator_ids": [
+        3404,
+        4375
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:7:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3404",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3404.json"
+  }
+}

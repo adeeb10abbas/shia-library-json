@@ -1,0 +1,52 @@
+{
+  "id": 3239,
+  "type": "narrator",
+  "path": "/people/narrators/3239",
+  "titles": {
+    "ar": "رِزْقِ اللَّهِ بْنِ أَبِي الْعَلَاءِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:237:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3239-3374": {
+      "narrator_ids": [
+        3239,
+        3374
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:237:5"
+      ]
+    },
+    "5-3239": {
+      "narrator_ids": [
+        5,
+        3239
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:237:5"
+      ]
+    },
+    "5-3239-3374-36": {
+      "narrator_ids": [
+        5,
+        3239,
+        3374,
+        36
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:237:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3239",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3239.json"
+  }
+}

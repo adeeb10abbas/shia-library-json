@@ -1,0 +1,64 @@
+{
+  "id": 1685,
+  "type": "narrator",
+  "path": "/people/narrators/1685",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ يَحْيَى بْنِ دَرْيَابَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:75:11",
+    "/books/al-kafi:1:4:75:9"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "1685-2039": {
+      "narrator_ids": [
+        1685,
+        2039
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:75:11"
+      ]
+    },
+    "35-573-1685": {
+      "narrator_ids": [
+        35,
+        573,
+        1685
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:75:9"
+      ]
+    },
+    "35-573-1685-2039": {
+      "narrator_ids": [
+        35,
+        573,
+        1685,
+        2039
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:75:11"
+      ]
+    },
+    "573-1685": {
+      "narrator_ids": [
+        573,
+        1685
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:75:11",
+        "/books/al-kafi:1:4:75:9"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1685",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1685.json"
+  }
+}

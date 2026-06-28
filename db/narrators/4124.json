@@ -1,0 +1,144 @@
+{
+  "id": 4124,
+  "type": "narrator",
+  "path": "/people/narrators/4124",
+  "titles": {
+    "ar": "مُحَمَّدُ بْنُ أَبِي عَبْدِ اللَّهِ الْكُوفِيُّ",
+    "en": "Muhammad b. Abi Abdillah al-Kufi"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:2:73:33",
+    "/books/kamil-al-ziyarat:2:9:7",
+    "/books/maani-al-akhbar:13:12",
+    "/books/man-la-yahduruhu-al-faqih:4:173:2",
+    "/books/man-la-yahduruhu-al-faqih:4:73:5"
+  ],
+  "verseCount": 5,
+  "relations": {},
+  "subchains": {
+    "234-4124": {
+      "narrator_ids": [
+        234,
+        4124
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:9:7"
+      ]
+    },
+    "234-4124-32": {
+      "narrator_ids": [
+        234,
+        4124,
+        32
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:9:7"
+      ]
+    },
+    "4124-17": {
+      "narrator_ids": [
+        4124,
+        17
+      ],
+      "verse_paths": [
+        "/books/maani-al-akhbar:13:12"
+      ]
+    },
+    "4124-282": {
+      "narrator_ids": [
+        4124,
+        282
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:4:73:5"
+      ]
+    },
+    "4124-282-2-2-253": {
+      "narrator_ids": [
+        4124,
+        282,
+        2,
+        2,
+        253
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:4:73:5"
+      ]
+    },
+    "4124-32": {
+      "narrator_ids": [
+        4124,
+        32
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:9:7"
+      ]
+    },
+    "4124-350": {
+      "narrator_ids": [
+        4124,
+        350
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:73:33"
+      ]
+    },
+    "4124-350-43-70": {
+      "narrator_ids": [
+        4124,
+        350,
+        43,
+        70
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:73:33"
+      ]
+    },
+    "4124-927": {
+      "narrator_ids": [
+        4124,
+        927
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:4:173:2"
+      ]
+    },
+    "4124-927-2": {
+      "narrator_ids": [
+        4124,
+        927,
+        2
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:4:173:2"
+      ]
+    },
+    "492-4124": {
+      "narrator_ids": [
+        492,
+        4124
+      ],
+      "verse_paths": [
+        "/books/maani-al-akhbar:13:12"
+      ]
+    },
+    "492-4124-17": {
+      "narrator_ids": [
+        492,
+        4124,
+        17
+      ],
+      "verse_paths": [
+        "/books/maani-al-akhbar:13:12"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4124",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4124.json"
+  }
+}

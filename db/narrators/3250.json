@@ -1,0 +1,42 @@
+{
+  "id": 3250,
+  "type": "narrator",
+  "path": "/people/narrators/3250",
+  "titles": {
+    "ar": "رَوَاهُ مُحَمَّدُ بْنُ الْحُسَيْنِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:3:22:6"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3250-701": {
+      "narrator_ids": [
+        3250,
+        701
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:22:6"
+      ]
+    },
+    "3250-701-3995": {
+      "narrator_ids": [
+        3250,
+        701,
+        3995
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:22:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3250",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3250.json"
+  }
+}

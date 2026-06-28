@@ -1,0 +1,99 @@
+{
+  "id": 1545,
+  "type": "narrator",
+  "path": "/people/narrators/1545",
+  "titles": {
+    "ar": "عَبْدِ اللَّهِ بْنِ مُحَمَّدٍ الشَّامِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:123:4",
+    "/books/al-kafi:6:6:68:4",
+    "/books/uyun-akhbar-al-rida:1:2:4:9"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "1545-2626": {
+      "narrator_ids": [
+        1545,
+        2626
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:123:4"
+      ]
+    },
+    "1545-3070": {
+      "narrator_ids": [
+        1545,
+        3070
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:68:4"
+      ]
+    },
+    "1545-623": {
+      "narrator_ids": [
+        1545,
+        623
+      ],
+      "verse_paths": [
+        "/books/uyun-akhbar-al-rida:1:2:4:9"
+      ]
+    },
+    "1545-623-68-1985": {
+      "narrator_ids": [
+        1545,
+        623,
+        68,
+        1985
+      ],
+      "verse_paths": [
+        "/books/uyun-akhbar-al-rida:1:2:4:9"
+      ]
+    },
+    "3-2-39-1545-3070-58": {
+      "narrator_ids": [
+        3,
+        2,
+        39,
+        1545,
+        3070,
+        58
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:68:4"
+      ]
+    },
+    "39-1545": {
+      "narrator_ids": [
+        39,
+        1545
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:123:4",
+        "/books/al-kafi:6:6:68:4"
+      ]
+    },
+    "6-8-39-1545-2626-58": {
+      "narrator_ids": [
+        6,
+        8,
+        39,
+        1545,
+        2626,
+        58
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:123:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1545",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1545.json"
+  }
+}

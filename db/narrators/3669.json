@@ -1,0 +1,53 @@
+{
+  "id": 3669,
+  "type": "narrator",
+  "path": "/people/narrators/3669",
+  "titles": {
+    "ar": "عُبَيْدَةَ الْوَاسِطِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:77:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3-2-7-3669-1156": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        3669,
+        1156
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:77:4"
+      ]
+    },
+    "3669-1156": {
+      "narrator_ids": [
+        3669,
+        1156
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:77:4"
+      ]
+    },
+    "7-3669": {
+      "narrator_ids": [
+        7,
+        3669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:77:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3669",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3669.json"
+  }
+}

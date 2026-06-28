@@ -1,0 +1,676 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:5:3:103",
+  "chapter": {
+    "path": "/books/al-kafi:5:3:103",
+    "titles": {
+      "ar": "باب مَا يَجُوزُ مِنَ الْأَجَلِ",
+      "en": "Chapter 102 – What is allowed from the term"
+    }
+  },
+  "count": 5,
+  "records": [
+    {
+      "id": "al-kafi:5:3:103:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:5:3:103:1",
+        "parts": [
+          5,
+          3,
+          103,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 3,
+        "chapter": 103,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:5:3:103",
+        "titles": {
+          "ar": "باب مَا يَجُوزُ مِنَ الْأَجَلِ",
+          "en": "Chapter 102 – What is allowed from the term"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " يُشَارِطُهَا مَا شَاءَ مِنَ الْأَيَّامِ ."
+        ],
+        "text": "يُشَارِطُهَا مَا شَاءَ مِنَ الْأَيَّامِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Sahl Bin Ziyad, from Ibn Mahboun, from Ali Bin Raib, from Umar Bin Hanzala, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘He can stipulate upon her whatever he so desires to, from the days (term)’."
+          ],
+          "text": "A number of our companions, from Sahl Bin Ziyad, from Ibn Mahboun, from Ali Bin Raib, from Umar Bin Hanzala,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘He can stipulate upon her whatever he so desires to, from the days (term)’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. A number of our people have narrated from Sahl ibn Ziyad from ibn Mahbub from ibn Ri’ab from ‘Umar ibn Hanzalah who has said the following: “Abu ‘ Abd Allah, ‘Alayhi al-Salam, has said, ‘He can arrange for a mutual agreement with her for any number of days they want.’” "
+          ],
+          "text": "1. A number of our people have narrated from Sahl ibn Ziyad from ibn Mahbub from ibn Ri’ab from ‘Umar ibn Hanzalah who has said the following: “Abu ‘ Abd Allah, ‘Alayhi al-Salam, has said, ‘He can arrange for a mutual agreement with her for any number of days they want.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (0/245)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (0/245)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ سَهْلِ بْنِ زِيَادٍ عَنِ ابْنِ مَحْبُوبٍ عَنْ عَلِيِّ بْنِ رِئَابٍ عَنْ عُمَرَ بْنِ حَنْظَلَةَ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَهْلِ بْنِ زِيَادٍ",
+            "path": "/people/narrators/8"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ مَحْبُوبٍ",
+            "path": "/people/narrators/10"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيِّ بْنِ رِئَابٍ",
+            "path": "/people/narrators/93"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عُمَرَ بْنِ حَنْظَلَةَ",
+            "path": "/people/narrators/389"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/8",
+          "/people/narrators/10",
+          "/people/narrators/93",
+          "/people/narrators/389",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:5:3:103:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/5/3/103/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:5:3:103:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:5:3:103:2",
+        "parts": [
+          5,
+          3,
+          103,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 3,
+        "chapter": 103,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:5:3:103",
+        "titles": {
+          "ar": "باب مَا يَجُوزُ مِنَ الْأَجَلِ",
+          "en": "Chapter 102 – What is allowed from the term"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قُلْتُ لَهُ الرَّجُلُ يَتَزَوَّجُ مُتْعَةً سَنَةً أَوْ أَقَلَّ أَوْ أَكْثَرَ قَالَ إِذَا كَانَ شَيْئاً مَعْلُوماً إِلَى أَجَلٍ مَعْلُومٍ قَالَ قُلْتُ وَ تَبِينُ بِغَيْرِ طَلَاقٍ قَالَ نَعَمْ ."
+        ],
+        "text": "قُلْتُ لَهُ الرَّجُلُ يَتَزَوَّجُ مُتْعَةً سَنَةً أَوْ أَقَلَّ أَوْ أَكْثَرَ قَالَ إِذَا كَانَ شَيْئاً مَعْلُوماً إِلَى أَجَلٍ مَعْلُومٍ قَالَ قُلْتُ وَ تَبِينُ بِغَيْرِ طَلَاقٍ قَالَ نَعَمْ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Muhammad Bin Ismail, ",
+            "(It has been narrated) from Abu Al-Hassan Al-Reza<sup>asws</sup>, said, ‘I said to him<sup>asws</sup>, ‘The man marries by <span class=\"iTxt\">Mut’a</span> for a year, or less or more’. He<sup>asws</sup> said: ‘When it was a known thing to a known term’. I said, ‘And she would be irrevocably divorced without a (formal) divorce?’ He<sup>asws</sup> said: ‘Yes’."
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Muhammad Bin Ismail,\n\n(It has been narrated) from Abu Al-Hassan Al-Reza<sup>asws</sup>, said, ‘I said to him<sup>asws</sup>, ‘The man marries by <span class=\"iTxt\">Mut’a</span> for a year, or less or more’. He<sup>asws</sup> said: ‘When it was a known thing to a known term’. I said, ‘And she would be irrevocably divorced without a (formal) divorce?’ He<sup>asws</sup> said: ‘Yes’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from Muhammad ibn ‘Isma’il who has said the following: “In response to my question before al-Rida’, ‘Alayhi al-Salam, about the case of a man who marries in the manner of al-Mut‘ah (advantageous marriage) for one year or less or more, he (the Imam) said, ‘It is permissible if it is a known matter for a known number of days.’ I then asked if it terminates without divorce. He (the Imam) said, ‘Yes, it terminates without divorce.”’ "
+          ],
+          "text": "2. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from Muhammad ibn ‘Isma’il who has said the following: “In response to my question before al-Rida’, ‘Alayhi al-Salam, about the case of a man who marries in the manner of al-Mut‘ah (advantageous marriage) for one year or less or more, he (the Imam) said, ‘It is permissible if it is a known matter for a known number of days.’ I then asked if it terminates without divorce. He (the Imam) said, ‘Yes, it terminates without divorce.”’"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> صحيح   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (20/245)",
+          "label": "صحيح",
+          "text": "Allamah Baqir al-Majlisi: صحيح - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (20/245)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنْ مُحَمَّدِ بْنِ إِسْمَاعِيلَ عَنْ أَبِي الْحَسَنِ الرِّضَا ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ إِسْمَاعِيلَ",
+            "path": "/people/narrators/17"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي الْحَسَنِ الرِّضَا ( عليه السلام )",
+            "path": "/people/narrators/98"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/5",
+          "/people/narrators/17",
+          "/people/narrators/98"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:5:3:103:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/5/3/103/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:5:3:103:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:5:3:103:3",
+        "parts": [
+          5,
+          3,
+          103,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 3,
+        "chapter": 103,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:5:3:103",
+        "titles": {
+          "ar": "باب مَا يَجُوزُ مِنَ الْأَجَلِ",
+          "en": "Chapter 102 – What is allowed from the term"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قُلْتُ لَهُ هَلْ يَجُوزُ أَنْ يَتَمَتَّعَ الرَّجُلُ بِالْمَرْأَةِ سَاعَةً أَوْ سَاعَتَيْنِ فَقَالَ السَّاعَةُ وَ السَّاعَتَانِ لَا يُوقَفُ عَلَى حَدِّهِمَا وَ لَكِنَّ الْعَرْدَ وَ الْعَرْدَيْنِ وَ الْيَوْمَ وَ الْيَوْمَيْنِ وَ اللَّيْلَةَ وَ أَشْبَاهَ ذَلِكَ ."
+        ],
+        "text": "قُلْتُ لَهُ هَلْ يَجُوزُ أَنْ يَتَمَتَّعَ الرَّجُلُ بِالْمَرْأَةِ سَاعَةً أَوْ سَاعَتَيْنِ فَقَالَ السَّاعَةُ وَ السَّاعَتَانِ لَا يُوقَفُ عَلَى حَدِّهِمَا وَ لَكِنَّ الْعَرْدَ وَ الْعَرْدَيْنِ وَ الْيَوْمَ وَ الْيَوْمَيْنِ وَ اللَّيْلَةَ وَ أَشْبَاهَ ذَلِكَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Ibn Fazzal, form IBn Bukeyr, from Zurara who said, ",
+            "‘I said to him<sup>asws</sup>, ‘Is it allowed for the man that he marries by <span class=\"iTxt\">Mut’a</span> with a woman for a time or two?’ So he<sup>asws</sup> said: ‘The time and two, there is no determination upon their limits, but the session and two sessions, and the day and two days, and the night and the likes of that’."
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Ibn Fazzal, form IBn Bukeyr, from Zurara who said,\n\n‘I said to him<sup>asws</sup>, ‘Is it allowed for the man that he marries by <span class=\"iTxt\">Mut’a</span> with a woman for a time or two?’ So he<sup>asws</sup> said: ‘The time and two, there is no determination upon their limits, but the session and two sessions, and the day and two days, and the night and the likes of that’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "3. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from ibn Faddal from ibn Bukayr from Zurarah who has said the following: “Concerning my question before abu ‘Abd Allah, ‘Alayhi al-Salam, about the case of a man who marries a woman in the manner of al-Mut‘ah (advantageous marriage) for Sa‘ah or Sa‘ahtayn (one or two hours in the sense of the word before the invention of time clock). He (the Imam) said, ‘Sa‘ah or Sa‘ahtayn are not definite, however, they can set it as once or twice going to bed or one or two days and nights or similar things.’” "
+          ],
+          "text": "3. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from ibn Faddal from ibn Bukayr from Zurarah who has said the following: “Concerning my question before abu ‘Abd Allah, ‘Alayhi al-Salam, about the case of a man who marries a woman in the manner of al-Mut‘ah (advantageous marriage) for Sa‘ah or Sa‘ahtayn (one or two hours in the sense of the word before the invention of time clock). He (the Imam) said, ‘Sa‘ah or Sa‘ahtayn are not definite, however, they can set it as once or twice going to bed or one or two days and nights or similar things.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> موثق   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (0/245)",
+          "label": "موثق",
+          "text": "Allamah Baqir al-Majlisi: موثق - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (0/245)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنِ ابْنِ فَضَّالٍ عَنِ ابْنِ بُكَيْرٍ عَنْ زُرَارَةَ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ فَضَّالٍ",
+            "path": "/people/narrators/22"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ بُكَيْرٍ",
+            "path": "/people/narrators/56"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "زُرَارَةَ",
+            "path": "/people/narrators/18"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/5",
+          "/people/narrators/22",
+          "/people/narrators/56",
+          "/people/narrators/18"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:3:1:18:10",
+          "/books/al-kafi:3:4:84:1",
+          "/books/al-kafi:4:2:13:9",
+          "/books/al-kafi:4:2:58:10",
+          "/books/al-kafi:4:3:10:2",
+          "/books/al-kafi:4:3:115:5",
+          "/books/al-kafi:4:3:12:2",
+          "/books/al-kafi:4:3:160:1",
+          "/books/al-kafi:5:2:34:4",
+          "/books/al-kafi:5:3:101:3",
+          "/books/al-kafi:6:2:62:1",
+          "/books/al-kafi:6:8:54:1",
+          "/books/al-kafi:7:2:33:2",
+          "/books/al-kafi:7:3:31:3"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:5:3:103:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/5/3/103/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:5:3:103:4",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:5:3:103:4",
+        "parts": [
+          5,
+          3,
+          103,
+          4
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 3,
+        "chapter": 103,
+        "hadith": 4
+      },
+      "chapter": {
+        "path": "/books/al-kafi:5:3:103",
+        "titles": {
+          "ar": "باب مَا يَجُوزُ مِنَ الْأَجَلِ",
+          "en": "Chapter 102 – What is allowed from the term"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " أَرْسَلْتُ إِلَى أَبِي الْحَسَنِ ( عليه السلام ) كَمْ أَدْنَى أَجَلِ الْمُتْعَةِ هَلْ يَجُوزُ أَنْ يَتَمَتَّعَ الرَّجُلُ بِشَرْطِ مَرَّةٍ وَاحِدَةٍ قَالَ نَعَمْ ."
+        ],
+        "text": "أَرْسَلْتُ إِلَى أَبِي الْحَسَنِ ( عليه السلام ) كَمْ أَدْنَى أَجَلِ الْمُتْعَةِ هَلْ يَجُوزُ أَنْ يَتَمَتَّعَ الرَّجُلُ بِشَرْطِ مَرَّةٍ وَاحِدَةٍ قَالَ نَعَمْ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad, from Ahmad Bin Muhammad, from Muhammad Bin Khalid, from Khalaf Bin Hammad who said, ",
+            "‘I sent a message to Abu Al-Hassan<sup>asws</sup>, ‘How much is the lowest term for the <span class=\"iTxt\">Mut’a</span>. Is it allowed if the man does <span class=\"iTxt\">Mut’a</span> with a stipulation of (copulating) once?’ He<sup>asws</sup> said: ‘Yes’."
+          ],
+          "text": "Muhammad, from Ahmad Bin Muhammad, from Muhammad Bin Khalid, from Khalaf Bin Hammad who said,\n\n‘I sent a message to Abu Al-Hassan<sup>asws</sup>, ‘How much is the lowest term for the <span class=\"iTxt\">Mut’a</span>. Is it allowed if the man does <span class=\"iTxt\">Mut’a</span> with a stipulation of (copulating) once?’ He<sup>asws</sup> said: ‘Yes’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "4. Muhammad has narrated from Ahmad ibn Muhammad from Muhammad ibn Khalid from Khalaf ibn Hammad who has said the following: “I once sent (a message) to abu al-Hassan, ‘Alayhi al-Salam, and asked, ‘How much is the minimum duration of time in al-Mut‘ah (advantageous marriage) and if it is permissible to set the time for only one time going to bed. He (the Imam) said, ‘Yes, it is permissible.’” "
+          ],
+          "text": "4. Muhammad has narrated from Ahmad ibn Muhammad from Muhammad ibn Khalid from Khalaf ibn Hammad who has said the following: “I once sent (a message) to abu al-Hassan, ‘Alayhi al-Salam, and asked, ‘How much is the minimum duration of time in al-Mut‘ah (advantageous marriage) and if it is permissible to set the time for only one time going to bed. He (the Imam) said, ‘Yes, it is permissible.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> صحيح   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (20/246)",
+          "label": "صحيح",
+          "text": "Allamah Baqir al-Majlisi: صحيح - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (20/246)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدٌ عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنْ مُحَمَّدِ بْنِ خَالِدٍ عَنْ خَلَفِ بْنِ حَمَّادٍ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدٌ",
+            "path": "/people/narrators/127"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ خَالِدٍ",
+            "path": "/people/narrators/99"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "خَلَفِ بْنِ حَمَّادٍ",
+            "path": "/people/narrators/223"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/127",
+          "/people/narrators/5",
+          "/people/narrators/99",
+          "/people/narrators/223"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:5:3:103:4",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/5/3/103/4.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:5:3:103:5",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:5:3:103:5",
+        "parts": [
+          5,
+          3,
+          103,
+          5
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 3,
+        "chapter": 103,
+        "hadith": 5
+      },
+      "chapter": {
+        "path": "/books/al-kafi:5:3:103",
+        "titles": {
+          "ar": "باب مَا يَجُوزُ مِنَ الْأَجَلِ",
+          "en": "Chapter 102 – What is allowed from the term"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَأَلْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) عَنِ الرَّجُلِ يَتَزَوَّجُ الْمَرْأَةَ عَلَى عَرْدٍ وَاحِدٍ فَقَالَ لَا بَأْسَ وَ لَكِنْ إِذَا فَرَغَ فَلْيُحَوِّلْ وَجْهَهُ وَ لَا يَنْظُرْ ."
+        ],
+        "text": "سَأَلْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) عَنِ الرَّجُلِ يَتَزَوَّجُ الْمَرْأَةَ عَلَى عَرْدٍ وَاحِدٍ فَقَالَ لَا بَأْسَ وَ لَكِنْ إِذَا فَرَغَ فَلْيُحَوِّلْ وَجْهَهُ وَ لَا يَنْظُرْ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Sahl Bin Ziyad, from Ibn Fazzal, from Al Qasim Bin Muhammad, from a man whom he named, said, ",
+            "‘I asked Abu Abdullah<sup>asws</sup> about the man who marries (Mut’a) the woman upon only going to bed once. So he<sup>asws</sup> said: ‘There is no problem, but when he is free, so let him turn his face around and not look’."
+          ],
+          "text": "A number of our companions, from Sahl Bin Ziyad, from Ibn Fazzal, from Al Qasim Bin Muhammad, from a man whom he named, said,\n\n‘I asked Abu Abdullah<sup>asws</sup> about the man who marries (Mut’a) the woman upon only going to bed once. So he<sup>asws</sup> said: ‘There is no problem, but when he is free, so let him turn his face around and not look’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "5. A number of our people have narrated from Sahl ibn Ziyad from ibn Faddal from al-Qasim ibn Muhammad from a man whom he mentioned who has said the following: “I once asked abu ‘Abd Allah, ‘Alayhi al-Salam, about the case of a man who married a woman (in the manner of al-Mut‘ah (advantageous marriage)) for only once going to bed. He (the Imam) said, ‘It is permissible, however, when the specified time ends he must turn his face away and must not look.’” "
+          ],
+          "text": "5. A number of our people have narrated from Sahl ibn Ziyad from ibn Faddal from al-Qasim ibn Muhammad from a man whom he mentioned who has said the following: “I once asked abu ‘Abd Allah, ‘Alayhi al-Salam, about the case of a man who married a woman (in the manner of al-Mut‘ah (advantageous marriage)) for only once going to bed. He (the Imam) said, ‘It is permissible, however, when the specified time ends he must turn his face away and must not look.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (0/246)",
+          "label": "ضعيف",
+          "text": "Allamah Baqir al-Majlisi: ضعيف - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (0/246)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ سَهْلِ بْنِ زِيَادٍ عَنِ ابْنِ فَضَّالٍ عَنِ الْقَاسِمِ بْنِ مُحَمَّدٍ عَنْ رَجُلٍ سَمَّاهُ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَهْلِ بْنِ زِيَادٍ",
+            "path": "/people/narrators/8"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ فَضَّالٍ",
+            "path": "/people/narrators/22"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْقَاسِمِ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/82"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "رَجُلٍ سَمَّاهُ",
+            "path": "/people/narrators/900"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/8",
+          "/people/narrators/22",
+          "/people/narrators/82",
+          "/people/narrators/900"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/tahdhib-al-ahkam:7:23:69"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:5:3:103:5",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/5/3/103/5.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

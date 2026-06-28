@@ -1,0 +1,53 @@
+{
+  "id": 3163,
+  "type": "narrator",
+  "path": "/people/narrators/3163",
+  "titles": {
+    "ar": "دَاوُدَ بْنِ الْحُسَيْنِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:8:34:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3163-986": {
+      "narrator_ids": [
+        3163,
+        986
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:34:1"
+      ]
+    },
+    "39-3163": {
+      "narrator_ids": [
+        39,
+        3163
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:34:1"
+      ]
+    },
+    "6-8-39-3163-986": {
+      "narrator_ids": [
+        6,
+        8,
+        39,
+        3163,
+        986
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:34:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3163",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3163.json"
+  }
+}

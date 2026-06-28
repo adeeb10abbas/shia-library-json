@@ -1,0 +1,57 @@
+{
+  "id": 1852,
+  "type": "narrator",
+  "path": "/people/narrators/1852",
+  "titles": {
+    "ar": "ابْنِ أَبِي حَبِيبٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:96:1",
+    "/books/tahdhib-al-ahkam:7:6:22"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "1852-16": {
+      "narrator_ids": [
+        1852,
+        16
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:96:1",
+        "/books/tahdhib-al-ahkam:7:6:22"
+      ]
+    },
+    "2-1852": {
+      "narrator_ids": [
+        2,
+        1852
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:96:1",
+        "/books/tahdhib-al-ahkam:7:6:22"
+      ]
+    },
+    "3-2-1852-16-9": {
+      "narrator_ids": [
+        3,
+        2,
+        1852,
+        16,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:96:1",
+        "/books/tahdhib-al-ahkam:7:6:22"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1852",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1852.json"
+  }
+}

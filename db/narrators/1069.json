@@ -1,0 +1,84 @@
+{
+  "id": 1069,
+  "type": "narrator",
+  "path": "/people/narrators/1069",
+  "titles": {
+    "ar": "جَعْفَرِ بْنِ إِبْرَاهِيمَ الْحَضْرَمِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:134:2",
+    "/books/al-kafi:6:6:18:9",
+    "/books/al-kafi:6:6:57:3",
+    "/books/tahdhib-al-ahkam:9:2:108"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "1069-311": {
+      "narrator_ids": [
+        1069,
+        311
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:134:2",
+        "/books/al-kafi:6:6:18:9",
+        "/books/al-kafi:6:6:57:3",
+        "/books/tahdhib-al-ahkam:9:2:108"
+      ]
+    },
+    "11-35-36-1069-311": {
+      "narrator_ids": [
+        11,
+        35,
+        36,
+        1069,
+        311
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:2:108"
+      ]
+    },
+    "35-36-1069-311": {
+      "narrator_ids": [
+        35,
+        36,
+        1069,
+        311
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:18:9"
+      ]
+    },
+    "36-1069": {
+      "narrator_ids": [
+        36,
+        1069
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:134:2",
+        "/books/al-kafi:6:6:18:9",
+        "/books/al-kafi:6:6:57:3",
+        "/books/tahdhib-al-ahkam:9:2:108"
+      ]
+    },
+    "36-1069-311": {
+      "narrator_ids": [
+        36,
+        1069,
+        311
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:134:2",
+        "/books/al-kafi:6:6:57:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1069",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1069.json"
+  }
+}

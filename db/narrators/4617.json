@@ -1,0 +1,45 @@
+{
+  "id": 4617,
+  "type": "narrator",
+  "path": "/people/narrators/4617",
+  "titles": {
+    "ar": "يُوسُفَ بْنِ عُمَارَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:1:40:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "126-4617": {
+      "narrator_ids": [
+        126,
+        4617
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:40:3"
+      ]
+    },
+    "6-5-53-93-126-4617": {
+      "narrator_ids": [
+        6,
+        5,
+        53,
+        93,
+        126,
+        4617
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:40:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4617",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4617.json"
+  }
+}

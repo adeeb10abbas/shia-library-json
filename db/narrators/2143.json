@@ -1,0 +1,42 @@
+{
+  "id": 2143,
+  "type": "narrator",
+  "path": "/people/narrators/2143",
+  "titles": {
+    "ar": "أَبِي عَبْدِ اللَّهِ (عليه السلام) نَزَلَ رَسُولُ اللَّهِ (صلى الله عليه وآله)"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:29:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "14-2143": {
+      "narrator_ids": [
+        14,
+        2143
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:29:2"
+      ]
+    },
+    "46-14-2143": {
+      "narrator_ids": [
+        46,
+        14,
+        2143
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:29:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2143",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2143.json"
+  }
+}

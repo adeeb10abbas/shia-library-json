@@ -1,0 +1,54 @@
+{
+  "id": 3708,
+  "type": "narrator",
+  "path": "/people/narrators/3708",
+  "titles": {
+    "ar": "عَلِيٍّ الْقَصِيرِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:8:51:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3708-60": {
+      "narrator_ids": [
+        3708,
+        60
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:51:2"
+      ]
+    },
+    "6-5-888-3708-60-669": {
+      "narrator_ids": [
+        6,
+        5,
+        888,
+        3708,
+        60,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:51:2"
+      ]
+    },
+    "888-3708": {
+      "narrator_ids": [
+        888,
+        3708
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:51:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3708",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3708.json"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": 3422,
+  "type": "narrator",
+  "path": "/people/narrators/3422",
+  "titles": {
+    "ar": "صَالِحٍ اللَّفَائِفِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:3:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "248-3422": {
+      "narrator_ids": [
+        248,
+        3422
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:3:3"
+      ]
+    },
+    "3422-669": {
+      "narrator_ids": [
+        3422,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:3:3"
+      ]
+    },
+    "35-8-248-3422-669": {
+      "narrator_ids": [
+        35,
+        8,
+        248,
+        3422,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:3:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3422",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3422.json"
+  }
+}

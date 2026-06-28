@@ -1,0 +1,44 @@
+{
+  "id": 3740,
+  "type": "narrator",
+  "path": "/people/narrators/3740",
+  "titles": {
+    "ar": "عَلِيُّ بْنُ الْحَسَنِ الْمُؤَدِّبُ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:49:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3740-12": {
+      "narrator_ids": [
+        3740,
+        12
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:49:1"
+      ]
+    },
+    "3740-12-5-349-119": {
+      "narrator_ids": [
+        3740,
+        12,
+        5,
+        349,
+        119
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:49:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3740",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3740.json"
+  }
+}

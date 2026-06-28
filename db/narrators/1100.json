@@ -1,0 +1,100 @@
+{
+  "id": 1100,
+  "type": "narrator",
+  "path": "/people/narrators/1100",
+  "titles": {
+    "ar": "رَزِينٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:78:12",
+    "/books/al-kafi:4:2:74:3",
+    "/books/al-kafi:7:3:63:41",
+    "/books/man-la-yahduruhu-al-faqih:2:2:36:21"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "11-341-2981-1100-669": {
+      "narrator_ids": [
+        11,
+        341,
+        2981,
+        1100,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:78:12"
+      ]
+    },
+    "1100-669": {
+      "narrator_ids": [
+        1100,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:78:12"
+      ]
+    },
+    "154-25-89-46-306-269-60-1100": {
+      "narrator_ids": [
+        154,
+        25,
+        89,
+        46,
+        306,
+        269,
+        60,
+        1100
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:63:41"
+      ]
+    },
+    "240-3599-1100": {
+      "narrator_ids": [
+        240,
+        3599,
+        1100
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:74:3"
+      ]
+    },
+    "2981-1100": {
+      "narrator_ids": [
+        2981,
+        1100
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:78:12"
+      ]
+    },
+    "3599-1100": {
+      "narrator_ids": [
+        3599,
+        1100
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:74:3",
+        "/books/man-la-yahduruhu-al-faqih:2:2:36:21"
+      ]
+    },
+    "60-1100": {
+      "narrator_ids": [
+        60,
+        1100
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:63:41"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1100",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1100.json"
+  }
+}

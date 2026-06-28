@@ -1,0 +1,52 @@
+{
+  "id": 3811,
+  "type": "narrator",
+  "path": "/people/narrators/3811",
+  "titles": {
+    "ar": "عَلِيِّ بْنِ مُحَمَّدِ بْنِ أَشْيَمَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:43:79"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "13-3811": {
+      "narrator_ids": [
+        13,
+        3811
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:79"
+      ]
+    },
+    "3811-30": {
+      "narrator_ids": [
+        3811,
+        30
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:79"
+      ]
+    },
+    "4-13-3811-30": {
+      "narrator_ids": [
+        4,
+        13,
+        3811,
+        30
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:79"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3811",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3811.json"
+  }
+}

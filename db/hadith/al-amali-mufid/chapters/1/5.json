@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-amali-mufid",
+  "chapterPath": "/books/al-amali-mufid:1:5",
+  "chapter": {
+    "path": "/books/al-amali-mufid:1:5",
+    "titles": {
+      "en": "Helping a needy Mu’min"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-amali-mufid:1:5:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-amali-mufid",
+        "titles": {
+          "ar": "الأمالي (المفيد)",
+          "en": "Al-Amali (al-Mufid)"
+        },
+        "author": {
+          "ar": "الشيخ المفيد",
+          "en": "Shaykh al-Mufid"
+        }
+      },
+      "path": {
+        "source": "/books/al-amali-mufid:1:5:1",
+        "parts": [
+          1,
+          5,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 1,
+        "book": 5,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-amali-mufid:1:5",
+        "titles": {
+          "en": "Helping a needy Mu’min"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": أخبرني أبو القاسم جعفر بن محمد بن قولويه رحمه الله عن أبيه، عن سعد بن عبد الله، عن أحمد بن محمد بن عيسى، عن حماد ، عن إبراهيم ابن عمر اليماني، عن أبي حمزة الثمالي رحمه الله عن زين العابدين علي ابن الحسين عليهما السلام قال: من أطعم مؤمنا من جوعه  أطعمه الله من ثمار الجنة، ومن سقى مؤمنا من ظمأ سقاه الله من الرحيق المختوم، ومن كسا مؤمنا ثوبا كساه الله من الثياب الخضر، ولا يزال في ضمان الله عز وجل ما دام عليه منه سلك."
+        ],
+        "text": ": أخبرني أبو القاسم جعفر بن محمد بن قولويه رحمه الله عن أبيه، عن سعد بن عبد الله، عن أحمد بن محمد بن عيسى، عن حماد ، عن إبراهيم ابن عمر اليماني، عن أبي حمزة الثمالي رحمه الله عن زين العابدين علي ابن الحسين عليهما السلام قال: من أطعم مؤمنا من جوعه  أطعمه الله من ثمار الجنة، ومن سقى مؤمنا من ظمأ سقاه الله من الرحيق المختوم، ومن كسا مؤمنا ثوبا كساه الله من الثياب الخضر، ولا يزال في ضمان الله عز وجل ما دام عليه منه سلك."
+      },
+      "translations": {
+        "en.mulla-asgharali-m-m-jaffer": {
+          "segments": [
+            "5. He said: Abul Qasim Ja’far ibn Muhammad ibn Qawlawayh, may Allah bless him with mercy, reported from his father, from S’ad ibn Abdillah, from Ahmad ibn Muhammad ibn Isa, from Hammad, from Ibrahim ibn Umar al-Yamnani, from Abu Hamza al-Thumali - may Allah bless him with mercy, that Zainul Abideen ‘Ali ibn al-Husayn, peace be upon him, said: \"He who feeds a hungry Mu’min, Allah will feed him from the fruits of Paradise; and he who quenches the thirst of a Mu’min, Allah will slacken his thirst from the pure, sealed nectar (on the day of reward). And he who clothes a Mu’min, Allah will clothe him with green brocade (of heaven), and he will remain under the protection of Allah, Most High, as long as a thread of that cloth remains upon him (i.e. the Mu’min whom he clothed).\""
+          ],
+          "text": "5. He said: Abul Qasim Ja’far ibn Muhammad ibn Qawlawayh, may Allah bless him with mercy, reported from his father, from S’ad ibn Abdillah, from Ahmad ibn Muhammad ibn Isa, from Hammad, from Ibrahim ibn Umar al-Yamnani, from Abu Hamza al-Thumali - may Allah bless him with mercy, that Zainul Abideen ‘Ali ibn al-Husayn, peace be upon him, said: \"He who feeds a hungry Mu’min, Allah will feed him from the fruits of Paradise; and he who quenches the thirst of a Mu’min, Allah will slacken his thirst from the pure, sealed nectar (on the day of reward). And he who clothes a Mu’min, Allah will clothe him with green brocade (of heaven), and he will remain under the protection of Allah, Most High, as long as a thread of that cloth remains upon him (i.e. the Mu’min whom he clothed).\""
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "5 - قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "5 - "
+          },
+          {
+            "kind": "narrator",
+            "text": "قال",
+            "path": "/people/narrators/652"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/652"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-amali-mufid:1:5:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-amali-mufid/1/5/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/13/1/5/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": 3667,
+  "type": "narrator",
+  "path": "/people/narrators/3667",
+  "titles": {
+    "ar": "عُبَيْدِ بْنِ هَارُونَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:2:11:7"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1671-3667": {
+      "narrator_ids": [
+        1671,
+        3667
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:11:7"
+      ]
+    },
+    "5-312-1671-3667": {
+      "narrator_ids": [
+        5,
+        312,
+        1671,
+        3667
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:11:7"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3667",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3667.json"
+  }
+}

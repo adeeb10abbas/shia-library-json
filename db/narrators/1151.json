@@ -1,0 +1,123 @@
+{
+  "id": 1151,
+  "type": "narrator",
+  "path": "/people/narrators/1151",
+  "titles": {
+    "ar": "عَبْدِ الْمَلِكِ بْنِ عُتْبَةَ الْهَاشِمِيِّ"
+  },
+  "versePaths": [
+    "/books/al-istibsar:2:29:2",
+    "/books/al-istibsar:3:59:1",
+    "/books/al-kafi:4:2:37:2",
+    "/books/al-kafi:4:2:54:3",
+    "/books/al-kafi:5:2:115:3",
+    "/books/tahdhib-al-ahkam:1:33:32",
+    "/books/tahdhib-al-ahkam:1:39:45",
+    "/books/tahdhib-al-ahkam:4:57:16",
+    "/books/tahdhib-al-ahkam:4:57:3",
+    "/books/tahdhib-al-ahkam:7:18:18",
+    "/books/tahdhib-al-ahkam:7:36:9",
+    "/books/tahdhib-al-ahkam:7:8:61"
+  ],
+  "verseCount": 12,
+  "relations": {},
+  "subchains": {
+    "11-15-1151": {
+      "narrator_ids": [
+        11,
+        15,
+        1151
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:39:45",
+        "/books/tahdhib-al-ahkam:7:18:18"
+      ]
+    },
+    "13-15-1151": {
+      "narrator_ids": [
+        13,
+        15,
+        1151
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:2:29:2",
+        "/books/al-istibsar:3:59:1",
+        "/books/tahdhib-al-ahkam:4:57:3",
+        "/books/tahdhib-al-ahkam:7:36:9",
+        "/books/tahdhib-al-ahkam:7:8:61"
+      ]
+    },
+    "15-1151": {
+      "narrator_ids": [
+        15,
+        1151
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:2:29:2",
+        "/books/al-istibsar:3:59:1",
+        "/books/al-kafi:4:2:37:2",
+        "/books/al-kafi:4:2:54:3",
+        "/books/al-kafi:5:2:115:3",
+        "/books/tahdhib-al-ahkam:1:33:32",
+        "/books/tahdhib-al-ahkam:1:39:45",
+        "/books/tahdhib-al-ahkam:4:57:16",
+        "/books/tahdhib-al-ahkam:4:57:3",
+        "/books/tahdhib-al-ahkam:7:18:18",
+        "/books/tahdhib-al-ahkam:7:36:9",
+        "/books/tahdhib-al-ahkam:7:8:61"
+      ]
+    },
+    "355-5-15-1151": {
+      "narrator_ids": [
+        355,
+        5,
+        15,
+        1151
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:4:57:16"
+      ]
+    },
+    "5-15-1151": {
+      "narrator_ids": [
+        5,
+        15,
+        1151
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:54:3",
+        "/books/tahdhib-al-ahkam:1:33:32"
+      ]
+    },
+    "6-13-15-1151": {
+      "narrator_ids": [
+        6,
+        13,
+        15,
+        1151
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:115:3"
+      ]
+    },
+    "6-5-15-1151": {
+      "narrator_ids": [
+        6,
+        5,
+        15,
+        1151
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:37:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1151",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1151.json"
+  }
+}

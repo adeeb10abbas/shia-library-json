@@ -1,0 +1,130 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "maani-al-akhbar",
+  "chapterPath": "/books/maani-al-akhbar:132",
+  "chapter": {
+    "path": "/books/maani-al-akhbar:132",
+    "titles": {
+      "en": "The meaning of compulsion and coercion"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "maani-al-akhbar:132:1",
+      "type": "hadith",
+      "book": {
+        "slug": "maani-al-akhbar",
+        "titles": {
+          "ar": "معاني الأخبار",
+          "en": "Ma'ani al-Akhbar"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/maani-al-akhbar:132:1",
+        "parts": [
+          132,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 132,
+        "book": 1
+      },
+      "chapter": {
+        "path": "/books/maani-al-akhbar:132",
+        "titles": {
+          "en": "The meaning of compulsion and coercion"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": قال أبو عبد الله عليه السلام: لا يمين في غضب ولا في إجبار ولا في إكراه. قلت: أصلحك الله، فما الفرق بين الاكراه والاجبار؟ قال: الاجبار من السلطان، والاكراه يكون من الزوجة والام والأب وليس بشئ."
+        ],
+        "text": ": قال أبو عبد الله عليه السلام: لا يمين في غضب ولا في إجبار ولا في إكراه. قلت: أصلحك الله، فما الفرق بين الاكراه والاجبار؟ قال: الاجبار من السلطان، والاكراه يكون من الزوجة والام والأب وليس بشئ."
+      },
+      "translations": {
+        "en.basel-kadem": {
+          "segments": [
+            "1.\tWe were told by Muhammed bin Ali Majilawayh, from his paternal uncle, Muhammed bin Abi’l-Qasem, from Muhammed bin Ali al-Kufi, from Musa bin Sa’dan, from Abdullah bin Qasem, from Abdullah bin Sinan, that he said: Abu Abdillah, peace be upon him, said: There is no right hand (valid in promise) in the case of anger, nor in coercion, nor in compulsion. I said: May Allah rectify you, then what is the difference between compulsion and coercion? He said: Coercion is from the ruler, and compulsion is from a wife, mother and father, and is nothing."
+          ],
+          "text": "1.\tWe were told by Muhammed bin Ali Majilawayh, from his paternal uncle, Muhammed bin Abi’l-Qasem, from Muhammed bin Ali al-Kufi, from Musa bin Sa’dan, from Abdullah bin Qasem, from Abdullah bin Sinan, that he said: Abu Abdillah, peace be upon him, said: There is no right hand (valid in promise) in the case of anger, nor in coercion, nor in compulsion. I said: May Allah rectify you, then what is the difference between compulsion and coercion? He said: Coercion is from the ruler, and compulsion is from a wife, mother and father, and is nothing."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "حدثنا محمد بن علي ماجيلويه، عن عمه محمد بن أبي القاسم، عن محمد بن علي الكوفي، عن موسى بن سعدان، عن عبد الله بن القاسم، عن عبد الله بن سنان قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "حدثنا "
+          },
+          {
+            "kind": "plain",
+            "text": "محمد بن علي ماجيلويه،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "عمه محمد بن أبي القاسم،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "محمد بن علي الكوفي،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "موسى بن سعدان،",
+            "path": "/people/narrators/351"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "عبد الله بن القاسم،",
+            "path": "/people/narrators/198"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "عبد الله بن سنان قال",
+            "path": "/people/narrators/31"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/351",
+          "/people/narrators/198",
+          "/people/narrators/31"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/maani-al-akhbar:132:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/maani-al-akhbar/132/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/28/1/132/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

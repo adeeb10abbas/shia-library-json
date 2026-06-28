@@ -1,0 +1,53 @@
+{
+  "id": 3891,
+  "type": "narrator",
+  "path": "/people/narrators/3891",
+  "titles": {
+    "ar": "عَمْرِو بْنِ عُثْمَانَ الْأَزْدِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:168:8"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "332-796-3891-338-120": {
+      "narrator_ids": [
+        332,
+        796,
+        3891,
+        338,
+        120
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:168:8"
+      ]
+    },
+    "3891-338": {
+      "narrator_ids": [
+        3891,
+        338
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:168:8"
+      ]
+    },
+    "796-3891": {
+      "narrator_ids": [
+        796,
+        3891
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:168:8"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3891",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3891.json"
+  }
+}

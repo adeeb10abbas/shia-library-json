@@ -1,0 +1,135 @@
+{
+  "id": 1055,
+  "type": "narrator",
+  "path": "/people/narrators/1055",
+  "titles": {
+    "ar": "الْهَيْثَمِ النَّهْدِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:99:33",
+    "/books/al-kafi:5:2:10:7",
+    "/books/al-kafi:5:3:187:7",
+    "/books/tahdhib-al-ahkam:5:25:353"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "1055-3527": {
+      "narrator_ids": [
+        1055,
+        3527
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:99:33"
+      ]
+    },
+    "1055-3528": {
+      "narrator_ids": [
+        1055,
+        3528
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:10:7"
+      ]
+    },
+    "1055-53": {
+      "narrator_ids": [
+        1055,
+        53
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:25:353"
+      ]
+    },
+    "11-1055": {
+      "narrator_ids": [
+        11,
+        1055
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:99:33"
+      ]
+    },
+    "11-1055-3527-37-375": {
+      "narrator_ids": [
+        11,
+        1055,
+        3527,
+        37,
+        375
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:99:33"
+      ]
+    },
+    "373-1055": {
+      "narrator_ids": [
+        373,
+        1055
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:187:7"
+      ]
+    },
+    "4-373-1055": {
+      "narrator_ids": [
+        4,
+        373,
+        1055
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:187:7"
+      ]
+    },
+    "4134-1055": {
+      "narrator_ids": [
+        4134,
+        1055
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:25:353"
+      ]
+    },
+    "4134-1055-53-50": {
+      "narrator_ids": [
+        4134,
+        1055,
+        53,
+        50
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:25:353"
+      ]
+    },
+    "5-1055": {
+      "narrator_ids": [
+        5,
+        1055
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:10:7"
+      ]
+    },
+    "5-1055-3528-620-1479-148": {
+      "narrator_ids": [
+        5,
+        1055,
+        3528,
+        620,
+        1479,
+        148
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:10:7"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1055",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1055.json"
+  }
+}

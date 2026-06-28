@@ -1,0 +1,54 @@
+{
+  "id": 3810,
+  "type": "narrator",
+  "path": "/people/narrators/3810",
+  "titles": {
+    "ar": "عَلِيِّ بْنِ مُحَمَّدِ بْنِ أَبِي جَمِيلَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:47:20"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "27-3810": {
+      "narrator_ids": [
+        27,
+        3810
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:47:20"
+      ]
+    },
+    "3810-2974": {
+      "narrator_ids": [
+        3810,
+        2974
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:47:20"
+      ]
+    },
+    "6-12-27-3810-2974-37": {
+      "narrator_ids": [
+        6,
+        12,
+        27,
+        3810,
+        2974,
+        37
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:47:20"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3810",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3810.json"
+  }
+}

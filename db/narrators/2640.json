@@ -1,0 +1,69 @@
+{
+  "id": 2640,
+  "type": "narrator",
+  "path": "/people/narrators/2640",
+  "titles": {
+    "ar": "الْحُسَيْنِ بْنِ عُمَرَ"
+  },
+  "versePaths": [
+    "/books/al-istibsar:4:38:37",
+    "/books/al-kafi:7:1:10:5",
+    "/books/man-la-yahduruhu-al-faqih:4:100:2",
+    "/books/tahdhib-al-ahkam:9:13:6"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "13-240-2640": {
+      "narrator_ids": [
+        13,
+        240,
+        2640
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:13:6"
+      ]
+    },
+    "240-2640": {
+      "narrator_ids": [
+        240,
+        2640
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:1:10:5",
+        "/books/man-la-yahduruhu-al-faqih:4:100:2",
+        "/books/tahdhib-al-ahkam:9:13:6"
+      ]
+    },
+    "27-240-2640": {
+      "narrator_ids": [
+        27,
+        240,
+        2640
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:4:100:2"
+      ]
+    },
+    "4-59-27-240-2640": {
+      "narrator_ids": [
+        4,
+        59,
+        27,
+        240,
+        2640
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:1:10:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2640",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2640.json"
+  }
+}

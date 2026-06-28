@@ -1,0 +1,44 @@
+{
+  "id": 2115,
+  "type": "narrator",
+  "path": "/people/narrators/2115",
+  "titles": {
+    "ar": "أَبِي شَيْبَةَ الْخُرَاسَانِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:2:19:7"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "20-25-89-52-2115": {
+      "narrator_ids": [
+        20,
+        25,
+        89,
+        52,
+        2115
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:2:19:7"
+      ]
+    },
+    "52-2115": {
+      "narrator_ids": [
+        52,
+        2115
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:2:19:7"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2115",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2115.json"
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "man-la-yahduruhu-al-faqih",
+  "chapterPath": "/books/man-la-yahduruhu-al-faqih:4:16",
+  "chapter": {
+    "path": "/books/man-la-yahduruhu-al-faqih:4:16",
+    "titles": {
+      "en": "Chapter on Obligations When Multiple Legal Punishments Are Combined Upon a Man"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "man-la-yahduruhu-al-faqih:4:16:1",
+      "type": "hadith",
+      "book": {
+        "slug": "man-la-yahduruhu-al-faqih",
+        "titles": {
+          "ar": "من لا يحضره الفقيه",
+          "en": "Man La Yahduruhu al-Faqih"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/man-la-yahduruhu-al-faqih:4:16:1",
+        "parts": [
+          4,
+          16,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 16,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/man-la-yahduruhu-al-faqih:4:16",
+        "titles": {
+          "en": "Chapter on Obligations When Multiple Legal Punishments Are Combined Upon a Man"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": \"أَيُّمَا رَجُلٍ اِجْتَمَعَتْ عَلَيْهِ حُدُودٌ فِيهَا اَلْقَتْلُ يُبْدَأُ بِالْحُدُودِ اَلَّتِي هِيَ دُونَ اَلْقَتْلِ ثُمَّ يُقْتَلُ بَعْدَ ذَلِكَ\"."
+        ],
+        "text": ": \"أَيُّمَا رَجُلٍ اِجْتَمَعَتْ عَلَيْهِ حُدُودٌ فِيهَا اَلْقَتْلُ يُبْدَأُ بِالْحُدُودِ اَلَّتِي هِيَ دُونَ اَلْقَتْلِ ثُمَّ يُقْتَلُ بَعْدَ ذَلِكَ\"."
+      },
+      "translations": {
+        "en.bab-ul-qaim-publications": {
+          "segments": [
+            "Hadith.5134 - Ali ibn Ri'ab narrated from Zurarah from Abu Jafar Imam Muhammad ibn Ali Al-Baqir (as) who said: \"Any man upon whom multiple legal punishments (hudud) have been established, and among them is the punishment of death, the lesser punishments are to be carried out first, and then he is to be executed afterward.\""
+          ],
+          "text": "Hadith.5134 - Ali ibn Ri'ab narrated from Zurarah from Abu Jafar Imam Muhammad ibn Ali Al-Baqir (as) who said: \"Any man upon whom multiple legal punishments (hudud) have been established, and among them is the punishment of death, the lesser punishments are to be carried out first, and then he is to be executed afterward.\""
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "5134 - رَوَى عَلِيُّ بْنُ رِئَابٍ عَنْ زُرَارَةَ عَنْ أَبِي جَعْفَرٍ عَلَيْهِ اَلسَّلاَمُ قَالَ",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "5134 - رَوَى "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ رِئَابٍ",
+            "path": "/people/narrators/93"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "زُرَارَةَ",
+            "path": "/people/narrators/18"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي جَعْفَرٍ عَلَيْهِ اَلسَّلاَمُ",
+            "path": "/people/narrators/9"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/93",
+          "/people/narrators/18",
+          "/people/narrators/9"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/man-la-yahduruhu-al-faqih:3:3:25:43",
+          "/books/man-la-yahduruhu-al-faqih:3:4:8:10"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/man-la-yahduruhu-al-faqih:4:16:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/man-la-yahduruhu-al-faqih/4/16/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/34/1/16/5134",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": 3899,
+  "type": "narrator",
+  "path": "/people/narrators/3899",
+  "titles": {
+    "ar": "عَمْرِو بْنِ نُعْمَانَ الْجُعْفِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:131:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "19-212-2357-3899": {
+      "narrator_ids": [
+        19,
+        212,
+        2357,
+        3899
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:131:5"
+      ]
+    },
+    "2357-3899": {
+      "narrator_ids": [
+        2357,
+        3899
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:131:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3899",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3899.json"
+  }
+}

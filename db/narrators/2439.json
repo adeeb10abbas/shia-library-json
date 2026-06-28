@@ -1,0 +1,56 @@
+{
+  "id": 2439,
+  "type": "narrator",
+  "path": "/people/narrators/2439",
+  "titles": {
+    "ar": "إِسْمَاعِيلَ بْنِ الْحَسَنِ بْنِ إِسْمَاعِيلَ بْنِ شُعَيْبِ بْنِ مِيثَمٍ التَّمَّارِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:1:26:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2324-2439": {
+      "narrator_ids": [
+        2324,
+        2439
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:26:3"
+      ]
+    },
+    "2439-1809": {
+      "narrator_ids": [
+        2439,
+        1809
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:26:3"
+      ]
+    },
+    "6-12-67-2324-2439-1809-60-2215": {
+      "narrator_ids": [
+        6,
+        12,
+        67,
+        2324,
+        2439,
+        1809,
+        60,
+        2215
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:26:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2439",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2439.json"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": 2676,
+  "type": "narrator",
+  "path": "/people/narrators/2676",
+  "titles": {
+    "ar": "الدِّهْقَانِ عُبَيْدِ اللَّهِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:8:23:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2676-323": {
+      "narrator_ids": [
+        2676,
+        323
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:23:4"
+      ]
+    },
+    "8-2676": {
+      "narrator_ids": [
+        8,
+        2676
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:23:4"
+      ]
+    },
+    "8-2676-323-64": {
+      "narrator_ids": [
+        8,
+        2676,
+        323,
+        64
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:23:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2676",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2676.json"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": 3643,
+  "type": "narrator",
+  "path": "/people/narrators/3643",
+  "titles": {
+    "ar": "عُبَيْدٍ الْخَيَّاطِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:82:8"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3643-3520": {
+      "narrator_ids": [
+        3643,
+        3520
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:82:8"
+      ]
+    },
+    "373-3643": {
+      "narrator_ids": [
+        373,
+        3643
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:82:8"
+      ]
+    },
+    "4-373-3643-3520-104-60-669": {
+      "narrator_ids": [
+        4,
+        373,
+        3643,
+        3520,
+        104,
+        60,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:82:8"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3643",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3643.json"
+  }
+}

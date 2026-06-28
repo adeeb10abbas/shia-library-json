@@ -1,0 +1,106 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-amali-mufid",
+  "chapterPath": "/books/al-amali-mufid:23:45",
+  "chapter": {
+    "path": "/books/al-amali-mufid:23:45",
+    "titles": {
+      "en": "Be ready to forgive"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-amali-mufid:23:45:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-amali-mufid",
+        "titles": {
+          "ar": "الأمالي (المفيد)",
+          "en": "Al-Amali (al-Mufid)"
+        },
+        "author": {
+          "ar": "الشيخ المفيد",
+          "en": "Shaykh al-Mufid"
+        }
+      },
+      "path": {
+        "source": "/books/al-amali-mufid:23:45:1",
+        "parts": [
+          23,
+          45,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 23,
+        "book": 45,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-amali-mufid:23:45",
+        "titles": {
+          "en": "Be ready to forgive"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": سمعت أبا الحسن عليه السلام  يقول: ما التقت فئتان [قتالا] قط إلا نصر الله أعظمها عفوا ."
+        ],
+        "text": ": سمعت أبا الحسن عليه السلام  يقول: ما التقت فئتان [قتالا] قط إلا نصر الله أعظمها عفوا ."
+      },
+      "translations": {
+        "en.mulla-asgharali-m-m-jaffer": {
+          "segments": [
+            "45. And with the first chain of narration from ‘Ali ibn Mahzyar, from al-Hasan ibn ‘Ali ibn Faddhal, who said: I heard Abul Hassan (i.e. ‘Ali ibn Musa al-Ridha) peace be upon him say: \"Never did the two warring factions meet to fight except that Allah helped the one which is more forgiving.\""
+          ],
+          "text": "45. And with the first chain of narration from ‘Ali ibn Mahzyar, from al-Hasan ibn ‘Ali ibn Faddhal, who said: I heard Abul Hassan (i.e. ‘Ali ibn Musa al-Ridha) peace be upon him say: \"Never did the two warring factions meet to fight except that Allah helped the one which is more forgiving.\""
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "45 - وبالإسناد الأول عن علي بن مهزيار، عن الحسن بن علي بن فضال قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "45 - "
+          },
+          {
+            "kind": "plain",
+            "text": "وبالإسناد الأول"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "علي بن مهزيار،",
+            "path": "/people/narrators/81"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "الحسن بن علي بن فضال قال",
+            "path": "/people/narrators/244"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/81",
+          "/people/narrators/244"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-amali-mufid:23:45:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-amali-mufid/23/45/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/13/23/45/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

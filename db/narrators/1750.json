@@ -1,0 +1,44 @@
+{
+  "id": 1750,
+  "type": "narrator",
+  "path": "/people/narrators/1750",
+  "titles": {
+    "ar": "16ـ عَنْهُ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:4:24:16"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1750-67": {
+      "narrator_ids": [
+        1750,
+        67
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:24:16"
+      ]
+    },
+    "1750-67-73-44-669": {
+      "narrator_ids": [
+        1750,
+        67,
+        73,
+        44,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:24:16"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1750",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1750.json"
+  }
+}

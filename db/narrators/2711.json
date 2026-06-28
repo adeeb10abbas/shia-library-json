@@ -1,0 +1,32 @@
+{
+  "id": 2711,
+  "type": "narrator",
+  "path": "/people/narrators/2711",
+  "titles": {
+    "ar": "الصَّالِحِينَ ( عليهم السلام )"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:2:70:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "4305-2711": {
+      "narrator_ids": [
+        4305,
+        2711
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:70:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2711",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2711.json"
+  }
+}

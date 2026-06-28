@@ -1,0 +1,56 @@
+{
+  "id": 1962,
+  "type": "narrator",
+  "path": "/people/narrators/1962",
+  "titles": {
+    "ar": "أَبِي الْحَسَنِ الْأَخِيرِ ( عليه السلام )"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:4:58:9",
+    "/books/tahdhib-al-ahkam:2:17:87"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "189-1962": {
+      "narrator_ids": [
+        189,
+        1962
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:58:9",
+        "/books/tahdhib-al-ahkam:2:17:87"
+      ]
+    },
+    "4-78-59-189-1962": {
+      "narrator_ids": [
+        4,
+        78,
+        59,
+        189,
+        1962
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:58:9"
+      ]
+    },
+    "4134-189-1962": {
+      "narrator_ids": [
+        4134,
+        189,
+        1962
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:17:87"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1962",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1962.json"
+  }
+}

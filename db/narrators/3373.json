@@ -1,0 +1,55 @@
+{
+  "id": 3373,
+  "type": "narrator",
+  "path": "/people/narrators/3373",
+  "titles": {
+    "ar": "سُلَيْمَانَ بْنِ طَرِيفٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:111:11"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "19-24-22-197-3373-16-669": {
+      "narrator_ids": [
+        19,
+        24,
+        22,
+        197,
+        3373,
+        16,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:111:11"
+      ]
+    },
+    "197-3373": {
+      "narrator_ids": [
+        197,
+        3373
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:111:11"
+      ]
+    },
+    "3373-16": {
+      "narrator_ids": [
+        3373,
+        16
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:111:11"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3373",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3373.json"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 3586,
+  "type": "narrator",
+  "path": "/people/narrators/3586",
+  "titles": {
+    "ar": "عَبْدِ اللَّهِ بْنِ صَالِحٍ الْخَثْعَمِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:49:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "140-3586": {
+      "narrator_ids": [
+        140,
+        3586
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:49:3"
+      ]
+    },
+    "3-2-7-140-3586": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        140,
+        3586
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:49:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3586",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3586.json"
+  }
+}

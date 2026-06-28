@@ -1,0 +1,43 @@
+{
+  "id": 2156,
+  "type": "narrator",
+  "path": "/people/narrators/2156",
+  "titles": {
+    "ar": "أَبِي عَبْدِ اللَّهِ رَجُلٍ مِنْ أَصْحَابِنَا"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:2:1:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "101-2156": {
+      "narrator_ids": [
+        101,
+        2156
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:2:1:5"
+      ]
+    },
+    "6-271-101-2156": {
+      "narrator_ids": [
+        6,
+        271,
+        101,
+        2156
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:2:1:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2156",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2156.json"
+  }
+}

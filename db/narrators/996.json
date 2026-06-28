@@ -1,0 +1,100 @@
+{
+  "id": 996,
+  "type": "narrator",
+  "path": "/people/narrators/996",
+  "titles": {
+    "ar": "أَبِي مَسْرُوقٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:165:13",
+    "/books/al-kafi:2:1:175:2",
+    "/books/al-kafi:2:2:34:1"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "23-996": {
+      "narrator_ids": [
+        23,
+        996
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:165:13"
+      ]
+    },
+    "279-996": {
+      "narrator_ids": [
+        279,
+        996
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:34:1"
+      ]
+    },
+    "3-2-7-279-23-996": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        279,
+        23,
+        996
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:165:13"
+      ]
+    },
+    "3-2-7-279-54-996": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        279,
+        54,
+        996
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:175:2"
+      ]
+    },
+    "3-2-7-279-996-669": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        279,
+        996,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:34:1"
+      ]
+    },
+    "54-996": {
+      "narrator_ids": [
+        54,
+        996
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:175:2"
+      ]
+    },
+    "996-669": {
+      "narrator_ids": [
+        996,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:34:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/996",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/996.json"
+  }
+}

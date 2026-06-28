@@ -1,0 +1,84 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "kitab-al-duafa",
+  "chapterPath": "/books/kitab-al-duafa:20:16",
+  "chapter": {
+    "path": "/books/kitab-al-duafa:20:16",
+    "titles": {
+      "en": "Muḥammad b. Jumhūr, Abū ʿAbdillāh"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "kitab-al-duafa:20:16:1",
+      "type": "hadith",
+      "book": {
+        "slug": "kitab-al-duafa",
+        "titles": {
+          "ar": "كتاب الضعفاء",
+          "en": "Kitab al-Du'afa'"
+        },
+        "author": {
+          "en": "Ahmad ibn al-Husayn al-Ghada'iri"
+        }
+      },
+      "path": {
+        "source": "/books/kitab-al-duafa:20:16:1",
+        "parts": [
+          20,
+          16,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 20,
+        "book": 16,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/kitab-al-duafa:20:16",
+        "titles": {
+          "en": "Muḥammad b. Jumhūr, Abū ʿAbdillāh"
+        }
+      },
+      "arabic": {
+        "segments": [
+          "ه محرمات الله عز وجل."
+        ],
+        "text": "ه محرمات الله عز وجل."
+      },
+      "translations": {
+        "en.tashayyu": {
+          "segments": [
+            "16 – Muḥammad b. Jumhūr, Abū ʿAbdillāh, the blind.  A ghālī, corrupt in ḥadīth, his ḥadīth are not to be written.  I saw that he has a poem wherein he deems lawful the prohibitions of God O .عزO وجل"
+          ],
+          "text": "16 – Muḥammad b. Jumhūr, Abū ʿAbdillāh, the blind.  A ghālī, corrupt in ḥadīth, his ḥadīth are not to be written.  I saw that he has a poem wherein he deems lawful the prohibitions of God O .عزO وجل"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "16 - محمد بن جمهور، أبو عبد الله، العمي. غال، فاسد الحديث، لا يكتب حديثه. رأيت له شعرا يحلل في",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "16 - "
+          },
+          {
+            "kind": "plain",
+            "text": "محمد بن جمهور، أبو عبد الله، العمي. غال، فاسد الحديث، لا يكتب حديثه. رأيت له شعرا يحلل في"
+          }
+        ],
+        "narratorPaths": []
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/kitab-al-duafa:20:16:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/kitab-al-duafa/20/16/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/17/20/16/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

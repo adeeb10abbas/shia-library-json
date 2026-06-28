@@ -1,0 +1,44 @@
+{
+  "id": 2539,
+  "type": "narrator",
+  "path": "/people/narrators/2539",
+  "titles": {
+    "ar": "الْحَسَنِ بْنِ الْمُنْذِرِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:4:7:9"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "46-2539": {
+      "narrator_ids": [
+        46,
+        2539
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:7:9"
+      ]
+    },
+    "6-12-15-46-2539": {
+      "narrator_ids": [
+        6,
+        12,
+        15,
+        46,
+        2539
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:7:9"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2539",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2539.json"
+  }
+}

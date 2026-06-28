@@ -1,0 +1,53 @@
+{
+  "id": 3773,
+  "type": "narrator",
+  "path": "/people/narrators/3773",
+  "titles": {
+    "ar": "عَلِيِّ بْنِ دَاوُدَ الْيَعْقُوبِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:48:13"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "32-3773": {
+      "narrator_ids": [
+        32,
+        3773
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:48:13"
+      ]
+    },
+    "3773-1608": {
+      "narrator_ids": [
+        3773,
+        1608
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:48:13"
+      ]
+    },
+    "6-12-32-3773-1608": {
+      "narrator_ids": [
+        6,
+        12,
+        32,
+        3773,
+        1608
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:48:13"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3773",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3773.json"
+  }
+}

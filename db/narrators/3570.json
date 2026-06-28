@@ -1,0 +1,56 @@
+{
+  "id": 3570,
+  "type": "narrator",
+  "path": "/people/narrators/3570",
+  "titles": {
+    "ar": "عَبْدِ اللَّهِ بْنِ الْوَلِيدِ الْجُعْفِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:3:81:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "117-3570": {
+      "narrator_ids": [
+        117,
+        3570
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:81:3"
+      ]
+    },
+    "3570-60": {
+      "narrator_ids": [
+        3570,
+        60
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:81:3"
+      ]
+    },
+    "6-12-119-80-117-3570-60-2": {
+      "narrator_ids": [
+        6,
+        12,
+        119,
+        80,
+        117,
+        3570,
+        60,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:81:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3570",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3570.json"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1703,
+  "type": "narrator",
+  "path": "/people/narrators/1703",
+  "titles": {
+    "ar": "مُوسَى بْنِ عُمَرَ بْنِ بَزِيعٍ"
+  },
+  "versePaths": [
+    "/books/al-istibsar:1:205:4",
+    "/books/al-kafi:5:2:159:40",
+    "/books/al-kafi:8:1:33:17",
+    "/books/tahdhib-al-ahkam:7:20:65"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "29-1703": {
+      "narrator_ids": [
+        29,
+        1703
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:205:4"
+      ]
+    },
+    "6-8-882-1703": {
+      "narrator_ids": [
+        6,
+        8,
+        882,
+        1703
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:159:40",
+        "/books/al-kafi:8:1:33:17"
+      ]
+    },
+    "695-29-1703": {
+      "narrator_ids": [
+        695,
+        29,
+        1703
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:205:4"
+      ]
+    },
+    "8-882-1703": {
+      "narrator_ids": [
+        8,
+        882,
+        1703
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:20:65"
+      ]
+    },
+    "882-1703": {
+      "narrator_ids": [
+        882,
+        1703
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:159:40",
+        "/books/al-kafi:8:1:33:17",
+        "/books/tahdhib-al-ahkam:7:20:65"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1703",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1703.json"
+  }
+}

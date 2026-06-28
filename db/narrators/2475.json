@@ -1,0 +1,69 @@
+{
+  "id": 2475,
+  "type": "narrator",
+  "path": "/people/narrators/2475",
+  "titles": {
+    "ar": "الْأَجْلَحُ"
+  },
+  "versePaths": [
+    "/books/kamil-al-ziyarat:2:14:1",
+    "/books/kitab-al-ghayba-tusi:51:33"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "2475-1110": {
+      "narrator_ids": [
+        2475,
+        1110
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:14:1"
+      ]
+    },
+    "613-1538-601-13-15-78-66-2475-1110-3520-50": {
+      "narrator_ids": [
+        613,
+        1538,
+        601,
+        13,
+        15,
+        78,
+        66,
+        2475,
+        1110,
+        3520,
+        50
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:14:1"
+      ]
+    },
+    "66-2475": {
+      "narrator_ids": [
+        66,
+        2475
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:14:1"
+      ]
+    },
+    "73-2475": {
+      "narrator_ids": [
+        73,
+        2475
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:51:33"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2475",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2475.json"
+  }
+}

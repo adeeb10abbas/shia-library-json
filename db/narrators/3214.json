@@ -1,0 +1,55 @@
+{
+  "id": 3214,
+  "type": "narrator",
+  "path": "/people/narrators/3214",
+  "titles": {
+    "ar": "رَجُلٍ مِنْ أَصْحَابِنَا مِنْ أَهْلِ الْجَبَلِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:3:190:58"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3123-3214": {
+      "narrator_ids": [
+        3123,
+        3214
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:190:58"
+      ]
+    },
+    "3214-9": {
+      "narrator_ids": [
+        3214,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:190:58"
+      ]
+    },
+    "4-5-21-30-3123-3214-9": {
+      "narrator_ids": [
+        4,
+        5,
+        21,
+        30,
+        3123,
+        3214,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:190:58"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3214",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3214.json"
+  }
+}

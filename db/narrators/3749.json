@@ -1,0 +1,52 @@
+{
+  "id": 3749,
+  "type": "narrator",
+  "path": "/people/narrators/3749",
+  "titles": {
+    "ar": "عَلِيِّ بْنِ الْحُسَيْنِ السُّلَمِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:165:9"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "332-3749": {
+      "narrator_ids": [
+        332,
+        3749
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:165:9"
+      ]
+    },
+    "332-3749-68-1798": {
+      "narrator_ids": [
+        332,
+        3749,
+        68,
+        1798
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:165:9"
+      ]
+    },
+    "3749-68": {
+      "narrator_ids": [
+        3749,
+        68
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:165:9"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3749",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3749.json"
+  }
+}

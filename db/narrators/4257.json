@@ -1,0 +1,58 @@
+{
+  "id": 4257,
+  "type": "narrator",
+  "path": "/people/narrators/4257",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ عَبْدِ اللَّهِ الْقُمِّيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:70:1",
+    "/books/tahdhib-al-ahkam:5:25:349"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "39-4257": {
+      "narrator_ids": [
+        39,
+        4257
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:70:1",
+        "/books/tahdhib-al-ahkam:5:25:349"
+      ]
+    },
+    "6-5-8-39-4257": {
+      "narrator_ids": [
+        6,
+        5,
+        8,
+        39,
+        4257
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:70:1"
+      ]
+    },
+    "952-6-5-39-4257": {
+      "narrator_ids": [
+        952,
+        6,
+        5,
+        39,
+        4257
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:25:349"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4257",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4257.json"
+  }
+}

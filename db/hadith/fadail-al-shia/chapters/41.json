@@ -1,0 +1,112 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "fadail-al-shia",
+  "chapterPath": "/books/fadail-al-shia:41",
+  "chapter": {
+    "path": "/books/fadail-al-shia:41",
+    "titles": {
+      "en": "Ali's (as) role as shepherd of the pious"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "fadail-al-shia:41:1",
+      "type": "hadith",
+      "book": {
+        "slug": "fadail-al-shia",
+        "titles": {
+          "ar": "فضائل الشيعة",
+          "en": "Fada'il al-Shi'a"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/fadail-al-shia:41:1",
+        "parts": [
+          41,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 41,
+        "book": 1
+      },
+      "chapter": {
+        "path": "/books/fadail-al-shia:41",
+        "titles": {
+          "en": "Ali's (as) role as shepherd of the pious"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": قال أمير المؤمنين عليه السلام: أنا الراعي، راعى الأنام، أفترى الراعي لا يعرف غنمه؟ قال: فقام إليه جويرية وقال: يا أمير المؤمنين فمن غنمك؟ قال: صفر الوجوه، ذبل الشفاه من ذكر الله."
+        ],
+        "text": ": قال أمير المؤمنين عليه السلام: أنا الراعي، راعى الأنام، أفترى الراعي لا يعرف غنمه؟ قال: فقام إليه جويرية وقال: يا أمير المؤمنين فمن غنمك؟ قال: صفر الوجوه، ذبل الشفاه من ذكر الله."
+      },
+      "translations": {
+        "en.badr-shahin": {
+          "segments": [
+            "(The same previous series of relaters)… from Sulaiman ad-Dailami related from Abu Bassir from Abu Abdullah (a) that Amir ul-Mu’minin (a) said: \"I am the shepherd-the shepherd of people. Is it acceptable that a shepherd does not identify his sheep?\" Juwairiya stood up and asked: \"O Amir ul-Mu’minin, who are your sheep?\" He (a) answered: \"My sheep are pale-faced and dry-lipped because of the mention of Allah.\""
+          ],
+          "text": "(The same previous series of relaters)… from Sulaiman ad-Dailami related from Abu Bassir from Abu Abdullah (a) that Amir ul-Mu’minin (a) said: \"I am the shepherd-the shepherd of people. Is it acceptable that a shepherd does not identify his sheep?\" Juwairiya stood up and asked: \"O Amir ul-Mu’minin, who are your sheep?\" He (a) answered: \"My sheep are pale-faced and dry-lipped because of the mention of Allah.\""
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "وبهذا الاسناد عن سليمان الديلمي، عن أبي بصير، عن أبي عبد الله عليه السلام قال",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "وبهذا الاسناد",
+            "path": "/people/narrators/4521"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "سليمان الديلمي،",
+            "path": "/people/narrators/3360"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي بصير،",
+            "path": "/people/narrators/14"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي عبد الله عليه السلام قال",
+            "path": "/people/narrators/669"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4521",
+          "/people/narrators/3360",
+          "/people/narrators/14",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/fadail-al-shia:41:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/fadail-al-shia/41/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/25/1/20/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

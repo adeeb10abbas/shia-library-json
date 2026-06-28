@@ -1,0 +1,44 @@
+{
+  "id": 2044,
+  "type": "narrator",
+  "path": "/people/narrators/2044",
+  "titles": {
+    "ar": "أَبِي بِلَالٍ الْمَكِّيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:8:9"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "270-2044": {
+      "narrator_ids": [
+        270,
+        2044
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:8:9"
+      ]
+    },
+    "6-5-21-270-2044": {
+      "narrator_ids": [
+        6,
+        5,
+        21,
+        270,
+        2044
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:8:9"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2044",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2044.json"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:17:3",
+  "chapter": {
+    "path": "/books/al-khisal:17:3",
+    "titles": {
+      "en": "Sixteen Characteristics Due to Wisdom"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:17:3:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:17:3:1",
+        "parts": [
+          17,
+          3,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 17,
+        "book": 3,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:17:3",
+        "titles": {
+          "en": "Sixteen Characteristics Due to Wisdom"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا محمد بن يحيى العطار، وأحمد بن إدريس جميعا قالا: حدثنا أبوسعيد سهل بن زياد الآدمي، عن محمد بن الحسين بن زيد الزيات عن عمرو بن عثمان الخزاز، عن ثابت بن دينار، عن سعد بن طريف الخفاف، عن الاصبغ بن نباتة قال: كان أمير المؤمنين عليه السلام يقول: الصدق أمانة، والكذب خيانة، والادب رئاسة، والحزم كياسة، والسرف متواة، والقصد مثراة، والحرص مفقرة، والدناءة، محقرة، والسخاء قربة، واللؤم غربة، والرقة استكانة، والعجز مهانة، والهوى ميل، والوفاء كيل، والعجب هلاك، والصبر ملاك"
+        ],
+        "text": ": حدثنا محمد بن يحيى العطار، وأحمد بن إدريس جميعا قالا: حدثنا أبوسعيد سهل بن زياد الآدمي، عن محمد بن الحسين بن زيد الزيات عن عمرو بن عثمان الخزاز، عن ثابت بن دينار، عن سعد بن طريف الخفاف، عن الاصبغ بن نباتة قال: كان أمير المؤمنين عليه السلام يقول: الصدق أمانة، والكذب خيانة، والادب رئاسة، والحزم كياسة، والسرف متواة، والقصد مثراة، والحرص مفقرة، والدناءة، محقرة، والسخاء قربة، واللؤم غربة، والرقة استكانة، والعجز مهانة، والهوى ميل، والوفاء كيل، والعجب هلاك، والصبر ملاك"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "16-3 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Muhammad ibn Yahya al-Attar and Ahmad ibn Idris quoted Abu Sa’id Sahl ibn Zyad al-Adamy, on the authority of Muhammad ibn al-Hussein ibn Zayd al-Zyat, on the authority of Amr ibn Uthman al-Khazzaz, on the authority of Sabit ibn Dinar, on the authority of Sa’ed ibn Tarif al-Khifaf, on the authority of Al-Asbaq ibn al-Nobatat that the Commander of the Faithful Imam Ali (MGB) said, “Honesty equals faithfulness. Lying equals treason. Politeness equals nobility. Determination equals accomplishment. Wastefulness equals destruction. Frugality equals being wealthy. Greed equals lowness. Lowness equals debasement. Generosity equals friendship. Meanness equals loneliness. Kindness equals humbleness. Disability equals debasement. Following aspirations equals deviation. Loyalty equals manliness. Selfishness equals destruction. Perseverance equals prosperity.”"
+          ],
+          "text": "16-3 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Muhammad ibn Yahya al-Attar and Ahmad ibn Idris quoted Abu Sa’id Sahl ibn Zyad al-Adamy, on the authority of Muhammad ibn al-Hussein ibn Zayd al-Zyat, on the authority of Amr ibn Uthman al-Khazzaz, on the authority of Sabit ibn Dinar, on the authority of Sa’ed ibn Tarif al-Khifaf, on the authority of Al-Asbaq ibn al-Nobatat that the Commander of the Faithful Imam Ali (MGB) said, “Honesty equals faithfulness. Lying equals treason. Politeness equals nobility. Determination equals accomplishment. Wastefulness equals destruction. Frugality equals being wealthy. Greed equals lowness. Lowness equals debasement. Generosity equals friendship. Meanness equals loneliness. Kindness equals humbleness. Disability equals debasement. Following aspirations equals deviation. Loyalty equals manliness. Selfishness equals destruction. Perseverance equals prosperity.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "16-3 حدثنا أبي رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "16-3 حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي رضي الله عنه قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:17:3:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/17/3/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/17/3/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

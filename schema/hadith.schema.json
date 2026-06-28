@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.local/shia-library-json/schema/hadith.schema.json",
+  "title": "Shia Library Hadith Record",
+  "type": "object",
+  "required": ["id", "type", "book", "path", "numbering", "source"],
+  "properties": {
+    "id": { "type": "string" },
+    "type": { "const": "hadith" },
+    "book": { "type": "object" },
+    "path": { "type": "object" },
+    "numbering": { "type": "object" },
+    "arabic": { "type": "object" },
+    "translations": { "type": "object" },
+    "gradings": { "type": "array" },
+    "narratorChain": { "type": ["object", "null"] },
+    "relations": { "type": "object" },
+    "source": { "type": "object" }
+  }
+}
+

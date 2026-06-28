@@ -1,0 +1,86 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "fadail-al-shia",
+  "chapterPath": "/books/fadail-al-shia:8",
+  "chapter": {
+    "path": "/books/fadail-al-shia:8",
+    "titles": {
+      "en": "On divine favor and protection"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "fadail-al-shia:8:1",
+      "type": "hadith",
+      "book": {
+        "slug": "fadail-al-shia",
+        "titles": {
+          "ar": "فضائل الشيعة",
+          "en": "Fada'il al-Shi'a"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/fadail-al-shia:8:1",
+        "parts": [
+          8,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 8,
+        "book": 1
+      },
+      "chapter": {
+        "path": "/books/fadail-al-shia:8",
+        "titles": {
+          "en": "On divine favor and protection"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا المفضّل, عن أبي حمزة, قال: سمعت أبا عبد اللّه عليه السلام يقول: أنتم أهل تحيّة اللّه و سلامه, و أنتم أهل أثرة اللّه و رحمته, و أهل توفيق اللّه و عصمته, و أهل دعوة اللّه و طاعته, لا حساب عليكم و لا خوف و لا حزن."
+        ],
+        "text": ": حدثنا المفضّل, عن أبي حمزة, قال: سمعت أبا عبد اللّه عليه السلام يقول: أنتم أهل تحيّة اللّه و سلامه, و أنتم أهل أثرة اللّه و رحمته, و أهل توفيق اللّه و عصمته, و أهل دعوة اللّه و طاعته, لا حساب عليكم و لا خوف و لا حزن."
+      },
+      "translations": {
+        "en.badr-shahin": {
+          "segments": [
+            "Mohammed bin al-Hasan bin Ahmed bin al-Waleed (r) narrated to us from … al-Mufaddhal from Abu Hamza that Abu Abdullah (a) said: You are the people of Allah’s greeting and salutation. You are the people of Allah’s preference and mercy, Allah’s success and guard, and the advocacy and the obedience to Allah. No judgement will be maintained for you. No fear and no sadness will affect you."
+          ],
+          "text": "Mohammed bin al-Hasan bin Ahmed bin al-Waleed (r) narrated to us from … al-Mufaddhal from Abu Hamza that Abu Abdullah (a) said: You are the people of Allah’s greeting and salutation. You are the people of Allah’s preference and mercy, Allah’s success and guard, and the advocacy and the obedience to Allah. No judgement will be maintained for you. No fear and no sadness will affect you."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "حدثنا محمّد بن الحسن بن أحمد بن الوليد رحمة اللّه باسناد رفعه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "حدثنا محمّد بن الحسن بن أحمد بن الوليد رحمة اللّه باسناد رفعه "
+          },
+          {
+            "kind": "narrator",
+            "text": "قال",
+            "path": "/people/narrators/652"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/652"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/fadail-al-shia:8:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/fadail-al-shia/8/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/25/1/13/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

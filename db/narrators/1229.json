@@ -1,0 +1,57 @@
+{
+  "id": 1229,
+  "type": "narrator",
+  "path": "/people/narrators/1229",
+  "titles": {
+    "ar": "إِبْرَاهِيمَ بْنِ نُعَيْمٍ الْأَزْدِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:4:53:3",
+    "/books/al-kafi:7:5:7:5",
+    "/books/tahdhib-al-ahkam:10:27:12",
+    "/books/tahdhib-al-ahkam:6:90:89"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "10-1229": {
+      "narrator_ids": [
+        10,
+        1229
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:4:53:3",
+        "/books/al-kafi:7:5:7:5"
+      ]
+    },
+    "3-2-53-1229": {
+      "narrator_ids": [
+        3,
+        2,
+        53,
+        1229
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:90:89"
+      ]
+    },
+    "53-1229": {
+      "narrator_ids": [
+        53,
+        1229
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:10:27:12",
+        "/books/tahdhib-al-ahkam:6:90:89"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1229",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1229.json"
+  }
+}

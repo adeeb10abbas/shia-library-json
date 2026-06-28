@@ -1,0 +1,104 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "man-la-yahduruhu-al-faqih",
+  "chapterPath": "/books/man-la-yahduruhu-al-faqih:2:3:69",
+  "chapter": {
+    "path": "/books/man-la-yahduruhu-al-faqih:2:3:69",
+    "titles": {
+      "en": "Chapter on What Has Been Narrated Regarding Circumambulation Behind the Station (maqam)"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "man-la-yahduruhu-al-faqih:2:3:69:1",
+      "type": "hadith",
+      "book": {
+        "slug": "man-la-yahduruhu-al-faqih",
+        "titles": {
+          "ar": "من لا يحضره الفقيه",
+          "en": "Man La Yahduruhu al-Faqih"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/man-la-yahduruhu-al-faqih:2:3:69:1",
+        "parts": [
+          2,
+          3,
+          69,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 3,
+        "chapter": 69,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/man-la-yahduruhu-al-faqih:2:3:69",
+        "titles": {
+          "en": "Chapter on What Has Been Narrated Regarding Circumambulation Behind the Station (maqam)"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " : سَأَلْتُ أَبَا عَبْدِ اَللَّهِ عَلَيْهِ اَلسَّلاَمُ عَنِ اَلطَّوَافِ خَلْفَ اَلْمَقَامِ قَالَ «مَا أُحِبُّ ذَلِكَ وَ مَا أَرَى بِهِ بَأْساً فَلاَ تَفْعَلْهُ إِلاَّ أَنْ لاَ تَجِدَ مِنْهُ بُدّاً »."
+        ],
+        "text": ": سَأَلْتُ أَبَا عَبْدِ اَللَّهِ عَلَيْهِ اَلسَّلاَمُ عَنِ اَلطَّوَافِ خَلْفَ اَلْمَقَامِ قَالَ «مَا أُحِبُّ ذَلِكَ وَ مَا أَرَى بِهِ بَأْساً فَلاَ تَفْعَلْهُ إِلاَّ أَنْ لاَ تَجِدَ مِنْهُ بُدّاً »."
+      },
+      "translations": {
+        "en.bab-ul-qaim-publications": {
+          "segments": [
+            "Hadith.2809 - Aban narrated from Muhammad ibn Ali al-Halabi, who said: I asked Imam Abu Abdullah (as) about performing tawaf behind the Maqam (of Ibrahim).\nImam (as) said: \"I do not like it, but I see no harm in it. Do not do it unless you have no other choice.\""
+          ],
+          "text": "Hadith.2809 - Aban narrated from Muhammad ibn Ali al-Halabi, who said: I asked Imam Abu Abdullah (as) about performing tawaf behind the Maqam (of Ibrahim).\nImam (as) said: \"I do not like it, but I see no harm in it. Do not do it unless you have no other choice.\""
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "2809 - رَوَى أَبَانٌ عَنْ مُحَمَّدِ بْنِ عَلِيٍّ اَلْحَلَبِيِّ قَالَ",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "2809 - رَوَى "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبَانٌ",
+            "path": "/people/narrators/46"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ عَلِيٍّ اَلْحَلَبِيِّ",
+            "path": "/people/narrators/655"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/46",
+          "/people/narrators/655"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/man-la-yahduruhu-al-faqih:2:3:69:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/man-la-yahduruhu-al-faqih/2/3/69/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/34/3/69/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

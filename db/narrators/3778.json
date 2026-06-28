@@ -1,0 +1,53 @@
+{
+  "id": 3778,
+  "type": "narrator",
+  "path": "/people/narrators/3778",
+  "titles": {
+    "ar": "عَلِيِّ بْنِ سَلَّارٍ أَبِي عَمْرَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:46:42"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "13-3778": {
+      "narrator_ids": [
+        13,
+        3778
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:46:42"
+      ]
+    },
+    "3778-2216": {
+      "narrator_ids": [
+        3778,
+        2216
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:46:42"
+      ]
+    },
+    "4-13-3778-2216-3842": {
+      "narrator_ids": [
+        4,
+        13,
+        3778,
+        2216,
+        3842
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:46:42"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3778",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3778.json"
+  }
+}

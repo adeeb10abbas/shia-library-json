@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:3:48",
+  "chapter": {
+    "path": "/books/al-khisal:3:48",
+    "titles": {
+      "en": "Two Things with Which Some Corrupt Their Prayers"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:3:48:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:3:48:1",
+        "parts": [
+          3,
+          48,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 48,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:3:48",
+        "titles": {
+          "en": "Two Things with Which Some Corrupt Their Prayers"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا سعد بن عبد الله، عن أحمد بن محمد بن عيسى عن أحمد بن محمد بن أبي نصر، عن ثعلبة بن ميمون، عن ميسرة، عن أبي جعفر عليه السلام قال: شيئان يفسد الناس بهما صلاتهم: قول الرجـل تبـاركاسمك وتعالى جدك وإنما هو شيء قالته الجن بجهالة فحكى الله عنهم، وقول الرجل: السلام علينا وعلى عباد الله الصالحين"
+        ],
+        "text": ": حدثنا سعد بن عبد الله، عن أحمد بن محمد بن عيسى عن أحمد بن محمد بن أبي نصر، عن ثعلبة بن ميمون، عن ميسرة، عن أبي جعفر عليه السلام قال: شيئان يفسد الناس بهما صلاتهم: قول الرجـل تبـاركاسمك وتعالى جدك وإنما هو شيء قالته الجن بجهالة فحكى الله عنهم، وقول الرجل: السلام علينا وعلى عباد الله الصالحين"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "2-59 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Sa’ed ibn Abdullah quoted Ahmad ibn Muhammad ibn Isa, on the authority of Ahmad ibn Muhammad ibn Abi Nasr, on the authority of Sa’alabat ibn Maymun, on the authority of Maysara that Abi Ja’far al-Baqir (MGB) said, “There are two things with which some people corrupt their prayers. The first thing is saying ‘tabaraka ismuka wa ta’ala jadduka’ which means ‘Blessed is Thy name and High isThy Fortune.’ This is what the genies said about God out of ignorance and God has stated it quoting them. The second thing is saying ‘as-salamu alayna va ala ebadillah as-salihin’ which means ‘Peace be upon us and upon God’s servants - the good-doers’ in the middle of the prayer (since this is said at the end to terminate the prayers). ”"
+          ],
+          "text": "2-59 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Sa’ed ibn Abdullah quoted Ahmad ibn Muhammad ibn Isa, on the authority of Ahmad ibn Muhammad ibn Abi Nasr, on the authority of Sa’alabat ibn Maymun, on the authority of Maysara that Abi Ja’far al-Baqir (MGB) said, “There are two things with which some people corrupt their prayers. The first thing is saying ‘tabaraka ismuka wa ta’ala jadduka’ which means ‘Blessed is Thy name and High isThy Fortune.’ This is what the genies said about God out of ignorance and God has stated it quoting them. The second thing is saying ‘as-salamu alayna va ala ebadillah as-salihin’ which means ‘Peace be upon us and upon God’s servants - the good-doers’ in the middle of the prayer (since this is said at the end to terminate the prayers). ”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "2-59 حدثنا أبي رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "2-59 حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي رضي الله عنه قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:3:48:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/3/48/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/3/48/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

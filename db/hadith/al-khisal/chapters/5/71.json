@@ -1,0 +1,85 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:5:71",
+  "chapter": {
+    "path": "/books/al-khisal:5:71",
+    "titles": {
+      "en": "Four Things A Little of which Is A Lot"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:5:71:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:5:71:1",
+        "parts": [
+          5,
+          71,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 71,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:5:71",
+        "titles": {
+          "en": "Four Things A Little of which Is A Lot"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا محمد بن يحيى العطار، عن محمد بن أحمد بن يحيى بن عمران الاشعري، عن صالح يرفعه باسناده قال: أربعة القليل منها كثير: النار القليل منها كثير، والنوم القليل منه كثير، والمرض القليل منه كثير، والعداوة القليل منها كثير"
+        ],
+        "text": ": حدثنا محمد بن يحيى العطار، عن محمد بن أحمد بن يحيى بن عمران الاشعري، عن صالح يرفعه باسناده قال: أربعة القليل منها كثير: النار القليل منها كثير، والنوم القليل منه كثير، والمرض القليل منه كثير، والعداوة القليل منها كثير"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "4-84 Muhammad ibn Ali Majiluyih - may God be pleased with him - narrated that Muhammad ibn Yahya al-Attar quoted Muhammad ibn Ahmad ibn Yahya ibn Imran al-Ash’ari, on the authority of Salih who linked it up through a chain of narrators to the Divine Leader, “There are four things a little of which is a lot: fire, sleep, disease and animosity.”"
+          ],
+          "text": "4-84 Muhammad ibn Ali Majiluyih - may God be pleased with him - narrated that Muhammad ibn Yahya al-Attar quoted Muhammad ibn Ahmad ibn Yahya ibn Imran al-Ash’ari, on the authority of Salih who linked it up through a chain of narrators to the Divine Leader, “There are four things a little of which is a lot: fire, sleep, disease and animosity.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "4-84 حدثنا محمد بن علي ماجيلويه رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "4-84 حدثنا "
+          },
+          {
+            "kind": "plain",
+            "text": "محمد بن علي ماجيلويه رضي الله عنه قال"
+          }
+        ],
+        "narratorPaths": []
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:5:71:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/5/71/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/5/71/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

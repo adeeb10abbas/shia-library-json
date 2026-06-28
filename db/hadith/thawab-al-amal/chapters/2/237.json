@@ -1,0 +1,118 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "thawab-al-amal",
+  "chapterPath": "/books/thawab-al-amal:2:237",
+  "chapter": {
+    "path": "/books/thawab-al-amal:2:237",
+    "titles": {
+      "en": "Reward of reciting Surah Abas and Takwir"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "thawab-al-amal:2:237:1",
+      "type": "hadith",
+      "book": {
+        "slug": "thawab-al-amal",
+        "titles": {
+          "ar": "ثواب الأعمال وعقاب الأعمال",
+          "en": "Thawab al-A'mal wa 'Iqab al-A'mal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/thawab-al-amal:2:237:1",
+        "parts": [
+          2,
+          237,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 237,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/thawab-al-amal:2:237",
+        "titles": {
+          "en": "Reward of reciting Surah Abas and Takwir"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": مَنْ قَرَأَ سُورَهَ عَبَسَ وَ تَوَلَّی وَ إِذَا الشَّمْسُ کُوِّرَتْ کَانَ تَحْتَ جَنَاحِ اللَّهِ مِنَ الْجِنَانِ وَ فِی ظِلِّ اللَّهِ وَ کَرَامَتِهِ فِی جِنَانِهِ وَ لَا یَعْظُمُ ذَلِکَ عَلَی اللَّهِ إِنْ شَاءَ اللَّهُ."
+        ],
+        "text": ": مَنْ قَرَأَ سُورَهَ عَبَسَ وَ تَوَلَّی وَ إِذَا الشَّمْسُ کُوِّرَتْ کَانَ تَحْتَ جَنَاحِ اللَّهِ مِنَ الْجِنَانِ وَ فِی ظِلِّ اللَّهِ وَ کَرَامَتِهِ فِی جِنَانِهِ وَ لَا یَعْظُمُ ذَلِکَ عَلَی اللَّهِ إِنْ شَاءَ اللَّهُ."
+      },
+      "translations": {
+        "en.sayed-athar-husain-rizvi-&-sayed-maqsood-athar": {
+          "segments": [
+            "1. From the previous chain from al-Hassan from Muawiyah b. Wahab from Abi Abdillah (a.s.) who said: “One who recites Surah Abas and Takrim would remain under the shade of Allah and would remain safe from usurping others’ property. He would receive favor of Allah and go to Paradise. And it is not a big thing for Almighty Allah.”"
+          ],
+          "text": "1. From the previous chain from al-Hassan from Muawiyah b. Wahab from Abi Abdillah (a.s.) who said: “One who recites Surah Abas and Takrim would remain under the shade of Allah and would remain safe from usurping others’ property. He would receive favor of Allah and go to Paradise. And it is not a big thing for Almighty Allah.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "بِهَذَا الْإِسْنَادِ عَنِ الْحَسَنِ عَنْ مُعَاوِیَهَ بْنِ وَهْبٍ عَنْ أَبِی عَبْدِ اللَّهِ ع قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "بِهَذَا الْإِسْنَادِ",
+            "path": "/people/narrators/77"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحَسَنِ",
+            "path": "/people/narrators/417"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُعَاوِیَهَ بْنِ وَهْبٍ",
+            "path": "/people/narrators/109"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِی عَبْدِ اللَّهِ ع",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/77",
+          "/people/narrators/417",
+          "/people/narrators/109",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/thawab-al-amal:2:237:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/thawab-al-amal/2/237/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/23/2/237/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

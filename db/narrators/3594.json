@@ -1,0 +1,43 @@
+{
+  "id": 3594,
+  "type": "narrator",
+  "path": "/people/narrators/3594",
+  "titles": {
+    "ar": "عَبْدِ اللَّهِ بْنِ عَلِيٍّ السَّرَّادِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:4:85:18"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "291-3594": {
+      "narrator_ids": [
+        291,
+        3594
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:85:18"
+      ]
+    },
+    "77-29-291-3594": {
+      "narrator_ids": [
+        77,
+        29,
+        291,
+        3594
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:85:18"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3594",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3594.json"
+  }
+}

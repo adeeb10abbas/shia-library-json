@@ -1,0 +1,44 @@
+{
+  "id": 3209,
+  "type": "narrator",
+  "path": "/people/narrators/3209",
+  "titles": {
+    "ar": "رَجُلٍ لَا نَعْلَمُهُ إِلَّا يَحْيَى الْأَزْرَقَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:148:6"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "4-5-292-46-3209": {
+      "narrator_ids": [
+        4,
+        5,
+        292,
+        46,
+        3209
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:148:6"
+      ]
+    },
+    "46-3209": {
+      "narrator_ids": [
+        46,
+        3209
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:148:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3209",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3209.json"
+  }
+}

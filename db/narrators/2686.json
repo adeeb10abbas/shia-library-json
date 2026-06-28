@@ -1,0 +1,48 @@
+{
+  "id": 2686,
+  "type": "narrator",
+  "path": "/people/narrators/2686",
+  "titles": {
+    "ar": "الرَّجُلِ يَكُونُ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:1:24:5",
+    "/books/man-la-yahduruhu-al-faqih:1:22:11",
+    "/books/man-la-yahduruhu-al-faqih:1:51:3",
+    "/books/man-la-yahduruhu-al-faqih:1:53:1",
+    "/books/man-la-yahduruhu-al-faqih:1:53:5",
+    "/books/man-la-yahduruhu-al-faqih:1:62:8"
+  ],
+  "verseCount": 6,
+  "relations": {},
+  "subchains": {
+    "184-2686": {
+      "narrator_ids": [
+        184,
+        2686
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:1:24:5"
+      ]
+    },
+    "6-12-184-2686": {
+      "narrator_ids": [
+        6,
+        12,
+        184,
+        2686
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:1:24:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2686",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2686.json"
+  }
+}

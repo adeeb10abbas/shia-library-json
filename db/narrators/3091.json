@@ -1,0 +1,127 @@
+{
+  "id": 3091,
+  "type": "narrator",
+  "path": "/people/narrators/3091",
+  "titles": {
+    "ar": "حَكَمٍ"
+  },
+  "versePaths": [
+    "/books/al-istibsar:4:19:7",
+    "/books/al-kafi:7:6:3:1",
+    "/books/tahdhib-al-ahkam:1:31:7",
+    "/books/tahdhib-al-ahkam:9:1:13"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "11-27-268-3091-60-669": {
+      "narrator_ids": [
+        11,
+        27,
+        268,
+        3091,
+        60,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:31:7"
+      ]
+    },
+    "11-69-46-40-3091-669": {
+      "narrator_ids": [
+        11,
+        69,
+        46,
+        40,
+        3091,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:4:19:7",
+        "/books/tahdhib-al-ahkam:9:1:13"
+      ]
+    },
+    "268-3091": {
+      "narrator_ids": [
+        268,
+        3091
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:31:7"
+      ]
+    },
+    "3-2-22-197-1122-1085-14-9-3091-126-669": {
+      "narrator_ids": [
+        3,
+        2,
+        22,
+        197,
+        1122,
+        1085,
+        14,
+        9,
+        3091,
+        126,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:6:3:1"
+      ]
+    },
+    "3091-126": {
+      "narrator_ids": [
+        3091,
+        126
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:6:3:1"
+      ]
+    },
+    "3091-60": {
+      "narrator_ids": [
+        3091,
+        60
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:31:7"
+      ]
+    },
+    "3091-669": {
+      "narrator_ids": [
+        3091,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:4:19:7",
+        "/books/tahdhib-al-ahkam:9:1:13"
+      ]
+    },
+    "40-3091": {
+      "narrator_ids": [
+        40,
+        3091
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:4:19:7",
+        "/books/tahdhib-al-ahkam:9:1:13"
+      ]
+    },
+    "9-3091": {
+      "narrator_ids": [
+        9,
+        3091
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:6:3:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3091",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3091.json"
+  }
+}

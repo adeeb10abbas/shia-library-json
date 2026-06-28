@@ -1,0 +1,57 @@
+{
+  "id": 2228,
+  "type": "narrator",
+  "path": "/people/narrators/2228",
+  "titles": {
+    "ar": "أَبِي يَحْيَى الْمَدَائِنِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:126:8"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2228-2221": {
+      "narrator_ids": [
+        2228,
+        2221
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:126:8"
+      ]
+    },
+    "391-2228": {
+      "narrator_ids": [
+        391,
+        2228
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:126:8"
+      ]
+    },
+    "4-29-725-669-29-391-2228-2221-1269": {
+      "narrator_ids": [
+        4,
+        29,
+        725,
+        669,
+        29,
+        391,
+        2228,
+        2221,
+        1269
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:126:8"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2228",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2228.json"
+  }
+}

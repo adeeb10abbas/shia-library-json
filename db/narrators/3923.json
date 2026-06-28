@@ -1,0 +1,57 @@
+{
+  "id": 3923,
+  "type": "narrator",
+  "path": "/people/narrators/3923",
+  "titles": {
+    "ar": "عَنِ الْمُفَضَّلِ بْنِ عُمَرَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:2:13:3",
+    "/books/kitab-al-mumin:1:18"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "3923-669": {
+      "narrator_ids": [
+        3923,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:13:3"
+      ]
+    },
+    "48-3923": {
+      "narrator_ids": [
+        48,
+        3923
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:13:3"
+      ]
+    },
+    "6-5-21-926-346-48-3923-669": {
+      "narrator_ids": [
+        6,
+        5,
+        21,
+        926,
+        346,
+        48,
+        3923,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:13:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3923",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3923.json"
+  }
+}

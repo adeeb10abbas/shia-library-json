@@ -1,0 +1,661 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:5:1:24",
+  "chapter": {
+    "path": "/books/al-kafi:5:1:24",
+    "titles": {
+      "ar": "باب مَنْ قُتِلَ دُونَ مَظْلِمَتِهِ",
+      "en": "Chapter 24 – The one who is killed confronting his oppression"
+    }
+  },
+  "count": 5,
+  "records": [
+    {
+      "id": "al-kafi:5:1:24:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:5:1:24:1",
+        "parts": [
+          5,
+          1,
+          24,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 1,
+        "chapter": 24,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:5:1:24",
+        "titles": {
+          "ar": "باب مَنْ قُتِلَ دُونَ مَظْلِمَتِهِ",
+          "en": "Chapter 24 – The one who is killed confronting his oppression"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) مَنْ قُتِلَ دُونَ مَظْلِمَتِهِ فَهُوَ شَهِيدٌ ."
+        ],
+        "text": "قَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) مَنْ قُتِلَ دُونَ مَظْلِمَتِهِ فَهُوَ شَهِيدٌ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad in Yahya, from Ahmad Bin Muhammad Bin Isa, from Abdul Rahman Bin Abu Najran, from Abdullah Bin Sinan, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup> said: ‘The one who dies confronting his attacker, so he is a martyr’."
+          ],
+          "text": "Muhammad in Yahya, from Ahmad Bin Muhammad Bin Isa, from Abdul Rahman Bin Abu Najran, from Abdullah Bin Sinan,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup> said: ‘The one who dies confronting his attacker, so he is a martyr’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad ibn ‘Isa from ‘Abd al-Rahman ibn abu Najran from ‘Abd Allah ibn Sinan who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, has said, ‘If one is murdered over his stolen property he is a martyr.’” "
+          ],
+          "text": "1. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad ibn ‘Isa from ‘Abd al-Rahman ibn abu Najran from ‘Abd Allah ibn Sinan who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, has said, ‘If one is murdered over his stolen property he is a martyr.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> صحيح   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (8/394)",
+          "label": "صحيح",
+          "text": "Allamah Baqir al-Majlisi: صحيح - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (8/394)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي نَجْرَانَ عَنْ عَبْدِ اللَّهِ بْنِ سِنَانٍ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى",
+            "path": "/people/narrators/13"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَبْدِ الرَّحْمَنِ بْنِ أَبِي نَجْرَانَ",
+            "path": "/people/narrators/185"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَبْدِ اللَّهِ بْنِ سِنَانٍ",
+            "path": "/people/narrators/31"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/13",
+          "/people/narrators/185",
+          "/people/narrators/31",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:5:1:24:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/5/1/24/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:5:1:24:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:5:1:24:2",
+        "parts": [
+          5,
+          1,
+          24,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 1,
+        "chapter": 24,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:5:1:24",
+        "titles": {
+          "ar": "باب مَنْ قُتِلَ دُونَ مَظْلِمَتِهِ",
+          "en": "Chapter 24 – The one who is killed confronting his oppression"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) مَنْ قُتِلَ دُونَ مَظْلِمَتِهِ فَهُوَ شَهِيدٌ ثُمَّ قَالَ يَا أَبَا مَرْيَمَ هَلْ تَدْرِي مَا دُونَ مَظْلِمَتِهِ قُلْتُ جُعِلْتُ فِدَاكَ الرَّجُلُ يُقْتَلُ دُونَ أَهْلِهِ وَ دُونَ مَالِهِ وَ أَشْبَاهِ ذَلِكَ فَقَالَ يَا أَبَا مَرْيَمَ إِنَّ مِنَ الْفِقْهِ عِرْفَانَ الْحَقِّ "
+        ],
+        "text": "قَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) مَنْ قُتِلَ دُونَ مَظْلِمَتِهِ فَهُوَ شَهِيدٌ ثُمَّ قَالَ يَا أَبَا مَرْيَمَ هَلْ تَدْرِي مَا دُونَ مَظْلِمَتِهِ قُلْتُ جُعِلْتُ فِدَاكَ الرَّجُلُ يُقْتَلُ دُونَ أَهْلِهِ وَ دُونَ مَالِهِ وَ أَشْبَاهِ ذَلِكَ فَقَالَ يَا أَبَا مَرْيَمَ إِنَّ مِنَ الْفِقْهِ عِرْفَانَ الْحَقِّ"
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "And by this chain, from Abu Maryam, ",
+            "(It has been narrated) from Abu Ja’far<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup> said: ‘The one being killed facing his attacker, so he is a martyr’. Then he<sup>asws</sup> said: ‘O Abu Maryam! Do you know what is ‘facing oppression’?’ I said, ‘May I be sacrificed for you<sup>asws</sup>! The man who is killed instead of his family, and instead of his wealth and like that’. So he<sup>asws</sup> said:’ O Abu Maryam! It is from the jurisprudence, recognition of the truth’."
+          ],
+          "text": "And by this chain, from Abu Maryam,\n\n(It has been narrated) from Abu Ja’far<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup> said: ‘The one being killed facing his attacker, so he is a martyr’. Then he<sup>asws</sup> said: ‘O Abu Maryam! Do you know what is ‘facing oppression’?’ I said, ‘May I be sacrificed for you<sup>asws</sup>! The man who is killed instead of his family, and instead of his wealth and like that’. So he<sup>asws</sup> said:’ O Abu Maryam! It is from the jurisprudence, recognition of the truth’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. It is narrated from the narrator of the previous Hadith from abu Maryam from Abu Ja‘far, ‘Alayhi al-Salam, who has said the following: “The Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, has said, ‘If one is murdered over his stolen property he is a martyr.’ He (the Imam) then said, ‘O abu Maryam, do you know what is ‘murdered over his stolen property’? I replied, ‘I pray to Allah to keep me in the service of your cause, it is when a man is murdered defending his family, property and similar things.’ He (the Imam) said, ‘It is of fiqh (proper understanding) to know the truth.’” "
+          ],
+          "text": "2. It is narrated from the narrator of the previous Hadith from abu Maryam from Abu Ja‘far, ‘Alayhi al-Salam, who has said the following: “The Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, has said, ‘If one is murdered over his stolen property he is a martyr.’ He (the Imam) then said, ‘O abu Maryam, do you know what is ‘murdered over his stolen property’? I replied, ‘I pray to Allah to keep me in the service of your cause, it is when a man is murdered defending his family, property and similar things.’ He (the Imam) said, ‘It is of fiqh (proper understanding) to know the truth.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> صحيح   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (18/394)",
+          "label": "صحيح",
+          "text": "Allamah Baqir al-Majlisi: صحيح - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (18/394)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "وَ بِهَذَا الْإِسْنَادِ عَنْ أَبِي مَرْيَمَ عَنْ أَبِي جَعْفَرٍ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "وَ "
+          },
+          {
+            "kind": "narrator",
+            "text": "بِهَذَا الْإِسْنَادِ",
+            "path": "/people/narrators/77"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي مَرْيَمَ",
+            "path": "/people/narrators/266"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي جَعْفَرٍ ( عليه السلام )",
+            "path": "/people/narrators/9"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/77",
+          "/people/narrators/266",
+          "/people/narrators/9"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/tahdhib-al-ahkam:6:77:3"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:5:1:24:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/5/1/24/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:5:1:24:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:5:1:24:3",
+        "parts": [
+          5,
+          1,
+          24,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 1,
+        "chapter": 24,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:5:1:24",
+        "titles": {
+          "ar": "باب مَنْ قُتِلَ دُونَ مَظْلِمَتِهِ",
+          "en": "Chapter 24 – The one who is killed confronting his oppression"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَأَلْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) عَنِ الرَّجُلِ يُقَاتِلُ دُونَ مَالِهِ فَقَالَ قَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) مَنْ قُتِلَ دُونَ مَالِهِ فَهُوَ بِمَنْزِلَةِ الشَّهِيدِ قُلْتُ أَ يُقَاتِلُ أَفْضَلُ أَوْ لَمْ يُقَاتِلْ قَالَ أَمَّا أَنَا لَوْ كُنْتُ لَمْ أُقَاتِلْ وَ تَرَكْتُهُ ."
+        ],
+        "text": "سَأَلْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) عَنِ الرَّجُلِ يُقَاتِلُ دُونَ مَالِهِ فَقَالَ قَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) مَنْ قُتِلَ دُونَ مَالِهِ فَهُوَ بِمَنْزِلَةِ الشَّهِيدِ قُلْتُ أَ يُقَاتِلُ أَفْضَلُ أَوْ لَمْ يُقَاتِلْ قَالَ أَمَّا أَنَا لَوْ كُنْتُ لَمْ أُقَاتِلْ وَ تَرَكْتُهُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "From him, from Ahmad Bin Muhammad, from Ali Bin Al Hakam, from Al Husayn Bin Abu Al A’ala who said, ",
+            "‘I asked Abu Abdullah<sup>asws</sup> about the man who was killed instead of his wealth. So he<sup>asws</sup> said: ‘Rasool-Allah<sup>saww</sup> said: ‘The one who is killed instead of his wealth, so he is at the status of the martyr’. I said, ‘Is his fighting better, or not fighting?’ He<sup>asws</sup> said: ‘But, if it was me<sup>asws</sup>, I<sup>asws</sup> would not fight and leave him’."
+          ],
+          "text": "From him, from Ahmad Bin Muhammad, from Ali Bin Al Hakam, from Al Husayn Bin Abu Al A’ala who said,\n\n‘I asked Abu Abdullah<sup>asws</sup> about the man who was killed instead of his wealth. So he<sup>asws</sup> said: ‘Rasool-Allah<sup>saww</sup> said: ‘The one who is killed instead of his wealth, so he is at the status of the martyr’. I said, ‘Is his fighting better, or not fighting?’ He<sup>asws</sup> said: ‘But, if it was me<sup>asws</sup>, I<sup>asws</sup> would not fight and leave him’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "3. It is narrated from the narrator of the previous Hadith from Ahmad ibn Muhammad from Ali ibn al-Hakam from Al-Husayn ibn abu al-‘Ala’ who has said the following: “This is concerning my question before abu ‘Abd Allah, Alayhi al-Salam, about a man who fights to defend his property. He (the Imam) said, ‘The Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, has said, “If one is murdered when defending his property he is like a martyr.’” I then asked, ‘Is fighting better or not fighting?’ He (the Imam) said, ‘Were it to happen to me I would not fight but leave him alone.’” "
+          ],
+          "text": "3. It is narrated from the narrator of the previous Hadith from Ahmad ibn Muhammad from Ali ibn al-Hakam from Al-Husayn ibn abu al-‘Ala’ who has said the following: “This is concerning my question before abu ‘Abd Allah, Alayhi al-Salam, about a man who fights to defend his property. He (the Imam) said, ‘The Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, has said, “If one is murdered when defending his property he is like a martyr.’” I then asked, ‘Is fighting better or not fighting?’ He (the Imam) said, ‘Were it to happen to me I would not fight but leave him alone.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> حسن   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (8/394)",
+          "label": "حسن",
+          "text": "Allamah Baqir al-Majlisi: حسن - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (8/394)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَنْهُ عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنْ عَلِيِّ بْنِ الْحَكَمِ عَنِ الْحُسَيْنِ بْنِ أَبِي الْعَلَاءِ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَنْهُ",
+            "path": "/people/narrators/11"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيِّ بْنِ الْحَكَمِ",
+            "path": "/people/narrators/15"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحُسَيْنِ بْنِ أَبِي الْعَلَاءِ",
+            "path": "/people/narrators/216"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/11",
+          "/people/narrators/5",
+          "/people/narrators/15",
+          "/people/narrators/216"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:5:1:24:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/5/1/24/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:5:1:24:4",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:5:1:24:4",
+        "parts": [
+          5,
+          1,
+          24,
+          4
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 1,
+        "chapter": 24,
+        "hadith": 4
+      },
+      "chapter": {
+        "path": "/books/al-kafi:5:1:24",
+        "titles": {
+          "ar": "باب مَنْ قُتِلَ دُونَ مَظْلِمَتِهِ",
+          "en": "Chapter 24 – The one who is killed confronting his oppression"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " مَنِ اعْتُدِيَ عَلَيْهِ فِي صَدَقَةِ مَالِهِ فَقَاتَلَ فَقُتِلَ فَهُوَ شَهِيدٌ "
+        ],
+        "text": "مَنِ اعْتُدِيَ عَلَيْهِ فِي صَدَقَةِ مَالِهِ فَقَاتَلَ فَقُتِلَ فَهُوَ شَهِيدٌ"
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "From him, from Ahmad, from Al Washa, from Safwan Bin Yahya, from Artaat Bin Habeeb Al Asady, from a man, ",
+            "(It has been narrated) from Ali<sup>asws</sup> Bin Al-Husayn<sup>asws</sup> having said: ‘The one who is exceeded against with regards to a charity of his wealth, so he fights and is killed, so he is a martyr’."
+          ],
+          "text": "From him, from Ahmad, from Al Washa, from Safwan Bin Yahya, from Artaat Bin Habeeb Al Asady, from a man,\n\n(It has been narrated) from Ali<sup>asws</sup> Bin Al-Husayn<sup>asws</sup> having said: ‘The one who is exceeded against with regards to a charity of his wealth, so he fights and is killed, so he is a martyr’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "4. It is narrated from the narrator of the previous Hadith from Ahmad from al-Washsha’ from Safwan ibn Yahya from Artat ibn Habib al-Asadiy from a man from Ali ibn Al-Husayn, ‘Alayhi al-Salam, , who has said the following: “If one is subjected to transgression over the charity of his property and he fights back and is murdered he is a martyr.” "
+          ],
+          "text": "4. It is narrated from the narrator of the previous Hadith from Ahmad from al-Washsha’ from Safwan ibn Yahya from Artat ibn Habib al-Asadiy from a man from Ali ibn Al-Husayn, ‘Alayhi al-Salam, , who has said the following: “If one is subjected to transgression over the charity of his property and he fights back and is murdered he is a martyr.”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مرسل   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (8/395)",
+          "label": "مرسل",
+          "text": "Allamah Baqir al-Majlisi: مرسل - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (8/395)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَنْهُ عَنْ أَحْمَدَ عَنِ الْوَشَّاءِ عَنْ صَفْوَانَ بْنِ يَحْيَى عَنْ أَرْطَاةَ بْنِ حَبِيبٍ الْأَسَدِيِّ عَنْ رَجُلٍ عَنْ عَلِيِّ بْنِ الْحُسَيْنِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَنْهُ",
+            "path": "/people/narrators/11"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ",
+            "path": "/people/narrators/92"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْوَشَّاءِ",
+            "path": "/people/narrators/61"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "صَفْوَانَ بْنِ يَحْيَى",
+            "path": "/people/narrators/30"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَرْطَاةَ بْنِ حَبِيبٍ الْأَسَدِيِّ",
+            "path": "/people/narrators/2395"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "رَجُلٍ",
+            "path": "/people/narrators/60"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيِّ بْنِ الْحُسَيْنِ ( عليه السلام )",
+            "path": "/people/narrators/312"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/11",
+          "/people/narrators/92",
+          "/people/narrators/61",
+          "/people/narrators/30",
+          "/people/narrators/2395",
+          "/people/narrators/60",
+          "/people/narrators/312"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:5:1:24:4",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/5/1/24/4.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:5:1:24:5",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:5:1:24:5",
+        "parts": [
+          5,
+          1,
+          24,
+          5
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 1,
+        "chapter": 24,
+        "hadith": 5
+      },
+      "chapter": {
+        "path": "/books/al-kafi:5:1:24",
+        "titles": {
+          "ar": "باب مَنْ قُتِلَ دُونَ مَظْلِمَتِهِ",
+          "en": "Chapter 24 – The one who is killed confronting his oppression"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " السَّفَرِ وَ مَعَهُ جَارِيَةٌ لَهُ فَيَجِي‏ءُ قَوْمٌ يُرِيدُونَ أَخْذَ جَارِيَتِهِ أَ يَمْنَعُ جَارِيَتَهُ مِنْ أَنْ تُؤْخَذَ وَ إِنْ خَافَ عَلَى نَفْسِهِ الْقَتْلَ قَالَ نَعَمْ قُلْتُ وَ كَذَلِكَ إِنْ كَانَتْ  مَعَهُ امْرَأَةٌ قَالَ نَعَمْ قُلْتُ وَ كَذَلِكَ الْأُمُّ وَ الْبِنْتُ وَ ابْنَةُ الْعَمِّ وَ الْقَرَابَةُ يَمْنَعُهُنَّ وَ إِنْ خَافَ عَلَى نَفْسِهِ الْقَتْلَ قَالَ نَعَمْ [قُلْتُ] وَ كَذَلِكَ الْمَالُ يُرِيدُونَ أَخْذَهُ فِي سَفَرٍ فَيَمْنَعُهُ وَ إِنْ خَافَ الْقَتْلَ قَالَ نَعَمْ ."
+        ],
+        "text": "السَّفَرِ وَ مَعَهُ جَارِيَةٌ لَهُ فَيَجِي‏ءُ قَوْمٌ يُرِيدُونَ أَخْذَ جَارِيَتِهِ أَ يَمْنَعُ جَارِيَتَهُ مِنْ أَنْ تُؤْخَذَ وَ إِنْ خَافَ عَلَى نَفْسِهِ الْقَتْلَ قَالَ نَعَمْ قُلْتُ وَ كَذَلِكَ إِنْ كَانَتْ  مَعَهُ امْرَأَةٌ قَالَ نَعَمْ قُلْتُ وَ كَذَلِكَ الْأُمُّ وَ الْبِنْتُ وَ ابْنَةُ الْعَمِّ وَ الْقَرَابَةُ يَمْنَعُهُنَّ وَ إِنْ خَافَ عَلَى نَفْسِهِ الْقَتْلَ قَالَ نَعَمْ [قُلْتُ] وَ كَذَلِكَ الْمَالُ يُرِيدُونَ أَخْذَهُ فِي سَفَرٍ فَيَمْنَعُهُ وَ إِنْ خَافَ الْقَتْلَ قَالَ نَعَمْ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Ahmad Bin Muhammad Bin Khalid, from his father, from the one who mentioned it, ",
+            "(It has been narrated) from Al-Reza<sup>asws</sup> about the man who happens to be in the journey and with him is a slave girl, and a group comes over intending to take his slave girl. Should he prevent his slave girl from being taken if he were to fear upon his self to be killed?’ He<sup>asws</sup> said: ‘Yes’. I said, ‘And similar to that is if it was his wife with him?’ He<sup>asws</sup> said: ‘Yes’. I said, ‘And similar to that is the mother, and the daughter, and the daughter of the paternal uncle, and the relatives, should he prevent (from) them if he were to fear upon his self being killed?’ He<sup>asws</sup> said: ‘Yes’. I said, ‘And similar to that is the wealth, they (thieves) intending to take it during a journey, so he prevents it even if he fears being killed?’ He<sup>asws</sup> said: ‘Yes’."
+          ],
+          "text": "A number of our companions, from Ahmad Bin Muhammad Bin Khalid, from his father, from the one who mentioned it,\n\n(It has been narrated) from Al-Reza<sup>asws</sup> about the man who happens to be in the journey and with him is a slave girl, and a group comes over intending to take his slave girl. Should he prevent his slave girl from being taken if he were to fear upon his self to be killed?’ He<sup>asws</sup> said: ‘Yes’. I said, ‘And similar to that is if it was his wife with him?’ He<sup>asws</sup> said: ‘Yes’. I said, ‘And similar to that is the mother, and the daughter, and the daughter of the paternal uncle, and the relatives, should he prevent (from) them if he were to fear upon his self being killed?’ He<sup>asws</sup> said: ‘Yes’. I said, ‘And similar to that is the wealth, they (thieves) intending to take it during a journey, so he prevents it even if he fears being killed?’ He<sup>asws</sup> said: ‘Yes’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "5. A number of our people have narrated from Ahmad ibn Muhammad from ibn Khalid from his father from those whom he has mentioned (in his book) from al-Rida, ‘Alayhi al-Salam: “If a man is on a journey and with him is his slave-girl. Certain people come and want to take his slave-girl from him. Should he try to stop them even if he fears for losing his life?’ He (the Imam) replied, ‘Yes, he should try.’ I then asked, ‘Is it so also if a woman is with him?’ He (the Imam) replies, ‘Yes, it is.’ I then asked, ‘Is it so also if it is his mother, daughter of uncle and relatives. Should he stop such people even if he fears for losing his life?’ He (the Imam) replied, ‘Yes, it is so also.’ I then asked, ‘Is it so also if it is property which they want to take during one’s journey and must stop them even if he fears for his life?’ He (the Imam) replied, ‘Yes, so also it is.’” "
+          ],
+          "text": "5. A number of our people have narrated from Ahmad ibn Muhammad from ibn Khalid from his father from those whom he has mentioned (in his book) from al-Rida, ‘Alayhi al-Salam: “If a man is on a journey and with him is his slave-girl. Certain people come and want to take his slave-girl from him. Should he try to stop them even if he fears for losing his life?’ He (the Imam) replied, ‘Yes, he should try.’ I then asked, ‘Is it so also if a woman is with him?’ He (the Imam) replies, ‘Yes, it is.’ I then asked, ‘Is it so also if it is his mother, daughter of uncle and relatives. Should he stop such people even if he fears for losing his life?’ He (the Imam) replied, ‘Yes, it is so also.’ I then asked, ‘Is it so also if it is property which they want to take during one’s journey and must stop them even if he fears for his life?’ He (the Imam) replied, ‘Yes, so also it is.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مرسل    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (18/395)",
+          "label": "مرسل",
+          "text": "Allamah Baqir al-Majlisi: مرسل - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (18/395)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ خَالِدٍ عَنْ أَبِيهِ عَمَّنْ ذَكَرَهُ عَنِ الرِّضَا ( عليه السلام ) عَنِ الرَّجُلِ يَكُونُ فِي",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدِ بْنِ خَالِدٍ",
+            "path": "/people/narrators/12"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "plain",
+            "text": "أَبِيهِ عَمَّنْ ذَكَرَهُ"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الرِّضَا ( عليه السلام )",
+            "path": "/people/narrators/184"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الرَّجُلِ يَكُونُ",
+            "path": "/people/narrators/2686"
+          },
+          {
+            "kind": "plain",
+            "text": " فِي"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/12",
+          "/people/narrators/184",
+          "/people/narrators/2686"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:5:1:24:5",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/5/1/24/5.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

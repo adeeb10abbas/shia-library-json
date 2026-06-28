@@ -1,0 +1,85 @@
+{
+  "id": 3374,
+  "type": "narrator",
+  "path": "/people/narrators/3374",
+  "titles": {
+    "ar": "سُلَيْمَانَ بْنِ عُمَرَ السَّرَّاجِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:237:5",
+    "/books/tahdhib-al-ahkam:6:22:10"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "11-2-355-13-3374-37-669": {
+      "narrator_ids": [
+        11,
+        2,
+        355,
+        13,
+        3374,
+        37,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:22:10"
+      ]
+    },
+    "13-3374": {
+      "narrator_ids": [
+        13,
+        3374
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:22:10"
+      ]
+    },
+    "3239-3374": {
+      "narrator_ids": [
+        3239,
+        3374
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:237:5"
+      ]
+    },
+    "3374-36": {
+      "narrator_ids": [
+        3374,
+        36
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:237:5"
+      ]
+    },
+    "3374-37": {
+      "narrator_ids": [
+        3374,
+        37
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:22:10"
+      ]
+    },
+    "5-3239-3374-36": {
+      "narrator_ids": [
+        5,
+        3239,
+        3374,
+        36
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:237:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3374",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3374.json"
+  }
+}

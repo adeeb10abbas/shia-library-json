@@ -1,0 +1,436 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:5:3:50",
+  "chapter": {
+    "path": "/books/al-kafi:5:3:50",
+    "titles": {
+      "ar": "باب مَنْ يُمْهِرُ الْمَهْرَ وَ لَا يَنْوِي قَضَاهُ",
+      "en": "Chapter 49 – The man who agrees the dower but does not intend its payment"
+    }
+  },
+  "count": 3,
+  "records": [
+    {
+      "id": "al-kafi:5:3:50:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:5:3:50:1",
+        "parts": [
+          5,
+          3,
+          50,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 3,
+        "chapter": 50,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:5:3:50",
+        "titles": {
+          "ar": "باب مَنْ يُمْهِرُ الْمَهْرَ وَ لَا يَنْوِي قَضَاهُ",
+          "en": "Chapter 49 – The man who agrees the dower but does not intend its payment"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " مَنْ أَمْهَرَ مَهْراً ثُمَّ لَا يَنْوِي قَضَاءَهُ كَانَ بِمَنْزِلَةِ السَّارِقِ ."
+        ],
+        "text": "مَنْ أَمْهَرَ مَهْراً ثُمَّ لَا يَنْوِي قَضَاءَهُ كَانَ بِمَنْزِلَةِ السَّارِقِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Muhammad, from Salih Bin Abu Hammad, from Ibn Fazzal, form one of our companions, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The one who agrees a dower, then he does not intend to pay it, would be at the status of the thief’."
+          ],
+          "text": "Ali Bin Muhammad, from Salih Bin Abu Hammad, from Ibn Fazzal, form one of our companions,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The one who agrees a dower, then he does not intend to pay it, would be at the status of the thief’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. Ali ibn Muhammad has narrated from Salih ibn abu Hammad from ibn Faddal from certain persons of our people who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘If one agrees to pay mahr (dower) then decides not to pay it, he is like a thief.’” "
+          ],
+          "text": "1. Ali ibn Muhammad has narrated from Salih ibn abu Hammad from ibn Faddal from certain persons of our people who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘If one agrees to pay mahr (dower) then decides not to pay it, he is like a thief.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (0/114)",
+          "label": "ضعيف",
+          "text": "Allamah Baqir al-Majlisi: ضعيف - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (0/114)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ مُحَمَّدٍ عَنْ صَالِحِ بْنِ أَبِي حَمَّادٍ عَنِ ابْنِ فَضَّالٍ عَنْ بَعْضِ أَصْحَابِنَا عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ مُحَمَّدٍ",
+            "path": "/people/narrators/35"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "صَالِحِ بْنِ أَبِي حَمَّادٍ",
+            "path": "/people/narrators/166"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ فَضَّالٍ",
+            "path": "/people/narrators/22"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "بَعْضِ أَصْحَابِنَا",
+            "path": "/people/narrators/36"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/35",
+          "/people/narrators/166",
+          "/people/narrators/22",
+          "/people/narrators/36",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:5:3:50:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/5/3/50/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:5:3:50:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:5:3:50:2",
+        "parts": [
+          5,
+          3,
+          50,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 3,
+        "chapter": 50,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:5:3:50",
+        "titles": {
+          "ar": "باب مَنْ يُمْهِرُ الْمَهْرَ وَ لَا يَنْوِي قَضَاهُ",
+          "en": "Chapter 49 – The man who agrees the dower but does not intend its payment"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " مَنْ تَزَوَّجَ الْمَرْأَةَ وَ لَا يَجْعَلُ فِي نَفْسِهِ أَنْ يُعْطِيَهَا مَهْرَهَا فَهُوَ زِنًى ."
+        ],
+        "text": "مَنْ تَزَوَّجَ الْمَرْأَةَ وَ لَا يَجْعَلُ فِي نَفْسِهِ أَنْ يُعْطِيَهَا مَهْرَهَا فَهُوَ زِنًى ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Al Husayn Bin Muhammad, from Moalla Bin Muhammad, from Al Hasan Bin Ali, from Hammad Bin Usman, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The one who marries the woman but does not make it in his self that he would be giving her dower to her, so he is an adulterer’."
+          ],
+          "text": "Al Husayn Bin Muhammad, from Moalla Bin Muhammad, from Al Hasan Bin Ali, from Hammad Bin Usman,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The one who marries the woman but does not make it in his self that he would be giving her dower to her, so he is an adulterer’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. Al-Husayn from Muhammad has narrated from Mu’alla’ ibn Muhammad from al-Hassan ibn Ah from Hammad ibn ‘Uthaman who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘If one marries a woman and then decides in his soul not to pay her mahr (dower), he has committed fornication.’” "
+          ],
+          "text": "2. Al-Husayn from Muhammad has narrated from Mu’alla’ ibn Muhammad from al-Hassan ibn Ah from Hammad ibn ‘Uthaman who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘If one marries a woman and then decides in his soul not to pay her mahr (dower), he has committed fornication.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (0/114)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (0/114)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "الْحُسَيْنُ بْنُ مُحَمَّدٍ عَنْ مُعَلَّى بْنِ مُحَمَّدٍ عَنِ الْحَسَنِ بْنِ عَلِيٍّ عَنْ حَمَّادِ بْنِ عُثْمَانَ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "الْحُسَيْنُ بْنُ مُحَمَّدٍ",
+            "path": "/people/narrators/20"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُعَلَّى بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/25"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحَسَنِ بْنِ عَلِيٍّ",
+            "path": "/people/narrators/63"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "حَمَّادِ بْنِ عُثْمَانَ",
+            "path": "/people/narrators/54"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/20",
+          "/people/narrators/25",
+          "/people/narrators/63",
+          "/people/narrators/54",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:4:3:99:8",
+          "/books/al-kafi:6:2:57:9",
+          "/books/al-kafi:7:2:28:7",
+          "/books/tahdhib-al-ahkam:9:25:24"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:5:3:50:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/5/3/50/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:5:3:50:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:5:3:50:3",
+        "parts": [
+          5,
+          3,
+          50,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 3,
+        "chapter": 50,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:5:3:50",
+        "titles": {
+          "ar": "باب مَنْ يُمْهِرُ الْمَهْرَ وَ لَا يَنْوِي قَضَاهُ",
+          "en": "Chapter 49 – The man who agrees the dower but does not intend its payment"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " الرَّجُلِ يَتَزَوَّجُ الْمَرْأَةَ وَ لَا يَجْعَلُ فِي نَفْسِهِ أَنْ يُعْطِيَهَا مَهْرَهَا فَهُوَ زِنًى ."
+        ],
+        "text": "الرَّجُلِ يَتَزَوَّجُ الْمَرْأَةَ وَ لَا يَجْعَلُ فِي نَفْسِهِ أَنْ يُعْطِيَهَا مَهْرَهَا فَهُوَ زِنًى ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Ahmad Bin Abu Abdullah, from his father, from Khalaf Bin Hammad, from Rabie Bin Abdullah, from Al Fuzayl Bin Yasaar, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> regarding the man who married the woman but did not make it within himself that he would be giving her dower to her, so he is an adulterer’."
+          ],
+          "text": "A number of our companions, from Ahmad Bin Abu Abdullah, from his father, from Khalaf Bin Hammad, from Rabie Bin Abdullah, from Al Fuzayl Bin Yasaar,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> regarding the man who married the woman but did not make it within himself that he would be giving her dower to her, so he is an adulterer’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "3. A number of our people have narrated from Ahmad ibn abu ‘Abd Allah from his father from Khalaf ibn Hammad from ibn Rib’iy ibn ‘Abd Allah from al-Fudayl ibn Yasar who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘If a man marries a woman and does not tell his soul to pay her mahr (dower) it is fornication.’” "
+          ],
+          "text": "3. A number of our people have narrated from Ahmad ibn abu ‘Abd Allah from his father from Khalaf ibn Hammad from ibn Rib’iy ibn ‘Abd Allah from al-Fudayl ibn Yasar who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘If a man marries a woman and does not tell his soul to pay her mahr (dower) it is fornication.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> صحيح   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (0/115)",
+          "label": "صحيح",
+          "text": "Allamah Baqir al-Majlisi: صحيح - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (0/115)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ أَحْمَدَ بْنِ أَبِي عَبْدِ اللَّهِ عَنْ أَبِيهِ عَنْ خَلَفِ بْنِ حَمَّادٍ عَنْ رِبْعِيِّ بْنِ عَبْدِ اللَّهِ عَنِ الْفُضَيْلِ بْنِ يَسَارٍ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) فِي",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ أَبِي عَبْدِ اللَّهِ",
+            "path": "/people/narrators/12"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "خَلَفِ بْنِ حَمَّادٍ",
+            "path": "/people/narrators/223"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "رِبْعِيِّ بْنِ عَبْدِ اللَّهِ",
+            "path": "/people/narrators/192"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْفُضَيْلِ بْنِ يَسَارٍ",
+            "path": "/people/narrators/155"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " فِي"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/12",
+          "/people/narrators/2",
+          "/people/narrators/223",
+          "/people/narrators/192",
+          "/people/narrators/155",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:5:3:169:4"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:5:3:50:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/5/3/50/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

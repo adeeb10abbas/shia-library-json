@@ -1,0 +1,55 @@
+{
+  "id": 3136,
+  "type": "narrator",
+  "path": "/people/narrators/3136",
+  "titles": {
+    "ar": "خَالِدِ بْنِ يَزِيدَ الْقُمِّيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:39:46"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1179-3136": {
+      "narrator_ids": [
+        1179,
+        3136
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:39:46"
+      ]
+    },
+    "3136-37": {
+      "narrator_ids": [
+        3136,
+        37
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:39:46"
+      ]
+    },
+    "4-13-21-1179-3136-37-669": {
+      "narrator_ids": [
+        4,
+        13,
+        21,
+        1179,
+        3136,
+        37,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:39:46"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3136",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3136.json"
+  }
+}

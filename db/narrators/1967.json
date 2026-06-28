@@ -1,0 +1,77 @@
+{
+  "id": 1967,
+  "type": "narrator",
+  "path": "/people/narrators/1967",
+  "titles": {
+    "ar": "أَبِي الْحَسَنِ الْحَذَّاءِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:3:47:3",
+    "/books/kamil-al-ziyarat:2:108:6",
+    "/books/tahdhib-al-ahkam:10:7:53"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "11-7-1967": {
+      "narrator_ids": [
+        11,
+        7,
+        1967
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:10:7:53"
+      ]
+    },
+    "331-1967": {
+      "narrator_ids": [
+        331,
+        1967
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:108:6"
+      ]
+    },
+    "50-2-7-1967": {
+      "narrator_ids": [
+        50,
+        2,
+        7,
+        1967
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:47:3"
+      ]
+    },
+    "613-355-13-331-1967": {
+      "narrator_ids": [
+        613,
+        355,
+        13,
+        331,
+        1967
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:108:6"
+      ]
+    },
+    "7-1967": {
+      "narrator_ids": [
+        7,
+        1967
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:47:3",
+        "/books/tahdhib-al-ahkam:10:7:53"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1967",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1967.json"
+  }
+}

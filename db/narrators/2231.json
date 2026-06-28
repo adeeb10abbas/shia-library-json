@@ -1,0 +1,55 @@
+{
+  "id": 2231,
+  "type": "narrator",
+  "path": "/people/narrators/2231",
+  "titles": {
+    "ar": "أَبِي يَعْقُوبَ إِسْحَاقَ بْنِ عَبْدِ اللَّهِ",
+    "en": "Abu Yaqub Is'haq ibn Abdillah"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:2:11:8"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "146-2231": {
+      "narrator_ids": [
+        146,
+        2231
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:2:11:8"
+      ]
+    },
+    "2231-669": {
+      "narrator_ids": [
+        2231,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:2:11:8"
+      ]
+    },
+    "3-2-7-146-2231-669": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        146,
+        2231,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:2:11:8"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2231",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2231.json"
+  }
+}

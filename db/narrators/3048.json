@@ -1,0 +1,43 @@
+{
+  "id": 3048,
+  "type": "narrator",
+  "path": "/people/narrators/3048",
+  "titles": {
+    "ar": "حَرِيزٍ أَوْ غَيْرِهِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:3:79:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3-2-38-3048": {
+      "narrator_ids": [
+        3,
+        2,
+        38,
+        3048
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:79:4"
+      ]
+    },
+    "38-3048": {
+      "narrator_ids": [
+        38,
+        3048
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:79:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3048",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3048.json"
+  }
+}

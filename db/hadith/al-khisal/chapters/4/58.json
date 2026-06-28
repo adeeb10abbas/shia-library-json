@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:4:58",
+  "chapter": {
+    "path": "/books/al-khisal:4:58",
+    "titles": {
+      "en": "One Who Divulges What Others Say Has Killed Three People"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:4:58:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:4:58:1",
+        "parts": [
+          4,
+          58,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 58,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:4:58",
+        "titles": {
+          "en": "One Who Divulges What Others Say Has Killed Three People"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا علي بن إبراهيم بن هاشم، عن أبيه، عن محمد بن أبي عمير يرفعه إلى أبي عبد الله عليه السلام قال: الساعي قاتل ثلاثة: قاتل نفسه، وقاتل من يسعى به، وقاتل من يسعى إليه"
+        ],
+        "text": ": حدثنا علي بن إبراهيم بن هاشم، عن أبيه، عن محمد بن أبي عمير يرفعه إلى أبي عبد الله عليه السلام قال: الساعي قاتل ثلاثة: قاتل نفسه، وقاتل من يسعى به، وقاتل من يسعى إليه"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "3-73 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Ali ibn Ibrahim ibn Hashim quoted his father on the authority of Muhammad ibn Abi Umayr, who linked it up through a chain of narrators to Aba Abdullah as-Sadiq (MGB), “One who divulges what others have said has killed three people. He has killed himself. He has killed the one to whom he divulges what is said, and one whose sayings he divulges.”"
+          ],
+          "text": "3-73 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Ali ibn Ibrahim ibn Hashim quoted his father on the authority of Muhammad ibn Abi Umayr, who linked it up through a chain of narrators to Aba Abdullah as-Sadiq (MGB), “One who divulges what others have said has killed three people. He has killed himself. He has killed the one to whom he divulges what is said, and one whose sayings he divulges.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "3-73 حدثنا أبي رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "3-73 حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي رضي الله عنه قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:4:58:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/4/58/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/4/58/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

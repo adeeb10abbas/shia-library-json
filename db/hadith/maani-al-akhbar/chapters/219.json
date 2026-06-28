@@ -1,0 +1,90 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "maani-al-akhbar",
+  "chapterPath": "/books/maani-al-akhbar:219",
+  "chapter": {
+    "path": "/books/maani-al-akhbar:219",
+    "titles": {
+      "en": "The meaning of fleeing to Allah, Exalted and Glorious is He"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "maani-al-akhbar:219:1",
+      "type": "hadith",
+      "book": {
+        "slug": "maani-al-akhbar",
+        "titles": {
+          "ar": "معاني الأخبار",
+          "en": "Ma'ani al-Akhbar"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/maani-al-akhbar:219:1",
+        "parts": [
+          219,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 219,
+        "book": 1
+      },
+      "chapter": {
+        "path": "/books/maani-al-akhbar:219",
+        "titles": {
+          "en": "The meaning of fleeing to Allah, Exalted and Glorious is He"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا سعد بن عبد الله، عن أحمد بن محمد بن عيسى عن محمد بن سنان، عن أبي الجارود زياد بن المنذر، عن أبي جعفر محمد بن علي الباقر عليهما السلام في قول الله تبارك وتعالى: \" ففروا إلى الله إني لكم منه نذير مبين \" قال: حجوا إلى الله."
+        ],
+        "text": ": حدثنا سعد بن عبد الله، عن أحمد بن محمد بن عيسى عن محمد بن سنان، عن أبي الجارود زياد بن المنذر، عن أبي جعفر محمد بن علي الباقر عليهما السلام في قول الله تبارك وتعالى: \" ففروا إلى الله إني لكم منه نذير مبين \" قال: حجوا إلى الله."
+      },
+      "translations": {
+        "en.basel-kadem": {
+          "segments": [
+            "1.\tWe were told by my father, may Allah grant him mercy, that he said: We were told by Sa’d bin Abdullah, from Ahmad bin Muhammed bin Isa, from Muhammed bin Sinan, from Abu’l-Jaroud, Ziyad bin Mundhir, from Abu Ja’far, Muhammed bin Ali al-Baqir, peace be upon them both, with regards to the saying of Allah, Blessed and Exalted is He: «Then flee to Allah. Indeed, I am, to you, from Him a clear warner.» <a href=\"/books/quran:51#h50\">[51:50]</a> He said: Perform pilgrimage to Allah."
+          ],
+          "text": "1.\tWe were told by my father, may Allah grant him mercy, that he said: We were told by Sa’d bin Abdullah, from Ahmad bin Muhammed bin Isa, from Muhammed bin Sinan, from Abu’l-Jaroud, Ziyad bin Mundhir, from Abu Ja’far, Muhammed bin Ali al-Baqir, peace be upon them both, with regards to the saying of Allah, Blessed and Exalted is He: «Then flee to Allah. Indeed, I am, to you, from Him a clear warner.» <a href=\"/books/quran:51#h50\">[51:50]</a> He said: Perform pilgrimage to Allah."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "حدثنا أبي - رحمه الله - قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي - رحمه الله - قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {
+        "Mentions": [
+          "/books/quran:51:50"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/maani-al-akhbar:219:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/maani-al-akhbar/219/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/28/1/219/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": 3347,
+  "type": "narrator",
+  "path": "/people/narrators/3347",
+  "titles": {
+    "ar": "سَلَامِ بْنِ عَبْدِ اللَّهِ الْهَاشِمِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:81:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "371-2-10-3346-90-35-8-19-275-67-68-3347": {
+      "narrator_ids": [
+        371,
+        2,
+        10,
+        3346,
+        90,
+        35,
+        8,
+        19,
+        275,
+        67,
+        68,
+        3347
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:81:1"
+      ]
+    },
+    "68-3347": {
+      "narrator_ids": [
+        68,
+        3347
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:81:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3347",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3347.json"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "id": 1669,
+  "type": "narrator",
+  "path": "/people/narrators/1669",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ عَبْدِ اللَّهِ بْنِ وَاسِعٍ"
+  },
+  "versePaths": [
+    "/books/al-istibsar:2:28:3",
+    "/books/al-kafi:4:2:51:1",
+    "/books/al-kafi:6:6:80:4"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "11-248-1669-2408-1686-2088-669": {
+      "narrator_ids": [
+        11,
+        248,
+        1669,
+        2408,
+        1686,
+        2088,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:80:4"
+      ]
+    },
+    "1669-2408": {
+      "narrator_ids": [
+        1669,
+        2408
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:80:4"
+      ]
+    },
+    "1669-527": {
+      "narrator_ids": [
+        1669,
+        527
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:2:28:3",
+        "/books/al-kafi:4:2:51:1"
+      ]
+    },
+    "248-1669": {
+      "narrator_ids": [
+        248,
+        1669
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:2:28:3",
+        "/books/al-kafi:4:2:51:1",
+        "/books/al-kafi:6:6:80:4"
+      ]
+    },
+    "6-8-248-1669-527-60-669": {
+      "narrator_ids": [
+        6,
+        8,
+        248,
+        1669,
+        527,
+        60,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:51:1"
+      ]
+    },
+    "952-6-8-248-1669-527-60-669": {
+      "narrator_ids": [
+        952,
+        6,
+        8,
+        248,
+        1669,
+        527,
+        60,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:2:28:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1669",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1669.json"
+  }
+}

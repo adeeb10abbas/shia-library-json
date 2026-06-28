@@ -1,0 +1,44 @@
+{
+  "id": 1871,
+  "type": "narrator",
+  "path": "/people/narrators/1871",
+  "titles": {
+    "ar": "ابْنِ النُّمَيْرِ مَوْلَى الْحَارِثِ بْنِ الْمُغِيرَةِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:3:30:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "19-24-22-85-1871": {
+      "narrator_ids": [
+        19,
+        24,
+        22,
+        85,
+        1871
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:30:1"
+      ]
+    },
+    "85-1871": {
+      "narrator_ids": [
+        85,
+        1871
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:30:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1871",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1871.json"
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:3:9",
+  "chapter": {
+    "path": "/books/al-khisal:3:9",
+    "titles": {
+      "en": "Two Groups in This Nation Whose Improvement Would Improve the Nation and Whose Corruption Would Corrupt the Nation"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:3:9:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:3:9:1",
+        "parts": [
+          3,
+          9,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 9,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:3:9",
+        "titles": {
+          "en": "Two Groups in This Nation Whose Improvement Would Improve the Nation and Whose Corruption Would Corrupt the Nation"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": قال رسول الله صلى الله عليه وآله صنفان من امتي إذا صلحا صلحت امتي، وإذا فسدا فسدت امتي، قيل: يا رسول الله ومن هما؟ قال: الفقهاء والامراء"
+        ],
+        "text": ": قال رسول الله صلى الله عليه وآله صنفان من امتي إذا صلحا صلحت امتي، وإذا فسدا فسدت امتي، قيل: يا رسول الله ومن هما؟ قال: الفقهاء والامراء"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "2-12 Ahmad ibn Muhammad ibn Yahya al-Attar - may God be pleased with him - narrated that his father quoted on the authority of Muhammad ibn Ahmad, on the authority of Al-Abbas ibn Ma’ruf, on the authority of Muhammad ibn Sa’id ibn Qazvan, on the authority of Al-Sakoony, on the authority of Ja’far ibn Muhammad (MGB), on the authority of his father (MGB) that God’s Prophet (MGB) said, “There are two groups in this nation whose improvement would improve the nation and whose corruption would corrupt the nation.” He (MGB) was asked, “O Prophet of God! Who are they?” The Prophet (MGB) replied, “The jurisprudents and the chiefs.”"
+          ],
+          "text": "2-12 Ahmad ibn Muhammad ibn Yahya al-Attar - may God be pleased with him - narrated that his father quoted on the authority of Muhammad ibn Ahmad, on the authority of Al-Abbas ibn Ma’ruf, on the authority of Muhammad ibn Sa’id ibn Qazvan, on the authority of Al-Sakoony, on the authority of Ja’far ibn Muhammad (MGB), on the authority of his father (MGB) that God’s Prophet (MGB) said, “There are two groups in this nation whose improvement would improve the nation and whose corruption would corrupt the nation.” He (MGB) was asked, “O Prophet of God! Who are they?” The Prophet (MGB) replied, “The jurisprudents and the chiefs.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "2-12 حدثنا أحمد بن محمد بن يحيى العطار رضي الله عنه، عن أبيه، عن محمد ابن أحمد، عن العباس بن معروف، عن محمد بن سعيد بن غزوان، عن السكوني، عن جعفر بن محمد، عن أبيه عليهما السلام قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "2-12 حدثنا "
+          },
+          {
+            "kind": "plain",
+            "text": "أحمد بن محمد بن يحيى العطار رضي الله عنه،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبيه،",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "محمد ابن أحمد،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "العباس بن معروف،",
+            "path": "/people/narrators/277"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "محمد بن سعيد بن غزوان،",
+            "path": "/people/narrators/949"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "السكوني،",
+            "path": "/people/narrators/34"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "جعفر بن محمد،",
+            "path": "/people/narrators/208"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبيه عليهما السلام قال",
+            "path": "/people/narrators/2"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/2",
+          "/people/narrators/277",
+          "/people/narrators/949",
+          "/people/narrators/34",
+          "/people/narrators/208",
+          "/people/narrators/2"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:3:9:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/3/9/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/3/9/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

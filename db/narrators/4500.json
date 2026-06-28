@@ -1,0 +1,54 @@
+{
+  "id": 4500,
+  "type": "narrator",
+  "path": "/people/narrators/4500",
+  "titles": {
+    "ar": "هِشَامِ بْنِ الْحَارِثِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:3:114:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "4-5-10-56-4500-3597": {
+      "narrator_ids": [
+        4,
+        5,
+        10,
+        56,
+        4500,
+        3597
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:114:3"
+      ]
+    },
+    "4500-3597": {
+      "narrator_ids": [
+        4500,
+        3597
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:114:3"
+      ]
+    },
+    "56-4500": {
+      "narrator_ids": [
+        56,
+        4500
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:114:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4500",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4500.json"
+  }
+}

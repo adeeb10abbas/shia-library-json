@@ -1,0 +1,45 @@
+{
+  "id": 3184,
+  "type": "narrator",
+  "path": "/people/narrators/3184",
+  "titles": {
+    "ar": "ذَكَرَ رَسُولَ اللَّهِ ( صلى الله عليه وآله )"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:111:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "4-5-122-23-669-3184": {
+      "narrator_ids": [
+        4,
+        5,
+        122,
+        23,
+        669,
+        3184
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:111:2"
+      ]
+    },
+    "669-3184": {
+      "narrator_ids": [
+        669,
+        3184
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:111:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3184",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3184.json"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": 1292,
+  "type": "narrator",
+  "path": "/people/narrators/1292",
+  "titles": {
+    "ar": "أَبِي يَحْيَى الْحَنَّاطِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:106:15",
+    "/books/al-kafi:5:3:91:8",
+    "/books/tahdhib-al-ahkam:2:3:10"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "1292-326": {
+      "narrator_ids": [
+        1292,
+        326
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:106:15"
+      ]
+    },
+    "13-53-15-1292": {
+      "narrator_ids": [
+        13,
+        53,
+        15,
+        1292
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:3:10"
+      ]
+    },
+    "15-1292": {
+      "narrator_ids": [
+        15,
+        1292
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:3:10"
+      ]
+    },
+    "4-5-22-56-1292": {
+      "narrator_ids": [
+        4,
+        5,
+        22,
+        56,
+        1292
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:91:8"
+      ]
+    },
+    "56-1292": {
+      "narrator_ids": [
+        56,
+        1292
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:91:8"
+      ]
+    },
+    "565-1292": {
+      "narrator_ids": [
+        565,
+        1292
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:106:15"
+      ]
+    },
+    "6-12-2-565-1292-326": {
+      "narrator_ids": [
+        6,
+        12,
+        2,
+        565,
+        1292,
+        326
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:106:15"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1292",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1292.json"
+  }
+}

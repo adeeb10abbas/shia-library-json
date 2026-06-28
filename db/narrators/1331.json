@@ -1,0 +1,81 @@
+{
+  "id": 1331,
+  "type": "narrator",
+  "path": "/people/narrators/1331",
+  "titles": {
+    "ar": "الْحَسَنِ بْنِ بَسَّامٍ الْجَمَّالِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:2:51:5",
+    "/books/al-kafi:5:2:159:55",
+    "/books/tahdhib-al-ahkam:4:56:62"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "11-6-8-799-1331-60": {
+      "narrator_ids": [
+        11,
+        6,
+        8,
+        799,
+        1331,
+        60
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:4:56:62"
+      ]
+    },
+    "1331-60": {
+      "narrator_ids": [
+        1331,
+        60
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:51:5",
+        "/books/tahdhib-al-ahkam:4:56:62"
+      ]
+    },
+    "6-8-799-1331-60": {
+      "narrator_ids": [
+        6,
+        8,
+        799,
+        1331,
+        60
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:51:5"
+      ]
+    },
+    "799-1331": {
+      "narrator_ids": [
+        799,
+        1331
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:51:5",
+        "/books/al-kafi:5:2:159:55",
+        "/books/tahdhib-al-ahkam:4:56:62"
+      ]
+    },
+    "8-799-1331": {
+      "narrator_ids": [
+        8,
+        799,
+        1331
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:159:55"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1331",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1331.json"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": 3566,
+  "type": "narrator",
+  "path": "/people/narrators/3566",
+  "titles": {
+    "ar": "عَبْدِ اللَّهِ بْنِ الْكَاهِلِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:3:48:9"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "15-3566": {
+      "narrator_ids": [
+        15,
+        3566
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:48:9"
+      ]
+    },
+    "4-5-15-3566": {
+      "narrator_ids": [
+        4,
+        5,
+        15,
+        3566
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:48:9"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3566",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3566.json"
+  }
+}

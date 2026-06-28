@@ -1,0 +1,90 @@
+{
+  "id": 1166,
+  "type": "narrator",
+  "path": "/people/narrators/1166",
+  "titles": {
+    "ar": "عُمَرَ بْنِ حَفْصٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:2:50:4",
+    "/books/al-kafi:4:3:28:43",
+    "/books/al-kafi:6:3:8:2",
+    "/books/tahdhib-al-ahkam:8:10:12"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "11-127-92-15-1166-288-669": {
+      "narrator_ids": [
+        11,
+        127,
+        92,
+        15,
+        1166,
+        288,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:8:10:12"
+      ]
+    },
+    "1166-288": {
+      "narrator_ids": [
+        1166,
+        288
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:50:4",
+        "/books/al-kafi:4:3:28:43",
+        "/books/al-kafi:6:3:8:2",
+        "/books/tahdhib-al-ahkam:8:10:12"
+      ]
+    },
+    "127-92-15-1166-288-669": {
+      "narrator_ids": [
+        127,
+        92,
+        15,
+        1166,
+        288,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:3:8:2"
+      ]
+    },
+    "15-1166": {
+      "narrator_ids": [
+        15,
+        1166
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:50:4",
+        "/books/al-kafi:4:3:28:43",
+        "/books/al-kafi:6:3:8:2",
+        "/books/tahdhib-al-ahkam:8:10:12"
+      ]
+    },
+    "6-5-15-1166-288": {
+      "narrator_ids": [
+        6,
+        5,
+        15,
+        1166,
+        288
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:50:4",
+        "/books/al-kafi:4:3:28:43"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1166",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1166.json"
+  }
+}

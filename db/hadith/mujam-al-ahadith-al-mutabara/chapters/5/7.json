@@ -1,0 +1,109 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "mujam-al-ahadith-al-mutabara",
+  "chapterPath": "/books/mujam-al-ahadith-al-mutabara:5:7",
+  "chapter": {
+    "path": "/books/mujam-al-ahadith-al-mutabara:5:7",
+    "titles": {
+      "en": "The Best Qira’a (Reading) of the Qur’an"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "mujam-al-ahadith-al-mutabara:5:7:1",
+      "type": "hadith",
+      "book": {
+        "slug": "mujam-al-ahadith-al-mutabara",
+        "titles": {
+          "ar": "معجم الأحاديث المعتبرة",
+          "en": "Mu'jam al-Ahadith al-Mu'tabara"
+        },
+        "author": {
+          "en": "Muhammad Asif al-Muhsini"
+        }
+      },
+      "path": {
+        "source": "/books/mujam-al-ahadith-al-mutabara:5:7:1",
+        "parts": [
+          5,
+          7,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 7,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/mujam-al-ahadith-al-mutabara:5:7",
+        "titles": {
+          "en": "The Best Qira’a (Reading) of the Qur’an"
+        }
+      },
+      "arabic": {
+        "segments": [
+          "ا: كنا عند أبي عبدالله عليه السلام ومعنا ربيعة الرأي فذكرنا فضل القرآن فقال أبوعبدالله عليه السلام: إن كان ابن مسعود لا يقرأ على قراء تنا فهو ضال، فقال ربيعة: ضال؟ فقال: نعم ضال، ثم قال أبوعبدالله عليه السلام: أما نحن فنقرأ على قراء ة أبي"
+        ],
+        "text": "ا: كنا عند أبي عبدالله عليه السلام ومعنا ربيعة الرأي فذكرنا فضل القرآن فقال أبوعبدالله عليه السلام: إن كان ابن مسعود لا يقرأ على قراء تنا فهو ضال، فقال ربيعة: ضال؟ فقال: نعم ضال، ثم قال أبوعبدالله عليه السلام: أما نحن فنقرأ على قراء ة أبي"
+      },
+      "translations": {
+        "en.ammaar-muslim": {
+          "segments": [
+            "[1/1566] al-Kafi: Muhammad b. Yahya from Ahmad b. Muhammad from Ali b. al-Hakam from Abdallah b. Farqad and al-Mu’alla b. Khunays both of whom said: \"We were with Abi Abdillah (a.s.) and with us was Rabi’a al-Ra’y. We mentioned the merit of the Qur’an so Abu Abdillah (a.s.) said: If Ibn Mas’ud does not recite based upon our Qira’a (reading) then he is misguided. Rabi’a asked: 'Misguided?!' The Imam) said: 'Yes, misguided!' Then Abu Abdillah (a.s.) said: 'As for us then we recite based upon the Qira’a of Ubayy.'\""
+          ],
+          "text": "[1/1566] al-Kafi: Muhammad b. Yahya from Ahmad b. Muhammad from Ali b. al-Hakam from Abdallah b. Farqad and al-Mu’alla b. Khunays both of whom said: \"We were with Abi Abdillah (a.s.) and with us was Rabi’a al-Ra’y. We mentioned the merit of the Qur’an so Abu Abdillah (a.s.) said: If Ibn Mas’ud does not recite based upon our Qira’a (reading) then he is misguided. Rabi’a asked: 'Misguided?!' The Imam) said: 'Yes, misguided!' Then Abu Abdillah (a.s.) said: 'As for us then we recite based upon the Qira’a of Ubayy.'\""
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "[1566/1] الكافي: محمد بن يحيى، عن أحمد بن محمد، عن علي بن الحكم، عن عبدالله بن فرقد والمعلى بن خنيس قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "[1566/1] الكافي: محمد بن يحيى،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أحمد بن محمد،",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "علي بن الحكم،",
+            "path": "/people/narrators/15"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "عبدالله بن فرقد والمعلى بن خنيس قال"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/5",
+          "/people/narrators/15"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/mujam-al-ahadith-al-mutabara:5:7:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/mujam-al-ahadith-al-mutabara/5/7/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/9/5/7/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": 2177,
+  "type": "narrator",
+  "path": "/people/narrators/2177",
+  "titles": {
+    "ar": "أَبِي عَلِيٍّ صَاحِبِ الْكِلَلِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:75:8"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2177-148": {
+      "narrator_ids": [
+        2177,
+        148
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:75:8"
+      ]
+    },
+    "4-13-7-2177-148": {
+      "narrator_ids": [
+        4,
+        13,
+        7,
+        2177,
+        148
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:75:8"
+      ]
+    },
+    "7-2177": {
+      "narrator_ids": [
+        7,
+        2177
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:75:8"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2177",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2177.json"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:4:93",
+  "chapter": {
+    "path": "/books/al-khisal:4:93",
+    "titles": {
+      "en": "A Muslim is Perfected with Three Characteristics"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:4:93:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:4:93:1",
+        "parts": [
+          4,
+          93,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 93,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:4:93",
+        "titles": {
+          "en": "A Muslim is Perfected with Three Characteristics"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا سعد بن عبد الله، عن أحمد ابن أبي عبد الله قال: حدثنا المعلى بن محمد البصري، عن محمد بن جمهور العمي، عن جعفربن بشير البجلي، عن أبي بحر، عن شريح الهمداني، عن أبي إسحاق السبيعي. عن الحارث الاعور قال: قال أمير المؤمنين عليه السلام: ثلاث بهن يكمل المسلم: التفقه في الدين، والتقدير في المعيشة، والصبر على النوائب"
+        ],
+        "text": ": حدثنا سعد بن عبد الله، عن أحمد ابن أبي عبد الله قال: حدثنا المعلى بن محمد البصري، عن محمد بن جمهور العمي، عن جعفربن بشير البجلي، عن أبي بحر، عن شريح الهمداني، عن أبي إسحاق السبيعي. عن الحارث الاعور قال: قال أمير المؤمنين عليه السلام: ثلاث بهن يكمل المسلم: التفقه في الدين، والتقدير في المعيشة، والصبر على النوائب"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "3-120 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Sa’ed ibn Abdullah quoted on the authority of Ahmad ibn Aba Abdullah, on the authority of Al-Mo’ali ibn Muhammad al-Basry, on the authority of Muhammad ibn Jumhoor al-Ummi,on the authority of Ja’far ibn Bashiral-Bajaly, on the authority of Abi Bahr, on the authority of Sharih al-Hamedany, on the authority of Abi Ishaq al-Sabi’e, on the authority of Al-Harith al-A’oar that the Commander of the Faithful Imam Ali (MGB) said, “A Muslim is perfected by three characteristics: knowledge of the affairs of the religion; moderation in the affairs of life; and patience during calamities.”"
+          ],
+          "text": "3-120 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Sa’ed ibn Abdullah quoted on the authority of Ahmad ibn Aba Abdullah, on the authority of Al-Mo’ali ibn Muhammad al-Basry, on the authority of Muhammad ibn Jumhoor al-Ummi,on the authority of Ja’far ibn Bashiral-Bajaly, on the authority of Abi Bahr, on the authority of Sharih al-Hamedany, on the authority of Abi Ishaq al-Sabi’e, on the authority of Al-Harith al-A’oar that the Commander of the Faithful Imam Ali (MGB) said, “A Muslim is perfected by three characteristics: knowledge of the affairs of the religion; moderation in the affairs of life; and patience during calamities.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "3-120 حدثنا أبي رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "3-120 حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي رضي الله عنه قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:4:93:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/4/93/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/4/93/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

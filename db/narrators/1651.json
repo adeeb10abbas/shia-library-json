@@ -1,0 +1,113 @@
+{
+  "id": 1651,
+  "type": "narrator",
+  "path": "/people/narrators/1651",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ بَكْرِ بْنِ جَنَاحٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:187:5",
+    "/books/al-kafi:4:2:9:5",
+    "/books/tahdhib-al-ahkam:4:41:5"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "11-5-4118-1651-599-580-669": {
+      "narrator_ids": [
+        11,
+        5,
+        4118,
+        1651,
+        599,
+        580,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:4:41:5"
+      ]
+    },
+    "1651-1102": {
+      "narrator_ids": [
+        1651,
+        1102
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:187:5"
+      ]
+    },
+    "1651-599": {
+      "narrator_ids": [
+        1651,
+        599
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:9:5",
+        "/books/tahdhib-al-ahkam:4:41:5"
+      ]
+    },
+    "1850-1651": {
+      "narrator_ids": [
+        1850,
+        1651
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:9:5"
+      ]
+    },
+    "4118-1651": {
+      "narrator_ids": [
+        4118,
+        1651
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:4:41:5"
+      ]
+    },
+    "5-1850-1651-599-580-669": {
+      "narrator_ids": [
+        5,
+        1850,
+        1651,
+        599,
+        580,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:9:5"
+      ]
+    },
+    "6-12-861-1651-1102-2021-250-9": {
+      "narrator_ids": [
+        6,
+        12,
+        861,
+        1651,
+        1102,
+        2021,
+        250,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:187:5"
+      ]
+    },
+    "861-1651": {
+      "narrator_ids": [
+        861,
+        1651
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:187:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1651",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1651.json"
+  }
+}

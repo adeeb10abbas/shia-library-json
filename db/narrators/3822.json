@@ -1,0 +1,51 @@
+{
+  "id": 3822,
+  "type": "narrator",
+  "path": "/people/narrators/3822",
+  "titles": {
+    "ar": "عَلِيِّ بْنِ مَهْزِيَارَ بِإِسْنَادِهِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:4:21:13"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3822-203": {
+      "narrator_ids": [
+        3822,
+        203
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:21:13"
+      ]
+    },
+    "414-3822": {
+      "narrator_ids": [
+        414,
+        3822
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:21:13"
+      ]
+    },
+    "414-3822-203": {
+      "narrator_ids": [
+        414,
+        3822,
+        203
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:21:13"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3822",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3822.json"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": 2443,
+  "type": "narrator",
+  "path": "/people/narrators/2443",
+  "titles": {
+    "ar": "إِسْمَاعِيلَ بْنِ جَابِرٍ أَوْ عَبْدِ اللَّهِ بْنِ سِنَانٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:4:84:27",
+    "/books/tahdhib-al-ahkam:2:8:231"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "11-29-122-1536-2443": {
+      "narrator_ids": [
+        11,
+        29,
+        122,
+        1536,
+        2443
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:84:27"
+      ]
+    },
+    "1536-2443": {
+      "narrator_ids": [
+        1536,
+        2443
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:84:27",
+        "/books/tahdhib-al-ahkam:2:8:231"
+      ]
+    },
+    "952-35-29-122-1536-2443": {
+      "narrator_ids": [
+        952,
+        35,
+        29,
+        122,
+        1536,
+        2443
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:8:231"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2443",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2443.json"
+  }
+}

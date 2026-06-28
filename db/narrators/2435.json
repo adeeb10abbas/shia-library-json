@@ -1,0 +1,131 @@
+{
+  "id": 2435,
+  "type": "narrator",
+  "path": "/people/narrators/2435",
+  "titles": {
+    "ar": "إِسْمَاعِيلَ بْنِ إِسْحَاقَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:1:1:6",
+    "/books/man-la-yahduruhu-al-faqih:3:4:9:7",
+    "/books/tahdhib-al-ahkam:6:53:11",
+    "/books/thawab-al-amal:2:456:1"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "167-2435": {
+      "narrator_ids": [
+        167,
+        2435
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:3:4:9:7",
+        "/books/thawab-al-amal:2:456:1"
+      ]
+    },
+    "167-2435-1315-942-208-2-253-50": {
+      "narrator_ids": [
+        167,
+        2435,
+        1315,
+        942,
+        208,
+        2,
+        253,
+        50
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:3:4:9:7"
+      ]
+    },
+    "2344-2997-310-512-2435-1267-134": {
+      "narrator_ids": [
+        2344,
+        2997,
+        310,
+        512,
+        2435,
+        1267,
+        134
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:1:1:6"
+      ]
+    },
+    "2344-310-512-2435-134": {
+      "narrator_ids": [
+        2344,
+        310,
+        512,
+        2435,
+        134
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:53:11"
+      ]
+    },
+    "2435-1267": {
+      "narrator_ids": [
+        2435,
+        1267
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:1:1:6"
+      ]
+    },
+    "2435-1315": {
+      "narrator_ids": [
+        2435,
+        1315
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:3:4:9:7",
+        "/books/thawab-al-amal:2:456:1"
+      ]
+    },
+    "2435-134": {
+      "narrator_ids": [
+        2435,
+        134
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:53:11"
+      ]
+    },
+    "512-2435": {
+      "narrator_ids": [
+        512,
+        2435
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:1:1:6",
+        "/books/tahdhib-al-ahkam:6:53:11"
+      ]
+    },
+    "613-355-167-2435-1315-162-1365-2-662": {
+      "narrator_ids": [
+        613,
+        355,
+        167,
+        2435,
+        1315,
+        162,
+        1365,
+        2,
+        662
+      ],
+      "verse_paths": [
+        "/books/thawab-al-amal:2:456:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2435",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2435.json"
+  }
+}

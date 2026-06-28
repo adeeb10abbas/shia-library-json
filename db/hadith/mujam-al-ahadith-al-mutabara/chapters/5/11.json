@@ -1,0 +1,153 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "mujam-al-ahadith-al-mutabara",
+  "chapterPath": "/books/mujam-al-ahadith-al-mutabara:5:11",
+  "chapter": {
+    "path": "/books/mujam-al-ahadith-al-mutabara:5:11",
+    "titles": {
+      "en": "Interpreting the Qur’an by Personal Opinion"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "mujam-al-ahadith-al-mutabara:5:11:1",
+      "type": "hadith",
+      "book": {
+        "slug": "mujam-al-ahadith-al-mutabara",
+        "titles": {
+          "ar": "معجم الأحاديث المعتبرة",
+          "en": "Mu'jam al-Ahadith al-Mu'tabara"
+        },
+        "author": {
+          "en": "Muhammad Asif al-Muhsini"
+        }
+      },
+      "path": {
+        "source": "/books/mujam-al-ahadith-al-mutabara:5:11:1",
+        "parts": [
+          5,
+          11,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 11,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/mujam-al-ahadith-al-mutabara:5:11",
+        "titles": {
+          "en": "Interpreting the Qur’an by Personal Opinion"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": قال رسول الله صلى الله عليه واله: قال الله جل جلاله: ما آمن بي من فسر برأيه كلامي، وما عرفني من شبهني بخلقي، وما على ديني من استعمل القياس في ديني"
+        ],
+        "text": ": قال رسول الله صلى الله عليه واله: قال الله جل جلاله: ما آمن بي من فسر برأيه كلامي، وما عرفني من شبهني بخلقي، وما على ديني من استعمل القياس في ديني"
+      },
+      "translations": {
+        "en.ammaar-muslim": {
+          "segments": [
+            "[1/1572] Uyun al-Akhbar and Amali of al-Saduq: Ibn al-Mutawakkil from Ali from his father from al-Rayyan b. al-Salt from Ali b. Musa al-Ridha from his forefathers from the Commander of the Faithful عليهم السلام who said: The Messenger of Allah صلى الله عليه واله said: Allah Majestic is His Majesty said: He has not believed in Me the one who interprets My words based on his opinion, he has not known Me the one who compares Me to My creation, and he is not upon My religion the one who uses analogical reasoning in it"
+          ],
+          "text": "[1/1572] Uyun al-Akhbar and Amali of al-Saduq: Ibn al-Mutawakkil from Ali from his father from al-Rayyan b. al-Salt from Ali b. Musa al-Ridha from his forefathers from the Commander of the Faithful عليهم السلام who said: The Messenger of Allah صلى الله عليه واله said: Allah Majestic is His Majesty said: He has not believed in Me the one who interprets My words based on his opinion, he has not known Me the one who compares Me to My creation, and he is not upon My religion the one who uses analogical reasoning in it"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "[1572/1] عيون الأخبار و أمالي الصدوق: ابن المتوكل، عن علي، عن أبيه، عن الريان بن الصلت، عن علي بن موسى الرضا، عن آبائه، عن أمير المؤمنين عليهم السلام قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "[1572/1] عيون الأخبار"
+          },
+          {
+            "kind": "plain",
+            "text": " و "
+          },
+          {
+            "kind": "plain",
+            "text": "أمالي الصدوق: ابن المتوكل،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "علي،",
+            "path": "/people/narrators/50"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبيه،",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "الريان بن الصلت،",
+            "path": "/people/narrators/874"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "علي بن موسى الرضا،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "آبائه،",
+            "path": "/people/narrators/662"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أمير المؤمنين عليهم السلام قال",
+            "path": "/people/narrators/394"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/50",
+          "/people/narrators/2",
+          "/people/narrators/874",
+          "/people/narrators/662",
+          "/people/narrators/394"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/mujam-al-ahadith-al-mutabara:1:12:7",
+          "/books/mujam-al-ahadith-al-mutabara:2:12:4",
+          "/books/mujam-al-ahadith-al-mutabara:2:5:8"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/mujam-al-ahadith-al-mutabara:5:11:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/mujam-al-ahadith-al-mutabara/5/11/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/9/5/11/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

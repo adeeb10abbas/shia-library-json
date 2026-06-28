@@ -1,0 +1,43 @@
+{
+  "id": 3530,
+  "type": "narrator",
+  "path": "/people/narrators/3530",
+  "titles": {
+    "ar": "عَبْدِ الْعَزِيزِ بْنِ نَافِعٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:130:15"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "5-42-85-3530": {
+      "narrator_ids": [
+        5,
+        42,
+        85,
+        3530
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:130:15"
+      ]
+    },
+    "85-3530": {
+      "narrator_ids": [
+        85,
+        3530
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:130:15"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3530",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3530.json"
+  }
+}

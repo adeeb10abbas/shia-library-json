@@ -1,0 +1,54 @@
+{
+  "id": 1793,
+  "type": "narrator",
+  "path": "/people/narrators/1793",
+  "titles": {
+    "ar": "إِبْرَاهِيمَ السِّنْدِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:9:7:17"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1793-560": {
+      "narrator_ids": [
+        1793,
+        560
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:9:7:17"
+      ]
+    },
+    "3-2-74-496-1793-560": {
+      "narrator_ids": [
+        3,
+        2,
+        74,
+        496,
+        1793,
+        560
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:9:7:17"
+      ]
+    },
+    "496-1793": {
+      "narrator_ids": [
+        496,
+        1793
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:9:7:17"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1793",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1793.json"
+  }
+}

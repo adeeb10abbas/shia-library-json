@@ -1,0 +1,88 @@
+{
+  "id": 1610,
+  "type": "narrator",
+  "path": "/people/narrators/1610",
+  "titles": {
+    "ar": "عِيسَى شَلَقَانَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:113:7",
+    "/books/al-kafi:2:1:182:3",
+    "/books/mujam-al-ahadith-al-mutabara:3:82:7"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "198-1610": {
+      "narrator_ids": [
+        198,
+        1610
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:113:7"
+      ]
+    },
+    "27-146-51-1610": {
+      "narrator_ids": [
+        27,
+        146,
+        51,
+        1610
+      ],
+      "verse_paths": [
+        "/books/mujam-al-ahadith-al-mutabara:3:82:7"
+      ]
+    },
+    "3-2-7-115-78-1610": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        115,
+        78,
+        1610
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:182:3"
+      ]
+    },
+    "4-167-144-198-1610": {
+      "narrator_ids": [
+        4,
+        167,
+        144,
+        198,
+        1610
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:113:7"
+      ]
+    },
+    "51-1610": {
+      "narrator_ids": [
+        51,
+        1610
+      ],
+      "verse_paths": [
+        "/books/mujam-al-ahadith-al-mutabara:3:82:7"
+      ]
+    },
+    "78-1610": {
+      "narrator_ids": [
+        78,
+        1610
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:182:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1610",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1610.json"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": 3786,
+  "type": "narrator",
+  "path": "/people/narrators/3786",
+  "titles": {
+    "ar": "عَلِيِّ بْنِ عَبْدِ الْغَفَّارِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:124:23"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "35-4148-3786": {
+      "narrator_ids": [
+        35,
+        4148,
+        3786
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:124:23"
+      ]
+    },
+    "4148-3786": {
+      "narrator_ids": [
+        4148,
+        3786
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:124:23"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3786",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3786.json"
+  }
+}

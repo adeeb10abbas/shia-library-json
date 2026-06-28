@@ -1,0 +1,82 @@
+{
+  "id": 1402,
+  "type": "narrator",
+  "path": "/people/narrators/1402",
+  "titles": {
+    "ar": "بَدْرِ بْنِ الْوَلِيدِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:46:1",
+    "/books/al-kafi:1:4:46:2"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "1402-344": {
+      "narrator_ids": [
+        1402,
+        344
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:46:1"
+      ]
+    },
+    "1402-456": {
+      "narrator_ids": [
+        1402,
+        456
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:46:2"
+      ]
+    },
+    "19-24-43-51-1402-456-669": {
+      "narrator_ids": [
+        19,
+        24,
+        43,
+        51,
+        1402,
+        456,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:46:2"
+      ]
+    },
+    "35-78-8-189-30-51-1402-344-669": {
+      "narrator_ids": [
+        35,
+        78,
+        8,
+        189,
+        30,
+        51,
+        1402,
+        344,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:46:1"
+      ]
+    },
+    "51-1402": {
+      "narrator_ids": [
+        51,
+        1402
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:46:1",
+        "/books/al-kafi:1:4:46:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1402",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1402.json"
+  }
+}

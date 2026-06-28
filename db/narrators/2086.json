@@ -1,0 +1,54 @@
+{
+  "id": 2086,
+  "type": "narrator",
+  "path": "/people/narrators/2086",
+  "titles": {
+    "ar": "أَبِي خِدَاشٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:7:21:14"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2086-306": {
+      "narrator_ids": [
+        2086,
+        306
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:21:14"
+      ]
+    },
+    "63-2086": {
+      "narrator_ids": [
+        63,
+        2086
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:21:14"
+      ]
+    },
+    "8-337-63-2086-306-4267": {
+      "narrator_ids": [
+        8,
+        337,
+        63,
+        2086,
+        306,
+        4267
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:21:14"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2086",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2086.json"
+  }
+}

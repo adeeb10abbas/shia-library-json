@@ -1,0 +1,119 @@
+{
+  "id": 2503,
+  "type": "narrator",
+  "path": "/people/narrators/2503",
+  "titles": {
+    "ar": "الْحَارِثِ بْنِ مُحَمَّدٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:2:42:5",
+    "/books/man-la-yahduruhu-al-faqih:2:2:28:6",
+    "/books/man-la-yahduruhu-al-faqih:4:39:1",
+    "/books/tahdhib-al-ahkam:10:18:54",
+    "/books/tahdhib-al-ahkam:4:64:17"
+  ],
+  "verseCount": 5,
+  "relations": {},
+  "subchains": {
+    "10-2503": {
+      "narrator_ids": [
+        10,
+        2503
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:2:2:28:6",
+        "/books/tahdhib-al-ahkam:4:64:17"
+      ]
+    },
+    "10-2503-262-9": {
+      "narrator_ids": [
+        10,
+        2503,
+        262,
+        9
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:2:2:28:6"
+      ]
+    },
+    "2503-1105": {
+      "narrator_ids": [
+        2503,
+        1105
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:4:39:1",
+        "/books/tahdhib-al-ahkam:10:18:54"
+      ]
+    },
+    "2503-262": {
+      "narrator_ids": [
+        2503,
+        262
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:42:5",
+        "/books/man-la-yahduruhu-al-faqih:2:2:28:6",
+        "/books/tahdhib-al-ahkam:4:64:17"
+      ]
+    },
+    "53-2503": {
+      "narrator_ids": [
+        53,
+        2503
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:42:5",
+        "/books/man-la-yahduruhu-al-faqih:4:39:1",
+        "/books/tahdhib-al-ahkam:10:18:54"
+      ]
+    },
+    "53-2503-1105-9": {
+      "narrator_ids": [
+        53,
+        2503,
+        1105,
+        9
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:4:39:1",
+        "/books/tahdhib-al-ahkam:10:18:54"
+      ]
+    },
+    "6-5-53-2503-262-9": {
+      "narrator_ids": [
+        6,
+        5,
+        53,
+        2503,
+        262,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:42:5"
+      ]
+    },
+    "952-6-5-10-2503-262-9": {
+      "narrator_ids": [
+        952,
+        6,
+        5,
+        10,
+        2503,
+        262,
+        9
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:4:64:17"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2503",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2503.json"
+  }
+}

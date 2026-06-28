@@ -1,0 +1,42 @@
+{
+  "id": 2181,
+  "type": "narrator",
+  "path": "/people/narrators/2181",
+  "titles": {
+    "ar": "أَبِي عُمَرَ الْأَعْجَمِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:97:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "47-2181": {
+      "narrator_ids": [
+        47,
+        2181
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:97:2"
+      ]
+    },
+    "7-47-2181": {
+      "narrator_ids": [
+        7,
+        47,
+        2181
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:97:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2181",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2181.json"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": 3337,
+  "type": "narrator",
+  "path": "/people/narrators/3337",
+  "titles": {
+    "ar": "سُفْيَانَ بْنِ إِبْرَاهِيمَ الْجَرِيرِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:212:28"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "22-3337": {
+      "narrator_ids": [
+        22,
+        3337
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:212:28"
+      ]
+    },
+    "3337-2495": {
+      "narrator_ids": [
+        3337,
+        2495
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:212:28"
+      ]
+    },
+    "6-8-22-3337-2495-9": {
+      "narrator_ids": [
+        6,
+        8,
+        22,
+        3337,
+        2495,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:212:28"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3337",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3337.json"
+  }
+}

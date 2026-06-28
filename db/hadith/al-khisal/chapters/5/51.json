@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:5:51",
+  "chapter": {
+    "path": "/books/al-khisal:5:51",
+    "titles": {
+      "en": "four acts corrupt the heart and develop hypocrisy"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:5:51:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:5:51:1",
+        "parts": [
+          5,
+          51,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 51,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:5:51",
+        "titles": {
+          "en": "four acts corrupt the heart and develop hypocrisy"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا أحمد بن إدريس، عن محمد بن أحمد قال: روى الحسن بن علي بن أبي عثمان، عن موسى المروزي، عن أبي الحسن الاول عليه السلام قال: قال رسول الله صلى الله عليه وآله: أربع يفسدن القلب وينبتن النفاق في القلب كما ينبت الماء الشجر: استماع اللهو، والبذاء، واتيان باب السلطان، وطلب الصيد"
+        ],
+        "text": ": حدثنا أحمد بن إدريس، عن محمد بن أحمد قال: روى الحسن بن علي بن أبي عثمان، عن موسى المروزي، عن أبي الحسن الاول عليه السلام قال: قال رسول الله صلى الله عليه وآله: أربع يفسدن القلب وينبتن النفاق في القلب كما ينبت الماء الشجر: استماع اللهو، والبذاء، واتيان باب السلطان، وطلب الصيد"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "4-63 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Ahmad ibn Idris quoted on the authority of Ahmad ibn Idris quoted Muhammad ibn Ahmad, on the authority of Al-Hassan ibn Ali ibn Abi Uthman, on the authority of Musa al-Marvazy, on the authority of Abul Hassan - the first (Al-Kadhim (MGB)) that God’s Prophet (MGB) said, “There are four acts which corrupt the heart and develop hypocrisy as water helps a tree develop: listening to vain or obscene talk; going to the door of the king’s palace, and going hunting.”"
+          ],
+          "text": "4-63 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Ahmad ibn Idris quoted on the authority of Ahmad ibn Idris quoted Muhammad ibn Ahmad, on the authority of Al-Hassan ibn Ali ibn Abi Uthman, on the authority of Musa al-Marvazy, on the authority of Abul Hassan - the first (Al-Kadhim (MGB)) that God’s Prophet (MGB) said, “There are four acts which corrupt the heart and develop hypocrisy as water helps a tree develop: listening to vain or obscene talk; going to the door of the king’s palace, and going hunting.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "4-63 حدثنا أبي رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "4-63 حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي رضي الله عنه قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:5:51:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/5/51/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/5/51/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

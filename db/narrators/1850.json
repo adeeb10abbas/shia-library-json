@@ -1,0 +1,97 @@
+{
+  "id": 1850,
+  "type": "narrator",
+  "path": "/people/narrators/1850",
+  "titles": {
+    "ar": "ابْنِ أَبِي الصُّهْبَانِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:2:9:5",
+    "/books/kitab-al-ghayba-tusi:33:9",
+    "/books/tahdhib-al-ahkam:8:10:133"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "11-97-1850-2120-43-51-669": {
+      "narrator_ids": [
+        11,
+        97,
+        1850,
+        2120,
+        43,
+        51,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:8:10:133"
+      ]
+    },
+    "1850-1651": {
+      "narrator_ids": [
+        1850,
+        1651
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:9:5"
+      ]
+    },
+    "1850-2120": {
+      "narrator_ids": [
+        1850,
+        2120
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:8:10:133"
+      ]
+    },
+    "4169-1850": {
+      "narrator_ids": [
+        4169,
+        1850
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:33:9"
+      ]
+    },
+    "5-1850": {
+      "narrator_ids": [
+        5,
+        1850
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:9:5"
+      ]
+    },
+    "5-1850-1651-599-580-669": {
+      "narrator_ids": [
+        5,
+        1850,
+        1651,
+        599,
+        580,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:9:5"
+      ]
+    },
+    "97-1850": {
+      "narrator_ids": [
+        97,
+        1850
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:8:10:133"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1850",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1850.json"
+  }
+}

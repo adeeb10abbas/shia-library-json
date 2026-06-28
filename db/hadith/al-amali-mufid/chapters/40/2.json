@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-amali-mufid",
+  "chapterPath": "/books/al-amali-mufid:40:2",
+  "chapter": {
+    "path": "/books/al-amali-mufid:40:2",
+    "titles": {
+      "en": "Defend your brother’s name"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-amali-mufid:40:2:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-amali-mufid",
+        "titles": {
+          "ar": "الأمالي (المفيد)",
+          "en": "Al-Amali (al-Mufid)"
+        },
+        "author": {
+          "ar": "الشيخ المفيد",
+          "en": "Shaykh al-Mufid"
+        }
+      },
+      "path": {
+        "source": "/books/al-amali-mufid:40:2:1",
+        "parts": [
+          40,
+          2,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 40,
+        "book": 2,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-amali-mufid:40:2",
+        "titles": {
+          "en": "Defend your brother’s name"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": أخبرني أبو الحسن أحمد بن محمد الجرجرائي  قال: حدثنا إسحاق بن عبدوس قال: حدثنا محمد بن عبد الله بن سليمان الحضرمي قال: حدثنا محمد بن إسماعيل الأحمسي  قال: حدثنا المحاربي، عن ابن أبي ليلى، عن الحكم بن عتيبة، عن ابن أبي الدرداء، عن أبيه قال: نال رجل من عرض رجل  عند النبي صلى الله عليه وآله فرد رجل من القوم عليه، فقال رسول الله صلى الله عليه وآله وسلم: من رد عن عرض أخيه كان له حجابا من النار."
+        ],
+        "text": ": أخبرني أبو الحسن أحمد بن محمد الجرجرائي  قال: حدثنا إسحاق بن عبدوس قال: حدثنا محمد بن عبد الله بن سليمان الحضرمي قال: حدثنا محمد بن إسماعيل الأحمسي  قال: حدثنا المحاربي، عن ابن أبي ليلى، عن الحكم بن عتيبة، عن ابن أبي الدرداء، عن أبيه قال: نال رجل من عرض رجل  عند النبي صلى الله عليه وآله فرد رجل من القوم عليه، فقال رسول الله صلى الله عليه وآله وسلم: من رد عن عرض أخيه كان له حجابا من النار."
+      },
+      "translations": {
+        "en.mulla-asgharali-m-m-jaffer": {
+          "segments": [
+            "2. He said: Abu Hasan Ahmad ibn Muhammad al-Jurjurai reported to me from Ishaq ibn Abdus, who reported from Muhammad ibn Abdillah ibn Sulaiman al-Hadhrami, who reported from Muhammad ibn Ismail al-Ahmasi, who reported from Al-Maharibi, from Ibn Abi Laila, from al-Hakam ibn Utaibah from Ibn Abu al-Darda’, from his father who said: A man defamed and slandered another man in presence of the Prophet, peace be upon him and his progeny, so a person from the people present, refuted him. The Prophet, peace be upon him and his progeny, said: \"Whoever defends the honour of his brother, that act will shield him from hellfire.\""
+          ],
+          "text": "2. He said: Abu Hasan Ahmad ibn Muhammad al-Jurjurai reported to me from Ishaq ibn Abdus, who reported from Muhammad ibn Abdillah ibn Sulaiman al-Hadhrami, who reported from Muhammad ibn Ismail al-Ahmasi, who reported from Al-Maharibi, from Ibn Abi Laila, from al-Hakam ibn Utaibah from Ibn Abu al-Darda’, from his father who said: A man defamed and slandered another man in presence of the Prophet, peace be upon him and his progeny, so a person from the people present, refuted him. The Prophet, peace be upon him and his progeny, said: \"Whoever defends the honour of his brother, that act will shield him from hellfire.\""
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "2 - قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "2 - "
+          },
+          {
+            "kind": "narrator",
+            "text": "قال",
+            "path": "/people/narrators/652"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/652"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-amali-mufid:40:2:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-amali-mufid/40/2/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/13/40/2/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

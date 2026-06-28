@@ -1,0 +1,55 @@
+{
+  "id": 4303,
+  "type": "narrator",
+  "path": "/people/narrators/4303",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ عِيسَى الْقُمِّيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:108:23"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1425-4303": {
+      "narrator_ids": [
+        1425,
+        4303
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:108:23"
+      ]
+    },
+    "20-25-1425-4303-240-31-669": {
+      "narrator_ids": [
+        20,
+        25,
+        1425,
+        4303,
+        240,
+        31,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:108:23"
+      ]
+    },
+    "4303-240": {
+      "narrator_ids": [
+        4303,
+        240
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:108:23"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4303",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4303.json"
+  }
+}

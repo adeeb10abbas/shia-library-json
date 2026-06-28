@@ -1,0 +1,44 @@
+{
+  "id": 4024,
+  "type": "narrator",
+  "path": "/people/narrators/4024",
+  "titles": {
+    "ar": "قَالَ أَبُو جَعْفَرٍ مُحَمَّدُ بْنُ يَعْقُوبَ الْكُلَيْنِيُّ رَحِمَهُ اللَّهُ حَدَّثَنِي عَلِيُّ بْنُ إِبْرَاهِيمَ بْنِ هَاشِمٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:1:1:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "4024-2": {
+      "narrator_ids": [
+        4024,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:1:1:1"
+      ]
+    },
+    "4024-2-32-34-669": {
+      "narrator_ids": [
+        4024,
+        2,
+        32,
+        34,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:1:1:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4024",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4024.json"
+  }
+}

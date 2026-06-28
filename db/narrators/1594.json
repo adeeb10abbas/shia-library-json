@@ -1,0 +1,56 @@
+{
+  "id": 1594,
+  "type": "narrator",
+  "path": "/people/narrators/1594",
+  "titles": {
+    "ar": "عَمِّهِ عَاصِمٍ الْكُوزِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:70:5",
+    "/books/al-kafi:6:1:10:6"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "11-167-487-1594": {
+      "narrator_ids": [
+        11,
+        167,
+        487,
+        1594
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:70:5"
+      ]
+    },
+    "20-25-487-1594": {
+      "narrator_ids": [
+        20,
+        25,
+        487,
+        1594
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:10:6"
+      ]
+    },
+    "487-1594": {
+      "narrator_ids": [
+        487,
+        1594
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:70:5",
+        "/books/al-kafi:6:1:10:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1594",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1594.json"
+  }
+}

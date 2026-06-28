@@ -1,0 +1,44 @@
+{
+  "id": 2763,
+  "type": "narrator",
+  "path": "/people/narrators/2763",
+  "titles": {
+    "ar": "الْقَاسِمِ الصَّيْرَفِيِّ شَرِيكِ الْمُفَضَّلِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:14:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3-2-7-530-2763": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        530,
+        2763
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:14:1"
+      ]
+    },
+    "530-2763": {
+      "narrator_ids": [
+        530,
+        2763
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:14:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2763",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2763.json"
+  }
+}

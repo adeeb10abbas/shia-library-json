@@ -1,0 +1,54 @@
+{
+  "id": 2427,
+  "type": "narrator",
+  "path": "/people/narrators/2427",
+  "titles": {
+    "ar": "إِسْمَاعِيلَ الشَّعِيرِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:5:38:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2427-463": {
+      "narrator_ids": [
+        2427,
+        463
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:5:38:1"
+      ]
+    },
+    "6-5-7-66-2427-463": {
+      "narrator_ids": [
+        6,
+        5,
+        7,
+        66,
+        2427,
+        463
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:5:38:1"
+      ]
+    },
+    "66-2427": {
+      "narrator_ids": [
+        66,
+        2427
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:5:38:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2427",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2427.json"
+  }
+}

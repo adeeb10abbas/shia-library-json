@@ -1,0 +1,63 @@
+{
+  "id": 2308,
+  "type": "narrator",
+  "path": "/people/narrators/2308",
+  "titles": {
+    "ar": "أَحْمَدَ بْنِ عَبْدِ الْعَزِيزِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:4:25:16",
+    "/books/tahdhib-al-ahkam:2:8:266"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "153-2308": {
+      "narrator_ids": [
+        153,
+        2308
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:25:16"
+      ]
+    },
+    "35-153-2308": {
+      "narrator_ids": [
+        35,
+        153,
+        2308
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:25:16"
+      ]
+    },
+    "8-2308": {
+      "narrator_ids": [
+        8,
+        2308
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:8:266"
+      ]
+    },
+    "952-35-8-2308": {
+      "narrator_ids": [
+        952,
+        35,
+        8,
+        2308
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:8:266"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2308",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2308.json"
+  }
+}

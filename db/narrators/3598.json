@@ -1,0 +1,54 @@
+{
+  "id": 3598,
+  "type": "narrator",
+  "path": "/people/narrators/3598",
+  "titles": {
+    "ar": "عَبْدِ اللَّهِ بْنِ كُولُومٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:3:88:13"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "10-3598": {
+      "narrator_ids": [
+        10,
+        3598
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:88:13"
+      ]
+    },
+    "3-2-10-3598-569-669": {
+      "narrator_ids": [
+        3,
+        2,
+        10,
+        3598,
+        569,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:88:13"
+      ]
+    },
+    "3598-569": {
+      "narrator_ids": [
+        3598,
+        569
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:88:13"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3598",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3598.json"
+  }
+}

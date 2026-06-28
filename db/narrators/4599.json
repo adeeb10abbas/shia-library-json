@@ -1,0 +1,62 @@
+{
+  "id": 4599,
+  "type": "narrator",
+  "path": "/people/narrators/4599",
+  "titles": {
+    "ar": "يَعْقُوبَ بْنِ شُعَيْبٍ الْمِيثَمِيِّ"
+  },
+  "versePaths": [
+    "/books/al-istibsar:2:128:4",
+    "/books/al-kafi:4:3:149:4",
+    "/books/tahdhib-al-ahkam:5:11:14"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "26-4599": {
+      "narrator_ids": [
+        26,
+        4599
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:2:128:4",
+        "/books/al-kafi:4:3:149:4",
+        "/books/tahdhib-al-ahkam:5:11:14"
+      ]
+    },
+    "3-2-106-26-4599": {
+      "narrator_ids": [
+        3,
+        2,
+        106,
+        26,
+        4599
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:149:4"
+      ]
+    },
+    "952-3-2-106-26-4599": {
+      "narrator_ids": [
+        952,
+        3,
+        2,
+        106,
+        26,
+        4599
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:2:128:4",
+        "/books/tahdhib-al-ahkam:5:11:14"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4599",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4599.json"
+  }
+}

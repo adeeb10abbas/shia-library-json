@@ -1,0 +1,54 @@
+{
+  "id": 4381,
+  "type": "narrator",
+  "path": "/people/narrators/4381",
+  "titles": {
+    "ar": "مُعَاوِيَةَ بْنِ سَعْدٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:107:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3-2-74-42-4381-184": {
+      "narrator_ids": [
+        3,
+        2,
+        74,
+        42,
+        4381,
+        184
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:107:5"
+      ]
+    },
+    "42-4381": {
+      "narrator_ids": [
+        42,
+        4381
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:107:5"
+      ]
+    },
+    "4381-184": {
+      "narrator_ids": [
+        4381,
+        184
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:107:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4381",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4381.json"
+  }
+}

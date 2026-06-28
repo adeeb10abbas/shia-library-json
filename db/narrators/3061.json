@@ -1,0 +1,44 @@
+{
+  "id": 3061,
+  "type": "narrator",
+  "path": "/people/narrators/3061",
+  "titles": {
+    "ar": "حُسَيْنٍ الصَّيْقَلِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:2:12:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "4-13-42-51-3061": {
+      "narrator_ids": [
+        4,
+        13,
+        42,
+        51,
+        3061
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:2:12:2"
+      ]
+    },
+    "51-3061": {
+      "narrator_ids": [
+        51,
+        3061
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:2:12:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3061",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3061.json"
+  }
+}

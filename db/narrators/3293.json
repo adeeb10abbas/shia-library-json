@@ -1,0 +1,54 @@
+{
+  "id": 3293,
+  "type": "narrator",
+  "path": "/people/narrators/3293",
+  "titles": {
+    "ar": "زَيْدِ بْنِ إِسْحَاقَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:230:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3-2-74-3293-436-669": {
+      "narrator_ids": [
+        3,
+        2,
+        74,
+        3293,
+        436,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:230:4"
+      ]
+    },
+    "3293-436": {
+      "narrator_ids": [
+        3293,
+        436
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:230:4"
+      ]
+    },
+    "74-3293": {
+      "narrator_ids": [
+        74,
+        3293
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:230:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3293",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3293.json"
+  }
+}

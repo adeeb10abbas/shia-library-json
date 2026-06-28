@@ -1,0 +1,43 @@
+{
+  "id": 3204,
+  "type": "narrator",
+  "path": "/people/narrators/3204",
+  "titles": {
+    "ar": "رَجُلٍ رَفَعَهُ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:54:21"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "6-8-764-3204": {
+      "narrator_ids": [
+        6,
+        8,
+        764,
+        3204
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:54:21"
+      ]
+    },
+    "764-3204": {
+      "narrator_ids": [
+        764,
+        3204
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:54:21"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3204",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3204.json"
+  }
+}

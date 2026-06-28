@@ -1,0 +1,45 @@
+{
+  "id": 2823,
+  "type": "narrator",
+  "path": "/people/narrators/2823",
+  "titles": {
+    "ar": "الْهَيْثَمِ بْنِ وَاقِدٍ الْجَزَرِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:111:25"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "10-2823": {
+      "narrator_ids": [
+        10,
+        2823
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:111:25"
+      ]
+    },
+    "4-5-3-2-10-2823": {
+      "narrator_ids": [
+        4,
+        5,
+        3,
+        2,
+        10,
+        2823
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:111:25"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2823",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2823.json"
+  }
+}

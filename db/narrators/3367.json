@@ -1,0 +1,53 @@
+{
+  "id": 3367,
+  "type": "narrator",
+  "path": "/people/narrators/3367",
+  "titles": {
+    "ar": "سُلَيْمَانَ بْنِ دَاوُدَ أَوْ بَعْضِ أَصْحَابِنَا [عَنْهُ]"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:1:29:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "107-3367": {
+      "narrator_ids": [
+        107,
+        3367
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:1:29:3"
+      ]
+    },
+    "3367-57": {
+      "narrator_ids": [
+        3367,
+        57
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:1:29:3"
+      ]
+    },
+    "49-107-3367-57-64": {
+      "narrator_ids": [
+        49,
+        107,
+        3367,
+        57,
+        64
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:1:29:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3367",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3367.json"
+  }
+}

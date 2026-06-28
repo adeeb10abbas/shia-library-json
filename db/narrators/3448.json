@@ -1,0 +1,45 @@
+{
+  "id": 3448,
+  "type": "narrator",
+  "path": "/people/narrators/3448",
+  "titles": {
+    "ar": "طَلْحَةَ بْنِ زَيْدٍ عَمَّنْ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:8:63:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "343-3448": {
+      "narrator_ids": [
+        343,
+        3448
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:63:1"
+      ]
+    },
+    "6-13-12-10-343-3448": {
+      "narrator_ids": [
+        6,
+        13,
+        12,
+        10,
+        343,
+        3448
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:63:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3448",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3448.json"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": 3326,
+  "type": "narrator",
+  "path": "/people/narrators/3326",
+  "titles": {
+    "ar": "سَعِيدِ بْنِ خُثَيْمٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:1:10:11",
+    "/books/tahdhib-al-ahkam:7:39:14"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "11-3-157-143-3326-4395": {
+      "narrator_ids": [
+        11,
+        3,
+        157,
+        143,
+        3326,
+        4395
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:39:14"
+      ]
+    },
+    "143-3326": {
+      "narrator_ids": [
+        143,
+        3326
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:10:11",
+        "/books/tahdhib-al-ahkam:7:39:14"
+      ]
+    },
+    "3-2-157-143-3326-4395": {
+      "narrator_ids": [
+        3,
+        2,
+        157,
+        143,
+        3326,
+        4395
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:10:11"
+      ]
+    },
+    "3326-4395": {
+      "narrator_ids": [
+        3326,
+        4395
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:10:11",
+        "/books/tahdhib-al-ahkam:7:39:14"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3326",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3326.json"
+  }
+}

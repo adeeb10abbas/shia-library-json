@@ -1,0 +1,54 @@
+{
+  "id": 1839,
+  "type": "narrator",
+  "path": "/people/narrators/1839",
+  "titles": {
+    "ar": "إِبْرَاهِيمَ بْنِ مُسْلِمٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:188:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1839-522": {
+      "narrator_ids": [
+        1839,
+        522
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:188:1"
+      ]
+    },
+    "6-5-90-1839-522-669": {
+      "narrator_ids": [
+        6,
+        5,
+        90,
+        1839,
+        522,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:188:1"
+      ]
+    },
+    "90-1839": {
+      "narrator_ids": [
+        90,
+        1839
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:188:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1839",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1839.json"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": 3853,
+  "type": "narrator",
+  "path": "/people/narrators/3853",
+  "titles": {
+    "ar": "عُمَرَ بْنِ جَبَلَةَ الْأَحْمَسِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:60:7"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-67-3853-168-9": {
+      "narrator_ids": [
+        11,
+        67,
+        3853,
+        168,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:60:7"
+      ]
+    },
+    "3853-168": {
+      "narrator_ids": [
+        3853,
+        168
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:60:7"
+      ]
+    },
+    "67-3853": {
+      "narrator_ids": [
+        67,
+        3853
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:60:7"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3853",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3853.json"
+  }
+}

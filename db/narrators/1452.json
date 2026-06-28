@@ -1,0 +1,60 @@
+{
+  "id": 1452,
+  "type": "narrator",
+  "path": "/people/narrators/1452",
+  "titles": {
+    "ar": "خَالِدِ بْنِ الْحَجَّاجِ الْكَرْخِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:5:12:1",
+    "/books/al-kafi:3:5:16:7"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "279-1452": {
+      "narrator_ids": [
+        279,
+        1452
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:5:12:1",
+        "/books/al-kafi:3:5:16:7"
+      ]
+    },
+    "97-24-17-33-30-279-1452": {
+      "narrator_ids": [
+        97,
+        24,
+        17,
+        33,
+        30,
+        279,
+        1452
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:5:12:1"
+      ]
+    },
+    "97-24-30-279-1452": {
+      "narrator_ids": [
+        97,
+        24,
+        30,
+        279,
+        1452
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:5:16:7"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1452",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1452.json"
+  }
+}

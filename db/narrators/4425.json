@@ -1,0 +1,56 @@
+{
+  "id": 4425,
+  "type": "narrator",
+  "path": "/people/narrators/4425",
+  "titles": {
+    "ar": "مَنِيعِ بْنِ الْحَجَّاجِ الْبَصْرِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:37:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "144-4425": {
+      "narrator_ids": [
+        144,
+        4425
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:37:1"
+      ]
+    },
+    "4-167-144-4425-4096-556-475-9": {
+      "narrator_ids": [
+        4,
+        167,
+        144,
+        4425,
+        4096,
+        556,
+        475,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:37:1"
+      ]
+    },
+    "4425-4096": {
+      "narrator_ids": [
+        4425,
+        4096
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:37:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4425",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4425.json"
+  }
+}

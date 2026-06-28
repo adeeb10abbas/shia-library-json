@@ -1,0 +1,750 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:6:2:14",
+  "chapter": {
+    "path": "/books/al-kafi:6:2:14",
+    "titles": {
+      "ar": "باب أَنَّ الْمُرَاجَعَةَ لَا تَكُونُ إِلَّا بِالْمُوَاقَعَةِ",
+      "en": "Chapter 14 – The reversion does not happen except with the copulation"
+    }
+  },
+  "count": 5,
+  "records": [
+    {
+      "id": "al-kafi:6:2:14:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:2:14:1",
+        "parts": [
+          6,
+          2,
+          14,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 2,
+        "chapter": 14,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:2:14",
+        "titles": {
+          "ar": "باب أَنَّ الْمُرَاجَعَةَ لَا تَكُونُ إِلَّا بِالْمُوَاقَعَةِ",
+          "en": "Chapter 14 – The reversion does not happen except with the copulation"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " الْمُرَاجَعَةُ هِيَ الْجِمَاعُ وَ إِلَّا فَإِنَّمَا هِيَ وَاحِدَةٌ ."
+        ],
+        "text": "الْمُرَاجَعَةُ هِيَ الْجِمَاعُ وَ إِلَّا فَإِنَّمَا هِيَ وَاحِدَةٌ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Sahl Bin Ziyad, and Ali Bin Ibrahim, from his father, from Ibn Abu Nasr, from Abdul Kareem, from Abu Baseer, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The reversion, it is the copulation, or else, rather it is one (divorce)’."
+          ],
+          "text": "A number of our companions, from Sahl Bin Ziyad, and Ali Bin Ibrahim, from his father, from Ibn Abu Nasr, from Abdul Kareem, from Abu Baseer,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The reversion, it is the copulation, or else, rather it is one (divorce)’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. A number of our people have narrated from Sahl ibn Ziyad and Ali ibn Ibrahim has narrated, from his father from ibn abu Nasr from ‘Abd al-Karim from abu Basir who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘Going back to one’s wife is to go to bed with her, otherwise, it is counted as one divorce.”’ "
+          ],
+          "text": "1. A number of our people have narrated from Sahl ibn Ziyad and Ali ibn Ibrahim has narrated, from his father from ibn abu Nasr from ‘Abd al-Karim from abu Basir who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘Going back to one’s wife is to go to bed with her, otherwise, it is counted as one divorce.”’"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> حسن أو موثق    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (21/124)",
+          "label": "حسن أو موثق",
+          "text": "Allamah Baqir al-Majlisi: حسن أو موثق - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (21/124)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ سَهْلِ بْنِ زِيَادٍ وَ عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنِ ابْنِ أَبِي نَصْرٍ عَنْ عَبْدِ الْكَرِيمِ عَنْ أَبِي بَصِيرٍ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَهْلِ بْنِ زِيَادٍ",
+            "path": "/people/narrators/8"
+          },
+          {
+            "kind": "plain",
+            "text": " وَ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ أَبِي نَصْرٍ",
+            "path": "/people/narrators/131"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَبْدِ الْكَرِيمِ",
+            "path": "/people/narrators/204"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي بَصِيرٍ",
+            "path": "/people/narrators/14"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/8",
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/131",
+          "/people/narrators/204",
+          "/people/narrators/14",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:6:2:23:1",
+          "/books/al-kafi:6:2:74:1"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:2:14:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/2/14/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:2:14:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:2:14:2",
+        "parts": [
+          6,
+          2,
+          14,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 2,
+        "chapter": 14,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:2:14",
+        "titles": {
+          "ar": "باب أَنَّ الْمُرَاجَعَةَ لَا تَكُونُ إِلَّا بِالْمُوَاقَعَةِ",
+          "en": "Chapter 14 – The reversion does not happen except with the copulation"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ أَبُو عَبْدِ اللَّهِ ( عليه السلام ) فِي رَجُلٍ يُطَلِّقُ امْرَأَتَهُ لَهُ أَنْ يُرَاجِعَ وَ قَالَ لَا يُطَلِّقُ التَّطْلِيقَةَ الْأُخْرَى حَتَّى يَمَسَّهَا ."
+        ],
+        "text": "قَالَ أَبُو عَبْدِ اللَّهِ ( عليه السلام ) فِي رَجُلٍ يُطَلِّقُ امْرَأَتَهُ لَهُ أَنْ يُرَاجِعَ وَ قَالَ لَا يُطَلِّقُ التَّطْلِيقَةَ الْأُخْرَى حَتَّى يَمَسَّهَا ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali, from his father, and Muhammad Bin Ismail, from Al Fazl Bin Shazaan, altogether from Ibn Abu Umeyr, from Abdul Rahman Bin Al Hajjaj who said, ",
+            "‘Abu Abdullah<sup>asws</sup> said regarding a man who divorced his wife: ‘It is for him that he reverts’. And he<sup>asws</sup> said: ‘He cannot divorce her with another divorce until he touches her’."
+          ],
+          "text": "Ali, from his father, and Muhammad Bin Ismail, from Al Fazl Bin Shazaan, altogether from Ibn Abu Umeyr, from Abdul Rahman Bin Al Hajjaj who said,\n\n‘Abu Abdullah<sup>asws</sup> said regarding a man who divorced his wife: ‘It is for him that he reverts’. And he<sup>asws</sup> said: ‘He cannot divorce her with another divorce until he touches her’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. Ali has narrated from his father and Muhammad ibn ’Isma‘il has narrated from al-Fadl ibn Shadhan all from ibn abu ‘Umayr from ‘Abd al-Rahman ibn al-Hajj aj who has said the following: “About the case of a man who divorces his wife, abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘He has the right to go back to his wife. Another divorce cannot take place unless he touches her (goes to bed with her).”’ "
+          ],
+          "text": "2. Ali has narrated from his father and Muhammad ibn ’Isma‘il has narrated from al-Fadl ibn Shadhan all from ibn abu ‘Umayr from ‘Abd al-Rahman ibn al-Hajj aj who has said the following: “About the case of a man who divorces his wife, abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘He has the right to go back to his wife. Another divorce cannot take place unless he touches her (goes to bed with her).”’"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> حسن كالصحيح   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (21/124)",
+          "label": "حسن كالصحيح",
+          "text": "Allamah Baqir al-Majlisi: حسن كالصحيح - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (21/124)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيٌّ عَنْ أَبِيهِ وَ مُحَمَّدُ بْنُ إِسْمَاعِيلَ عَنِ الْفَضْلِ بْنِ شَاذَانَ جَمِيعاً عَنِ ابْنِ أَبِي عُمَيْرٍ عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْحَجَّاجِ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيٌّ",
+            "path": "/people/narrators/50"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " وَ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ إِسْمَاعِيلَ",
+            "path": "/people/narrators/17"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْفَضْلِ بْنِ شَاذَانَ",
+            "path": "/people/narrators/33"
+          },
+          {
+            "kind": "plain",
+            "text": " جَمِيعاً عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ أَبِي عُمَيْرٍ",
+            "path": "/people/narrators/7"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَبْدِ الرَّحْمَنِ بْنِ الْحَجَّاجِ",
+            "path": "/people/narrators/70"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/50",
+          "/people/narrators/2",
+          "/people/narrators/17",
+          "/people/narrators/33",
+          "/people/narrators/7",
+          "/people/narrators/70"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:2:14:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/2/14/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:2:14:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:2:14:3",
+        "parts": [
+          6,
+          2,
+          14,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 2,
+        "chapter": 14,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:2:14",
+        "titles": {
+          "ar": "باب أَنَّ الْمُرَاجَعَةَ لَا تَكُونُ إِلَّا بِالْمُوَاقَعَةِ",
+          "en": "Chapter 14 – The reversion does not happen except with the copulation"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَمِعْتُ أَبَا جَعْفَرٍ ( عليه السلام ) يَقُولُ إِذَا طَلَّقَ الرَّجُلُ امْرَأَتَهُ وَ أَشْهَدَ شَاهِدَيْنِ عَدْلَيْنِ فِي قُبُلِ عِدَّتِهَا فَلَيْسَ لَهُ أَنْ يُطَلِّقَهَا حَتَّى تَنْقَضِيَ عِدَّتُهَا إِلَّا أَنْ يُرَاجِعَهَا ."
+        ],
+        "text": "سَمِعْتُ أَبَا جَعْفَرٍ ( عليه السلام ) يَقُولُ إِذَا طَلَّقَ الرَّجُلُ امْرَأَتَهُ وَ أَشْهَدَ شَاهِدَيْنِ عَدْلَيْنِ فِي قُبُلِ عِدَّتِهَا فَلَيْسَ لَهُ أَنْ يُطَلِّقَهَا حَتَّى تَنْقَضِيَ عِدَّتُهَا إِلَّا أَنْ يُرَاجِعَهَا ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali, from his father, from Ibn Abu Umeyr, from Ibn Azina, from Bukeyr who said, ",
+            "‘I heard Abu Ja’far<sup>asws</sup> sayig: ‘When the man divorces his wife, and two just witnesses witness it prior to her waiting period, so it is not for him that he should divorce her until she has completed her waiting period, except if he reverts to her’."
+          ],
+          "text": "Ali, from his father, from Ibn Abu Umeyr, from Ibn Azina, from Bukeyr who said,\n\n‘I heard Abu Ja’far<sup>asws</sup> sayig: ‘When the man divorces his wife, and two just witnesses witness it prior to her waiting period, so it is not for him that he should divorce her until she has completed her waiting period, except if he reverts to her’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "3. Ali has narrated from his father from ibn abu ‘Umayr from ibn ‘Udhaynah from Bukayr who has said the following: “I once heard abu Ja‘far, ‘Alayhi al-Salam, saying, ‘If one divorces his wife in the presence of two just witnesses at a time when commencement of waiting period is possible, he then cannot divorce her before the end of waiting period unless he goes back to her.’” "
+          ],
+          "text": "3. Ali has narrated from his father from ibn abu ‘Umayr from ibn ‘Udhaynah from Bukayr who has said the following: “I once heard abu Ja‘far, ‘Alayhi al-Salam, saying, ‘If one divorces his wife in the presence of two just witnesses at a time when commencement of waiting period is possible, he then cannot divorce her before the end of waiting period unless he goes back to her.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> حسن   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (21/125)",
+          "label": "حسن",
+          "text": "Allamah Baqir al-Majlisi: حسن - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (21/125)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيٌّ عَنْ أَبِيهِ عَنِ ابْنِ أَبِي عُمَيْرٍ عَنِ ابْنِ أُذَيْنَةَ عَنْ بُكَيْرٍ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيٌّ",
+            "path": "/people/narrators/50"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ أَبِي عُمَيْرٍ",
+            "path": "/people/narrators/7"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ أُذَيْنَةَ",
+            "path": "/people/narrators/141"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "بُكَيْرٍ",
+            "path": "/people/narrators/420"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/50",
+          "/people/narrators/2",
+          "/people/narrators/7",
+          "/people/narrators/141",
+          "/people/narrators/420"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:2:14:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/2/14/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:2:14:4",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:2:14:4",
+        "parts": [
+          6,
+          2,
+          14,
+          4
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 2,
+        "chapter": 14,
+        "hadith": 4
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:2:14",
+        "titles": {
+          "ar": "باب أَنَّ الْمُرَاجَعَةَ لَا تَكُونُ إِلَّا بِالْمُوَاقَعَةِ",
+          "en": "Chapter 14 – The reversion does not happen except with the copulation"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَأَلْتُهُ عَنْ رَجُلٍ يُطَلِّقُ امْرَأَتَهُ فِي طُهْرٍ مِنْ غَيْرِ جِمَاعٍ ثُمَّ يُرَاجِعُهَا فِي يَوْمِهِ ذَلِكَ ثُمَّ يُطَلِّقُهَا تَبِينُ مِنْهُ بِثَلَاثِ تَطْلِيقَاتٍ فِي طُهْرٍ وَاحِدٍ فَقَالَ خَالَفَ السُّنَّةَ قُلْتُ فَلَيْسَ يَنْبَغِي لَهُ إِذَا هُوَ رَاجَعَهَا أَنْ يُطَلِّقَهَا إِلَّا فِي طُهْرٍ فَقَالَ نَعَمْ قُلْتُ حَتَّى يُجَامِعَ قَالَ نَعَمْ ."
+        ],
+        "text": "سَأَلْتُهُ عَنْ رَجُلٍ يُطَلِّقُ امْرَأَتَهُ فِي طُهْرٍ مِنْ غَيْرِ جِمَاعٍ ثُمَّ يُرَاجِعُهَا فِي يَوْمِهِ ذَلِكَ ثُمَّ يُطَلِّقُهَا تَبِينُ مِنْهُ بِثَلَاثِ تَطْلِيقَاتٍ فِي طُهْرٍ وَاحِدٍ فَقَالَ خَالَفَ السُّنَّةَ قُلْتُ فَلَيْسَ يَنْبَغِي لَهُ إِذَا هُوَ رَاجَعَهَا أَنْ يُطَلِّقَهَا إِلَّا فِي طُهْرٍ فَقَالَ نَعَمْ قُلْتُ حَتَّى يُجَامِعَ قَالَ نَعَمْ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Abu Ali Al Ashary, from Muhammad Bin Abul Jabbar, from Safwan, and Muhammad Bin Ismail, from Al Fazl Bin Shazan, from Safwan, from Is’haq Bin Ammar, ",
+            "(It has been narrated) from Abu Ibrahim<sup>asws</sup> (7th Imam<sup>asws</sup>), said, ‘I asked him<sup>asws</sup> about a man who divorces his wife during purity, from without sleeping with her, then reverts back to her during that very day, then divorces her with three divorces during one purity. So he<sup>asws</sup> said: ‘Opposite to the Sunnah’. I said, ‘So it is not befitting for him when he reverts to her, if he were to divorce her except during a purity?’ So he<sup>asws</sup> said: ‘Yes’. I said, ‘Until he sleeps with her?’ He<sup>asws</sup> said: ‘Yes’."
+          ],
+          "text": "Abu Ali Al Ashary, from Muhammad Bin Abul Jabbar, from Safwan, and Muhammad Bin Ismail, from Al Fazl Bin Shazan, from Safwan, from Is’haq Bin Ammar,\n\n(It has been narrated) from Abu Ibrahim<sup>asws</sup> (7th Imam<sup>asws</sup>), said, ‘I asked him<sup>asws</sup> about a man who divorces his wife during purity, from without sleeping with her, then reverts back to her during that very day, then divorces her with three divorces during one purity. So he<sup>asws</sup> said: ‘Opposite to the Sunnah’. I said, ‘So it is not befitting for him when he reverts to her, if he were to divorce her except during a purity?’ So he<sup>asws</sup> said: ‘Yes’. I said, ‘Until he sleeps with her?’ He<sup>asws</sup> said: ‘Yes’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "4. Abu Ali al-Ash‘ariy has narrated from Muhammad ibn ‘Abd al-Jabbar from Safwan and Muhammad ibn ’Isma‘il has narrated from al-Fadl ibn Shadhan from Safwan from Ishaq ibn ‘Ammar who has said the following: “I once asked abu Ibrahim, ‘Alayhi al-Salam, about the case of a man who divorces his wife in a Hayd (menses)-free period and without sexual intercourse; then goes back to her on the same day then divorces her with three divorces in one Hayd (menses)-free period. He (the Imam) said, ‘It is against Sunnah .’ I then asked, ‘Is it not the case that if he goes back to her to divorce her he must do so in a Hayd (menses)-free period?’ He (the Imam) replied, ‘Yes, that is correct.’ I then said, ‘So that he can go to bed with her.’ He (the Imam) said, ‘Yes, that is correct.’” "
+          ],
+          "text": "4. Abu Ali al-Ash‘ariy has narrated from Muhammad ibn ‘Abd al-Jabbar from Safwan and Muhammad ibn ’Isma‘il has narrated from al-Fadl ibn Shadhan from Safwan from Ishaq ibn ‘Ammar who has said the following: “I once asked abu Ibrahim, ‘Alayhi al-Salam, about the case of a man who divorces his wife in a Hayd (menses)-free period and without sexual intercourse; then goes back to her on the same day then divorces her with three divorces in one Hayd (menses)-free period. He (the Imam) said, ‘It is against Sunnah .’ I then asked, ‘Is it not the case that if he goes back to her to divorce her he must do so in a Hayd (menses)-free period?’ He (the Imam) replied, ‘Yes, that is correct.’ I then said, ‘So that he can go to bed with her.’ He (the Imam) said, ‘Yes, that is correct.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> موثق   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (21/125)",
+          "label": "موثق",
+          "text": "Allamah Baqir al-Majlisi: موثق - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (21/125)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "أَبُو عَلِيٍّ الْأَشْعَرِيُّ عَنْ مُحَمَّدِ بْنِ عَبْدِ الْجَبَّارِ عَنْ صَفْوَانَ وَ مُحَمَّدُ بْنُ إِسْمَاعِيلَ عَنِ الْفَضْلِ بْنِ شَاذَانَ عَنْ صَفْوَانَ عَنْ إِسْحَاقَ بْنِ عَمَّارٍ عَنْ أَبِي إِبْرَاهِيمَ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "أَبُو عَلِيٍّ الْأَشْعَرِيُّ",
+            "path": "/people/narrators/19"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ عَبْدِ الْجَبَّارِ",
+            "path": "/people/narrators/24"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "صَفْوَانَ",
+            "path": "/people/narrators/43"
+          },
+          {
+            "kind": "plain",
+            "text": " وَ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ إِسْمَاعِيلَ",
+            "path": "/people/narrators/17"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْفَضْلِ بْنِ شَاذَانَ",
+            "path": "/people/narrators/33"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "صَفْوَانَ",
+            "path": "/people/narrators/43"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "إِسْحَاقَ بْنِ عَمَّارٍ",
+            "path": "/people/narrators/44"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي إِبْرَاهِيمَ ( عليه السلام )",
+            "path": "/people/narrators/194"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/19",
+          "/people/narrators/24",
+          "/people/narrators/43",
+          "/people/narrators/17",
+          "/people/narrators/33",
+          "/people/narrators/43",
+          "/people/narrators/44",
+          "/people/narrators/194"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:2:14:4",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/2/14/4.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:2:14:5",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:2:14:5",
+        "parts": [
+          6,
+          2,
+          14,
+          5
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 2,
+        "chapter": 14,
+        "hadith": 5
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:2:14",
+        "titles": {
+          "ar": "باب أَنَّ الْمُرَاجَعَةَ لَا تَكُونُ إِلَّا بِالْمُوَاقَعَةِ",
+          "en": "Chapter 14 – The reversion does not happen except with the copulation"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " الرَّجْعَةُ الْجِمَاعُ وَ إِلَّا فَإِنَّمَا هِيَ وَاحِدَةٌ ."
+        ],
+        "text": "الرَّجْعَةُ الْجِمَاعُ وَ إِلَّا فَإِنَّمَا هِيَ وَاحِدَةٌ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Humeyd Bin Ziyad, from Ibn Sama’at, from Safwan, from Ibn Muskan, from Is’haq Bin Ammar, ",
+            "(It has been narrated) from Abu Al-Hassan<sup>asws</sup> having said: ‘The reversion is the copulation with her, or else, rather it is one (divorce)’."
+          ],
+          "text": "Humeyd Bin Ziyad, from Ibn Sama’at, from Safwan, from Ibn Muskan, from Is’haq Bin Ammar,\n\n(It has been narrated) from Abu Al-Hassan<sup>asws</sup> having said: ‘The reversion is the copulation with her, or else, rather it is one (divorce)’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "5. Humayd ibn Ziyad has narrated from ibn Sama‘ah from Safwan from ibn Muskan from Ishaq ibn ‘Ammar who has said the following: “Abu al-Hassan, ‘Alayhi al-Salam, has said, ‘Going back is going to bed with her, otherwise, it is only one divorce.’” "
+          ],
+          "text": "5. Humayd ibn Ziyad has narrated from ibn Sama‘ah from Safwan from ibn Muskan from Ishaq ibn ‘Ammar who has said the following: “Abu al-Hassan, ‘Alayhi al-Salam, has said, ‘Going back is going to bed with her, otherwise, it is only one divorce.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> موثق    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (21/125)",
+          "label": "موثق",
+          "text": "Allamah Baqir al-Majlisi: موثق - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (21/125)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "حُمَيْدُ بْنُ زِيَادٍ عَنِ ابْنِ سَمَاعَةَ عَنْ صَفْوَانَ عَنِ ابْنِ مُسْكَانَ عَنْ إِسْحَاقَ بْنِ عَمَّارٍ عَنْ أَبِي الْحَسَنِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "حُمَيْدُ بْنُ زِيَادٍ",
+            "path": "/people/narrators/49"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ سَمَاعَةَ",
+            "path": "/people/narrators/107"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "صَفْوَانَ",
+            "path": "/people/narrators/43"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ مُسْكَانَ",
+            "path": "/people/narrators/51"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "إِسْحَاقَ بْنِ عَمَّارٍ",
+            "path": "/people/narrators/44"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي الْحَسَنِ ( عليه السلام )",
+            "path": "/people/narrators/64"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/49",
+          "/people/narrators/107",
+          "/people/narrators/43",
+          "/people/narrators/51",
+          "/people/narrators/44",
+          "/people/narrators/64"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:2:14:5",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/2/14/5.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

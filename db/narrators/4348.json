@@ -1,0 +1,42 @@
+{
+  "id": 4348,
+  "type": "narrator",
+  "path": "/people/narrators/4348",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ يُوسُفَ الشَّاشِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:125:11"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2810-4348": {
+      "narrator_ids": [
+        2810,
+        4348
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:125:11"
+      ]
+    },
+    "50-2810-4348": {
+      "narrator_ids": [
+        50,
+        2810,
+        4348
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:125:11"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4348",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4348.json"
+  }
+}

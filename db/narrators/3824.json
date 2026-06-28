@@ -1,0 +1,43 @@
+{
+  "id": 3824,
+  "type": "narrator",
+  "path": "/people/narrators/3824",
+  "titles": {
+    "ar": "عَلِيِّ بْنِ مَهْزِيَارَعَنْ مُحَمَّدِ بْنِ رَاشِدٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:1:4:9"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "277-3824": {
+      "narrator_ids": [
+        277,
+        3824
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:4:9"
+      ]
+    },
+    "4-5-277-3824": {
+      "narrator_ids": [
+        4,
+        5,
+        277,
+        3824
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:4:9"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3824",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3824.json"
+  }
+}

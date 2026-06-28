@@ -1,0 +1,42 @@
+{
+  "id": 4213,
+  "type": "narrator",
+  "path": "/people/narrators/4213",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ حَسَنِ بْنِ شَمُّونٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:3:9:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "6-8-4213": {
+      "narrator_ids": [
+        6,
+        8,
+        4213
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:3:9:4"
+      ]
+    },
+    "8-4213": {
+      "narrator_ids": [
+        8,
+        4213
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:3:9:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4213",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4213.json"
+  }
+}

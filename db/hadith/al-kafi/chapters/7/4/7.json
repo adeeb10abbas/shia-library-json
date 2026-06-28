@@ -1,0 +1,423 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:7:4:7",
+  "chapter": {
+    "path": "/books/al-kafi:7:4:7",
+    "titles": {
+      "ar": "باب الرَّجُلِ يَأْمُرُ رَجُلًا بِقَتْلِ رَجُلٍ",
+      "en": "Chapter 7 – The man orders a man with the killing of a man"
+    }
+  },
+  "count": 3,
+  "records": [
+    {
+      "id": "al-kafi:7:4:7:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:4:7:1",
+        "parts": [
+          7,
+          4,
+          7,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 4,
+        "chapter": 7,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:4:7",
+        "titles": {
+          "ar": "باب الرَّجُلِ يَأْمُرُ رَجُلًا بِقَتْلِ رَجُلٍ",
+          "en": "Chapter 7 – The man orders a man with the killing of a man"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " رَجُلٍ أَمَرَ رَجُلًا بِقَتْلِ رَجُلٍ فَقَتَلَهُ فَقَالَ يُقْتَلُ بِهِ الَّذِي قَتَلَهُ وَ يُحْبَسُ الْآمِرُ بِقَتْلِهِ فِي السِّجْنِ حَتَّى يَمُوتَ ."
+        ],
+        "text": "رَجُلٍ أَمَرَ رَجُلًا بِقَتْلِ رَجُلٍ فَقَتَلَهُ فَقَالَ يُقْتَلُ بِهِ الَّذِي قَتَلَهُ وَ يُحْبَسُ الْآمِرُ بِقَتْلِهِ فِي السِّجْنِ حَتَّى يَمُوتَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad, and a number of our companions, from Sahl Bin Ziyad, both together from Ibn Mahboub, from Ibn Raib, from Zurara, ",
+            "(It has been narrated) from Abu Ja’far<sup>asws</sup> regarding a man who orders a man with the killing of a man, so he killed him. So he<sup>asws</sup> said: ‘The one who killed him should be killed, and the one who ordered with killing him should be held in the prison until he dies’."
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad, and a number of our companions, from Sahl Bin Ziyad, both together from Ibn Mahboub, from Ibn Raib, from Zurara,\n\n(It has been narrated) from Abu Ja’far<sup>asws</sup> regarding a man who orders a man with the killing of a man, so he killed him. So he<sup>asws</sup> said: ‘The one who killed him should be killed, and the one who ordered with killing him should be held in the prison until he dies’."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ وَ عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ سَهْلِ بْنِ زِيَادٍ جَمِيعاً عَنِ ابْنِ مَحْبُوبٍ عَنِ ابْنِ رِئَابٍ عَنْ زُرَارَةَ عَنْ أَبِي جَعْفَرٍ ( عليه السلام ) فِي",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " وَ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَهْلِ بْنِ زِيَادٍ",
+            "path": "/people/narrators/8"
+          },
+          {
+            "kind": "plain",
+            "text": " جَمِيعاً عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ مَحْبُوبٍ",
+            "path": "/people/narrators/10"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ رِئَابٍ",
+            "path": "/people/narrators/87"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "زُرَارَةَ",
+            "path": "/people/narrators/18"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي جَعْفَرٍ ( عليه السلام )",
+            "path": "/people/narrators/9"
+          },
+          {
+            "kind": "plain",
+            "text": " فِي"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/5",
+          "/people/narrators/6",
+          "/people/narrators/8",
+          "/people/narrators/10",
+          "/people/narrators/87",
+          "/people/narrators/18",
+          "/people/narrators/9"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:7:2:13:5"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:4:7:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/4/7/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:4:7:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:4:7:2",
+        "parts": [
+          7,
+          4,
+          7,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 4,
+        "chapter": 7,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:4:7",
+        "titles": {
+          "ar": "باب الرَّجُلِ يَأْمُرُ رَجُلًا بِقَتْلِ رَجُلٍ",
+          "en": "Chapter 7 – The man orders a man with the killing of a man"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " رَجُلٍ أَمَرَ عَبْدَهُ أَنْ يَقْتُلَ رَجُلًا فَقَتَلَهُ قَالَ فَقَالَ يُقْتَلُ السَّيِّدُ بِهِ ."
+        ],
+        "text": "رَجُلٍ أَمَرَ عَبْدَهُ أَنْ يَقْتُلَ رَجُلًا فَقَتَلَهُ قَالَ فَقَالَ يُقْتَلُ السَّيِّدُ بِهِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad, and Ali Bin Ibrahim, from his father, both together from Ibn Mahboub, from Is’haq Bin Ammar, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> regarding a man who ordered his slave that he should kill a man, so he killed him. So he<sup>asws</sup> said: ‘The master should be killed due to it’."
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad, and Ali Bin Ibrahim, from his father, both together from Ibn Mahboub, from Is’haq Bin Ammar,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> regarding a man who ordered his slave that he should kill a man, so he killed him. So he<sup>asws</sup> said: ‘The master should be killed due to it’."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ وَ عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ جَمِيعاً عَنِ ابْنِ مَحْبُوبٍ عَنْ إِسْحَاقَ بْنِ عَمَّارٍ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) فِي",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " وَ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " جَمِيعاً عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ مَحْبُوبٍ",
+            "path": "/people/narrators/10"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "إِسْحَاقَ بْنِ عَمَّارٍ",
+            "path": "/people/narrators/44"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " فِي"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/5",
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/10",
+          "/people/narrators/44",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:4:7:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/4/7/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:4:7:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:4:7:3",
+        "parts": [
+          7,
+          4,
+          7,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 4,
+        "chapter": 7,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:4:7",
+        "titles": {
+          "ar": "باب الرَّجُلِ يَأْمُرُ رَجُلًا بِقَتْلِ رَجُلٍ",
+          "en": "Chapter 7 – The man orders a man with the killing of a man"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ أَمِيرُ الْمُؤْمِنِينَ ( عليه السلام ) فِي رَجُلٍ أَمَرَ عَبْدَهُ أَنْ يَقْتُلَ رَجُلًا فَقَتَلَهُ فَقَالَ أَمِيرُ الْمُؤْمِنِينَ ( عليه السلام ) وَ هَلْ عَبْدُ الرَّجُلِ إِلَّا كَسَوْطِهِ أَوْ كَسَيْفِهِ يُقْتَلُ السَّيِّدُ بِهِ وَ يُسْتَوْدَعُ الْعَبْدُ السِّجْنَ ."
+        ],
+        "text": "قَالَ أَمِيرُ الْمُؤْمِنِينَ ( عليه السلام ) فِي رَجُلٍ أَمَرَ عَبْدَهُ أَنْ يَقْتُلَ رَجُلًا فَقَتَلَهُ فَقَالَ أَمِيرُ الْمُؤْمِنِينَ ( عليه السلام ) وَ هَلْ عَبْدُ الرَّجُلِ إِلَّا كَسَوْطِهِ أَوْ كَسَيْفِهِ يُقْتَلُ السَّيِّدُ بِهِ وَ يُسْتَوْدَعُ الْعَبْدُ السِّجْنَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali, from his father, from Al Nowfaly, from Al Sakuny, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Amir Al-Momineen<sup>asws</sup> said regarding a man who ordered his slave that he should kill a man, so he killed him. So Amir Al-Momineen<sup>asws</sup> said: ‘And is a slave of the man anything except like his whip, or like his sword? The master would be killed due to it, and the slave would be left in the prison’."
+          ],
+          "text": "Ali, from his father, from Al Nowfaly, from Al Sakuny,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Amir Al-Momineen<sup>asws</sup> said regarding a man who ordered his slave that he should kill a man, so he killed him. So Amir Al-Momineen<sup>asws</sup> said: ‘And is a slave of the man anything except like his whip, or like his sword? The master would be killed due to it, and the slave would be left in the prison’."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "عَلِيٌّ عَنْ أَبِيهِ عَنِ النَّوْفَلِيِّ عَنِ السَّكُونِيِّ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيٌّ",
+            "path": "/people/narrators/50"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "النَّوْفَلِيِّ",
+            "path": "/people/narrators/32"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "السَّكُونِيِّ",
+            "path": "/people/narrators/34"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/50",
+          "/people/narrators/2",
+          "/people/narrators/32",
+          "/people/narrators/34",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:4:7:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/4/7/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

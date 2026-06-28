@@ -1,0 +1,44 @@
+{
+  "id": 4193,
+  "type": "narrator",
+  "path": "/people/narrators/4193",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ الْمُفَضَّلِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:50:14"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "49-345-202-52-4193": {
+      "narrator_ids": [
+        49,
+        345,
+        202,
+        52,
+        4193
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:50:14"
+      ]
+    },
+    "52-4193": {
+      "narrator_ids": [
+        52,
+        4193
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:50:14"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4193",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4193.json"
+  }
+}

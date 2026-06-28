@@ -1,0 +1,55 @@
+{
+  "id": 3115,
+  "type": "narrator",
+  "path": "/people/narrators/3115",
+  "titles": {
+    "ar": "حَنَانِ بْنِ السَّرَّاجِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:126:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "198-3115": {
+      "narrator_ids": [
+        198,
+        3115
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:126:5"
+      ]
+    },
+    "3115-3169": {
+      "narrator_ids": [
+        3115,
+        3169
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:126:5"
+      ]
+    },
+    "6-12-2-198-3115-3169-1253": {
+      "narrator_ids": [
+        6,
+        12,
+        2,
+        198,
+        3115,
+        3169,
+        1253
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:126:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3115",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3115.json"
+  }
+}

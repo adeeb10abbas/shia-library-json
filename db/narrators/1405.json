@@ -1,0 +1,46 @@
+{
+  "id": 1405,
+  "type": "narrator",
+  "path": "/people/narrators/1405",
+  "titles": {
+    "ar": "بَعْضِ أَصْحَابِ أَمِيرِ الْمُؤْمِنِينَ ( عليه السلام )"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:8:14"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3-2-10-47-71-663-1405": {
+      "narrator_ids": [
+        3,
+        2,
+        10,
+        47,
+        71,
+        663,
+        1405
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:8:14"
+      ]
+    },
+    "663-1405": {
+      "narrator_ids": [
+        663,
+        1405
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:8:14"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1405",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1405.json"
+  }
+}

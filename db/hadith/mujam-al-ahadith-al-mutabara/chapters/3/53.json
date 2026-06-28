@@ -1,0 +1,109 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "mujam-al-ahadith-al-mutabara",
+  "chapterPath": "/books/mujam-al-ahadith-al-mutabara:3:53",
+  "chapter": {
+    "path": "/books/mujam-al-ahadith-al-mutabara:3:53",
+    "titles": {
+      "en": "Abdallah b. Jundab"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "mujam-al-ahadith-al-mutabara:3:53:1",
+      "type": "hadith",
+      "book": {
+        "slug": "mujam-al-ahadith-al-mutabara",
+        "titles": {
+          "ar": "معجم الأحاديث المعتبرة",
+          "en": "Mu'jam al-Ahadith al-Mu'tabara"
+        },
+        "author": {
+          "en": "Muhammad Asif al-Muhsini"
+        }
+      },
+      "path": {
+        "source": "/books/mujam-al-ahadith-al-mutabara:3:53:1",
+        "parts": [
+          3,
+          53,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 53,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/mujam-al-ahadith-al-mutabara:3:53",
+        "titles": {
+          "en": "Abdallah b. Jundab"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " يونس رحمه الله – قال: قيل لأبي الحسن عليه السلام و أنا أسمع: أن يونس مولى آل يقطين يزعم أن مولاكم و المتمسك بطاعتكم عبد الله بن جندب يعبد الله على سبعين حرفا، و يقول إنه شاك قال: فسمعته يقول: هو و الله أولى بأن يعبد الله على حرف ما له و لعبد الله بن جندب إن عبد الله بن جندب لمن المخبتين"
+        ],
+        "text": "يونس رحمه الله – قال: قيل لأبي الحسن عليه السلام و أنا أسمع: أن يونس مولى آل يقطين يزعم أن مولاكم و المتمسك بطاعتكم عبد الله بن جندب يعبد الله على سبعين حرفا، و يقول إنه شاك قال: فسمعته يقول: هو و الله أولى بأن يعبد الله على حرف ما له و لعبد الله بن جندب إن عبد الله بن جندب لمن المخبتين"
+      },
+      "translations": {
+        "en.ammaar-muslim": {
+          "segments": [
+            "1. [1/191] Rijal al-Kashshi: Hamduwayh b. Nusayr from Ya`qub b. Yazid from al-Hasan b. Ali b. Yaqtin – and he had a negative opinion of Yunus may Allah have mercy on him – said: it was said to Abi al-Hasan عليه السلام while I was listening: Yunus the client of the family of Yaqtin claims that your follower and the one who holds on to your obedience – Abdallah b. Jundab – worships Allah on seventy edges [allusion to Q. 22:11] and also says that he [Abdallah] is a doubter, so I heard him [the Imam] saying: he [Yunus] is by Allah more likely to worship Allah on the edge, what does he have to do with Abdallah b. Jundab! verily Abdallah b. Jundab is one of the humble ones [allusion to Q 22:34]."
+          ],
+          "text": "1. [1/191] Rijal al-Kashshi: Hamduwayh b. Nusayr from Ya`qub b. Yazid from al-Hasan b. Ali b. Yaqtin – and he had a negative opinion of Yunus may Allah have mercy on him – said: it was said to Abi al-Hasan عليه السلام while I was listening: Yunus the client of the family of Yaqtin claims that your follower and the one who holds on to your obedience – Abdallah b. Jundab – worships Allah on seventy edges [allusion to Q. 22:11] and also says that he [Abdallah] is a doubter, so I heard him [the Imam] saying: he [Yunus] is by Allah more likely to worship Allah on the edge, what does he have to do with Abdallah b. Jundab! verily Abdallah b. Jundab is one of the humble ones [allusion to Q 22:34]."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "[1/191] رجال الكشي: حمدويه بن نصير، عن يعقوب بن يزيد، عن الحسن بن علي بن يقطين – و كان سيئ الرأي في",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "[1/191] رجال الكشي: حمدويه بن نصير،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "يعقوب بن يزيد،",
+            "path": "/people/narrators/101"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "الحسن بن علي بن يقطين –",
+            "path": "/people/narrators/261"
+          },
+          {
+            "kind": "plain",
+            "text": " و "
+          },
+          {
+            "kind": "plain",
+            "text": "كان سيئ الرأي في"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/101",
+          "/people/narrators/261"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/mujam-al-ahadith-al-mutabara:3:53:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/mujam-al-ahadith-al-mutabara/3/53/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/9/3/54/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,462 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:6:1:20",
+  "chapter": {
+    "path": "/books/al-kafi:6:1:20",
+    "titles": {
+      "ar": "باب أَنَّ الْأُمَّ لَا تَأْكُلُ مِنَ الْعَقِيقَةِ",
+      "en": "Chapter 20 – The mother should not eat from the Aqeeqa"
+    }
+  },
+  "count": 3,
+  "records": [
+    {
+      "id": "al-kafi:6:1:20:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:1:20:1",
+        "parts": [
+          6,
+          1,
+          20,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 1,
+        "chapter": 20,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:1:20",
+        "titles": {
+          "ar": "باب أَنَّ الْأُمَّ لَا تَأْكُلُ مِنَ الْعَقِيقَةِ",
+          "en": "Chapter 20 – The mother should not eat from the Aqeeqa"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " لَا تَأْكُلُ الْمَرْأَةُ مِنْ عَقِيقَةِ وَلَدِهَا وَ لَا بَأْسَ بِأَنْ تُعْطِيَهَا الْجَارَ الْمُحْتَاجَ مِنَ اللَّحْمِ ."
+        ],
+        "text": "لَا تَأْكُلُ الْمَرْأَةُ مِنْ عَقِيقَةِ وَلَدِهَا وَ لَا بَأْسَ بِأَنْ تُعْطِيَهَا الْجَارَ الْمُحْتَاجَ مِنَ اللَّحْمِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Ahmad Bin Abu Abdullah, from his father, from Abdullah Bin Al Mugheira, from Ibn Muskan, from the one who mentioned it, from ",
+            "Abu Abdullah<sup>asws</sup> having said: ‘The woman should not eat from an <span class=\"iTxt\">Aqeeqa</span> of her child, and there is no problem if she were to give to the needy neighbour, from the meat’."
+          ],
+          "text": "A number of our companions, from Ahmad Bin Abu Abdullah, from his father, from Abdullah Bin Al Mugheira, from Ibn Muskan, from the one who mentioned it, from\n\nAbu Abdullah<sup>asws</sup> having said: ‘The woman should not eat from an <span class=\"iTxt\">Aqeeqa</span> of her child, and there is no problem if she were to give to the needy neighbour, from the meat’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. A number of our people have narrated from Ahmad ibn abu ‘Abd Allah from his father from ‘ Abd Allah ibn al-Mughirah from ibn Muskan from those whom he has mentioned who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘The mother of the newborn should not eat from the meat of ‘Aqiqah but it is not harmful if she gives to the needy neighbor.’” "
+          ],
+          "text": "1. A number of our people have narrated from Ahmad ibn abu ‘Abd Allah from his father from ‘ Abd Allah ibn al-Mughirah from ibn Muskan from those whom he has mentioned who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘The mother of the newborn should not eat from the meat of ‘Aqiqah but it is not harmful if she gives to the needy neighbor.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مرسل    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (21/56)",
+          "label": "مرسل",
+          "text": "Allamah Baqir al-Majlisi: مرسل - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (21/56)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ أَحْمَدَ بْنِ أَبِي عَبْدِ اللَّهِ عَنْ أَبِيهِ عَنْ عَبْدِ اللَّهِ بْنِ الْمُغِيرَةِ عَنِ ابْنِ مُسْكَانَ عَمَّنْ ذَكَرَهُ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ أَبِي عَبْدِ اللَّهِ",
+            "path": "/people/narrators/12"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَبْدِ اللَّهِ بْنِ الْمُغِيرَةِ",
+            "path": "/people/narrators/76"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "plain",
+            "text": "ابْنِ مُسْكَانَ عَمَّنْ ذَكَرَهُ"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/12",
+          "/people/narrators/2",
+          "/people/narrators/76",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:1:20:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/1/20/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:1:20:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:1:20:2",
+        "parts": [
+          6,
+          1,
+          20,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 1,
+        "chapter": 20,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:1:20",
+        "titles": {
+          "ar": "باب أَنَّ الْأُمَّ لَا تَأْكُلُ مِنَ الْعَقِيقَةِ",
+          "en": "Chapter 20 – The mother should not eat from the Aqeeqa"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " لَا يَأْكُلُ هُوَ وَ لَا أَحَدٌ مِنْ عِيَالِهِ مِنَ الْعَقِيقَةِ قَالَ وَ لِلْقَابِلَةِ الثُّلُثُ مِنَ الْعَقِيقَةِ فَإِنْ كَانَتِ الْقَابِلَةُ أُمَّ الرَّجُلِ أَوْ فِي عِيَالِهِ فَلَيْسَ لَهَا مِنْهَا شَيْ‏ءٌ وَ تُجْعَلُ أَعْضَاءً ثُمَّ يَطْبُخُهَا وَ يَقْسِمُهَا وَ لَا يُعْطِيهَا إِلَّا لِأَهْلِ الْوَلَايَةِ وَ قَالَ يَأْكُلُ مِنَ الْعَقِيقَةِ كُلُّ أَحَدٍ إِلَّا الْأُمَّ ."
+        ],
+        "text": "لَا يَأْكُلُ هُوَ وَ لَا أَحَدٌ مِنْ عِيَالِهِ مِنَ الْعَقِيقَةِ قَالَ وَ لِلْقَابِلَةِ الثُّلُثُ مِنَ الْعَقِيقَةِ فَإِنْ كَانَتِ الْقَابِلَةُ أُمَّ الرَّجُلِ أَوْ فِي عِيَالِهِ فَلَيْسَ لَهَا مِنْهَا شَيْ‏ءٌ وَ تُجْعَلُ أَعْضَاءً ثُمَّ يَطْبُخُهَا وَ يَقْسِمُهَا وَ لَا يُعْطِيهَا إِلَّا لِأَهْلِ الْوَلَايَةِ وَ قَالَ يَأْكُلُ مِنَ الْعَقِيقَةِ كُلُّ أَحَدٍ إِلَّا الْأُمَّ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Al Husayn Bin Muhammad, from Moala Bin Muhammad, and Muhammad Bin Yahya from Ahmad Bin Muhammad, both together, from Al Washa, from Ahmad Bin A’iz, from Abu Khadeeja, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Neither him nor anyone from his family should eat from the <span class=\"iTxt\">Aqeeqa</span>’. He<sup>asws</sup> said: ‘And for the mid-wife is a third from the <span class=\"iTxt\">Aqeeqa</span>. So if the mid-wife was a mother of the man, or among his family members, so it is not for her anything from it; and she should make parts, then cook these, and distribute these, and not give it to any except for the people of <span class=\"iTxt\">Al-Wilayah</span>’. And he<sup>asws</sup> said: ‘Everyone can eat from the <span class=\"iTxt\">Aqeeqa</span> except for the mother (of the new-born)’."
+          ],
+          "text": "Al Husayn Bin Muhammad, from Moala Bin Muhammad, and Muhammad Bin Yahya from Ahmad Bin Muhammad, both together, from Al Washa, from Ahmad Bin A’iz, from Abu Khadeeja,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Neither him nor anyone from his family should eat from the <span class=\"iTxt\">Aqeeqa</span>’. He<sup>asws</sup> said: ‘And for the mid-wife is a third from the <span class=\"iTxt\">Aqeeqa</span>. So if the mid-wife was a mother of the man, or among his family members, so it is not for her anything from it; and she should make parts, then cook these, and distribute these, and not give it to any except for the people of <span class=\"iTxt\">Al-Wilayah</span>’. And he<sup>asws</sup> said: ‘Everyone can eat from the <span class=\"iTxt\">Aqeeqa</span> except for the mother (of the new-born)’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. Al-Husayn from Muhammad has narrated from Mu‘alla’ ibn Muhammad and Muhammad ibn Yahya from Ahmad ibn Muhammad all from al-Washsha’ from Ahmad ibn ‘A’idh from abu Khadijah who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘He or any of his dependents should not eat from the meat of ‘Aqiqah. One-third of the meat is for al-Qabilah (the special nurse). If the special nurse is the mother of the father of the newborn or a family member, then there is nothing for such nurse. It should be made in parts, cooked and distributed. It should be given only to those who are of the people of Walayah (people who believe in the divine authority of ‘A’immah).’ He (the Imam) said, ‘Everyone can eat from the meat of ‘Aqiqah except the mother.’” "
+          ],
+          "text": "2. Al-Husayn from Muhammad has narrated from Mu‘alla’ ibn Muhammad and Muhammad ibn Yahya from Ahmad ibn Muhammad all from al-Washsha’ from Ahmad ibn ‘A’idh from abu Khadijah who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘He or any of his dependents should not eat from the meat of ‘Aqiqah. One-third of the meat is for al-Qabilah (the special nurse). If the special nurse is the mother of the father of the newborn or a family member, then there is nothing for such nurse. It should be made in parts, cooked and distributed. It should be given only to those who are of the people of Walayah (people who believe in the divine authority of ‘A’immah).’ He (the Imam) said, ‘Everyone can eat from the meat of ‘Aqiqah except the mother.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (1/57)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (1/57)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "الْحُسَيْنُ بْنُ مُحَمَّدٍ عَنْ مُعَلَّى بْنِ مُحَمَّدٍ وَ مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ جَمِيعاً عَنِ الْوَشَّاءِ عَنْ أَحْمَدَ بْنِ عَائِذٍ عَنْ أَبِي خَدِيجَةَ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "الْحُسَيْنُ بْنُ مُحَمَّدٍ",
+            "path": "/people/narrators/20"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُعَلَّى بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/25"
+          },
+          {
+            "kind": "plain",
+            "text": " وَ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " جَمِيعاً عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْوَشَّاءِ",
+            "path": "/people/narrators/61"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ عَائِذٍ",
+            "path": "/people/narrators/215"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي خَدِيجَةَ",
+            "path": "/people/narrators/207"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/20",
+          "/people/narrators/25",
+          "/people/narrators/4",
+          "/people/narrators/5",
+          "/people/narrators/61",
+          "/people/narrators/215",
+          "/people/narrators/207",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:6:1:14:2"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:1:20:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/1/20/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:1:20:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:1:20:3",
+        "parts": [
+          6,
+          1,
+          20,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 1,
+        "chapter": 20,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:1:20",
+        "titles": {
+          "ar": "باب أَنَّ الْأُمَّ لَا تَأْكُلُ مِنَ الْعَقِيقَةِ",
+          "en": "Chapter 20 – The mother should not eat from the Aqeeqa"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " الْعَقِيقَةِ قَالَ لَا تَطْعَمُ الْأُمُّ مِنْهَا شَيْئاً ."
+        ],
+        "text": "الْعَقِيقَةِ قَالَ لَا تَطْعَمُ الْأُمُّ مِنْهَا شَيْئاً ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Ahmad Bin Muhammad Bin Khalid, from his father, from Zakariyya Bin Adam, from Al Kahily, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> regarding the <span class=\"iTxt\">Aqeeqa</span> having said: ‘The mother (of the new-born) should not eat anything from it’."
+          ],
+          "text": "A number of our companions, from Ahmad Bin Muhammad Bin Khalid, from his father, from Zakariyya Bin Adam, from Al Kahily,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> regarding the <span class=\"iTxt\">Aqeeqa</span> having said: ‘The mother (of the new-born) should not eat anything from it’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "3. A number of our people have narrated from Ahmad ibn Muhammad from ibn Khalid from his father from Zakariya ibn Adam from al-Kahiliy who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘Mother of the newborn must not be fed anything from the meat of ‘Aqiqah.’” "
+          ],
+          "text": "3. A number of our people have narrated from Ahmad ibn Muhammad from ibn Khalid from his father from Zakariya ibn Adam from al-Kahiliy who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘Mother of the newborn must not be fed anything from the meat of ‘Aqiqah.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> حسن   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (21/58)",
+          "label": "حسن",
+          "text": "Allamah Baqir al-Majlisi: حسن - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (21/58)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ خَالِدٍ عَنْ أَبِيهِ عَنْ زَكَرِيَّا بْنِ آدَمَ عَنِ الْكَاهِلِيِّ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) فِي",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدِ بْنِ خَالِدٍ",
+            "path": "/people/narrators/12"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "زَكَرِيَّا بْنِ آدَمَ",
+            "path": "/people/narrators/585"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْكَاهِلِيِّ",
+            "path": "/people/narrators/382"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " فِي"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/12",
+          "/people/narrators/2",
+          "/people/narrators/585",
+          "/people/narrators/382",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:6:1:17:11",
+          "/books/al-kafi:6:1:19:6"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:1:20:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/1/20/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": 4610,
+  "type": "narrator",
+  "path": "/people/narrators/4610",
+  "titles": {
+    "ar": "يُوسُفَ بْنِ أَبِي يَعْقُوبَ بَيَّاعِ الْأَرُزِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:191:10"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-5-88-42-4610-72-9": {
+      "narrator_ids": [
+        11,
+        5,
+        88,
+        42,
+        4610,
+        72,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:191:10"
+      ]
+    },
+    "42-4610": {
+      "narrator_ids": [
+        42,
+        4610
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:191:10"
+      ]
+    },
+    "4610-72": {
+      "narrator_ids": [
+        4610,
+        72
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:191:10"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4610",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4610.json"
+  }
+}

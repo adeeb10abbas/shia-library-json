@@ -1,0 +1,47 @@
+{
+  "id": 2736,
+  "type": "narrator",
+  "path": "/people/narrators/2736",
+  "titles": {
+    "ar": "الْعُمْرَةَ لِلَّهِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:29:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "20-25-63-52-878-669-2256-2736": {
+      "narrator_ids": [
+        20,
+        25,
+        63,
+        52,
+        878,
+        669,
+        2256,
+        2736
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:29:2"
+      ]
+    },
+    "2256-2736": {
+      "narrator_ids": [
+        2256,
+        2736
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:29:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2736",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2736.json"
+  }
+}

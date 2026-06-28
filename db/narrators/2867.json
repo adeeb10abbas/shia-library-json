@@ -1,0 +1,46 @@
+{
+  "id": 2867,
+  "type": "narrator",
+  "path": "/people/narrators/2867",
+  "titles": {
+    "ar": "بُرَيْدٍ الْعِجْلِيِّ الشَّكُّ مِنْ مُحَمَّدٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:3:45:7"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3-2-2479-240-498-3662-2867": {
+      "narrator_ids": [
+        3,
+        2,
+        2479,
+        240,
+        498,
+        3662,
+        2867
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:45:7"
+      ]
+    },
+    "3662-2867": {
+      "narrator_ids": [
+        3662,
+        2867
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:45:7"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2867",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2867.json"
+  }
+}

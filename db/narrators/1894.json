@@ -1,0 +1,55 @@
+{
+  "id": 1894,
+  "type": "narrator",
+  "path": "/people/narrators/1894",
+  "titles": {
+    "ar": "ابْنِ عَمٍّ لِعُمَرَ بْنِ يَزِيدَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:7:5:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "101-1894": {
+      "narrator_ids": [
+        101,
+        1894
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:5:3"
+      ]
+    },
+    "1894-2939": {
+      "narrator_ids": [
+        1894,
+        2939
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:5:3"
+      ]
+    },
+    "6-12-101-1894-2939-2255-669": {
+      "narrator_ids": [
+        6,
+        12,
+        101,
+        1894,
+        2939,
+        2255,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:5:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1894",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1894.json"
+  }
+}

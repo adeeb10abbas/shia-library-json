@@ -1,0 +1,79 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "fadail-al-shia",
+  "chapterPath": "/books/fadail-al-shia:28",
+  "chapter": {
+    "path": "/books/fadail-al-shia:28",
+    "titles": {
+      "en": "Love for Ali (as) consumes evil like fire consumes wood"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "fadail-al-shia:28:1",
+      "type": "hadith",
+      "book": {
+        "slug": "fadail-al-shia",
+        "titles": {
+          "ar": "فضائل الشيعة",
+          "en": "Fada'il al-Shi'a"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/fadail-al-shia:28:1",
+        "parts": [
+          28,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 28,
+        "book": 1
+      },
+      "chapter": {
+        "path": "/books/fadail-al-shia:28",
+        "titles": {
+          "en": "Love for Ali (as) consumes evil like fire consumes wood"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدّثنا حمّاد بن يزيد، عن أيّوب عن عطاء، عن ابن عبّاس، قال: قال رسول الله صلّى الله عليه وآله: حبّ عليّ بن أبي طالب يأكل السيّئات كما تأكل النار الحطب."
+        ],
+        "text": ": حدّثنا حمّاد بن يزيد، عن أيّوب عن عطاء، عن ابن عبّاس، قال: قال رسول الله صلّى الله عليه وآله: حبّ عليّ بن أبي طالب يأكل السيّئات كما تأكل النار الحطب."
+      },
+      "translations": {
+        "en.badr-shahin": {
+          "segments": [
+            "Abdullah bin Mohammed bin Abdul-Wahab narrated to us from Hemmad bin Yazid from Ayyoub from Attaa from Ibn Abbas that the Prophet (s) said: The love for Ali bin Abi Talib consumes the evil deeds in the same way as fire consumes wood."
+          ],
+          "text": "Abdullah bin Mohammed bin Abdul-Wahab narrated to us from Hemmad bin Yazid from Ayyoub from Attaa from Ibn Abbas that the Prophet (s) said: The love for Ali bin Abi Talib consumes the evil deeds in the same way as fire consumes wood."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "حدّثنا عبد الله بن محمّد بن عبد الوهاب، قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "حدّثنا عبد الله بن محمّد بن عبد الوهاب، قال"
+          }
+        ],
+        "narratorPaths": []
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/fadail-al-shia:28:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/fadail-al-shia/28/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/25/1/10/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

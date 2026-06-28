@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-amali-mufid",
+  "chapterPath": "/books/al-amali-mufid:25:2",
+  "chapter": {
+    "path": "/books/al-amali-mufid:25:2",
+    "titles": {
+      "en": "Muhammad (SAW) . . . the chosen one"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-amali-mufid:25:2:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-amali-mufid",
+        "titles": {
+          "ar": "الأمالي (المفيد)",
+          "en": "Al-Amali (al-Mufid)"
+        },
+        "author": {
+          "ar": "الشيخ المفيد",
+          "en": "Shaykh al-Mufid"
+        }
+      },
+      "path": {
+        "source": "/books/al-amali-mufid:25:2:1",
+        "parts": [
+          25,
+          2,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 25,
+        "book": 2,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-amali-mufid:25:2",
+        "titles": {
+          "en": "Muhammad (SAW) . . . the chosen one"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": أخبرني أبو الحسن علي بن خالد المراغي قال: حدثنا عبد الكريم ابن محمد البجلي قال: حدثنا عثمان بن أبي شيبة قال: حدثنا محمد بن مصعب القرقساني  قال: حدثنا الأوزاعي قال: حدثنا شداد أبو عمار، عن واثلة بن الأسقع قال: قال رسول الله صلى الله عليه وآله: إن الله اصطفى من ولد إبراهيم إسماعيل، واصطفى من إسماعيل كنانة، واصطفى من كنانة قريشا، واصطفى من قريش بني هاشم، واصطفاني من بني هاشم."
+        ],
+        "text": ": أخبرني أبو الحسن علي بن خالد المراغي قال: حدثنا عبد الكريم ابن محمد البجلي قال: حدثنا عثمان بن أبي شيبة قال: حدثنا محمد بن مصعب القرقساني  قال: حدثنا الأوزاعي قال: حدثنا شداد أبو عمار، عن واثلة بن الأسقع قال: قال رسول الله صلى الله عليه وآله: إن الله اصطفى من ولد إبراهيم إسماعيل، واصطفى من إسماعيل كنانة، واصطفى من كنانة قريشا، واصطفى من قريش بني هاشم، واصطفاني من بني هاشم."
+      },
+      "translations": {
+        "en.mulla-asgharali-m-m-jaffer": {
+          "segments": [
+            "2. He said: Abul Hasan ‘Ali ibn Khalid al-Maraghi reported to me from Abdul Karim ibn Muhammad al-Bijili, who reported from Uthman ibn Abi Shaybah, who reported from Muhammad ibn Mas’ab al-Qurqusni, who reported from al-Awzai, who reported from Shaddad ibn Abu Ammar, from Wathila ibn al-Asqa, who said: The Prophet, peace be upon him and his progeny, said: \"Allah chose Ismail from the children of Ibrahim, and chose Kananah from the children of Ismail, and chose Quraish from the children of Kananah, and chose Banu Hashim from Quraish and then chose me from Banu Hashim.\""
+          ],
+          "text": "2. He said: Abul Hasan ‘Ali ibn Khalid al-Maraghi reported to me from Abdul Karim ibn Muhammad al-Bijili, who reported from Uthman ibn Abi Shaybah, who reported from Muhammad ibn Mas’ab al-Qurqusni, who reported from al-Awzai, who reported from Shaddad ibn Abu Ammar, from Wathila ibn al-Asqa, who said: The Prophet, peace be upon him and his progeny, said: \"Allah chose Ismail from the children of Ibrahim, and chose Kananah from the children of Ismail, and chose Quraish from the children of Kananah, and chose Banu Hashim from Quraish and then chose me from Banu Hashim.\""
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "2 - قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "2 - "
+          },
+          {
+            "kind": "narrator",
+            "text": "قال",
+            "path": "/people/narrators/652"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/652"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-amali-mufid:25:2:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-amali-mufid/25/2/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/13/25/2/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

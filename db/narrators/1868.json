@@ -1,0 +1,48 @@
+{
+  "id": 1868,
+  "type": "narrator",
+  "path": "/people/narrators/1868",
+  "titles": {
+    "ar": "ابْنِ الْحُرِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:7:23:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "4-5-99-21-65-681-3589-804-1868": {
+      "narrator_ids": [
+        4,
+        5,
+        99,
+        21,
+        65,
+        681,
+        3589,
+        804,
+        1868
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:23:5"
+      ]
+    },
+    "804-1868": {
+      "narrator_ids": [
+        804,
+        1868
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:23:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1868",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1868.json"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": 2065,
+  "type": "narrator",
+  "path": "/people/narrators/2065",
+  "titles": {
+    "ar": "أَبِي جَمِيلٍ الْبَصْرِيِّ"
+  },
+  "versePaths": [
+    "/books/al-istibsar:4:36:19",
+    "/books/al-kafi:3:4:61:15",
+    "/books/tahdhib-al-ahkam:9:2:266"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "36-2065": {
+      "narrator_ids": [
+        36,
+        2065
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:61:15"
+      ]
+    },
+    "4-36-2065": {
+      "narrator_ids": [
+        4,
+        36,
+        2065
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:61:15"
+      ]
+    },
+    "4134-243-569-2065": {
+      "narrator_ids": [
+        4134,
+        243,
+        569,
+        2065
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:4:36:19"
+      ]
+    },
+    "4134-617-569-2065": {
+      "narrator_ids": [
+        4134,
+        617,
+        569,
+        2065
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:2:266"
+      ]
+    },
+    "569-2065": {
+      "narrator_ids": [
+        569,
+        2065
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:4:36:19",
+        "/books/tahdhib-al-ahkam:9:2:266"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2065",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2065.json"
+  }
+}

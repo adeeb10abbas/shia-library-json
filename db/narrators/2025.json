@@ -1,0 +1,117 @@
+{
+  "id": 2025,
+  "type": "narrator",
+  "path": "/people/narrators/2025",
+  "titles": {
+    "ar": "أَبِي أَيُّوبَ إِبْرَاهِيمَ بْنِ عُثْمَانَ الْخَزَّازِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:2:48:5",
+    "/books/kamil-al-ziyarat:2:56:4",
+    "/books/man-la-yahduruhu-al-faqih:2:3:64:2",
+    "/books/tahdhib-al-ahkam:4:40:16"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "11-2-53-2025-16": {
+      "narrator_ids": [
+        11,
+        2,
+        53,
+        2025,
+        16
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:56:4"
+      ]
+    },
+    "11-5-15-2025-16": {
+      "narrator_ids": [
+        11,
+        5,
+        15,
+        2025,
+        16
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:48:5"
+      ]
+    },
+    "146-2025": {
+      "narrator_ids": [
+        146,
+        2025
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:4:40:16"
+      ]
+    },
+    "15-2025": {
+      "narrator_ids": [
+        15,
+        2025
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:48:5"
+      ]
+    },
+    "2025-16": {
+      "narrator_ids": [
+        2025,
+        16
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:48:5",
+        "/books/kamil-al-ziyarat:2:56:4"
+      ]
+    },
+    "2025-669": {
+      "narrator_ids": [
+        2025,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:4:40:16"
+      ]
+    },
+    "53-2025": {
+      "narrator_ids": [
+        53,
+        2025
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:56:4"
+      ]
+    },
+    "695-626-146-2025-669": {
+      "narrator_ids": [
+        695,
+        626,
+        146,
+        2025,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:4:40:16"
+      ]
+    },
+    "7-2025": {
+      "narrator_ids": [
+        7,
+        2025
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:2:3:64:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2025",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2025.json"
+  }
+}

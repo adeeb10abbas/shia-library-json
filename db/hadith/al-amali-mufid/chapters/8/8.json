@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-amali-mufid",
+  "chapterPath": "/books/al-amali-mufid:8:8",
+  "chapter": {
+    "path": "/books/al-amali-mufid:8:8",
+    "titles": {
+      "en": "The first to enter Paradise"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-amali-mufid:8:8:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-amali-mufid",
+        "titles": {
+          "ar": "الأمالي (المفيد)",
+          "en": "Al-Amali (al-Mufid)"
+        },
+        "author": {
+          "ar": "الشيخ المفيد",
+          "en": "Shaykh al-Mufid"
+        }
+      },
+      "path": {
+        "source": "/books/al-amali-mufid:8:8:1",
+        "parts": [
+          8,
+          8,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 8,
+        "book": 8,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-amali-mufid:8:8",
+        "titles": {
+          "en": "The first to enter Paradise"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": أخبرني أبو القاسم جعفر بن محمد رحمه الله عن أبيه، عن سعد بن عبد الله، عن أحمد بن محمد بن عيسى، عن سعيد بن جناح، عن عبد الله بن محمد ، عن جابر بن يزيد، عن أبي جعفر محمد بن علي الباقر عليهما السلام عن آبائه عليهم السلام عن رسول الله صلى الله عليه وآله: الجنة محرمة على الأنبياء حتى أدخلها، و محرمة على الأمم كلها حتى تدخلها شيعتنا أهل البيت."
+        ],
+        "text": ": أخبرني أبو القاسم جعفر بن محمد رحمه الله عن أبيه، عن سعد بن عبد الله، عن أحمد بن محمد بن عيسى، عن سعيد بن جناح، عن عبد الله بن محمد ، عن جابر بن يزيد، عن أبي جعفر محمد بن علي الباقر عليهما السلام عن آبائه عليهم السلام عن رسول الله صلى الله عليه وآله: الجنة محرمة على الأنبياء حتى أدخلها، و محرمة على الأمم كلها حتى تدخلها شيعتنا أهل البيت."
+      },
+      "translations": {
+        "en.mulla-asgharali-m-m-jaffer": {
+          "segments": [
+            "8. He said: Abul Qasim Ja’far ibn Muhammad, may Allah have mercy on him, reported to me from his father, from Sa’d ibn Abdillah from Ahmad ibn Muhammad ibn Isa, from Saeed ibn Janah, from Abdullah ibn Muhammad, from Jabir ibn Yazid, who reported from Abu Ja’far Muhammad ibn ‘Ali al-Baqir through his forefathers that: The Prophet, peace be upon him and his progeny said: \"Paradise remains forbidden for the Prophets till I have entered in it, and remains forbidden for all the peoples till the Shi’ahs of us, Ahlul Bayt have entered.\""
+          ],
+          "text": "8. He said: Abul Qasim Ja’far ibn Muhammad, may Allah have mercy on him, reported to me from his father, from Sa’d ibn Abdillah from Ahmad ibn Muhammad ibn Isa, from Saeed ibn Janah, from Abdullah ibn Muhammad, from Jabir ibn Yazid, who reported from Abu Ja’far Muhammad ibn ‘Ali al-Baqir through his forefathers that: The Prophet, peace be upon him and his progeny said: \"Paradise remains forbidden for the Prophets till I have entered in it, and remains forbidden for all the peoples till the Shi’ahs of us, Ahlul Bayt have entered.\""
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "8 - قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "8 - "
+          },
+          {
+            "kind": "narrator",
+            "text": "قال",
+            "path": "/people/narrators/652"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/652"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-amali-mufid:8:8:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-amali-mufid/8/8/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/13/8/8/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

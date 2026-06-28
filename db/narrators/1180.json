@@ -1,0 +1,121 @@
+{
+  "id": 1180,
+  "type": "narrator",
+  "path": "/people/narrators/1180",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ الصَّلْتِ",
+    "en": "Muhammad ibn al-Salt"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:99:22",
+    "/books/al-kafi:2:4:3:2",
+    "/books/al-kafi:7:5:16:2",
+    "/books/man-la-yahduruhu-al-faqih:3:1:23:3",
+    "/books/tahdhib-al-ahkam:6:90:30"
+  ],
+  "verseCount": 5,
+  "relations": {},
+  "subchains": {
+    "1045-1180": {
+      "narrator_ids": [
+        1045,
+        1180
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:99:22"
+      ]
+    },
+    "11-1045-1180-71-312": {
+      "narrator_ids": [
+        11,
+        1045,
+        1180,
+        71,
+        312
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:99:22"
+      ]
+    },
+    "11-185-1180-46-1997": {
+      "narrator_ids": [
+        11,
+        185,
+        1180,
+        46,
+        1997
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:3:2"
+      ]
+    },
+    "11-29-68-1180": {
+      "narrator_ids": [
+        11,
+        29,
+        68,
+        1180
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:90:30"
+      ]
+    },
+    "1180-46": {
+      "narrator_ids": [
+        1180,
+        46
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:3:2"
+      ]
+    },
+    "1180-71": {
+      "narrator_ids": [
+        1180,
+        71
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:99:22"
+      ]
+    },
+    "185-1180": {
+      "narrator_ids": [
+        185,
+        1180
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:3:2"
+      ]
+    },
+    "4-29-68-1180": {
+      "narrator_ids": [
+        4,
+        29,
+        68,
+        1180
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:5:16:2"
+      ]
+    },
+    "68-1180": {
+      "narrator_ids": [
+        68,
+        1180
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:5:16:2",
+        "/books/man-la-yahduruhu-al-faqih:3:1:23:3",
+        "/books/tahdhib-al-ahkam:6:90:30"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1180",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1180.json"
+  }
+}

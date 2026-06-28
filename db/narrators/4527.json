@@ -1,0 +1,59 @@
+{
+  "id": 4527,
+  "type": "narrator",
+  "path": "/people/narrators/4527",
+  "titles": {
+    "ar": "وَلِيدٍ بَيَّاعِ الْأَسْفَاطِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:3:59:2",
+    "/books/tahdhib-al-ahkam:7:31:28"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "19-24-17-33-43-51-4527": {
+      "narrator_ids": [
+        19,
+        24,
+        17,
+        33,
+        43,
+        51,
+        4527
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:59:2"
+      ]
+    },
+    "24-43-51-4527": {
+      "narrator_ids": [
+        24,
+        43,
+        51,
+        4527
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:31:28"
+      ]
+    },
+    "51-4527": {
+      "narrator_ids": [
+        51,
+        4527
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:59:2",
+        "/books/tahdhib-al-ahkam:7:31:28"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4527",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4527.json"
+  }
+}

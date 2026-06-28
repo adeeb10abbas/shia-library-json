@@ -1,0 +1,43 @@
+{
+  "id": 3252,
+  "type": "narrator",
+  "path": "/people/narrators/3252",
+  "titles": {
+    "ar": "رَوَاهُ مُحَمَّدُ بْنُ يَحْيَى"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:3:16:9"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3252-13": {
+      "narrator_ids": [
+        3252,
+        13
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:16:9"
+      ]
+    },
+    "3252-13-340-3021": {
+      "narrator_ids": [
+        3252,
+        13,
+        340,
+        3021
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:16:9"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3252",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3252.json"
+  }
+}

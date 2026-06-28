@@ -1,0 +1,66 @@
+{
+  "id": 4071,
+  "type": "narrator",
+  "path": "/people/narrators/4071",
+  "titles": {
+    "ar": "كِرْدِينٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:3:61:23",
+    "/books/man-la-yahduruhu-al-faqih:2:3:10:4"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "4-13-10-590-4071-60-669-9": {
+      "narrator_ids": [
+        4,
+        13,
+        10,
+        590,
+        4071,
+        60,
+        669,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:61:23"
+      ]
+    },
+    "4071-60": {
+      "narrator_ids": [
+        4071,
+        60
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:61:23"
+      ]
+    },
+    "4071-669": {
+      "narrator_ids": [
+        4071,
+        669
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:2:3:10:4"
+      ]
+    },
+    "590-4071": {
+      "narrator_ids": [
+        590,
+        4071
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:61:23"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4071",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4071.json"
+  }
+}

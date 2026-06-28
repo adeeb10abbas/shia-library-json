@@ -1,0 +1,60 @@
+{
+  "id": 4420,
+  "type": "narrator",
+  "path": "/people/narrators/4420",
+  "titles": {
+    "ar": "مَنْصُورِ بْنِ حَازِمٍ قَالُوا كُنَّا نَقِيسُ الشَّمْسَ بِالْمَدِينَةِ بِالذِّرَاعِ"
+  },
+  "versePaths": [
+    "/books/al-istibsar:1:125:25",
+    "/books/al-kafi:3:4:5:4"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "154-176-81-69-217-51-300-389-4420": {
+      "narrator_ids": [
+        154,
+        176,
+        81,
+        69,
+        217,
+        51,
+        300,
+        389,
+        4420
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:5:4"
+      ]
+    },
+    "2496-389-4420": {
+      "narrator_ids": [
+        2496,
+        389,
+        4420
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:125:25"
+      ]
+    },
+    "389-4420": {
+      "narrator_ids": [
+        389,
+        4420
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:125:25",
+        "/books/al-kafi:3:4:5:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4420",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4420.json"
+  }
+}

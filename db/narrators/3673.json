@@ -1,0 +1,55 @@
+{
+  "id": 3673,
+  "type": "narrator",
+  "path": "/people/narrators/3673",
+  "titles": {
+    "ar": "عُثْمَانَ بْنِ رُشَيْدٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:5:2:23"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "138-3673": {
+      "narrator_ids": [
+        138,
+        3673
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:5:2:23"
+      ]
+    },
+    "35-298-2-138-3673-604-9": {
+      "narrator_ids": [
+        35,
+        298,
+        2,
+        138,
+        3673,
+        604,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:5:2:23"
+      ]
+    },
+    "3673-604": {
+      "narrator_ids": [
+        3673,
+        604
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:5:2:23"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3673",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3673.json"
+  }
+}

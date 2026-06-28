@@ -1,0 +1,55 @@
+{
+  "id": 3318,
+  "type": "narrator",
+  "path": "/people/narrators/3318",
+  "titles": {
+    "ar": "سَعْدِ بْنِ هِشَامِ بْنِ الْحَكَمِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:6:10:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3-2-17-33-7-3318-669": {
+      "narrator_ids": [
+        3,
+        2,
+        17,
+        33,
+        7,
+        3318,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:6:10:1"
+      ]
+    },
+    "3318-669": {
+      "narrator_ids": [
+        3318,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:6:10:1"
+      ]
+    },
+    "7-3318": {
+      "narrator_ids": [
+        7,
+        3318
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:6:10:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3318",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3318.json"
+  }
+}

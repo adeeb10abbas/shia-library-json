@@ -1,0 +1,68 @@
+{
+  "id": 2219,
+  "type": "narrator",
+  "path": "/people/narrators/2219",
+  "titles": {
+    "ar": "أَبِي مُوسَى"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:1:12:6",
+    "/books/man-la-yahduruhu-al-faqih:3:2:12:7"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "113-2219": {
+      "narrator_ids": [
+        113,
+        2219
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:12:6"
+      ]
+    },
+    "2219-2001": {
+      "narrator_ids": [
+        2219,
+        2001
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:12:6"
+      ]
+    },
+    "4-29-4309-3546-113-2219-2001-1489-2094-63": {
+      "narrator_ids": [
+        4,
+        29,
+        4309,
+        3546,
+        113,
+        2219,
+        2001,
+        1489,
+        2094,
+        63
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:12:6"
+      ]
+    },
+    "769-2219": {
+      "narrator_ids": [
+        769,
+        2219
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:3:2:12:7"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2219",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2219.json"
+  }
+}

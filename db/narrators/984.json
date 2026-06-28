@@ -1,0 +1,91 @@
+{
+  "id": 984,
+  "type": "narrator",
+  "path": "/people/narrators/984",
+  "titles": {
+    "ar": "أَبِي الْحَسَنِ الْمَوْصِلِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:3:6:5",
+    "/books/al-kafi:1:3:6:8",
+    "/books/al-kafi:1:3:9:6"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "131-984": {
+      "narrator_ids": [
+        131,
+        984
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:6:8"
+      ]
+    },
+    "35-8-247-131-984-669": {
+      "narrator_ids": [
+        35,
+        8,
+        247,
+        131,
+        984,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:6:8"
+      ]
+    },
+    "39-984": {
+      "narrator_ids": [
+        39,
+        984
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:6:5",
+        "/books/al-kafi:1:3:9:6"
+      ]
+    },
+    "6-12-39-984-669": {
+      "narrator_ids": [
+        6,
+        12,
+        39,
+        984,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:9:6"
+      ]
+    },
+    "77-39-984-669": {
+      "narrator_ids": [
+        77,
+        39,
+        984,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:6:5"
+      ]
+    },
+    "984-669": {
+      "narrator_ids": [
+        984,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:6:5",
+        "/books/al-kafi:1:3:6:8",
+        "/books/al-kafi:1:3:9:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/984",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/984.json"
+  }
+}

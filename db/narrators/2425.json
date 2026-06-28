@@ -1,0 +1,43 @@
+{
+  "id": 2425,
+  "type": "narrator",
+  "path": "/people/narrators/2425",
+  "titles": {
+    "ar": "إِسْمَاعِيلَ الْخَثْعَمِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:212:26"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3-2-7-2425": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        2425
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:212:26"
+      ]
+    },
+    "7-2425": {
+      "narrator_ids": [
+        7,
+        2425
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:212:26"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2425",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2425.json"
+  }
+}

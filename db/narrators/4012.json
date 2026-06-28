@@ -1,0 +1,42 @@
+{
+  "id": 4012,
+  "type": "narrator",
+  "path": "/people/narrators/4012",
+  "titles": {
+    "ar": "فُضَيْلِ بْنِ مُيَسِّرٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:3:82:10"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "153-63-4012": {
+      "narrator_ids": [
+        153,
+        63,
+        4012
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:82:10"
+      ]
+    },
+    "63-4012": {
+      "narrator_ids": [
+        63,
+        4012
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:82:10"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4012",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4012.json"
+  }
+}

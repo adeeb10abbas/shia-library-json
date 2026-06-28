@@ -1,0 +1,55 @@
+{
+  "id": 3637,
+  "type": "narrator",
+  "path": "/people/narrators/3637",
+  "titles": {
+    "ar": "عَبْدِ الْوَهَّابِ بْنِ بِشْرٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:3:23:11"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "234-3637": {
+      "narrator_ids": [
+        234,
+        3637
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:23:11"
+      ]
+    },
+    "36-234-3637-1706-1112-18-9": {
+      "narrator_ids": [
+        36,
+        234,
+        3637,
+        1706,
+        1112,
+        18,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:23:11"
+      ]
+    },
+    "3637-1706": {
+      "narrator_ids": [
+        3637,
+        1706
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:23:11"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3637",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3637.json"
+  }
+}

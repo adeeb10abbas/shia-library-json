@@ -1,0 +1,54 @@
+{
+  "id": 4615,
+  "type": "narrator",
+  "path": "/people/narrators/4615",
+  "titles": {
+    "ar": "يُوسُفَ بْنِ عَبْدِ السَّلَامِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:4:29:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "4615-3393": {
+      "narrator_ids": [
+        4615,
+        3393
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:29:2"
+      ]
+    },
+    "6-12-67-63-4615-3393": {
+      "narrator_ids": [
+        6,
+        12,
+        67,
+        63,
+        4615,
+        3393
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:29:2"
+      ]
+    },
+    "63-4615": {
+      "narrator_ids": [
+        63,
+        4615
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:29:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4615",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4615.json"
+  }
+}

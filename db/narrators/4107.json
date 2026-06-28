@@ -1,0 +1,42 @@
+{
+  "id": 4107,
+  "type": "narrator",
+  "path": "/people/narrators/4107",
+  "titles": {
+    "ar": "مُحَمَّدٍ الْكُنَاسِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:39:8"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "312-4107": {
+      "narrator_ids": [
+        312,
+        4107
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:39:8"
+      ]
+    },
+    "50-312-4107": {
+      "narrator_ids": [
+        50,
+        312,
+        4107
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:39:8"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4107",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4107.json"
+  }
+}

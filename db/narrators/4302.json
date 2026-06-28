@@ -1,0 +1,32 @@
+{
+  "id": 4302,
+  "type": "narrator",
+  "path": "/people/narrators/4302",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ عِيسَى الْقَطَّانِ الْمَدَائِنِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:4:14:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1913-4302": {
+      "narrator_ids": [
+        1913,
+        4302
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:14:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4302",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4302.json"
+  }
+}

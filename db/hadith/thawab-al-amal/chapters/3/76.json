@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "thawab-al-amal",
+  "chapterPath": "/books/thawab-al-amal:3:76",
+  "chapter": {
+    "path": "/books/thawab-al-amal:3:76",
+    "titles": {
+      "en": "Punishment of clashing with an oppressive ruler without any cause"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "thawab-al-amal:3:76:1",
+      "type": "hadith",
+      "book": {
+        "slug": "thawab-al-amal",
+        "titles": {
+          "ar": "ثواب الأعمال وعقاب الأعمال",
+          "en": "Thawab al-A'mal wa 'Iqab al-A'mal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/thawab-al-amal:3:76:1",
+        "parts": [
+          3,
+          76,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 76,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/thawab-al-amal:3:76",
+        "titles": {
+          "en": "Punishment of clashing with an oppressive ruler without any cause"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ أَبُو عَبْدِ اللَّهِ ع یَا مُفَضَّلُ إِنَّهُ مَنْ تَعَرَّضَ لِسُلْطَانٍ جَائِرٍ فَأَصَابَتْهُ بَلِیَّهٌ لَمْ یُؤْجَرْ عَلَیْهَا وَ لَمْ یُرْزَقِ التَّصَبُّرَ عَلَیْهَا."
+        ],
+        "text": "قَالَ أَبُو عَبْدِ اللَّهِ ع یَا مُفَضَّلُ إِنَّهُ مَنْ تَعَرَّضَ لِسُلْطَانٍ جَائِرٍ فَأَصَابَتْهُ بَلِیَّهٌ لَمْ یُؤْجَرْ عَلَیْهَا وَ لَمْ یُرْزَقِ التَّصَبُّرَ عَلَیْهَا."
+      },
+      "translations": {
+        "en.sayed-athar-husain-rizvi-&-sayed-maqsood-athar": {
+          "segments": [
+            "1.  Imam  Ja’far  Sadiq  (a.s.)  said,  “O  Mufaddal!  One  who clashes with an oppressive ruler without any cause, will not be saved in his bad times and even his patience will not serve him as his sustenance.”"
+          ],
+          "text": "1.  Imam  Ja’far  Sadiq  (a.s.)  said,  “O  Mufaddal!  One  who clashes with an oppressive ruler without any cause, will not be saved in his bad times and even his patience will not serve him as his sustenance.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "حَدَّثَنِی مُحَمَّدُ بْنُ عَلِیٍّ مَاجِیلَوَیْهِ عَنْ عَمِّهِ عَنْ مُحَمَّدِ بْنِ عَلِیٍّ الْکُوفِیِّ عَنْ مُحَمَّدِ بْنِ سِنَانٍ عَنِ الْمُفَضَّلِ بْنِ عُمَرَ قَالَ",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "حَدَّثَنِی مُحَمَّدُ بْنُ عَلِیٍّ مَاجِیلَوَیْهِ"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَمِّهِ",
+            "path": "/people/narrators/715"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "plain",
+            "text": "مُحَمَّدِ بْنِ عَلِیٍّ الْکُوفِیِّ"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ سِنَانٍ",
+            "path": "/people/narrators/42"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْمُفَضَّلِ بْنِ عُمَرَ",
+            "path": "/people/narrators/221"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/715",
+          "/people/narrators/42",
+          "/people/narrators/221"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/thawab-al-amal:3:76:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/thawab-al-amal/3/76/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/23/3/76/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "id": 1473,
+  "type": "narrator",
+  "path": "/people/narrators/1473",
+  "titles": {
+    "ar": "رُومِيِّ بْنِ زُرَارَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:66:4",
+    "/books/al-kafi:5:3:86:9",
+    "/books/man-la-yahduruhu-al-faqih:3:3:43:1",
+    "/books/tahdhib-al-ahkam:7:30:11"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "11-259-316-1473-103": {
+      "narrator_ids": [
+        11,
+        259,
+        316,
+        1473,
+        103
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:30:11"
+      ]
+    },
+    "1473-103": {
+      "narrator_ids": [
+        1473,
+        103
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:3:3:43:1",
+        "/books/tahdhib-al-ahkam:7:30:11"
+      ]
+    },
+    "1473-2": {
+      "narrator_ids": [
+        1473,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:66:4"
+      ]
+    },
+    "2209-1473": {
+      "narrator_ids": [
+        2209,
+        1473
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:66:4"
+      ]
+    },
+    "316-1473": {
+      "narrator_ids": [
+        316,
+        1473
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:86:9",
+        "/books/tahdhib-al-ahkam:7:30:11"
+      ]
+    },
+    "404-1473": {
+      "narrator_ids": [
+        404,
+        1473
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:3:3:43:1"
+      ]
+    },
+    "404-1473-103": {
+      "narrator_ids": [
+        404,
+        1473,
+        103
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:3:3:43:1"
+      ]
+    },
+    "6-12-2-316-1473": {
+      "narrator_ids": [
+        6,
+        12,
+        2,
+        316,
+        1473
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:86:9"
+      ]
+    },
+    "6-12-500-712-4548-2209-1473-2-9": {
+      "narrator_ids": [
+        6,
+        12,
+        500,
+        712,
+        4548,
+        2209,
+        1473,
+        2,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:66:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1473",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1473.json"
+  }
+}

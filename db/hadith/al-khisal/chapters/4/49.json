@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:4:49",
+  "chapter": {
+    "path": "/books/al-khisal:4:49",
+    "titles": {
+      "en": "The Intellect Is Divided into Three Parts"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:4:49:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:4:49:1",
+        "parts": [
+          4,
+          49,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 49,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:4:49",
+        "titles": {
+          "en": "The Intellect Is Divided into Three Parts"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا سعد بن عبد الله، عن أحمد بن أبي عبد الله، عن أبيه محمد بن خالد باسناده يرفعه قال: قال رسول الله صلى الله عليه وآله: قسم العقل على ثلاثة أجزاء، فمن كانت فيه كمل عقله، ومن لم تكن فيه فلا عقل له: حسن المعرفة بالله عز وجل، وحسن الطاعة له، وحسن الصبر على أمره"
+        ],
+        "text": ": حدثنا سعد بن عبد الله، عن أحمد بن أبي عبد الله، عن أبيه محمد بن خالد باسناده يرفعه قال: قال رسول الله صلى الله عليه وآله: قسم العقل على ثلاثة أجزاء، فمن كانت فيه كمل عقله، ومن لم تكن فيه فلا عقل له: حسن المعرفة بالله عز وجل، وحسن الطاعة له، وحسن الصبر على أمره"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "3-58 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Sa’ed ibn Abdullah quoted Ahmad ibn Aba Abdullah, on the authority of his father Muhammad ibn Khalid who linked it up through a chain of narrators to God’s Prophet (MGB) who said, “The intellect is divided into three parts. Whoever possesses all parts has perfected his intellect. Whoever doesn’t possess all parts has no intellect at all. These parts of intellect are having a good recognition of the Honorable the Exalted God, good obedience to God, and good recognition of His Orders .”"
+          ],
+          "text": "3-58 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Sa’ed ibn Abdullah quoted Ahmad ibn Aba Abdullah, on the authority of his father Muhammad ibn Khalid who linked it up through a chain of narrators to God’s Prophet (MGB) who said, “The intellect is divided into three parts. Whoever possesses all parts has perfected his intellect. Whoever doesn’t possess all parts has no intellect at all. These parts of intellect are having a good recognition of the Honorable the Exalted God, good obedience to God, and good recognition of His Orders .”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "3-58 حدثنا أبي رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "3-58 حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي رضي الله عنه قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:4:49:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/4/49/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/4/49/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

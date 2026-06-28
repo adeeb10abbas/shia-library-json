@@ -1,0 +1,56 @@
+{
+  "id": 3826,
+  "type": "narrator",
+  "path": "/people/narrators/3826",
+  "titles": {
+    "ar": "عَلِيِّ بْنِ هَاشِمٍ",
+    "en": "Ali ibn Hashim"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:84:6"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1025-3826": {
+      "narrator_ids": [
+        1025,
+        3826
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:84:6"
+      ]
+    },
+    "2638-1118-409-1025-3826-2-9": {
+      "narrator_ids": [
+        2638,
+        1118,
+        409,
+        1025,
+        3826,
+        2,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:84:6"
+      ]
+    },
+    "3826-2": {
+      "narrator_ids": [
+        3826,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:84:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3826",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3826.json"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": 2749,
+  "type": "narrator",
+  "path": "/people/narrators/2749",
+  "titles": {
+    "ar": "الْفَضْلِ بْنِ شَاذَانَ النَّيْسَابُورِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:2:5:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "17-2749": {
+      "narrator_ids": [
+        17,
+        2749
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:2:5:4"
+      ]
+    },
+    "2749-30": {
+      "narrator_ids": [
+        2749,
+        30
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:2:5:4"
+      ]
+    },
+    "4-13-17-2749-30-98": {
+      "narrator_ids": [
+        4,
+        13,
+        17,
+        2749,
+        30,
+        98
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:2:5:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2749",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2749.json"
+  }
+}

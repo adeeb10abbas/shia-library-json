@@ -1,0 +1,66 @@
+{
+  "id": 2299,
+  "type": "narrator",
+  "path": "/people/narrators/2299",
+  "titles": {
+    "ar": "أَحْمَدَ بْنِ زَكَرِيَّا الصَّيْدَلَانِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:31:6",
+    "/books/tahdhib-al-ahkam:6:91:47"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "2299-3230": {
+      "narrator_ids": [
+        2299,
+        3230
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:31:6"
+      ]
+    },
+    "230-2299": {
+      "narrator_ids": [
+        230,
+        2299
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:31:6",
+        "/books/tahdhib-al-ahkam:6:91:47"
+      ]
+    },
+    "4-59-230-2299-3230-3308": {
+      "narrator_ids": [
+        4,
+        59,
+        230,
+        2299,
+        3230,
+        3308
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:31:6"
+      ]
+    },
+    "59-230-2299": {
+      "narrator_ids": [
+        59,
+        230,
+        2299
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:91:47"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2299",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2299.json"
+  }
+}

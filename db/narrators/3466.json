@@ -1,0 +1,53 @@
+{
+  "id": 3466,
+  "type": "narrator",
+  "path": "/people/narrators/3466",
+  "titles": {
+    "ar": "عَبَّادِ بْنِ يَعْقُوبَ الرَّوَاجِنِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:32:8"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3466-3327": {
+      "narrator_ids": [
+        3466,
+        3327
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:32:8"
+      ]
+    },
+    "36-3466": {
+      "narrator_ids": [
+        36,
+        3466
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:32:8"
+      ]
+    },
+    "4-90-36-3466-3327": {
+      "narrator_ids": [
+        4,
+        90,
+        36,
+        3466,
+        3327
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:32:8"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3466",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3466.json"
+  }
+}

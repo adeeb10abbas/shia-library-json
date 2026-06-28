@@ -1,0 +1,44 @@
+{
+  "id": 3952,
+  "type": "narrator",
+  "path": "/people/narrators/3952",
+  "titles": {
+    "ar": "عِيسَى الضَّرِيرِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:4:3:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3-2-7-689-3952": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        689,
+        3952
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:4:3:4"
+      ]
+    },
+    "689-3952": {
+      "narrator_ids": [
+        689,
+        3952
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:4:3:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3952",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3952.json"
+  }
+}

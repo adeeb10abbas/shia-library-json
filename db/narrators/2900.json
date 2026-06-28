@@ -1,0 +1,42 @@
+{
+  "id": 2900,
+  "type": "narrator",
+  "path": "/people/narrators/2900",
+  "titles": {
+    "ar": "بَعْضِ أَصْحَابِهِ أَظُنُّهُ مُحَمَّدَ بْنَ إِسْمَاعِيلَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:57:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "35-8-2900": {
+      "narrator_ids": [
+        35,
+        8,
+        2900
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:57:1"
+      ]
+    },
+    "8-2900": {
+      "narrator_ids": [
+        8,
+        2900
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:57:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2900",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2900.json"
+  }
+}

@@ -1,0 +1,637 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:6:6:121",
+  "chapter": {
+    "path": "/books/al-kafi:6:6:121",
+    "titles": {
+      "ar": "باب السِّلْقِ",
+      "en": "Chapter 120 – The Chard"
+    }
+  },
+  "count": 5,
+  "records": [
+    {
+      "id": "al-kafi:6:6:121:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:6:121:1",
+        "parts": [
+          6,
+          6,
+          121,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 6,
+        "chapter": 121,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:6:121",
+        "titles": {
+          "ar": "باب السِّلْقِ",
+          "en": "Chapter 120 – The Chard"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " إِنَّ اللَّهَ عَزَّ وَ جَلَّ رَفَعَ عَنِ الْيَهُودِ الْجُذَامَ بِأَكْلِهِمُ السِّلْقَ وَ قَلْعِهِمُ الْعُرُوقَ ."
+        ],
+        "text": "إِنَّ اللَّهَ عَزَّ وَ جَلَّ رَفَعَ عَنِ الْيَهُودِ الْجُذَامَ بِأَكْلِهِمُ السِّلْقَ وَ قَلْعِهِمُ الْعُرُوقَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Ahmad Bin Abu Abdullah, from Al Hassan Bin Ali, from Abu Usman, ",
+            "(It has been narrated) raising it to Abu Abdullah<sup>asws</sup> having said: ‘Allah<sup>azwj</sup> Mighty and Majestic Raised the leprosy from the Jews by their eating the Chard, and their gouging out the veils’."
+          ],
+          "text": "A number of our companions, from Ahmad Bin Abu Abdullah, from Al Hassan Bin Ali, from Abu Usman,\n\n(It has been narrated) raising it to Abu Abdullah<sup>asws</sup> having said: ‘Allah<sup>azwj</sup> Mighty and Majestic Raised the leprosy from the Jews by their eating the Chard, and their gouging out the veils’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. A number of our people have narrated from Ahmad ibn abu ‘ Abd Allah from al-Hassan ibn Ali from abu ‘Uthman in a marfu ‘ manner who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘Allah, most Majestic, most Glorious, removed leprosy from Jews because of their eating beets and their cutting the veins.’” "
+          ],
+          "text": "1. A number of our people have narrated from Ahmad ibn abu ‘ Abd Allah from al-Hassan ibn Ali from abu ‘Uthman in a marfu ‘ manner who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘Allah, most Majestic, most Glorious, removed leprosy from Jews because of their eating beets and their cutting the veins.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مرفوع   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/213)",
+          "label": "مرفوع",
+          "text": "Allamah Baqir al-Majlisi: مرفوع - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/213)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ أَحْمَدَ بْنِ أَبِي عَبْدِ اللَّهِ عَنِ الْحَسَنِ بْنِ عَلِيٍّ عَنْ أَبِي عُثْمَانَ رَفَعَهُ إِلَى أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ أَبِي عَبْدِ اللَّهِ",
+            "path": "/people/narrators/12"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحَسَنِ بْنِ عَلِيٍّ",
+            "path": "/people/narrators/63"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عُثْمَانَ",
+            "path": "/people/narrators/993"
+          },
+          {
+            "kind": "plain",
+            "text": " رَفَعَهُ إِلَى "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/12",
+          "/people/narrators/63",
+          "/people/narrators/993",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:6:121:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/6/121/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:6:121:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:6:121:2",
+        "parts": [
+          6,
+          6,
+          121,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 6,
+        "chapter": 121,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:6:121",
+        "titles": {
+          "ar": "باب السِّلْقِ",
+          "en": "Chapter 120 – The Chard"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " نِعْمَ الْبَقْلَةُ السِّلْقُ ."
+        ],
+        "text": "نِعْمَ الْبَقْلَةُ السِّلْقُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "From him, from Muhammad Bin Abdul Hameed, from Safwan Bin Yahya, ",
+            "(It has been narrated) from Abu Al-Hassan<sup>asws</sup> having said: ‘The best of the vegetables is the Chard’."
+          ],
+          "text": "From him, from Muhammad Bin Abdul Hameed, from Safwan Bin Yahya,\n\n(It has been narrated) from Abu Al-Hassan<sup>asws</sup> having said: ‘The best of the vegetables is the Chard’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. It is narrated from the narrator of the previous Hadith from Muhammad ibn ‘Abd al-Hamid from Safwan ibn Yahya who has said the following: “Abu al-Hassan, ‘Alayhi al-Salam, has said, ‘The white beet is a very good vegetable.’” "
+          ],
+          "text": "2. It is narrated from the narrator of the previous Hadith from Muhammad ibn ‘Abd al-Hamid from Safwan ibn Yahya who has said the following: “Abu al-Hassan, ‘Alayhi al-Salam, has said, ‘The white beet is a very good vegetable.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> صحيح    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/213)",
+          "label": "صحيح",
+          "text": "Allamah Baqir al-Majlisi: صحيح - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/213)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَنْهُ عَنْ مُحَمَّدِ بْنِ عَبْدِ الْحَمِيدِ عَنْ صَفْوَانَ بْنِ يَحْيَى عَنْ أَبِي الْحَسَنِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَنْهُ",
+            "path": "/people/narrators/11"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ عَبْدِ الْحَمِيدِ",
+            "path": "/people/narrators/205"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "صَفْوَانَ بْنِ يَحْيَى",
+            "path": "/people/narrators/30"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي الْحَسَنِ ( عليه السلام )",
+            "path": "/people/narrators/64"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/11",
+          "/people/narrators/205",
+          "/people/narrators/30",
+          "/people/narrators/64"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:6:121:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/6/121/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:6:121:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:6:121:3",
+        "parts": [
+          6,
+          6,
+          121,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 6,
+        "chapter": 121,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:6:121",
+        "titles": {
+          "ar": "باب السِّلْقِ",
+          "en": "Chapter 120 – The Chard"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " أَنَّ بَنِي إِسْرَائِيلَ شَكَوْا إِلَى مُوسَى ( عليه السلام ) مَا يَلْقَوْنَ مِنَ الْبَيَاضِ فَشَكَا ذَلِكَ إِلَى اللَّهِ سُبْحَانَهُ وَ تَعَالَى فَأَوْحَى اللَّهُ إِلَيْهِ أَنْ مُرْهُمْ بِأَكْلِ لَحْمِ الْبَقَرِ بِالسِّلْقِ ."
+        ],
+        "text": "أَنَّ بَنِي إِسْرَائِيلَ شَكَوْا إِلَى مُوسَى ( عليه السلام ) مَا يَلْقَوْنَ مِنَ الْبَيَاضِ فَشَكَا ذَلِكَ إِلَى اللَّهِ سُبْحَانَهُ وَ تَعَالَى فَأَوْحَى اللَّهُ إِلَيْهِ أَنْ مُرْهُمْ بِأَكْلِ لَحْمِ الْبَقَرِ بِالسِّلْقِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "From him, from Ali Bin Al Hassan Al Taymi, from Suleyman Bin Abbad, from Isa Bin Abu Al Ward, from Muhammad Bin Qays, ",
+            "(It has been narrated) from Abu Ja’far<sup>asws</sup> that the Children of Israel complained to Musa<sup>asws</sup> of what they were facing from the whiteness (Vitiligo), so he<sup>as</sup> took that complaint to Allah<sup>azwj</sup> Glorious and High. So Allah<sup>azwj</sup> Revealed unto him<sup>as</sup> that: “Order them with eating the cow meat with the Chard’."
+          ],
+          "text": "From him, from Ali Bin Al Hassan Al Taymi, from Suleyman Bin Abbad, from Isa Bin Abu Al Ward, from Muhammad Bin Qays,\n\n(It has been narrated) from Abu Ja’far<sup>asws</sup> that the Children of Israel complained to Musa<sup>asws</sup> of what they were facing from the whiteness (Vitiligo), so he<sup>as</sup> took that complaint to Allah<sup>azwj</sup> Glorious and High. So Allah<sup>azwj</sup> Revealed unto him<sup>as</sup> that: “Order them with eating the cow meat with the Chard’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "3. It is narrated from the narrator of the previous Hadith from Ali ibn al-Hassan al-Tamimiy from Sulayman ibn ‘Abbad from ‘Isa ibn abu al-Ward from Muhammad ibn Qays who has said the following: “Abu Ja‘far, ‘Alayhi al-Salam, has said that banu Israel complained before Musa, ‘Alayhi al-Salam, because of whiteness (albinism ) they experienced and he complained about it before Allah, most Blessed, most High. Allah sent him revelation that said, ‘Command them to eat cow meat with beets.’” "
+          ],
+          "text": "3. It is narrated from the narrator of the previous Hadith from Ali ibn al-Hassan al-Tamimiy from Sulayman ibn ‘Abbad from ‘Isa ibn abu al-Ward from Muhammad ibn Qays who has said the following: “Abu Ja‘far, ‘Alayhi al-Salam, has said that banu Israel complained before Musa, ‘Alayhi al-Salam, because of whiteness (albinism ) they experienced and he complained about it before Allah, most Blessed, most High. Allah sent him revelation that said, ‘Command them to eat cow meat with beets.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مجهول   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/213)",
+          "label": "مجهول",
+          "text": "Allamah Baqir al-Majlisi: مجهول - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/213)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَنْهُ عَنْ عَلِيِّ بْنِ الْحَسَنِ التَّيْمِيِّ عَنْ سُلَيْمَانَ بْنِ عَبَّادٍ عَنْ عِيسَى بْنِ أَبِي الْوَرْدِ عَنْ مُحَمَّدِ بْنِ قَيْسٍ عَنْ أَبِي جَعْفَرٍ ( عليه السلام )",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَنْهُ",
+            "path": "/people/narrators/11"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيِّ بْنِ الْحَسَنِ التَّيْمِيِّ",
+            "path": "/people/narrators/349"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سُلَيْمَانَ بْنِ عَبَّادٍ",
+            "path": "/people/narrators/1495"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عِيسَى بْنِ أَبِي الْوَرْدِ",
+            "path": "/people/narrators/1605"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ قَيْسٍ",
+            "path": "/people/narrators/105"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي جَعْفَرٍ ( عليه السلام )",
+            "path": "/people/narrators/9"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/11",
+          "/people/narrators/349",
+          "/people/narrators/1495",
+          "/people/narrators/1605",
+          "/people/narrators/105",
+          "/people/narrators/9"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:6:121:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/6/121/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:6:121:4",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:6:121:4",
+        "parts": [
+          6,
+          6,
+          121,
+          4
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 6,
+        "chapter": 121,
+        "hadith": 4
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:6:121",
+        "titles": {
+          "ar": "باب السِّلْقِ",
+          "en": "Chapter 120 – The Chard"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " أَطْعِمُوا مَرْضَاكُمُ السِّلْقَ يَعْنِي وَرَقَهُ فَإِنَّ فِيهِ شِفَاءً وَ لَا دَاءَ مَعَهُ وَ لَا غَائِلَةَ لَهُ وَ يُهْدِئُ نَوْمَ الْمَرِيضِ وَ اجْتَنِبُوا أَصْلَهُ فَإِنَّهُ يُهَيِّجُ السَّوْدَاءَ ."
+        ],
+        "text": "أَطْعِمُوا مَرْضَاكُمُ السِّلْقَ يَعْنِي وَرَقَهُ فَإِنَّ فِيهِ شِفَاءً وَ لَا دَاءَ مَعَهُ وَ لَا غَائِلَةَ لَهُ وَ يُهْدِئُ نَوْمَ الْمَرِيضِ وَ اجْتَنِبُوا أَصْلَهُ فَإِنَّهُ يُهَيِّجُ السَّوْدَاءَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Abdullah Bin Ja’far, from Muhammad Bin Isa, ",
+            "(It has been narrated) from Abu Al-Hassan Al-Reza<sup>asws</sup> having said: ‘Feed the Chard to your sick ones, meaning a leaf of it, for therein is a healing, and there is no cure with it, nor is there a suffering for it, and gifts the sleep to the patient, and keep away from its root for it agitates the black bile’."
+          ],
+          "text": "Muhammad Bin Yahya, from Abdullah Bin Ja’far, from Muhammad Bin Isa,\n\n(It has been narrated) from Abu Al-Hassan Al-Reza<sup>asws</sup> having said: ‘Feed the Chard to your sick ones, meaning a leaf of it, for therein is a healing, and there is no cure with it, nor is there a suffering for it, and gifts the sleep to the patient, and keep away from its root for it agitates the black bile’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "4. Muhammad ibn Yahya has narrated from ‘Abd Allah ibn Ja‘far from Muhammad ibn ‘Isa who has said the following: “Abu al-Hassan, al-Rida’, ‘Alayhi al-Salam, has said, ‘Feed your patients beets, the leaves, because there is cure in it without illness or shock and it makes sleep of a patient more relaxing; but abstain from its roots because it stirs up al-Sawada ’ (a certain illness).”’ "
+          ],
+          "text": "4. Muhammad ibn Yahya has narrated from ‘Abd Allah ibn Ja‘far from Muhammad ibn ‘Isa who has said the following: “Abu al-Hassan, al-Rida’, ‘Alayhi al-Salam, has said, ‘Feed your patients beets, the leaves, because there is cure in it without illness or shock and it makes sleep of a patient more relaxing; but abstain from its roots because it stirs up al-Sawada ’ (a certain illness).”’"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> صحيح  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/213)",
+          "label": "صحيح",
+          "text": "Allamah Baqir al-Majlisi: صحيح - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/213)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ عَبْدِ اللَّهِ بْنِ جَعْفَرٍ عَنْ مُحَمَّدِ بْنِ عِيسَى عَنْ أَبِي الْحَسَنِ الرِّضَا ( عليه السلام ) أَنَّهُ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَبْدِ اللَّهِ بْنِ جَعْفَرٍ",
+            "path": "/people/narrators/256"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ عِيسَى",
+            "path": "/people/narrators/27"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي الْحَسَنِ الرِّضَا ( عليه السلام ) أَنَّهُ",
+            "path": "/people/narrators/98"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/256",
+          "/people/narrators/27",
+          "/people/narrators/98"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:6:121:4",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/6/121/4.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:6:121:5",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:6:121:5",
+        "parts": [
+          6,
+          6,
+          121,
+          5
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 6,
+        "chapter": 121,
+        "hadith": 5
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:6:121",
+        "titles": {
+          "ar": "باب السِّلْقِ",
+          "en": "Chapter 120 – The Chard"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " أَنَّ السِّلْقَ يَقْمَعُ عِرْقَ الْجُذَامِ وَ مَا دَخَلَ جَوْفَ الْمُبَرْسَمِ مِثْلُ وَرَقِ السِّلْقِ ."
+        ],
+        "text": "أَنَّ السِّلْقَ يَقْمَعُ عِرْقَ الْجُذَامِ وَ مَا دَخَلَ جَوْفَ الْمُبَرْسَمِ مِثْلُ وَرَقِ السِّلْقِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "From him, from Muhammad Bin Isa, from one of the Husayniyayn, ",
+            "(It has been narrated) from Abu Al-Hassan<sup>asws</sup> that the Chard suppresses the vein of the leprosy, and there does not enter the inside of the sufferer of the vitiligo like a leaf of the Chard’."
+          ],
+          "text": "From him, from Muhammad Bin Isa, from one of the Husayniyayn,\n\n(It has been narrated) from Abu Al-Hassan<sup>asws</sup> that the Chard suppresses the vein of the leprosy, and there does not enter the inside of the sufferer of the vitiligo like a leaf of the Chard’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "5. It is narrated from the narrator of the previous Hadith from Muhammad ibn ‘Isa from certain al-Husayniyin who has said the following: “Abu al-Hassan, ‘Alayhi al-Salam, has said, ‘Beets uproot the vein of leprosy and no other thing is as beneficial as leaves of beets that enter the belly of one suffering from leprosy.’” "
+          ],
+          "text": "5. It is narrated from the narrator of the previous Hadith from Muhammad ibn ‘Isa from certain al-Husayniyin who has said the following: “Abu al-Hassan, ‘Alayhi al-Salam, has said, ‘Beets uproot the vein of leprosy and no other thing is as beneficial as leaves of beets that enter the belly of one suffering from leprosy.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مجهول  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/213)",
+          "label": "مجهول",
+          "text": "Allamah Baqir al-Majlisi: مجهول - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/213)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَنْهُ عَنْ مُحَمَّدِ بْنِ عِيسَى عَنْ بَعْضِ الْحُصَيْنِيِّينَ عَنْ أَبِي الْحَسَنِ ( عليه السلام )",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَنْهُ",
+            "path": "/people/narrators/11"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ عِيسَى",
+            "path": "/people/narrators/27"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "بَعْضِ الْحُصَيْنِيِّينَ",
+            "path": "/people/narrators/2910"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي الْحَسَنِ ( عليه السلام )",
+            "path": "/people/narrators/64"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/11",
+          "/people/narrators/27",
+          "/people/narrators/2910",
+          "/people/narrators/64"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:6:121:5",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/6/121/5.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

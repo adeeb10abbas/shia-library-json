@@ -1,0 +1,47 @@
+{
+  "id": 3929,
+  "type": "narrator",
+  "path": "/people/narrators/3929",
+  "titles": {
+    "ar": "عَنْ عَبْدِ الْوَاحِدِ بْنِ الْمُخْتَارِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:2:5:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "4-5-22-56-18-1392-669-3929": {
+      "narrator_ids": [
+        4,
+        5,
+        22,
+        56,
+        18,
+        1392,
+        669,
+        3929
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:5:2"
+      ]
+    },
+    "669-3929": {
+      "narrator_ids": [
+        669,
+        3929
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:5:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3929",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3929.json"
+  }
+}

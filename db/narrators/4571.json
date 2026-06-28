@@ -1,0 +1,44 @@
+{
+  "id": 4571,
+  "type": "narrator",
+  "path": "/people/narrators/4571",
+  "titles": {
+    "ar": "يَحْيَى بْنِ مُوسَى الصَّنْعَانِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:108:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "318-4571": {
+      "narrator_ids": [
+        318,
+        4571
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:108:1"
+      ]
+    },
+    "6-12-2-318-4571": {
+      "narrator_ids": [
+        6,
+        12,
+        2,
+        318,
+        4571
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:108:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4571",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4571.json"
+  }
+}

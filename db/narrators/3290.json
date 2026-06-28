@@ -1,0 +1,73 @@
+{
+  "id": 3290,
+  "type": "narrator",
+  "path": "/people/narrators/3290",
+  "titles": {
+    "ar": "زَيْدٍ الشَّحَّامِ أَبِي أُسَامَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:123:10",
+    "/books/tahdhib-al-ahkam:2:16:49"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "100-3290": {
+      "narrator_ids": [
+        100,
+        3290
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:16:49"
+      ]
+    },
+    "259-3290": {
+      "narrator_ids": [
+        259,
+        3290
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:123:10"
+      ]
+    },
+    "3290-669": {
+      "narrator_ids": [
+        3290,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:123:10"
+      ]
+    },
+    "5-244-100-3290": {
+      "narrator_ids": [
+        5,
+        244,
+        100,
+        3290
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:16:49"
+      ]
+    },
+    "5-259-3290-669": {
+      "narrator_ids": [
+        5,
+        259,
+        3290,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:123:10"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3290",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3290.json"
+  }
+}

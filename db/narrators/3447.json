@@ -1,0 +1,83 @@
+{
+  "id": 3447,
+  "type": "narrator",
+  "path": "/people/narrators/3447",
+  "titles": {
+    "ar": "طَلْحَةَ النَّهْدِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:3:50:2",
+    "/books/man-la-yahduruhu-al-faqih:4:12:28",
+    "/books/tahdhib-al-ahkam:10:9:146"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "3-2-19-24-30-3447-589": {
+      "narrator_ids": [
+        3,
+        2,
+        19,
+        24,
+        30,
+        3447,
+        589
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:50:2"
+      ]
+    },
+    "30-3447": {
+      "narrator_ids": [
+        30,
+        3447
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:50:2",
+        "/books/man-la-yahduruhu-al-faqih:4:12:28",
+        "/books/tahdhib-al-ahkam:10:9:146"
+      ]
+    },
+    "30-3447-589": {
+      "narrator_ids": [
+        30,
+        3447,
+        589
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:4:12:28"
+      ]
+    },
+    "3447-589": {
+      "narrator_ids": [
+        3447,
+        589
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:50:2",
+        "/books/man-la-yahduruhu-al-faqih:4:12:28",
+        "/books/tahdhib-al-ahkam:10:9:146"
+      ]
+    },
+    "50-2-30-3447-589": {
+      "narrator_ids": [
+        50,
+        2,
+        30,
+        3447,
+        589
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:10:9:146"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3447",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3447.json"
+  }
+}

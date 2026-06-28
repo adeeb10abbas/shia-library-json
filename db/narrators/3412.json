@@ -1,0 +1,54 @@
+{
+  "id": 3412,
+  "type": "narrator",
+  "path": "/people/narrators/3412",
+  "titles": {
+    "ar": "شَيْخٍ مِنْ أَصْحَابِنَا يُكَنَّى بِأَبِي عَبْدِ اللَّهِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:3:1:7"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3412-60": {
+      "narrator_ids": [
+        3412,
+        60
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:1:7"
+      ]
+    },
+    "4-373-630-3412-60-669": {
+      "narrator_ids": [
+        4,
+        373,
+        630,
+        3412,
+        60,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:1:7"
+      ]
+    },
+    "630-3412": {
+      "narrator_ids": [
+        630,
+        3412
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:1:7"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3412",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3412.json"
+  }
+}

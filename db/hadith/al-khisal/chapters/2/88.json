@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:2:88",
+  "chapter": {
+    "path": "/books/al-khisal:2:88",
+    "titles": {
+      "en": "Prosperous Be the One Who is Indifferent"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:2:88:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:2:88:1",
+        "parts": [
+          2,
+          88,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 88,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:2:88",
+        "titles": {
+          "en": "Prosperous Be the One Who is Indifferent"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا سعد بن عبد الله، عن أحمد بن أبي عبد الله البرقي، عن أبيه، عن صفوان الجمال، عن أبي عبد الله عليه السلام قال: طوبى لعبد نومة، عرف الناس فصاحبهم ببدنه ولم يصاحبهم في أعمالهم بقلبه فعرفهم في الظاهر ولم يعرفوه في الباطن"
+        ],
+        "text": ": حدثنا سعد بن عبد الله، عن أحمد بن أبي عبد الله البرقي، عن أبيه، عن صفوان الجمال، عن أبي عبد الله عليه السلام قال: طوبى لعبد نومة، عرف الناس فصاحبهم ببدنه ولم يصاحبهم في أعمالهم بقلبه فعرفهم في الظاهر ولم يعرفوه في الباطن"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "1-98 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Sa’ed ibn Abdullah quoted on the authority of Ahmad ibn Aba Abdullah al-Barqy, on the authority of his father, on the authority of Safvan al-Jamal that Aba Abdullah as-Sadiq (MGB) said, “Blessed be one who looks indifferent. He seems to be with the people, but he doesn’t really follow their deeds. The people know him on the surface but they do not know what goes on within him.”"
+          ],
+          "text": "1-98 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Sa’ed ibn Abdullah quoted on the authority of Ahmad ibn Aba Abdullah al-Barqy, on the authority of his father, on the authority of Safvan al-Jamal that Aba Abdullah as-Sadiq (MGB) said, “Blessed be one who looks indifferent. He seems to be with the people, but he doesn’t really follow their deeds. The people know him on the surface but they do not know what goes on within him.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "1-98 حدثنا أبي رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "1-98 حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي رضي الله عنه قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:2:88:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/2/88/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/2/88/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

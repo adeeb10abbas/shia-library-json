@@ -1,0 +1,164 @@
+{
+  "id": 1704,
+  "type": "narrator",
+  "path": "/people/narrators/1704",
+  "titles": {
+    "ar": "مُوسَى بْنِ عِمْرَانَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:30:5",
+    "/books/al-kafi:8:1:34:16",
+    "/books/kamil-al-ziyarat:2:105:6",
+    "/books/tahdhib-al-ahkam:1:27:36",
+    "/books/thawab-al-amal:2:53:2"
+  ],
+  "verseCount": 5,
+  "relations": {},
+  "subchains": {
+    "11-59-1704-787-203": {
+      "narrator_ids": [
+        11,
+        59,
+        1704,
+        787,
+        203
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:105:6"
+      ]
+    },
+    "1704-10": {
+      "narrator_ids": [
+        1704,
+        10
+      ],
+      "verse_paths": [
+        "/books/thawab-al-amal:2:53:2"
+      ]
+    },
+    "1704-318": {
+      "narrator_ids": [
+        1704,
+        318
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:27:36"
+      ]
+    },
+    "1704-32": {
+      "narrator_ids": [
+        1704,
+        32
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:30:5"
+      ]
+    },
+    "1704-3904": {
+      "narrator_ids": [
+        1704,
+        3904
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:34:16"
+      ]
+    },
+    "1704-787": {
+      "narrator_ids": [
+        1704,
+        787
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:105:6"
+      ]
+    },
+    "200-1704": {
+      "narrator_ids": [
+        200,
+        1704
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:30:5",
+        "/books/al-kafi:8:1:34:16"
+      ]
+    },
+    "200-1704-32-34-669": {
+      "narrator_ids": [
+        200,
+        1704,
+        32,
+        34,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:30:5"
+      ]
+    },
+    "200-1704-3904-136-1008": {
+      "narrator_ids": [
+        200,
+        1704,
+        3904,
+        136,
+        1008
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:34:16"
+      ]
+    },
+    "5-1704": {
+      "narrator_ids": [
+        5,
+        1704
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:27:36"
+      ]
+    },
+    "59-1704": {
+      "narrator_ids": [
+        59,
+        1704
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:105:6",
+        "/books/thawab-al-amal:2:53:2"
+      ]
+    },
+    "77-5-1704-318-36-149-669": {
+      "narrator_ids": [
+        77,
+        5,
+        1704,
+        318,
+        36,
+        149,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:27:36"
+      ]
+    },
+    "77-59-1704-10-109-669": {
+      "narrator_ids": [
+        77,
+        59,
+        1704,
+        10,
+        109,
+        669
+      ],
+      "verse_paths": [
+        "/books/thawab-al-amal:2:53:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1704",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1704.json"
+  }
+}

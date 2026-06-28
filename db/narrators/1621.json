@@ -1,0 +1,130 @@
+{
+  "id": 1621,
+  "type": "narrator",
+  "path": "/people/narrators/1621",
+  "titles": {
+    "ar": "قُتَيْبَةَ"
+  },
+  "versePaths": [
+    "/books/al-istibsar:1:240:4",
+    "/books/al-kafi:1:2:19:21",
+    "/books/al-kafi:3:4:53:4",
+    "/books/mujam-al-ahadith-al-mutabara:1:12:3",
+    "/books/mujam-al-ahadith-al-mutabara:2:5:4",
+    "/books/tahdhib-al-ahkam:3:3:24",
+    "/books/tahdhib-al-ahkam:9:2:5"
+  ],
+  "verseCount": 7,
+  "relations": {},
+  "subchains": {
+    "11-2-76-1621-669": {
+      "narrator_ids": [
+        11,
+        2,
+        76,
+        1621,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:53:4"
+      ]
+    },
+    "11-50-2-76-1621-669": {
+      "narrator_ids": [
+        11,
+        50,
+        2,
+        76,
+        1621,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:240:4",
+        "/books/tahdhib-al-ahkam:3:3:24"
+      ]
+    },
+    "11-88-51-1621": {
+      "narrator_ids": [
+        11,
+        88,
+        51,
+        1621
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:2:5"
+      ]
+    },
+    "1621-669": {
+      "narrator_ids": [
+        1621,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:240:4",
+        "/books/al-kafi:3:4:53:4",
+        "/books/tahdhib-al-ahkam:3:3:24"
+      ]
+    },
+    "26-1621": {
+      "narrator_ids": [
+        26,
+        1621
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:2:19:21",
+        "/books/mujam-al-ahadith-al-mutabara:1:12:3",
+        "/books/mujam-al-ahadith-al-mutabara:2:5:4"
+      ]
+    },
+    "27-26-1621": {
+      "narrator_ids": [
+        27,
+        26,
+        1621
+      ],
+      "verse_paths": [
+        "/books/mujam-al-ahadith-al-mutabara:1:12:3",
+        "/books/mujam-al-ahadith-al-mutabara:2:5:4"
+      ]
+    },
+    "50-27-26-1621": {
+      "narrator_ids": [
+        50,
+        27,
+        26,
+        1621
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:2:19:21"
+      ]
+    },
+    "51-1621": {
+      "narrator_ids": [
+        51,
+        1621
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:2:5"
+      ]
+    },
+    "76-1621": {
+      "narrator_ids": [
+        76,
+        1621
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:240:4",
+        "/books/al-kafi:3:4:53:4",
+        "/books/tahdhib-al-ahkam:3:3:24"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1621",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1621.json"
+  }
+}

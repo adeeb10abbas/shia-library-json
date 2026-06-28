@@ -1,0 +1,54 @@
+{
+  "id": 2650,
+  "type": "narrator",
+  "path": "/people/narrators/2650",
+  "titles": {
+    "ar": "الْحُسَيْنِ بْنِ مُوسَى الْحَنَّاطِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:3:27:6"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2650-155": {
+      "narrator_ids": [
+        2650,
+        155
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:27:6"
+      ]
+    },
+    "498-2650": {
+      "narrator_ids": [
+        498,
+        2650
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:27:6"
+      ]
+    },
+    "5-22-932-498-2650-155": {
+      "narrator_ids": [
+        5,
+        22,
+        932,
+        498,
+        2650,
+        155
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:27:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2650",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2650.json"
+  }
+}

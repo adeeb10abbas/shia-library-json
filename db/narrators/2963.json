@@ -1,0 +1,47 @@
+{
+  "id": 2963,
+  "type": "narrator",
+  "path": "/people/narrators/2963",
+  "titles": {
+    "ar": "ثُوَيْرٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:2:30:7"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "150-2963": {
+      "narrator_ids": [
+        150,
+        2963
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:30:7"
+      ]
+    },
+    "6-8-3-2-10-87-150-2963": {
+      "narrator_ids": [
+        6,
+        8,
+        3,
+        2,
+        10,
+        87,
+        150,
+        2963
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:30:7"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2963",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2963.json"
+  }
+}

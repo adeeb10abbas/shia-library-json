@@ -1,0 +1,43 @@
+{
+  "id": 3991,
+  "type": "narrator",
+  "path": "/people/narrators/3991",
+  "titles": {
+    "ar": "غَيْرِهِمَا رَفَعُوهُ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:3:30:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "35-8-573-3991": {
+      "narrator_ids": [
+        35,
+        8,
+        573,
+        3991
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:30:1"
+      ]
+    },
+    "573-3991": {
+      "narrator_ids": [
+        573,
+        3991
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:30:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3991",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3991.json"
+  }
+}

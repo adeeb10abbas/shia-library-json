@@ -1,0 +1,43 @@
+{
+  "id": 2675,
+  "type": "narrator",
+  "path": "/people/narrators/2675",
+  "titles": {
+    "ar": "الدِّلْهَاثِ مَوْلَى الرِّضَا ( عليه السلام )"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:99:39"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "133-376-3387-2675": {
+      "narrator_ids": [
+        133,
+        376,
+        3387,
+        2675
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:99:39"
+      ]
+    },
+    "3387-2675": {
+      "narrator_ids": [
+        3387,
+        2675
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:99:39"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2675",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2675.json"
+  }
+}

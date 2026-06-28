@@ -1,0 +1,43 @@
+{
+  "id": 1869,
+  "type": "narrator",
+  "path": "/people/narrators/1869",
+  "titles": {
+    "ar": "ابْنِ الْمَغْرَاءِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:101:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "50-2-7-1869": {
+      "narrator_ids": [
+        50,
+        2,
+        7,
+        1869
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:101:2"
+      ]
+    },
+    "7-1869": {
+      "narrator_ids": [
+        7,
+        1869
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:101:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1869",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1869.json"
+  }
+}

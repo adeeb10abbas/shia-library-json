@@ -1,0 +1,99 @@
+{
+  "id": 1253,
+  "type": "narrator",
+  "path": "/people/narrators/1253",
+  "titles": {
+    "ar": "أَبِي الطُّفَيْلِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:126:5",
+    "/books/al-kafi:5:2:2:3",
+    "/books/thawab-al-amal:2:1:7"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "1253-50": {
+      "narrator_ids": [
+        1253,
+        50
+      ],
+      "verse_paths": [
+        "/books/thawab-al-amal:2:1:7"
+      ]
+    },
+    "3169-1253": {
+      "narrator_ids": [
+        3169,
+        1253
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:126:5"
+      ]
+    },
+    "4-13-42-172-604-1253": {
+      "narrator_ids": [
+        4,
+        13,
+        42,
+        172,
+        604,
+        1253
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:2:3"
+      ]
+    },
+    "6-12-2-198-3115-3169-1253": {
+      "narrator_ids": [
+        6,
+        12,
+        2,
+        198,
+        3115,
+        3169,
+        1253
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:126:5"
+      ]
+    },
+    "604-1253": {
+      "narrator_ids": [
+        604,
+        1253
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:2:3"
+      ]
+    },
+    "72-1253": {
+      "narrator_ids": [
+        72,
+        1253
+      ],
+      "verse_paths": [
+        "/books/thawab-al-amal:2:1:7"
+      ]
+    },
+    "77-72-1253-50": {
+      "narrator_ids": [
+        77,
+        72,
+        1253,
+        50
+      ],
+      "verse_paths": [
+        "/books/thawab-al-amal:2:1:7"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1253",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1253.json"
+  }
+}

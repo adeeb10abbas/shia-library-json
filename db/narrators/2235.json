@@ -1,0 +1,45 @@
+{
+  "id": 2235,
+  "type": "narrator",
+  "path": "/people/narrators/2235",
+  "titles": {
+    "ar": "أَبِي يُوسُفَ الْبَزَّازِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:27:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "20-25-227-171-507-2235": {
+      "narrator_ids": [
+        20,
+        25,
+        227,
+        171,
+        507,
+        2235
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:27:3"
+      ]
+    },
+    "507-2235": {
+      "narrator_ids": [
+        507,
+        2235
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:27:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2235",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2235.json"
+  }
+}

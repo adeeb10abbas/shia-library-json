@@ -1,0 +1,55 @@
+{
+  "id": 2790,
+  "type": "narrator",
+  "path": "/people/narrators/2790",
+  "titles": {
+    "ar": "الْمُرْتَجِلِ بْنِ مَعْمَرٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:3:90:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2790-444": {
+      "narrator_ids": [
+        2790,
+        444
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:90:1"
+      ]
+    },
+    "35-237-765-2790-444-3467-3033": {
+      "narrator_ids": [
+        35,
+        237,
+        765,
+        2790,
+        444,
+        3467,
+        3033
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:90:1"
+      ]
+    },
+    "765-2790": {
+      "narrator_ids": [
+        765,
+        2790
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:90:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2790",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2790.json"
+  }
+}

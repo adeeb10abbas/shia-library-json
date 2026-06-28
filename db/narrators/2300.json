@@ -1,0 +1,82 @@
+{
+  "id": 2300,
+  "type": "narrator",
+  "path": "/people/narrators/2300",
+  "titles": {
+    "ar": "أَحْمَدَ بْنِ زِيَادٍ",
+    "en": "Ahmad ibn Ziyad"
+  },
+  "versePaths": [
+    "/books/al-amali-saduq:21:3",
+    "/books/al-amali-saduq:22:9",
+    "/books/al-amali-saduq:5:2",
+    "/books/al-istibsar:3:93:3",
+    "/books/al-kafi:7:1:13:17",
+    "/books/man-la-yahduruhu-al-faqih:4:105:7"
+  ],
+  "verseCount": 6,
+  "relations": {},
+  "subchains": {
+    "1005-2300": {
+      "narrator_ids": [
+        1005,
+        2300
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:4:105:7"
+      ]
+    },
+    "2300-64": {
+      "narrator_ids": [
+        2300,
+        64
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:3:93:3",
+        "/books/al-kafi:7:1:13:17"
+      ]
+    },
+    "39-2300": {
+      "narrator_ids": [
+        39,
+        2300
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:3:93:3",
+        "/books/al-kafi:7:1:13:17"
+      ]
+    },
+    "4-13-39-2300-64": {
+      "narrator_ids": [
+        4,
+        13,
+        39,
+        2300,
+        64
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:1:13:17"
+      ]
+    },
+    "4134-1279-39-2300-64": {
+      "narrator_ids": [
+        4134,
+        1279,
+        39,
+        2300,
+        64
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:3:93:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2300",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2300.json"
+  }
+}

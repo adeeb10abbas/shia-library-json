@@ -1,0 +1,44 @@
+{
+  "id": 3046,
+  "type": "narrator",
+  "path": "/people/narrators/3046",
+  "titles": {
+    "ar": "حَدِيدِ بْنِ حَكِيمٍ الْأَزْدِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:87:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "6-5-43-96-3046": {
+      "narrator_ids": [
+        6,
+        5,
+        43,
+        96,
+        3046
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:87:1"
+      ]
+    },
+    "96-3046": {
+      "narrator_ids": [
+        96,
+        3046
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:87:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3046",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3046.json"
+  }
+}

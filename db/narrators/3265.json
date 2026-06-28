@@ -1,0 +1,47 @@
+{
+  "id": 3265,
+  "type": "narrator",
+  "path": "/people/narrators/3265",
+  "titles": {
+    "ar": "زُرَارَةَ قَالُوا سَمِعْنَا أَبَا جَعْفَرٍ ( عليه السلام )"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:97:18"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "16-3265": {
+      "narrator_ids": [
+        16,
+        3265
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:97:18"
+      ]
+    },
+    "3-2-7-141-299-4399-16-3265": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        141,
+        299,
+        4399,
+        16,
+        3265
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:97:18"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3265",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3265.json"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": 3641,
+  "type": "narrator",
+  "path": "/people/narrators/3641",
+  "titles": {
+    "ar": "عَبْدَلِ بْنِ مَالِكٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:11:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "12-3641": {
+      "narrator_ids": [
+        12,
+        3641
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:11:2"
+      ]
+    },
+    "3641-329": {
+      "narrator_ids": [
+        3641,
+        329
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:11:2"
+      ]
+    },
+    "503-12-3641-329-382-1689": {
+      "narrator_ids": [
+        503,
+        12,
+        3641,
+        329,
+        382,
+        1689
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:11:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3641",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3641.json"
+  }
+}

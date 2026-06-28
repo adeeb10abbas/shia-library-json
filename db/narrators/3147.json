@@ -1,0 +1,53 @@
+{
+  "id": 3147,
+  "type": "narrator",
+  "path": "/people/narrators/3147",
+  "titles": {
+    "ar": "خَلَّادٍ الْقَلَانِسِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:236:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2-3147": {
+      "narrator_ids": [
+        2,
+        3147
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:236:1"
+      ]
+    },
+    "3-78-2-3147-669": {
+      "narrator_ids": [
+        3,
+        78,
+        2,
+        3147,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:236:1"
+      ]
+    },
+    "3147-669": {
+      "narrator_ids": [
+        3147,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:236:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3147",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3147.json"
+  }
+}

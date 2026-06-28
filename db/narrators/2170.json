@@ -1,0 +1,43 @@
+{
+  "id": 2170,
+  "type": "narrator",
+  "path": "/people/narrators/2170",
+  "titles": {
+    "ar": "أَبِي عَقِيلَةَ الصَّيْرَفِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:117:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2540-2170": {
+      "narrator_ids": [
+        2540,
+        2170
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:117:5"
+      ]
+    },
+    "4-13-2540-2170": {
+      "narrator_ids": [
+        4,
+        13,
+        2540,
+        2170
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:117:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2170",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2170.json"
+  }
+}

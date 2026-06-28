@@ -1,0 +1,55 @@
+{
+  "id": 1862,
+  "type": "narrator",
+  "path": "/people/narrators/1862",
+  "titles": {
+    "ar": "ابْنِ أُخْتِ الْأَوْزَاعِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:8:62:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1862-4360": {
+      "narrator_ids": [
+        1862,
+        4360
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:62:2"
+      ]
+    },
+    "37-1862": {
+      "narrator_ids": [
+        37,
+        1862
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:62:2"
+      ]
+    },
+    "6-12-37-1862-4360-4043-669": {
+      "narrator_ids": [
+        6,
+        12,
+        37,
+        1862,
+        4360,
+        4043,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:62:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1862",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1862.json"
+  }
+}

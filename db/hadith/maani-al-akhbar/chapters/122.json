@@ -1,0 +1,86 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "maani-al-akhbar",
+  "chapterPath": "/books/maani-al-akhbar:122",
+  "chapter": {
+    "path": "/books/maani-al-akhbar:122",
+    "titles": {
+      "en": "The meaning of a man’s sending of peace upon himself"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "maani-al-akhbar:122:1",
+      "type": "hadith",
+      "book": {
+        "slug": "maani-al-akhbar",
+        "titles": {
+          "ar": "معاني الأخبار",
+          "en": "Ma'ani al-Akhbar"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/maani-al-akhbar:122:1",
+        "parts": [
+          122,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 122,
+        "book": 1
+      },
+      "chapter": {
+        "path": "/books/maani-al-akhbar:122",
+        "titles": {
+          "en": "The meaning of a man’s sending of peace upon himself"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " حدثنا سعد بن عبد الله، عن محمد بن الحسين، عن محمد بن الفضيل، عن أبي الصباح، قال: سألت أبا جعفر عليه السلام عن قول الله عز وجل: \" فإذا دخلتم بيوتا فسلموا على أنفسكم - الآية - \".  فقال: هو تسليم الرجل على أهل البيت حين يدخل ثم يردون عليه، فهو سلامكم على أنفسكم."
+        ],
+        "text": "حدثنا سعد بن عبد الله، عن محمد بن الحسين، عن محمد بن الفضيل، عن أبي الصباح، قال: سألت أبا جعفر عليه السلام عن قول الله عز وجل: \" فإذا دخلتم بيوتا فسلموا على أنفسكم - الآية - \".  فقال: هو تسليم الرجل على أهل البيت حين يدخل ثم يردون عليه، فهو سلامكم على أنفسكم."
+      },
+      "translations": {
+        "en.basel-kadem": {
+          "segments": [
+            "1.\tMy father, may Allah grant him mercy, said: We were told by Sa’d bin Abdullah, from Muhammed bin Hussain, from Muhammed bin Fudail, from Abu’s-Sabah, that he said: I asked Abu Ja’far, peace be upon him, about the saying of Allah, Exalted and Glorious is He: «And when you enter into houses, then send peace upon yourselves» <a href=\"/books/quran:24#h61\">[24:61]</a> the verse, so he said: It is a man’s sending of peace upon the household when he enters, and furthermore, their response to him. That is your sending of peace upon yourselves."
+          ],
+          "text": "1.\tMy father, may Allah grant him mercy, said: We were told by Sa’d bin Abdullah, from Muhammed bin Hussain, from Muhammed bin Fudail, from Abu’s-Sabah, that he said: I asked Abu Ja’far, peace be upon him, about the saying of Allah, Exalted and Glorious is He: «And when you enter into houses, then send peace upon yourselves» <a href=\"/books/quran:24#h61\">[24:61]</a> the verse, so he said: It is a man’s sending of peace upon the household when he enters, and furthermore, their response to him. That is your sending of peace upon yourselves."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "أبي - رحمه الله - قال",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "أبي - رحمه الله - قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {
+        "Mentions": [
+          "/books/quran:24:61"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/maani-al-akhbar:122:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/maani-al-akhbar/122/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/28/1/122/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

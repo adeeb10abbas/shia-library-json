@@ -1,0 +1,55 @@
+{
+  "id": 4037,
+  "type": "narrator",
+  "path": "/people/narrators/4037",
+  "titles": {
+    "ar": "قُدَامَةَ بْنِ أَبِي يَزِيدَ الْحَمَّارِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:1:5:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1954-4037": {
+      "narrator_ids": [
+        1954,
+        4037
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:1:5:3"
+      ]
+    },
+    "4-5-17-1954-4037-36-669": {
+      "narrator_ids": [
+        4,
+        5,
+        17,
+        1954,
+        4037,
+        36,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:1:5:3"
+      ]
+    },
+    "4037-36": {
+      "narrator_ids": [
+        4037,
+        36
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:1:5:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4037",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4037.json"
+  }
+}

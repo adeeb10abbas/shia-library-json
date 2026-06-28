@@ -1,0 +1,45 @@
+{
+  "id": 3019,
+  "type": "narrator",
+  "path": "/people/narrators/3019",
+  "titles": {
+    "ar": "جَمَاعَةٍ مَعَهُ قَالُوا سَمِعْنَا أَبَا عَبْدِ اللَّهِ ( عليه السلام )"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:57:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "103-3019": {
+      "narrator_ids": [
+        103,
+        3019
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:57:2"
+      ]
+    },
+    "127-29-68-291-103-3019": {
+      "narrator_ids": [
+        127,
+        29,
+        68,
+        291,
+        103,
+        3019
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:57:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3019",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3019.json"
+  }
+}

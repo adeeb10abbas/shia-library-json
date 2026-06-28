@@ -1,0 +1,53 @@
+{
+  "id": 1878,
+  "type": "narrator",
+  "path": "/people/narrators/1878",
+  "titles": {
+    "ar": "ابْنِ بُكَيْرٍعَنْ أَبِي بَصِيرٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:4:50:6"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1878-669": {
+      "narrator_ids": [
+        1878,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:4:50:6"
+      ]
+    },
+    "19-24-30-1878-669": {
+      "narrator_ids": [
+        19,
+        24,
+        30,
+        1878,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:4:50:6"
+      ]
+    },
+    "30-1878": {
+      "narrator_ids": [
+        30,
+        1878
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:4:50:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1878",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1878.json"
+  }
+}

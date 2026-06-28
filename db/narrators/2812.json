@@ -1,0 +1,44 @@
+{
+  "id": 2812,
+  "type": "narrator",
+  "path": "/people/narrators/2812",
+  "titles": {
+    "ar": "النُّعْمَانِ بْنِ بَشِيرٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:98:7"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "179-2812": {
+      "narrator_ids": [
+        179,
+        2812
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:98:7"
+      ]
+    },
+    "35-166-308-179-2812": {
+      "narrator_ids": [
+        35,
+        166,
+        308,
+        179,
+        2812
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:98:7"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2812",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2812.json"
+  }
+}

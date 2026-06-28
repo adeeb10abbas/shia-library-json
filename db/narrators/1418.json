@@ -1,0 +1,43 @@
+{
+  "id": 1418,
+  "type": "narrator",
+  "path": "/people/narrators/1418",
+  "titles": {
+    "ar": "جَدِّي",
+    "en": "his grandfather (Imam al-Husayn)"
+  },
+  "versePaths": [
+    "/books/uyun-akhbar-al-rida:2:1:204"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1418-1418": {
+      "narrator_ids": [
+        1418,
+        1418
+      ],
+      "verse_paths": [
+        "/books/uyun-akhbar-al-rida:2:1:204"
+      ]
+    },
+    "1418-1418-1418": {
+      "narrator_ids": [
+        1418,
+        1418,
+        1418
+      ],
+      "verse_paths": [
+        "/books/uyun-akhbar-al-rida:2:1:204"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1418",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1418.json"
+  }
+}

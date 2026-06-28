@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:5:67",
+  "chapter": {
+    "path": "/books/al-khisal:5:67",
+    "titles": {
+      "en": "Four People Whom You Should Not Greet"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:5:67:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:5:67:1",
+        "parts": [
+          5,
+          67,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 67,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:5:67",
+        "titles": {
+          "en": "Four People Whom You Should Not Greet"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا أحمد بن إدريس، عن محمد بن أحمد بن يحيى بن عمران الاشعري باسناده رفعه إلى أمير المؤمنين عليه السلام قال: نهى رسول الله صلى الله عليه وآله أن يسلم على أربعة: على السكران في سكره، وعلى من يعمل التماثيل، وعلى من يلعب بالنرد، وعلى من يلعب بالاربعة عشر، وأنا أزيدكم الخامسة أنهاكم أن تسلموا على أصحاب الشطرنج"
+        ],
+        "text": ": حدثنا أحمد بن إدريس، عن محمد بن أحمد بن يحيى بن عمران الاشعري باسناده رفعه إلى أمير المؤمنين عليه السلام قال: نهى رسول الله صلى الله عليه وآله أن يسلم على أربعة: على السكران في سكره، وعلى من يعمل التماثيل، وعلى من يلعب بالنرد، وعلى من يلعب بالاربعة عشر، وأنا أزيدكم الخامسة أنهاكم أن تسلموا على أصحاب الشطرنج"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "4-80 Muhammad ibn al-Hassan - may God be pleased with him - narrated that Ahmad ibn Idris quoted Muhammad ibn Ahmad ibn Yahya ibn Imran al-Ash’ari, who linked it up through a chain of narrators to the Commander of the Faithful Imam Ali (MGB), “God’s Prophet (MGB) forbade greeting four people: a drunk person, a sculptor, one who throws dice, and one who gambles. I will add one case and forbid you to greet one who plays chess.”"
+          ],
+          "text": "4-80 Muhammad ibn al-Hassan - may God be pleased with him - narrated that Ahmad ibn Idris quoted Muhammad ibn Ahmad ibn Yahya ibn Imran al-Ash’ari, who linked it up through a chain of narrators to the Commander of the Faithful Imam Ali (MGB), “God’s Prophet (MGB) forbade greeting four people: a drunk person, a sculptor, one who throws dice, and one who gambles. I will add one case and forbid you to greet one who plays chess.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "4-80 حدثنا محمد بن الحسن رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "4-80 حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "محمد بن الحسن رضي الله عنه قال",
+            "path": "/people/narrators/90"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/90"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:5:67:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/5/67/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/5/67/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": 2729,
+  "type": "narrator",
+  "path": "/people/narrators/2729",
+  "titles": {
+    "ar": "الْعَبَّاسِ مَوْلَى الرِّضَا ( عليه السلام )"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:189:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "6-12-67-2729": {
+      "narrator_ids": [
+        6,
+        12,
+        67,
+        2729
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:189:1"
+      ]
+    },
+    "67-2729": {
+      "narrator_ids": [
+        67,
+        2729
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:189:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2729",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2729.json"
+  }
+}

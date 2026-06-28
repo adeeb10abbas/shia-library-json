@@ -1,0 +1,45 @@
+{
+  "id": 4053,
+  "type": "narrator",
+  "path": "/people/narrators/4053",
+  "titles": {
+    "ar": "كَانَ خَبَّازاً"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:2:56:15"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3059-4053": {
+      "narrator_ids": [
+        3059,
+        4053
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:56:15"
+      ]
+    },
+    "4-373-27-1951-3059-4053": {
+      "narrator_ids": [
+        4,
+        373,
+        27,
+        1951,
+        3059,
+        4053
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:56:15"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4053",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4053.json"
+  }
+}

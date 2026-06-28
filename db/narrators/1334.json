@@ -1,0 +1,111 @@
+{
+  "id": 1334,
+  "type": "narrator",
+  "path": "/people/narrators/1334",
+  "titles": {
+    "ar": "الْحَسَنِ بْنِ سَيْفٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:108:48",
+    "/books/al-kafi:1:4:111:16",
+    "/books/tahdhib-al-ahkam:4:71:104"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "13-1334": {
+      "narrator_ids": [
+        13,
+        1334
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:108:48"
+      ]
+    },
+    "1334-571": {
+      "narrator_ids": [
+        1334,
+        571
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:108:48",
+        "/books/tahdhib-al-ahkam:4:71:104"
+      ]
+    },
+    "1334-669": {
+      "narrator_ids": [
+        1334,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:111:16"
+      ]
+    },
+    "187-1334": {
+      "narrator_ids": [
+        187,
+        1334
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:4:71:104"
+      ]
+    },
+    "2-1334": {
+      "narrator_ids": [
+        2,
+        1334
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:111:16"
+      ]
+    },
+    "3-2-1334-669": {
+      "narrator_ids": [
+        3,
+        2,
+        1334,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:111:16"
+      ]
+    },
+    "4-13-1334-571-2-71-9": {
+      "narrator_ids": [
+        4,
+        13,
+        1334,
+        571,
+        2,
+        71,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:108:48"
+      ]
+    },
+    "4286-187-1334-571-2-1184-236-669": {
+      "narrator_ids": [
+        4286,
+        187,
+        1334,
+        571,
+        2,
+        1184,
+        236,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:4:71:104"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1334",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1334.json"
+  }
+}

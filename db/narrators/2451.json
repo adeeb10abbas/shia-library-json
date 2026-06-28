@@ -1,0 +1,54 @@
+{
+  "id": 2451,
+  "type": "narrator",
+  "path": "/people/narrators/2451",
+  "titles": {
+    "ar": "إِسْمَاعِيلَ بْنِ عَبَّادٍ جَمِيعاً يَرْفَعَانِهِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:107:10"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2451-669": {
+      "narrator_ids": [
+        2451,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:107:10"
+      ]
+    },
+    "527-2451": {
+      "narrator_ids": [
+        527,
+        2451
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:107:10"
+      ]
+    },
+    "6-8-476-527-2451-669": {
+      "narrator_ids": [
+        6,
+        8,
+        476,
+        527,
+        2451,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:107:10"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2451",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2451.json"
+  }
+}

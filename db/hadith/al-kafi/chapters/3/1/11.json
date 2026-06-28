@@ -1,0 +1,731 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:3:1:11",
+  "chapter": {
+    "path": "/books/al-kafi:3:1:11",
+    "titles": {
+      "ar": "باب الْمَوْضِعِ الَّذِي يُكْرَهُ أَنْ يُتَغَوَّطَ فِيهِ أَوْ يُبَالَ",
+      "en": "Chapter 11 – The place in which it is abhorred to defacte or urinate in"
+    }
+  },
+  "count": 6,
+  "records": [
+    {
+      "id": "al-kafi:3:1:11:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:3:1:11:1",
+        "parts": [
+          3,
+          1,
+          11,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 1,
+        "chapter": 11,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:3:1:11",
+        "titles": {
+          "ar": "باب الْمَوْضِعِ الَّذِي يُكْرَهُ أَنْ يُتَغَوَّطَ فِيهِ أَوْ يُبَالَ",
+          "en": "Chapter 11 – The place in which it is abhorred to defacte or urinate in"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) مِنْ فِقْهِ الرَّجُلِ أَنْ يَرْتَادَ مَوْضِعاً لِبَوْلِهِ ."
+        ],
+        "text": "قَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) مِنْ فِقْهِ الرَّجُلِ أَنْ يَرْتَادَ مَوْضِعاً لِبَوْلِهِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father, from Al Nowfaly, from Al Sakuny, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup> it is from the understanding of the man that he prepares the place for his urination’."
+          ],
+          "text": "Ali Bin Ibrahim, from his father, from Al Nowfaly, from Al Sakuny,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup> it is from the understanding of the man that he prepares the place for his urination’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. Ali ibn Ibrahim has narrated from his father from af-Nawfafiy from af-Sakuniy who has said the following: “Abu ’Abd Allah, ‘Alayhi al-Salam, has said that the Messenger of Allah has said, ’It is of proper understanding (of law) for a man to search for and prepare a place for urination.’” "
+          ],
+          "text": "1. Ali ibn Ibrahim has narrated from his father from af-Nawfafiy from af-Sakuniy who has said the following: “Abu ’Abd Allah, ‘Alayhi al-Salam, has said that the Messenger of Allah has said, ’It is of proper understanding (of law) for a man to search for and prepare a place for urination.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (3/50)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (3/50)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنِ النَّوْفَلِيِّ عَنِ السَّكُونِيِّ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "النَّوْفَلِيِّ",
+            "path": "/people/narrators/32"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "السَّكُونِيِّ",
+            "path": "/people/narrators/34"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/32",
+          "/people/narrators/34",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:3:1:11:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/3/1/11/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:3:1:11:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:3:1:11:2",
+        "parts": [
+          3,
+          1,
+          11,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 1,
+        "chapter": 11,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:3:1:11",
+        "titles": {
+          "ar": "باب الْمَوْضِعِ الَّذِي يُكْرَهُ أَنْ يُتَغَوَّطَ فِيهِ أَوْ يُبَالَ",
+          "en": "Chapter 11 – The place in which it is abhorred to defacte or urinate in"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ رَجُلٌ لِعَلِيِّ بْنِ الْحُسَيْنِ ( عليه السلام ) أَيْنَ يَتَوَضَّأُ الْغُرَبَاءُ قَالَ يَتَّقِي شُطُوطَ الْأَنْهَارِ وَ الطُّرُقَ النَّافِذَةَ وَ تَحْتَ الْأَشْجَارِ الْمُثْمِرَةِ وَ مَوَاضِعَ اللَّعْنِ فَقِيلَ لَهُ وَ أَيْنَ مَوَاضِعُ اللَّعْنِ قَالَ أَبْوَابُ الدُّورِ ."
+        ],
+        "text": "قَالَ رَجُلٌ لِعَلِيِّ بْنِ الْحُسَيْنِ ( عليه السلام ) أَيْنَ يَتَوَضَّأُ الْغُرَبَاءُ قَالَ يَتَّقِي شُطُوطَ الْأَنْهَارِ وَ الطُّرُقَ النَّافِذَةَ وَ تَحْتَ الْأَشْجَارِ الْمُثْمِرَةِ وَ مَوَاضِعَ اللَّعْنِ فَقِيلَ لَهُ وَ أَيْنَ مَوَاضِعُ اللَّعْنِ قَالَ أَبْوَابُ الدُّورِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ahmad Bin Idrees, from Muhammad Bin Abdul Jabbar, from Safwan Bin Yahya, from Aasim Bin Humeyd, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘A man said to Ali<sup>asws</sup> Bin Al-Husayn<sup>asws</sup>, ‘Where should the strangers perform Ablution <span class=\"iTxt\">(Wudhu)</span>?’ He<sup>asws</sup> said: ‘They should abstain from the banks of the rivers, and the clean streets, and under the fruit-bearing trees, and the places subject to condemnation’. So it was said, ‘And where are the places subject to the condemnation?’ He<sup>asws</sup> said: ‘The doors of the houses’."
+          ],
+          "text": "Ahmad Bin Idrees, from Muhammad Bin Abdul Jabbar, from Safwan Bin Yahya, from Aasim Bin Humeyd,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘A man said to Ali<sup>asws</sup> Bin Al-Husayn<sup>asws</sup>, ‘Where should the strangers perform Ablution <span class=\"iTxt\">(Wudhu)</span>?’ He<sup>asws</sup> said: ‘They should abstain from the banks of the rivers, and the clean streets, and under the fruit-bearing trees, and the places subject to condemnation’. So it was said, ‘And where are the places subject to the condemnation?’ He<sup>asws</sup> said: ‘The doors of the houses’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. Ahmad ibn Idris has narrated from Muhammad ibn ‘Abd al-Jabbar from Safwan ibn Yahya from ‘Asim ibn Humayd who has said the following: “Abu ’Abd Allah, ‘Alayhi al-Salam, has said that once a man asked Ali ibn Al-Husayn, ‘Alayhi al- Salam, ‘Where should outsiders take Wudu’?’ He (the Imam) said, ‘They should avoid places like the banks of the canals, open roads, under fruit-bearing trees and places that may subject one to public condemnation.’ Someone asked, ‘What kind of places are such?’ He (the Imam) said, ‘One example is the front portions of the doors of houses.’” "
+          ],
+          "text": "2. Ahmad ibn Idris has narrated from Muhammad ibn ‘Abd al-Jabbar from Safwan ibn Yahya from ‘Asim ibn Humayd who has said the following: “Abu ’Abd Allah, ‘Alayhi al-Salam, has said that once a man asked Ali ibn Al-Husayn, ‘Alayhi al- Salam, ‘Where should outsiders take Wudu’?’ He (the Imam) said, ‘They should avoid places like the banks of the canals, open roads, under fruit-bearing trees and places that may subject one to public condemnation.’ Someone asked, ‘What kind of places are such?’ He (the Imam) said, ‘One example is the front portions of the doors of houses.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> صحيح   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (13/50)",
+          "label": "صحيح",
+          "text": "Allamah Baqir al-Majlisi: صحيح - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (13/50)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "أَحْمَدُ بْنُ إِدْرِيسَ عَنْ مُحَمَّدِ بْنِ عَبْدِ الْجَبَّارِ عَنْ صَفْوَانَ بْنِ يَحْيَى عَنْ عَاصِمِ بْنِ حُمَيْدٍ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدُ بْنُ إِدْرِيسَ",
+            "path": "/people/narrators/97"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ عَبْدِ الْجَبَّارِ",
+            "path": "/people/narrators/24"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "صَفْوَانَ بْنِ يَحْيَى",
+            "path": "/people/narrators/30"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَاصِمِ بْنِ حُمَيْدٍ",
+            "path": "/people/narrators/79"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/97",
+          "/people/narrators/24",
+          "/people/narrators/30",
+          "/people/narrators/79",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:1:3:9:7"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:3:1:11:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/3/1/11/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:3:1:11:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:3:1:11:3",
+        "parts": [
+          3,
+          1,
+          11,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 1,
+        "chapter": 11,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:3:1:11",
+        "titles": {
+          "ar": "باب الْمَوْضِعِ الَّذِي يُكْرَهُ أَنْ يُتَغَوَّطَ فِيهِ أَوْ يُبَالَ",
+          "en": "Chapter 11 – The place in which it is abhorred to defacte or urinate in"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سُئِلَ أَبُو الْحَسَنِ ( عليه السلام ) مَا حَدُّ الْغَائِطِ قَالَ لَا تَسْتَقْبِلِ الْقِبْلَةَ وَ لَا تَسْتَدْبِرْهَا وَ لَا تَسْتَقْبِلِ الرِّيحَ وَ لَا تَسْتَدْبِرْهَا .",
+          "وَ رُوِيَ أَيْضاً فِي حَدِيثٍ آخَرَ لَا تَسْتَقْبِلِ الشَّمْسَ وَ لَا الْقَمَرَ ."
+        ],
+        "text": "سُئِلَ أَبُو الْحَسَنِ ( عليه السلام ) مَا حَدُّ الْغَائِطِ قَالَ لَا تَسْتَقْبِلِ الْقِبْلَةَ وَ لَا تَسْتَدْبِرْهَا وَ لَا تَسْتَقْبِلِ الرِّيحَ وَ لَا تَسْتَدْبِرْهَا .\n\nوَ رُوِيَ أَيْضاً فِي حَدِيثٍ آخَرَ لَا تَسْتَقْبِلِ الشَّمْسَ وَ لَا الْقَمَرَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, by his chain, raising it, said, ",
+            "‘Abu Al-Hassan<sup>asws</sup> was asked, ‘What is the limit of the defecation?’ He<sup>asws</sup> said: ‘You should neither face towards the Qiblah, nor have your back towards it, nor face the oncoming wind, nor have your back to it’. ",
+            "And it is reported as well in another Hadeeth: ‘(He<sup>asws</sup> said): ‘Neither face the sun nor the moon’."
+          ],
+          "text": "Muhammad Bin Yahya, by his chain, raising it, said,\n\n‘Abu Al-Hassan<sup>asws</sup> was asked, ‘What is the limit of the defecation?’ He<sup>asws</sup> said: ‘You should neither face towards the Qiblah, nor have your back towards it, nor face the oncoming wind, nor have your back to it’.\n\nAnd it is reported as well in another Hadeeth: ‘(He<sup>asws</sup> said): ‘Neither face the sun nor the moon’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "3. Muhammad ibn Yahya through the chain of his narrators in a marfu‘ manner has said the following: “Abu al-Hassan, ‘Alayhi al-Salam, was asked about (one’s condition) when defecating. He (the Imam) said, ‘One should not face the direction of al-Ka‘bah, turn one’s back toward al-Ka‘bah, face the direction from which wind blows or turn one’s back to such direction.’” It is narrated in another Hadith that one should not face toward the sun or moon (when using the toilet). "
+          ],
+          "text": "3. Muhammad ibn Yahya through the chain of his narrators in a marfu‘ manner has said the following: “Abu al-Hassan, ‘Alayhi al-Salam, was asked about (one’s condition) when defecating. He (the Imam) said, ‘One should not face the direction of al-Ka‘bah, turn one’s back toward al-Ka‘bah, face the direction from which wind blows or turn one’s back to such direction.’” It is narrated in another Hadith that one should not face toward the sun or moon (when using the toilet)."
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مرفوع وآخره مرسل    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (13/51)",
+          "label": "مرفوع وآخره مرسل",
+          "text": "Allamah Baqir al-Majlisi: مرفوع وآخره مرسل - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (13/51)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى بِإِسْنَادِهِ رَفَعَهُ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى بِإِسْنَادِهِ",
+            "path": "/people/narrators/1199"
+          },
+          {
+            "kind": "plain",
+            "text": " رَفَعَهُ قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/1199"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:3:1:11:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/3/1/11/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:3:1:11:4",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:3:1:11:4",
+        "parts": [
+          3,
+          1,
+          11,
+          4
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 1,
+        "chapter": 11,
+        "hadith": 4
+      },
+      "chapter": {
+        "path": "/books/al-kafi:3:1:11",
+        "titles": {
+          "ar": "باب الْمَوْضِعِ الَّذِي يُكْرَهُ أَنْ يُتَغَوَّطَ فِيهِ أَوْ يُبَالَ",
+          "en": "Chapter 11 – The place in which it is abhorred to defacte or urinate in"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " نَهَى النَّبِيُّ ( صلى الله عليه وآله ) أَنْ يُطَمِّحَ الرَّجُلُ بِبَوْلِهِ مِنَ السَّطْحِ أَوْ مِنَ الشَّيْ‏ءِ الْمُرْتَفِعِ فِي الْهَوَاءِ ."
+        ],
+        "text": "نَهَى النَّبِيُّ ( صلى الله عليه وآله ) أَنْ يُطَمِّحَ الرَّجُلُ بِبَوْلِهِ مِنَ السَّطْحِ أَوْ مِنَ الشَّيْ‏ءِ الْمُرْتَفِعِ فِي الْهَوَاءِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father, from Al Nowfaly, from Al Sakuny, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The Prophet<sup>saww</sup> forbade the man to urinate from the roof, or something from the high places, in the air’."
+          ],
+          "text": "Ali Bin Ibrahim, from his father, from Al Nowfaly, from Al Sakuny,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The Prophet<sup>saww</sup> forbade the man to urinate from the roof, or something from the high places, in the air’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "4. Ali ibn Ibrahim has narrated from his father from al-Nawfaliy from al-Sakuniy who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that the Holy prophet prohibited one’s allowing his urine to sprinkle from rooftops or high places in the air.” "
+          ],
+          "text": "4. Ali ibn Ibrahim has narrated from his father from al-Nawfaliy from al-Sakuniy who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that the Holy prophet prohibited one’s allowing his urine to sprinkle from rooftops or high places in the air.”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (3/53)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (3/53)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنِ النَّوْفَلِيِّ عَنِ السَّكُونِيِّ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "النَّوْفَلِيِّ",
+            "path": "/people/narrators/32"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "السَّكُونِيِّ",
+            "path": "/people/narrators/34"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/32",
+          "/people/narrators/34",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:3:1:11:4",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/3/1/11/4.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:3:1:11:5",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:3:1:11:5",
+        "parts": [
+          3,
+          1,
+          11,
+          5
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 1,
+        "chapter": 11,
+        "hadith": 5
+      },
+      "chapter": {
+        "path": "/books/al-kafi:3:1:11",
+        "titles": {
+          "ar": "باب الْمَوْضِعِ الَّذِي يُكْرَهُ أَنْ يُتَغَوَّطَ فِيهِ أَوْ يُبَالَ",
+          "en": "Chapter 11 – The place in which it is abhorred to defacte or urinate in"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " خَرَجَ أَبُو حَنِيفَةَ مِنْ عِنْدِ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) وَ أَبُو الْحَسَنِ مُوسَى ( عليه السلام ) قَائِمٌ وَ هُوَ غُلَامٌ فَقَالَ لَهُ أَبُو حَنِيفَةَ يَا غُلَامُ أَيْنَ يَضَعُ الْغَرِيبُ بِبَلَدِكُمْ فَقَالَ اجْتَنِبْ أَفْنِيَةَ الْمَسَاجِدِ وَ شُطُوطَ الْأَنْهَارِ وَ مَسَاقِطَ الثِّمَارِ وَ مَنَازِلَ النُّزَّالِ وَ لَا تَسْتَقْبِلِ الْقِبْلَةَ بِغَائِطٍ وَ لَا بَوْلٍ وَ ارْفَعْ ثَوْبَكَ وَ ضَعْ حَيْثُ شِئْتَ ."
+        ],
+        "text": "خَرَجَ أَبُو حَنِيفَةَ مِنْ عِنْدِ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) وَ أَبُو الْحَسَنِ مُوسَى ( عليه السلام ) قَائِمٌ وَ هُوَ غُلَامٌ فَقَالَ لَهُ أَبُو حَنِيفَةَ يَا غُلَامُ أَيْنَ يَضَعُ الْغَرِيبُ بِبَلَدِكُمْ فَقَالَ اجْتَنِبْ أَفْنِيَةَ الْمَسَاجِدِ وَ شُطُوطَ الْأَنْهَارِ وَ مَسَاقِطَ الثِّمَارِ وَ مَنَازِلَ النُّزَّالِ وَ لَا تَسْتَقْبِلِ الْقِبْلَةَ بِغَائِطٍ وَ لَا بَوْلٍ وَ ارْفَعْ ثَوْبَكَ وَ ضَعْ حَيْثُ شِئْتَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, raising it, said, ",
+            "‘Abu Haneefa exited from the presence of Abu Abdullah<sup>asws</sup>, and Abu Al-Hassan Musa<sup>asws</sup> was standing, and he<sup>asws</sup> was a young boy. So Abu Haneefa said to him<sup>asws</sup>, ‘O boy! Where can the strangers in your<sup>asws</sup> city place (their faeces and urine)?’ So he<sup>asws</sup> said: ‘They should keep away from the courtyards of the Masjids, and banks of the rivers, and the places where the fruits fall from the trees, and the houses (places) of combat, and he should neither face the Qiblah by defecation nor urination, and should raise his clothes, and place it where he so desires to’."
+          ],
+          "text": "Ali Bin Ibrahim, raising it, said,\n\n‘Abu Haneefa exited from the presence of Abu Abdullah<sup>asws</sup>, and Abu Al-Hassan Musa<sup>asws</sup> was standing, and he<sup>asws</sup> was a young boy. So Abu Haneefa said to him<sup>asws</sup>, ‘O boy! Where can the strangers in your<sup>asws</sup> city place (their faeces and urine)?’ So he<sup>asws</sup> said: ‘They should keep away from the courtyards of the Masjids, and banks of the rivers, and the places where the fruits fall from the trees, and the houses (places) of combat, and he should neither face the Qiblah by defecation nor urination, and should raise his clothes, and place it where he so desires to’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "5. Ali ibn Ibrahim has narrated in a marfu‘ manner the following: “Once, abu Hanifah came out of a meeting with abu ‘Abd Allah, ‘Alayhi al-Salam. Abu al-Hassan, Musa, a young boy at that time, was standing in the meeting place. Abu Hanifah asked him, ‘O young man, where does an outsider relieve himself of nature’s demand in your town?’ He (the Imam) replied, ‘You must avoid the courtyard of a Masjid, banks of canals, places where fruits fall from trees and people’s rest areas. Do not face the direction of al-Ka‘bah, when defecating or urinating and keep your clothes away (from pollution). Thereafter relieve yourself wherever you like.’” "
+          ],
+          "text": "5. Ali ibn Ibrahim has narrated in a marfu‘ manner the following: “Once, abu Hanifah came out of a meeting with abu ‘Abd Allah, ‘Alayhi al-Salam. Abu al-Hassan, Musa, a young boy at that time, was standing in the meeting place. Abu Hanifah asked him, ‘O young man, where does an outsider relieve himself of nature’s demand in your town?’ He (the Imam) replied, ‘You must avoid the courtyard of a Masjid, banks of canals, places where fruits fall from trees and people’s rest areas. Do not face the direction of al-Ka‘bah, when defecating or urinating and keep your clothes away (from pollution). Thereafter relieve yourself wherever you like.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مرفوع   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (3/52)",
+          "label": "مرفوع",
+          "text": "Allamah Baqir al-Majlisi: مرفوع - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (3/52)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنِ إِبْرَاهِيمَ رَفَعَهُ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنِ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " رَفَعَهُ قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:3:1:11:5",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/3/1/11/5.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:3:1:11:6",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:3:1:11:6",
+        "parts": [
+          3,
+          1,
+          11,
+          6
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 1,
+        "chapter": 11,
+        "hadith": 6
+      },
+      "chapter": {
+        "path": "/books/al-kafi:3:1:11",
+        "titles": {
+          "ar": "باب الْمَوْضِعِ الَّذِي يُكْرَهُ أَنْ يُتَغَوَّطَ فِيهِ أَوْ يُبَالَ",
+          "en": "Chapter 11 – The place in which it is abhorred to defacte or urinate in"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) ثَلَاثُ خِصَالٍ مَلْعُونٌ مَنْ فَعَلَهُنَّ الْمُتَغَوِّطُ فِي ظِلِّ النُّزَّالِ وَ الْمَانِعُ الْمَاءَ الْمُنْتَابَ وَ سَادُّ الطَّرِيقِ الْمَسْلُوكِ ."
+        ],
+        "text": "قَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) ثَلَاثُ خِصَالٍ مَلْعُونٌ مَنْ فَعَلَهُنَّ الْمُتَغَوِّطُ فِي ظِلِّ النُّزَّالِ وَ الْمَانِعُ الْمَاءَ الْمُنْتَابَ وَ سَادُّ الطَّرِيقِ الْمَسْلُوكِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Muhammad Bin Al Husayn, from Muhammad Bin Ismail, from Salih Bin Uqba, from Ibrahim Al Karkhy, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup> said: ‘Three characteristics are accursed for the one who does these – the defecation in the shade of the encampments, and the disrupter of (flow of) water, and obstruction of the travelled road’."
+          ],
+          "text": "Muhammad Bin Yahya, from Muhammad Bin Al Husayn, from Muhammad Bin Ismail, from Salih Bin Uqba, from Ibrahim Al Karkhy,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup> said: ‘Three characteristics are accursed for the one who does these – the defecation in the shade of the encampments, and the disrupter of (flow of) water, and obstruction of the travelled road’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "6. Muhammad ibn Yahya has narrated from Muhammad ibn al-Husayn from Muhammad ibn ’Isma‘il from Salih ibn ‘Uqbah from Ibrahim al-Karkhiy who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that the Messenger of Allah has said, ‘Three characteristics subject one to condemnation: Defecating in the shadows which are used as rest areas, obstructing people from reaching water for public use or public road.” "
+          ],
+          "text": "6. Muhammad ibn Yahya has narrated from Muhammad ibn al-Husayn from Muhammad ibn ’Isma‘il from Salih ibn ‘Uqbah from Ibrahim al-Karkhiy who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that the Messenger of Allah has said, ‘Three characteristics subject one to condemnation: Defecating in the shadows which are used as rest areas, obstructing people from reaching water for public use or public road.”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مجهول    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (13/52)",
+          "label": "مجهول",
+          "text": "Allamah Baqir al-Majlisi: مجهول - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (13/52)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ مُحَمَّدِ بْنِ الْحُسَيْنِ عَنْ مُحَمَّدِ بْنِ إِسْمَاعِيلَ عَنْ صَالِحِ بْنِ عُقْبَةَ عَنْ إِبْرَاهِيمَ الْكَرْخِيِّ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ الْحُسَيْنِ",
+            "path": "/people/narrators/29"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ إِسْمَاعِيلَ",
+            "path": "/people/narrators/17"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "صَالِحِ بْنِ عُقْبَةَ",
+            "path": "/people/narrators/156"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "إِبْرَاهِيمَ الْكَرْخِيِّ",
+            "path": "/people/narrators/363"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/29",
+          "/people/narrators/17",
+          "/people/narrators/156",
+          "/people/narrators/363",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:3:1:11:6",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/3/1/11/6.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

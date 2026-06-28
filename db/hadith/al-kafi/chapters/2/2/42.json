@@ -1,0 +1,145 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:2:2:42",
+  "chapter": {
+    "path": "/books/al-kafi:2:2:42",
+    "titles": {
+      "ar": "بَابُ مَنْ قَالَ يَا اللَّهُ يَا اللَّهُ عَشْرَ مَرَّاتٍ",
+      "en": "Chapter 42 – The one who says, ‘O Allahazwj! O Allahazwj!’ - ten times"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-kafi:2:2:42:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:2:2:42:1",
+        "parts": [
+          2,
+          2,
+          42,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 2,
+        "chapter": 42,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:2:2:42",
+        "titles": {
+          "ar": "بَابُ مَنْ قَالَ يَا اللَّهُ يَا اللَّهُ عَشْرَ مَرَّاتٍ",
+          "en": "Chapter 42 – The one who says, ‘O Allahazwj! O Allahazwj!’ - ten times"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " مَنْ قَالَ يَا اللَّهُ يَا اللَّهُ عَشْرَ مَرَّاتٍ قِيلَ لَهُ لَبَّيْكَ مَا حَاجَتُكَ ."
+        ],
+        "text": "مَنْ قَالَ يَا اللَّهُ يَا اللَّهُ عَشْرَ مَرَّاتٍ قِيلَ لَهُ لَبَّيْكَ مَا حَاجَتُكَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from his father, from Ayoub Bin Al Hurr, a brother of Adeym, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The one who says, ‘O Allah<sup>azwj</sup>! O Allah<sup>azwj</sup>!’, ten times, it would be said to him: ‘At your service, what is your need?’."
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from his father, from Ayoub Bin Al Hurr, a brother of Adeym,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The one who says, ‘O Allah<sup>azwj</sup>! O Allah<sup>azwj</sup>!’, ten times, it would be said to him: ‘At your service, what is your need?’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. Muhammad ibn Y ahya has narrated from Ahmad ibn Muhammad from his father from Ayyub ibn al-Hurr brother of ‘Udaym from abu ‘Abd Allah (a.s.) who has said the following: “Whoever says, ‘O Allah, ten times, it will be said to him, ‘ Labbayka ’ (your call for help is well heard and noted). What kind of help do you need?”’ "
+          ],
+          "text": "1. Muhammad ibn Y ahya has narrated from Ahmad ibn Muhammad from his father from Ayyub ibn al-Hurr brother of ‘Udaym from abu ‘Abd Allah (a.s.) who has said the following: “Whoever says, ‘O Allah, ten times, it will be said to him, ‘ Labbayka ’ (your call for help is well heard and noted). What kind of help do you need?”’"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> صحيح    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (12/206)",
+          "label": "صحيح",
+          "text": "Allamah Baqir al-Majlisi: صحيح - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (12/206)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنْ أَبِيهِ عَنْ أَيُّوبَ بْنِ الْحُرِّ أَخِي أُدَيْمٍ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَيُّوبَ بْنِ الْحُرِّ أَخِي أُدَيْمٍ",
+            "path": "/people/narrators/1400"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/5",
+          "/people/narrators/2",
+          "/people/narrators/1400",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:2:2:42:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/2/2/42/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

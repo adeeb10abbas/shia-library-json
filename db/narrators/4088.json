@@ -1,0 +1,56 @@
+{
+  "id": 4088,
+  "type": "narrator",
+  "path": "/people/narrators/4088",
+  "titles": {
+    "ar": "مَالِكِ بْنِ إِسْمَاعِيلَ النَّهْدِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:111:11"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "35-78-8-719-4088-3514-3302-9": {
+      "narrator_ids": [
+        35,
+        78,
+        8,
+        719,
+        4088,
+        3514,
+        3302,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:111:11"
+      ]
+    },
+    "4088-3514": {
+      "narrator_ids": [
+        4088,
+        3514
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:111:11"
+      ]
+    },
+    "719-4088": {
+      "narrator_ids": [
+        719,
+        4088
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:111:11"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4088",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4088.json"
+  }
+}

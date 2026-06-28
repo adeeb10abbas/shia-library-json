@@ -1,0 +1,44 @@
+{
+  "id": 4284,
+  "type": "narrator",
+  "path": "/people/narrators/4284",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ عَلِيِّ بْنِ عَدِيٍّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:88:9"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "20-4-545-362-4284": {
+      "narrator_ids": [
+        20,
+        4,
+        545,
+        362,
+        4284
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:88:9"
+      ]
+    },
+    "362-4284": {
+      "narrator_ids": [
+        362,
+        4284
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:88:9"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4284",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4284.json"
+  }
+}

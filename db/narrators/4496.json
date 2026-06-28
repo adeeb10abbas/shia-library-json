@@ -1,0 +1,47 @@
+{
+  "id": 4496,
+  "type": "narrator",
+  "path": "/people/narrators/4496",
+  "titles": {
+    "ar": "هِشَامٍ الْخَفَّافِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:48:14"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3097-4496": {
+      "narrator_ids": [
+        3097,
+        4496
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:48:14"
+      ]
+    },
+    "5-35-349-4177-146-620-3097-4496": {
+      "narrator_ids": [
+        5,
+        35,
+        349,
+        4177,
+        146,
+        620,
+        3097,
+        4496
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:48:14"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4496",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4496.json"
+  }
+}

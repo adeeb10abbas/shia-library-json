@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:8:33",
+  "chapter": {
+    "path": "/books/al-khisal:8:33",
+    "titles": {
+      "en": "Nothing In the Heavens And the Earth Except Due To Seven Things"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:8:33:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:8:33:1",
+        "parts": [
+          8,
+          33,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 8,
+        "book": 33,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:8:33",
+        "titles": {
+          "en": "Nothing In the Heavens And the Earth Except Due To Seven Things"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا سعد بن عبد الله، عن إبراهيم بن هاشم، عن أبي عبد الله البرقي، عن زكريا بن عمران، عن أبي الحسن الاول عليه السلام قال: لاتكون شيء في السماوات والارض إلا بسبعة: بقضاء وقدر وإرادة ومشيئة وكتاب وأجل وإذن، فمن قال غير هذا فقد كذب على الله (أ) ورد على الله عز وجل"
+        ],
+        "text": ": حدثنا سعد بن عبد الله، عن إبراهيم بن هاشم، عن أبي عبد الله البرقي، عن زكريا بن عمران، عن أبي الحسن الاول عليه السلام قال: لاتكون شيء في السماوات والارض إلا بسبعة: بقضاء وقدر وإرادة ومشيئة وكتاب وأجل وإذن، فمن قال غير هذا فقد كذب على الله (أ) ورد على الله عز وجل"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "7-47 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Sa’ed ibn Abdullah quoted Ali ibn Ibrahim ibn Hashim, on the authority of Aba Abdullah Al-Barqy, on the authority of Abil Hassan - the first (MGB) , “Nothing will be found in the heavens and the Earth except as a result of the following: fate; destiny; will; volition; written record; death; and permission. Whoever says anything else has indeed ascribed lies to the Honorable the Exalted God.”"
+          ],
+          "text": "7-47 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Sa’ed ibn Abdullah quoted Ali ibn Ibrahim ibn Hashim, on the authority of Aba Abdullah Al-Barqy, on the authority of Abil Hassan - the first (MGB) , “Nothing will be found in the heavens and the Earth except as a result of the following: fate; destiny; will; volition; written record; death; and permission. Whoever says anything else has indeed ascribed lies to the Honorable the Exalted God.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "7-47 حدثنا أبي رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "7-47 حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي رضي الله عنه قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:8:33:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/8/33/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/8/33/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

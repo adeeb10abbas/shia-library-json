@@ -1,0 +1,43 @@
+{
+  "id": 2039,
+  "type": "narrator",
+  "path": "/people/narrators/2039",
+  "titles": {
+    "ar": "أَبِي بَكْرٍ الْفَهْفَكِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:75:11"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1685-2039": {
+      "narrator_ids": [
+        1685,
+        2039
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:75:11"
+      ]
+    },
+    "35-573-1685-2039": {
+      "narrator_ids": [
+        35,
+        573,
+        1685,
+        2039
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:75:11"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2039",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2039.json"
+  }
+}

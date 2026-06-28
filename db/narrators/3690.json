@@ -1,0 +1,56 @@
+{
+  "id": 3690,
+  "type": "narrator",
+  "path": "/people/narrators/3690",
+  "titles": {
+    "ar": "عُرْوَةَ بْنِ أَخِي شُعَيْبٍ الْعَقَرْقُوفِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:2:16:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "263-3690": {
+      "narrator_ids": [
+        263,
+        3690
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:2:16:2"
+      ]
+    },
+    "3690-289": {
+      "narrator_ids": [
+        3690,
+        289
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:2:16:2"
+      ]
+    },
+    "6-5-1212-597-263-3690-289-14": {
+      "narrator_ids": [
+        6,
+        5,
+        1212,
+        597,
+        263,
+        3690,
+        289,
+        14
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:2:16:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3690",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3690.json"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": 1819,
+  "type": "narrator",
+  "path": "/people/narrators/1819",
+  "titles": {
+    "ar": "إِبْرَاهِيمَ بْنِ خَالِدٍ الْقَطَّانِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:3:95:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1819-1682": {
+      "narrator_ids": [
+        1819,
+        1682
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:95:3"
+      ]
+    },
+    "19-24-2210-1819-1682-2": {
+      "narrator_ids": [
+        19,
+        24,
+        2210,
+        1819,
+        1682,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:95:3"
+      ]
+    },
+    "2210-1819": {
+      "narrator_ids": [
+        2210,
+        1819
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:95:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1819",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1819.json"
+  }
+}

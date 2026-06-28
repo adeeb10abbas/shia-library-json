@@ -1,0 +1,85 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:3:82",
+  "chapter": {
+    "path": "/books/al-khisal:3:82",
+    "titles": {
+      "en": "Al-Hassan (as) and Al-Hussein (as) Had Two Amulets"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:3:82:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:3:82:1",
+        "parts": [
+          3,
+          82,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 82,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:3:82",
+        "titles": {
+          "en": "Al-Hassan (as) and Al-Hussein (as) Had Two Amulets"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": أخبرنا محمد بن عبد الله الحضرمي قال: حدثنا أحمد بن يحيى الاحول قال: حدثنا خلاد المقرئ، عن قيس، عن أبي الحصين، عن يحيى بن وثاب، عن ابن عمر قال: كان على الحسن والحسين عليهما السلام تعويذان حشوهما من زغب جناح جبرائيل عليه السلام"
+        ],
+        "text": ": أخبرنا محمد بن عبد الله الحضرمي قال: حدثنا أحمد بن يحيى الاحول قال: حدثنا خلاد المقرئ، عن قيس، عن أبي الحصين، عن يحيى بن وثاب، عن ابن عمر قال: كان على الحسن والحسين عليهما السلام تعويذان حشوهما من زغب جناح جبرائيل عليه السلام"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "2-99 Ali ibn Muhammad ibn al-Hassan al-Qazvini known as Ibn Muqayrih narrated that Muhammad ibn Abdullah al-Hazrami quoted Ahmad ibn Yahya al-Ahval, on the authority of Khilad al-Muqar’ri, on the authority of Qays, on the authority of Abil Hassain , on the authority of Yahya ibn Vasab that Ibn Umar said, “Al-Hassan (MGB) and Al-Hussein (MGB) had two amulets which were filled with fuzz from the wings of Gabriel (MGB).”"
+          ],
+          "text": "2-99 Ali ibn Muhammad ibn al-Hassan al-Qazvini known as Ibn Muqayrih narrated that Muhammad ibn Abdullah al-Hazrami quoted Ahmad ibn Yahya al-Ahval, on the authority of Khilad al-Muqar’ri, on the authority of Qays, on the authority of Abil Hassain , on the authority of Yahya ibn Vasab that Ibn Umar said, “Al-Hassan (MGB) and Al-Hussein (MGB) had two amulets which were filled with fuzz from the wings of Gabriel (MGB).”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "2-99 حدثنا علي بن محمد بن الحسن القزويني المعروف بابن مقبرة قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "2-99 حدثنا "
+          },
+          {
+            "kind": "plain",
+            "text": "علي بن محمد بن الحسن القزويني المعروف بابن مقبرة قال"
+          }
+        ],
+        "narratorPaths": []
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:3:82:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/3/82/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/3/82/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

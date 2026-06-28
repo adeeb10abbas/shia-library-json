@@ -1,0 +1,53 @@
+{
+  "id": 2510,
+  "type": "narrator",
+  "path": "/people/narrators/2510",
+  "titles": {
+    "ar": "الْحَجَّاجِ الْخَشَّابِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:3:4:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "19-528-292-2510-2200": {
+      "narrator_ids": [
+        19,
+        528,
+        292,
+        2510,
+        2200
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:3:4:5"
+      ]
+    },
+    "2510-2200": {
+      "narrator_ids": [
+        2510,
+        2200
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:3:4:5"
+      ]
+    },
+    "292-2510": {
+      "narrator_ids": [
+        292,
+        2510
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:3:4:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2510",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2510.json"
+  }
+}

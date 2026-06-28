@@ -1,0 +1,53 @@
+{
+  "id": 3058,
+  "type": "narrator",
+  "path": "/people/narrators/3058",
+  "titles": {
+    "ar": "حُسَيْنٍ الْحَرْشُوشِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:3:73:8"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "240-3058": {
+      "narrator_ids": [
+        240,
+        3058
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:73:8"
+      ]
+    },
+    "3058-47": {
+      "narrator_ids": [
+        3058,
+        47
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:73:8"
+      ]
+    },
+    "50-3781-240-3058-47": {
+      "narrator_ids": [
+        50,
+        3781,
+        240,
+        3058,
+        47
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:73:8"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3058",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3058.json"
+  }
+}

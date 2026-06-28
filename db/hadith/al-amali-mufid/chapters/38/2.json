@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-amali-mufid",
+  "chapterPath": "/books/al-amali-mufid:38:2",
+  "chapter": {
+    "path": "/books/al-amali-mufid:38:2",
+    "titles": {
+      "en": "The most helpless man"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-amali-mufid:38:2:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-amali-mufid",
+        "titles": {
+          "ar": "الأمالي (المفيد)",
+          "en": "Al-Amali (al-Mufid)"
+        },
+        "author": {
+          "ar": "الشيخ المفيد",
+          "en": "Shaykh al-Mufid"
+        }
+      },
+      "path": {
+        "source": "/books/al-amali-mufid:38:2:1",
+        "parts": [
+          38,
+          2,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 38,
+        "book": 2,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-amali-mufid:38:2",
+        "titles": {
+          "en": "The most helpless man"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا أبو بكر محمد بن عمر الجعابي قال: حدثنا أبو جعفر محمد بن صالح القاضي قال: حدثنا مسروق بن المرزبان  قال: حدثنا حفص، عن عاصم، عن أبي عثمان، عن أبي هريرة قال: قال رسول الله صلى الله عليه وآله: إن أعجز الناس من عجز عن الدعاء، وإن أبخل الناس من بخل بالسلام."
+        ],
+        "text": ": حدثنا أبو بكر محمد بن عمر الجعابي قال: حدثنا أبو جعفر محمد بن صالح القاضي قال: حدثنا مسروق بن المرزبان  قال: حدثنا حفص، عن عاصم، عن أبي عثمان، عن أبي هريرة قال: قال رسول الله صلى الله عليه وآله: إن أعجز الناس من عجز عن الدعاء، وإن أبخل الناس من بخل بالسلام."
+      },
+      "translations": {
+        "en.mulla-asgharali-m-m-jaffer": {
+          "segments": [
+            "2. He said: Abu Bakr Muhammad ibn Umar al-Ji’abi reported to me from Abu Ja’far Muhammad ibn Swaleh al-Qadhi, who reported from Masrooq ibn al-Marzban, who reported from Hafs, from Asim, from Abu Uthman, from Abu Huraira, who said: The Prophet, peace be upon him and his progeny, said: \"The most helpless person is the one who renders himself unable to supplicate (to Allah), and the most niggardly is the one who is miserly with greeting in salaam.\""
+          ],
+          "text": "2. He said: Abu Bakr Muhammad ibn Umar al-Ji’abi reported to me from Abu Ja’far Muhammad ibn Swaleh al-Qadhi, who reported from Masrooq ibn al-Marzban, who reported from Hafs, from Asim, from Abu Uthman, from Abu Huraira, who said: The Prophet, peace be upon him and his progeny, said: \"The most helpless person is the one who renders himself unable to supplicate (to Allah), and the most niggardly is the one who is miserly with greeting in salaam.\""
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "2 - قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "2 - "
+          },
+          {
+            "kind": "narrator",
+            "text": "قال",
+            "path": "/people/narrators/652"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/652"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-amali-mufid:38:2:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-amali-mufid/38/2/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/13/38/2/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

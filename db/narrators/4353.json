@@ -1,0 +1,63 @@
+{
+  "id": 4353,
+  "type": "narrator",
+  "path": "/people/narrators/4353",
+  "titles": {
+    "ar": "مُدْرِكِ بْنِ عَبْدِ الرَّحْمَنِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:22:2",
+    "/books/man-la-yahduruhu-al-faqih:4:175:90"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "11-2-198-4353-669": {
+      "narrator_ids": [
+        11,
+        2,
+        198,
+        4353,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:22:2"
+      ]
+    },
+    "198-4353": {
+      "narrator_ids": [
+        198,
+        4353
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:22:2"
+      ]
+    },
+    "333-4353": {
+      "narrator_ids": [
+        333,
+        4353
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:4:175:90"
+      ]
+    },
+    "4353-669": {
+      "narrator_ids": [
+        4353,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:22:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4353",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4353.json"
+  }
+}

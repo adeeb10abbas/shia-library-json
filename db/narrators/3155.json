@@ -1,0 +1,43 @@
+{
+  "id": 3155,
+  "type": "narrator",
+  "path": "/people/narrators/3155",
+  "titles": {
+    "ar": "دَاوُدَ الرَّقِّيِّ أَوْ غَيْرِهِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:4:15:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "133-376-35-3155": {
+      "narrator_ids": [
+        133,
+        376,
+        35,
+        3155
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:4:15:1"
+      ]
+    },
+    "35-3155": {
+      "narrator_ids": [
+        35,
+        3155
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:4:15:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3155",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3155.json"
+  }
+}

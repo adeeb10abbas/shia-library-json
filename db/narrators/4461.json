@@ -1,0 +1,43 @@
+{
+  "id": 4461,
+  "type": "narrator",
+  "path": "/people/narrators/4461",
+  "titles": {
+    "ar": "نَادِرٍ جَمِيعاً"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:48:10"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-390-558-4461": {
+      "narrator_ids": [
+        11,
+        390,
+        558,
+        4461
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:48:10"
+      ]
+    },
+    "558-4461": {
+      "narrator_ids": [
+        558,
+        4461
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:48:10"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4461",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4461.json"
+  }
+}

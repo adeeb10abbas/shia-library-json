@@ -1,0 +1,55 @@
+{
+  "id": 1966,
+  "type": "narrator",
+  "path": "/people/narrators/1966",
+  "titles": {
+    "ar": "أَبِي الْحَسَنِ الْبَجَلِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:4:24:13"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-24-17-638-1966-1551-9": {
+      "narrator_ids": [
+        11,
+        24,
+        17,
+        638,
+        1966,
+        1551,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:24:13"
+      ]
+    },
+    "1966-1551": {
+      "narrator_ids": [
+        1966,
+        1551
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:24:13"
+      ]
+    },
+    "638-1966": {
+      "narrator_ids": [
+        638,
+        1966
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:24:13"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1966",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1966.json"
+  }
+}

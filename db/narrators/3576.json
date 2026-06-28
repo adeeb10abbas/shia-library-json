@@ -1,0 +1,56 @@
+{
+  "id": 3576,
+  "type": "narrator",
+  "path": "/people/narrators/3576",
+  "titles": {
+    "ar": "عَبْدِ اللَّهِ بْنِ خِدَاشٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:3:91:16",
+    "/books/tahdhib-al-ahkam:7:26:32"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "167-3576": {
+      "narrator_ids": [
+        167,
+        3576
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:91:16",
+        "/books/tahdhib-al-ahkam:7:26:32"
+      ]
+    },
+    "3576-1502": {
+      "narrator_ids": [
+        3576,
+        1502
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:91:16",
+        "/books/tahdhib-al-ahkam:7:26:32"
+      ]
+    },
+    "4-167-3576-1502": {
+      "narrator_ids": [
+        4,
+        167,
+        3576,
+        1502
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:91:16",
+        "/books/tahdhib-al-ahkam:7:26:32"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3576",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3576.json"
+  }
+}

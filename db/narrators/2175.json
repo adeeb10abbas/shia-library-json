@@ -1,0 +1,66 @@
+{
+  "id": 2175,
+  "type": "narrator",
+  "path": "/people/narrators/2175",
+  "titles": {
+    "ar": "أَبِي عَلِيٍّ صَاحِبِ الْأَنْمَاطِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:9:8",
+    "/books/tahdhib-al-ahkam:2:14:46"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "2175-148": {
+      "narrator_ids": [
+        2175,
+        148
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:9:8"
+      ]
+    },
+    "4134-101-7-2175": {
+      "narrator_ids": [
+        4134,
+        101,
+        7,
+        2175
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:14:46"
+      ]
+    },
+    "6-5-7-2175-148": {
+      "narrator_ids": [
+        6,
+        5,
+        7,
+        2175,
+        148
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:9:8"
+      ]
+    },
+    "7-2175": {
+      "narrator_ids": [
+        7,
+        2175
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:9:8",
+        "/books/tahdhib-al-ahkam:2:14:46"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2175",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2175.json"
+  }
+}

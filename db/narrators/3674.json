@@ -1,0 +1,87 @@
+{
+  "id": 3674,
+  "type": "narrator",
+  "path": "/people/narrators/3674",
+  "titles": {
+    "ar": "عُثْمَانَ بْنِ زِيَادٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:20:8",
+    "/books/man-la-yahduruhu-al-faqih:3:2:26:7",
+    "/books/tahdhib-al-ahkam:1:18:41",
+    "/books/tahdhib-al-ahkam:1:37:33"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "140-3674": {
+      "narrator_ids": [
+        140,
+        3674
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:20:8"
+      ]
+    },
+    "21-3674": {
+      "narrator_ids": [
+        21,
+        3674
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:37:33"
+      ]
+    },
+    "21-82-46-3674": {
+      "narrator_ids": [
+        21,
+        82,
+        46,
+        3674
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:18:41"
+      ]
+    },
+    "3-2-17-33-7-140-3674": {
+      "narrator_ids": [
+        3,
+        2,
+        17,
+        33,
+        7,
+        140,
+        3674
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:20:8"
+      ]
+    },
+    "3674-9": {
+      "narrator_ids": [
+        3674,
+        9
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:3:2:26:7"
+      ]
+    },
+    "46-3674": {
+      "narrator_ids": [
+        46,
+        3674
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:18:41"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3674",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3674.json"
+  }
+}

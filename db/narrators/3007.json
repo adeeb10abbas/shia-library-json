@@ -1,0 +1,119 @@
+{
+  "id": 3007,
+  "type": "narrator",
+  "path": "/people/narrators/3007",
+  "titles": {
+    "ar": "جَعْفَرِ بْنِ مُحَمَّدِ بْنِ أَبِي الصَّبَّاحِ"
+  },
+  "versePaths": [
+    "/books/al-istibsar:2:27:6",
+    "/books/al-kafi:5:2:159:10",
+    "/books/tahdhib-al-ahkam:1:21:34",
+    "/books/tahdhib-al-ahkam:4:56:58"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "1073-3007": {
+      "narrator_ids": [
+        1073,
+        3007
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:21:34"
+      ]
+    },
+    "27-3007": {
+      "narrator_ids": [
+        27,
+        3007
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:159:10"
+      ]
+    },
+    "3007-140": {
+      "narrator_ids": [
+        3007,
+        140
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:2:27:6",
+        "/books/tahdhib-al-ahkam:1:21:34",
+        "/books/tahdhib-al-ahkam:4:56:58"
+      ]
+    },
+    "3007-140-64": {
+      "narrator_ids": [
+        3007,
+        140,
+        64
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:4:56:58"
+      ]
+    },
+    "3007-2": {
+      "narrator_ids": [
+        3007,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:159:10"
+      ]
+    },
+    "4-59-27-3007-2-253": {
+      "narrator_ids": [
+        4,
+        59,
+        27,
+        3007,
+        2,
+        253
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:159:10"
+      ]
+    },
+    "645-1073-3007-140-64": {
+      "narrator_ids": [
+        645,
+        1073,
+        3007,
+        140,
+        64
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:21:34"
+      ]
+    },
+    "645-3007": {
+      "narrator_ids": [
+        645,
+        3007
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:2:27:6"
+      ]
+    },
+    "645-3007-140-64": {
+      "narrator_ids": [
+        645,
+        3007,
+        140,
+        64
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:2:27:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3007",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3007.json"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": 2688,
+  "type": "narrator",
+  "path": "/people/narrators/2688",
+  "titles": {
+    "ar": "الرِّضَا ( عليه السلام ) أَوْ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:82:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "5-515-2688": {
+      "narrator_ids": [
+        5,
+        515,
+        2688
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:82:4"
+      ]
+    },
+    "515-2688": {
+      "narrator_ids": [
+        515,
+        2688
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:82:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2688",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2688.json"
+  }
+}

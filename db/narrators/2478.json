@@ -1,0 +1,52 @@
+{
+  "id": 2478,
+  "type": "narrator",
+  "path": "/people/narrators/2478",
+  "titles": {
+    "ar": "الْأَشْعَثِ بْنِ مُحَمَّدٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:18:8"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2478-4215": {
+      "narrator_ids": [
+        2478,
+        4215
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:18:8"
+      ]
+    },
+    "36-2478": {
+      "narrator_ids": [
+        36,
+        2478
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:18:8"
+      ]
+    },
+    "90-36-2478-4215": {
+      "narrator_ids": [
+        90,
+        36,
+        2478,
+        4215
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:18:8"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2478",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2478.json"
+  }
+}

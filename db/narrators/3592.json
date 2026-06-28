@@ -1,0 +1,56 @@
+{
+  "id": 3592,
+  "type": "narrator",
+  "path": "/people/narrators/3592",
+  "titles": {
+    "ar": "عَبْدِ اللَّهِ بْنِ عُثْمَانَ أَبِي إِسْمَاعِيلَ السَّرَّاجِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:4:95:6"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "17-3592": {
+      "narrator_ids": [
+        17,
+        3592
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:95:6"
+      ]
+    },
+    "3592-915": {
+      "narrator_ids": [
+        3592,
+        915
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:95:6"
+      ]
+    },
+    "4-5-17-3592-915-57-2436-2846": {
+      "narrator_ids": [
+        4,
+        5,
+        17,
+        3592,
+        915,
+        57,
+        2436,
+        2846
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:95:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3592",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3592.json"
+  }
+}

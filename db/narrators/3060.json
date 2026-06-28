@@ -1,0 +1,44 @@
+{
+  "id": 3060,
+  "type": "narrator",
+  "path": "/people/narrators/3060",
+  "titles": {
+    "ar": "حُسَيْنٍ الرَّزَّازِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:2:1:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "164-3060": {
+      "narrator_ids": [
+        164,
+        3060
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:2:1:1"
+      ]
+    },
+    "3-157-143-164-3060": {
+      "narrator_ids": [
+        3,
+        157,
+        143,
+        164,
+        3060
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:2:1:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3060",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3060.json"
+  }
+}

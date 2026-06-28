@@ -1,0 +1,442 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "mujam-al-ahadith-al-mutabara",
+  "chapterPath": "/books/mujam-al-ahadith-al-mutabara:3:80",
+  "chapter": {
+    "path": "/books/mujam-al-ahadith-al-mutabara:3:80",
+    "titles": {
+      "en": "Layth b. al-Bukhtari"
+    }
+  },
+  "count": 4,
+  "records": [
+    {
+      "id": "mujam-al-ahadith-al-mutabara:3:80:1",
+      "type": "hadith",
+      "book": {
+        "slug": "mujam-al-ahadith-al-mutabara",
+        "titles": {
+          "ar": "معجم الأحاديث المعتبرة",
+          "en": "Mu'jam al-Ahadith al-Mu'tabara"
+        },
+        "author": {
+          "en": "Muhammad Asif al-Muhsini"
+        }
+      },
+      "path": {
+        "source": "/books/mujam-al-ahadith-al-mutabara:3:80:1",
+        "parts": [
+          3,
+          80,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 80,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/mujam-al-ahadith-al-mutabara:3:80",
+        "titles": {
+          "en": "Layth b. al-Bukhtari"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": سمعت أبا عبد الله عليه السلام يقول: ما أحد أحيا ذكرنا و أحاديث أبي عليه السلام إلا زرارة و أبو بصير ليث المرادي و محمد بن مسلم و بريد بن معاوية العجلي و لو لا هؤلاء ما كان أحد يستنبط هذا، هؤلاء حفاظ الدين و أمناء أبي عليه السلام على حلال الله و حرامه، و هم السابقون إلينا في الدنيا و السابقون إلينا في الآخرة"
+        ],
+        "text": ": سمعت أبا عبد الله عليه السلام يقول: ما أحد أحيا ذكرنا و أحاديث أبي عليه السلام إلا زرارة و أبو بصير ليث المرادي و محمد بن مسلم و بريد بن معاوية العجلي و لو لا هؤلاء ما كان أحد يستنبط هذا، هؤلاء حفاظ الدين و أمناء أبي عليه السلام على حلال الله و حرامه، و هم السابقون إلينا في الدنيا و السابقون إلينا في الآخرة"
+      },
+      "translations": {
+        "en.ammaar-muslim": {
+          "segments": [
+            "1. [1/-] Rijal al-Kashshi: Hamduwayh from Ya`qub b. Yazid from Ibn Abi Umayr from Hisham b. Salim from Sulayman b. Khalid al-Aqta who said: I heard Aba Abdillah عليه السلام saying: There is no one who has enlivened our remembrance and the narrations of my father عليه السلام except for Zurara, Abu Basir Layth al-Muradi, Muhammad b. Muslim and Burayd b. Muawiya al-Ijli. If it wasn’t for them then there wouldn’t be anyone who could derive these [i.e. the Ahkam]. They are the protectors of the religion and the trustees of my father عليه السلام upon the Halal of Allah and His Haram. They are the foremost to us in this world, and the foremost to us in the hereafter."
+          ],
+          "text": "1. [1/-] Rijal al-Kashshi: Hamduwayh from Ya`qub b. Yazid from Ibn Abi Umayr from Hisham b. Salim from Sulayman b. Khalid al-Aqta who said: I heard Aba Abdillah عليه السلام saying: There is no one who has enlivened our remembrance and the narrations of my father عليه السلام except for Zurara, Abu Basir Layth al-Muradi, Muhammad b. Muslim and Burayd b. Muawiya al-Ijli. If it wasn’t for them then there wouldn’t be anyone who could derive these [i.e. the Ahkam]. They are the protectors of the religion and the trustees of my father عليه السلام upon the Halal of Allah and His Haram. They are the foremost to us in this world, and the foremost to us in the hereafter."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "[-/1] رجال الكشي: حمدويه، عن يعقوب بن يزيد، عن ابن أبي عمير، عن هشام بن سالم، عن سليمان بن خالد الأقطع قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "[-/1] رجال الكشي: حمدويه،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "يعقوب بن يزيد،",
+            "path": "/people/narrators/101"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابن أبي عمير،",
+            "path": "/people/narrators/7"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "هشام بن سالم،",
+            "path": "/people/narrators/47"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "سليمان بن خالد الأقطع قال"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/101",
+          "/people/narrators/7",
+          "/people/narrators/47"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/mujam-al-ahadith-al-mutabara:3:32:5"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/mujam-al-ahadith-al-mutabara:3:80:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/mujam-al-ahadith-al-mutabara/3/80/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/9/3/81/1",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "mujam-al-ahadith-al-mutabara:3:80:2",
+      "type": "hadith",
+      "book": {
+        "slug": "mujam-al-ahadith-al-mutabara",
+        "titles": {
+          "ar": "معجم الأحاديث المعتبرة",
+          "en": "Mu'jam al-Ahadith al-Mu'tabara"
+        },
+        "author": {
+          "en": "Muhammad Asif al-Muhsini"
+        }
+      },
+      "path": {
+        "source": "/books/mujam-al-ahadith-al-mutabara:3:80:2",
+        "parts": [
+          3,
+          80,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 80,
+        "chapter": 2
+      },
+      "chapter": {
+        "path": "/books/mujam-al-ahadith-al-mutabara:3:80",
+        "titles": {
+          "en": "Layth b. al-Bukhtari"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": سمعت أبا عبد الله عليه السلام يقول: بشر المخبتين بالجنة بريد بن معاوية العجلي و أبو بصير ليث بن البختري المرادي و محمد بن مسلم و زرارة، أربعة نجباء أمناء الله على حلاله و حرامه، لو لا هؤلاء انقطعت آثار النبوة و اندرست"
+        ],
+        "text": ": سمعت أبا عبد الله عليه السلام يقول: بشر المخبتين بالجنة بريد بن معاوية العجلي و أبو بصير ليث بن البختري المرادي و محمد بن مسلم و زرارة، أربعة نجباء أمناء الله على حلاله و حرامه، لو لا هؤلاء انقطعت آثار النبوة و اندرست"
+      },
+      "translations": {
+        "en.ammaar-muslim": {
+          "segments": [
+            "2. [2/225] Rijal al-Kashshi: Hamduwayh b. Nusayr from Ya`qub b. Yazid from Muhammad b. Abi Umayr from Jamil b. Darraj who said: I heard Aba Abdillah عليه السلام say: Give glad tidings of paradise to the humble – Burayd b. Muawiya al-Ijli, Abu Basir Layth b. al-Bukhtari al-Muradi, Muhammad b. Muslim and Zurara. Four noble-ones and trustees of Allah upon his Halal and Haram. If it wasn’t for them the traces of prophethood would have perished and been destroyed."
+          ],
+          "text": "2. [2/225] Rijal al-Kashshi: Hamduwayh b. Nusayr from Ya`qub b. Yazid from Muhammad b. Abi Umayr from Jamil b. Darraj who said: I heard Aba Abdillah عليه السلام say: Give glad tidings of paradise to the humble – Burayd b. Muawiya al-Ijli, Abu Basir Layth b. al-Bukhtari al-Muradi, Muhammad b. Muslim and Zurara. Four noble-ones and trustees of Allah upon his Halal and Haram. If it wasn’t for them the traces of prophethood would have perished and been destroyed."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "[2/225] رجال الكشي: حمدويه بن نصير، عن يعقوب بن يزيد، عن محمد بن أبي عمير، عن جميل بن دراج قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "[2/225] رجال الكشي: حمدويه بن نصير،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "يعقوب بن يزيد،",
+            "path": "/people/narrators/101"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "محمد بن أبي عمير،",
+            "path": "/people/narrators/318"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "جميل بن دراج قال",
+            "path": "/people/narrators/66"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/101",
+          "/people/narrators/318",
+          "/people/narrators/66"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/mujam-al-ahadith-al-mutabara:3:32:2"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/mujam-al-ahadith-al-mutabara:3:80:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/mujam-al-ahadith-al-mutabara/3/80/2.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/9/3/81/2",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "mujam-al-ahadith-al-mutabara:3:80:3",
+      "type": "hadith",
+      "book": {
+        "slug": "mujam-al-ahadith-al-mutabara",
+        "titles": {
+          "ar": "معجم الأحاديث المعتبرة",
+          "en": "Mu'jam al-Ahadith al-Mu'tabara"
+        },
+        "author": {
+          "en": "Muhammad Asif al-Muhsini"
+        }
+      },
+      "path": {
+        "source": "/books/mujam-al-ahadith-al-mutabara:3:80:3",
+        "parts": [
+          3,
+          80,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 80,
+        "chapter": 3
+      },
+      "chapter": {
+        "path": "/books/mujam-al-ahadith-al-mutabara:3:80",
+        "titles": {
+          "en": "Layth b. al-Bukhtari"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": بينا نحن عند أبي عبد الله إذ دخل أبو بصير، فقال أبو عبد الله عليه السلام: الحمد لله الذي لم يقدم أحد يشكو أصحابنا العام، قال هشام: فظننت أنه يعرض بأبي بصير"
+        ],
+        "text": ": بينا نحن عند أبي عبد الله إذ دخل أبو بصير، فقال أبو عبد الله عليه السلام: الحمد لله الذي لم يقدم أحد يشكو أصحابنا العام، قال هشام: فظننت أنه يعرض بأبي بصير"
+      },
+      "translations": {
+        "en.ammaar-muslim": {
+          "segments": [
+            "3. [3/226] Rijal al-Kashshi: al-Husayn b. Ishkib from Muhammad b. Khalid al-Barqi from Ibn Abi Umayr from Hisham b. Salim and Abi al-Abbas who said: We were together with Abi Abdillah when Abu Basir entered so Abu Abdillah عليه السلام said: All praise be to Allah who did not bring forth anyone who complains about our companions [to me] this year [so far]. So I [Hisham] thought that he was alluding to Abi Basir [in saying this]."
+          ],
+          "text": "3. [3/226] Rijal al-Kashshi: al-Husayn b. Ishkib from Muhammad b. Khalid al-Barqi from Ibn Abi Umayr from Hisham b. Salim and Abi al-Abbas who said: We were together with Abi Abdillah when Abu Basir entered so Abu Abdillah عليه السلام said: All praise be to Allah who did not bring forth anyone who complains about our companions [to me] this year [so far]. So I [Hisham] thought that he was alluding to Abi Basir [in saying this]."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "[3/226] رجال الكشي: الحسين بن إشكيب، عن محمد بن خالد البرقي، عن ابن أبي عمير، عن هشام بن سالم و أبي العباس قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "[3/226] رجال الكشي: الحسين بن إشكيب،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "محمد بن خالد البرقي،",
+            "path": "/people/narrators/555"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابن أبي عمير،",
+            "path": "/people/narrators/7"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "هشام بن سالم",
+            "path": "/people/narrators/47"
+          },
+          {
+            "kind": "plain",
+            "text": " و "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي العباس قال",
+            "path": "/people/narrators/201"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/555",
+          "/people/narrators/7",
+          "/people/narrators/47",
+          "/people/narrators/201"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/mujam-al-ahadith-al-mutabara:3:80:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/mujam-al-ahadith-al-mutabara/3/80/3.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/9/3/81/3",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "mujam-al-ahadith-al-mutabara:3:80:4",
+      "type": "hadith",
+      "book": {
+        "slug": "mujam-al-ahadith-al-mutabara",
+        "titles": {
+          "ar": "معجم الأحاديث المعتبرة",
+          "en": "Mu'jam al-Ahadith al-Mu'tabara"
+        },
+        "author": {
+          "en": "Muhammad Asif al-Muhsini"
+        }
+      },
+      "path": {
+        "source": "/books/mujam-al-ahadith-al-mutabara:3:80:4",
+        "parts": [
+          3,
+          80,
+          4
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 80,
+        "chapter": 4
+      },
+      "chapter": {
+        "path": "/books/mujam-al-ahadith-al-mutabara:3:80",
+        "titles": {
+          "en": "Layth b. al-Bukhtari"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": صلى بنا أبوبصير في طريق مكة فقال: وهو ساجد وقد كانت ضاعت ناقة لهم اللهم رد على فلان ناقته قال محمد: فدخلت على أبي عبدالله عليه السلام فاخبرته فقال: وفعل؟! فقلت: نعم قال فسكت قلت افاعيد الصلاة؟ قال: لا"
+        ],
+        "text": ": صلى بنا أبوبصير في طريق مكة فقال: وهو ساجد وقد كانت ضاعت ناقة لهم اللهم رد على فلان ناقته قال محمد: فدخلت على أبي عبدالله عليه السلام فاخبرته فقال: وفعل؟! فقلت: نعم قال فسكت قلت افاعيد الصلاة؟ قال: لا"
+      },
+      "translations": {
+        "en.ammaar-muslim": {
+          "segments": [
+            "4. [4/227] Tahdhib al-Ahkam: Via his chain to Ahmad b. Muhammad from Ibn Abi Umayr from Hisham b. Salim from Muhammad b. Muslim who said: Abu Basir led us in prayer when we were on the road to Makka. He [Abu Basir] said while in prostration – and a camel of theirs had become lost: ‘O Allah return to so-and-so [naming him] his camel’. Muhammad said: I entered in to see Abi Abdillah عليه السلام and informed him [of what had happened], so he [the Imam] said: Did he really do that?! I [Muhammad b. Muslim] said: Yes. He [the Imam] remained silent. I [Muhammad b. Muslim] said: Should I repeat the prayer? He said: No."
+          ],
+          "text": "4. [4/227] Tahdhib al-Ahkam: Via his chain to Ahmad b. Muhammad from Ibn Abi Umayr from Hisham b. Salim from Muhammad b. Muslim who said: Abu Basir led us in prayer when we were on the road to Makka. He [Abu Basir] said while in prostration – and a camel of theirs had become lost: ‘O Allah return to so-and-so [naming him] his camel’. Muhammad said: I entered in to see Abi Abdillah عليه السلام and informed him [of what had happened], so he [the Imam] said: Did he really do that?! I [Muhammad b. Muslim] said: Yes. He [the Imam] remained silent. I [Muhammad b. Muslim] said: Should I repeat the prayer? He said: No."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "[4/227] تهذيب الاحكام: باسناده عن أحمد بن محمد عن ابن أبي عمير عن هشام بن سالم عن محمد بن مسلم قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "[4/227] تهذيب الاحكام: باسناده"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أحمد بن محمد",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابن أبي عمير",
+            "path": "/people/narrators/7"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "هشام بن سالم",
+            "path": "/people/narrators/47"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "محمد بن مسلم قال",
+            "path": "/people/narrators/16"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/5",
+          "/people/narrators/7",
+          "/people/narrators/47",
+          "/people/narrators/16"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/tahdhib-al-ahkam:2:15:60"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/mujam-al-ahadith-al-mutabara:3:80:4",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/mujam-al-ahadith-al-mutabara/3/80/4.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/9/3/81/4",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

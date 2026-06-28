@@ -1,0 +1,54 @@
+{
+  "id": 3841,
+  "type": "narrator",
+  "path": "/people/narrators/3841",
+  "titles": {
+    "ar": "عَمَّارِ بْنِ مَرْوَانَ الْقَنْدِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:114:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1148-3841": {
+      "narrator_ids": [
+        1148,
+        3841
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:114:1"
+      ]
+    },
+    "3841-31": {
+      "narrator_ids": [
+        3841,
+        31
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:114:1"
+      ]
+    },
+    "6-12-1148-3841-31-669": {
+      "narrator_ids": [
+        6,
+        12,
+        1148,
+        3841,
+        31,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:114:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3841",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3841.json"
+  }
+}

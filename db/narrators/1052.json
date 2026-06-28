@@ -1,0 +1,99 @@
+{
+  "id": 1052,
+  "type": "narrator",
+  "path": "/people/narrators/1052",
+  "titles": {
+    "ar": "الْمُطَّلِبِ بْنِ زِيَادٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:3:157:7",
+    "/books/al-kafi:6:6:83:3",
+    "/books/al-kafi:6:8:52:5"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "1052-2041": {
+      "narrator_ids": [
+        1052,
+        2041
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:52:5"
+      ]
+    },
+    "1052-669": {
+      "narrator_ids": [
+        1052,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:157:7",
+        "/books/al-kafi:6:6:83:3"
+      ]
+    },
+    "129-1052": {
+      "narrator_ids": [
+        129,
+        1052
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:157:7"
+      ]
+    },
+    "2-1052": {
+      "narrator_ids": [
+        2,
+        1052
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:83:3",
+        "/books/al-kafi:6:8:52:5"
+      ]
+    },
+    "4-29-129-1052-669": {
+      "narrator_ids": [
+        4,
+        29,
+        129,
+        1052,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:157:7"
+      ]
+    },
+    "6-12-2-1052-2041": {
+      "narrator_ids": [
+        6,
+        12,
+        2,
+        1052,
+        2041
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:52:5"
+      ]
+    },
+    "6-12-2-1052-669": {
+      "narrator_ids": [
+        6,
+        12,
+        2,
+        1052,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:83:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1052",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1052.json"
+  }
+}

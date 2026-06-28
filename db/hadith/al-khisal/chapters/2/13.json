@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:2:13",
+  "chapter": {
+    "path": "/books/al-khisal:2:13",
+    "titles": {
+      "en": "A Characteristic for Which the People Deserve to be Rewarded or Punished"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:2:13:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:2:13:1",
+        "parts": [
+          2,
+          13,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 13,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:2:13",
+        "titles": {
+          "en": "A Characteristic for Which the People Deserve to be Rewarded or Punished"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا محمد بن يحيى العطار، عن محمد بن أحمد بن يحيى بن عمران الاشعري، عن محمد بن السندي، عن علي بن الحكم، عن إبراهيم بن مهزم الاسدي، عن أبي حمزة، عن علي بن الحسين عليهما السلام قال: إن لسان ابن آدم يشرف كل يوم على جوارحه فيقول: كيف أصبحتم؟ فيقولون: بخير إن تركتنا، ويقولون: الله الله فينا، ويناشدونه، ويقولون: إنما نثاب بك، ونعاقب بك"
+        ],
+        "text": ": حدثنا محمد بن يحيى العطار، عن محمد بن أحمد بن يحيى بن عمران الاشعري، عن محمد بن السندي، عن علي بن الحكم، عن إبراهيم بن مهزم الاسدي، عن أبي حمزة، عن علي بن الحسين عليهما السلام قال: إن لسان ابن آدم يشرف كل يوم على جوارحه فيقول: كيف أصبحتم؟ فيقولون: بخير إن تركتنا، ويقولون: الله الله فينا، ويناشدونه، ويقولون: إنما نثاب بك، ونعاقب بك"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "1-15 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Muhammad ibn Yahya al-Attar quoted on the authority of Muhammad ibn Ahmad ibn Yahya ibn Imran al-Ash’ari, on the authority of Ali ibn al-Hikam, on the authority of Ibrahim ibn Mihzam Al-Asady, on the authority of Abi Hamzih, on the authority of Ali ibn al-Hussein (MGB), “Man’s tongue addresses his other organs everyday and asks them how they are. They reply that ‘we would be fine if you left us alone’. They swear by God and ask it to remember God in regards to them. They say that they get rewarded due to it, and they also get punished due to it.”"
+          ],
+          "text": "1-15 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Muhammad ibn Yahya al-Attar quoted on the authority of Muhammad ibn Ahmad ibn Yahya ibn Imran al-Ash’ari, on the authority of Ali ibn al-Hikam, on the authority of Ibrahim ibn Mihzam Al-Asady, on the authority of Abi Hamzih, on the authority of Ali ibn al-Hussein (MGB), “Man’s tongue addresses his other organs everyday and asks them how they are. They reply that ‘we would be fine if you left us alone’. They swear by God and ask it to remember God in regards to them. They say that they get rewarded due to it, and they also get punished due to it.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "1-15 حدثنا أبي رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "1-15 حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي رضي الله عنه قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:2:13:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/2/13/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/2/13/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

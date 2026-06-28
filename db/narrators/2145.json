@@ -1,0 +1,46 @@
+{
+  "id": 2145,
+  "type": "narrator",
+  "path": "/people/narrators/2145",
+  "titles": {
+    "ar": "أَبِي عَبْدِ اللَّهِ الْجُعْفِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:50:26"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3896-2145": {
+      "narrator_ids": [
+        3896,
+        2145
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:50:26"
+      ]
+    },
+    "4-20-208-1126-2273-3896-2145": {
+      "narrator_ids": [
+        4,
+        20,
+        208,
+        1126,
+        2273,
+        3896,
+        2145
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:50:26"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2145",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2145.json"
+  }
+}

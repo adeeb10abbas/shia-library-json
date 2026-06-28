@@ -1,0 +1,54 @@
+{
+  "id": 1893,
+  "type": "narrator",
+  "path": "/people/narrators/1893",
+  "titles": {
+    "ar": "ابْنِ عُقْبَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:8:38:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1893-2": {
+      "narrator_ids": [
+        1893,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:38:5"
+      ]
+    },
+    "39-1893": {
+      "narrator_ids": [
+        39,
+        1893
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:38:5"
+      ]
+    },
+    "6-8-39-1893-2-669": {
+      "narrator_ids": [
+        6,
+        8,
+        39,
+        1893,
+        2,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:38:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1893",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1893.json"
+  }
+}

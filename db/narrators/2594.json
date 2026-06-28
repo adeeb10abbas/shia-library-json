@@ -1,0 +1,49 @@
+{
+  "id": 2594,
+  "type": "narrator",
+  "path": "/people/narrators/2594",
+  "titles": {
+    "ar": "الْحَسَنِ بْنِ] هَارُونَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:18:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3646-2594": {
+      "narrator_ids": [
+        3646,
+        2594
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:18:2"
+      ]
+    },
+    "6-12-2-4-13-259-65-375-3646-2594": {
+      "narrator_ids": [
+        6,
+        12,
+        2,
+        4,
+        13,
+        259,
+        65,
+        375,
+        3646,
+        2594
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:18:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2594",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2594.json"
+  }
+}

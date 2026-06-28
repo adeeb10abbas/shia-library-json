@@ -1,0 +1,43 @@
+{
+  "id": 2501,
+  "type": "narrator",
+  "path": "/people/narrators/2501",
+  "titles": {
+    "ar": "الْحَارِثِ بْنِ حَضِيرَةَ الْأَزْدِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:159:47"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "269-2501": {
+      "narrator_ids": [
+        269,
+        2501
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:159:47"
+      ]
+    },
+    "6-12-269-2501": {
+      "narrator_ids": [
+        6,
+        12,
+        269,
+        2501
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:159:47"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2501",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2501.json"
+  }
+}

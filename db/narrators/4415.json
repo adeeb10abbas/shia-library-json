@@ -1,0 +1,48 @@
+{
+  "id": 4415,
+  "type": "narrator",
+  "path": "/people/narrators/4415",
+  "titles": {
+    "ar": "مُنْذِرُ بْنُ مُحَمَّدِ بْنِ قَابُوسَ"
+  },
+  "versePaths": [
+    "/books/kitab-al-ghayba-tusi:27:15"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "4415-161": {
+      "narrator_ids": [
+        4415,
+        161
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:27:15"
+      ]
+    },
+    "4415-161-554-300-4169-244-161-554-322": {
+      "narrator_ids": [
+        4415,
+        161,
+        554,
+        300,
+        4169,
+        244,
+        161,
+        554,
+        322
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:27:15"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4415",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4415.json"
+  }
+}

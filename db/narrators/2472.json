@@ -1,0 +1,45 @@
+{
+  "id": 2472,
+  "type": "narrator",
+  "path": "/people/narrators/2472",
+  "titles": {
+    "ar": "أَصْبَغَ بْنِ نُبَاتَةَ الْحَنْظَلِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:111:34"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3737-2472": {
+      "narrator_ids": [
+        3737,
+        2472
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:111:34"
+      ]
+    },
+    "4-5-22-2635-3737-2472": {
+      "narrator_ids": [
+        4,
+        5,
+        22,
+        2635,
+        3737,
+        2472
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:111:34"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2472",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2472.json"
+  }
+}

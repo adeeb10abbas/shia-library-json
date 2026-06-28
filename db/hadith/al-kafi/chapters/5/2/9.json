@@ -1,0 +1,431 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:5:2:9",
+  "chapter": {
+    "path": "/books/al-kafi:5:2:9",
+    "titles": {
+      "ar": "باب كَرَاهِيَةِ النَّوْمِ وَ الْفَرَاغِ",
+      "en": "Chapter 9 – Abhorrence of the sleep and the leisure"
+    }
+  },
+  "count": 3,
+  "records": [
+    {
+      "id": "al-kafi:5:2:9:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:5:2:9:1",
+        "parts": [
+          5,
+          2,
+          9,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 2,
+        "chapter": 9,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:5:2:9",
+        "titles": {
+          "ar": "باب كَرَاهِيَةِ النَّوْمِ وَ الْفَرَاغِ",
+          "en": "Chapter 9 – Abhorrence of the sleep and the leisure"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " كَثْرَةُ النَّوْمِ مَذْهَبَةٌ لِلدِّينِ وَ الدُّنْيَا "
+        ],
+        "text": "كَثْرَةُ النَّوْمِ مَذْهَبَةٌ لِلدِّينِ وَ الدُّنْيَا"
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Sahl Bin Ziyad, from Ibn Mahboub, from Yunus Bin Yaqoub, from the one who mentioned it, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Frequency of the sleeping (lead to) departure of the Religion and the world’."
+          ],
+          "text": "A number of our companions, from Sahl Bin Ziyad, from Ibn Mahboub, from Yunus Bin Yaqoub, from the one who mentioned it,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Frequency of the sleeping (lead to) departure of the Religion and the world’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. A number of our people have narrated from Sahl ibn Ziyad from ibn Mahbub from Yunus ibn Ya’qub from the one whom he has mentioned who has said the following: “Abu ‘ Abd Allah, ‘Alayhi al-Salam, has said, ’Excessive sleeping causes one to lose his religion as well as the worldly matters.”’ "
+          ],
+          "text": "1. A number of our people have narrated from Sahl ibn Ziyad from ibn Mahbub from Yunus ibn Ya’qub from the one whom he has mentioned who has said the following: “Abu ‘ Abd Allah, ‘Alayhi al-Salam, has said, ’Excessive sleeping causes one to lose his religion as well as the worldly matters.”’"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (19/32)",
+          "label": "ضعيف",
+          "text": "Allamah Baqir al-Majlisi: ضعيف - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (19/32)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ سَهْلِ بْنِ زِيَادٍ عَنِ ابْنِ مَحْبُوبٍ عَنْ يُونُسَ بْنِ يَعْقُوبَ عَمَّنْ ذَكَرَهُ عَنْ أَبِي عَبْدِ اللَّهِ عَلَيْهِ السَّلَامُ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَهْلِ بْنِ زِيَادٍ",
+            "path": "/people/narrators/8"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ مَحْبُوبٍ",
+            "path": "/people/narrators/10"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "يُونُسَ بْنِ يَعْقُوبَ",
+            "path": "/people/narrators/85"
+          },
+          {
+            "kind": "plain",
+            "text": " "
+          },
+          {
+            "kind": "plain",
+            "text": "عَمَّنْ ذَكَرَهُ"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ عَلَيْهِ السَّلَامُ",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/8",
+          "/people/narrators/10",
+          "/people/narrators/85",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:5:2:9:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/5/2/9/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:5:2:9:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:5:2:9:2",
+        "parts": [
+          5,
+          2,
+          9,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 2,
+        "chapter": 9,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:5:2:9",
+        "titles": {
+          "ar": "باب كَرَاهِيَةِ النَّوْمِ وَ الْفَرَاغِ",
+          "en": "Chapter 9 – Abhorrence of the sleep and the leisure"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَمِعْتُ أَبَا الْحَسَنِ مُوسَى ( عليه السلام ) يَقُولُ إِنَّ اللَّهَ جَلَّ وَ عَزَّ يُبْغِضُ الْعَبْدَ النَّوَّامَ الْفَارِغَ ."
+        ],
+        "text": "سَمِعْتُ أَبَا الْحَسَنِ مُوسَى ( عليه السلام ) يَقُولُ إِنَّ اللَّهَ جَلَّ وَ عَزَّ يُبْغِضُ الْعَبْدَ النَّوَّامَ الْفَارِغَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Ibn Fazzal, from the one who mentioned it, from Bashir Al Dahhan who said, ",
+            "‘I heard Abu Al-Hassan Musa<sup>asws</sup> saying: ‘Allah<sup>azwj</sup> Majestic and Mighty Hates the sleeping and the leisurely servant’."
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Ibn Fazzal, from the one who mentioned it, from Bashir Al Dahhan who said,\n\n‘I heard Abu Al-Hassan Musa<sup>asws</sup> saying: ‘Allah<sup>azwj</sup> Majestic and Mighty Hates the sleeping and the leisurely servant’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from ibn Faddal from the one whom he has mentioned (in his book) from Bashir al-Dahhan who has said the following: “I heard abu al-Hassan, Musa, ‘Alayhi al-Salam, saying, ’Allah, most Majestic, most Glorious, dislikes an excessively sleeping servant who passes his time without work.’” "
+          ],
+          "text": "2. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from ibn Faddal from the one whom he has mentioned (in his book) from Bashir al-Dahhan who has said the following: “I heard abu al-Hassan, Musa, ‘Alayhi al-Salam, saying, ’Allah, most Majestic, most Glorious, dislikes an excessively sleeping servant who passes his time without work.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مرسل    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (19/32)",
+          "label": "مرسل",
+          "text": "Allamah Baqir al-Majlisi: مرسل - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (19/32)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنِ ابْنِ فَضَّالٍ عَمَّنْ ذَكَرَهُ عَنْ بَشِيرٍ الدَّهَّانِ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "plain",
+            "text": "ابْنِ فَضَّالٍ عَمَّنْ ذَكَرَهُ"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "بَشِيرٍ الدَّهَّانِ",
+            "path": "/people/narrators/465"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/5",
+          "/people/narrators/465"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:5:2:9:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/5/2/9/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:5:2:9:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:5:2:9:3",
+        "parts": [
+          5,
+          2,
+          9,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 2,
+        "chapter": 9,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:5:2:9",
+        "titles": {
+          "ar": "باب كَرَاهِيَةِ النَّوْمِ وَ الْفَرَاغِ",
+          "en": "Chapter 9 – Abhorrence of the sleep and the leisure"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " إِنَّ اللَّهَ عَزَّ وَ جَلَّ يُبْغِضُ كَثْرَةَ النَّوْمِ وَ كَثْرَةَ الْفَرَاغِ ."
+        ],
+        "text": "إِنَّ اللَّهَ عَزَّ وَ جَلَّ يُبْغِضُ كَثْرَةَ النَّوْمِ وَ كَثْرَةَ الْفَرَاغِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Ahmad Bin Muhammad Bin Khalid, from his father, from Ibn Sinan, from Abdullah Bin Muskan, and Salih Al Nayli, from Abu Baseer, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Allah<sup>azwj</sup> Mighty and Majestic Hates the abundance of the sleep and the abundance of the leisure time’."
+          ],
+          "text": "A number of our companions, from Ahmad Bin Muhammad Bin Khalid, from his father, from Ibn Sinan, from Abdullah Bin Muskan, and Salih Al Nayli, from Abu Baseer,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Allah<sup>azwj</sup> Mighty and Majestic Hates the abundance of the sleep and the abundance of the leisure time’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "3. A number of our people have narrated from Ahmad ibn Muhammad ibn Khalid from his father from ibn Sinan from ‘Abd Allah ibn Muskan from Salih al-Niliy who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘Allah, most Majestic, most Glorious, hates one’s excessive sleeping and passing time without work.’” "
+          ],
+          "text": "3. A number of our people have narrated from Ahmad ibn Muhammad ibn Khalid from his father from ibn Sinan from ‘Abd Allah ibn Muskan from Salih al-Niliy who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘Allah, most Majestic, most Glorious, hates one’s excessive sleeping and passing time without work.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (9/32)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (9/32)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ خَالِدٍ عَنْ أَبِيهِ عَنِ ابْنِ سِنَانٍ عَنْ عَبْدِ اللَّهِ بْنِ مُسْكَانَ وَ صَالِحٍ النِّيلِيِّ عَنْ أَبِي بَصِيرٍ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدِ بْنِ خَالِدٍ",
+            "path": "/people/narrators/12"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ سِنَانٍ",
+            "path": "/people/narrators/104"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَبْدِ اللَّهِ بْنِ مُسْكَانَ",
+            "path": "/people/narrators/128"
+          },
+          {
+            "kind": "plain",
+            "text": " وَ "
+          },
+          {
+            "kind": "narrator",
+            "text": "صَالِحٍ النِّيلِيِّ",
+            "path": "/people/narrators/907"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي بَصِيرٍ",
+            "path": "/people/narrators/14"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/12",
+          "/people/narrators/2",
+          "/people/narrators/104",
+          "/people/narrators/128",
+          "/people/narrators/907",
+          "/people/narrators/14",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:5:2:9:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/5/2/9/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

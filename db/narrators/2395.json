@@ -1,0 +1,71 @@
+{
+  "id": 2395,
+  "type": "narrator",
+  "path": "/people/narrators/2395",
+  "titles": {
+    "ar": "أَرْطَاةَ بْنِ حَبِيبٍ الْأَسَدِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:1:24:4",
+    "/books/tahdhib-al-ahkam:6:77:1"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "11-92-61-30-2395-60-312": {
+      "narrator_ids": [
+        11,
+        92,
+        61,
+        30,
+        2395,
+        60,
+        312
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:1:24:4"
+      ]
+    },
+    "13-89-30-2395-60-312": {
+      "narrator_ids": [
+        13,
+        89,
+        30,
+        2395,
+        60,
+        312
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:77:1"
+      ]
+    },
+    "2395-60": {
+      "narrator_ids": [
+        2395,
+        60
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:1:24:4",
+        "/books/tahdhib-al-ahkam:6:77:1"
+      ]
+    },
+    "30-2395": {
+      "narrator_ids": [
+        30,
+        2395
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:1:24:4",
+        "/books/tahdhib-al-ahkam:6:77:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2395",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2395.json"
+  }
+}

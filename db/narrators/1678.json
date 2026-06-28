@@ -1,0 +1,84 @@
+{
+  "id": 1678,
+  "type": "narrator",
+  "path": "/people/narrators/1678",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ فُرَاتٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:143:6",
+    "/books/al-kafi:7:4:31:7"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "11-67-1678-9": {
+      "narrator_ids": [
+        11,
+        67,
+        1678,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:143:6"
+      ]
+    },
+    "1678-322": {
+      "narrator_ids": [
+        1678,
+        322
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:4:31:7"
+      ]
+    },
+    "1678-9": {
+      "narrator_ids": [
+        1678,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:143:6"
+      ]
+    },
+    "247-1678": {
+      "narrator_ids": [
+        247,
+        1678
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:4:31:7"
+      ]
+    },
+    "3-2-7-247-1678-322": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        247,
+        1678,
+        322
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:4:31:7"
+      ]
+    },
+    "67-1678": {
+      "narrator_ids": [
+        67,
+        1678
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:143:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1678",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1678.json"
+  }
+}

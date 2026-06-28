@@ -1,0 +1,45 @@
+{
+  "id": 3628,
+  "type": "narrator",
+  "path": "/people/narrators/3628",
+  "titles": {
+    "ar": "عَبْدِ الْمَلِكِ بْنِ عَمْرٍو الْأَحْوَلِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:1:40:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "137-3628": {
+      "narrator_ids": [
+        137,
+        3628
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:40:1"
+      ]
+    },
+    "6-12-2-316-137-3628": {
+      "narrator_ids": [
+        6,
+        12,
+        2,
+        316,
+        137,
+        3628
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:40:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3628",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3628.json"
+  }
+}

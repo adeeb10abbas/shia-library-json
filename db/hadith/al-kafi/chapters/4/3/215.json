@@ -1,0 +1,269 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:4:3:215",
+  "chapter": {
+    "path": "/books/al-kafi:4:3:215",
+    "titles": {
+      "ar": "بَابُ فَضْلِ الرُّجُوعِ إِلَى الْمَدِينَةِ",
+      "en": "Chapter 215 – The merits of the returning to Al-Medina (after performing Hajj)"
+    }
+  },
+  "count": 2,
+  "records": [
+    {
+      "id": "al-kafi:4:3:215:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:4:3:215:1",
+        "parts": [
+          4,
+          3,
+          215,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 3,
+        "chapter": 215,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:4:3:215",
+        "titles": {
+          "ar": "بَابُ فَضْلِ الرُّجُوعِ إِلَى الْمَدِينَةِ",
+          "en": "Chapter 215 – The merits of the returning to Al-Medina (after performing Hajj)"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " ابْدَءُوا بِمَكَّةَ وَ اخْتِمُوا بِنَا ."
+        ],
+        "text": "ابْدَءُوا بِمَكَّةَ وَ اخْتِمُوا بِنَا ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father, from Ibn Abu Umeyr, from Hisham Bin Al Musna, from Sadeyr, ",
+            "(It has been narrated) from Abu Ja’far<sup>asws</sup> having said: ‘Begin with Makkah and end with us<sup>asws</sup> (at Al-Medina)’."
+          ],
+          "text": "Ali Bin Ibrahim, from his father, from Ibn Abu Umeyr, from Hisham Bin Al Musna, from Sadeyr,\n\n(It has been narrated) from Abu Ja’far<sup>asws</sup> having said: ‘Begin with Makkah and end with us<sup>asws</sup> (at Al-Medina)’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. Ali ibn Ibrahim has narrated from his father from ibn abu ‘Umayr from Hisham ibn af-Muthanna’ from Sadir who has said the following: “Abu ‘ Abd Allah, ‘Alayhi al-Salam, has said that you should commence with Makkah and end with us.” "
+          ],
+          "text": "1. Ali ibn Ibrahim has narrated from his father from ibn abu ‘Umayr from Hisham ibn af-Muthanna’ from Sadir who has said the following: “Abu ‘ Abd Allah, ‘Alayhi al-Salam, has said that you should commence with Makkah and end with us.”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مجهول  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (8/259)",
+          "label": "مجهول",
+          "text": "Allamah Baqir al-Majlisi: مجهول - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (8/259)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنِ ابْنِ أَبِي عُمَيْرٍ عَنْ هِشَامِ بْنِ الْمُثَنَّى عَنْ سَدِيرٍ عَنْ أَبِي جَعْفَرٍ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ أَبِي عُمَيْرٍ",
+            "path": "/people/narrators/7"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "هِشَامِ بْنِ الْمُثَنَّى",
+            "path": "/people/narrators/609"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَدِيرٍ",
+            "path": "/people/narrators/348"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي جَعْفَرٍ ( عليه السلام )",
+            "path": "/people/narrators/9"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/7",
+          "/people/narrators/609",
+          "/people/narrators/348",
+          "/people/narrators/9"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:6:1:2:2"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:4:3:215:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/4/3/215/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:4:3:215:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:4:3:215:2",
+        "parts": [
+          4,
+          3,
+          215,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 3,
+        "chapter": 215,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:4:3:215",
+        "titles": {
+          "ar": "بَابُ فَضْلِ الرُّجُوعِ إِلَى الْمَدِينَةِ",
+          "en": "Chapter 215 – The merits of the returning to Al-Medina (after performing Hajj)"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَأَلْتُ أَبَا جَعْفَرٍ ( عليه السلام ) أَبْدَأُ بِالْمَدِينَةِ أَوْ بِمَكَّةَ قَالَ ابْدَأْ بِمَكَّةَ وَ اخْتِمْ بِالْمَدِينَةِ فَإِنَّهُ أَفْضَلُ ."
+        ],
+        "text": "سَأَلْتُ أَبَا جَعْفَرٍ ( عليه السلام ) أَبْدَأُ بِالْمَدِينَةِ أَوْ بِمَكَّةَ قَالَ ابْدَأْ بِمَكَّةَ وَ اخْتِمْ بِالْمَدِينَةِ فَإِنَّهُ أَفْضَلُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Muhammad Bin Abdullah, from Ahmad Bin Abu Abdullah, from his father who said, ",
+            "‘I asked Abu Ja’far<sup>asws</sup>, ‘Shall I begin with Al-Medina or with Makkah?’ He<sup>asws</sup> said: ‘Begin with Makkah and end with Al-Medina, for it is superior’."
+          ],
+          "text": "Ali Bin Muhammad Bin Abdullah, from Ahmad Bin Abu Abdullah, from his father who said,\n\n‘I asked Abu Ja’far<sup>asws</sup>, ‘Shall I begin with Al-Medina or with Makkah?’ He<sup>asws</sup> said: ‘Begin with Makkah and end with Al-Medina, for it is superior’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. Ali ibn Muhammad ibn ‘Abd Allah has narrated from Ahmad ibn abu ‘Abd Allah from his father who has said the following: “I once asked abu Ja’far, ‘Alayhi al-Salam, ’Should I commence with al-Madinah or Makkah?’ He (the Imam) replied, ’Commence with Makkah and end with al-Madinah; it is more virtuous.’” "
+          ],
+          "text": "2. Ali ibn Muhammad ibn ‘Abd Allah has narrated from Ahmad ibn abu ‘Abd Allah from his father who has said the following: “I once asked abu Ja’far, ‘Alayhi al-Salam, ’Should I commence with al-Madinah or Makkah?’ He (the Imam) replied, ’Commence with Makkah and end with al-Madinah; it is more virtuous.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مجهول   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (8/259)",
+          "label": "مجهول",
+          "text": "Allamah Baqir al-Majlisi: مجهول - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (8/259)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ مُحَمَّدِ بْنِ عَبْدِ اللَّهِ عَنْ أَحْمَدَ بْنِ أَبِي عَبْدِ اللَّهِ عَنْ أَبِيهِ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ مُحَمَّدِ بْنِ عَبْدِ اللَّهِ",
+            "path": "/people/narrators/274"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ أَبِي عَبْدِ اللَّهِ",
+            "path": "/people/narrators/12"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/274",
+          "/people/narrators/12",
+          "/people/narrators/2"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:4:3:215:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/4/3/215/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

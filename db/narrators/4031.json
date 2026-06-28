@@ -1,0 +1,44 @@
+{
+  "id": 4031,
+  "type": "narrator",
+  "path": "/people/narrators/4031",
+  "titles": {
+    "ar": "قُتَيْبَةَ الْأَعْشَى أَوْ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:120:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "6-12-27-78-4031": {
+      "narrator_ids": [
+        6,
+        12,
+        27,
+        78,
+        4031
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:120:1"
+      ]
+    },
+    "78-4031": {
+      "narrator_ids": [
+        78,
+        4031
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:120:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4031",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4031.json"
+  }
+}

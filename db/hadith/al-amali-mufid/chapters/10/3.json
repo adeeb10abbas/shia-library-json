@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-amali-mufid",
+  "chapterPath": "/books/al-amali-mufid:10:3",
+  "chapter": {
+    "path": "/books/al-amali-mufid:10:3",
+    "titles": {
+      "en": "‘Ali’s faith and descent"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-amali-mufid:10:3:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-amali-mufid",
+        "titles": {
+          "ar": "الأمالي (المفيد)",
+          "en": "Al-Amali (al-Mufid)"
+        },
+        "author": {
+          "ar": "الشيخ المفيد",
+          "en": "Shaykh al-Mufid"
+        }
+      },
+      "path": {
+        "source": "/books/al-amali-mufid:10:3:1",
+        "parts": [
+          10,
+          3,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 10,
+        "book": 3,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-amali-mufid:10:3",
+        "titles": {
+          "en": "‘Ali’s faith and descent"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": أخبرني أبو الحسن علي بن محمد قال: حدثنا أحمد بن إبراهيم قال: حدثنا أبو الحسن علي بن الحسن قال: حدثنا الحسين بن نصر بن مزاحم قال: حدثني أبي قال: حدثنا أبو عبد الرحمن عبد الله بن عبد الملك ، عن يحيى بن سلمة، عن أبيه سلمة بن كهيل، عن أبي صادق  قال: سمعت أمير المؤمنين علي بن أبي طالب عليه السلام يقول: ديني دين رسول الله صلى الله عليه وآله وسلم، وحسبي حسب رسول الله صلى الله عليه وآله وسلم فمن تناول  ديني وحسبي فقد تناول دين رسول الله صلى الله عليه وآله وسلم وحسبه."
+        ],
+        "text": ": أخبرني أبو الحسن علي بن محمد قال: حدثنا أحمد بن إبراهيم قال: حدثنا أبو الحسن علي بن الحسن قال: حدثنا الحسين بن نصر بن مزاحم قال: حدثني أبي قال: حدثنا أبو عبد الرحمن عبد الله بن عبد الملك ، عن يحيى بن سلمة، عن أبيه سلمة بن كهيل، عن أبي صادق  قال: سمعت أمير المؤمنين علي بن أبي طالب عليه السلام يقول: ديني دين رسول الله صلى الله عليه وآله وسلم، وحسبي حسب رسول الله صلى الله عليه وآله وسلم فمن تناول  ديني وحسبي فقد تناول دين رسول الله صلى الله عليه وآله وسلم وحسبه."
+      },
+      "translations": {
+        "en.mulla-asgharali-m-m-jaffer": {
+          "segments": [
+            "3. He said: Abul Hasan ‘Ali ibn Muhammad reported to me from Ahmad ibn Ibrahim, who reported from Abul Hasan ‘Ali ibn al-Hasan, who reported from al-Husayn ibn Nasr ibn Mazahim, who reported from his father, who reported from Abu Abdil Rahman Abdullah ibn Abdul Malik, from Yahya ibn Salimah, from his father Salimah ibn Kuhail, from Abu Sadiq who said: I heard Amirul Mu’mineen ‘Ali ibn Abi Talib, peace be upon him say: \"My faith is that of the Prophet, peace be upon him and his progeny, and my descent is the descent of the Prophet, peace be upon him and his progeny. So whoever, speaks ill of my faith and my descent, slurs the faith and the descent of the Prophet.\""
+          ],
+          "text": "3. He said: Abul Hasan ‘Ali ibn Muhammad reported to me from Ahmad ibn Ibrahim, who reported from Abul Hasan ‘Ali ibn al-Hasan, who reported from al-Husayn ibn Nasr ibn Mazahim, who reported from his father, who reported from Abu Abdil Rahman Abdullah ibn Abdul Malik, from Yahya ibn Salimah, from his father Salimah ibn Kuhail, from Abu Sadiq who said: I heard Amirul Mu’mineen ‘Ali ibn Abi Talib, peace be upon him say: \"My faith is that of the Prophet, peace be upon him and his progeny, and my descent is the descent of the Prophet, peace be upon him and his progeny. So whoever, speaks ill of my faith and my descent, slurs the faith and the descent of the Prophet.\""
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "3 - قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "3 - "
+          },
+          {
+            "kind": "narrator",
+            "text": "قال",
+            "path": "/people/narrators/652"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/652"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-amali-mufid:10:3:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-amali-mufid/10/3/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/13/10/3/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

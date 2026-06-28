@@ -1,0 +1,46 @@
+{
+  "id": 1999,
+  "type": "narrator",
+  "path": "/people/narrators/1999",
+  "titles": {
+    "ar": "أَبِي الْعُطَارِدِ الْخَيَّاطِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:5:23:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "17-33-97-24-30-44-1999": {
+      "narrator_ids": [
+        17,
+        33,
+        97,
+        24,
+        30,
+        44,
+        1999
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:5:23:2"
+      ]
+    },
+    "44-1999": {
+      "narrator_ids": [
+        44,
+        1999
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:5:23:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1999",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1999.json"
+  }
+}

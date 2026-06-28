@@ -1,0 +1,56 @@
+{
+  "id": 4369,
+  "type": "narrator",
+  "path": "/people/narrators/4369",
+  "titles": {
+    "ar": "مُصْعَبٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:91:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "101-4369": {
+      "narrator_ids": [
+        101,
+        4369
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:91:4"
+      ]
+    },
+    "35-78-8-101-4369-824-14-669": {
+      "narrator_ids": [
+        35,
+        78,
+        8,
+        101,
+        4369,
+        824,
+        14,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:91:4"
+      ]
+    },
+    "4369-824": {
+      "narrator_ids": [
+        4369,
+        824
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:91:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4369",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4369.json"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": 3233,
+  "type": "narrator",
+  "path": "/people/narrators/3233",
+  "titles": {
+    "ar": "رَجُلٍ مِنْ عُظَمَاءِ عُمَّالِ الْمَجُوسِ فَيَبْدَأُ بِاسْمِهِ قَبْلَ اسْمِهِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:4:12:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2685-3233": {
+      "narrator_ids": [
+        2685,
+        3233
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:12:2"
+      ]
+    },
+    "3-2-106-26-31-669-2685-3233": {
+      "narrator_ids": [
+        3,
+        2,
+        106,
+        26,
+        31,
+        669,
+        2685,
+        3233
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:12:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3233",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3233.json"
+  }
+}

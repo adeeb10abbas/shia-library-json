@@ -1,0 +1,275 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:6:9:13",
+  "chapter": {
+    "path": "/books/al-kafi:6:9:13",
+    "titles": {
+      "ar": "باب التَّحْرِيشِ بَيْنَ الْبَهَائِمِ",
+      "en": "Chapter 13 – The Instigation between the animals"
+    }
+  },
+  "count": 2,
+  "records": [
+    {
+      "id": "al-kafi:6:9:13:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:9:13:1",
+        "parts": [
+          6,
+          9,
+          13,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 9,
+        "chapter": 13,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:9:13",
+        "titles": {
+          "ar": "باب التَّحْرِيشِ بَيْنَ الْبَهَائِمِ",
+          "en": "Chapter 13 – The Instigation between the animals"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَأَلْتُهُ عَنِ التَّحْرِيشِ بَيْنَ الْبَهَائِمِ فَقَالَ كُلُّهُ مَكْرُوهٌ إِلَّا الْكَلْبَ ."
+        ],
+        "text": "سَأَلْتُهُ عَنِ التَّحْرِيشِ بَيْنَ الْبَهَائِمِ فَقَالَ كُلُّهُ مَكْرُوهٌ إِلَّا الْكَلْبَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Ahmad Bin Muhammad, from Ali Bin Al Hakam, from Aban Bin Usman, from Abu Al Abbas, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup>, said, ‘I asked him<sup>asws</sup> about the instigation between the animals, so he<sup>asws</sup> said: ‘All of it is abhorred, except for the dog’."
+          ],
+          "text": "A number of our companions, from Ahmad Bin Muhammad, from Ali Bin Al Hakam, from Aban Bin Usman, from Abu Al Abbas,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup>, said, ‘I asked him<sup>asws</sup> about the instigation between the animals, so he<sup>asws</sup> said: ‘All of it is abhorred, except for the dog’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. A number of our people have narrated from Ahmad ibn Muhammad from Ali ibn al-Hakam from Aban ibn ‘Uthman from abu al-‘Abbas who has said the following: “I once asked abu ‘ Abd Allah, ‘Alayhi al-Salam, about instigating animals against each other. He (the Imam) said, ‘All of it is detestable except dogs.’” "
+          ],
+          "text": "1. A number of our people have narrated from Ahmad ibn Muhammad from Ali ibn al-Hakam from Aban ibn ‘Uthman from abu al-‘Abbas who has said the following: “I once asked abu ‘ Abd Allah, ‘Alayhi al-Salam, about instigating animals against each other. He (the Imam) said, ‘All of it is detestable except dogs.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> موثق كالصحيح   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/477)",
+          "label": "موثق كالصحيح",
+          "text": "Allamah Baqir al-Majlisi: موثق كالصحيح - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/477)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنْ عَلِيِّ بْنِ الْحَكَمِ عَنْ أَبَانِ بْنِ عُثْمَانَ عَنْ أَبِي الْعَبَّاسِ عَنْ أَبِي عَبْدِ اللَّهِ ( صلوات الله عليه ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيِّ بْنِ الْحَكَمِ",
+            "path": "/people/narrators/15"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبَانِ بْنِ عُثْمَانَ",
+            "path": "/people/narrators/52"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي الْعَبَّاسِ",
+            "path": "/people/narrators/201"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( صلوات الله عليه )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/5",
+          "/people/narrators/15",
+          "/people/narrators/52",
+          "/people/narrators/201",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:9:13:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/9/13/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:9:13:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:9:13:2",
+        "parts": [
+          6,
+          9,
+          13,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 9,
+        "chapter": 13,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:9:13",
+        "titles": {
+          "ar": "باب التَّحْرِيشِ بَيْنَ الْبَهَائِمِ",
+          "en": "Chapter 13 – The Instigation between the animals"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَأَلْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) عَنِ التَّحْرِيشِ بَيْنَ الْبَهَائِمِ فَقَالَ أَكْرَهُ ذَلِكَ إِلَّا الْكِلَابَ ."
+        ],
+        "text": "سَأَلْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) عَنِ التَّحْرِيشِ بَيْنَ الْبَهَائِمِ فَقَالَ أَكْرَهُ ذَلِكَ إِلَّا الْكِلَابَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "From him, from Ali Bin Al Hakam, from Aban, from Misma’a who said, ",
+            "‘I asked Abu Abdullah<sup>asws</sup> about the instigation between the animals. So he<sup>asws</sup> said: ‘I<sup>asws</sup> dislike that, except for the dogs’."
+          ],
+          "text": "From him, from Ali Bin Al Hakam, from Aban, from Misma’a who said,\n\n‘I asked Abu Abdullah<sup>asws</sup> about the instigation between the animals. So he<sup>asws</sup> said: ‘I<sup>asws</sup> dislike that, except for the dogs’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. It is narrated from the narrator of the previous Hadith from Ali ibn al-Hakam from Aban from Misma‘ who has said the following: “I once asked abu ‘Abd Allah, ‘Alayhi al-Salam, about instigating animals against each other. He (the Imam) said, ‘I dislike it except dogs.’” "
+          ],
+          "text": "2. It is narrated from the narrator of the previous Hadith from Ali ibn al-Hakam from Aban from Misma‘ who has said the following: “I once asked abu ‘Abd Allah, ‘Alayhi al-Salam, about instigating animals against each other. He (the Imam) said, ‘I dislike it except dogs.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> موثق كالصحيح  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/477)",
+          "label": "موثق كالصحيح",
+          "text": "Allamah Baqir al-Majlisi: موثق كالصحيح - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/477)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَنْهُ عَنْ عَلِيِّ بْنِ الْحَكَمِ عَنْ أَبَانٍ عَنْ مِسْمَعٍ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَنْهُ",
+            "path": "/people/narrators/11"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيِّ بْنِ الْحَكَمِ",
+            "path": "/people/narrators/15"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبَانٍ",
+            "path": "/people/narrators/46"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مِسْمَعٍ",
+            "path": "/people/narrators/199"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/11",
+          "/people/narrators/15",
+          "/people/narrators/46",
+          "/people/narrators/199"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:9:13:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/9/13/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

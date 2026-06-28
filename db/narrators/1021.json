@@ -1,0 +1,94 @@
+{
+  "id": 1021,
+  "type": "narrator",
+  "path": "/people/narrators/1021",
+  "titles": {
+    "ar": "الْحَارِثِ بْنِ بَهْرَامَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:194:4",
+    "/books/al-kafi:2:1:196:8",
+    "/books/al-kafi:5:2:3:5"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "1021-359": {
+      "narrator_ids": [
+        1021,
+        359
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:194:4",
+        "/books/al-kafi:2:1:196:8",
+        "/books/al-kafi:5:2:3:5"
+      ]
+    },
+    "11-5-3-2-7-1021-359": {
+      "narrator_ids": [
+        11,
+        5,
+        3,
+        2,
+        7,
+        1021,
+        359
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:196:8"
+      ]
+    },
+    "3-2-7-1021-359": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        1021,
+        359
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:194:4"
+      ]
+    },
+    "6-13-669-703-1021-359": {
+      "narrator_ids": [
+        6,
+        13,
+        669,
+        703,
+        1021,
+        359
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:3:5"
+      ]
+    },
+    "7-1021": {
+      "narrator_ids": [
+        7,
+        1021
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:194:4",
+        "/books/al-kafi:2:1:196:8"
+      ]
+    },
+    "703-1021": {
+      "narrator_ids": [
+        703,
+        1021
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:3:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1021",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1021.json"
+  }
+}

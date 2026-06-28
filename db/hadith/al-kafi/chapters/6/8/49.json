@@ -1,0 +1,555 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:6:8:49",
+  "chapter": {
+    "path": "/books/al-kafi:6:8:49",
+    "titles": {
+      "ar": "باب كَرَاهِيَةِ رَدِّ الطِّيبِ",
+      "en": "Chapter 49 – Abhorrence of rejecting the perfume"
+    }
+  },
+  "count": 4,
+  "records": [
+    {
+      "id": "al-kafi:6:8:49:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:8:49:1",
+        "parts": [
+          6,
+          8,
+          49,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 8,
+        "chapter": 49,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:8:49",
+        "titles": {
+          "ar": "باب كَرَاهِيَةِ رَدِّ الطِّيبِ",
+          "en": "Chapter 49 – Abhorrence of rejecting the perfume"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَأَلْتُهُ عَنِ الرَّجُلِ يَرُدُّ الطِّيبَ قَالَ لَا يَنْبَغِي لَهُ أَنْ يَرُدَّ الْكَرَامَةَ ."
+        ],
+        "text": "سَأَلْتُهُ عَنِ الرَّجُلِ يَرُدُّ الطِّيبَ قَالَ لَا يَنْبَغِي لَهُ أَنْ يَرُدَّ الْكَرَامَةَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Ahmad Bin Muhammad Bin Khalid, from Usman Bin Isa, from Sama’at Bin Mihran, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup>, said, ‘I asked him<sup>asws</sup> about the man who rejects the perfume. He<sup>asws</sup> said: ‘It is not befitting that he rejects the prestige’."
+          ],
+          "text": "A number of our companions, from Ahmad Bin Muhammad Bin Khalid, from Usman Bin Isa, from Sama’at Bin Mihran,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup>, said, ‘I asked him<sup>asws</sup> about the man who rejects the perfume. He<sup>asws</sup> said: ‘It is not befitting that he rejects the prestige’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. A number of our people have narrated from Ahmad ibn Muhammad ibn Khalid from ‘Uthman ibn ‘Isa from Sama‘ah ibn Mehran who has said the following: “I once asked abu ‘Abd Allah, ‘Alayhi al-Salam, about the case of a man who refuses to accept perfumes. He (the Imam) said, ‘It is not proper for him to reject an honor.”’ "
+          ],
+          "text": "1. A number of our people have narrated from Ahmad ibn Muhammad ibn Khalid from ‘Uthman ibn ‘Isa from Sama‘ah ibn Mehran who has said the following: “I once asked abu ‘Abd Allah, ‘Alayhi al-Salam, about the case of a man who refuses to accept perfumes. He (the Imam) said, ‘It is not proper for him to reject an honor.”’"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> موثق    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/418)",
+          "label": "موثق",
+          "text": "Allamah Baqir al-Majlisi: موثق - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/418)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ خَالِدٍ عَنْ عُثْمَانَ بْنِ عِيسَى عَنْ سَمَاعَةَ بْنِ مِهْرَانَ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدِ بْنِ خَالِدٍ",
+            "path": "/people/narrators/12"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عُثْمَانَ بْنِ عِيسَى",
+            "path": "/people/narrators/41"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَمَاعَةَ بْنِ مِهْرَانَ",
+            "path": "/people/narrators/149"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/12",
+          "/people/narrators/41",
+          "/people/narrators/149",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:2:1:60:14",
+          "/books/al-kafi:2:1:99:28",
+          "/books/al-kafi:6:7:16:8",
+          "/books/al-kafi:7:3:54:1",
+          "/books/al-kafi:7:3:8:2",
+          "/books/al-kafi:7:4:45:1"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:8:49:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/8/49/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:8:49:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:8:49:2",
+        "parts": [
+          6,
+          8,
+          49,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 8,
+        "chapter": 49,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:8:49",
+        "titles": {
+          "ar": "باب كَرَاهِيَةِ رَدِّ الطِّيبِ",
+          "en": "Chapter 49 – Abhorrence of rejecting the perfume"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " أُتِيَ أَمِيرُ الْمُؤْمِنِينَ ( عليه السلام ) بِدُهْنٍ وَ قَدْ كَانَ ادَّهَنَ فَادَّهَنَ فَقَالَ إِنَّا لَا نَرُدُّ الطِّيبَ ."
+        ],
+        "text": "أُتِيَ أَمِيرُ الْمُؤْمِنِينَ ( عليه السلام ) بِدُهْنٍ وَ قَدْ كَانَ ادَّهَنَ فَادَّهَنَ فَقَالَ إِنَّا لَا نَرُدُّ الطِّيبَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Sahl Bin Ziyad, from Ja’far Bin Muhammad Al Ashary, from Ibn Al Qaddah, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Amir Al-Momineen<sup>asws</sup> was given anointing oil, and he<sup>asws</sup> used to anoint. So he<sup>asws</sup> anointed and said: ‘I<sup>asws</sup> do not reject the perfume’."
+          ],
+          "text": "A number of our companions, from Sahl Bin Ziyad, from Ja’far Bin Muhammad Al Ashary, from Ibn Al Qaddah,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Amir Al-Momineen<sup>asws</sup> was given anointing oil, and he<sup>asws</sup> used to anoint. So he<sup>asws</sup> anointed and said: ‘I<sup>asws</sup> do not reject the perfume’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. A number of our people have narrated from Sahl ibn Ziyad from Ja‘far ibn Muhammad al-Ash‘ariy from ibn al-Qaddah who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that once oil was brought to ’Amir al-Mu’minin when he had already applied oil (perfume). He applied the oil offered to him saying, “We do not reject perfumes.’”” "
+          ],
+          "text": "2. A number of our people have narrated from Sahl ibn Ziyad from Ja‘far ibn Muhammad al-Ash‘ariy from ibn al-Qaddah who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that once oil was brought to ’Amir al-Mu’minin when he had already applied oil (perfume). He applied the oil offered to him saying, “We do not reject perfumes.’””"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/418)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/418)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ سَهْلِ بْنِ زِيَادٍ عَنْ جَعْفَرِ بْنِ مُحَمَّدٍ الْأَشْعَرِيِّ عَنِ ابْنِ الْقَدَّاحِ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَهْلِ بْنِ زِيَادٍ",
+            "path": "/people/narrators/8"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "جَعْفَرِ بْنِ مُحَمَّدٍ الْأَشْعَرِيِّ",
+            "path": "/people/narrators/110"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ الْقَدَّاحِ",
+            "path": "/people/narrators/114"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/8",
+          "/people/narrators/110",
+          "/people/narrators/114",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:8:49:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/8/49/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:8:49:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:8:49:3",
+        "parts": [
+          6,
+          8,
+          49,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 8,
+        "chapter": 49,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:8:49",
+        "titles": {
+          "ar": "باب كَرَاهِيَةِ رَدِّ الطِّيبِ",
+          "en": "Chapter 49 – Abhorrence of rejecting the perfume"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " دَخَلْتُ عَلَى أَبِي الْحَسَنِ ( عليه السلام ) فَأَخْرَجَ إِلَيَّ مَخْزَنَةً فِيهَا مِسْكٌ وَ قَالَ خُذْ مِنْ هَذَا فَأَخَذْتُ مِنْهُ شَيْئاً فَتَمَسَّحْتُ بِهِ فَقَالَ أَصْلِحْ وَ اجْعَلْ فِي لَبَّتِكَ مِنْهُ قَالَ فَأَخَذْتُ مِنْهُ قَلِيلًا فَجَعَلْتُهُ فِي لَبَّتِي فَقَالَ لِي أَصْلِحْ فَأَخَذْتُ مِنْهُ أَيْضاً فَمَكَثَ فِي يَدِي مِنْهُ شَيْ‏ءٌ صَالِحٌ فَقَالَ لِي اجْعَلْ فِي لَبَّتِكَ فَفَعَلْتُ ثُمَّ قَالَ قَالَ أَمِيرُ الْمُؤْمِنِينَ ( عليه السلام ) لَا يَأْبَى الْكَرَامَةَ إِلَّا حِمَارٌ قَالَ قُلْتُ مَا مَعْنَى ذَلِكَ قَالَ الطِّيبُ وَ الْوِسَادَةُ وَ عَدَّ أَشْيَاءَ."
+        ],
+        "text": "دَخَلْتُ عَلَى أَبِي الْحَسَنِ ( عليه السلام ) فَأَخْرَجَ إِلَيَّ مَخْزَنَةً فِيهَا مِسْكٌ وَ قَالَ خُذْ مِنْ هَذَا فَأَخَذْتُ مِنْهُ شَيْئاً فَتَمَسَّحْتُ بِهِ فَقَالَ أَصْلِحْ وَ اجْعَلْ فِي لَبَّتِكَ مِنْهُ قَالَ فَأَخَذْتُ مِنْهُ قَلِيلًا فَجَعَلْتُهُ فِي لَبَّتِي فَقَالَ لِي أَصْلِحْ فَأَخَذْتُ مِنْهُ أَيْضاً فَمَكَثَ فِي يَدِي مِنْهُ شَيْ‏ءٌ صَالِحٌ فَقَالَ لِي اجْعَلْ فِي لَبَّتِكَ فَفَعَلْتُ ثُمَّ قَالَ قَالَ أَمِيرُ الْمُؤْمِنِينَ ( عليه السلام ) لَا يَأْبَى الْكَرَامَةَ إِلَّا حِمَارٌ قَالَ قُلْتُ مَا مَعْنَى ذَلِكَ قَالَ الطِّيبُ وَ الْوِسَادَةُ وَ عَدَّ أَشْيَاءَ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Ibn Fazzal, from Al Hassan Bin Jahm who said, ",
+            "‘I went over to Abu Al-Hassan<sup>asws</sup>, so he<sup>asws</sup> brought out to me a perfume box in which was musk, and said: ‘Take from this’. So I took something from it, and I applied with it. So he<sup>asws</sup> said: ‘More, and make it to be in your chest from it’. So I took a little from it and made it to be in my chest. So he<sup>asws</sup> said to me: ‘More’. So I took from it again, and there remained something from it in my hand. So he<sup>asws</sup> said to me: ‘Make it to be in your chest’. So I did it. Then he<sup>asws</sup> said: ‘Amir Al-Momineen<sup>asws</sup> said: ‘No one refuses the prestige except for a donkey’. I said, ‘What is the meaning of that?’ He<sup>asws</sup> said: ‘The perfume, and the pillow and a number of things’."
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Ibn Fazzal, from Al Hassan Bin Jahm who said,\n\n‘I went over to Abu Al-Hassan<sup>asws</sup>, so he<sup>asws</sup> brought out to me a perfume box in which was musk, and said: ‘Take from this’. So I took something from it, and I applied with it. So he<sup>asws</sup> said: ‘More, and make it to be in your chest from it’. So I took a little from it and made it to be in my chest. So he<sup>asws</sup> said to me: ‘More’. So I took from it again, and there remained something from it in my hand. So he<sup>asws</sup> said to me: ‘Make it to be in your chest’. So I did it. Then he<sup>asws</sup> said: ‘Amir Al-Momineen<sup>asws</sup> said: ‘No one refuses the prestige except for a donkey’. I said, ‘What is the meaning of that?’ He<sup>asws</sup> said: ‘The perfume, and the pillow and a number of things’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "3. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from ibn Faddal from al-Hassan ibn Jahm who has said the following: “I once visited abu al-Hassan, ‘Alayhi al-Salam. He took out a container with musk in it and said, ‘Apply it and place in your nostril.’ He (the narrator) has said, ‘I took a little and applied to my nostrils.’ He (the Imam) said, ‘Apply more.’ I then took more from it and something from it remained on my hand. He (the Imam) said, ‘Apply it to your nostril.’ I applied it.’ He (the Imam) said that ’Amir al-Mu’minin has said, ‘No one rejects honor except a donkey.’ He (the narrator) has said, ‘I then asked, what it means?’ He (the Imam) said, ‘It is perfumes, pillows’, and he (the Imam) counted certain other things.’” "
+          ],
+          "text": "3. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from ibn Faddal from al-Hassan ibn Jahm who has said the following: “I once visited abu al-Hassan, ‘Alayhi al-Salam. He took out a container with musk in it and said, ‘Apply it and place in your nostril.’ He (the narrator) has said, ‘I took a little and applied to my nostrils.’ He (the Imam) said, ‘Apply more.’ I then took more from it and something from it remained on my hand. He (the Imam) said, ‘Apply it to your nostril.’ I applied it.’ He (the Imam) said that ’Amir al-Mu’minin has said, ‘No one rejects honor except a donkey.’ He (the narrator) has said, ‘I then asked, what it means?’ He (the Imam) said, ‘It is perfumes, pillows’, and he (the Imam) counted certain other things.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> موثق   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/418)",
+          "label": "موثق",
+          "text": "Allamah Baqir al-Majlisi: موثق - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/418)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنِ ابْنِ فَضَّالٍ عَنِ الْحَسَنِ بْنِ جَهْمٍ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ فَضَّالٍ",
+            "path": "/people/narrators/22"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحَسَنِ بْنِ جَهْمٍ",
+            "path": "/people/narrators/676"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/5",
+          "/people/narrators/22",
+          "/people/narrators/676"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:4:3:219:1",
+          "/books/al-kafi:5:3:33:6"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:8:49:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/8/49/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:8:49:4",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:8:49:4",
+        "parts": [
+          6,
+          8,
+          49,
+          4
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 8,
+        "chapter": 49,
+        "hadith": 4
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:8:49",
+        "titles": {
+          "ar": "باب كَرَاهِيَةِ رَدِّ الطِّيبِ",
+          "en": "Chapter 49 – Abhorrence of rejecting the perfume"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " أَنَّ النَّبِيَّ ( صلى الله عليه وآله ) كَانَ لَا يَرُدُّ الطِّيبَ وَ الْحَلْوَاءَ ."
+        ],
+        "text": "أَنَّ النَّبِيَّ ( صلى الله عليه وآله ) كَانَ لَا يَرُدُّ الطِّيبَ وَ الْحَلْوَاءَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Muhammad Bin Ahmad, from Ahmad Bin Hilal, from Isa Bin Abdullah, from his father, from his grandfather, ",
+            "(It has been narrated) from Ali<sup>asws</sup> that: ‘The Prophet<sup>saww</sup> never used to reject the perfume and the sweets’."
+          ],
+          "text": "Muhammad Bin Yahya, from Muhammad Bin Ahmad, from Ahmad Bin Hilal, from Isa Bin Abdullah, from his father, from his grandfather,\n\n(It has been narrated) from Ali<sup>asws</sup> that: ‘The Prophet<sup>saww</sup> never used to reject the perfume and the sweets’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "4. Muhammad ibn Yahya Ahmad ibn Muhammad from ibn Hilal from ‘Isa ibn ‘Abd Allah from his father from his grandfather who has said the following: “The Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, would not refuse to accept perfume and sweet (fruit).”’ "
+          ],
+          "text": "4. Muhammad ibn Yahya Ahmad ibn Muhammad from ibn Hilal from ‘Isa ibn ‘Abd Allah from his father from his grandfather who has said the following: “The Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, would not refuse to accept perfume and sweet (fruit).”’"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/419)",
+          "label": "ضعيف",
+          "text": "Allamah Baqir al-Majlisi: ضعيف - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/419)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ مُحَمَّدِ بْنِ أَحْمَدَ عَنْ أَحْمَدَ بْنِ هِلَالٍ عَنْ عِيسَى بْنِ عَبْدِ اللَّهِ عَنْ أَبِيهِ عَنْ جَدِّهِ عَنْ عَلِيٍّ ( عليه السلام )",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ أَحْمَدَ",
+            "path": "/people/narrators/59"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ هِلَالٍ",
+            "path": "/people/narrators/525"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عِيسَى بْنِ عَبْدِ اللَّهِ",
+            "path": "/people/narrators/513"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "جَدِّهِ",
+            "path": "/people/narrators/253"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيٍّ ( عليه السلام )",
+            "path": "/people/narrators/50"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/59",
+          "/people/narrators/525",
+          "/people/narrators/513",
+          "/people/narrators/2",
+          "/people/narrators/253",
+          "/people/narrators/50"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:8:49:4",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/8/49/4.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

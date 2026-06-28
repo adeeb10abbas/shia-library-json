@@ -1,0 +1,69 @@
+{
+  "id": 1881,
+  "type": "narrator",
+  "path": "/people/narrators/1881",
+  "titles": {
+    "ar": "ابْنِ حَكِيمٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:2:36:3",
+    "/books/tahdhib-al-ahkam:8:6:43"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "11-20-25-63-46-1881": {
+      "narrator_ids": [
+        11,
+        20,
+        25,
+        63,
+        46,
+        1881
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:8:6:43"
+      ]
+    },
+    "1881-1941": {
+      "narrator_ids": [
+        1881,
+        1941
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:36:3"
+      ]
+    },
+    "20-25-63-46-1881-1941": {
+      "narrator_ids": [
+        20,
+        25,
+        63,
+        46,
+        1881,
+        1941
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:36:3"
+      ]
+    },
+    "46-1881": {
+      "narrator_ids": [
+        46,
+        1881
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:36:3",
+        "/books/tahdhib-al-ahkam:8:6:43"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1881",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1881.json"
+  }
+}

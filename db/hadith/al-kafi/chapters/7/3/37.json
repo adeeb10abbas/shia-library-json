@@ -1,0 +1,962 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:7:3:37",
+  "chapter": {
+    "path": "/books/al-kafi:7:3:37",
+    "titles": {
+      "ar": "باب مَا يَجِبُ عَلَى الطَّرَّارِ وَ الْمُخْتَلِسِ مِنَ الْحَدِّ",
+      "en": "Chapter 37 – What Penalty (Hadd) is Obligated upon the villain and the embezzler"
+    }
+  },
+  "count": 8,
+  "records": [
+    {
+      "id": "al-kafi:7:3:37:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:3:37:1",
+        "parts": [
+          7,
+          3,
+          37,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 3,
+        "chapter": 37,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:3:37",
+        "titles": {
+          "ar": "باب مَا يَجِبُ عَلَى الطَّرَّارِ وَ الْمُخْتَلِسِ مِنَ الْحَدِّ",
+          "en": "Chapter 37 – What Penalty (Hadd) is Obligated upon the villain and the embezzler"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَمِعْتُهُ يَقُولُ قَالَ أَمِيرُ الْمُؤْمِنِينَ ( عليه السلام ) لَا أَقْطَعُ فِي الدَّغَارَةِ الْمُعْلَنَةِ وَ هِيَ الْخَلْسَةُ وَ لَكِنْ أُعَزِّرُهُ ."
+        ],
+        "text": "سَمِعْتُهُ يَقُولُ قَالَ أَمِيرُ الْمُؤْمِنِينَ ( عليه السلام ) لَا أَقْطَعُ فِي الدَّغَارَةِ الْمُعْلَنَةِ وَ هِيَ الْخَلْسَةُ وَ لَكِنْ أُعَزِّرُهُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Abu Ali Al Ashary, from Muhammad Bin Abdul Jabbar, from Safwan Bin Yahya, from Is’haq Bin Ammar, from Abu Baseer, ",
+            "from one of the two (5<sup>th</sup> or 6<sup>th</sup> Imam<sup>asws</sup>), said, ‘I heard him<sup>asws</sup> saying: ‘Amir Al-Momineen<sup>asws</sup> said: ‘I<sup>asws</sup> do not cut regarding <span class=\"iTxt\">Al-Dagara</span> (picking up somebody else’s belongings) openly and it is stealth, but I<sup>asws</sup> reprimand him’."
+          ],
+          "text": "Abu Ali Al Ashary, from Muhammad Bin Abdul Jabbar, from Safwan Bin Yahya, from Is’haq Bin Ammar, from Abu Baseer,\n\nfrom one of the two (5<sup>th</sup> or 6<sup>th</sup> Imam<sup>asws</sup>), said, ‘I heard him<sup>asws</sup> saying: ‘Amir Al-Momineen<sup>asws</sup> said: ‘I<sup>asws</sup> do not cut regarding <span class=\"iTxt\">Al-Dagara</span> (picking up somebody else’s belongings) openly and it is stealth, but I<sup>asws</sup> reprimand him’."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "أَبُو عَلِيٍّ الْأَشْعَرِيُّ عَنْ مُحَمَّدِ بْنِ عَبْدِ الْجَبَّارِ عَنْ صَفْوَانَ بْنِ يَحْيَى عَنْ إِسْحَاقَ بْنِ عَمَّارٍ عَنْ أَبِي بَصِيرٍ عَنْ أَحَدِهِمَا ( عليهما السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "أَبُو عَلِيٍّ الْأَشْعَرِيُّ",
+            "path": "/people/narrators/19"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ عَبْدِ الْجَبَّارِ",
+            "path": "/people/narrators/24"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "صَفْوَانَ بْنِ يَحْيَى",
+            "path": "/people/narrators/30"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "إِسْحَاقَ بْنِ عَمَّارٍ",
+            "path": "/people/narrators/44"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي بَصِيرٍ",
+            "path": "/people/narrators/14"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحَدِهِمَا ( عليهما السلام )",
+            "path": "/people/narrators/58"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/19",
+          "/people/narrators/24",
+          "/people/narrators/30",
+          "/people/narrators/44",
+          "/people/narrators/14",
+          "/people/narrators/58"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:3:37:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/3/37/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:3:37:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:3:37:2",
+        "parts": [
+          7,
+          3,
+          37,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 3,
+        "chapter": 37,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:3:37",
+        "titles": {
+          "ar": "باب مَا يَجِبُ عَلَى الطَّرَّارِ وَ الْمُخْتَلِسِ مِنَ الْحَدِّ",
+          "en": "Chapter 37 – What Penalty (Hadd) is Obligated upon the villain and the embezzler"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَضَى أَمِيرُ الْمُؤْمِنِينَ ( عليه السلام ) فِي رَجُلٍ اخْتَلَسَ ثَوْباً مِنَ السُّوقِ فَقَالُوا قَدْ سَرَقَ هَذَا الرَّجُلُ فَقَالَ إِنِّي لَا أَقْطَعُ فِي الدَّغَارَةِ الْمُعْلَنَةِ وَ لَكِنْ أَقْطَعُ يَدَ مَنْ يَأْخُذُ ثُمَّ يُخْفِي ."
+        ],
+        "text": "قَضَى أَمِيرُ الْمُؤْمِنِينَ ( عليه السلام ) فِي رَجُلٍ اخْتَلَسَ ثَوْباً مِنَ السُّوقِ فَقَالُوا قَدْ سَرَقَ هَذَا الرَّجُلُ فَقَالَ إِنِّي لَا أَقْطَعُ فِي الدَّغَارَةِ الْمُعْلَنَةِ وَ لَكِنْ أَقْطَعُ يَدَ مَنْ يَأْخُذُ ثُمَّ يُخْفِي ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father, and a number of our companions, from Sahl Bin Ziyad altogether, from Ibn Abu Najran, from Aasim Bin Humeyd, from Muhammad Bin Qasy, ",
+            "(It has been narrated) from Abu Ja’far<sup>asws</sup> having said: ‘Amir Al-Momineen<sup>asws</sup> judged regarding a man who pilferred clothes from the market. So they said, ‘This man has stolen’. So he<sup>asws</sup> said, ‘I<sup>asws</sup> do not cut with regardsin the <span class=\"iTxt\">Al-Dagara</span> (picking up somebody else’s belongings) openly, but I<sup>asws</sup> cut a hand of the one who takes, then hides’."
+          ],
+          "text": "Ali Bin Ibrahim, from his father, and a number of our companions, from Sahl Bin Ziyad altogether, from Ibn Abu Najran, from Aasim Bin Humeyd, from Muhammad Bin Qasy,\n\n(It has been narrated) from Abu Ja’far<sup>asws</sup> having said: ‘Amir Al-Momineen<sup>asws</sup> judged regarding a man who pilferred clothes from the market. So they said, ‘This man has stolen’. So he<sup>asws</sup> said, ‘I<sup>asws</sup> do not cut with regardsin the <span class=\"iTxt\">Al-Dagara</span> (picking up somebody else’s belongings) openly, but I<sup>asws</sup> cut a hand of the one who takes, then hides’."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ وَ عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ سَهْلِ بْنِ زِيَادٍ جَمِيعاً عَنِ ابْنِ أَبِي نَجْرَانَ عَنْ عَاصِمِ بْنِ حُمَيْدٍ عَنْ مُحَمَّدِ بْنِ قَيْسٍ عَنْ أَبِي جَعْفَرٍ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " وَ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَهْلِ بْنِ زِيَادٍ",
+            "path": "/people/narrators/8"
+          },
+          {
+            "kind": "plain",
+            "text": " جَمِيعاً عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ أَبِي نَجْرَانَ",
+            "path": "/people/narrators/74"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَاصِمِ بْنِ حُمَيْدٍ",
+            "path": "/people/narrators/79"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ قَيْسٍ",
+            "path": "/people/narrators/105"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي جَعْفَرٍ ( عليه السلام )",
+            "path": "/people/narrators/9"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/6",
+          "/people/narrators/8",
+          "/people/narrators/74",
+          "/people/narrators/79",
+          "/people/narrators/105",
+          "/people/narrators/9"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:6:2:45:5",
+          "/books/al-kafi:6:2:9:3",
+          "/books/al-kafi:7:1:18:1",
+          "/books/al-kafi:7:3:36:4",
+          "/books/al-kafi:7:3:36:7"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:3:37:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/3/37/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:3:37:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:3:37:3",
+        "parts": [
+          7,
+          3,
+          37,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 3,
+        "chapter": 37,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:3:37",
+        "titles": {
+          "ar": "باب مَا يَجِبُ عَلَى الطَّرَّارِ وَ الْمُخْتَلِسِ مِنَ الْحَدِّ",
+          "en": "Chapter 37 – What Penalty (Hadd) is Obligated upon the villain and the embezzler"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " لَيْسَ عَلَى الَّذِي يَسْتَلِبُ قَطْعٌ وَ لَيْسَ عَلَى الَّذِي يَطُرُّ الدَّرَاهِمَ مِنْ ثَوْبِ الرَّجُلِ قَطْعٌ ."
+        ],
+        "text": "لَيْسَ عَلَى الَّذِي يَسْتَلِبُ قَطْعٌ وَ لَيْسَ عَلَى الَّذِي يَطُرُّ الدَّرَاهِمَ مِنْ ثَوْبِ الرَّجُلِ قَطْعٌ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Humeyd Bin Ziyad, from Al Hassan Bin Muhammad Bin Sama’at, from a number of our companions, from Aban Bin Usman, from Abdul Rahma Bin Abu Abdullah, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘There is no cutting upon the one who embezzles, and there is no cutting upon the one who displaces the Dirhams from a cloth of the man’."
+          ],
+          "text": "Humeyd Bin Ziyad, from Al Hassan Bin Muhammad Bin Sama’at, from a number of our companions, from Aban Bin Usman, from Abdul Rahma Bin Abu Abdullah,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘There is no cutting upon the one who embezzles, and there is no cutting upon the one who displaces the Dirhams from a cloth of the man’."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "حُمَيْدُ بْنُ زِيَادٍ عَنِ الْحَسَنِ بْنِ مُحَمَّدِ بْنِ سَمَاعَةَ عَنْ عِدَّةٍ مِنْ أَصْحَابِنَا عَنْ أَبَانِ بْنِ عُثْمَانَ عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي عَبْدِ اللَّهِ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "حُمَيْدُ بْنُ زِيَادٍ",
+            "path": "/people/narrators/49"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحَسَنِ بْنِ مُحَمَّدِ بْنِ سَمَاعَةَ",
+            "path": "/people/narrators/94"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٍ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبَانِ بْنِ عُثْمَانَ",
+            "path": "/people/narrators/52"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَبْدِ الرَّحْمَنِ بْنِ أَبِي عَبْدِ اللَّهِ",
+            "path": "/people/narrators/102"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/49",
+          "/people/narrators/94",
+          "/people/narrators/6",
+          "/people/narrators/52",
+          "/people/narrators/102",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/tahdhib-al-ahkam:10:9:67"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:3:37:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/3/37/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:3:37:4",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:3:37:4",
+        "parts": [
+          7,
+          3,
+          37,
+          4
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 3,
+        "chapter": 37,
+        "hadith": 4
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:3:37",
+        "titles": {
+          "ar": "باب مَا يَجِبُ عَلَى الطَّرَّارِ وَ الْمُخْتَلِسِ مِنَ الْحَدِّ",
+          "en": "Chapter 37 – What Penalty (Hadd) is Obligated upon the villain and the embezzler"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ مَنْ سَرَقَ خُلْسَةً اخْتَلَسَهَا لَمْ يُقْطَعْ وَ لَكِنْ يُضْرَبُ ضَرْباً شَدِيداً ."
+        ],
+        "text": "قَالَ مَنْ سَرَقَ خُلْسَةً اخْتَلَسَهَا لَمْ يُقْطَعْ وَ لَكِنْ يُضْرَبُ ضَرْباً شَدِيداً ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Ahmad Bin Muhammad Bin Khalid, from Usman Bin Isa, from Sama’at who said, ",
+            "‘He<sup>asws</sup> said: ‘The one who steals with stealthy embezzlement, he would not be cut, but he would be whipped with an intense whipping’."
+          ],
+          "text": "A number of our companions, from Ahmad Bin Muhammad Bin Khalid, from Usman Bin Isa, from Sama’at who said,\n\n‘He<sup>asws</sup> said: ‘The one who steals with stealthy embezzlement, he would not be cut, but he would be whipped with an intense whipping’."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ خَالِدٍ عَنْ عُثْمَانَ بْنِ عِيسَى عَنْ سَمَاعَةَ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدِ بْنِ خَالِدٍ",
+            "path": "/people/narrators/12"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عُثْمَانَ بْنِ عِيسَى",
+            "path": "/people/narrators/41"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَمَاعَةَ",
+            "path": "/people/narrators/48"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/12",
+          "/people/narrators/41",
+          "/people/narrators/48"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:3:37:4",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/3/37/4.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:3:37:5",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:3:37:5",
+        "parts": [
+          7,
+          3,
+          37,
+          5
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 3,
+        "chapter": 37,
+        "hadith": 5
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:3:37",
+        "titles": {
+          "ar": "باب مَا يَجِبُ عَلَى الطَّرَّارِ وَ الْمُخْتَلِسِ مِنَ الْحَدِّ",
+          "en": "Chapter 37 – What Penalty (Hadd) is Obligated upon the villain and the embezzler"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " أُتِيَ أَمِيرُ الْمُؤْمِنِينَ ( عليه السلام ) بِطَرَّارٍ قَدْ طَرَّ دَرَاهِمَ مِنْ كُمِّ رَجُلٍ قَالَ فَقَالَ إِنْ كَانَ قَدْ طَرَّ مِنْ قَمِيصِهِ الْأَعْلَى لَمْ أَقْطَعْهُ وَ إِنْ كَانَ طَرَّ مِنْ قَمِيصِهِ الدَّاخِلِ قَطَعْتُهُ ."
+        ],
+        "text": "أُتِيَ أَمِيرُ الْمُؤْمِنِينَ ( عليه السلام ) بِطَرَّارٍ قَدْ طَرَّ دَرَاهِمَ مِنْ كُمِّ رَجُلٍ قَالَ فَقَالَ إِنْ كَانَ قَدْ طَرَّ مِنْ قَمِيصِهِ الْأَعْلَى لَمْ أَقْطَعْهُ وَ إِنْ كَانَ طَرَّ مِنْ قَمِيصِهِ الدَّاخِلِ قَطَعْتُهُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, form his father, from Al Nowfaly, from Al Sakuny, ",
+            "Abu Abdullah<sup>asws</sup> has said: ‘They came with a pick-pocket who had picked some Dirhams from a man. So he<sup>asws</sup> said: ‘If he has picked it from his outer shirt, I<sup>asws</sup> would not cut his (hand), but if he picked is from his inner shirt, I<sup>asws</sup> would cut his (hand)’."
+          ],
+          "text": "Ali Bin Ibrahim, form his father, from Al Nowfaly, from Al Sakuny,\n\nAbu Abdullah<sup>asws</sup> has said: ‘They came with a pick-pocket who had picked some Dirhams from a man. So he<sup>asws</sup> said: ‘If he has picked it from his outer shirt, I<sup>asws</sup> would not cut his (hand), but if he picked is from his inner shirt, I<sup>asws</sup> would cut his (hand)’."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنِ النَّوْفَلِيِّ عَنِ السَّكُونِيِّ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "النَّوْفَلِيِّ",
+            "path": "/people/narrators/32"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "السَّكُونِيِّ",
+            "path": "/people/narrators/34"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/32",
+          "/people/narrators/34",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:3:37:5",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/3/37/5.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:3:37:6",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:3:37:6",
+        "parts": [
+          7,
+          3,
+          37,
+          6
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 3,
+        "chapter": 37,
+        "hadith": 6
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:3:37",
+        "titles": {
+          "ar": "باب مَا يَجِبُ عَلَى الطَّرَّارِ وَ الْمُخْتَلِسِ مِنَ الْحَدِّ",
+          "en": "Chapter 37 – What Penalty (Hadd) is Obligated upon the villain and the embezzler"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ أَمِيرُ الْمُؤْمِنِينَ ( عليه السلام ) أَرْبَعَةٌ لَا قَطْعَ عَلَيْهِمْ الْمُخْتَلِسُ وَ الْغُلُولُ وَ مَنْ سَرَقَ مِنَ الْغَنِيمَةِ وَ سَرِقَةُ الْأَجِيرِ فَإِنَّهَا خِيَانَةٌ ."
+        ],
+        "text": "قَالَ أَمِيرُ الْمُؤْمِنِينَ ( عليه السلام ) أَرْبَعَةٌ لَا قَطْعَ عَلَيْهِمْ الْمُخْتَلِسُ وَ الْغُلُولُ وَ مَنْ سَرَقَ مِنَ الْغَنِيمَةِ وَ سَرِقَةُ الْأَجِيرِ فَإِنَّهَا خِيَانَةٌ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali, from his father, from Al Nowfaly, from Al Sakuny, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Amir Al-Momineen<sup>asws</sup> said: ‘Four, there is no cutting upon them – the embezzler, and the unfaithful (of trust), and the one who steals from the war booty, and the employee thief, for these are treachery’."
+          ],
+          "text": "Ali, from his father, from Al Nowfaly, from Al Sakuny,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Amir Al-Momineen<sup>asws</sup> said: ‘Four, there is no cutting upon them – the embezzler, and the unfaithful (of trust), and the one who steals from the war booty, and the employee thief, for these are treachery’."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "عَلِيٌّ عَنْ أَبِيهِ عَنِ النَّوْفَلِيِّ عَنِ السَّكُونِيِّ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيٌّ",
+            "path": "/people/narrators/50"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "النَّوْفَلِيِّ",
+            "path": "/people/narrators/32"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "السَّكُونِيِّ",
+            "path": "/people/narrators/34"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/50",
+          "/people/narrators/2",
+          "/people/narrators/32",
+          "/people/narrators/34",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:3:37:6",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/3/37/6.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:3:37:7",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:3:37:7",
+        "parts": [
+          7,
+          3,
+          37,
+          7
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 3,
+        "chapter": 37,
+        "hadith": 7
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:3:37",
+        "titles": {
+          "ar": "باب مَا يَجِبُ عَلَى الطَّرَّارِ وَ الْمُخْتَلِسِ مِنَ الْحَدِّ",
+          "en": "Chapter 37 – What Penalty (Hadd) is Obligated upon the villain and the embezzler"
+        }
+      },
+      "arabic": {
+        "segments": [
+          "وَ بِهَذَا الْإِسْنَادِ أَنَّ أَمِيرَ الْمُؤْمِنِينَ ( عليه السلام ) أُتِيَ بِرَجُلٍ اخْتَلَسَ دُرَّةً مِنْ أُذُنِ جَارِيَةٍ قَالَ هَذِهِ الدَّغَارَةُ الْمُعْلَنَةُ فَضَرَبَهُ وَ حَبَسَهُ ."
+        ],
+        "text": "وَ بِهَذَا الْإِسْنَادِ أَنَّ أَمِيرَ الْمُؤْمِنِينَ ( عليه السلام ) أُتِيَ بِرَجُلٍ اخْتَلَسَ دُرَّةً مِنْ أُذُنِ جَارِيَةٍ قَالَ هَذِهِ الدَّغَارَةُ الْمُعْلَنَةُ فَضَرَبَهُ وَ حَبَسَهُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "And by this chain, that, ",
+            "‘They came with a man to Amir Al-Momineen<sup>asws</sup> who had picked ear rings from the ears of a girl. He<sup>asws</sup> said: ‘This is open snatching’. So he<sup>asws</sup> whipped him and imprisoned him’."
+          ],
+          "text": "And by this chain, that,\n\n‘They came with a man to Amir Al-Momineen<sup>asws</sup> who had picked ear rings from the ears of a girl. He<sup>asws</sup> said: ‘This is open snatching’. So he<sup>asws</sup> whipped him and imprisoned him’."
+        }
+      },
+      "gradings": [],
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:3:37:7",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/3/37/7.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:3:37:8",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:3:37:8",
+        "parts": [
+          7,
+          3,
+          37,
+          8
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 3,
+        "chapter": 37,
+        "hadith": 8
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:3:37",
+        "titles": {
+          "ar": "باب مَا يَجِبُ عَلَى الطَّرَّارِ وَ الْمُخْتَلِسِ مِنَ الْحَدِّ",
+          "en": "Chapter 37 – What Penalty (Hadd) is Obligated upon the villain and the embezzler"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " إِنْ كَانَ طَرَّ مِنْ قَمِيصِهِ الْأَعْلَى لَمْ نَقْطَعْهُ وَ إِنْ كَانَ طَرَّ مِنْ قَمِيصِهِ الْأَسْفَلِ قَطَعْنَاهُ ."
+        ],
+        "text": "إِنْ كَانَ طَرَّ مِنْ قَمِيصِهِ الْأَعْلَى لَمْ نَقْطَعْهُ وَ إِنْ كَانَ طَرَّ مِنْ قَمِيصِهِ الْأَسْفَلِ قَطَعْنَاهُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Sahl Bin Ziyad, from Muhammad Bin Al Hassan Bin Shamoun, from Abdullah Bin Abdul Rahman, from Misma’a Abu Sayyar, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> that Amir Al-Momineen<sup>asws</sup>, they came to him<sup>asws</sup> with a pick-pocket who had picked some Dirhams from the sleeve of a man. He<sup>asws</sup> said: ‘If he has picked it from his outer shirt, we<sup>asws</sup> will not cut him; and if he has stolen from his inner shirt, we<sup>asws</sup> would cut him’."
+          ],
+          "text": "A number of our companions, from Sahl Bin Ziyad, from Muhammad Bin Al Hassan Bin Shamoun, from Abdullah Bin Abdul Rahman, from Misma’a Abu Sayyar,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> that Amir Al-Momineen<sup>asws</sup>, they came to him<sup>asws</sup> with a pick-pocket who had picked some Dirhams from the sleeve of a man. He<sup>asws</sup> said: ‘If he has picked it from his outer shirt, we<sup>asws</sup> will not cut him; and if he has stolen from his inner shirt, we<sup>asws</sup> would cut him’."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ سَهْلِ بْنِ زِيَادٍ عَنْ مُحَمَّدِ بْنِ الْحَسَنِ بْنِ شَمُّونٍ عَنْ عَبْدِ اللَّهِ بْنِ عَبْدِ الرَّحْمَنِ عَنْ مِسْمَعٍ أَبِي سَيَّارٍ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) أَنَّ أَمِيرَ الْمُؤْمِنِينَ ( عليه السلام ) أُتِيَ بِطَرَّارٍ قَدْ طَرَّ مِنْ رَجُلٍ مِنْ رُدْنِهِ دَرَاهِمَ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَهْلِ بْنِ زِيَادٍ",
+            "path": "/people/narrators/8"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ الْحَسَنِ بْنِ شَمُّونٍ",
+            "path": "/people/narrators/121"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَبْدِ اللَّهِ بْنِ عَبْدِ الرَّحْمَنِ",
+            "path": "/people/narrators/171"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مِسْمَعٍ أَبِي سَيَّارٍ",
+            "path": "/people/narrators/410"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "plain",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام ) أَنَّ أَمِيرَ الْمُؤْمِنِينَ ( عليه السلام ) أُتِيَ بِطَرَّارٍ قَدْ طَرَّ مِنْ رَجُلٍ مِنْ رُدْنِهِ دَرَاهِمَ"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/8",
+          "/people/narrators/121",
+          "/people/narrators/171",
+          "/people/narrators/410"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:3:37:8",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/3/37/8.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

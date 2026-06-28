@@ -1,0 +1,89 @@
+{
+  "id": 1250,
+  "type": "narrator",
+  "path": "/people/narrators/1250",
+  "titles": {
+    "ar": "أَبِي الْخَطَّابِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:4:3",
+    "/books/al-kafi:8:1:43:32",
+    "/books/sifat-al-shia:17:1",
+    "/books/tahdhib-al-ahkam:9:1:54"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "11-2-7-83-18-1250": {
+      "narrator_ids": [
+        11,
+        2,
+        7,
+        83,
+        18,
+        1250
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:4:3"
+      ]
+    },
+    "11-7-83-18-1250": {
+      "narrator_ids": [
+        11,
+        7,
+        83,
+        18,
+        1250
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:1:54"
+      ]
+    },
+    "1250-919": {
+      "narrator_ids": [
+        1250,
+        919
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:32"
+      ]
+    },
+    "18-1250": {
+      "narrator_ids": [
+        18,
+        1250
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:4:3",
+        "/books/tahdhib-al-ahkam:9:1:54"
+      ]
+    },
+    "267-1250": {
+      "narrator_ids": [
+        267,
+        1250
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:32"
+      ]
+    },
+    "267-1250-919": {
+      "narrator_ids": [
+        267,
+        1250,
+        919
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:32"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1250",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1250.json"
+  }
+}

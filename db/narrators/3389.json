@@ -1,0 +1,168 @@
+{
+  "id": 3389,
+  "type": "narrator",
+  "path": "/people/narrators/3389",
+  "titles": {
+    "ar": "سَهْلِ بْنِ زِيَادٍ الْأَدَمِيِّ",
+    "en": "Sahl ibn Ziyad al-Adami"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:6:6",
+    "/books/kamil-al-ziyarat:2:60:4",
+    "/books/kamil-al-ziyarat:2:82:1",
+    "/books/kitab-al-ghayba-tusi:26:7",
+    "/books/tahdhib-al-ahkam:5:25:402",
+    "/books/uyun-akhbar-al-rida:1:2:11:16",
+    "/books/uyun-akhbar-al-rida:1:2:1:2",
+    "/books/uyun-akhbar-al-rida:1:2:28:71",
+    "/books/uyun-akhbar-al-rida:1:2:30:24",
+    "/books/uyun-akhbar-al-rida:2:1:2",
+    "/books/uyun-akhbar-al-rida:2:2:21",
+    "/books/uyun-akhbar-al-rida:2:36:22"
+  ],
+  "verseCount": 12,
+  "relations": {},
+  "subchains": {
+    "11-2-90-3389-234-156-522": {
+      "narrator_ids": [
+        11,
+        2,
+        90,
+        3389,
+        234,
+        156,
+        522
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:25:402"
+      ]
+    },
+    "11-3389": {
+      "narrator_ids": [
+        11,
+        3389
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:26:7"
+      ]
+    },
+    "3389-101": {
+      "narrator_ids": [
+        3389,
+        101
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:6:6"
+      ]
+    },
+    "3389-234": {
+      "narrator_ids": [
+        3389,
+        234
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:82:1",
+        "/books/tahdhib-al-ahkam:5:25:402"
+      ]
+    },
+    "3389-29": {
+      "narrator_ids": [
+        3389,
+        29
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:60:4"
+      ]
+    },
+    "3389-3531": {
+      "narrator_ids": [
+        3389,
+        3531
+      ],
+      "verse_paths": [
+        "/books/uyun-akhbar-al-rida:1:2:1:2"
+      ]
+    },
+    "3389-409": {
+      "narrator_ids": [
+        3389,
+        409
+      ],
+      "verse_paths": [
+        "/books/uyun-akhbar-al-rida:1:2:30:24"
+      ]
+    },
+    "6-3389": {
+      "narrator_ids": [
+        6,
+        3389
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:6:6"
+      ]
+    },
+    "6-3389-101": {
+      "narrator_ids": [
+        6,
+        3389,
+        101
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:6:6"
+      ]
+    },
+    "613-3389": {
+      "narrator_ids": [
+        613,
+        3389
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:60:4"
+      ]
+    },
+    "613-3389-29-17-156-170": {
+      "narrator_ids": [
+        613,
+        3389,
+        29,
+        17,
+        156,
+        170
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:60:4"
+      ]
+    },
+    "613-90-3389-234-156-522": {
+      "narrator_ids": [
+        613,
+        90,
+        3389,
+        234,
+        156,
+        522
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:82:1"
+      ]
+    },
+    "90-3389": {
+      "narrator_ids": [
+        90,
+        3389
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:82:1",
+        "/books/tahdhib-al-ahkam:5:25:402"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3389",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3389.json"
+  }
+}

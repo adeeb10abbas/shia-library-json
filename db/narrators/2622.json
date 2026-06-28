@@ -1,0 +1,53 @@
+{
+  "id": 2622,
+  "type": "narrator",
+  "path": "/people/narrators/2622",
+  "titles": {
+    "ar": "الْحُسَيْنِ بْنِ بَشِيرٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:126:9",
+    "/books/tahdhib-al-ahkam:3:26:131"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "1596-2622": {
+      "narrator_ids": [
+        1596,
+        2622
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:126:9"
+      ]
+    },
+    "1596-2622-1236-669": {
+      "narrator_ids": [
+        1596,
+        2622,
+        1236,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:126:9"
+      ]
+    },
+    "2622-1236": {
+      "narrator_ids": [
+        2622,
+        1236
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:126:9"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2622",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2622.json"
+  }
+}

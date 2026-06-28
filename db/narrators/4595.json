@@ -1,0 +1,85 @@
+{
+  "id": 4595,
+  "type": "narrator",
+  "path": "/people/narrators/4595",
+  "titles": {
+    "ar": "يَعْقُوبَ بْنِ إِسْحَاقَ الضَّبِّيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:3:10:1",
+    "/books/tahdhib-al-ahkam:8:13:74"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "11-4595": {
+      "narrator_ids": [
+        11,
+        4595
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:8:13:74"
+      ]
+    },
+    "11-4595-1139-3969": {
+      "narrator_ids": [
+        11,
+        4595,
+        1139,
+        3969
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:8:13:74"
+      ]
+    },
+    "4595-1139": {
+      "narrator_ids": [
+        4595,
+        1139
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:8:13:74"
+      ]
+    },
+    "4595-995": {
+      "narrator_ids": [
+        4595,
+        995
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:3:10:1"
+      ]
+    },
+    "6-8-4595-995-1139-72-9": {
+      "narrator_ids": [
+        6,
+        8,
+        4595,
+        995,
+        1139,
+        72,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:3:10:1"
+      ]
+    },
+    "8-4595": {
+      "narrator_ids": [
+        8,
+        4595
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:3:10:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4595",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4595.json"
+  }
+}

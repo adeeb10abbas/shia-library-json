@@ -1,0 +1,32 @@
+{
+  "id": 2133,
+  "type": "narrator",
+  "path": "/people/narrators/2133",
+  "titles": {
+    "ar": "أَبِي عَبْدِ اللَّهِ ( عليه السلام ) دُعَاءً يُدْعَى بِهِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:4:32:23"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "5-2133": {
+      "narrator_ids": [
+        5,
+        2133
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:32:23"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2133",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2133.json"
+  }
+}

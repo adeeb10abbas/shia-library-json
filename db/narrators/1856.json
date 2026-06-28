@@ -1,0 +1,88 @@
+{
+  "id": 1856,
+  "type": "narrator",
+  "path": "/people/narrators/1856",
+  "titles": {
+    "ar": "ابْنِ أَبِي عُمَيْرٍ أَوْ غَيْرِهِ"
+  },
+  "versePaths": [
+    "/books/al-istibsar:3:76:1",
+    "/books/al-kafi:6:2:54:1",
+    "/books/tahdhib-al-ahkam:8:3:2"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "11-3-2-1856-51-14-669": {
+      "narrator_ids": [
+        11,
+        3,
+        2,
+        1856,
+        51,
+        14,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:8:3:2"
+      ]
+    },
+    "1856-31": {
+      "narrator_ids": [
+        1856,
+        31
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:54:1"
+      ]
+    },
+    "1856-51": {
+      "narrator_ids": [
+        1856,
+        51
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:8:3:2"
+      ]
+    },
+    "2-1856": {
+      "narrator_ids": [
+        2,
+        1856
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:8:3:2"
+      ]
+    },
+    "3-2-37-1856-31-669": {
+      "narrator_ids": [
+        3,
+        2,
+        37,
+        1856,
+        31,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:54:1"
+      ]
+    },
+    "37-1856": {
+      "narrator_ids": [
+        37,
+        1856
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:54:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1856",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1856.json"
+  }
+}

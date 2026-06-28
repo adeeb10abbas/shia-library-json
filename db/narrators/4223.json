@@ -1,0 +1,44 @@
+{
+  "id": 4223,
+  "type": "narrator",
+  "path": "/people/narrators/4223",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ حَنْظَلَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:3:13:13"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1257-4223": {
+      "narrator_ids": [
+        1257,
+        4223
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:13:13"
+      ]
+    },
+    "19-24-30-1257-4223": {
+      "narrator_ids": [
+        19,
+        24,
+        30,
+        1257,
+        4223
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:13:13"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4223",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4223.json"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": 3306,
+  "type": "narrator",
+  "path": "/people/narrators/3306",
+  "titles": {
+    "ar": "سِبَاعِ الطَّيْرِ هَلْ يُلْتَمَسُ التِّجَارَةُ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:103:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "19-24-43-3971-2760-3306": {
+      "narrator_ids": [
+        19,
+        24,
+        43,
+        3971,
+        2760,
+        3306
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:103:4"
+      ]
+    },
+    "2760-3306": {
+      "narrator_ids": [
+        2760,
+        3306
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:103:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3306",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3306.json"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:3:75",
+  "chapter": {
+    "path": "/books/al-khisal:3:75",
+    "titles": {
+      "en": "The Two Benefits of Brushing the Teeth"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:3:75:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:3:75:1",
+        "parts": [
+          3,
+          75,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 75,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:3:75",
+        "titles": {
+          "en": "The Two Benefits of Brushing the Teeth"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا سعد بن عبد الله، عن أحمد بن أبي عبد الله، عن أبي الجوزاء المنبه بن عبد الله، وأبي الخزرج الحسن بن الزبرقان، عن فضيل بن عثمان قال: سمعت أبا عبد الله عليه السلام يقول: اتخذوا في أسنانكم السعد فانه يطيب الفم، ويزيد في الجماع"
+        ],
+        "text": ": حدثنا سعد بن عبد الله، عن أحمد بن أبي عبد الله، عن أبي الجوزاء المنبه بن عبد الله، وأبي الخزرج الحسن بن الزبرقان، عن فضيل بن عثمان قال: سمعت أبا عبد الله عليه السلام يقول: اتخذوا في أسنانكم السعد فانه يطيب الفم، ويزيد في الجماع"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "2-91 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Sa’ed ibn Abdullah quoted Ahmad ibn Aba Abdullah, on the authority of Abil Jo’aza al-Monabat ibn Abdullah and Abil Khazraj al-Hassan ibn al-Zebarqan (al-Qumi), on the authority of Fuzayl ibn Uthman, “I heard Aba Abdullah as-Sadiq (MGB) say, ‘Clean your teeth with As-Sa’ed as it would make your mouth smell good and increase your sexual power.’”"
+          ],
+          "text": "2-91 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Sa’ed ibn Abdullah quoted Ahmad ibn Aba Abdullah, on the authority of Abil Jo’aza al-Monabat ibn Abdullah and Abil Khazraj al-Hassan ibn al-Zebarqan (al-Qumi), on the authority of Fuzayl ibn Uthman, “I heard Aba Abdullah as-Sadiq (MGB) say, ‘Clean your teeth with As-Sa’ed as it would make your mouth smell good and increase your sexual power.’”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "2-91 حدثنا أبي رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "2-91 حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي رضي الله عنه قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:3:75:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/3/75/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/3/75/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

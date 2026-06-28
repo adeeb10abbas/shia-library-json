@@ -1,0 +1,77 @@
+{
+  "id": 3959,
+  "type": "narrator",
+  "path": "/people/narrators/3959",
+  "titles": {
+    "ar": "عِيسَى بْنِ حَسَّانَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:139:18",
+    "/books/tahdhib-al-ahkam:9:2:81"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "11-2-43-670-3959": {
+      "narrator_ids": [
+        11,
+        2,
+        43,
+        670,
+        3959
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:139:18"
+      ]
+    },
+    "289-3959": {
+      "narrator_ids": [
+        289,
+        3959
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:2:81"
+      ]
+    },
+    "3959-669": {
+      "narrator_ids": [
+        3959,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:2:81"
+      ]
+    },
+    "4-29-88-241-289-3959-669": {
+      "narrator_ids": [
+        4,
+        29,
+        88,
+        241,
+        289,
+        3959,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:2:81"
+      ]
+    },
+    "670-3959": {
+      "narrator_ids": [
+        670,
+        3959
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:139:18"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3959",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3959.json"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": 1959,
+  "type": "narrator",
+  "path": "/people/narrators/1959",
+  "titles": {
+    "ar": "أَبِي الْحُرِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:25:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1959-669": {
+      "narrator_ids": [
+        1959,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:25:3"
+      ]
+    },
+    "3-157-143-46-1959-669": {
+      "narrator_ids": [
+        3,
+        157,
+        143,
+        46,
+        1959,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:25:3"
+      ]
+    },
+    "46-1959": {
+      "narrator_ids": [
+        46,
+        1959
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:25:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1959",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1959.json"
+  }
+}

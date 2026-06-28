@@ -1,0 +1,51 @@
+{
+  "id": 2877,
+  "type": "narrator",
+  "path": "/people/narrators/2877",
+  "titles": {
+    "ar": "بَشَّارِ بْنِ أَحْمَدَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:75:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-2877": {
+      "narrator_ids": [
+        11,
+        2877
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:75:3"
+      ]
+    },
+    "11-2877-3602": {
+      "narrator_ids": [
+        11,
+        2877,
+        3602
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:75:3"
+      ]
+    },
+    "2877-3602": {
+      "narrator_ids": [
+        2877,
+        3602
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:75:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2877",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2877.json"
+  }
+}

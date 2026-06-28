@@ -1,0 +1,55 @@
+{
+  "id": 3310,
+  "type": "narrator",
+  "path": "/people/narrators/3310",
+  "titles": {
+    "ar": "سُرِقَ مِنَ الْكَعْبَةِ غَزَالٌ مِنْ ذَهَبٍ رِجْلَاهُ مِنْ جَوْهَرٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:9:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3-3984-3310-4050-4055-4532-4589": {
+      "narrator_ids": [
+        3,
+        3984,
+        3310,
+        4050,
+        4055,
+        4532,
+        4589
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:9:4"
+      ]
+    },
+    "3310-4050": {
+      "narrator_ids": [
+        3310,
+        4050
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:9:4"
+      ]
+    },
+    "3984-3310": {
+      "narrator_ids": [
+        3984,
+        3310
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:9:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3310",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3310.json"
+  }
+}

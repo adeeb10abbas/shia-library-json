@@ -1,0 +1,42 @@
+{
+  "id": 1981,
+  "type": "narrator",
+  "path": "/people/narrators/1981",
+  "titles": {
+    "ar": "أَبِي الْحَسَنِ النَّهْدِيِّ رَفَعَ الْحَدِيثَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:3:7:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "373-1981": {
+      "narrator_ids": [
+        373,
+        1981
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:7:1"
+      ]
+    },
+    "4-373-1981": {
+      "narrator_ids": [
+        4,
+        373,
+        1981
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:7:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1981",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1981.json"
+  }
+}

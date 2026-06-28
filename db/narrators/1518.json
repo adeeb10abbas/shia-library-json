@@ -1,0 +1,77 @@
+{
+  "id": 1518,
+  "type": "narrator",
+  "path": "/people/narrators/1518",
+  "titles": {
+    "ar": "عَبْدِ الرَّحْمَنِ بْنِ مُحَمَّدٍ الْأَسَدِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:63:7",
+    "/books/al-kafi:4:1:2:3"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "1518-779": {
+      "narrator_ids": [
+        1518,
+        779
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:63:7",
+        "/books/al-kafi:4:1:2:3"
+      ]
+    },
+    "29-1518": {
+      "narrator_ids": [
+        29,
+        1518
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:63:7"
+      ]
+    },
+    "35-5-67-1518-779-669": {
+      "narrator_ids": [
+        35,
+        5,
+        67,
+        1518,
+        779,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:2:3"
+      ]
+    },
+    "4-29-1518-779-669": {
+      "narrator_ids": [
+        4,
+        29,
+        1518,
+        779,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:63:7"
+      ]
+    },
+    "67-1518": {
+      "narrator_ids": [
+        67,
+        1518
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:2:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1518",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1518.json"
+  }
+}

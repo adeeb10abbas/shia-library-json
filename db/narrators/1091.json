@@ -1,0 +1,130 @@
+{
+  "id": 1091,
+  "type": "narrator",
+  "path": "/people/narrators/1091",
+  "titles": {
+    "ar": "دَاوُدَ النَّهْدِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:58:2",
+    "/books/al-kafi:5:3:54:4",
+    "/books/al-kafi:6:3:16:6",
+    "/books/tahdhib-al-ahkam:8:10:66"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "1091-136": {
+      "narrator_ids": [
+        1091,
+        136
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:58:2"
+      ]
+    },
+    "1091-36": {
+      "narrator_ids": [
+        1091,
+        36
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:3:16:6",
+        "/books/tahdhib-al-ahkam:8:10:66"
+      ]
+    },
+    "1091-74": {
+      "narrator_ids": [
+        1091,
+        74
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:54:4"
+      ]
+    },
+    "11-3-2-1091-36": {
+      "narrator_ids": [
+        11,
+        3,
+        2,
+        1091,
+        36
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:8:10:66"
+      ]
+    },
+    "2-1091": {
+      "narrator_ids": [
+        2,
+        1091
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:3:16:6",
+        "/books/tahdhib-al-ahkam:8:10:66"
+      ]
+    },
+    "27-1091": {
+      "narrator_ids": [
+        27,
+        1091
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:58:2"
+      ]
+    },
+    "274-2-27-1091-136-64": {
+      "narrator_ids": [
+        274,
+        2,
+        27,
+        1091,
+        136,
+        64
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:58:2"
+      ]
+    },
+    "50-2-1091-36": {
+      "narrator_ids": [
+        50,
+        2,
+        1091,
+        36
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:3:16:6"
+      ]
+    },
+    "6-8-1091-74-73": {
+      "narrator_ids": [
+        6,
+        8,
+        1091,
+        74,
+        73
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:54:4"
+      ]
+    },
+    "8-1091": {
+      "narrator_ids": [
+        8,
+        1091
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:54:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1091",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1091.json"
+  }
+}

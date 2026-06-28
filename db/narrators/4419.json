@@ -1,0 +1,56 @@
+{
+  "id": 4419,
+  "type": "narrator",
+  "path": "/people/narrators/4419",
+  "titles": {
+    "ar": "مَنْصُورِ بْنِ حَازِمٍ قَالُوا أَمَرَنَا أَبُو عَبْدِ اللَّهِ ( عليه السلام ) أَنْ نُلَبِّيَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:80:8"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "170-4419": {
+      "narrator_ids": [
+        170,
+        4419
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:80:8"
+      ]
+    },
+    "4419-4076": {
+      "narrator_ids": [
+        4419,
+        4076
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:80:8"
+      ]
+    },
+    "6-5-15-80-177-170-4419-4076": {
+      "narrator_ids": [
+        6,
+        5,
+        15,
+        80,
+        177,
+        170,
+        4419,
+        4076
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:80:8"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4419",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4419.json"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 4491,
+  "type": "narrator",
+  "path": "/people/narrators/4491",
+  "titles": {
+    "ar": "هَاشِمِ بْنِ خَالِدٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:7:19:3",
+    "/books/tahdhib-al-ahkam:9:2:207"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "11-6-8-248-261-4491-4477-669": {
+      "narrator_ids": [
+        11,
+        6,
+        8,
+        248,
+        261,
+        4491,
+        4477,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:2:207"
+      ]
+    },
+    "261-4491": {
+      "narrator_ids": [
+        261,
+        4491
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:19:3",
+        "/books/tahdhib-al-ahkam:9:2:207"
+      ]
+    },
+    "4491-4477": {
+      "narrator_ids": [
+        4491,
+        4477
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:19:3",
+        "/books/tahdhib-al-ahkam:9:2:207"
+      ]
+    },
+    "6-8-248-261-4491-4477-669": {
+      "narrator_ids": [
+        6,
+        8,
+        248,
+        261,
+        4491,
+        4477,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:19:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4491",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4491.json"
+  }
+}

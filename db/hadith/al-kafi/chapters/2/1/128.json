@@ -1,0 +1,283 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:2:1:128",
+  "chapter": {
+    "path": "/books/al-kafi:2:1:128",
+    "titles": {
+      "ar": "بَابُ الْخُرْقِ",
+      "en": "Chapter 128 – The Harshness (Awkwardness of Manners)"
+    }
+  },
+  "count": 2,
+  "records": [
+    {
+      "id": "al-kafi:2:1:128:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:2:1:128:1",
+        "parts": [
+          2,
+          1,
+          128,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 1,
+        "chapter": 128,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:2:1:128",
+        "titles": {
+          "ar": "بَابُ الْخُرْقِ",
+          "en": "Chapter 128 – The Harshness (Awkwardness of Manners)"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " مَنْ قُسِمَ لَهُ الْخُرْقُ حُجِبَ عَنْهُ الْإِيمَانُ ."
+        ],
+        "text": "مَنْ قُسِمَ لَهُ الْخُرْقُ حُجِبَ عَنْهُ الْإِيمَانُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Ahmad Bin Abu Abdullah, from his father, from the one who narrated it, from Muhammad Bin Abdul Rahman Bin Abu Layli, ",
+            "(It has been narrated) from Abu Ja’far<sup>asws</sup> having said: ‘Whoever has a share of harshness (in his behaviour), the <span class=\"iTxt\">Emān</span> is separated from him’."
+          ],
+          "text": "A number of our companions, from Ahmad Bin Abu Abdullah, from his father, from the one who narrated it, from Muhammad Bin Abdul Rahman Bin Abu Layli,\n\n(It has been narrated) from Abu Ja’far<sup>asws</sup> having said: ‘Whoever has a share of harshness (in his behaviour), the <span class=\"iTxt\">Emān</span> is separated from him’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. A number of our people have narrated from Ahmad ibn abu ‘Abd Allah from his father from those he has narrated from Muhammad ibn ‘Abd al-Rahman ibn abu Layla’ from abu Ja’far (a.s.) who has said the following: “Abu Ja’far (a.s.) has said, ‘Whoever has a share of harshness (in his behavior), belief is separated from him.’” "
+          ],
+          "text": "1. A number of our people have narrated from Ahmad ibn abu ‘Abd Allah from his father from those he has narrated from Muhammad ibn ‘Abd al-Rahman ibn abu Layla’ from abu Ja’far (a.s.) who has said the following: “Abu Ja’far (a.s.) has said, ‘Whoever has a share of harshness (in his behavior), belief is separated from him.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مرسل    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (10/259)",
+          "label": "مرسل",
+          "text": "Allamah Baqir al-Majlisi: مرسل - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (10/259)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ أَحْمَدَ بْنِ أَبِي عَبْدِ اللَّهِ عَنْ أَبِيهِ عَمَّنْ حَدَّثَهُ عَنْ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ أَبِي لَيْلَى عَنْ أَبِي جَعْفَرٍ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ أَبِي عَبْدِ اللَّهِ",
+            "path": "/people/narrators/12"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "plain",
+            "text": "أَبِيهِ عَمَّنْ حَدَّثَهُ"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ أَبِي لَيْلَى",
+            "path": "/people/narrators/721"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي جَعْفَرٍ ( عليه السلام )",
+            "path": "/people/narrators/9"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/12",
+          "/people/narrators/721",
+          "/people/narrators/9"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:2:1:128:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/2/1/128/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:2:1:128:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:2:1:128:2",
+        "parts": [
+          2,
+          1,
+          128,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 1,
+        "chapter": 128,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:2:1:128",
+        "titles": {
+          "ar": "بَابُ الْخُرْقِ",
+          "en": "Chapter 128 – The Harshness (Awkwardness of Manners)"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) لَوْ كَانَ الْخُرْقُ خَلْقاً يُرَى مَا كَانَ شَيْ‏ءٌ مِمَّا خَلَقَ اللَّهُ أَقْبَحَ مِنْهُ ."
+        ],
+        "text": "قَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) لَوْ كَانَ الْخُرْقُ خَلْقاً يُرَى مَا كَانَ شَيْ‏ءٌ مِمَّا خَلَقَ اللَّهُ أَقْبَحَ مِنْهُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad Bin Isa, from ali Bin Al Numan, from Amro Bin Shimr, from Jabir, ",
+            "(It has been narrated) from Abu Ja’far<sup>asws</sup> that ‘Rasool-Allah<sup>saww</sup> said: ‘Had the harshness being a visible creature, there would not have been anything from what Allah<sup>azwj</sup> has Created, uglier than it’."
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad Bin Isa, from ali Bin Al Numan, from Amro Bin Shimr, from Jabir,\n\n(It has been narrated) from Abu Ja’far<sup>asws</sup> that ‘Rasool-Allah<sup>saww</sup> said: ‘Had the harshness being a visible creature, there would not have been anything from what Allah<sup>azwj</sup> has Created, uglier than it’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad ibn ‘Isa from Ali ibn al-Nu’man from ‘Amr ibn Shamir from Jabir from abu Ja’far (a.s.) who has said the following: “The Messenger of Allah has said, ‘Had harshness been among the visible creatures it would have looked the most loathsome of the creatures of Allah.’” "
+          ],
+          "text": "2. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad ibn ‘Isa from Ali ibn al-Nu’man from ‘Amr ibn Shamir from Jabir from abu Ja’far (a.s.) who has said the following: “The Messenger of Allah has said, ‘Had harshness been among the visible creatures it would have looked the most loathsome of the creatures of Allah.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (10/260)",
+          "label": "ضعيف",
+          "text": "Allamah Baqir al-Majlisi: ضعيف - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (10/260)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى عَنْ عَلِيِّ بْنِ النُّعْمَانِ عَنْ عَمْرِو بْنِ شِمْرٍ عَنْ جَابِرٍ عَنْ أَبِي جَعْفَرٍ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى",
+            "path": "/people/narrators/13"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيِّ بْنِ النُّعْمَانِ",
+            "path": "/people/narrators/88"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَمْرِو بْنِ شِمْرٍ",
+            "path": "/people/narrators/117"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "جَابِرٍ",
+            "path": "/people/narrators/72"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي جَعْفَرٍ ( عليه السلام )",
+            "path": "/people/narrators/9"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/13",
+          "/people/narrators/88",
+          "/people/narrators/117",
+          "/people/narrators/72",
+          "/people/narrators/9"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:2:1:128:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/2/1/128/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

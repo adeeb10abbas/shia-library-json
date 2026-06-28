@@ -1,0 +1,47 @@
+{
+  "id": 2215,
+  "type": "narrator",
+  "path": "/people/narrators/2215",
+  "titles": {
+    "ar": "أَبِي مِخْنَفٍ الْأَزْدِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:1:26:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "6-12-67-2324-2439-1809-60-2215": {
+      "narrator_ids": [
+        6,
+        12,
+        67,
+        2324,
+        2439,
+        1809,
+        60,
+        2215
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:26:3"
+      ]
+    },
+    "60-2215": {
+      "narrator_ids": [
+        60,
+        2215
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:26:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2215",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2215.json"
+  }
+}

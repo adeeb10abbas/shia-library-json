@@ -1,0 +1,65 @@
+{
+  "id": 1466,
+  "type": "narrator",
+  "path": "/people/narrators/1466",
+  "titles": {
+    "ar": "رَجُلٍ مِنْ أَهْلِ الْجَبَلِ لَمْ يُسَمِّهِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:4:3:4",
+    "/books/al-kafi:8:1:43:38"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "11-51-1466": {
+      "narrator_ids": [
+        11,
+        51,
+        1466
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:38"
+      ]
+    },
+    "128-1466": {
+      "narrator_ids": [
+        128,
+        1466
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:3:4"
+      ]
+    },
+    "3-2-7-2912-128-1466": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        2912,
+        128,
+        1466
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:3:4"
+      ]
+    },
+    "51-1466": {
+      "narrator_ids": [
+        51,
+        1466
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:38"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1466",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1466.json"
+  }
+}

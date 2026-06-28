@@ -1,0 +1,52 @@
+{
+  "id": 3515,
+  "type": "narrator",
+  "path": "/people/narrators/3515",
+  "titles": {
+    "ar": "عَبْدِ السَّلَامِ بْنِ صَالِحٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:4:58:21"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "35-573-3515-184": {
+      "narrator_ids": [
+        35,
+        573,
+        3515,
+        184
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:58:21"
+      ]
+    },
+    "3515-184": {
+      "narrator_ids": [
+        3515,
+        184
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:58:21"
+      ]
+    },
+    "573-3515": {
+      "narrator_ids": [
+        573,
+        3515
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:58:21"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3515",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3515.json"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:5:95",
+  "chapter": {
+    "path": "/books/al-khisal:5:95",
+    "titles": {
+      "en": "The best and the worst four names"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:5:95:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:5:95:1",
+        "parts": [
+          5,
+          95,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 95,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:5:95",
+        "titles": {
+          "en": "The best and the worst four names"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا سعد بن عبد الله، عن أبي عبد الله، عن أبيه، عن أحمد بن النضر، عن عمرو بن شمر، عن جابر، عن أبي جعفر عليه السلام قال: قال رسول الله صلى الله عليه وآله على منبره: ألا إن خير الاسماء عبد الله، وعبدالرحمن، وحارثة، وهمام، وشر الاسماء ضرار، ومرة، وحرب، وظالم"
+        ],
+        "text": ": حدثنا سعد بن عبد الله، عن أبي عبد الله، عن أبيه، عن أحمد بن النضر، عن عمرو بن شمر، عن جابر، عن أبي جعفر عليه السلام قال: قال رسول الله صلى الله عليه وآله على منبره: ألا إن خير الاسماء عبد الله، وعبدالرحمن، وحارثة، وهمام، وشر الاسماء ضرار، ومرة، وحرب، وظالم"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "4-118 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Sa’ed ibn Abdullah quoted his father, on the authority of Ahmad ibn an-Nazr, on the authority of Amr ibn Shimr, on the authority of Jabir, on the authority of Abi Ja’far al-Baqir (MGB) that on the pulpit God’s Prophet (MGB) said, “Indeed the best four names are Abdullah, Abdul Rahman, Haritha and Himam. And the worst four names are Zarar, Marrat, Harb and Zalim.”"
+          ],
+          "text": "4-118 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Sa’ed ibn Abdullah quoted his father, on the authority of Ahmad ibn an-Nazr, on the authority of Amr ibn Shimr, on the authority of Jabir, on the authority of Abi Ja’far al-Baqir (MGB) that on the pulpit God’s Prophet (MGB) said, “Indeed the best four names are Abdullah, Abdul Rahman, Haritha and Himam. And the worst four names are Zarar, Marrat, Harb and Zalim.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "4-11 8 حدثنا أبي رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "4-11 8 حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي رضي الله عنه قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:5:95:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/5/95/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/5/95/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

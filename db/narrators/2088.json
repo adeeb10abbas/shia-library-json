@@ -1,0 +1,55 @@
+{
+  "id": 2088,
+  "type": "narrator",
+  "path": "/people/narrators/2088",
+  "titles": {
+    "ar": "أَبِي دَاوُدَ النَّخَعِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:80:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-248-1669-2408-1686-2088-669": {
+      "narrator_ids": [
+        11,
+        248,
+        1669,
+        2408,
+        1686,
+        2088,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:80:4"
+      ]
+    },
+    "1686-2088": {
+      "narrator_ids": [
+        1686,
+        2088
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:80:4"
+      ]
+    },
+    "2088-669": {
+      "narrator_ids": [
+        2088,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:80:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2088",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2088.json"
+  }
+}

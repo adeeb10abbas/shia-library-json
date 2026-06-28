@@ -1,0 +1,126 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-amali-mufid",
+  "chapterPath": "/books/al-amali-mufid:23:42",
+  "chapter": {
+    "path": "/books/al-amali-mufid:23:42",
+    "titles": {
+      "en": "‘Ali (as)’s admonition"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-amali-mufid:23:42:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-amali-mufid",
+        "titles": {
+          "ar": "الأمالي (المفيد)",
+          "en": "Al-Amali (al-Mufid)"
+        },
+        "author": {
+          "ar": "الشيخ المفيد",
+          "en": "Shaykh al-Mufid"
+        }
+      },
+      "path": {
+        "source": "/books/al-amali-mufid:23:42:1",
+        "parts": [
+          23,
+          42,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 23,
+        "book": 42,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-amali-mufid:23:42",
+        "titles": {
+          "en": "‘Ali (as)’s admonition"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": كان أمير المؤمنين عليه السلام يقول: نبه بالتفكر قلبك، وجاف عن النوم جنبك ، واتق الله ربك."
+        ],
+        "text": ": كان أمير المؤمنين عليه السلام يقول: نبه بالتفكر قلبك، وجاف عن النوم جنبك ، واتق الله ربك."
+      },
+      "translations": {
+        "en.mulla-asgharali-m-m-jaffer": {
+          "segments": [
+            "42. And with the former chain of narration from ‘Ali ibn Mahzyar, from Fadhalah, from Ismail from Abu Abdillah, peace be upon him, who said: Amirul Mu’mineen (as) used to say: \"Awaken your heart by reflection and let your side forsake (long) sleep, and fear Allah, your Sustainer (by guarding against sins and evil).\""
+          ],
+          "text": "42. And with the former chain of narration from ‘Ali ibn Mahzyar, from Fadhalah, from Ismail from Abu Abdillah, peace be upon him, who said: Amirul Mu’mineen (as) used to say: \"Awaken your heart by reflection and let your side forsake (long) sleep, and fear Allah, your Sustainer (by guarding against sins and evil).\""
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "42 - وبالإسناد الأول عن علي بن مهزيار، عن فضالة، عن إسماعيل ، عن أبي عبد الله عليه السلام قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "42 - "
+          },
+          {
+            "kind": "plain",
+            "text": "وبالإسناد الأول"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "علي بن مهزيار،",
+            "path": "/people/narrators/81"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "فضالة،",
+            "path": "/people/narrators/69"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "إسماعيل ،",
+            "path": "/people/narrators/2420"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي عبد الله عليه السلام قال",
+            "path": "/people/narrators/669"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/81",
+          "/people/narrators/69",
+          "/people/narrators/2420",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-amali-mufid:23:42:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-amali-mufid/23/42/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/13/23/42/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

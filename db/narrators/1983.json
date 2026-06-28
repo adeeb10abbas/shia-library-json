@@ -1,0 +1,120 @@
+{
+  "id": 1983,
+  "type": "narrator",
+  "path": "/people/narrators/1983",
+  "titles": {
+    "ar": "أَبِي الْحَسَنِ عَلِيِّ بْنِ مُوسَى الرِّضَا ( عليه السلام )"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:3:7:3",
+    "/books/man-la-yahduruhu-al-faqih:2:3:156:33",
+    "/books/uyun-akhbar-al-rida:1:2:26:24",
+    "/books/uyun-akhbar-al-rida:1:2:28:48",
+    "/books/uyun-akhbar-al-rida:2:1:194",
+    "/books/uyun-akhbar-al-rida:2:36:11"
+  ],
+  "verseCount": 6,
+  "relations": {},
+  "subchains": {
+    "17-33-30-1983": {
+      "narrator_ids": [
+        17,
+        33,
+        30,
+        1983
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:7:3"
+      ]
+    },
+    "1983-2": {
+      "narrator_ids": [
+        1983,
+        2
+      ],
+      "verse_paths": [
+        "/books/uyun-akhbar-al-rida:2:1:194"
+      ]
+    },
+    "1983-453": {
+      "narrator_ids": [
+        1983,
+        453
+      ],
+      "verse_paths": [
+        "/books/uyun-akhbar-al-rida:1:2:26:24"
+      ]
+    },
+    "2-1983": {
+      "narrator_ids": [
+        2,
+        1983
+      ],
+      "verse_paths": [
+        "/books/uyun-akhbar-al-rida:1:2:28:48",
+        "/books/uyun-akhbar-al-rida:2:36:11"
+      ]
+    },
+    "2-337-323-1983-2-662": {
+      "narrator_ids": [
+        2,
+        337,
+        323,
+        1983,
+        2,
+        662
+      ],
+      "verse_paths": [
+        "/books/uyun-akhbar-al-rida:2:1:194"
+      ]
+    },
+    "2-337-323-1983-453": {
+      "narrator_ids": [
+        2,
+        337,
+        323,
+        1983,
+        453
+      ],
+      "verse_paths": [
+        "/books/uyun-akhbar-al-rida:1:2:26:24"
+      ]
+    },
+    "244-1983": {
+      "narrator_ids": [
+        244,
+        1983
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:2:3:156:33"
+      ]
+    },
+    "30-1983": {
+      "narrator_ids": [
+        30,
+        1983
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:7:3"
+      ]
+    },
+    "323-1983": {
+      "narrator_ids": [
+        323,
+        1983
+      ],
+      "verse_paths": [
+        "/books/uyun-akhbar-al-rida:1:2:26:24",
+        "/books/uyun-akhbar-al-rida:2:1:194"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1983",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1983.json"
+  }
+}

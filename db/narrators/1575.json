@@ -1,0 +1,88 @@
+{
+  "id": 1575,
+  "type": "narrator",
+  "path": "/people/narrators/1575",
+  "titles": {
+    "ar": "عَلِيِّ بْنِ دَاوُدَ الْحَدَّادِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:3:28:3",
+    "/books/al-kafi:6:9:8:4"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "1575-40": {
+      "narrator_ids": [
+        1575,
+        40
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:9:8:4"
+      ]
+    },
+    "1575-669": {
+      "narrator_ids": [
+        1575,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:28:3"
+      ]
+    },
+    "20-25-227-1575-40-669": {
+      "narrator_ids": [
+        20,
+        25,
+        227,
+        1575,
+        40,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:9:8:4"
+      ]
+    },
+    "227-1575": {
+      "narrator_ids": [
+        227,
+        1575
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:9:8:4"
+      ]
+    },
+    "2364-1575": {
+      "narrator_ids": [
+        2364,
+        1575
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:28:3"
+      ]
+    },
+    "6-8-453-142-4260-2364-1575-669": {
+      "narrator_ids": [
+        6,
+        8,
+        453,
+        142,
+        4260,
+        2364,
+        1575,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:28:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1575",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1575.json"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1553,
+  "type": "narrator",
+  "path": "/people/narrators/1553",
+  "titles": {
+    "ar": "عُبَيْدِ اللَّهِ بْنِ الْوَلِيدِ الْوَصَّافِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:82:3",
+    "/books/al-kafi:2:2:36:2"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "11-2757-2411-1553": {
+      "narrator_ids": [
+        11,
+        2757,
+        2411,
+        1553
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:36:2"
+      ]
+    },
+    "128-1553": {
+      "narrator_ids": [
+        128,
+        1553
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:82:3"
+      ]
+    },
+    "2411-1553": {
+      "narrator_ids": [
+        2411,
+        1553
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:36:2"
+      ]
+    },
+    "4-13-42-128-1553": {
+      "narrator_ids": [
+        4,
+        13,
+        42,
+        128,
+        1553
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:82:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1553",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1553.json"
+  }
+}

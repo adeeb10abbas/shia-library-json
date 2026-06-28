@@ -1,0 +1,53 @@
+{
+  "id": 1718,
+  "type": "narrator",
+  "path": "/people/narrators/1718",
+  "titles": {
+    "ar": "هِشَامُ بْنُ إِبْرَاهِيمَ"
+  },
+  "versePaths": [
+    "/books/tahdhib-al-ahkam:6:91:249"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-1507-311-1718-184": {
+      "narrator_ids": [
+        11,
+        1507,
+        311,
+        1718,
+        184
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:91:249"
+      ]
+    },
+    "1718-184": {
+      "narrator_ids": [
+        1718,
+        184
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:91:249"
+      ]
+    },
+    "311-1718": {
+      "narrator_ids": [
+        311,
+        1718
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:91:249"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1718",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1718.json"
+  }
+}

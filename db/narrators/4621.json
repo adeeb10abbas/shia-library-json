@@ -1,0 +1,54 @@
+{
+  "id": 4621,
+  "type": "narrator",
+  "path": "/people/narrators/4621",
+  "titles": {
+    "ar": "يُونُسَ أَوِ الْمُفَضَّلِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:42:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "4-167-144-624-4621-669": {
+      "narrator_ids": [
+        4,
+        167,
+        144,
+        624,
+        4621,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:42:3"
+      ]
+    },
+    "4621-669": {
+      "narrator_ids": [
+        4621,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:42:3"
+      ]
+    },
+    "624-4621": {
+      "narrator_ids": [
+        624,
+        4621
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:42:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4621",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4621.json"
+  }
+}

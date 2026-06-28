@@ -1,0 +1,673 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:6:3:17",
+  "chapter": {
+    "path": "/books/al-kafi:6:3:17",
+    "titles": {
+      "ar": "باب الْوَلَاءِ لِمَنْ أَعْتَقَ",
+      "en": "Chapter 17 – The guardianship is for the one who emancipates"
+    }
+  },
+  "count": 5,
+  "records": [
+    {
+      "id": "al-kafi:6:3:17:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:3:17:1",
+        "parts": [
+          6,
+          3,
+          17,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 3,
+        "chapter": 17,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:3:17",
+        "titles": {
+          "ar": "باب الْوَلَاءِ لِمَنْ أَعْتَقَ",
+          "en": "Chapter 17 – The guardianship is for the one who emancipates"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) الْوَلَاءُ لِمَنْ أَعْتَقَ ."
+        ],
+        "text": "قَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) الْوَلَاءُ لِمَنْ أَعْتَقَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father, from Ibn Abu Umeyr, from Hammad, from Al Halby, and Muhammad Bin Muslim, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup> said: ‘The guardianship is for the one who emancipates’."
+          ],
+          "text": "Ali Bin Ibrahim, from his father, from Ibn Abu Umeyr, from Hammad, from Al Halby, and Muhammad Bin Muslim,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup> said: ‘The guardianship is for the one who emancipates’."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنِ ابْنِ أَبِي عُمَيْرٍ عَنْ حَمَّادٍ عَنِ الْحَلَبِيِّ وَ مُحَمَّدِ بْنِ مُسْلِمٍ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ أَبِي عُمَيْرٍ",
+            "path": "/people/narrators/7"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "حَمَّادٍ",
+            "path": "/people/narrators/23"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحَلَبِيِّ",
+            "path": "/people/narrators/28"
+          },
+          {
+            "kind": "plain",
+            "text": " وَ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ مُسْلِمٍ",
+            "path": "/people/narrators/16"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/7",
+          "/people/narrators/23",
+          "/people/narrators/28",
+          "/people/narrators/16",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:5:3:134:1",
+          "/books/al-kafi:6:2:74:9",
+          "/books/al-kafi:7:1:2:2",
+          "/books/al-kafi:7:2:65:1",
+          "/books/tahdhib-al-ahkam:9:7:10"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:3:17:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/3/17/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:3:17:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:3:17:2",
+        "parts": [
+          6,
+          3,
+          17,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 3,
+        "chapter": 17,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:3:17",
+        "titles": {
+          "ar": "باب الْوَلَاءِ لِمَنْ أَعْتَقَ",
+          "en": "Chapter 17 – The guardianship is for the one who emancipates"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَأَلْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) عَنِ الرَّجُلِ إِذَا أُعْتِقَ أَ لَهُ أَنْ يَضَعَ نَفْسَهُ حَيْثُ شَاءَ وَ يَتَوَلَّى مَنْ أَحَبَّ فَقَالَ إِذَا أُعْتِقَ لِلَّهِ فَهُوَ مَوْلًى لِلَّذِي أَعْتَقَهُ فَإِذَا أُعْتِقَ وَ جُعِلَ سَائِبَةً فَلَهُ أَنْ يَضَعَ نَفْسَهُ حَيْثُ شَاءَ وَ يَتَوَلَّى مَنْ شَاءَ ."
+        ],
+        "text": "سَأَلْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) عَنِ الرَّجُلِ إِذَا أُعْتِقَ أَ لَهُ أَنْ يَضَعَ نَفْسَهُ حَيْثُ شَاءَ وَ يَتَوَلَّى مَنْ أَحَبَّ فَقَالَ إِذَا أُعْتِقَ لِلَّهِ فَهُوَ مَوْلًى لِلَّذِي أَعْتَقَهُ فَإِذَا أُعْتِقَ وَ جُعِلَ سَائِبَةً فَلَهُ أَنْ يَضَعَ نَفْسَهُ حَيْثُ شَاءَ وَ يَتَوَلَّى مَنْ شَاءَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Abdullah Bin Muhammad, from Ali Bin Al Hakam,f rom Aban, from Ismail Bin Al Fazal who said, ",
+            "‘I asked Abu Abdullah<sup>asws</sup> about the man when is emancipated, is it for him that he places himself wherever he so desires to, and makes a guardian to the one whom he loves to?’ So he<sup>asws</sup> said: ‘When he is emancipated for the Sake of Allah<sup>azwj</sup>, so he is a slave of the one who emancipated him. So when he is emancipated and is made a freed slave, so for him is that he places himself wherever he so desires to and makes a guardian the one who he so desires to’."
+          ],
+          "text": "Muhammad Bin Yahya, from Abdullah Bin Muhammad, from Ali Bin Al Hakam,f rom Aban, from Ismail Bin Al Fazal who said,\n\n‘I asked Abu Abdullah<sup>asws</sup> about the man when is emancipated, is it for him that he places himself wherever he so desires to, and makes a guardian to the one whom he loves to?’ So he<sup>asws</sup> said: ‘When he is emancipated for the Sake of Allah<sup>azwj</sup>, so he is a slave of the one who emancipated him. So when he is emancipated and is made a freed slave, so for him is that he places himself wherever he so desires to and makes a guardian the one who he so desires to’."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ عَبْدِ اللَّهِ بْنِ مُحَمَّدٍ عَنْ عَلِيِّ بْنِ الْحَكَمِ عَنْ أَبَانٍ عَنْ إِسْمَاعِيلَ بْنِ الْفَضْلِ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَبْدِ اللَّهِ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/144"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيِّ بْنِ الْحَكَمِ",
+            "path": "/people/narrators/15"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبَانٍ",
+            "path": "/people/narrators/46"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "إِسْمَاعِيلَ بْنِ الْفَضْلِ",
+            "path": "/people/narrators/392"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/144",
+          "/people/narrators/15",
+          "/people/narrators/46",
+          "/people/narrators/392"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:3:17:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/3/17/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:3:17:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:3:17:3",
+        "parts": [
+          6,
+          3,
+          17,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 3,
+        "chapter": 17,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:3:17",
+        "titles": {
+          "ar": "باب الْوَلَاءِ لِمَنْ أَعْتَقَ",
+          "en": "Chapter 17 – The guardianship is for the one who emancipates"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " حَدِيثِ بَرِيرَةَ أَنَّ النَّبِيَّ ( صلى الله عليه وآله ) قَالَ لِعَائِشَةَ أَعْتِقِي فَإِنَّ الْوَلَاءَ لِمَنْ أَعْتَقَ ."
+        ],
+        "text": "حَدِيثِ بَرِيرَةَ أَنَّ النَّبِيَّ ( صلى الله عليه وآله ) قَالَ لِعَائِشَةَ أَعْتِقِي فَإِنَّ الْوَلَاءَ لِمَنْ أَعْتَقَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhamad Bin Yahya, from Ahmad Bin Muhammad, from Ibn Fazzal, from Ibn Bukeyr, from Zurara, ",
+            "(It has been narrated) from Abu Ja’far<sup>asws</sup> regarding a Hadeeth of Bareyra that the Prophet<sup>saww</sup> said to Ayesha: ‘Emancipate, for the guardianship is for the one who emancipates’."
+          ],
+          "text": "Muhamad Bin Yahya, from Ahmad Bin Muhammad, from Ibn Fazzal, from Ibn Bukeyr, from Zurara,\n\n(It has been narrated) from Abu Ja’far<sup>asws</sup> regarding a Hadeeth of Bareyra that the Prophet<sup>saww</sup> said to Ayesha: ‘Emancipate, for the guardianship is for the one who emancipates’."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنِ ابْنِ فَضَّالٍ عَنِ ابْنِ بُكَيْرٍ عَنْ زُرَارَةَ عَنْ أَبِي جَعْفَرٍ ( عليه السلام ) فِي",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ فَضَّالٍ",
+            "path": "/people/narrators/22"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ بُكَيْرٍ",
+            "path": "/people/narrators/56"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "زُرَارَةَ",
+            "path": "/people/narrators/18"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي جَعْفَرٍ ( عليه السلام )",
+            "path": "/people/narrators/9"
+          },
+          {
+            "kind": "plain",
+            "text": " فِي"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/5",
+          "/people/narrators/22",
+          "/people/narrators/56",
+          "/people/narrators/18",
+          "/people/narrators/9"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:5:2:4:6",
+          "/books/al-kafi:5:3:190:6",
+          "/books/al-kafi:5:3:27:12",
+          "/books/al-kafi:6:6:65:2",
+          "/books/al-kafi:7:2:24:13",
+          "/books/al-kafi:7:2:65:2",
+          "/books/al-kafi:7:7:12:1",
+          "/books/al-kafi:7:7:16:11"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:3:17:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/3/17/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:3:17:4",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:3:17:4",
+        "parts": [
+          6,
+          3,
+          17,
+          4
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 3,
+        "chapter": 17,
+        "hadith": 4
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:3:17",
+        "titles": {
+          "ar": "باب الْوَلَاءِ لِمَنْ أَعْتَقَ",
+          "en": "Chapter 17 – The guardianship is for the one who emancipates"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَتْ عَائِشَةُ لِرَسُولِ اللَّهِ ( صلى الله عليه وآله ) إِنَّ أَهْلَ بَرِيرَةَ اشْتَرَطُوا وَلَاءَهَا فَقَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) الْوَلَاءُ لِمَنْ أَعْتَقَ ."
+        ],
+        "text": "قَالَتْ عَائِشَةُ لِرَسُولِ اللَّهِ ( صلى الله عليه وآله ) إِنَّ أَهْلَ بَرِيرَةَ اشْتَرَطُوا وَلَاءَهَا فَقَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) الْوَلَاءُ لِمَنْ أَعْتَقَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Abu Ali Al Ashary, from Muhammad Bin Abdul Jabbar, from Safwan Bin Yahya, from Ays Bin Al Qasim, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Ayesha said to Rasool-Allah<sup>saww</sup>, ‘The people of Bareyra are stipulating their guardianship’. So Rasool-Allah<sup>saww</sup> said: ‘The guardianship is for the one who emancipates’."
+          ],
+          "text": "Abu Ali Al Ashary, from Muhammad Bin Abdul Jabbar, from Safwan Bin Yahya, from Ays Bin Al Qasim,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Ayesha said to Rasool-Allah<sup>saww</sup>, ‘The people of Bareyra are stipulating their guardianship’. So Rasool-Allah<sup>saww</sup> said: ‘The guardianship is for the one who emancipates’."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "أَبُو عَلِيٍّ الْأَشْعَرِيُّ عَنْ مُحَمَّدِ بْنِ عَبْدِ الْجَبَّارِ عَنْ صَفْوَانَ بْنِ يَحْيَى عَنْ عِيصِ بْنِ الْقَاسِمِ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "أَبُو عَلِيٍّ الْأَشْعَرِيُّ",
+            "path": "/people/narrators/19"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ عَبْدِ الْجَبَّارِ",
+            "path": "/people/narrators/24"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "صَفْوَانَ بْنِ يَحْيَى",
+            "path": "/people/narrators/30"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عِيصِ بْنِ الْقَاسِمِ",
+            "path": "/people/narrators/265"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/19",
+          "/people/narrators/24",
+          "/people/narrators/30",
+          "/people/narrators/265",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:4:2:48:5",
+          "/books/al-kafi:4:2:49:2",
+          "/books/al-kafi:4:3:181:15",
+          "/books/al-kafi:4:3:191:4",
+          "/books/al-kafi:5:3:63:1",
+          "/books/al-kafi:7:2:65:3"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:3:17:4",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/3/17/4.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:3:17:5",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:3:17:5",
+        "parts": [
+          6,
+          3,
+          17,
+          5
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 3,
+        "chapter": 17,
+        "hadith": 5
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:3:17",
+        "titles": {
+          "ar": "باب الْوَلَاءِ لِمَنْ أَعْتَقَ",
+          "en": "Chapter 17 – The guardianship is for the one who emancipates"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " فِي امْرَأَةٍ أَعْتَقَتْ رَجُلًا لِمَنْ وَلَاؤُهُ وَ لِمَنْ مِيرَاثُهُ قَالَ لِلَّذِي أَعْتَقَهُ إِلَّا أَنْ يَكُونَ لَهُ وَارِثٌ غَيْرُهَا ."
+        ],
+        "text": "فِي امْرَأَةٍ أَعْتَقَتْ رَجُلًا لِمَنْ وَلَاؤُهُ وَ لِمَنْ مِيرَاثُهُ قَالَ لِلَّذِي أَعْتَقَهُ إِلَّا أَنْ يَكُونَ لَهُ وَارِثٌ غَيْرُهَا ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Muhammad Bin Ismail, from Muhammad Bin Al Fazeyl, from Abu Al Sabbah Al Kinany, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said regarding a woman who emancipated a man. For whom is his guardianship, and for whom is his inheritance?’ He<sup>asws</sup> said: ‘For the one who emancipated him, except if there happens to be an inheritor for him apart from her’."
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Muhammad Bin Ismail, from Muhammad Bin Al Fazeyl, from Abu Al Sabbah Al Kinany,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said regarding a woman who emancipated a man. For whom is his guardianship, and for whom is his inheritance?’ He<sup>asws</sup> said: ‘For the one who emancipated him, except if there happens to be an inheritor for him apart from her’."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنْ مُحَمَّدِ بْنِ إِسْمَاعِيلَ عَنْ مُحَمَّدِ بْنِ الْفُضَيْلِ عَنْ أَبِي الصَّبَّاحِ الْكِنَانِيِّ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ إِسْمَاعِيلَ",
+            "path": "/people/narrators/17"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ الْفُضَيْلِ",
+            "path": "/people/narrators/73"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي الصَّبَّاحِ الْكِنَانِيِّ",
+            "path": "/people/narrators/116"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/5",
+          "/people/narrators/17",
+          "/people/narrators/73",
+          "/people/narrators/116",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:3:17:5",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/3/17/5.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

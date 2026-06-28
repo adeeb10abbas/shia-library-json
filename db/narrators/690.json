@@ -1,0 +1,198 @@
+{
+  "id": 690,
+  "type": "narrator",
+  "path": "/people/narrators/690",
+  "titles": {
+    "ar": "حَمَّادِ بْنِ بَشِيرٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:126:2",
+    "/books/al-kafi:2:1:145:3",
+    "/books/al-kafi:2:1:145:7",
+    "/books/al-kafi:2:1:58:3",
+    "/books/al-kafi:5:2:60:1",
+    "/books/al-kafi:6:7:15:9",
+    "/books/man-la-yahduruhu-al-faqih:3:2:13:31",
+    "/books/tahdhib-al-ahkam:7:1:44",
+    "/books/tahdhib-al-ahkam:9:2:180"
+  ],
+  "verseCount": 9,
+  "relations": {},
+  "subchains": {
+    "12-22-56-690-669": {
+      "narrator_ids": [
+        12,
+        22,
+        56,
+        690,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:1:44"
+      ]
+    },
+    "132-690": {
+      "narrator_ids": [
+        132,
+        690
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:145:7"
+      ]
+    },
+    "161-690": {
+      "narrator_ids": [
+        161,
+        690
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:145:3"
+      ]
+    },
+    "19-24-22-161-690-669": {
+      "narrator_ids": [
+        19,
+        24,
+        22,
+        161,
+        690,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:145:3"
+      ]
+    },
+    "3-2-30-560-690-669": {
+      "narrator_ids": [
+        3,
+        2,
+        30,
+        560,
+        690,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:58:3"
+      ]
+    },
+    "4-13-19-24-22-132-690": {
+      "narrator_ids": [
+        4,
+        13,
+        19,
+        24,
+        22,
+        132,
+        690
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:145:7"
+      ]
+    },
+    "49-94-84-52-690-669": {
+      "narrator_ids": [
+        49,
+        94,
+        84,
+        52,
+        690,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:15:9"
+      ]
+    },
+    "50-2-22-56-690": {
+      "narrator_ids": [
+        50,
+        2,
+        22,
+        56,
+        690
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:126:2"
+      ]
+    },
+    "52-690": {
+      "narrator_ids": [
+        52,
+        690
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:15:9",
+        "/books/tahdhib-al-ahkam:9:2:180"
+      ]
+    },
+    "56-690": {
+      "narrator_ids": [
+        56,
+        690
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:126:2",
+        "/books/al-kafi:5:2:60:1",
+        "/books/tahdhib-al-ahkam:7:1:44"
+      ]
+    },
+    "560-690": {
+      "narrator_ids": [
+        560,
+        690
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:58:3"
+      ]
+    },
+    "6-12-22-56-690-669": {
+      "narrator_ids": [
+        6,
+        12,
+        22,
+        56,
+        690,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:60:1"
+      ]
+    },
+    "690-669": {
+      "narrator_ids": [
+        690,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:145:3",
+        "/books/al-kafi:2:1:58:3",
+        "/books/al-kafi:5:2:60:1",
+        "/books/al-kafi:6:7:15:9",
+        "/books/man-la-yahduruhu-al-faqih:3:2:13:31",
+        "/books/tahdhib-al-ahkam:7:1:44",
+        "/books/tahdhib-al-ahkam:9:2:180"
+      ]
+    },
+    "952-49-94-84-52-690-669": {
+      "narrator_ids": [
+        952,
+        49,
+        94,
+        84,
+        52,
+        690,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:2:180"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/690",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/690.json"
+  }
+}

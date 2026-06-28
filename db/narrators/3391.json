@@ -1,0 +1,77 @@
+{
+  "id": 3391,
+  "type": "narrator",
+  "path": "/people/narrators/3391",
+  "titles": {
+    "ar": "سُوَيْدِ بْنِ غَفَلَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:3:87:1",
+    "/books/tahdhib-al-ahkam:9:29:14"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "3-2-129-6-8-39-63-2067-72-305-3-27-26-391-305-3391": {
+      "narrator_ids": [
+        3,
+        2,
+        129,
+        6,
+        8,
+        39,
+        63,
+        2067,
+        72,
+        305,
+        3,
+        27,
+        26,
+        391,
+        305,
+        3391
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:87:1"
+      ]
+    },
+    "305-3391": {
+      "narrator_ids": [
+        305,
+        3391
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:87:1"
+      ]
+    },
+    "4154-576-1489-771-3391": {
+      "narrator_ids": [
+        4154,
+        576,
+        1489,
+        771,
+        3391
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:29:14"
+      ]
+    },
+    "771-3391": {
+      "narrator_ids": [
+        771,
+        3391
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:29:14"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3391",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3391.json"
+  }
+}

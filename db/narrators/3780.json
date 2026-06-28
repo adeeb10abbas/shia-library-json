@@ -1,0 +1,54 @@
+{
+  "id": 3780,
+  "type": "narrator",
+  "path": "/people/narrators/3780",
+  "titles": {
+    "ar": "عَلِيِّ بْنِ سَوْرَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:2:55:21"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1817-3780": {
+      "narrator_ids": [
+        1817,
+        3780
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:55:21"
+      ]
+    },
+    "3780-48": {
+      "narrator_ids": [
+        3780,
+        48
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:55:21"
+      ]
+    },
+    "6-5-37-1817-3780-48": {
+      "narrator_ids": [
+        6,
+        5,
+        37,
+        1817,
+        3780,
+        48
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:55:21"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3780",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3780.json"
+  }
+}

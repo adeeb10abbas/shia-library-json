@@ -1,0 +1,32 @@
+{
+  "id": 2554,
+  "type": "narrator",
+  "path": "/people/narrators/2554",
+  "titles": {
+    "ar": "الْحَسَنِ بْنِ عَبْدِ الْحَمِيدِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:125:14"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "35-2554": {
+      "narrator_ids": [
+        35,
+        2554
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:125:14"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2554",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2554.json"
+  }
+}

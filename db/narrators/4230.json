@@ -1,0 +1,53 @@
+{
+  "id": 4230,
+  "type": "narrator",
+  "path": "/people/narrators/4230",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ دَاوُدَ الْغَنَوِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:112:16"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2-4230": {
+      "narrator_ids": [
+        2,
+        4230
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:112:16"
+      ]
+    },
+    "4230-322": {
+      "narrator_ids": [
+        4230,
+        322
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:112:16"
+      ]
+    },
+    "6-12-2-4230-322": {
+      "narrator_ids": [
+        6,
+        12,
+        2,
+        4230,
+        322
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:112:16"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4230",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4230.json"
+  }
+}

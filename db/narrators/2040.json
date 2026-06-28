@@ -1,0 +1,43 @@
+{
+  "id": 2040,
+  "type": "narrator",
+  "path": "/people/narrators/2040",
+  "titles": {
+    "ar": "أَبِي بَكْرِ بْنِ أَبِي سَمَّاكٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:1:15:7"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "133-321-387-2040": {
+      "narrator_ids": [
+        133,
+        321,
+        387,
+        2040
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:1:15:7"
+      ]
+    },
+    "387-2040": {
+      "narrator_ids": [
+        387,
+        2040
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:1:15:7"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2040",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2040.json"
+  }
+}

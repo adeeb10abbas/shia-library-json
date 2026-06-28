@@ -1,0 +1,282 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:6:6:127",
+  "chapter": {
+    "path": "/books/al-kafi:6:6:127",
+    "titles": {
+      "ar": "باب الْقِثَّاءِ",
+      "en": "Chapter 126 – The Cucumbers"
+    }
+  },
+  "count": 2,
+  "records": [
+    {
+      "id": "al-kafi:6:6:127:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:6:127:1",
+        "parts": [
+          6,
+          6,
+          127,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 6,
+        "chapter": 127,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:6:127",
+        "titles": {
+          "ar": "باب الْقِثَّاءِ",
+          "en": "Chapter 126 – The Cucumbers"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " كَانَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) يَأْكُلُ الْقِثَّاءَ بِالْمِلْحِ ."
+        ],
+        "text": "كَانَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) يَأْكُلُ الْقِثَّاءَ بِالْمِلْحِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Ahmad Bin Muhammad, from Al Hajjal, from the one who mentioned it, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup> used to eat the cucumbers with the salt’."
+          ],
+          "text": "A number of our companions, from Ahmad Bin Muhammad, from Al Hajjal, from the one who mentioned it,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup> used to eat the cucumbers with the salt’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. A number of our people have narrated from Ahmad ibn Muhammad from al-Hajj al from those whom he has mentioned who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, would eat cucumber with salt.’” "
+          ],
+          "text": "1. A number of our people have narrated from Ahmad ibn Muhammad from al-Hajj al from those whom he has mentioned who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, would eat cucumber with salt.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مرسل   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/219)",
+          "label": "مرسل",
+          "text": "Allamah Baqir al-Majlisi: مرسل - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/219)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنِ الْحَجَّالِ عَمَّنْ ذَكَرَهُ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "plain",
+            "text": "الْحَجَّالِ عَمَّنْ ذَكَرَهُ"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/5",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:2:1:124:15",
+          "/books/al-kafi:2:1:193:2",
+          "/books/al-kafi:2:4:3:5",
+          "/books/al-kafi:3:4:60:26",
+          "/books/al-kafi:3:4:60:29",
+          "/books/al-kafi:6:1:9:3"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:6:127:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/6/127/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:6:127:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:6:127:2",
+        "parts": [
+          6,
+          6,
+          127,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 6,
+        "chapter": 127,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:6:127",
+        "titles": {
+          "ar": "باب الْقِثَّاءِ",
+          "en": "Chapter 126 – The Cucumbers"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ أَبُو عَبْدِ اللَّهِ ( عليه السلام ) إِذَا أَكَلْتُمُ الْقِثَّاءَ فَكُلُوهُ مِنْ أَسْفَلِهِ فَإِنَّهُ أَعْظَمُ لِبَرَكَتِهِ ."
+        ],
+        "text": "قَالَ أَبُو عَبْدِ اللَّهِ ( عليه السلام ) إِذَا أَكَلْتُمُ الْقِثَّاءَ فَكُلُوهُ مِنْ أَسْفَلِهِ فَإِنَّهُ أَعْظَمُ لِبَرَكَتِهِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Abdullah Bin Ja’far, from Muhammad Bin Isa, from Ubeydullah Al Dahqan, from dorost Al Wasity, from Abdullah Bin Sinan who said, ",
+            "‘Abu Abdullah<sup>asws</sup> said: ‘When you eat the cucumbers, so eat it from its lower part, for it is greater in its Blessing’."
+          ],
+          "text": "Muhammad Bin Yahya, from Abdullah Bin Ja’far, from Muhammad Bin Isa, from Ubeydullah Al Dahqan, from dorost Al Wasity, from Abdullah Bin Sinan who said,\n\n‘Abu Abdullah<sup>asws</sup> said: ‘When you eat the cucumbers, so eat it from its lower part, for it is greater in its Blessing’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. Muhammad ibn Yahya has narrated from ‘Abd Allah ibn Ja‘far from Muhammad ibn ‘Isa from ‘Abd Allah al-Dihqan from Durust al- Wasitiy from ‘Abd Allah ibn Sinan who has said the following: “Abu ‘Abd Allah, Alayhi al-Salam, has said, ‘When you eat cucumber, eat it from the bottom because it is greater for blessing.”’ "
+          ],
+          "text": "2. Muhammad ibn Yahya has narrated from ‘Abd Allah ibn Ja‘far from Muhammad ibn ‘Isa from ‘Abd Allah al-Dihqan from Durust al- Wasitiy from ‘Abd Allah ibn Sinan who has said the following: “Abu ‘Abd Allah, Alayhi al-Salam, has said, ‘When you eat cucumber, eat it from the bottom because it is greater for blessing.”’"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/219)",
+          "label": "ضعيف",
+          "text": "Allamah Baqir al-Majlisi: ضعيف - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/219)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ عَبْدِ اللَّهِ بْنِ جَعْفَرٍ عَنْ مُحَمَّدِ بْنِ عِيسَى عَنْ عُبَيْدِ اللَّهِ الدِّهْقَانِ عَنْ دُرُسْتَ الْوَاسِطِيِّ عَنْ عَبْدِ اللَّهِ بْنِ سِنَانٍ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَبْدِ اللَّهِ بْنِ جَعْفَرٍ",
+            "path": "/people/narrators/256"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ عِيسَى",
+            "path": "/people/narrators/27"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عُبَيْدِ اللَّهِ الدِّهْقَانِ",
+            "path": "/people/narrators/472"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "دُرُسْتَ الْوَاسِطِيِّ",
+            "path": "/people/narrators/632"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَبْدِ اللَّهِ بْنِ سِنَانٍ",
+            "path": "/people/narrators/31"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/256",
+          "/people/narrators/27",
+          "/people/narrators/472",
+          "/people/narrators/632",
+          "/people/narrators/31"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:6:127:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/6/127/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

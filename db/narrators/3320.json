@@ -1,0 +1,84 @@
+{
+  "id": 3320,
+  "type": "narrator",
+  "path": "/people/narrators/3320",
+  "titles": {
+    "ar": "سَعِيدٍ الْأَزْرَقِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:4:1:9",
+    "/books/man-la-yahduruhu-al-faqih:3:4:26:32",
+    "/books/man-la-yahduruhu-al-faqih:4:19:14",
+    "/books/tahdhib-al-ahkam:10:11:36"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "21-7-3320-669": {
+      "narrator_ids": [
+        21,
+        7,
+        3320,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:10:11:36"
+      ]
+    },
+    "3320-669": {
+      "narrator_ids": [
+        3320,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:4:1:9",
+        "/books/man-la-yahduruhu-al-faqih:3:4:26:32",
+        "/books/man-la-yahduruhu-al-faqih:4:19:14",
+        "/books/tahdhib-al-ahkam:10:11:36"
+      ]
+    },
+    "50-2-7-3320-669": {
+      "narrator_ids": [
+        50,
+        2,
+        7,
+        3320,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:4:1:9"
+      ]
+    },
+    "7-3320": {
+      "narrator_ids": [
+        7,
+        3320
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:4:1:9",
+        "/books/man-la-yahduruhu-al-faqih:3:4:26:32",
+        "/books/man-la-yahduruhu-al-faqih:4:19:14",
+        "/books/tahdhib-al-ahkam:10:11:36"
+      ]
+    },
+    "7-3320-669": {
+      "narrator_ids": [
+        7,
+        3320,
+        669
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:3:4:26:32",
+        "/books/man-la-yahduruhu-al-faqih:4:19:14"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3320",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3320.json"
+  }
+}

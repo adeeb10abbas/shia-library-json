@@ -1,0 +1,55 @@
+{
+  "id": 1820,
+  "type": "narrator",
+  "path": "/people/narrators/1820",
+  "titles": {
+    "ar": "إِبْرَاهِيمَ بْنِ خَلَفِ بْنِ عَبَّادٍ الْأَنْمَاطِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:80:11"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "124-1820": {
+      "narrator_ids": [
+        124,
+        1820
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:80:11"
+      ]
+    },
+    "1820-315": {
+      "narrator_ids": [
+        1820,
+        315
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:80:11"
+      ]
+    },
+    "20-4-208-1346-124-1820-315": {
+      "narrator_ids": [
+        20,
+        4,
+        208,
+        1346,
+        124,
+        1820,
+        315
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:80:11"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1820",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1820.json"
+  }
+}

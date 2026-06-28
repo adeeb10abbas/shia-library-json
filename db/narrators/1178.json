@@ -1,0 +1,99 @@
+{
+  "id": 1178,
+  "type": "narrator",
+  "path": "/people/narrators/1178",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ الْحَسَنِ زَعْلَانَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:28:35",
+    "/books/al-kafi:4:3:42:1",
+    "/books/al-kafi:5:2:62:4"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "1178-664": {
+      "narrator_ids": [
+        1178,
+        664
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:62:4"
+      ]
+    },
+    "1178-76": {
+      "narrator_ids": [
+        1178,
+        76
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:28:35",
+        "/books/al-kafi:4:3:42:1"
+      ]
+    },
+    "13-1178": {
+      "narrator_ids": [
+        13,
+        1178
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:62:4"
+      ]
+    },
+    "4-13-1178-664": {
+      "narrator_ids": [
+        4,
+        13,
+        1178,
+        664
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:62:4"
+      ]
+    },
+    "4-5-1178-76-836": {
+      "narrator_ids": [
+        4,
+        5,
+        1178,
+        76,
+        836
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:28:35"
+      ]
+    },
+    "5-1178": {
+      "narrator_ids": [
+        5,
+        1178
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:28:35",
+        "/books/al-kafi:4:3:42:1"
+      ]
+    },
+    "6-5-1178-76-3101-716": {
+      "narrator_ids": [
+        6,
+        5,
+        1178,
+        76,
+        3101,
+        716
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:42:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1178",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1178.json"
+  }
+}

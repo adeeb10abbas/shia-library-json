@@ -1,0 +1,56 @@
+{
+  "id": 4320,
+  "type": "narrator",
+  "path": "/people/narrators/4320",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ مُسْلِمٍ أَوْ أَبِي حَمْزَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:163:7"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "37-4320": {
+      "narrator_ids": [
+        37,
+        4320
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:163:7"
+      ]
+    },
+    "4320-669": {
+      "narrator_ids": [
+        4320,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:163:7"
+      ]
+    },
+    "6-8-129-338-37-4320-669-2": {
+      "narrator_ids": [
+        6,
+        8,
+        129,
+        338,
+        37,
+        4320,
+        669,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:163:7"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4320",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4320.json"
+  }
+}

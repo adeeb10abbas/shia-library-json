@@ -1,0 +1,55 @@
+{
+  "id": 4376,
+  "type": "narrator",
+  "path": "/people/narrators/4376",
+  "titles": {
+    "ar": "مُطَرِّفٍ مَوْلَى مَعْنٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:8:64:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "406-4376": {
+      "narrator_ids": [
+        406,
+        4376
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:64:3"
+      ]
+    },
+    "4376-669": {
+      "narrator_ids": [
+        4376,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:64:3"
+      ]
+    },
+    "6-8-4-5-406-4376-669": {
+      "narrator_ids": [
+        6,
+        8,
+        4,
+        5,
+        406,
+        4376,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:64:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4376",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4376.json"
+  }
+}

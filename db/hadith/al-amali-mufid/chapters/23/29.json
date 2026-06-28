@@ -1,0 +1,116 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-amali-mufid",
+  "chapterPath": "/books/al-amali-mufid:23:29",
+  "chapter": {
+    "path": "/books/al-amali-mufid:23:29",
+    "titles": {
+      "en": "The Prophet (SAW) inspects our deeds"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-amali-mufid:23:29:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-amali-mufid",
+        "titles": {
+          "ar": "الأمالي (المفيد)",
+          "en": "Al-Amali (al-Mufid)"
+        },
+        "author": {
+          "ar": "الشيخ المفيد",
+          "en": "Shaykh al-Mufid"
+        }
+      },
+      "path": {
+        "source": "/books/al-amali-mufid:23:29:1",
+        "parts": [
+          23,
+          29,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 23,
+        "book": 29,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-amali-mufid:23:29",
+        "titles": {
+          "en": "The Prophet (SAW) inspects our deeds"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": سمعته  يقول: ما لكم تسوؤن رسول الله صلى الله عليه وآله؟! فقال رجل: جعلت فداك وكيف نسوؤه؟ فقال: أما تعلمون أن أعمالكم تعرض عليه، فإذا رأى فيها معصية الله ساءه ذلك، فلا تسوؤا رسول الله صلى الله عليه وآله وسروه."
+        ],
+        "text": ": سمعته  يقول: ما لكم تسوؤن رسول الله صلى الله عليه وآله؟! فقال رجل: جعلت فداك وكيف نسوؤه؟ فقال: أما تعلمون أن أعمالكم تعرض عليه، فإذا رأى فيها معصية الله ساءه ذلك، فلا تسوؤا رسول الله صلى الله عليه وآله وسروه."
+      },
+      "translations": {
+        "en.mulla-asgharali-m-m-jaffer": {
+          "segments": [
+            "29. And with the first chain of narration from ‘Ali ibn Mahzyar, from al-Hasan, from Uthman ibn Isa, from Sama’ah, who said: I heard him say (i.e. Abu Abdillah, peace be upon him): \"Why do you cause grief to the Prophet of Allah?\" Someone asked: \"May I be your ransom, how do we do that?\" He said: \"Do you not know that your deeds are persented before him; when he sees the sins committed, he is grieved. So do not cause him grief. Make him happy (with good deeds and obedience).\""
+          ],
+          "text": "29. And with the first chain of narration from ‘Ali ibn Mahzyar, from al-Hasan, from Uthman ibn Isa, from Sama’ah, who said: I heard him say (i.e. Abu Abdillah, peace be upon him): \"Why do you cause grief to the Prophet of Allah?\" Someone asked: \"May I be your ransom, how do we do that?\" He said: \"Do you not know that your deeds are persented before him; when he sees the sins committed, he is grieved. So do not cause him grief. Make him happy (with good deeds and obedience).\""
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "وَبِالْإِسْنَادِ الْأَوَّلِ عَنْ عَلِيِّ بْنِ مَهْزِيَارَ، عَنِ الْحَسَنِ، عَنْ عُثْمَانَ ابْنِ عِيسَى، عَنْ سَمَاعَةَ",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "وَبِالْإِسْنَادِ الْأَوَّلِ عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيِّ بْنِ مَهْزِيَارَ",
+            "path": "/people/narrators/81"
+          },
+          {
+            "kind": "plain",
+            "text": "، عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحَسَنِ",
+            "path": "/people/narrators/417"
+          },
+          {
+            "kind": "plain",
+            "text": "، عَنْ "
+          },
+          {
+            "kind": "plain",
+            "text": "عُثْمَانَ ابْنِ عِيسَى"
+          },
+          {
+            "kind": "plain",
+            "text": "، عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَمَاعَةَ",
+            "path": "/people/narrators/48"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/81",
+          "/people/narrators/417",
+          "/people/narrators/48"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-amali-mufid:23:29:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-amali-mufid/23/29/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/13/23/29/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

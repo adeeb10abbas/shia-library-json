@@ -1,0 +1,84 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "kitab-al-duafa",
+  "chapterPath": "/books/kitab-al-duafa:24:59",
+  "chapter": {
+    "path": "/books/kitab-al-duafa:24:59",
+    "titles": {
+      "en": "Muḥammad b. ʿAbdullāh b. Jaʿfar, al-Ḥimyarī, Abū Jaʿfar, al-Qummī"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "kitab-al-duafa:24:59:1",
+      "type": "hadith",
+      "book": {
+        "slug": "kitab-al-duafa",
+        "titles": {
+          "ar": "كتاب الضعفاء",
+          "en": "Kitab al-Du'afa'"
+        },
+        "author": {
+          "en": "Ahmad ibn al-Husayn al-Ghada'iri"
+        }
+      },
+      "path": {
+        "source": "/books/kitab-al-duafa:24:59:1",
+        "parts": [
+          24,
+          59,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 24,
+        "book": 59,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/kitab-al-duafa:24:59",
+        "titles": {
+          "en": "Muḥammad b. ʿAbdullāh b. Jaʿfar, al-Ḥimyarī, Abū Jaʿfar, al-Qummī"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " أبواب الشريعة.، وقعت هذه المسائل إلي في أصلها، والتوقيعات بين السطور."
+        ],
+        "text": "أبواب الشريعة.، وقعت هذه المسائل إلي في أصلها، والتوقيعات بين السطور."
+      },
+      "translations": {
+        "en.tashayyu": {
+          "segments": [
+            "59 – Muḥammad b. ʿAbdullāh b. Jaʿfar, al-Ḥimyarī, Abū Jaʿfar, al-Qummī.  Scribe of Ṣaḥib alAmr  عليه السلام , and he asked him questions regarding the matters of the Sharīʿa.  These questions have come to me in its original, and the tawqīʿāt (responses written on the page of the questions) are between the lines."
+          ],
+          "text": "59 – Muḥammad b. ʿAbdullāh b. Jaʿfar, al-Ḥimyarī, Abū Jaʿfar, al-Qummī.  Scribe of Ṣaḥib alAmr  عليه السلام , and he asked him questions regarding the matters of the Sharīʿa.  These questions have come to me in its original, and the tawqīʿāt (responses written on the page of the questions) are between the lines."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "59 - محمد بن عبد الله بن جعفر، الحميري، أبو جعفر، القمي. كاتب صاحب الأمر (عليه السلام) وسأله مسائل في",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "59 - "
+          },
+          {
+            "kind": "plain",
+            "text": "محمد بن عبد الله بن جعفر، الحميري، أبو جعفر، القمي. كاتب صاحب الأمر (عليه السلام) وسأله مسائل في"
+          }
+        ],
+        "narratorPaths": []
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/kitab-al-duafa:24:59:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/kitab-al-duafa/24/59/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/17/24/59/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

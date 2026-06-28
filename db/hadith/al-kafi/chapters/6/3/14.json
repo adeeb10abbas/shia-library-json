@@ -1,0 +1,568 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:6:3:14",
+  "chapter": {
+    "path": "/books/al-kafi:6:3:14",
+    "titles": {
+      "ar": "باب عِتْقِ السَّكْرَانِ وَ الْمَجْنُونِ وَ الْمُكْرَهِ",
+      "en": "Chapter 14 – Emancipation of the intoxicated, and the insane, and the coerced"
+    }
+  },
+  "count": 4,
+  "records": [
+    {
+      "id": "al-kafi:6:3:14:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:3:14:1",
+        "parts": [
+          6,
+          3,
+          14,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 3,
+        "chapter": 14,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:3:14",
+        "titles": {
+          "ar": "باب عِتْقِ السَّكْرَانِ وَ الْمَجْنُونِ وَ الْمُكْرَهِ",
+          "en": "Chapter 14 – Emancipation of the intoxicated, and the insane, and the coerced"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَأَلْتُهُ عَنْ عِتْقِ الْمُكْرَهِ فَقَالَ لَيْسَ عِتْقُهُ بِعِتْقٍ ."
+        ],
+        "text": "سَأَلْتُهُ عَنْ عِتْقِ الْمُكْرَهِ فَقَالَ لَيْسَ عِتْقُهُ بِعِتْقٍ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father, from Ibn Abu Umeyr, from Umar Bin Azina, from Zurara, ",
+            "(It has been narrated) from Abu Ja’far<sup>asws</sup>, said, ‘I asked him<sup>asws</sup> about an emancipation of the coerced. So he<sup>asws</sup> said: ‘His emancipation is not with a (valid) emancipation’."
+          ],
+          "text": "Ali Bin Ibrahim, from his father, from Ibn Abu Umeyr, from Umar Bin Azina, from Zurara,\n\n(It has been narrated) from Abu Ja’far<sup>asws</sup>, said, ‘I asked him<sup>asws</sup> about an emancipation of the coerced. So he<sup>asws</sup> said: ‘His emancipation is not with a (valid) emancipation’."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنِ ابْنِ أَبِي عُمَيْرٍ عَنْ عُمَرَ بْنِ أُذَيْنَةَ عَنْ زُرَارَةَ عَنْ أَبِي جَعْفَرٍ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ أَبِي عُمَيْرٍ",
+            "path": "/people/narrators/7"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عُمَرَ بْنِ أُذَيْنَةَ",
+            "path": "/people/narrators/83"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "زُرَارَةَ",
+            "path": "/people/narrators/18"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي جَعْفَرٍ ( عليه السلام )",
+            "path": "/people/narrators/9"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/7",
+          "/people/narrators/83",
+          "/people/narrators/18",
+          "/people/narrators/9"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:2:1:136:12",
+          "/books/al-kafi:2:1:176:2",
+          "/books/al-kafi:2:1:58:6",
+          "/books/al-kafi:3:3:67:4",
+          "/books/al-kafi:3:4:2:6",
+          "/books/al-kafi:3:4:33:2",
+          "/books/al-kafi:3:4:36:3",
+          "/books/al-kafi:3:4:3:7",
+          "/books/al-kafi:3:5:18:3",
+          "/books/al-kafi:4:3:174:5",
+          "/books/al-kafi:4:3:197:3",
+          "/books/al-kafi:4:3:214:1",
+          "/books/al-kafi:5:3:119:3",
+          "/books/al-kafi:6:2:26:1",
+          "/books/al-kafi:6:2:4:18",
+          "/books/al-kafi:6:2:59:2",
+          "/books/al-kafi:6:2:75:1",
+          "/books/al-kafi:6:6:14:1",
+          "/books/tahdhib-al-ahkam:1:39:138"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:3:14:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/3/14/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:3:14:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:3:14:2",
+        "parts": [
+          6,
+          3,
+          14,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 3,
+        "chapter": 14,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:3:14",
+        "titles": {
+          "ar": "باب عِتْقِ السَّكْرَانِ وَ الْمَجْنُونِ وَ الْمُكْرَهِ",
+          "en": "Chapter 14 – Emancipation of the intoxicated, and the insane, and the coerced"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَأَلْتُهُ عَنِ الْمَرْأَةِ الْمَعْتُوهَةِ الذَّاهِبَةِ الْعَقْلِ أَ يَجُوزُ بَيْعُهَا وَ صَدَقَتُهَا قَالَ لَا وَ عَنْ طَلَاقِ السَّكْرَانِ وَ عِتْقِهِ قَالَ لَا يَجُوزُ ."
+        ],
+        "text": "سَأَلْتُهُ عَنِ الْمَرْأَةِ الْمَعْتُوهَةِ الذَّاهِبَةِ الْعَقْلِ أَ يَجُوزُ بَيْعُهَا وَ صَدَقَتُهَا قَالَ لَا وَ عَنْ طَلَاقِ السَّكْرَانِ وَ عِتْقِهِ قَالَ لَا يَجُوزُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Sahl Bin Ziyad, from Ahmad Bin Muhammad Bin Abu Nasr, from Abdul Kareem, from Al Halby, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup>, said, ‘I asked him<sup>asws</sup> about the demented woman with the intellect gone, is her selling and her charity allowed?’ He<sup>asws</sup>; ‘No’. And about a divorce by the intoxicated and his emancipation, he<sup>asws</sup> said: ‘Not allowed’."
+          ],
+          "text": "A number of our companions, from Sahl Bin Ziyad, from Ahmad Bin Muhammad Bin Abu Nasr, from Abdul Kareem, from Al Halby,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup>, said, ‘I asked him<sup>asws</sup> about the demented woman with the intellect gone, is her selling and her charity allowed?’ He<sup>asws</sup>; ‘No’. And about a divorce by the intoxicated and his emancipation, he<sup>asws</sup> said: ‘Not allowed’."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ سَهْلِ بْنِ زِيَادٍ عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ أَبِي نَصْرٍ عَنْ عَبْدِ الْكَرِيمِ عَنِ الْحَلَبِيِّ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَهْلِ بْنِ زِيَادٍ",
+            "path": "/people/narrators/8"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدِ بْنِ أَبِي نَصْرٍ",
+            "path": "/people/narrators/39"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَبْدِ الْكَرِيمِ",
+            "path": "/people/narrators/204"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحَلَبِيِّ",
+            "path": "/people/narrators/28"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/8",
+          "/people/narrators/39",
+          "/people/narrators/204",
+          "/people/narrators/28",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:4:3:66:1",
+          "/books/al-kafi:7:3:29:7"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:3:14:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/3/14/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:3:14:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:3:14:3",
+        "parts": [
+          6,
+          3,
+          14,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 3,
+        "chapter": 14,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:3:14",
+        "titles": {
+          "ar": "باب عِتْقِ السَّكْرَانِ وَ الْمَجْنُونِ وَ الْمُكْرَهِ",
+          "en": "Chapter 14 – Emancipation of the intoxicated, and the insane, and the coerced"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " وَ مُحَمَّدِ بْنِ مُسْلِمٍ وَ بُرَيْدِ بْنِ مُعَاوِيَةَ وَ فُضَيْلٍ وَ إِسْمَاعِيلَ الْأَزْرَقِ وَ مَعْمَرِ بْنِ يَحْيَى عَنْ أَبِي جَعْفَرٍ وَ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) أَنَّ الْمُدَلَّهَ لَيْسَ عِتْقُهُ بِعِتْقٍ ."
+        ],
+        "text": "وَ مُحَمَّدِ بْنِ مُسْلِمٍ وَ بُرَيْدِ بْنِ مُعَاوِيَةَ وَ فُضَيْلٍ وَ إِسْمَاعِيلَ الْأَزْرَقِ وَ مَعْمَرِ بْنِ يَحْيَى عَنْ أَبِي جَعْفَرٍ وَ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) أَنَّ الْمُدَلَّهَ لَيْسَ عِتْقُهُ بِعِتْقٍ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father, from Hammad, from Umar Bin Aizna, from Zurara, or said, and Muhammad Bin Muslim, and Bureyd Bin Muawiya, and Fuzeyl, and Ismail Al Azraq, and Ma’amar Bin Yahya, ",
+            "(It has been narrated) from Abu Ja’far<sup>asws</sup> and Abu Abdullah<sup>asws</sup> that the bewitched, his emancipation is not with a (valid) emancipation’."
+          ],
+          "text": "Ali Bin Ibrahim, from his father, from Hammad, from Umar Bin Aizna, from Zurara, or said, and Muhammad Bin Muslim, and Bureyd Bin Muawiya, and Fuzeyl, and Ismail Al Azraq, and Ma’amar Bin Yahya,\n\n(It has been narrated) from Abu Ja’far<sup>asws</sup> and Abu Abdullah<sup>asws</sup> that the bewitched, his emancipation is not with a (valid) emancipation’."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنْ حَمَّادٍ عَنْ عُمَرَ بْنِ أُذَيْنَةَ عَنْ زُرَارَةَ أَوْ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "حَمَّادٍ",
+            "path": "/people/narrators/23"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عُمَرَ بْنِ أُذَيْنَةَ",
+            "path": "/people/narrators/83"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "زُرَارَةَ أَوْ",
+            "path": "/people/narrators/3261"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/23",
+          "/people/narrators/83",
+          "/people/narrators/3261"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:3:14:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/3/14/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:3:14:4",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:3:14:4",
+        "parts": [
+          6,
+          3,
+          14,
+          4
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 3,
+        "chapter": 14,
+        "hadith": 4
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:3:14",
+        "titles": {
+          "ar": "باب عِتْقِ السَّكْرَانِ وَ الْمَجْنُونِ وَ الْمُكْرَهِ",
+          "en": "Chapter 14 – Emancipation of the intoxicated, and the insane, and the coerced"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " لَا يَجُوزُ عِتْقُ السَّكْرَانِ ."
+        ],
+        "text": "لَا يَجُوزُ عِتْقُ السَّكْرَانِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Humeyd Bin Ziyad, from Ibn Sama’at, from Ibn Rabat and Al Husayn Bin Hashim, and Safwan altogether, from Ibn Muskan, from Al Halby, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘An emancipation by the intoxicated is not allowed’."
+          ],
+          "text": "Humeyd Bin Ziyad, from Ibn Sama’at, from Ibn Rabat and Al Husayn Bin Hashim, and Safwan altogether, from Ibn Muskan, from Al Halby,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘An emancipation by the intoxicated is not allowed’."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "حُمَيْدُ بْنُ زِيَادٍ عَنِ ابْنِ سَمَاعَةَ عَنِ ابْنِ رِبَاطٍ وَ الْحُسَيْنِ بْنِ هَاشِمٍ وَ صَفْوَانَ جَمِيعاً عَنِ ابْنِ مُسْكَانَ عَنِ الْحَلَبِيِّ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "حُمَيْدُ بْنُ زِيَادٍ",
+            "path": "/people/narrators/49"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ سَمَاعَةَ",
+            "path": "/people/narrators/107"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ رِبَاطٍ",
+            "path": "/people/narrators/413"
+          },
+          {
+            "kind": "plain",
+            "text": " وَ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحُسَيْنِ بْنِ هَاشِمٍ",
+            "path": "/people/narrators/578"
+          },
+          {
+            "kind": "plain",
+            "text": " وَ "
+          },
+          {
+            "kind": "narrator",
+            "text": "صَفْوَانَ",
+            "path": "/people/narrators/43"
+          },
+          {
+            "kind": "plain",
+            "text": " جَمِيعاً عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ مُسْكَانَ",
+            "path": "/people/narrators/51"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحَلَبِيِّ",
+            "path": "/people/narrators/28"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/49",
+          "/people/narrators/107",
+          "/people/narrators/413",
+          "/people/narrators/578",
+          "/people/narrators/43",
+          "/people/narrators/51",
+          "/people/narrators/28",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:6:2:53:4"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:3:14:4",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/3/14/4.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

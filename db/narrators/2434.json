@@ -1,0 +1,43 @@
+{
+  "id": 2434,
+  "type": "narrator",
+  "path": "/people/narrators/2434",
+  "titles": {
+    "ar": "إِسْمَاعِيلَ بْنِ أَبِي سَارَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:4:84:24"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "4-29-7-2434": {
+      "narrator_ids": [
+        4,
+        29,
+        7,
+        2434
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:84:24"
+      ]
+    },
+    "7-2434": {
+      "narrator_ids": [
+        7,
+        2434
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:84:24"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2434",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2434.json"
+  }
+}

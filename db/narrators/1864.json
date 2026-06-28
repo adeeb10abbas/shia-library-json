@@ -1,0 +1,53 @@
+{
+  "id": 1864,
+  "type": "narrator",
+  "path": "/people/narrators/1864",
+  "titles": {
+    "ar": "ابْنِ أَخِي سَعِيدٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:2:55:16"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1864-288": {
+      "narrator_ids": [
+        1864,
+        288
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:55:16"
+      ]
+    },
+    "3-2-7-1864-288": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        1864,
+        288
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:55:16"
+      ]
+    },
+    "7-1864": {
+      "narrator_ids": [
+        7,
+        1864
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:55:16"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1864",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1864.json"
+  }
+}

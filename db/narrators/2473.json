@@ -1,0 +1,91 @@
+{
+  "id": 2473,
+  "type": "narrator",
+  "path": "/people/narrators/2473",
+  "titles": {
+    "ar": "أَصْرَمَ بْنِ حَوْشَبٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:212:1",
+    "/books/tahdhib-al-ahkam:5:25:446",
+    "/books/tahdhib-al-ahkam:5:25:489"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "13-259-2473-513-208": {
+      "narrator_ids": [
+        13,
+        259,
+        2473,
+        513,
+        208
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:25:446"
+      ]
+    },
+    "2473-513": {
+      "narrator_ids": [
+        2473,
+        513
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:212:1",
+        "/books/tahdhib-al-ahkam:5:25:446",
+        "/books/tahdhib-al-ahkam:5:25:489"
+      ]
+    },
+    "259-2473": {
+      "narrator_ids": [
+        259,
+        2473
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:25:446",
+        "/books/tahdhib-al-ahkam:5:25:489"
+      ]
+    },
+    "5-2473": {
+      "narrator_ids": [
+        5,
+        2473
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:212:1"
+      ]
+    },
+    "5-259-2473-513-208": {
+      "narrator_ids": [
+        5,
+        259,
+        2473,
+        513,
+        208
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:25:489"
+      ]
+    },
+    "6-5-2473-513-208": {
+      "narrator_ids": [
+        6,
+        5,
+        2473,
+        513,
+        208
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:212:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2473",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2473.json"
+  }
+}

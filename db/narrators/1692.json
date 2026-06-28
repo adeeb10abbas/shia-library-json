@@ -1,0 +1,126 @@
+{
+  "id": 1692,
+  "type": "narrator",
+  "path": "/people/narrators/1692",
+  "titles": {
+    "ar": "مَعْمَرِ بْنِ رَاشِدٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:126:8",
+    "/books/al-kafi:2:1:61:11",
+    "/books/kitab-al-ghayba-numani:2:4:12",
+    "/books/kitab-al-ghayba-numani:2:4:8"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "1520-1692": {
+      "narrator_ids": [
+        1520,
+        1692
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:126:8",
+        "/books/al-kafi:2:1:61:11",
+        "/books/kitab-al-ghayba-numani:2:4:12",
+        "/books/kitab-al-ghayba-numani:2:4:8"
+      ]
+    },
+    "1520-1692-611-729-611": {
+      "narrator_ids": [
+        1520,
+        1692,
+        611,
+        729,
+        611
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-numani:2:4:8"
+      ]
+    },
+    "1520-1692-697": {
+      "narrator_ids": [
+        1520,
+        1692,
+        697
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-numani:2:4:12"
+      ]
+    },
+    "1692-2693": {
+      "narrator_ids": [
+        1692,
+        2693
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:61:11"
+      ]
+    },
+    "1692-2694": {
+      "narrator_ids": [
+        1692,
+        2694
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:126:8"
+      ]
+    },
+    "1692-611": {
+      "narrator_ids": [
+        1692,
+        611
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-numani:2:4:8"
+      ]
+    },
+    "1692-697": {
+      "narrator_ids": [
+        1692,
+        697
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-numani:2:4:12"
+      ]
+    },
+    "3-2-35-82-783-1520-1692-2694": {
+      "narrator_ids": [
+        3,
+        2,
+        35,
+        82,
+        783,
+        1520,
+        1692,
+        2694
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:126:8"
+      ]
+    },
+    "50-2-209-82-325-1520-1692-2693": {
+      "narrator_ids": [
+        50,
+        2,
+        209,
+        82,
+        325,
+        1520,
+        1692,
+        2693
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:61:11"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1692",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1692.json"
+  }
+}

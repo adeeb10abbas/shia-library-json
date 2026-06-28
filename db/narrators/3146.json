@@ -1,0 +1,52 @@
+{
+  "id": 3146,
+  "type": "narrator",
+  "path": "/people/narrators/3146",
+  "titles": {
+    "ar": "خَطَّابِ بْنِ مُحَمَّدٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:37:16"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "10-3146": {
+      "narrator_ids": [
+        10,
+        3146
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:37:16"
+      ]
+    },
+    "3146-300": {
+      "narrator_ids": [
+        3146,
+        300
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:37:16"
+      ]
+    },
+    "8-10-3146-300": {
+      "narrator_ids": [
+        8,
+        10,
+        3146,
+        300
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:37:16"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3146",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3146.json"
+  }
+}

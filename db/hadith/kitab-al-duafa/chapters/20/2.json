@@ -1,0 +1,84 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "kitab-al-duafa",
+  "chapterPath": "/books/kitab-al-duafa:20:2",
+  "chapter": {
+    "path": "/books/kitab-al-duafa:20:2",
+    "titles": {
+      "en": "al-Mufaḍḍal b. ʿUmar, al-Juʿfī, Abū ʿAbdillāh"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "kitab-al-duafa:20:2:1",
+      "type": "hadith",
+      "book": {
+        "slug": "kitab-al-duafa",
+        "titles": {
+          "ar": "كتاب الضعفاء",
+          "en": "Kitab al-Du'afa'"
+        },
+        "author": {
+          "en": "Ahmad ibn al-Husayn al-Ghada'iri"
+        }
+      },
+      "path": {
+        "source": "/books/kitab-al-duafa:20:2:1",
+        "parts": [
+          20,
+          2,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 20,
+        "book": 2,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/kitab-al-duafa:20:2",
+        "titles": {
+          "en": "al-Mufaḍḍal b. ʿUmar, al-Juʿfī, Abū ʿAbdillāh"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " حديثه حملا عظيما. ولا يجوز أن يكتب حديثه. وروى عن أبي عبد الله، وأبي الحسن (عليهما السلام)."
+        ],
+        "text": "حديثه حملا عظيما. ولا يجوز أن يكتب حديثه. وروى عن أبي عبد الله، وأبي الحسن (عليهما السلام)."
+      },
+      "translations": {
+        "en.tashayyu": {
+          "segments": [
+            "2 – al-Mufaḍḍal b. ʿUmar, al-Juʿfī, Abū ʿAbdillāh.  Weak, collapsed, a proponent of irtifāʿ in doctrine, a Khaṭṭābī.  Many things have been added (i.e. attributed) upon him, and his ḥadīth carry a great amount of weight with the ghulāt.  It is not permissible to write his ḥadīth.  He narrated from Abū ʿAbdillāh  عليه السلام and Abū al-Ḥasan . عليه السلام"
+          ],
+          "text": "2 – al-Mufaḍḍal b. ʿUmar, al-Juʿfī, Abū ʿAbdillāh.  Weak, collapsed, a proponent of irtifāʿ in doctrine, a Khaṭṭābī.  Many things have been added (i.e. attributed) upon him, and his ḥadīth carry a great amount of weight with the ghulāt.  It is not permissible to write his ḥadīth.  He narrated from Abū ʿAbdillāh  عليه السلام and Abū al-Ḥasan . عليه السلام"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "2 - المفضل بن عمر، الجعفي، أبو عبد الله. ضعيف، متهافت، مرتفع القول، خطابي. وقد زيد عليه شىء كثير، وحمل الغلاة في",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "2 - "
+          },
+          {
+            "kind": "plain",
+            "text": "المفضل بن عمر، الجعفي، أبو عبد الله. ضعيف، متهافت، مرتفع القول، خطابي. وقد زيد عليه شىء كثير، وحمل الغلاة في"
+          }
+        ],
+        "narratorPaths": []
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/kitab-al-duafa:20:2:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/kitab-al-duafa/20/2/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/17/20/2/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

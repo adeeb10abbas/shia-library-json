@@ -1,0 +1,54 @@
+{
+  "id": 3980,
+  "type": "narrator",
+  "path": "/people/narrators/3980",
+  "titles": {
+    "ar": "غَيْرِ وَاحِدٍ سَأَلُوا أَبَا عَبْدِ اللَّهِ ( عليه السلام )"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:2:9:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "26-3980": {
+      "narrator_ids": [
+        26,
+        3980
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:2:9:1"
+      ]
+    },
+    "3-27-26-3980-2508-2704": {
+      "narrator_ids": [
+        3,
+        27,
+        26,
+        3980,
+        2508,
+        2704
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:2:9:1"
+      ]
+    },
+    "3980-2508": {
+      "narrator_ids": [
+        3980,
+        2508
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:2:9:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3980",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3980.json"
+  }
+}

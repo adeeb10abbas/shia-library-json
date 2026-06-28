@@ -1,0 +1,54 @@
+{
+  "id": 2883,
+  "type": "narrator",
+  "path": "/people/narrators/2883",
+  "titles": {
+    "ar": "بِشْرِ بْنِ سَلَمَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:1:2:7"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2883-228": {
+      "narrator_ids": [
+        2883,
+        228
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:2:7"
+      ]
+    },
+    "3-2-7-2883-228-669": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        2883,
+        228,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:2:7"
+      ]
+    },
+    "7-2883": {
+      "narrator_ids": [
+        7,
+        2883
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:2:7"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2883",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2883.json"
+  }
+}

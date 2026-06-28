@@ -1,0 +1,42 @@
+{
+  "id": 3444,
+  "type": "narrator",
+  "path": "/people/narrators/3444",
+  "titles": {
+    "ar": "طَاهِرِ بْنِ حَاتِمٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:3:4:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "35-8-3444": {
+      "narrator_ids": [
+        35,
+        8,
+        3444
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:4:2"
+      ]
+    },
+    "8-3444": {
+      "narrator_ids": [
+        8,
+        3444
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:4:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3444",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3444.json"
+  }
+}

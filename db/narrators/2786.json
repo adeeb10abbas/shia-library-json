@@ -1,0 +1,53 @@
+{
+  "id": 2786,
+  "type": "narrator",
+  "path": "/people/narrators/2786",
+  "titles": {
+    "ar": "الْمُثَنَّى بْنِ الْوَلِيدِ الْحَنَّاطِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:8:43:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "15-2786": {
+      "narrator_ids": [
+        15,
+        2786
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:43:5"
+      ]
+    },
+    "2786-14": {
+      "narrator_ids": [
+        2786,
+        14
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:43:5"
+      ]
+    },
+    "5-15-2786-14-669": {
+      "narrator_ids": [
+        5,
+        15,
+        2786,
+        14,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:43:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2786",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2786.json"
+  }
+}

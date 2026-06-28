@@ -1,0 +1,54 @@
+{
+  "id": 3191,
+  "type": "narrator",
+  "path": "/people/narrators/3191",
+  "titles": {
+    "ar": "رِبْعِيِّ بْنِ عَبْدِ اللَّهِ بْنِ الْجَارُودِ الْهُذَلِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:2:21:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "223-3191": {
+      "narrator_ids": [
+        223,
+        3191
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:21:1"
+      ]
+    },
+    "3191-155": {
+      "narrator_ids": [
+        3191,
+        155
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:21:1"
+      ]
+    },
+    "6-12-2-223-3191-155": {
+      "narrator_ids": [
+        6,
+        12,
+        2,
+        223,
+        3191,
+        155
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:21:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3191",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3191.json"
+  }
+}

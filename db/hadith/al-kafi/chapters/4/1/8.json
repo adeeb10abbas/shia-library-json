@@ -1,0 +1,405 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:4:1:8",
+  "chapter": {
+    "path": "/books/al-kafi:4:1:8",
+    "titles": {
+      "ar": "بَابُ مَنْ يَلْزَمُ نَفَقَتُهُ",
+      "en": "Chapter 55 – The ones whose expenses are necessitated"
+    }
+  },
+  "count": 3,
+  "records": [
+    {
+      "id": "al-kafi:4:1:8:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:4:1:8:1",
+        "parts": [
+          4,
+          1,
+          8,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 1,
+        "chapter": 8,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:4:1:8",
+        "titles": {
+          "ar": "بَابُ مَنْ يَلْزَمُ نَفَقَتُهُ",
+          "en": "Chapter 55 – The ones whose expenses are necessitated"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قُلْتُ لَهُ مَنِ الَّذِي أَحْتَنُّ عَلَيْهِ وَ تَلْزَمُنِي نَفَقَتُهُ قَالَ الْوَالِدَانِ وَ الْوَلَدُ وَ الزَّوْجَةُ ."
+        ],
+        "text": "قُلْتُ لَهُ مَنِ الَّذِي أَحْتَنُّ عَلَيْهِ وَ تَلْزَمُنِي نَفَقَتُهُ قَالَ الْوَالِدَانِ وَ الْوَلَدُ وَ الزَّوْجَةُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father, from Abdullah Bin Al Mugheira, from Hareyz, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup>, said, ‘I said to him<sup>asws</sup>, ‘Who are the ones whom I should incline towards and his expenses are necessitated upon me?’ He<sup>asws</sup> said: ‘The two parents, and the children, and the wife’."
+          ],
+          "text": "Ali Bin Ibrahim, from his father, from Abdullah Bin Al Mugheira, from Hareyz,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup>, said, ‘I said to him<sup>asws</sup>, ‘Who are the ones whom I should incline towards and his expenses are necessitated upon me?’ He<sup>asws</sup> said: ‘The two parents, and the children, and the wife’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. Ali ibn Ibrahim has narrated from his father from ‘ Abd Allah ibn al-Mughirah from Hariz who has said the following: “Once I asked abu ’Abd Allah, ‘Alayhi al-Salam, ‘Who should I sympathize with and who are my dependents?’ He replied, ‘Such people are your parents, your children, and your wife.’” "
+          ],
+          "text": "1. Ali ibn Ibrahim has narrated from his father from ‘ Abd Allah ibn al-Mughirah from Hariz who has said the following: “Once I asked abu ’Abd Allah, ‘Alayhi al-Salam, ‘Who should I sympathize with and who are my dependents?’ He replied, ‘Such people are your parents, your children, and your wife.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> حسن  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (6/139)",
+          "label": "حسن",
+          "text": "Allamah Baqir al-Majlisi: حسن - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (6/139)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنْ عَبْدِ اللَّهِ بْنِ الْمُغِيرَةِ عَنْ حَرِيزٍ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَبْدِ اللَّهِ بْنِ الْمُغِيرَةِ",
+            "path": "/people/narrators/76"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "حَرِيزٍ",
+            "path": "/people/narrators/40"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/76",
+          "/people/narrators/40",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:4:1:8:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/4/1/8/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:4:1:8:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:4:1:8:2",
+        "parts": [
+          4,
+          1,
+          8,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 1,
+        "chapter": 8,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:4:1:8",
+        "titles": {
+          "ar": "بَابُ مَنْ يَلْزَمُ نَفَقَتُهُ",
+          "en": "Chapter 55 – The ones whose expenses are necessitated"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " أُتِيَ أَمِيرُ الْمُؤْمِنِينَ صَلَوَاتُ اللَّهِ عَلَيْهِ بِيَتِيمٍ فَقَالَ خُذُوا بِنَفَقَتِهِ أَقْرَبَ النَّاسِ مِنْهُ مِنَ الْعَشِيرَةِ كَمَا يَأْكُلُ مِيرَاثَهُ ."
+        ],
+        "text": "أُتِيَ أَمِيرُ الْمُؤْمِنِينَ صَلَوَاتُ اللَّهِ عَلَيْهِ بِيَتِيمٍ فَقَالَ خُذُوا بِنَفَقَتِهِ أَقْرَبَ النَّاسِ مِنْهُ مِنَ الْعَشِيرَةِ كَمَا يَأْكُلُ مِيرَاثَهُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Muhammad Bin Yahya, from Giyas Bin Ibrahim, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘They came to Amir Al-Momineen<sup>asws</sup> with an orphan, so he<sup>asws</sup> said: ‘Get his expenses, the closest of the people to him from the clan, just as they would eat his inheritance’."
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Muhammad Bin Yahya, from Giyas Bin Ibrahim,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘They came to Amir Al-Momineen<sup>asws</sup> with an orphan, so he<sup>asws</sup> said: ‘Get his expenses, the closest of the people to him from the clan, just as they would eat his inheritance’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from Muhammad ibn Yahya from Ghiyath ibn Ibrahim who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that an orphan was brought before ’Amir al-Mu’minin, ‘Alayhi al-Salam, who said, ‘Make his closest relative pay for his expenses; such people are the ones who claim his legacy.’” "
+          ],
+          "text": "2. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from Muhammad ibn Yahya from Ghiyath ibn Ibrahim who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that an orphan was brought before ’Amir al-Mu’minin, ‘Alayhi al-Salam, who said, ‘Make his closest relative pay for his expenses; such people are the ones who claim his legacy.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> موثق  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (6/139)",
+          "label": "موثق",
+          "text": "Allamah Baqir al-Majlisi: موثق - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (6/139)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنْ مُحَمَّدِ بْنِ يَحْيَى عَنْ غِيَاثِ بْنِ إِبْرَاهِيمَ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "غِيَاثِ بْنِ إِبْرَاهِيمَ",
+            "path": "/people/narrators/162"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/5",
+          "/people/narrators/4",
+          "/people/narrators/162",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:4:1:8:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/4/1/8/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:4:1:8:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:4:1:8:3",
+        "parts": [
+          4,
+          1,
+          8,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 1,
+        "chapter": 8,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:4:1:8",
+        "titles": {
+          "ar": "بَابُ مَنْ يَلْزَمُ نَفَقَتُهُ",
+          "en": "Chapter 55 – The ones whose expenses are necessitated"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قُلْتُ لَهُ مَنْ يَلْزَمُ الرَّجُلَ مِنْ قَرَابَتِهِ مِمَّنْ يُنْفِقُ عَلَيْهِ قَالَ الْوَالِدَانِ وَ الْوَلَدُ وَ الزَّوْجَةُ ."
+        ],
+        "text": "قُلْتُ لَهُ مَنْ يَلْزَمُ الرَّجُلَ مِنْ قَرَابَتِهِ مِمَّنْ يُنْفِقُ عَلَيْهِ قَالَ الْوَالِدَانِ وَ الْوَلَدُ وَ الزَّوْجَةُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Sahl Bin Ziyad, from Ali Bin Al Hakam, from Al A’ala Bin Razeyn, from Muhammad Bin Muslim, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup>, said, ‘I said to him<sup>asws</sup>, ‘Who from his relatives are necessitated upon the man, from the ones he has to spend upon?’ He<sup>asws</sup> said: ‘The two parents, and the children, and the wife’."
+          ],
+          "text": "Sahl Bin Ziyad, from Ali Bin Al Hakam, from Al A’ala Bin Razeyn, from Muhammad Bin Muslim,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup>, said, ‘I said to him<sup>asws</sup>, ‘Who from his relatives are necessitated upon the man, from the ones he has to spend upon?’ He<sup>asws</sup> said: ‘The two parents, and the children, and the wife’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "3. Sahl ibn Ziyad has narrated from Ali ibn al-Hakam from ‘Ala’ ibn Razin from Muhammad ibn Muslim who has said the following: “I asked abu ‘Abd Allah, ‘Alayhi al-Salam, ‘Who are one’s dependents for whom providing sustenance is obligatory on him?’ He (the Imam) replied, ‘Such people are one’s parents, children and wife.’” "
+          ],
+          "text": "3. Sahl ibn Ziyad has narrated from Ali ibn al-Hakam from ‘Ala’ ibn Razin from Muhammad ibn Muslim who has said the following: “I asked abu ‘Abd Allah, ‘Alayhi al-Salam, ‘Who are one’s dependents for whom providing sustenance is obligatory on him?’ He (the Imam) replied, ‘Such people are one’s parents, children and wife.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (6/139)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (6/139)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "سَهْلُ بْنُ زِيَادٍ عَنْ عَلِيِّ بْنِ الْحَكَمِ عَنِ الْعَلَاءِ بْنِ رَزِينٍ عَنْ مُحَمَّدِ بْنِ مُسْلِمٍ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "سَهْلُ بْنُ زِيَادٍ",
+            "path": "/people/narrators/8"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيِّ بْنِ الْحَكَمِ",
+            "path": "/people/narrators/15"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْعَلَاءِ بْنِ رَزِينٍ",
+            "path": "/people/narrators/75"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ مُسْلِمٍ",
+            "path": "/people/narrators/16"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/8",
+          "/people/narrators/15",
+          "/people/narrators/75",
+          "/people/narrators/16",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:4:1:8:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/4/1/8/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

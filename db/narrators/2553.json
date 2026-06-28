@@ -1,0 +1,43 @@
+{
+  "id": 2553,
+  "type": "narrator",
+  "path": "/people/narrators/2553",
+  "titles": {
+    "ar": "الْحَسَنِ بْنِ شَاذَانَ الْوَاسِطِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:43:34"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1188-2553": {
+      "narrator_ids": [
+        1188,
+        2553
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:34"
+      ]
+    },
+    "20-4-1188-2553": {
+      "narrator_ids": [
+        20,
+        4,
+        1188,
+        2553
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:34"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2553",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2553.json"
+  }
+}

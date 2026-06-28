@@ -1,0 +1,63 @@
+{
+  "id": 3533,
+  "type": "narrator",
+  "path": "/people/narrators/3533",
+  "titles": {
+    "ar": "عَبْدِ الْغَفَّارِ"
+  },
+  "versePaths": [
+    "/books/al-istibsar:2:68:9",
+    "/books/al-kafi:6:8:50:1"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "11-699-3533": {
+      "narrator_ids": [
+        11,
+        699,
+        3533
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:2:68:9"
+      ]
+    },
+    "431-99-80-3533": {
+      "narrator_ids": [
+        431,
+        99,
+        80,
+        3533
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:50:1"
+      ]
+    },
+    "699-3533": {
+      "narrator_ids": [
+        699,
+        3533
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:2:68:9"
+      ]
+    },
+    "80-3533": {
+      "narrator_ids": [
+        80,
+        3533
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:50:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3533",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3533.json"
+  }
+}

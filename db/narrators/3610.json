@@ -1,0 +1,54 @@
+{
+  "id": 3610,
+  "type": "narrator",
+  "path": "/people/narrators/3610",
+  "titles": {
+    "ar": "عَبْدِ اللَّهِ بْنِ مُحَمَّدِ بْنِ نَهِيكٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:3:16:9"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "167-3610": {
+      "narrator_ids": [
+        167,
+        3610
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:3:16:9"
+      ]
+    },
+    "3610-3735": {
+      "narrator_ids": [
+        3610,
+        3735
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:3:16:9"
+      ]
+    },
+    "4-167-3610-3735-784-1209": {
+      "narrator_ids": [
+        4,
+        167,
+        3610,
+        3735,
+        784,
+        1209
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:3:16:9"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3610",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3610.json"
+  }
+}

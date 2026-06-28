@@ -1,0 +1,246 @@
+{
+  "id": 854,
+  "type": "narrator",
+  "path": "/people/narrators/854",
+  "titles": {
+    "ar": "أَحْمَدَ بْنِ عِيسَى",
+    "en": "Ahmad ibn Isa"
+  },
+  "versePaths": [
+    "/books/al-istibsar:2:127:2",
+    "/books/al-kafi:1:4:64:3",
+    "/books/al-kafi:2:1:105:1",
+    "/books/al-kafi:5:2:53:7",
+    "/books/mujam-al-ahadith-al-mutabara:2:7:5",
+    "/books/tahdhib-al-ahkam:5:25:663",
+    "/books/tahdhib-al-ahkam:5:9:15",
+    "/books/tahdhib-al-ahkam:6:16:17",
+    "/books/tahdhib-al-ahkam:7:35:27",
+    "/books/uyun-akhbar-al-rida:2:2:19"
+  ],
+  "verseCount": 10,
+  "relations": {},
+  "subchains": {
+    "11-854": {
+      "narrator_ids": [
+        11,
+        854
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:2:127:2"
+      ]
+    },
+    "11-854-185-79-16": {
+      "narrator_ids": [
+        11,
+        854,
+        185,
+        79,
+        16
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:2:127:2"
+      ]
+    },
+    "127-78-854-7-491-608": {
+      "narrator_ids": [
+        127,
+        78,
+        854,
+        7,
+        491,
+        608
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:53:7"
+      ]
+    },
+    "167-205-854": {
+      "narrator_ids": [
+        167,
+        205,
+        854
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:25:663"
+      ]
+    },
+    "2-854": {
+      "narrator_ids": [
+        2,
+        854
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:64:3",
+        "/books/uyun-akhbar-al-rida:2:2:19"
+      ]
+    },
+    "20-25-5-1031-2-854-669": {
+      "narrator_ids": [
+        20,
+        25,
+        5,
+        1031,
+        2,
+        854,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:64:3"
+      ]
+    },
+    "205-854": {
+      "narrator_ids": [
+        205,
+        854
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:25:663"
+      ]
+    },
+    "4-854": {
+      "narrator_ids": [
+        4,
+        854
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:105:1"
+      ]
+    },
+    "4-854-88-178-669": {
+      "narrator_ids": [
+        4,
+        854,
+        88,
+        178,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:105:1"
+      ]
+    },
+    "4154-854": {
+      "narrator_ids": [
+        4154,
+        854
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:16:17"
+      ]
+    },
+    "78-854": {
+      "narrator_ids": [
+        78,
+        854
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:53:7"
+      ]
+    },
+    "854-185": {
+      "narrator_ids": [
+        854,
+        185
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:2:127:2"
+      ]
+    },
+    "854-39": {
+      "narrator_ids": [
+        854,
+        39
+      ],
+      "verse_paths": [
+        "/books/mujam-al-ahadith-al-mutabara:2:7:5"
+      ]
+    },
+    "854-39-52-126": {
+      "narrator_ids": [
+        854,
+        39,
+        52,
+        126
+      ],
+      "verse_paths": [
+        "/books/mujam-al-ahadith-al-mutabara:2:7:5"
+      ]
+    },
+    "854-42": {
+      "narrator_ids": [
+        854,
+        42
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:16:17"
+      ]
+    },
+    "854-564": {
+      "narrator_ids": [
+        854,
+        564
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:9:15"
+      ]
+    },
+    "854-60": {
+      "narrator_ids": [
+        854,
+        60
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:35:27"
+      ]
+    },
+    "854-669": {
+      "narrator_ids": [
+        854,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:64:3"
+      ]
+    },
+    "854-7": {
+      "narrator_ids": [
+        854,
+        7
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:53:7"
+      ]
+    },
+    "854-88": {
+      "narrator_ids": [
+        854,
+        88
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:105:1"
+      ]
+    },
+    "90-4154-854-42-188-170-669": {
+      "narrator_ids": [
+        90,
+        4154,
+        854,
+        42,
+        188,
+        170,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:16:17"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/854",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/854.json"
+  }
+}

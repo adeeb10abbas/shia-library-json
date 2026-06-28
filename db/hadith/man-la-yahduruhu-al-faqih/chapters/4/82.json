@@ -1,0 +1,126 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "man-la-yahduruhu-al-faqih",
+  "chapterPath": "/books/man-la-yahduruhu-al-faqih:4:82",
+  "chapter": {
+    "path": "/books/man-la-yahduruhu-al-faqih:4:82",
+    "titles": {
+      "en": "Chapter on What Has Been Reported Regarding Harming the Heirs"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "man-la-yahduruhu-al-faqih:4:82:1",
+      "type": "hadith",
+      "book": {
+        "slug": "man-la-yahduruhu-al-faqih",
+        "titles": {
+          "ar": "من لا يحضره الفقيه",
+          "en": "Man La Yahduruhu al-Faqih"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/man-la-yahduruhu-al-faqih:4:82:1",
+        "parts": [
+          4,
+          82,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 82,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/man-la-yahduruhu-al-faqih:4:82",
+        "titles": {
+          "en": "Chapter on What Has Been Reported Regarding Harming the Heirs"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ عَلِيٌّ عَلَيْهِ اَلسَّلاَمُ : \"مَا أُبَالِي أَضْرَرْتُ بِوُلْدِي أَوْ سَرِفْتُهُمْ ذَلِكَ اَلْمَالَ\"."
+        ],
+        "text": "قَالَ عَلِيٌّ عَلَيْهِ اَلسَّلاَمُ : \"مَا أُبَالِي أَضْرَرْتُ بِوُلْدِي أَوْ سَرِفْتُهُمْ ذَلِكَ اَلْمَالَ\"."
+      },
+      "translations": {
+        "en.bab-ul-qaim-publications": {
+          "segments": [
+            "Hadith.5418 - Abdullah ibn Al-Mughirah narrated from Al-Sakuni from Imam Jafar ibn Muhammad Al-Sadiq (as) from his father, Imam Muhammad ibn Ali Al-Baqir (as), that Imam Ali ibn Abi Talib (as) said:\n\"I do not mind whether I cause hardship to my children or I spend that wealth on them.\""
+          ],
+          "text": "Hadith.5418 - Abdullah ibn Al-Mughirah narrated from Al-Sakuni from Imam Jafar ibn Muhammad Al-Sadiq (as) from his father, Imam Muhammad ibn Ali Al-Baqir (as), that Imam Ali ibn Abi Talib (as) said:\n\"I do not mind whether I cause hardship to my children or I spend that wealth on them.\""
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "5418 - رَوَى عَبْدُ اَللَّهِ بْنُ اَلْمُغِيرَةِ عَنِ اَلسَّكُونِيِّ عَنْ جَعْفَرِ بْنِ مُحَمَّدٍ عَنْ أَبِيهِ عَلَيْهِ اَلسَّلاَمُ قَالَ",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "5418 - رَوَى "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَبْدُ اَللَّهِ بْنُ اَلْمُغِيرَةِ",
+            "path": "/people/narrators/76"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "اَلسَّكُونِيِّ",
+            "path": "/people/narrators/34"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "جَعْفَرِ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/208"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ عَلَيْهِ اَلسَّلاَمُ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/76",
+          "/people/narrators/34",
+          "/people/narrators/208",
+          "/people/narrators/2"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/man-la-yahduruhu-al-faqih:4:79:1"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/man-la-yahduruhu-al-faqih:4:82:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/man-la-yahduruhu-al-faqih/4/82/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/34/1/81/5418",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

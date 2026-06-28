@@ -1,0 +1,114 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:8:22",
+  "chapter": {
+    "path": "/books/al-khisal:8:22",
+    "titles": {
+      "en": "There are seven ranks for a believer"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:8:22:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:8:22:1",
+        "parts": [
+          8,
+          22,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 8,
+        "book": 22,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:8:22",
+        "titles": {
+          "en": "There are seven ranks for a believer"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": المؤمنون على سبع درجات: صاحب درجة منهم في مزيد من الله عز وجل لايخرجه ذلك المزيد من درجته إلى درجة غيره، ومنهم شهداء الله على خلقه، ومنهم النجباء، ومنهم الممتحنة، ومنهم النجداء، ومنهم أهل الصبر، ومنهم أهل التقوى، ومنهم أهل المغفرة"
+        ],
+        "text": ": المؤمنون على سبع درجات: صاحب درجة منهم في مزيد من الله عز وجل لايخرجه ذلك المزيد من درجته إلى درجة غيره، ومنهم شهداء الله على خلقه، ومنهم النجباء، ومنهم الممتحنة، ومنهم النجداء، ومنهم أهل الصبر، ومنهم أهل التقوى، ومنهم أهل المغفرة"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "7-32 Al-Hussein ibn Ahmad ibn Idris - may God be pleased with him - narrated that Muhammad ibn Ahmad quoted Ahmad ibn Aba Abdullah al-Barqy, on the authority of his father who linked it up through a chain of narrators to Aba Abdullah as-Sadiq (MGB), “There are seven ranks for a believer. None of them would go beyond their rank. Those with a given rank may get honored by the Honorable the Exalted God and be promoted, but they would never achieve a different rank. One group are God’s witnesses for His creatures. One group are the noble ones. One group are the examined ones. One group are the brave ones. One group are the patient ones. One group are the pious ones and one group are those who seek forgiveness.”"
+          ],
+          "text": "7-32 Al-Hussein ibn Ahmad ibn Idris - may God be pleased with him - narrated that Muhammad ibn Ahmad quoted Ahmad ibn Aba Abdullah al-Barqy, on the authority of his father who linked it up through a chain of narrators to Aba Abdullah as-Sadiq (MGB), “There are seven ranks for a believer. None of them would go beyond their rank. Those with a given rank may get honored by the Honorable the Exalted God and be promoted, but they would never achieve a different rank. One group are God’s witnesses for His creatures. One group are the noble ones. One group are the examined ones. One group are the brave ones. One group are the patient ones. One group are the pious ones and one group are those who seek forgiveness.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "7-32 حدثنا الحسين بن أحمد بن إدريس رضي الله عنه، عن محمد بن أحمد، عن أحمد بن أبي عبد الله البرقي، عن أبيه يرفعه إلى أبي عبد الله عليه السلام قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "7-32 حدثنا "
+          },
+          {
+            "kind": "plain",
+            "text": "الحسين بن أحمد بن إدريس رضي الله عنه،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "محمد بن أحمد،",
+            "path": "/people/narrators/59"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أحمد بن أبي عبد الله البرقي،",
+            "path": "/people/narrators/12"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "أبيه يرفعه إلى أبي عبد الله عليه السلام قال"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/59",
+          "/people/narrators/12"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:8:22:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/8/22/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/8/22/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": 1368,
+  "type": "narrator",
+  "path": "/people/narrators/1368",
+  "titles": {
+    "ar": "الْعَبَّاسِ بْنِ عَمْرٍو"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:3:13:2",
+    "/books/al-kafi:1:3:14:6"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "1368-125": {
+      "narrator_ids": [
+        1368,
+        125
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:13:2",
+        "/books/al-kafi:1:3:14:6"
+      ]
+    },
+    "2-1368": {
+      "narrator_ids": [
+        2,
+        1368
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:13:2",
+        "/books/al-kafi:1:3:14:6"
+      ]
+    },
+    "3-2-1368-125": {
+      "narrator_ids": [
+        3,
+        2,
+        1368,
+        125
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:13:2",
+        "/books/al-kafi:1:3:14:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1368",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1368.json"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": 2214,
+  "type": "narrator",
+  "path": "/people/narrators/2214",
+  "titles": {
+    "ar": "أَبِي مَخْلَدٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:4:55:15"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2214-669": {
+      "narrator_ids": [
+        2214,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:4:55:15"
+      ]
+    },
+    "4-13-3-2-10-372-51-2214-669": {
+      "narrator_ids": [
+        4,
+        13,
+        3,
+        2,
+        10,
+        372,
+        51,
+        2214,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:4:55:15"
+      ]
+    },
+    "51-2214": {
+      "narrator_ids": [
+        51,
+        2214
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:4:55:15"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2214",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2214.json"
+  }
+}

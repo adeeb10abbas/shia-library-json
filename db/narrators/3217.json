@@ -1,0 +1,44 @@
+{
+  "id": 3217,
+  "type": "narrator",
+  "path": "/people/narrators/3217",
+  "titles": {
+    "ar": "رَجُلٍ مِنْ أَصْحَابِنَا يُقَالُ لَهُ عَبْدُ الرَّحْمَنِ بْنُ سِنَانٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:68:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "6-8-248-68-3217": {
+      "narrator_ids": [
+        6,
+        8,
+        248,
+        68,
+        3217
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:68:1"
+      ]
+    },
+    "68-3217": {
+      "narrator_ids": [
+        68,
+        3217
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:68:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3217",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3217.json"
+  }
+}

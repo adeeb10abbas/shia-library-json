@@ -1,0 +1,56 @@
+{
+  "id": 3302,
+  "type": "narrator",
+  "path": "/people/narrators/3302",
+  "titles": {
+    "ar": "سَالِمِ بْنِ أَبِي حَفْصَةَ الْعِجْلِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:111:11"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3302-9": {
+      "narrator_ids": [
+        3302,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:111:11"
+      ]
+    },
+    "35-78-8-719-4088-3514-3302-9": {
+      "narrator_ids": [
+        35,
+        78,
+        8,
+        719,
+        4088,
+        3514,
+        3302,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:111:11"
+      ]
+    },
+    "3514-3302": {
+      "narrator_ids": [
+        3514,
+        3302
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:111:11"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3302",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3302.json"
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "thawab-al-amal",
+  "chapterPath": "/books/thawab-al-amal:2:214",
+  "chapter": {
+    "path": "/books/thawab-al-amal:2:214",
+    "titles": {
+      "en": "Reward of reciting Surah Zariyat"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "thawab-al-amal:2:214:1",
+      "type": "hadith",
+      "book": {
+        "slug": "thawab-al-amal",
+        "titles": {
+          "ar": "ثواب الأعمال وعقاب الأعمال",
+          "en": "Thawab al-A'mal wa 'Iqab al-A'mal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/thawab-al-amal:2:214:1",
+        "parts": [
+          2,
+          214,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 214,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/thawab-al-amal:2:214",
+        "titles": {
+          "en": "Reward of reciting Surah Zariyat"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": مَنْ قَرَأَ سُورَهَ وَ الذَّارِیَاتِ فِی یَوْمِهِ أَوْ فِی لَیْلَتِهِ أَصْلَحَ اللَّهُ لَهُ مَعِیشَتَهُ وَ أَتَاهُ بِرِزْقٍ وَاسِعٍ وَ نَوَّرَ لَهُ فِی قَبْرِهِ بِسِرَاجٍ یَزْهَرُ إِلَی یَوْمِ الْقِیَامَهِ."
+        ],
+        "text": ": مَنْ قَرَأَ سُورَهَ وَ الذَّارِیَاتِ فِی یَوْمِهِ أَوْ فِی لَیْلَتِهِ أَصْلَحَ اللَّهُ لَهُ مَعِیشَتَهُ وَ أَتَاهُ بِرِزْقٍ وَاسِعٍ وَ نَوَّرَ لَهُ فِی قَبْرِهِ بِسِرَاجٍ یَزْهَرُ إِلَی یَوْمِ الْقِیَامَهِ."
+      },
+      "translations": {
+        "en.sayed-athar-husain-rizvi-&-sayed-maqsood-athar": {
+          "segments": [
+            "1. From the previous chain from al-Hassan from Sandal from Dawud b. Farqad from Abi Abdillah (a.s.) who said: One who keeps reciting Surah Zariyat in the day or night, Allah would improve the means of his livelihood and grant him much livelihood and also light up his grave with such a lamp that would keep burning and giving out light upto the Day of Judgment."
+          ],
+          "text": "1. From the previous chain from al-Hassan from Sandal from Dawud b. Farqad from Abi Abdillah (a.s.) who said: One who keeps reciting Surah Zariyat in the day or night, Allah would improve the means of his livelihood and grant him much livelihood and also light up his grave with such a lamp that would keep burning and giving out light upto the Day of Judgment."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "بِهَذَا الْإِسْنَادِ عَنِ الْحَسَنِ عَنْ صَنْدَلٍ عَنْ دَاوُدَ بْنِ فَرْقَدٍ عَنْ أَبِی عَبْدِ اللَّهِ ع قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "بِهَذَا الْإِسْنَادِ",
+            "path": "/people/narrators/77"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحَسَنِ",
+            "path": "/people/narrators/417"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "صَنْدَلٍ",
+            "path": "/people/narrators/635"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "دَاوُدَ بْنِ فَرْقَدٍ",
+            "path": "/people/narrators/178"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِی عَبْدِ اللَّهِ ع",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/77",
+          "/people/narrators/417",
+          "/people/narrators/635",
+          "/people/narrators/178",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/thawab-al-amal:2:244:1"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/thawab-al-amal:2:214:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/thawab-al-amal/2/214/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/23/2/214/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

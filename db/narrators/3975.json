@@ -1,0 +1,54 @@
+{
+  "id": 3975,
+  "type": "narrator",
+  "path": "/people/narrators/3975",
+  "titles": {
+    "ar": "غُرَّةَ بْنِ دِينَارٍ الرَّقِّيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:53:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3975-567": {
+      "narrator_ids": [
+        3975,
+        567
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:53:2"
+      ]
+    },
+    "6-8-205-85-3975-567": {
+      "narrator_ids": [
+        6,
+        8,
+        205,
+        85,
+        3975,
+        567
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:53:2"
+      ]
+    },
+    "85-3975": {
+      "narrator_ids": [
+        85,
+        3975
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:53:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3975",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3975.json"
+  }
+}

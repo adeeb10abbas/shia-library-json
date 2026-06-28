@@ -1,0 +1,92 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "kitab-al-duafa",
+  "chapterPath": "/books/kitab-al-duafa:24:43",
+  "chapter": {
+    "path": "/books/kitab-al-duafa:24:43",
+    "titles": {
+      "en": "Yaḥyā b. Abī al-Qāsim, Abū Baṣīr, al-Asadī"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "kitab-al-duafa:24:43:1",
+      "type": "hadith",
+      "book": {
+        "slug": "kitab-al-duafa",
+        "titles": {
+          "ar": "كتاب الضعفاء",
+          "en": "Kitab al-Du'afa'"
+        },
+        "author": {
+          "en": "Ahmad ibn al-Husayn al-Ghada'iri"
+        }
+      },
+      "path": {
+        "source": "/books/kitab-al-duafa:24:43:1",
+        "parts": [
+          24,
+          43,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 24,
+        "book": 43,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/kitab-al-duafa:24:43",
+        "titles": {
+          "en": "Yaḥyā b. Abī al-Qāsim, Abū Baṣīr, al-Asadī"
+        }
+      },
+      "arabic": {
+        "segments": [
+          "): \" أما الغلو فلا، ولكن كان مخلطا \". واسم أبي القاسم: اسحاق."
+        ],
+        "text": "): \" أما الغلو فلا، ولكن كان مخلطا \". واسم أبي القاسم: اسحاق."
+      },
+      "translations": {
+        "en.tashayyu": {
+          "segments": [
+            "43 – Yaḥyā b. Abī al-Qāsim, Abū Baṣīr, al-Asadī – and it is said: Abū Muḥammad – al-Ḥadhdhā.  [And ʿAlī b. al-Ḥasan b. Faḍḍāl was asked about this Abū Baṣīr, was he charged with ghulw?  So he said:] As to ghulw then no, however he was mixed up.  And the name of Abū al-Qāsim is Isḥāq."
+          ],
+          "text": "43 – Yaḥyā b. Abī al-Qāsim, Abū Baṣīr, al-Asadī – and it is said: Abū Muḥammad – al-Ḥadhdhā.  [And ʿAlī b. al-Ḥasan b. Faḍḍāl was asked about this Abū Baṣīr, was he charged with ghulw?  So he said:] As to ghulw then no, however he was mixed up.  And the name of Abū al-Qāsim is Isḥāq."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "43 - يحيى بن أبي القاسم، أبو بصير، الأسدي، وقيل: أبو محمد، الحذاء. (سئل علي بن الحسن بن فضال: عن أبي بصير هذا، هل كان متهما بالغلو؟ فقال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "43 - "
+          },
+          {
+            "kind": "plain",
+            "text": "يحيى بن أبي القاسم، أبو بصير، الأسدي، وقيل: أبو محمد، الحذاء. (سئل علي بن الحسن بن فضال:"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "أبي بصير هذا، هل كان متهما بالغلو؟ فقال"
+          }
+        ],
+        "narratorPaths": []
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/kitab-al-duafa:24:43:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/kitab-al-duafa/24/43/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/17/24/43/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

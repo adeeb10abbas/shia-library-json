@@ -1,0 +1,44 @@
+{
+  "id": 3333,
+  "type": "narrator",
+  "path": "/people/narrators/3333",
+  "titles": {
+    "ar": "سَعِيدَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:3:190:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "6-5-22-85-3333": {
+      "narrator_ids": [
+        6,
+        5,
+        22,
+        85,
+        3333
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:190:4"
+      ]
+    },
+    "85-3333": {
+      "narrator_ids": [
+        85,
+        3333
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:190:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3333",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3333.json"
+  }
+}

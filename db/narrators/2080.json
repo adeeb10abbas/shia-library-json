@@ -1,0 +1,98 @@
+{
+  "id": 2080,
+  "type": "narrator",
+  "path": "/people/narrators/2080",
+  "titles": {
+    "ar": "أَبِي حَنِيفَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:3:48:15",
+    "/books/tahdhib-al-ahkam:10:5:13",
+    "/books/tahdhib-al-ahkam:10:7:79",
+    "/books/tahdhib-al-ahkam:2:15:140",
+    "/books/tahdhib-al-ahkam:6:90:149"
+  ],
+  "verseCount": 5,
+  "relations": {},
+  "subchains": {
+    "2813-2080": {
+      "narrator_ids": [
+        2813,
+        2080
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:48:15",
+        "/books/tahdhib-al-ahkam:10:5:13",
+        "/books/tahdhib-al-ahkam:10:7:79",
+        "/books/tahdhib-al-ahkam:2:15:140"
+      ]
+    },
+    "3-2-2778-2813-2080": {
+      "narrator_ids": [
+        3,
+        2,
+        2778,
+        2813,
+        2080
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:48:15"
+      ]
+    },
+    "3-2-39-2080": {
+      "narrator_ids": [
+        3,
+        2,
+        39,
+        2080
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:90:149"
+      ]
+    },
+    "39-2080": {
+      "narrator_ids": [
+        39,
+        2080
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:90:149"
+      ]
+    },
+    "4286-209-82-470-2813-2080": {
+      "narrator_ids": [
+        4286,
+        209,
+        82,
+        470,
+        2813,
+        2080
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:10:5:13",
+        "/books/tahdhib-al-ahkam:10:7:79"
+      ]
+    },
+    "4286-35-82-470-2813-2080": {
+      "narrator_ids": [
+        4286,
+        35,
+        82,
+        470,
+        2813,
+        2080
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:15:140"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2080",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2080.json"
+  }
+}

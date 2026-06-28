@@ -1,0 +1,44 @@
+{
+  "id": 2926,
+  "type": "narrator",
+  "path": "/people/narrators/2926",
+  "titles": {
+    "ar": "بَعْضِ وُلْدِ مِيثَمٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:4:102:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "35-8-68-599-2926": {
+      "narrator_ids": [
+        35,
+        8,
+        68,
+        599,
+        2926
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:102:4"
+      ]
+    },
+    "599-2926": {
+      "narrator_ids": [
+        599,
+        2926
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:102:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2926",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2926.json"
+  }
+}

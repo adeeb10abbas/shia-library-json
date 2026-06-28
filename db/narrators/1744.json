@@ -1,0 +1,44 @@
+{
+  "id": 1744,
+  "type": "narrator",
+  "path": "/people/narrators/1744",
+  "titles": {
+    "ar": "12ـ مُحَمَّدُ بْنُ يَحْيَى"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:4:82:12"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1744-5": {
+      "narrator_ids": [
+        1744,
+        5
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:82:12"
+      ]
+    },
+    "1744-5-74-43-98": {
+      "narrator_ids": [
+        1744,
+        5,
+        74,
+        43,
+        98
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:82:12"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1744",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1744.json"
+  }
+}

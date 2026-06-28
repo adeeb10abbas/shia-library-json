@@ -1,0 +1,42 @@
+{
+  "id": 3088,
+  "type": "narrator",
+  "path": "/people/narrators/3088",
+  "titles": {
+    "ar": "حَفْصِ بْنِ عَوْنٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:3:1:8"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "29-3088": {
+      "narrator_ids": [
+        29,
+        3088
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:1:8"
+      ]
+    },
+    "4-29-3088": {
+      "narrator_ids": [
+        4,
+        29,
+        3088
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:1:8"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3088",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3088.json"
+  }
+}

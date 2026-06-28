@@ -1,0 +1,54 @@
+{
+  "id": 3114,
+  "type": "narrator",
+  "path": "/people/narrators/3114",
+  "titles": {
+    "ar": "حُمَيْدٍ الصَّيْرَفِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:8:68:7"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "100-3114": {
+      "narrator_ids": [
+        100,
+        3114
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:68:7"
+      ]
+    },
+    "3114-669": {
+      "narrator_ids": [
+        3114,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:68:7"
+      ]
+    },
+    "6-12-30-100-3114-669": {
+      "narrator_ids": [
+        6,
+        12,
+        30,
+        100,
+        3114,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:68:7"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3114",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3114.json"
+  }
+}

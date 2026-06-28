@@ -1,0 +1,160 @@
+{
+  "id": 990,
+  "type": "narrator",
+  "path": "/people/narrators/990",
+  "titles": {
+    "ar": "أَبِي سَلَمَةَ السَّرَّاجِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:119:4",
+    "/books/al-kafi:3:4:32:10",
+    "/books/al-kafi:6:8:19:6",
+    "/books/kamil-al-ziyarat:2:26:3",
+    "/books/kamil-al-ziyarat:2:26:4"
+  ],
+  "verseCount": 5,
+  "relations": {},
+  "subchains": {
+    "1034-990": {
+      "narrator_ids": [
+        1034,
+        990
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:32:10"
+      ]
+    },
+    "1973-990": {
+      "narrator_ids": [
+        1973,
+        990
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:19:6"
+      ]
+    },
+    "26-990": {
+      "narrator_ids": [
+        26,
+        990
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:26:4"
+      ]
+    },
+    "315-990": {
+      "narrator_ids": [
+        315,
+        990
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:119:4"
+      ]
+    },
+    "342-990": {
+      "narrator_ids": [
+        342,
+        990
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:26:3"
+      ]
+    },
+    "4-29-130-625-1034-990": {
+      "narrator_ids": [
+        4,
+        29,
+        130,
+        625,
+        1034,
+        990
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:32:10"
+      ]
+    },
+    "4-5-327-625-342-315-990-2624": {
+      "narrator_ids": [
+        4,
+        5,
+        327,
+        625,
+        342,
+        315,
+        990,
+        2624
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:119:4"
+      ]
+    },
+    "4169-1340-569-2623-342-990": {
+      "narrator_ids": [
+        4169,
+        1340,
+        569,
+        2623,
+        342,
+        990
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:26:3"
+      ]
+    },
+    "6-8-234-3703-1973-990-669": {
+      "narrator_ids": [
+        6,
+        8,
+        234,
+        3703,
+        1973,
+        990,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:19:6"
+      ]
+    },
+    "613-355-1358-1338-569-1034-26-990": {
+      "narrator_ids": [
+        613,
+        355,
+        1358,
+        1338,
+        569,
+        1034,
+        26,
+        990
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:26:4"
+      ]
+    },
+    "990-2624": {
+      "narrator_ids": [
+        990,
+        2624
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:119:4"
+      ]
+    },
+    "990-669": {
+      "narrator_ids": [
+        990,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:19:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/990",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/990.json"
+  }
+}

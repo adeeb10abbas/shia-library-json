@@ -1,0 +1,74 @@
+{
+  "id": 4188,
+  "type": "narrator",
+  "path": "/people/narrators/4188",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ الْقَاسِمِ الْهَاشِمِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:70:4",
+    "/books/tahdhib-al-ahkam:8:4:14"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "10-4188": {
+      "narrator_ids": [
+        10,
+        4188
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:70:4"
+      ]
+    },
+    "11-12-417-4188": {
+      "narrator_ids": [
+        11,
+        12,
+        417,
+        4188
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:8:4:14"
+      ]
+    },
+    "4-13-10-4188-669": {
+      "narrator_ids": [
+        4,
+        13,
+        10,
+        4188,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:70:4"
+      ]
+    },
+    "417-4188": {
+      "narrator_ids": [
+        417,
+        4188
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:8:4:14"
+      ]
+    },
+    "4188-669": {
+      "narrator_ids": [
+        4188,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:70:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4188",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4188.json"
+  }
+}

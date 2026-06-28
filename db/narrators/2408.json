@@ -1,0 +1,55 @@
+{
+  "id": 2408,
+  "type": "narrator",
+  "path": "/people/narrators/2408",
+  "titles": {
+    "ar": "إِسْحَاقَ بْنِ إِسْمَاعِيلَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:80:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-248-1669-2408-1686-2088-669": {
+      "narrator_ids": [
+        11,
+        248,
+        1669,
+        2408,
+        1686,
+        2088,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:80:4"
+      ]
+    },
+    "1669-2408": {
+      "narrator_ids": [
+        1669,
+        2408
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:80:4"
+      ]
+    },
+    "2408-1686": {
+      "narrator_ids": [
+        2408,
+        1686
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:80:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2408",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2408.json"
+  }
+}

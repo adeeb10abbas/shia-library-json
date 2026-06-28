@@ -1,0 +1,54 @@
+{
+  "id": 3949,
+  "type": "narrator",
+  "path": "/people/narrators/3949",
+  "titles": {
+    "ar": "عَيْثَمِ بْنِ أَشْيَمَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:6:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "240-3949": {
+      "narrator_ids": [
+        240,
+        3949
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:6:3"
+      ]
+    },
+    "3949-45": {
+      "narrator_ids": [
+        3949,
+        45
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:6:3"
+      ]
+    },
+    "6-8-240-3949-45-669": {
+      "narrator_ids": [
+        6,
+        8,
+        240,
+        3949,
+        45,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:6:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3949",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3949.json"
+  }
+}

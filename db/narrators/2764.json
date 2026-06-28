@@ -1,0 +1,55 @@
+{
+  "id": 2764,
+  "type": "narrator",
+  "path": "/people/narrators/2764",
+  "titles": {
+    "ar": "الْقَاسِمِ النَّهْدِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:115:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2764-119": {
+      "narrator_ids": [
+        2764,
+        119
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:115:4"
+      ]
+    },
+    "4-5-90-2764-119-2784-669": {
+      "narrator_ids": [
+        4,
+        5,
+        90,
+        2764,
+        119,
+        2784,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:115:4"
+      ]
+    },
+    "90-2764": {
+      "narrator_ids": [
+        90,
+        2764
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:115:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2764",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2764.json"
+  }
+}

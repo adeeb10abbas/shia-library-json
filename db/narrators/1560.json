@@ -1,0 +1,66 @@
+{
+  "id": 1560,
+  "type": "narrator",
+  "path": "/people/narrators/1560",
+  "titles": {
+    "ar": "عَلَاءِ بْنِ كَامِلٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:2:4:1",
+    "/books/al-kafi:3:3:82:13"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "188-1560": {
+      "narrator_ids": [
+        188,
+        1560
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:82:13"
+      ]
+    },
+    "3-2-38-188-1560": {
+      "narrator_ids": [
+        3,
+        2,
+        38,
+        188,
+        1560
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:82:13"
+      ]
+    },
+    "3-2-7-504-1560": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        504,
+        1560
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:4:1"
+      ]
+    },
+    "504-1560": {
+      "narrator_ids": [
+        504,
+        1560
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:4:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1560",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1560.json"
+  }
+}

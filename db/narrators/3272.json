@@ -1,0 +1,58 @@
+{
+  "id": 3272,
+  "type": "narrator",
+  "path": "/people/narrators/3272",
+  "titles": {
+    "ar": "زَكَرِيَّا النَّقَّاضِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:44:65",
+    "/books/man-la-yahduruhu-al-faqih:1:66:12"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "155-3272": {
+      "narrator_ids": [
+        155,
+        3272
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:44:65"
+      ]
+    },
+    "3272-9": {
+      "narrator_ids": [
+        3272,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:44:65",
+        "/books/man-la-yahduruhu-al-faqih:1:66:12"
+      ]
+    },
+    "49-345-717-52-568-155-3272-9": {
+      "narrator_ids": [
+        49,
+        345,
+        717,
+        52,
+        568,
+        155,
+        3272,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:44:65"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3272",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3272.json"
+  }
+}

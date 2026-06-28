@@ -1,0 +1,130 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "maani-al-akhbar",
+  "chapterPath": "/books/maani-al-akhbar:165",
+  "chapter": {
+    "path": "/books/maani-al-akhbar:165",
+    "titles": {
+      "en": "The meaning of the saying of al-Sadiq, peace be upon him: «Indeed, a man will, verily, go out of his home and return whilst not having remember Allah, Exalted and Glorious is He, and his journal will be filled with good deeds»"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "maani-al-akhbar:165:1",
+      "type": "hadith",
+      "book": {
+        "slug": "maani-al-akhbar",
+        "titles": {
+          "ar": "معاني الأخبار",
+          "en": "Ma'ani al-Akhbar"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/maani-al-akhbar:165:1",
+        "parts": [
+          165,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 165,
+        "book": 1
+      },
+      "chapter": {
+        "path": "/books/maani-al-akhbar:165",
+        "titles": {
+          "en": "The meaning of the saying of al-Sadiq, peace be upon him: «Indeed, a man will, verily, go out of his home and return whilst not having remember Allah, Exalted and Glorious is He, and his journal will be filled with good deeds»"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": إن الرجل ليخرج من منزله إلى حاجة   فيرجع وما ذكر الله عز وجل فتملأ صحيفته حسنات، قال: فقلت: وكيف ذلك جعلت فداك؟ قال: يمر بالقوم ويذكرونا أهل البيت فيقولون: كفوا فإن هذا يحبهم فيقول الملك لصاحبه: اكتب هبة  آل محمد في فلان [اليوم]."
+        ],
+        "text": ": إن الرجل ليخرج من منزله إلى حاجة   فيرجع وما ذكر الله عز وجل فتملأ صحيفته حسنات، قال: فقلت: وكيف ذلك جعلت فداك؟ قال: يمر بالقوم ويذكرونا أهل البيت فيقولون: كفوا فإن هذا يحبهم فيقول الملك لصاحبه: اكتب هبة  آل محمد في فلان [اليوم]."
+      },
+      "translations": {
+        "en.basel-kadem": {
+          "segments": [
+            "1.\tI was told by Muhammed bin Ali Majilawayh, from his paternal uncle, Muhammed bin Abi’l-Qasem, from Muhammed bin Ali al-Kufi, from Hakam bin Miskeen, from Tha’laba bin Maimoun, from Ja’far bin Muhammed, peace be upon them both, that he said: Indeed, a man will, verily, go out of his home for a need, and he will then return whilst not having remembered Allah, Exalted and Glorious is He, and his journal will be filled with good deeds. He said: So I said: And how is that, may I be sacrificed for you? He said: He will pass by people and they will remember us, the Household, and say: Stop, for indeed, he loves them. Then the Angel will say to his companion: Write the gift of the Family of Muhammed for such-a-person today."
+          ],
+          "text": "1.\tI was told by Muhammed bin Ali Majilawayh, from his paternal uncle, Muhammed bin Abi’l-Qasem, from Muhammed bin Ali al-Kufi, from Hakam bin Miskeen, from Tha’laba bin Maimoun, from Ja’far bin Muhammed, peace be upon them both, that he said: Indeed, a man will, verily, go out of his home for a need, and he will then return whilst not having remembered Allah, Exalted and Glorious is He, and his journal will be filled with good deeds. He said: So I said: And how is that, may I be sacrificed for you? He said: He will pass by people and they will remember us, the Household, and say: Stop, for indeed, he loves them. Then the Angel will say to his companion: Write the gift of the Family of Muhammed for such-a-person today."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "حدثني محمد بن عليبن ماجيلويه، عن عمه محمد بن أبي القاسم، عن محمد بن علي الكوفي، عن الحكم بن مسكين، عن ثعلبة بن ميمون، عن جعفر بن محمد عليهما السلام قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "حدثني "
+          },
+          {
+            "kind": "plain",
+            "text": "محمد بن عليبن ماجيلويه،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "عمه محمد بن أبي القاسم،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "محمد بن علي الكوفي،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "الحكم بن مسكين،",
+            "path": "/people/narrators/291"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "ثعلبة بن ميمون،",
+            "path": "/people/narrators/161"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "جعفر بن محمد عليهما السلام قال",
+            "path": "/people/narrators/208"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/291",
+          "/people/narrators/161",
+          "/people/narrators/208"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/maani-al-akhbar:165:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/maani-al-akhbar/165/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/28/1/165/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": 4136,
+  "type": "narrator",
+  "path": "/people/narrators/4136",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ إِسْحَاقَ الْأَشْعَرِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:25:18"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "154-4136": {
+      "narrator_ids": [
+        154,
+        4136
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:25:18"
+      ]
+    },
+    "154-4136-581": {
+      "narrator_ids": [
+        154,
+        4136,
+        581
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:25:18"
+      ]
+    },
+    "4136-581": {
+      "narrator_ids": [
+        4136,
+        581
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:25:18"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4136",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4136.json"
+  }
+}

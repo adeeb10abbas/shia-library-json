@@ -1,0 +1,32 @@
+{
+  "id": 2081,
+  "type": "narrator",
+  "path": "/people/narrators/2081",
+  "titles": {
+    "ar": "أَبِي حَنِيفَةَ سَابِقِ الْحَاجِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:91:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "104-2081": {
+      "narrator_ids": [
+        104,
+        2081
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:91:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2081",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2081.json"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": 3014,
+  "type": "narrator",
+  "path": "/people/narrators/3014",
+  "titles": {
+    "ar": "جَعْفَرِ بْنِ نَجِيحٍ الْكِنْدِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:61:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1977-3014": {
+      "narrator_ids": [
+        1977,
+        3014
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:61:2"
+      ]
+    },
+    "3014-4133": {
+      "narrator_ids": [
+        3014,
+        4133
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:61:2"
+      ]
+    },
+    "5-4-29-5-1977-3014-4133-2-253-669": {
+      "narrator_ids": [
+        5,
+        4,
+        29,
+        5,
+        1977,
+        3014,
+        4133,
+        2,
+        253,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:61:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3014",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3014.json"
+  }
+}

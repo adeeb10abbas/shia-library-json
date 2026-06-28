@@ -1,0 +1,53 @@
+{
+  "id": 3599,
+  "type": "narrator",
+  "path": "/people/narrators/3599",
+  "titles": {
+    "ar": "عَبْدِ اللَّهِ بْنِ لَطِيفٍ التَّفْلِيسِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:2:74:3",
+    "/books/man-la-yahduruhu-al-faqih:2:2:36:21"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "240-3599": {
+      "narrator_ids": [
+        240,
+        3599
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:74:3"
+      ]
+    },
+    "240-3599-1100": {
+      "narrator_ids": [
+        240,
+        3599,
+        1100
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:74:3"
+      ]
+    },
+    "3599-1100": {
+      "narrator_ids": [
+        3599,
+        1100
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:74:3",
+        "/books/man-la-yahduruhu-al-faqih:2:2:36:21"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3599",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3599.json"
+  }
+}

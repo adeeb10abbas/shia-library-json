@@ -1,0 +1,54 @@
+{
+  "id": 3363,
+  "type": "narrator",
+  "path": "/people/narrators/3363",
+  "titles": {
+    "ar": "سُلَيْمَانَ الْفَرَّاءِ مَوْلَى طِرْبَالٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:1:32:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "15-3363": {
+      "narrator_ids": [
+        15,
+        3363
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:32:1"
+      ]
+    },
+    "3363-687": {
+      "narrator_ids": [
+        3363,
+        687
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:32:1"
+      ]
+    },
+    "4-13-15-3363-687-669": {
+      "narrator_ids": [
+        4,
+        13,
+        15,
+        3363,
+        687,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:32:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3363",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3363.json"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": 2990,
+  "type": "narrator",
+  "path": "/people/narrators/2990",
+  "titles": {
+    "ar": "جَعْفَرِ بْنِ الْقَاسِمِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:80:21",
+    "/books/man-la-yahduruhu-al-faqih:2:3:44:5"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "2990-1365": {
+      "narrator_ids": [
+        2990,
+        1365
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:2:3:44:5"
+      ]
+    },
+    "2990-1649": {
+      "narrator_ids": [
+        2990,
+        1649
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:80:21"
+      ]
+    },
+    "59-2990": {
+      "narrator_ids": [
+        59,
+        2990
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:80:21"
+      ]
+    },
+    "97-59-2990-1649-2831-2502-289-71": {
+      "narrator_ids": [
+        97,
+        59,
+        2990,
+        1649,
+        2831,
+        2502,
+        289,
+        71
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:80:21"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2990",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2990.json"
+  }
+}

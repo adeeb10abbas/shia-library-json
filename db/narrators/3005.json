@@ -1,0 +1,54 @@
+{
+  "id": 3005,
+  "type": "narrator",
+  "path": "/people/narrators/3005",
+  "titles": {
+    "ar": "جَعْفَرِ بْنِ مُحَمَّدٍ التَّمِيمِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:2:30:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1316-3005": {
+      "narrator_ids": [
+        1316,
+        3005
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:30:5"
+      ]
+    },
+    "3005-3076": {
+      "narrator_ids": [
+        3005,
+        3076
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:30:5"
+      ]
+    },
+    "35-240-1316-3005-3076-669": {
+      "narrator_ids": [
+        35,
+        240,
+        1316,
+        3005,
+        3076,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:30:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3005",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3005.json"
+  }
+}

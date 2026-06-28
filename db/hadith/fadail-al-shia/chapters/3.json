@@ -1,0 +1,102 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "fadail-al-shia",
+  "chapterPath": "/books/fadail-al-shia:3",
+  "chapter": {
+    "path": "/books/fadail-al-shia:3",
+    "titles": {
+      "en": "Prophet's (sw) assurance of steadfastness through love for his household"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "fadail-al-shia:3:1",
+      "type": "hadith",
+      "book": {
+        "slug": "fadail-al-shia",
+        "titles": {
+          "ar": "فضائل الشيعة",
+          "en": "Fada'il al-Shi'a"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/fadail-al-shia:3:1",
+        "parts": [
+          3,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 1
+      },
+      "chapter": {
+        "path": "/books/fadail-al-shia:3",
+        "titles": {
+          "en": "Prophet's (sw) assurance of steadfastness through love for his household"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": قال رسول الله صلّى الله عليه وآله: أثبتكم قدماً على الصراط أشدّكم حبّاً لأهل بيتي."
+        ],
+        "text": ": قال رسول الله صلّى الله عليه وآله: أثبتكم قدماً على الصراط أشدّكم حبّاً لأهل بيتي."
+      },
+      "translations": {
+        "en.badr-shahin": {
+          "segments": [
+            "Ja’far bin Ali bin al-Hasan bin Ali bin Abdullah bin al-Mugheera narrated to us from his grandfather from his grandfather from Ismaeel bin Muslim ash-Shuairi from Ja’far bin Mohammed as-Sadiq (a) that the Prophet (sw) said: The most sure-footed of you on the Path will be the most loving for my household."
+          ],
+          "text": "Ja’far bin Ali bin al-Hasan bin Ali bin Abdullah bin al-Mugheera narrated to us from his grandfather from his grandfather from Ismaeel bin Muslim ash-Shuairi from Ja’far bin Mohammed as-Sadiq (a) that the Prophet (sw) said: The most sure-footed of you on the Path will be the most loving for my household."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "حدّثنا جعفر بن علي بن الحسن بن علي بن عبد الله بن المغيرة عن جدّه الحسن بن علي، عن جدّه عبد الله بن المغيرة، عن إسماعيل بن مسلم الشعيري، عن الصادق جعفر بن محمّد، عن أبيه عليهم السلام قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "حدّثنا "
+          },
+          {
+            "kind": "plain",
+            "text": "جعفر بن علي بن الحسن بن علي بن عبد الله بن المغيرة"
+          },
+          {
+            "kind": "plain",
+            "text": " عن جدّه الحسن بن علي، عن جدّه عبد الله بن المغيرة، عن "
+          },
+          {
+            "kind": "plain",
+            "text": "إسماعيل بن مسلم الشعيري،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن الصادق جعفر بن محمّد، عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبيه عليهم السلام قال",
+            "path": "/people/narrators/2"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/2"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/fadail-al-shia:3:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/fadail-al-shia/3/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/25/1/3/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": 2755,
+  "type": "narrator",
+  "path": "/people/narrators/2755",
+  "titles": {
+    "ar": "الْفُضَيْلِ بْنِ أَبِي قُرَّةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:53:8"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "133-12-407-2755": {
+      "narrator_ids": [
+        133,
+        12,
+        407,
+        2755
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:53:8"
+      ]
+    },
+    "407-2755": {
+      "narrator_ids": [
+        407,
+        2755
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:53:8"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2755",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2755.json"
+  }
+}

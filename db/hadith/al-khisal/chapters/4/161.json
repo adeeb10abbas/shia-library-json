@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:4:161",
+  "chapter": {
+    "path": "/books/al-khisal:4:161",
+    "titles": {
+      "en": "Three Sources of Comfort for a Believer"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:4:161:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:4:161:1",
+        "parts": [
+          4,
+          161,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 161,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:4:161",
+        "titles": {
+          "en": "Three Sources of Comfort for a Believer"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثني محمد بن علي بن الصلت، عن أحمد بن محمد بن علي بن خالد، عن منصور بن العباس، عن سعيد بن جناح عن مطرفمولى معن، عن أبي عبد الله عليه السلام قال: ثلاثة للمؤمن فيهن راحة: دار واسعة تواري عورته وسوء حاله من الناس. وامرأة صالحة تعينه على أمر الدنيا والآخرة، وابنة أو اخت يخرجها من منزله بموت أو بتزويج"
+        ],
+        "text": ": حدثني محمد بن علي بن الصلت، عن أحمد بن محمد بن علي بن خالد، عن منصور بن العباس، عن سعيد بن جناح عن مطرفمولى معن، عن أبي عبد الله عليه السلام قال: ثلاثة للمؤمن فيهن راحة: دار واسعة تواري عورته وسوء حاله من الناس. وامرأة صالحة تعينه على أمر الدنيا والآخرة، وابنة أو اخت يخرجها من منزله بموت أو بتزويج"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "3-206 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Muhammad ibn Ali ibn al-Salt quoted on the authority of Ahmad ibn Muhammad ibn Ali ibn Khalid, on the authorityof Mansoor ibn al-Ab’bas, on the authority of Sa’id ibn Jinah, on the authority of Motrif - a servant of Ma’an, that Aba Abdullah as-Sadiq (MGB) said, “There are three things which comfort a believer: a big house in which he guards his privacy and his bad states of health from the people; a good wife who assists him in the affairs of this life and the Hereafter; and a daughter or a sister who leaves his house either by death or because of marriage.”"
+          ],
+          "text": "3-206 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Muhammad ibn Ali ibn al-Salt quoted on the authority of Ahmad ibn Muhammad ibn Ali ibn Khalid, on the authorityof Mansoor ibn al-Ab’bas, on the authority of Sa’id ibn Jinah, on the authority of Motrif - a servant of Ma’an, that Aba Abdullah as-Sadiq (MGB) said, “There are three things which comfort a believer: a big house in which he guards his privacy and his bad states of health from the people; a good wife who assists him in the affairs of this life and the Hereafter; and a daughter or a sister who leaves his house either by death or because of marriage.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "3-206 حدثنا أبي رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "3-206 حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي رضي الله عنه قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:4:161:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/4/161/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/4/161/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

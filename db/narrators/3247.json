@@ -1,0 +1,57 @@
+{
+  "id": 3247,
+  "type": "narrator",
+  "path": "/people/narrators/3247",
+  "titles": {
+    "ar": "رَوَاهُ أَحْمَدُ أَيْضاً"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:2:11:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "223-3247": {
+      "narrator_ids": [
+        223,
+        3247
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:2:11:1"
+      ]
+    },
+    "3-2-6-12-99-223-3247-362-3149": {
+      "narrator_ids": [
+        3,
+        2,
+        6,
+        12,
+        99,
+        223,
+        3247,
+        362,
+        3149
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:2:11:1"
+      ]
+    },
+    "3247-362": {
+      "narrator_ids": [
+        3247,
+        362
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:2:11:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3247",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3247.json"
+  }
+}

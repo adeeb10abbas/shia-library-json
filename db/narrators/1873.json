@@ -1,0 +1,53 @@
+{
+  "id": 1873,
+  "type": "narrator",
+  "path": "/people/narrators/1873",
+  "titles": {
+    "ar": "ابْنِ الْيَسَعِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:74:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "134-1873": {
+      "narrator_ids": [
+        134,
+        1873
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:74:5"
+      ]
+    },
+    "1873-669": {
+      "narrator_ids": [
+        1873,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:74:5"
+      ]
+    },
+    "3-113-134-1873-669": {
+      "narrator_ids": [
+        3,
+        113,
+        134,
+        1873,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:74:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1873",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1873.json"
+  }
+}

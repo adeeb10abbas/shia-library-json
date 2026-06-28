@@ -1,0 +1,67 @@
+{
+  "id": 2274,
+  "type": "narrator",
+  "path": "/people/narrators/2274",
+  "titles": {
+    "ar": "أَحْمَدَ بْنِ إِسْمَاعِيلَ الْكَاتِبِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:7:35:3",
+    "/books/man-la-yahduruhu-al-faqih:3:4:26:22"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "129-2274": {
+      "narrator_ids": [
+        129,
+        2274
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:35:3",
+        "/books/man-la-yahduruhu-al-faqih:3:4:26:22"
+      ]
+    },
+    "1843-129-2274-2": {
+      "narrator_ids": [
+        1843,
+        129,
+        2274,
+        2
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:3:4:26:22"
+      ]
+    },
+    "2274-2": {
+      "narrator_ids": [
+        2274,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:35:3",
+        "/books/man-la-yahduruhu-al-faqih:3:4:26:22"
+      ]
+    },
+    "3-2-129-2274-2": {
+      "narrator_ids": [
+        3,
+        2,
+        129,
+        2274,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:35:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2274",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2274.json"
+  }
+}

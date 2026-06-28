@@ -1,0 +1,67 @@
+{
+  "id": 2298,
+  "type": "narrator",
+  "path": "/people/narrators/2298",
+  "titles": {
+    "ar": "أَحْمَدَ بْنِ زَكَرِيَّا"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:81:6",
+    "/books/tahdhib-al-ahkam:1:39:24"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "16-2298": {
+      "narrator_ids": [
+        16,
+        2298
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:81:6"
+      ]
+    },
+    "20-4-545-16-2298-4225-31-162-669": {
+      "narrator_ids": [
+        20,
+        4,
+        545,
+        16,
+        2298,
+        4225,
+        31,
+        162,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:81:6"
+      ]
+    },
+    "209-2298": {
+      "narrator_ids": [
+        209,
+        2298
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:39:24"
+      ]
+    },
+    "2298-4225": {
+      "narrator_ids": [
+        2298,
+        4225
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:81:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2298",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2298.json"
+  }
+}

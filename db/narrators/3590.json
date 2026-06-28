@@ -1,0 +1,44 @@
+{
+  "id": 3590,
+  "type": "narrator",
+  "path": "/people/narrators/3590",
+  "titles": {
+    "ar": "عَبْدِ اللَّهِ بْنِ عَبْدِ الْكَرِيمِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:122:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3553-3590": {
+      "narrator_ids": [
+        3553,
+        3590
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:122:2"
+      ]
+    },
+    "5-3747-2992-3553-3590": {
+      "narrator_ids": [
+        5,
+        3747,
+        2992,
+        3553,
+        3590
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:122:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3590",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3590.json"
+  }
+}

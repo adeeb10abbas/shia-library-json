@@ -1,0 +1,63 @@
+{
+  "id": 3397,
+  "type": "narrator",
+  "path": "/people/narrators/3397",
+  "titles": {
+    "ar": "شَاهَوَيْهِ بْنِ عَبْدِ اللَّهِ الْجَلَّابِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:75:12",
+    "/books/kitab-al-ghayba-tusi:33:6"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "35-573-3397": {
+      "narrator_ids": [
+        35,
+        573,
+        3397
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:75:12"
+      ]
+    },
+    "573-3397": {
+      "narrator_ids": [
+        573,
+        3397
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:75:12"
+      ]
+    },
+    "695-1580-859-3397": {
+      "narrator_ids": [
+        695,
+        1580,
+        859,
+        3397
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:33:6"
+      ]
+    },
+    "859-3397": {
+      "narrator_ids": [
+        859,
+        3397
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:33:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3397",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3397.json"
+  }
+}

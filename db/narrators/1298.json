@@ -1,0 +1,68 @@
+{
+  "id": 1298,
+  "type": "narrator",
+  "path": "/people/narrators/1298",
+  "titles": {
+    "ar": "أَبِيهِ مَيْمُونٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:1:20:1",
+    "/books/al-kafi:6:8:69:7"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "114-1298": {
+      "narrator_ids": [
+        114,
+        1298
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:1:20:1",
+        "/books/al-kafi:6:8:69:7"
+      ]
+    },
+    "1298-9": {
+      "narrator_ids": [
+        1298,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:69:7"
+      ]
+    },
+    "6-8-110-114-1298-9": {
+      "narrator_ids": [
+        6,
+        8,
+        110,
+        114,
+        1298,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:69:7"
+      ]
+    },
+    "6-8-208-114-1298": {
+      "narrator_ids": [
+        6,
+        8,
+        208,
+        114,
+        1298
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:1:20:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1298",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1298.json"
+  }
+}

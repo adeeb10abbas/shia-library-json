@@ -1,0 +1,54 @@
+{
+  "id": 4457,
+  "type": "narrator",
+  "path": "/people/narrators/4457",
+  "titles": {
+    "ar": "مُوَفَّقٍ الْمَدِينِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:111:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2359-4457": {
+      "narrator_ids": [
+        2359,
+        4457
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:111:1"
+      ]
+    },
+    "4457-2": {
+      "narrator_ids": [
+        4457,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:111:1"
+      ]
+    },
+    "6-8-2359-4457-2-253": {
+      "narrator_ids": [
+        6,
+        8,
+        2359,
+        4457,
+        2,
+        253
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:111:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4457",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4457.json"
+  }
+}

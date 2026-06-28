@@ -1,0 +1,44 @@
+{
+  "id": 2167,
+  "type": "narrator",
+  "path": "/people/narrators/2167",
+  "titles": {
+    "ar": "أَبِي عَزِيزٍ الْمُرَادِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:134:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1375-2167": {
+      "narrator_ids": [
+        1375,
+        2167
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:134:4"
+      ]
+    },
+    "6-12-1249-1375-2167": {
+      "narrator_ids": [
+        6,
+        12,
+        1249,
+        1375,
+        2167
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:134:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2167",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2167.json"
+  }
+}

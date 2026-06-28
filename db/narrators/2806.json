@@ -1,0 +1,43 @@
+{
+  "id": 2806,
+  "type": "narrator",
+  "path": "/people/narrators/2806",
+  "titles": {
+    "ar": "النَّصْرِ بْنِ قَابُوسَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:72:12"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "219-67-3323-2806": {
+      "narrator_ids": [
+        219,
+        67,
+        3323,
+        2806
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:72:12"
+      ]
+    },
+    "3323-2806": {
+      "narrator_ids": [
+        3323,
+        2806
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:72:12"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2806",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2806.json"
+  }
+}

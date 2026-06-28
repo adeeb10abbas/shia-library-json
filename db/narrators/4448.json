@@ -1,0 +1,55 @@
+{
+  "id": 4448,
+  "type": "narrator",
+  "path": "/people/narrators/4448",
+  "titles": {
+    "ar": "مُوسَى بْنِ سَلَّامٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:127:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "4-59-36-714-4448-268-669": {
+      "narrator_ids": [
+        4,
+        59,
+        36,
+        714,
+        4448,
+        268,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:127:4"
+      ]
+    },
+    "4448-268": {
+      "narrator_ids": [
+        4448,
+        268
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:127:4"
+      ]
+    },
+    "714-4448": {
+      "narrator_ids": [
+        714,
+        4448
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:127:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4448",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4448.json"
+  }
+}

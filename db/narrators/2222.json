@@ -1,0 +1,43 @@
+{
+  "id": 2222,
+  "type": "narrator",
+  "path": "/people/narrators/2222",
+  "titles": {
+    "ar": "أَبِي هَارُونَ مَوْلَى آلِ جَعْدَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:1:26:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "4-5-42-2222": {
+      "narrator_ids": [
+        4,
+        5,
+        42,
+        2222
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:26:2"
+      ]
+    },
+    "42-2222": {
+      "narrator_ids": [
+        42,
+        2222
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:26:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2222",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2222.json"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": 2642,
+  "type": "narrator",
+  "path": "/people/narrators/2642",
+  "titles": {
+    "ar": "الْحُسَيْنِ بْنِ مُحَمَّدٍ النَّوْفَلِيِّ مِنْ وُلْدِ نَوْفَلِ بْنِ عَبْدِ الْمُطَّلِبِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:1:38:1",
+    "/books/tahdhib-al-ahkam:8:5:46"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "11-275-2642": {
+      "narrator_ids": [
+        11,
+        275,
+        2642
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:8:5:46"
+      ]
+    },
+    "19-275-2642": {
+      "narrator_ids": [
+        19,
+        275,
+        2642
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:38:1"
+      ]
+    },
+    "275-2642": {
+      "narrator_ids": [
+        275,
+        2642
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:38:1",
+        "/books/tahdhib-al-ahkam:8:5:46"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2642",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2642.json"
+  }
+}

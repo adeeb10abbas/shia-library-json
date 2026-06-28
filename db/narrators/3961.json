@@ -1,0 +1,98 @@
+{
+  "id": 3961,
+  "type": "narrator",
+  "path": "/people/narrators/3961",
+  "titles": {
+    "ar": "عِيسَى بْنِ رَاشِدٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:3:44:3",
+    "/books/kamil-al-ziyarat:2:65:14",
+    "/books/kitab-al-zuhd:2:12:13"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "113-3961": {
+      "narrator_ids": [
+        113,
+        3961
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:65:14"
+      ]
+    },
+    "19-24-122-599-3961-693-669": {
+      "narrator_ids": [
+        19,
+        24,
+        122,
+        599,
+        3961,
+        693,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:44:3"
+      ]
+    },
+    "36-599-3961-669": {
+      "narrator_ids": [
+        36,
+        599,
+        3961,
+        669
+      ],
+      "verse_paths": [
+        "/books/kitab-al-zuhd:2:12:13"
+      ]
+    },
+    "3961-669": {
+      "narrator_ids": [
+        3961,
+        669
+      ],
+      "verse_paths": [
+        "/books/kitab-al-zuhd:2:12:13"
+      ]
+    },
+    "3961-693": {
+      "narrator_ids": [
+        3961,
+        693
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:44:3"
+      ]
+    },
+    "599-3961": {
+      "narrator_ids": [
+        599,
+        3961
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:44:3",
+        "/books/kitab-al-zuhd:2:12:13"
+      ]
+    },
+    "613-355-113-3961": {
+      "narrator_ids": [
+        613,
+        355,
+        113,
+        3961
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:65:14"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3961",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3961.json"
+  }
+}

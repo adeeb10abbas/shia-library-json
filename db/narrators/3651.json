@@ -1,0 +1,76 @@
+{
+  "id": 3651,
+  "type": "narrator",
+  "path": "/people/narrators/3651",
+  "titles": {
+    "ar": "عُبَيْدِ اللَّهِ بْنِ إِسْحَاقَ الْمَدَائِنِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:3:50:8",
+    "/books/tahdhib-al-ahkam:10:9:141"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "129-3651": {
+      "narrator_ids": [
+        129,
+        3651
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:50:8",
+        "/books/tahdhib-al-ahkam:10:9:141"
+      ]
+    },
+    "3-2-129-3651-184": {
+      "narrator_ids": [
+        3,
+        2,
+        129,
+        3651,
+        184
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:10:9:141"
+      ]
+    },
+    "3651-184": {
+      "narrator_ids": [
+        3651,
+        184
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:10:9:141"
+      ]
+    },
+    "3651-98": {
+      "narrator_ids": [
+        3651,
+        98
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:50:8"
+      ]
+    },
+    "50-2-129-3651-98": {
+      "narrator_ids": [
+        50,
+        2,
+        129,
+        3651,
+        98
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:50:8"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3651",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3651.json"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": 4567,
+  "type": "narrator",
+  "path": "/people/narrators/4567",
+  "titles": {
+    "ar": "يَحْيَى بْنِ عَمْرِو بْنِ خَلِيفَةَ الزَّيَّاتِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:2:83:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "29-4567": {
+      "narrator_ids": [
+        29,
+        4567
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:83:2"
+      ]
+    },
+    "4-29-4567-164-36-58": {
+      "narrator_ids": [
+        4,
+        29,
+        4567,
+        164,
+        36,
+        58
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:83:2"
+      ]
+    },
+    "4567-164": {
+      "narrator_ids": [
+        4567,
+        164
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:83:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4567",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4567.json"
+  }
+}

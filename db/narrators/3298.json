@@ -1,0 +1,45 @@
+{
+  "id": 3298,
+  "type": "narrator",
+  "path": "/people/narrators/3298",
+  "titles": {
+    "ar": "سَابِقِ بْنِ الْوَلِيدِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:120:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "104-3298": {
+      "narrator_ids": [
+        104,
+        3298
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:120:2"
+      ]
+    },
+    "4-59-706-312-104-3298": {
+      "narrator_ids": [
+        4,
+        59,
+        706,
+        312,
+        104,
+        3298
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:120:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3298",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3298.json"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": 4178,
+  "type": "narrator",
+  "path": "/people/narrators/4178",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ الرَّيَّانِ بْنِ الصَّلْتِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:209:6"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2-4178": {
+      "narrator_ids": [
+        2,
+        4178
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:209:6"
+      ]
+    },
+    "3-2-4178-669": {
+      "narrator_ids": [
+        3,
+        2,
+        4178,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:209:6"
+      ]
+    },
+    "4178-669": {
+      "narrator_ids": [
+        4178,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:209:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4178",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4178.json"
+  }
+}

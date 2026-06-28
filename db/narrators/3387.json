@@ -1,0 +1,52 @@
+{
+  "id": 3387,
+  "type": "narrator",
+  "path": "/people/narrators/3387",
+  "titles": {
+    "ar": "سَهْلِ بْنِ الْحَارِثِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:99:39"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "133-376-3387-2675": {
+      "narrator_ids": [
+        133,
+        376,
+        3387,
+        2675
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:99:39"
+      ]
+    },
+    "3387-2675": {
+      "narrator_ids": [
+        3387,
+        2675
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:99:39"
+      ]
+    },
+    "376-3387": {
+      "narrator_ids": [
+        376,
+        3387
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:99:39"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3387",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3387.json"
+  }
+}

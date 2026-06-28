@@ -1,0 +1,180 @@
+{
+  "id": 2568,
+  "type": "narrator",
+  "path": "/people/narrators/2568",
+  "titles": {
+    "ar": "الْحَسَنِ بْنِ عَلِيِّ بْنِ بِنْتِ إِلْيَاسَ"
+  },
+  "versePaths": [
+    "/books/al-istibsar:1:29:5",
+    "/books/al-kafi:1:4:117:5",
+    "/books/man-la-yahduruhu-al-faqih:3:2:21:20",
+    "/books/tahdhib-al-ahkam:1:28:31",
+    "/books/tahdhib-al-ahkam:2:15:245",
+    "/books/tahdhib-al-ahkam:5:1:16",
+    "/books/tahdhib-al-ahkam:8:13:111",
+    "/books/tahdhib-al-ahkam:9:25:17"
+  ],
+  "verseCount": 8,
+  "relations": {},
+  "subchains": {
+    "11-2568": {
+      "narrator_ids": [
+        11,
+        2568
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:15:245",
+        "/books/tahdhib-al-ahkam:8:13:111"
+      ]
+    },
+    "11-2568-31": {
+      "narrator_ids": [
+        11,
+        2568,
+        31
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:15:245"
+      ]
+    },
+    "11-2568-31-60-312": {
+      "narrator_ids": [
+        11,
+        2568,
+        31,
+        60,
+        312
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:8:13:111"
+      ]
+    },
+    "13-2568": {
+      "narrator_ids": [
+        13,
+        2568
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:29:5"
+      ]
+    },
+    "1595-2568": {
+      "narrator_ids": [
+        1595,
+        2568
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:117:5"
+      ]
+    },
+    "237-2568": {
+      "narrator_ids": [
+        237,
+        2568
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:25:17"
+      ]
+    },
+    "237-2568-66-669": {
+      "narrator_ids": [
+        237,
+        2568,
+        66,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:25:17"
+      ]
+    },
+    "2568-31": {
+      "narrator_ids": [
+        2568,
+        31
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:28:31",
+        "/books/tahdhib-al-ahkam:2:15:245",
+        "/books/tahdhib-al-ahkam:5:1:16",
+        "/books/tahdhib-al-ahkam:8:13:111"
+      ]
+    },
+    "2568-31-669": {
+      "narrator_ids": [
+        2568,
+        31,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:1:16"
+      ]
+    },
+    "2568-64": {
+      "narrator_ids": [
+        2568,
+        64
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:117:5"
+      ]
+    },
+    "2568-66": {
+      "narrator_ids": [
+        2568,
+        66
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:25:17"
+      ]
+    },
+    "404-2568": {
+      "narrator_ids": [
+        404,
+        2568
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:3:2:21:20"
+      ]
+    },
+    "5-2568": {
+      "narrator_ids": [
+        5,
+        2568
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:28:31"
+      ]
+    },
+    "5-2568-31-669": {
+      "narrator_ids": [
+        5,
+        2568,
+        31,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:28:31"
+      ]
+    },
+    "59-1595-2568-64": {
+      "narrator_ids": [
+        59,
+        1595,
+        2568,
+        64
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:117:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2568",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2568.json"
+  }
+}

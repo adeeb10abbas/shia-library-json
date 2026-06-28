@@ -1,0 +1,43 @@
+{
+  "id": 2648,
+  "type": "narrator",
+  "path": "/people/narrators/2648",
+  "titles": {
+    "ar": "الْحُسَيْنِ بْنِ مُصْعَبٍ الْهَمْدَانِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:46:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3-2-7-2648": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        2648
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:46:1"
+      ]
+    },
+    "7-2648": {
+      "narrator_ids": [
+        7,
+        2648
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:46:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2648",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2648.json"
+  }
+}

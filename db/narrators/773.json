@@ -1,0 +1,170 @@
+{
+  "id": 773,
+  "type": "narrator",
+  "path": "/people/narrators/773",
+  "titles": {
+    "ar": "جَعْفَرِ بْنِ مُحَمَّدٍ الْكُوفِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:42:2",
+    "/books/al-kafi:1:4:75:2",
+    "/books/al-kafi:1:4:76:3",
+    "/books/al-kafi:1:4:77:12",
+    "/books/al-kafi:1:4:80:1",
+    "/books/kitab-al-ghayba-tusi:49:12"
+  ],
+  "verseCount": 6,
+  "relations": {},
+  "subchains": {
+    "183-773": {
+      "narrator_ids": [
+        183,
+        773
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:80:1"
+      ]
+    },
+    "2-773": {
+      "narrator_ids": [
+        2,
+        773
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:49:12"
+      ]
+    },
+    "2-773-879": {
+      "narrator_ids": [
+        2,
+        773,
+        879
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:49:12"
+      ]
+    },
+    "35-773": {
+      "narrator_ids": [
+        35,
+        773
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:75:2",
+        "/books/al-kafi:1:4:76:3",
+        "/books/al-kafi:1:4:77:12"
+      ]
+    },
+    "35-773-1423-1587": {
+      "narrator_ids": [
+        35,
+        773,
+        1423,
+        1587
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:76:3",
+        "/books/al-kafi:1:4:77:12"
+      ]
+    },
+    "35-773-2878-3795": {
+      "narrator_ids": [
+        35,
+        773,
+        2878,
+        3795
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:75:2"
+      ]
+    },
+    "4-183-773-1030-1121-4605": {
+      "narrator_ids": [
+        4,
+        183,
+        773,
+        1030,
+        1121,
+        4605
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:80:1"
+      ]
+    },
+    "4-616-773-4606-441": {
+      "narrator_ids": [
+        4,
+        616,
+        773,
+        4606,
+        441
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:42:2"
+      ]
+    },
+    "616-773": {
+      "narrator_ids": [
+        616,
+        773
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:42:2"
+      ]
+    },
+    "773-1030": {
+      "narrator_ids": [
+        773,
+        1030
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:80:1"
+      ]
+    },
+    "773-1423": {
+      "narrator_ids": [
+        773,
+        1423
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:76:3",
+        "/books/al-kafi:1:4:77:12"
+      ]
+    },
+    "773-2878": {
+      "narrator_ids": [
+        773,
+        2878
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:75:2"
+      ]
+    },
+    "773-4606": {
+      "narrator_ids": [
+        773,
+        4606
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:42:2"
+      ]
+    },
+    "773-879": {
+      "narrator_ids": [
+        773,
+        879
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:49:12"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/773",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/773.json"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": 4115,
+  "type": "narrator",
+  "path": "/people/narrators/4115",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ إِبْرَاهِيمَ بْنِ مَهْزِيَارَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:125:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "35-4222-4115": {
+      "narrator_ids": [
+        35,
+        4222,
+        4115
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:125:5"
+      ]
+    },
+    "4222-4115": {
+      "narrator_ids": [
+        4222,
+        4115
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:125:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4115",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4115.json"
+  }
+}

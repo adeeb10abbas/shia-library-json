@@ -1,0 +1,55 @@
+{
+  "id": 2461,
+  "type": "narrator",
+  "path": "/people/narrators/2461",
+  "titles": {
+    "ar": "إِسْمَاعِيلَ بْنِ مَرَّارٍ عَنْهُمْ ( عليهم السلام )"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:7:4",
+    "/books/tahdhib-al-ahkam:9:2:51"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "11-3-2-2461": {
+      "narrator_ids": [
+        11,
+        3,
+        2,
+        2461
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:2:51"
+      ]
+    },
+    "2-2461": {
+      "narrator_ids": [
+        2,
+        2461
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:7:4",
+        "/books/tahdhib-al-ahkam:9:2:51"
+      ]
+    },
+    "3-2-2461": {
+      "narrator_ids": [
+        3,
+        2,
+        2461
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:7:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2461",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2461.json"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": 4277,
+  "type": "narrator",
+  "path": "/people/narrators/4277",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ عَلِيِّ بْنِ إِبْرَاهِيمَ بْنِ مُوسَى بْنِ جَعْفَرٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:124:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "35-4113-4277": {
+      "narrator_ids": [
+        35,
+        4113,
+        4277
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:124:3"
+      ]
+    },
+    "4113-4277": {
+      "narrator_ids": [
+        4113,
+        4277
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:124:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4277",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4277.json"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": 2759,
+  "type": "narrator",
+  "path": "/people/narrators/2759",
+  "titles": {
+    "ar": "الْفُضَيْلِ بْنِ عِيَاضٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:122:7"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2759-669": {
+      "narrator_ids": [
+        2759,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:122:7"
+      ]
+    },
+    "3-2-82-304-2759-669": {
+      "narrator_ids": [
+        3,
+        2,
+        82,
+        304,
+        2759,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:122:7"
+      ]
+    },
+    "304-2759": {
+      "narrator_ids": [
+        304,
+        2759
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:122:7"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2759",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2759.json"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 3999,
+  "type": "narrator",
+  "path": "/people/narrators/3999",
+  "titles": {
+    "ar": "فَسَّرَهُنَّ"
+  },
+  "versePaths": [
+    "/books/al-istibsar:1:171:2",
+    "/books/al-kafi:3:4:20:6"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "1471-2-76-3999": {
+      "narrator_ids": [
+        1471,
+        2,
+        76,
+        3999
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:20:6"
+      ]
+    },
+    "76-3999": {
+      "narrator_ids": [
+        76,
+        3999
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:20:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3999",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3999.json"
+  }
+}

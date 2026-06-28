@@ -1,0 +1,55 @@
+{
+  "id": 3276,
+  "type": "narrator",
+  "path": "/people/narrators/3276",
+  "titles": {
+    "ar": "زَكَرِيَّا بْنِ مُحَمَّدٍ الْأَزْدِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:55:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "133-78-12-67-763-3276-369": {
+      "narrator_ids": [
+        133,
+        78,
+        12,
+        67,
+        763,
+        3276,
+        369
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:55:5"
+      ]
+    },
+    "3276-369": {
+      "narrator_ids": [
+        3276,
+        369
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:55:5"
+      ]
+    },
+    "763-3276": {
+      "narrator_ids": [
+        763,
+        3276
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:55:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3276",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3276.json"
+  }
+}

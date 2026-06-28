@@ -1,0 +1,54 @@
+{
+  "id": 3825,
+  "type": "narrator",
+  "path": "/people/narrators/3825",
+  "titles": {
+    "ar": "عَلِيِّ بْنِ مَيْمُونٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:85:12",
+    "/books/kamil-al-ziyarat:2:78:6"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "20-25-457-3825-126": {
+      "narrator_ids": [
+        20,
+        25,
+        457,
+        3825,
+        126
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:85:12"
+      ]
+    },
+    "3825-126": {
+      "narrator_ids": [
+        3825,
+        126
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:85:12"
+      ]
+    },
+    "457-3825": {
+      "narrator_ids": [
+        457,
+        3825
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:85:12"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3825",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3825.json"
+  }
+}

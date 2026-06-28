@@ -1,0 +1,47 @@
+{
+  "id": 2864,
+  "type": "narrator",
+  "path": "/people/narrators/2864",
+  "titles": {
+    "ar": "بَدْرِ بْنِ الْوَلِيدِ الْخَثْعَمِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:33:12"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "128-2864": {
+      "narrator_ids": [
+        128,
+        2864
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:33:12"
+      ]
+    },
+    "4-5-99-21-65-375-128-2864": {
+      "narrator_ids": [
+        4,
+        5,
+        99,
+        21,
+        65,
+        375,
+        128,
+        2864
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:33:12"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2864",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2864.json"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 4202,
+  "type": "narrator",
+  "path": "/people/narrators/4202",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ بُهْلُولٍ الْعَبْدِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:106:18"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "497-4202": {
+      "narrator_ids": [
+        497,
+        4202
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:106:18"
+      ]
+    },
+    "50-2-76-497-4202": {
+      "narrator_ids": [
+        50,
+        2,
+        76,
+        497,
+        4202
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:106:18"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4202",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4202.json"
+  }
+}

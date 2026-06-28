@@ -1,0 +1,385 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:7:3:6",
+  "chapter": {
+    "path": "/books/al-kafi:7:3:6",
+    "titles": {
+      "ar": "باب صِفَةِ حَدِّ الزَّانِي",
+      "en": "Chapter 6 – Desrciption of the Penalty (Hadd) of the adulterer"
+    }
+  },
+  "count": 3,
+  "records": [
+    {
+      "id": "al-kafi:7:3:6:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:3:6:1",
+        "parts": [
+          7,
+          3,
+          6,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 3,
+        "chapter": 6,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:3:6",
+        "titles": {
+          "ar": "باب صِفَةِ حَدِّ الزَّانِي",
+          "en": "Chapter 6 – Desrciption of the Penalty (Hadd) of the adulterer"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " يُضْرَبُ الرَّجُلُ الْحَدَّ قَائِماً وَ الْمَرْأَةُ قَاعِدَةً وَ يُضْرَبُ كُلُّ عُضْوٍ وَ يُتْرَكُ الرَّأْسُ وَ الْمَذَاكِيرُ ."
+        ],
+        "text": "يُضْرَبُ الرَّجُلُ الْحَدَّ قَائِماً وَ الْمَرْأَةُ قَاعِدَةً وَ يُضْرَبُ كُلُّ عُضْوٍ وَ يُتْرَكُ الرَّأْسُ وَ الْمَذَاكِيرُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad, form Ali Bin Al Hakam, from Aban, from Zurara, ",
+            "Abu Ja’far<sup>asws</sup> has said: ‘The man would be whipped by the Penalty (<span class=\"iTxt\">Hadd</span>) while standing, and the woman whilst seated, and every body part can be whipped except for the head and the sexual parts’."
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad, form Ali Bin Al Hakam, from Aban, from Zurara,\n\nAbu Ja’far<sup>asws</sup> has said: ‘The man would be whipped by the Penalty (<span class=\"iTxt\">Hadd</span>) while standing, and the woman whilst seated, and every body part can be whipped except for the head and the sexual parts’."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنْ عَلِيِّ بْنِ الْحَكَمِ عَنْ أَبَانٍ عَنْ زُرَارَةَ عَنْ أَبِي جَعْفَرٍ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيِّ بْنِ الْحَكَمِ",
+            "path": "/people/narrators/15"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبَانٍ",
+            "path": "/people/narrators/46"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "زُرَارَةَ",
+            "path": "/people/narrators/18"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي جَعْفَرٍ ( عليه السلام )",
+            "path": "/people/narrators/9"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/5",
+          "/people/narrators/15",
+          "/people/narrators/46",
+          "/people/narrators/18",
+          "/people/narrators/9"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:7:3:21:8",
+          "/books/al-kafi:7:3:5:8"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:3:6:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/3/6/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:3:6:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:3:6:2",
+        "parts": [
+          7,
+          3,
+          6,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 3,
+        "chapter": 6,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:3:6",
+        "titles": {
+          "ar": "باب صِفَةِ حَدِّ الزَّانِي",
+          "en": "Chapter 6 – Desrciption of the Penalty (Hadd) of the adulterer"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَأَلْتُ أَبَا إِبْرَاهِيمَ ( عليه السلام ) عَنِ الزَّانِي كَيْفَ يُجْلَدُ قَالَ أَشَدَّ الْجَلْدِ قُلْتُ فَمِنْ فَوْقِ ثِيَابِهِ قَالَ بَلْ يُخْلَعُ ثِيَابُهُ ",
+          "قُلْتُ فَالْمُفْتَرِي قَالَ يُضْرَبُ بَيْنَ الضَّرْبَيْنِ يُضْرَبُ جَسَدُهُ كُلُّهُ فَوْقَ ثِيَابِهِ ."
+        ],
+        "text": "سَأَلْتُ أَبَا إِبْرَاهِيمَ ( عليه السلام ) عَنِ الزَّانِي كَيْفَ يُجْلَدُ قَالَ أَشَدَّ الْجَلْدِ قُلْتُ فَمِنْ فَوْقِ ثِيَابِهِ قَالَ بَلْ يُخْلَعُ ثِيَابُهُ\n\nقُلْتُ فَالْمُفْتَرِي قَالَ يُضْرَبُ بَيْنَ الضَّرْبَيْنِ يُضْرَبُ جَسَدُهُ كُلُّهُ فَوْقَ ثِيَابِهِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from Muhammad Bin Isa Bin Ubeyd, from Yunus, from Is’gaq Bin Ammar who said, ",
+            "‘I asked Abu Ibrahim<sup>asws</sup> (7<sup>th</sup> Imam<sup>asws</sup>) about the adulterer, ‘How should he be whipped?’ He<sup>asws</sup> said: ‘The most intense of the lashing’. I said, ‘So, from the top of his clothes?’ He<sup>asws</sup> said: ‘But, his clothes (robe, shirt, vest etc.) are taken off’. ",
+            "I said, ‘So, for the forger (of lies)?’ He<sup>asws</sup> said: ‘He would be whipped between the two lashings (intense and softly). His whole body would be whipped, over his clothes’."
+          ],
+          "text": "Ali Bin Ibrahim, from Muhammad Bin Isa Bin Ubeyd, from Yunus, from Is’gaq Bin Ammar who said,\n\n‘I asked Abu Ibrahim<sup>asws</sup> (7<sup>th</sup> Imam<sup>asws</sup>) about the adulterer, ‘How should he be whipped?’ He<sup>asws</sup> said: ‘The most intense of the lashing’. I said, ‘So, from the top of his clothes?’ He<sup>asws</sup> said: ‘But, his clothes (robe, shirt, vest etc.) are taken off’.\n\nI said, ‘So, for the forger (of lies)?’ He<sup>asws</sup> said: ‘He would be whipped between the two lashings (intense and softly). His whole body would be whipped, over his clothes’."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ مُحَمَّدِ بْنِ عِيسَى بْنِ عُبَيْدٍ عَنْ يُونُسَ عَنْ إِسْحَاقَ بْنِ عَمَّارٍ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ عِيسَى بْنِ عُبَيْدٍ",
+            "path": "/people/narrators/135"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "يُونُسَ",
+            "path": "/people/narrators/26"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "إِسْحَاقَ بْنِ عَمَّارٍ",
+            "path": "/people/narrators/44"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/135",
+          "/people/narrators/26",
+          "/people/narrators/44"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:3:6:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/3/6/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:3:6:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:3:6:3",
+        "parts": [
+          7,
+          3,
+          6,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 3,
+        "chapter": 6,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:3:6",
+        "titles": {
+          "ar": "باب صِفَةِ حَدِّ الزَّانِي",
+          "en": "Chapter 6 – Desrciption of the Penalty (Hadd) of the adulterer"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَأَلْتُ أَبَا إِبْرَاهِيمَ ( عليه السلام ) عَنِ الزَّانِي كَيْفَ يُجْلَدُ قَالَ أَشَدَّ الْجَلْدِ فَقُلْتُ فَوْقَ الثِّيَابِ فَقَالَ بَلْ يُجَرَّدُ ."
+        ],
+        "text": "سَأَلْتُ أَبَا إِبْرَاهِيمَ ( عليه السلام ) عَنِ الزَّانِي كَيْفَ يُجْلَدُ قَالَ أَشَدَّ الْجَلْدِ فَقُلْتُ فَوْقَ الثِّيَابِ فَقَالَ بَلْ يُجَرَّدُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Abu Ali Al Ashary, from Muhammad Bin Abdul Jabbar, from Safwan Bin Yahya, from Is’haq Bin Ammar who said, ",
+            "‘I asked Abu Ibrahim<sup>asws</sup> about the adulterer, how he should be whipped. He<sup>asws</sup> said: ‘The most intense of the whipping’. So I said, ‘Over his clothes?’ He<sup>asws</sup> said: ‘But, bare (back)’."
+          ],
+          "text": "Abu Ali Al Ashary, from Muhammad Bin Abdul Jabbar, from Safwan Bin Yahya, from Is’haq Bin Ammar who said,\n\n‘I asked Abu Ibrahim<sup>asws</sup> about the adulterer, how he should be whipped. He<sup>asws</sup> said: ‘The most intense of the whipping’. So I said, ‘Over his clothes?’ He<sup>asws</sup> said: ‘But, bare (back)’."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "أَبُو عَلِيٍّ الْأَشْعَرِيُّ عَنْ مُحَمَّدِ بْنِ عَبْدِ الْجَبَّارِ عَنْ صَفْوَانَ بْنِ يَحْيَى عَنْ إِسْحَاقَ بْنِ عَمَّارٍ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "أَبُو عَلِيٍّ الْأَشْعَرِيُّ",
+            "path": "/people/narrators/19"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ عَبْدِ الْجَبَّارِ",
+            "path": "/people/narrators/24"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "صَفْوَانَ بْنِ يَحْيَى",
+            "path": "/people/narrators/30"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "إِسْحَاقَ بْنِ عَمَّارٍ",
+            "path": "/people/narrators/44"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/19",
+          "/people/narrators/24",
+          "/people/narrators/30",
+          "/people/narrators/44"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-istibsar:4:38:77",
+          "/books/al-kafi:4:3:131:8",
+          "/books/al-kafi:4:3:135:1",
+          "/books/al-kafi:4:3:148:2",
+          "/books/al-kafi:4:3:154:1",
+          "/books/al-kafi:4:3:159:1",
+          "/books/al-kafi:4:3:167:5",
+          "/books/al-kafi:4:3:177:2",
+          "/books/al-kafi:4:3:41:1",
+          "/books/al-kafi:4:3:59:4",
+          "/books/al-kafi:4:3:76:9",
+          "/books/al-kafi:4:3:95:6",
+          "/books/al-kafi:5:2:115:7",
+          "/books/al-kafi:5:3:152:1",
+          "/books/al-kafi:7:3:48:1",
+          "/books/tahdhib-al-ahkam:10:2:24"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:3:6:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/3/6/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

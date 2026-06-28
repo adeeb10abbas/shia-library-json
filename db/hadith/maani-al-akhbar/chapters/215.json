@@ -1,0 +1,86 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "maani-al-akhbar",
+  "chapterPath": "/books/maani-al-akhbar:215",
+  "chapter": {
+    "path": "/books/maani-al-akhbar:215",
+    "titles": {
+      "en": "The meaning of epochs"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "maani-al-akhbar:215:1",
+      "type": "hadith",
+      "book": {
+        "slug": "maani-al-akhbar",
+        "titles": {
+          "ar": "معاني الأخبار",
+          "en": "Ma'ani al-Akhbar"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/maani-al-akhbar:215:1",
+        "parts": [
+          215,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 215,
+        "book": 1
+      },
+      "chapter": {
+        "path": "/books/maani-al-akhbar:215",
+        "titles": {
+          "en": "The meaning of epochs"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا سعد بن عبد الله، عن يعقوب بن يزيد، عن جعفر بن محمد بن عقبة، عمن رواه، عن أبي عبد الله عليه السلام في قول الله عز وجل: \" لا بثين فيها أحقابا   \" قال: الأحقاب ثمانية أحقاب والحقبة  ثمانون سنة، والسنة ثلاثمائة وستون يوما، واليوم كألف سنة مما تعدون."
+        ],
+        "text": ": حدثنا سعد بن عبد الله، عن يعقوب بن يزيد، عن جعفر بن محمد بن عقبة، عمن رواه، عن أبي عبد الله عليه السلام في قول الله عز وجل: \" لا بثين فيها أحقابا   \" قال: الأحقاب ثمانية أحقاب والحقبة  ثمانون سنة، والسنة ثلاثمائة وستون يوما، واليوم كألف سنة مما تعدون."
+      },
+      "translations": {
+        "en.basel-kadem": {
+          "segments": [
+            "1.\tMy father, may Allah grant him mercy, said: We were told by Sa’d bin Abdullah, from Ya’qoub bin Yazid, from Ja’far bin Muhammed bin ‘Uqba, from the one he narrated, from Abu Abdillah, peace be upon him, with regards to the saying of Allah, Exalted and Glorious is He: «Dwelling in it for epochs» <a href=\"/books/quran:78#h24\">[78:24]</a>. He said: The epochs are eight epochs, and one epoch is (consisting of) eighty years, and one year is three hundred and sixty days, and one day is like a thousand years of what you count."
+          ],
+          "text": "1.\tMy father, may Allah grant him mercy, said: We were told by Sa’d bin Abdullah, from Ya’qoub bin Yazid, from Ja’far bin Muhammed bin ‘Uqba, from the one he narrated, from Abu Abdillah, peace be upon him, with regards to the saying of Allah, Exalted and Glorious is He: «Dwelling in it for epochs» <a href=\"/books/quran:78#h24\">[78:24]</a>. He said: The epochs are eight epochs, and one epoch is (consisting of) eighty years, and one year is three hundred and sixty days, and one day is like a thousand years of what you count."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "أبي - رحمه الله - قال",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "أبي - رحمه الله - قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {
+        "Mentions": [
+          "/books/quran:78:24"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/maani-al-akhbar:215:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/maani-al-akhbar/215/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/28/1/215/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

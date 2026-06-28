@@ -1,0 +1,88 @@
+{
+  "id": 1802,
+  "type": "narrator",
+  "path": "/people/narrators/1802",
+  "titles": {
+    "ar": "إِبْرَاهِيمَ بْنِ أَبِي بَكْرِ بْنِ أَبِي سَمَّاكٍ"
+  },
+  "versePaths": [
+    "/books/al-istibsar:2:42:1",
+    "/books/al-kafi:8:1:43:77",
+    "/books/tahdhib-al-ahkam:4:64:21"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "11-1802": {
+      "narrator_ids": [
+        11,
+        1802
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:77"
+      ]
+    },
+    "11-1802-178-369-669": {
+      "narrator_ids": [
+        11,
+        1802,
+        178,
+        369,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:77"
+      ]
+    },
+    "1802-178": {
+      "narrator_ids": [
+        1802,
+        178
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:77"
+      ]
+    },
+    "1802-536": {
+      "narrator_ids": [
+        1802,
+        536
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:2:42:1",
+        "/books/tahdhib-al-ahkam:4:64:21"
+      ]
+    },
+    "645-1802": {
+      "narrator_ids": [
+        645,
+        1802
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:2:42:1",
+        "/books/tahdhib-al-ahkam:4:64:21"
+      ]
+    },
+    "645-1802-536-44-669": {
+      "narrator_ids": [
+        645,
+        1802,
+        536,
+        44,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:2:42:1",
+        "/books/tahdhib-al-ahkam:4:64:21"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1802",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1802.json"
+  }
+}

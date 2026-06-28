@@ -1,0 +1,54 @@
+{
+  "id": 4626,
+  "type": "narrator",
+  "path": "/people/narrators/4626",
+  "titles": {
+    "ar": "يُونُسَ بْنِ عِمْرَانَ بْنِ مِيثَمٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:33:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "4-29-533-4626-48-669": {
+      "narrator_ids": [
+        4,
+        29,
+        533,
+        4626,
+        48,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:33:1"
+      ]
+    },
+    "4626-48": {
+      "narrator_ids": [
+        4626,
+        48
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:33:1"
+      ]
+    },
+    "533-4626": {
+      "narrator_ids": [
+        533,
+        4626
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:33:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4626",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4626.json"
+  }
+}

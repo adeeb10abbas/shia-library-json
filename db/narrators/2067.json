@@ -1,0 +1,96 @@
+{
+  "id": 2067,
+  "type": "narrator",
+  "path": "/people/narrators/2067",
+  "titles": {
+    "ar": "أَبِي جَمِيلَةَ مُفَضَّلِ بْنِ صَالِحٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:3:87:1",
+    "/books/tahdhib-al-ahkam:10:23:6"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "2067-296": {
+      "narrator_ids": [
+        2067,
+        296
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:10:23:6"
+      ]
+    },
+    "2067-72": {
+      "narrator_ids": [
+        2067,
+        72
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:87:1"
+      ]
+    },
+    "3-2-129-6-8-39-63-2067-72-305-3-27-26-391-305-3391": {
+      "narrator_ids": [
+        3,
+        2,
+        129,
+        6,
+        8,
+        39,
+        63,
+        2067,
+        72,
+        305,
+        3,
+        27,
+        26,
+        391,
+        305,
+        3391
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:87:1"
+      ]
+    },
+    "39-2067": {
+      "narrator_ids": [
+        39,
+        2067
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:10:23:6"
+      ]
+    },
+    "50-2-39-2067-296-669": {
+      "narrator_ids": [
+        50,
+        2,
+        39,
+        2067,
+        296,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:10:23:6"
+      ]
+    },
+    "63-2067": {
+      "narrator_ids": [
+        63,
+        2067
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:87:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2067",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2067.json"
+  }
+}

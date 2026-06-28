@@ -1,0 +1,211 @@
+{
+  "id": 1064,
+  "type": "narrator",
+  "path": "/people/narrators/1064",
+  "titles": {
+    "ar": "ثَابِتٍ"
+  },
+  "versePaths": [
+    "/books/al-istibsar:1:125:34",
+    "/books/al-kafi:2:2:20:20",
+    "/books/al-kafi:2:2:55:2",
+    "/books/al-kafi:7:2:54:10",
+    "/books/kitab-al-ghayba-tusi:27:11",
+    "/books/tahdhib-al-ahkam:2:13:49",
+    "/books/tahdhib-al-ahkam:7:7:26",
+    "/books/tahdhib-al-ahkam:8:13:107",
+    "/books/tahdhib-al-ahkam:9:31:10"
+  ],
+  "verseCount": 9,
+  "relations": {},
+  "subchains": {
+    "1064-14": {
+      "narrator_ids": [
+        1064,
+        14
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:20:20",
+        "/books/al-kafi:7:2:54:10",
+        "/books/tahdhib-al-ahkam:8:13:107",
+        "/books/tahdhib-al-ahkam:9:31:10"
+      ]
+    },
+    "1064-14-669": {
+      "narrator_ids": [
+        1064,
+        14,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:8:13:107"
+      ]
+    },
+    "1064-2419": {
+      "narrator_ids": [
+        1064,
+        2419
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:55:2"
+      ]
+    },
+    "1064-2420": {
+      "narrator_ids": [
+        1064,
+        2420
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:27:11"
+      ]
+    },
+    "1064-326": {
+      "narrator_ids": [
+        1064,
+        326
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:7:26"
+      ]
+    },
+    "1064-669": {
+      "narrator_ids": [
+        1064,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:125:34",
+        "/books/tahdhib-al-ahkam:2:13:49"
+      ]
+    },
+    "11-1121-273-1064-326-669": {
+      "narrator_ids": [
+        11,
+        1121,
+        273,
+        1064,
+        326,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:7:26"
+      ]
+    },
+    "11-1121-273-1064-669": {
+      "narrator_ids": [
+        11,
+        1121,
+        273,
+        1064,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:125:34"
+      ]
+    },
+    "183-1121-273-1064-669": {
+      "narrator_ids": [
+        183,
+        1121,
+        273,
+        1064,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:13:49"
+      ]
+    },
+    "19-187-273-1064-14-669": {
+      "narrator_ids": [
+        19,
+        187,
+        273,
+        1064,
+        14,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:2:54:10",
+        "/books/tahdhib-al-ahkam:9:31:10"
+      ]
+    },
+    "19-766-273-1064-14-669": {
+      "narrator_ids": [
+        19,
+        766,
+        273,
+        1064,
+        14,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:20:20"
+      ]
+    },
+    "273-1064": {
+      "narrator_ids": [
+        273,
+        1064
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:125:34",
+        "/books/al-kafi:2:2:20:20",
+        "/books/al-kafi:7:2:54:10",
+        "/books/tahdhib-al-ahkam:2:13:49",
+        "/books/tahdhib-al-ahkam:7:7:26",
+        "/books/tahdhib-al-ahkam:9:31:10"
+      ]
+    },
+    "277-1064": {
+      "narrator_ids": [
+        277,
+        1064
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:27:11"
+      ]
+    },
+    "4154-277-1064-2420-369": {
+      "narrator_ids": [
+        4154,
+        277,
+        1064,
+        2420,
+        369
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:27:11"
+      ]
+    },
+    "6-8-185-79-1064-2419": {
+      "narrator_ids": [
+        6,
+        8,
+        185,
+        79,
+        1064,
+        2419
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:55:2"
+      ]
+    },
+    "79-1064": {
+      "narrator_ids": [
+        79,
+        1064
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:55:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1064",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1064.json"
+  }
+}

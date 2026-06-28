@@ -1,0 +1,128 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "thawab-al-amal",
+  "chapterPath": "/books/thawab-al-amal:2:181",
+  "chapter": {
+    "path": "/books/thawab-al-amal:2:181",
+    "titles": {
+      "en": "Reward of reciting Surah Ibrahim and Surah Hijr"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "thawab-al-amal:2:181:1",
+      "type": "hadith",
+      "book": {
+        "slug": "thawab-al-amal",
+        "titles": {
+          "ar": "ثواب الأعمال وعقاب الأعمال",
+          "en": "Thawab al-A'mal wa 'Iqab al-A'mal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/thawab-al-amal:2:181:1",
+        "parts": [
+          2,
+          181,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 181,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/thawab-al-amal:2:181",
+        "titles": {
+          "en": "Reward of reciting Surah Ibrahim and Surah Hijr"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": مَنْ قَرَأَ سُورَهَ إِبْرَاهِیمَ وَ الْحِجْرِ فِی رَکْعَتَیْنِ جَمِیعاً فِی کُلِّ جُمُعَهٍ لَمْ یُصِبْهُ فَقْرٌ أَبَداً وَ لَا جُنُونٌ وَ لَا بَلْوَی."
+        ],
+        "text": ": مَنْ قَرَأَ سُورَهَ إِبْرَاهِیمَ وَ الْحِجْرِ فِی رَکْعَتَیْنِ جَمِیعاً فِی کُلِّ جُمُعَهٍ لَمْ یُصِبْهُ فَقْرٌ أَبَداً وَ لَا جُنُونٌ وَ لَا بَلْوَی."
+      },
+      "translations": {
+        "en.sayed-athar-husain-rizvi-&-sayed-maqsood-athar": {
+          "segments": [
+            "1. From the previous chain from al-Hassan from Abi al-Maghraa’ from ’Anbasa b. Mus’ab from Abi Abdillah (a.s.) who said: “One who recites Surah Ibrahim and Surah Hijr in two rakats on Friday would never get involved in poverty, insanity and calamity.”"
+          ],
+          "text": "1. From the previous chain from al-Hassan from Abi al-Maghraa’ from ’Anbasa b. Mus’ab from Abi Abdillah (a.s.) who said: “One who recites Surah Ibrahim and Surah Hijr in two rakats on Friday would never get involved in poverty, insanity and calamity.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "بِهَذَا الْإِسْنَادِ عَنِ الْحَسَنِ عَنْ أَبِی الْمَغْرَاءِ عَنْ عَنْبَسَهَ بْنِ مُصْعَبٍ عَنْ أَبِی عَبْدِ اللَّهِ ع قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "بِهَذَا الْإِسْنَادِ",
+            "path": "/people/narrators/77"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحَسَنِ",
+            "path": "/people/narrators/417"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِی الْمَغْرَاءِ",
+            "path": "/people/narrators/147"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَنْبَسَهَ بْنِ مُصْعَبٍ",
+            "path": "/people/narrators/449"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِی عَبْدِ اللَّهِ ع",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/77",
+          "/people/narrators/417",
+          "/people/narrators/147",
+          "/people/narrators/449",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/thawab-al-amal:2:181:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/thawab-al-amal/2/181/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/23/2/181/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

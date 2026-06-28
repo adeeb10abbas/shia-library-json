@@ -1,0 +1,53 @@
+{
+  "id": 2032,
+  "type": "narrator",
+  "path": "/people/narrators/2032",
+  "titles": {
+    "ar": "أَبِي أَيُّوبَ سُلَيْمَانَ بْنِ مُقَاتِلٍ الْمَدِينِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:29:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1579-2032": {
+      "narrator_ids": [
+        1579,
+        2032
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:29:1"
+      ]
+    },
+    "2032-1462": {
+      "narrator_ids": [
+        2032,
+        1462
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:29:1"
+      ]
+    },
+    "6-12-1579-2032-1462": {
+      "narrator_ids": [
+        6,
+        12,
+        1579,
+        2032,
+        1462
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:29:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2032",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2032.json"
+  }
+}

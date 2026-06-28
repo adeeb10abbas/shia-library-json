@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "mujam-al-ahadith-al-mutabara",
+  "chapterPath": "/books/mujam-al-ahadith-al-mutabara:3:7",
+  "chapter": {
+    "path": "/books/mujam-al-ahadith-al-mutabara:3:7",
+    "titles": {
+      "en": "Ishaq b. Ammar"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "mujam-al-ahadith-al-mutabara:3:7:1",
+      "type": "hadith",
+      "book": {
+        "slug": "mujam-al-ahadith-al-mutabara",
+        "titles": {
+          "ar": "معجم الأحاديث المعتبرة",
+          "en": "Mu'jam al-Ahadith al-Mu'tabara"
+        },
+        "author": {
+          "en": "Muhammad Asif al-Muhsini"
+        }
+      },
+      "path": {
+        "source": "/books/mujam-al-ahadith-al-mutabara:3:7:1",
+        "parts": [
+          3,
+          7,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 7,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/mujam-al-ahadith-al-mutabara:3:7",
+        "titles": {
+          "en": "Ishaq b. Ammar"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": قلت لأبي عبد الله عليه السلام إن لنا أموالا و نحن نعامل الناس، و أخاف إن حدث حدث أن تغرق أموالنا قال: فقال له: اجمع مالك في كل شهر ربيع، قال علي بن إسماعيل: فمات إسحاق في شهر ربيع"
+        ],
+        "text": ": قلت لأبي عبد الله عليه السلام إن لنا أموالا و نحن نعامل الناس، و أخاف إن حدث حدث أن تغرق أموالنا قال: فقال له: اجمع مالك في كل شهر ربيع، قال علي بن إسماعيل: فمات إسحاق في شهر ربيع"
+      },
+      "translations": {
+        "en.ammaar-muslim": {
+          "segments": [
+            "1. [1/123] Rijal al-Kashshi: Hamduwayh and Ibrahim from Ayyub from Ibn al-Mughira from Ali b. Ismail b. Ammar from Ishaq who said: I said to Abi Abdillah عليه السلام – we have some wealth and we deal with the people [lend it to them], and I fear that if an event occurs [I die] our wealth will perish [in the hands of the people], he said: recover [re-collect] your wealth every month of Rabi`, Ali b. Ismail said: and Ishaq died in the month of Rabi` [thus the wisdom of the Imam’s instruction was comprehended]."
+          ],
+          "text": "1. [1/123] Rijal al-Kashshi: Hamduwayh and Ibrahim from Ayyub from Ibn al-Mughira from Ali b. Ismail b. Ammar from Ishaq who said: I said to Abi Abdillah عليه السلام – we have some wealth and we deal with the people [lend it to them], and I fear that if an event occurs [I die] our wealth will perish [in the hands of the people], he said: recover [re-collect] your wealth every month of Rabi`, Ali b. Ismail said: and Ishaq died in the month of Rabi` [thus the wisdom of the Imam’s instruction was comprehended]."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "[1/123] رجال الكشي: حمدويه و إبراهيم، عن أيوب، عن ابن المغيرة، عن علي بن إسماعيل بن عمار، عن إسحاق قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "[1/123] رجال الكشي: حمدويه"
+          },
+          {
+            "kind": "plain",
+            "text": " و "
+          },
+          {
+            "kind": "narrator",
+            "text": "إبراهيم،",
+            "path": "/people/narrators/391"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أيوب،",
+            "path": "/people/narrators/884"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابن المغيرة،",
+            "path": "/people/narrators/741"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "علي بن إسماعيل بن عمار،",
+            "path": "/people/narrators/3733"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "إسحاق قال",
+            "path": "/people/narrators/380"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/391",
+          "/people/narrators/884",
+          "/people/narrators/741",
+          "/people/narrators/3733",
+          "/people/narrators/380"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/mujam-al-ahadith-al-mutabara:3:7:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/mujam-al-ahadith-al-mutabara/3/7/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/9/3/7/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

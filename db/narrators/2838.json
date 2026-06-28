@@ -1,0 +1,44 @@
+{
+  "id": 2838,
+  "type": "narrator",
+  "path": "/people/narrators/2838",
+  "titles": {
+    "ar": "أُمِّ أَحْمَدَ بِنْتِ مُوسَى"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:1:28:6"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1395-2838": {
+      "narrator_ids": [
+        1395,
+        2838
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:1:28:6"
+      ]
+    },
+    "6-5-577-1395-2838": {
+      "narrator_ids": [
+        6,
+        5,
+        577,
+        1395,
+        2838
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:1:28:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2838",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2838.json"
+  }
+}

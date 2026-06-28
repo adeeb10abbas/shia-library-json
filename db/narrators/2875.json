@@ -1,0 +1,42 @@
+{
+  "id": 2875,
+  "type": "narrator",
+  "path": "/people/narrators/2875",
+  "titles": {
+    "ar": "بِسْطَامَ بْنِ مُرَّةَ الْفَارِسِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:69:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "20-25-2875": {
+      "narrator_ids": [
+        20,
+        25,
+        2875
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:69:1"
+      ]
+    },
+    "25-2875": {
+      "narrator_ids": [
+        25,
+        2875
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:69:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2875",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2875.json"
+  }
+}

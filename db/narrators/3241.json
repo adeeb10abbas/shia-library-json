@@ -1,0 +1,53 @@
+{
+  "id": 3241,
+  "type": "narrator",
+  "path": "/people/narrators/3241",
+  "titles": {
+    "ar": "رُزَيْقٍ أَبِي الْعَبَّاسِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:40:12"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "143-3241": {
+      "narrator_ids": [
+        143,
+        3241
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:40:12"
+      ]
+    },
+    "3-157-143-3241-669": {
+      "narrator_ids": [
+        3,
+        157,
+        143,
+        3241,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:40:12"
+      ]
+    },
+    "3241-669": {
+      "narrator_ids": [
+        3241,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:40:12"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3241",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3241.json"
+  }
+}

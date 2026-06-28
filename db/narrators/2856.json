@@ -1,0 +1,52 @@
+{
+  "id": 2856,
+  "type": "narrator",
+  "path": "/people/narrators/2856",
+  "titles": {
+    "ar": "أَيُّوبَ بْنِ نُوحٍ أَوْ بَعْضُ أَصْحَابِهِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:197:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2856-884": {
+      "narrator_ids": [
+        2856,
+        884
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:197:3"
+      ]
+    },
+    "3-2856": {
+      "narrator_ids": [
+        3,
+        2856
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:197:3"
+      ]
+    },
+    "3-2856-884-30": {
+      "narrator_ids": [
+        3,
+        2856,
+        884,
+        30
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:197:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2856",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2856.json"
+  }
+}

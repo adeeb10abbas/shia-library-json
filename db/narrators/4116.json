@@ -1,0 +1,53 @@
+{
+  "id": 4116,
+  "type": "narrator",
+  "path": "/people/narrators/4116",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ أَبِي الْأَصْبَغِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:1:19:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "4116-2940": {
+      "narrator_ids": [
+        4116,
+        2940
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:19:5"
+      ]
+    },
+    "6-8-4116-2940-669": {
+      "narrator_ids": [
+        6,
+        8,
+        4116,
+        2940,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:19:5"
+      ]
+    },
+    "8-4116": {
+      "narrator_ids": [
+        8,
+        4116
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:19:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4116",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4116.json"
+  }
+}

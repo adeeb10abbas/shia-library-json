@@ -1,0 +1,117 @@
+{
+  "id": 3141,
+  "type": "narrator",
+  "path": "/people/narrators/3141",
+  "titles": {
+    "ar": "خُزَيْمَةَ بْنِ يَقْطِينٍ"
+  },
+  "versePaths": [
+    "/books/al-istibsar:4:38:57",
+    "/books/al-kafi:7:2:7:7",
+    "/books/tahdhib-al-ahkam:9:23:8",
+    "/books/tahdhib-al-ahkam:9:26:42",
+    "/books/tahdhib-al-ahkam:9:26:59"
+  ],
+  "verseCount": 5,
+  "relations": {},
+  "subchains": {
+    "19-24-30-3141-70-420-669": {
+      "narrator_ids": [
+        19,
+        24,
+        30,
+        3141,
+        70,
+        420,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:2:7:7"
+      ]
+    },
+    "30-3141": {
+      "narrator_ids": [
+        30,
+        3141
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:4:38:57",
+        "/books/al-kafi:7:2:7:7",
+        "/books/tahdhib-al-ahkam:9:23:8",
+        "/books/tahdhib-al-ahkam:9:26:42"
+      ]
+    },
+    "3141-70": {
+      "narrator_ids": [
+        3141,
+        70
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:4:38:57",
+        "/books/al-kafi:7:2:7:7",
+        "/books/tahdhib-al-ahkam:9:23:8",
+        "/books/tahdhib-al-ahkam:9:26:42",
+        "/books/tahdhib-al-ahkam:9:26:59"
+      ]
+    },
+    "4154-1843-43-3141-70-669": {
+      "narrator_ids": [
+        4154,
+        1843,
+        43,
+        3141,
+        70,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:26:59"
+      ]
+    },
+    "43-3141": {
+      "narrator_ids": [
+        43,
+        3141
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:26:59"
+      ]
+    },
+    "645-189-30-3141-70-403-669": {
+      "narrator_ids": [
+        645,
+        189,
+        30,
+        3141,
+        70,
+        403,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:4:38:57",
+        "/books/tahdhib-al-ahkam:9:26:42"
+      ]
+    },
+    "645-189-30-3141-70-420-669": {
+      "narrator_ids": [
+        645,
+        189,
+        30,
+        3141,
+        70,
+        420,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:23:8"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3141",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3141.json"
+  }
+}

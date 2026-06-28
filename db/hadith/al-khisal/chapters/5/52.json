@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:5:52",
+  "chapter": {
+    "path": "/books/al-khisal:5:52",
+    "titles": {
+      "en": "The Prophet liked four tribes and disliked four tribes"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:5:52:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:5:52:1",
+        "parts": [
+          5,
+          52,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 52,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:5:52",
+        "titles": {
+          "en": "The Prophet liked four tribes and disliked four tribes"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا سعد بن عبد الله قال: حدثني محمد بن عيسى بن عبيد، عن سليمان بن جعفر الجعفري، عن الرضا، عن أبيه، عن جده، عن آبائه عليهم السلام أن رسول الله صلى الله عليه وآله كان يحب أربع قبائل: كان يحب الانصار، وعبدالقيس، وأسلم، وبني تميم، وكان يبغض بني امية، وبني حنيف وبني ثقيف وبني هذيل وكان عليه السلام يقول: لم تلدني امي بكرية ولا ثقفية، وكان عليه السلام يقول: في كل حي نجيب إلا في بني امية"
+        ],
+        "text": ": حدثنا سعد بن عبد الله قال: حدثني محمد بن عيسى بن عبيد، عن سليمان بن جعفر الجعفري، عن الرضا، عن أبيه، عن جده، عن آبائه عليهم السلام أن رسول الله صلى الله عليه وآله كان يحب أربع قبائل: كان يحب الانصار، وعبدالقيس، وأسلم، وبني تميم، وكان يبغض بني امية، وبني حنيف وبني ثقيف وبني هذيل وكان عليه السلام يقول: لم تلدني امي بكرية ولا ثقفية، وكان عليه السلام يقول: في كل حي نجيب إلا في بني امية"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "4-64 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Sa’ed ibn Abdullah quoted Muhammad ibn Isa ibn Ubayd, on the authority of Suleiman ibn Ja’far al-Ja’fari, on the authority of Al-Ridha (MGB), on the authority of his father (MGB), on the authority of his forefathers (MGB), “God’s Prophet (MGB) liked four tribes: the Helpers (Ansar); Abdul Qyas; Aslam; and Tamim tribe. God’s Prophet (MGB) disliked four tribes: the Umayyads; the Hanif tribe; the Thaqif tribe; and the Hazil tribe. The Prophet (MGB) said, ‘My mother who delivered me was not from the Bakr tribe or the Thaqif tribe.’ He (MGB) also said, ‘There are some noble people in all tribes except for the Umayyads.’”"
+          ],
+          "text": "4-64 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Sa’ed ibn Abdullah quoted Muhammad ibn Isa ibn Ubayd, on the authority of Suleiman ibn Ja’far al-Ja’fari, on the authority of Al-Ridha (MGB), on the authority of his father (MGB), on the authority of his forefathers (MGB), “God’s Prophet (MGB) liked four tribes: the Helpers (Ansar); Abdul Qyas; Aslam; and Tamim tribe. God’s Prophet (MGB) disliked four tribes: the Umayyads; the Hanif tribe; the Thaqif tribe; and the Hazil tribe. The Prophet (MGB) said, ‘My mother who delivered me was not from the Bakr tribe or the Thaqif tribe.’ He (MGB) also said, ‘There are some noble people in all tribes except for the Umayyads.’”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "4-64 حدثنا أبي رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "4-64 حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي رضي الله عنه قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:5:52:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/5/52/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/5/52/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

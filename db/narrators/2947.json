@@ -1,0 +1,55 @@
+{
+  "id": 2947,
+  "type": "narrator",
+  "path": "/people/narrators/2947",
+  "titles": {
+    "ar": "تَلَا هَذِهِ الْآيَةَ ذلِكَ بِأَنَّهُمْ كانُوا يَكْفُرُونَ بِآياتِ اللَّهِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:160:6"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "26-104-44-669-2947-4603-4064": {
+      "narrator_ids": [
+        26,
+        104,
+        44,
+        669,
+        2947,
+        4603,
+        4064
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:160:6"
+      ]
+    },
+    "2947-4603": {
+      "narrator_ids": [
+        2947,
+        4603
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:160:6"
+      ]
+    },
+    "669-2947": {
+      "narrator_ids": [
+        669,
+        2947
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:160:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2947",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2947.json"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": 2171,
+  "type": "narrator",
+  "path": "/people/narrators/2171",
+  "titles": {
+    "ar": "أَبِي عَلِيٍّ أَحْمَدَ بْنِ إِبْرَاهِيمَ بْنِ إِدْرِيسَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:77:8"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2171-2": {
+      "narrator_ids": [
+        2171,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:77:8"
+      ]
+    },
+    "50-2171": {
+      "narrator_ids": [
+        50,
+        2171
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:77:8"
+      ]
+    },
+    "50-2171-2": {
+      "narrator_ids": [
+        50,
+        2171,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:77:8"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2171",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2171.json"
+  }
+}

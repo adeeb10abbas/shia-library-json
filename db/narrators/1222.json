@@ -1,0 +1,107 @@
+{
+  "id": 1222,
+  "type": "narrator",
+  "path": "/people/narrators/1222",
+  "titles": {
+    "ar": "إِبْرَاهِيمَ بْنِ أَبِي يَحْيَى"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:3:45:6",
+    "/books/al-kafi:5:3:55:6",
+    "/books/tahdhib-al-ahkam:6:2:2"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "1161-1222": {
+      "narrator_ids": [
+        1161,
+        1222
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:2:2"
+      ]
+    },
+    "1222-2": {
+      "narrator_ids": [
+        1222,
+        2
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:2:2"
+      ]
+    },
+    "1222-669": {
+      "narrator_ids": [
+        1222,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:45:6",
+        "/books/al-kafi:5:3:55:6"
+      ]
+    },
+    "23-1222": {
+      "narrator_ids": [
+        23,
+        1222
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:45:6"
+      ]
+    },
+    "23-1222-669": {
+      "narrator_ids": [
+        23,
+        1222,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:45:6"
+      ]
+    },
+    "4-167-261-79-1222-669": {
+      "narrator_ids": [
+        4,
+        167,
+        261,
+        79,
+        1222,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:55:6"
+      ]
+    },
+    "79-1222": {
+      "narrator_ids": [
+        79,
+        1222
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:55:6"
+      ]
+    },
+    "952-4-781-1161-1222-2": {
+      "narrator_ids": [
+        952,
+        4,
+        781,
+        1161,
+        1222,
+        2
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:2:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1222",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1222.json"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": 3167,
+  "type": "narrator",
+  "path": "/people/narrators/3167",
+  "titles": {
+    "ar": "دَاوُدَ بْنِ سُلَيْمَانَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:72:11",
+    "/books/kitab-al-ghayba-tusi:10:9"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "11-219-67-1282-3167": {
+      "narrator_ids": [
+        11,
+        219,
+        67,
+        1282,
+        3167
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:10:9"
+      ]
+    },
+    "1282-3167": {
+      "narrator_ids": [
+        1282,
+        3167
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:72:11",
+        "/books/kitab-al-ghayba-tusi:10:9"
+      ]
+    },
+    "219-67-1282-3167": {
+      "narrator_ids": [
+        219,
+        67,
+        1282,
+        3167
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:72:11"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3167",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3167.json"
+  }
+}

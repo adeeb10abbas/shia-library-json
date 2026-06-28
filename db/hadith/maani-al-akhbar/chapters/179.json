@@ -1,0 +1,86 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "maani-al-akhbar",
+  "chapterPath": "/books/maani-al-akhbar:179",
+  "chapter": {
+    "path": "/books/maani-al-akhbar:179",
+    "titles": {
+      "en": "The meaning of the narration that has been narrated of al-Baqir, peace be upon him, with regards to that he said: «No man has hit some part of the Qur’an with another part, except that he has disbelieved»"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "maani-al-akhbar:179:1",
+      "type": "hadith",
+      "book": {
+        "slug": "maani-al-akhbar",
+        "titles": {
+          "ar": "معاني الأخبار",
+          "en": "Ma'ani al-Akhbar"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/maani-al-akhbar:179:1",
+        "parts": [
+          179,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 179,
+        "book": 1
+      },
+      "chapter": {
+        "path": "/books/maani-al-akhbar:179",
+        "titles": {
+          "en": "The meaning of the narration that has been narrated of al-Baqir, peace be upon him, with regards to that he said: «No man has hit some part of the Qur’an with another part, except that he has disbelieved»"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا الحسين بن الحسن بن أبان، عن الحسين بن سعيد، عن النضر بن سويد، عن القاسم بن سليمان، عن أبي عبد الله عليه السلام قال: قال لي أبي عليه السلام: ما ضرب رجل القرآن بعضه ببعض إلا كفر. وسألت محمد بن الحسن - رحمه الله - عن معنى هذا الحديث فقال: هو أن تجيب الرجل في تفسير آية بتفسير آية أخرى."
+        ],
+        "text": ": حدثنا الحسين بن الحسن بن أبان، عن الحسين بن سعيد، عن النضر بن سويد، عن القاسم بن سليمان، عن أبي عبد الله عليه السلام قال: قال لي أبي عليه السلام: ما ضرب رجل القرآن بعضه ببعض إلا كفر. وسألت محمد بن الحسن - رحمه الله - عن معنى هذا الحديث فقال: هو أن تجيب الرجل في تفسير آية بتفسير آية أخرى."
+      },
+      "translations": {
+        "en.basel-kadem": {
+          "segments": [
+            "1.\tWe were told by Muhammed bin Hasan, may Allah grant him mercy, that he said: We were told by Hussain bin Hasan bin Aban, from Hussain bin Sa’eed, from Nadr bin Suwayd, from Qasem bin Sulayman, from Abu Abdillah, peace be upon him, that he said: My father, peace be upon him, said to me: No man has hit some part of the Qur’an with another part, except that he has disbelieved. I also asked Muhammed bin Hasan, may Allah grant him mercy, about the meaning of this narration, so he said: It is that you answer a man about the interpretation of one verse with the interpretation of another verse."
+          ],
+          "text": "1.\tWe were told by Muhammed bin Hasan, may Allah grant him mercy, that he said: We were told by Hussain bin Hasan bin Aban, from Hussain bin Sa’eed, from Nadr bin Suwayd, from Qasem bin Sulayman, from Abu Abdillah, peace be upon him, that he said: My father, peace be upon him, said to me: No man has hit some part of the Qur’an with another part, except that he has disbelieved. I also asked Muhammed bin Hasan, may Allah grant him mercy, about the meaning of this narration, so he said: It is that you answer a man about the interpretation of one verse with the interpretation of another verse."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "حدثنا محمد بن الحسن - رحمه الله - قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "محمد بن الحسن - رحمه الله - قال",
+            "path": "/people/narrators/90"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/90"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/maani-al-akhbar:179:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/maani-al-akhbar/179/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/28/1/179/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

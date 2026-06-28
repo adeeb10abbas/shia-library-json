@@ -1,0 +1,121 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "mujam-al-ahadith-al-mutabara",
+  "chapterPath": "/books/mujam-al-ahadith-al-mutabara:3:109",
+  "chapter": {
+    "path": "/books/mujam-al-ahadith-al-mutabara:3:109",
+    "titles": {
+      "en": "Nasr b. Qabus"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "mujam-al-ahadith-al-mutabara:3:109:1",
+      "type": "hadith",
+      "book": {
+        "slug": "mujam-al-ahadith-al-mutabara",
+        "titles": {
+          "ar": "معجم الأحاديث المعتبرة",
+          "en": "Mu'jam al-Ahadith al-Mu'tabara"
+        },
+        "author": {
+          "en": "Muhammad Asif al-Muhsini"
+        }
+      },
+      "path": {
+        "source": "/books/mujam-al-ahadith-al-mutabara:3:109:1",
+        "parts": [
+          3,
+          109,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 109,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/mujam-al-ahadith-al-mutabara:3:109",
+        "titles": {
+          "en": "Nasr b. Qabus"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": قلت لأبي الحسن الأول عليه السلام: إني سألت أبا عبد الله عليه السلام عن الإمام من بعده فأخبرني أنك أنت هو فلما توفي ذهب الناس عنك يمينا و شمالا و قلت فيك أنا و أصحابي، فأخبرني عن الإمام من ولدك قال: ابني علي عليه السلام"
+        ],
+        "text": ": قلت لأبي الحسن الأول عليه السلام: إني سألت أبا عبد الله عليه السلام عن الإمام من بعده فأخبرني أنك أنت هو فلما توفي ذهب الناس عنك يمينا و شمالا و قلت فيك أنا و أصحابي، فأخبرني عن الإمام من ولدك قال: ابني علي عليه السلام"
+      },
+      "translations": {
+        "en.ammaar-muslim": {
+          "segments": [
+            "1. [1/270] Rijal al-Kashshi: Hamduwayh from al-Hasan b. Musa from Ahmad b. Muhammad b. Abi Nasr from Sa’id b. Abi al-Jahm from Nasr b. Qabus who said: I said to Abi al-Hasan the first [al-Kadhim] عليه السلام: I had asked Aba Abdillah عليه السلام about the identity of the Imam after him and he informed me that it was going to be you, so when he [al-Sadiq] died the people turned away from you and went to the right and to the left [i.e. in confusion] but I and my companions stuck to you, so inform me about the Imam from your children – who is it going to be? He [the Imam] said: my son Ali عليه السلام."
+          ],
+          "text": "1. [1/270] Rijal al-Kashshi: Hamduwayh from al-Hasan b. Musa from Ahmad b. Muhammad b. Abi Nasr from Sa’id b. Abi al-Jahm from Nasr b. Qabus who said: I said to Abi al-Hasan the first [al-Kadhim] عليه السلام: I had asked Aba Abdillah عليه السلام about the identity of the Imam after him and he informed me that it was going to be you, so when he [al-Sadiq] died the people turned away from you and went to the right and to the left [i.e. in confusion] but I and my companions stuck to you, so inform me about the Imam from your children – who is it going to be? He [the Imam] said: my son Ali عليه السلام."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "[1/270] رجال الكشي: حمدويه، عن الحسن بن موسى، عن أحمد بن محمد بن أبي نصر، عن سعيد بن أبي الجهم، عن نصر بن قابوس قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "[1/270] رجال الكشي: حمدويه،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "الحسن بن موسى،",
+            "path": "/people/narrators/679"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أحمد بن محمد بن أبي نصر،",
+            "path": "/people/narrators/39"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "سعيد بن أبي الجهم،",
+            "path": "/people/narrators/3323"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "نصر بن قابوس قال",
+            "path": "/people/narrators/1210"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/679",
+          "/people/narrators/39",
+          "/people/narrators/3323",
+          "/people/narrators/1210"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/mujam-al-ahadith-al-mutabara:3:109:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/mujam-al-ahadith-al-mutabara/3/109/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/9/3/110/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

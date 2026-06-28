@@ -1,0 +1,51 @@
+{
+  "id": 4391,
+  "type": "narrator",
+  "path": "/people/narrators/4391",
+  "titles": {
+    "ar": "مُعَلَّى بْنِ مُحَمَّدٍ الزِّيَادِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:13:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "154-4391": {
+      "narrator_ids": [
+        154,
+        4391
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:13:1"
+      ]
+    },
+    "154-4391-89": {
+      "narrator_ids": [
+        154,
+        4391,
+        89
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:13:1"
+      ]
+    },
+    "4391-89": {
+      "narrator_ids": [
+        4391,
+        89
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:13:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4391",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4391.json"
+  }
+}

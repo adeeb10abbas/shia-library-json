@@ -1,0 +1,720 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:5:3:90",
+  "chapter": {
+    "path": "/books/al-kafi:5:3:90",
+    "titles": {
+      "ar": "باب أَنَّهُ لَا رَضَاعَ بَعْدَ فِطَامٍ",
+      "en": "Chapter 89 – There is no breast-feeding after the weaning"
+    }
+  },
+  "count": 5,
+  "records": [
+    {
+      "id": "al-kafi:5:3:90:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:5:3:90:1",
+        "parts": [
+          5,
+          3,
+          90,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 3,
+        "chapter": 90,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:5:3:90",
+        "titles": {
+          "ar": "باب أَنَّهُ لَا رَضَاعَ بَعْدَ فِطَامٍ",
+          "en": "Chapter 89 – There is no breast-feeding after the weaning"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " لَا رَضَاعَ بَعْدَ فِطَامٍ."
+        ],
+        "text": "لَا رَضَاعَ بَعْدَ فِطَامٍ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father, from Ibn Abu Umeyr, from Hammad, from Al Halby, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘There is no breast-feeding after weaning’."
+          ],
+          "text": "Ali Bin Ibrahim, from his father, from Ibn Abu Umeyr, from Hammad, from Al Halby,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘There is no breast-feeding after weaning’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. Ali ibn Ibrahim has narrated from his father from ibn abu ‘ Umayr from Hammad from al-Halabiy who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘Breastfeeding after weaning is not effective/” "
+          ],
+          "text": "1. Ali ibn Ibrahim has narrated from his father from ibn abu ‘ Umayr from Hammad from al-Halabiy who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘Breastfeeding after weaning is not effective/”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> حسن   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (20/214)",
+          "label": "حسن",
+          "text": "Allamah Baqir al-Majlisi: حسن - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (20/214)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنِ ابْنِ أَبِي عُمَيْرٍ عَنْ حَمَّادٍ عَنِ الْحَلَبِيِّ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ أَبِي عُمَيْرٍ",
+            "path": "/people/narrators/7"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "حَمَّادٍ",
+            "path": "/people/narrators/23"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحَلَبِيِّ",
+            "path": "/people/narrators/28"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/7",
+          "/people/narrators/23",
+          "/people/narrators/28",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:5:3:90:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/5/3/90/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:5:3:90:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:5:3:90:2",
+        "parts": [
+          5,
+          3,
+          90,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 3,
+        "chapter": 90,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:5:3:90",
+        "titles": {
+          "ar": "باب أَنَّهُ لَا رَضَاعَ بَعْدَ فِطَامٍ",
+          "en": "Chapter 89 – There is no breast-feeding after the weaning"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " الرَّضَاعُ قَبْلَ الْحَوْلَيْنِ قَبْلَ أَنْ يُفْطَمَ ."
+        ],
+        "text": "الرَّضَاعُ قَبْلَ الْحَوْلَيْنِ قَبْلَ أَنْ يُفْطَمَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Ali Bin Al Hakam, from Aban Bin Usman, from Al Fazl Bin Abdul Malik, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The breast-feeding is before the two years (are complete), before he is weaned’."
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Ali Bin Al Hakam, from Aban Bin Usman, from Al Fazl Bin Abdul Malik,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The breast-feeding is before the two years (are complete), before he is weaned’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from Ali ibn al-Hakam from Aban ibn ‘Uthman from al-Fadl ibn ‘ Abd al-Malik who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘Breastfeeding is effective before completion of two years of a child before weaning him.’” "
+          ],
+          "text": "2. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from Ali ibn al-Hakam from Aban ibn ‘Uthman from al-Fadl ibn ‘ Abd al-Malik who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘Breastfeeding is effective before completion of two years of a child before weaning him.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مجهول  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (0/215)",
+          "label": "مجهول",
+          "text": "Allamah Baqir al-Majlisi: مجهول - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (0/215)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنْ عَلِيِّ بْنِ الْحَكَمِ عَنْ أَبَانِ بْنِ عُثْمَانَ عَنِ الْفَضْلِ بْنِ عَبْدِ الْمَلِكِ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيِّ بْنِ الْحَكَمِ",
+            "path": "/people/narrators/15"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبَانِ بْنِ عُثْمَانَ",
+            "path": "/people/narrators/52"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْفَضْلِ بْنِ عَبْدِ الْمَلِكِ",
+            "path": "/people/narrators/532"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/5",
+          "/people/narrators/15",
+          "/people/narrators/52",
+          "/people/narrators/532",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:5:3:90:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/5/3/90/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:5:3:90:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:5:3:90:3",
+        "parts": [
+          5,
+          3,
+          90,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 3,
+        "chapter": 90,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:5:3:90",
+        "titles": {
+          "ar": "باب أَنَّهُ لَا رَضَاعَ بَعْدَ فِطَامٍ",
+          "en": "Chapter 89 – There is no breast-feeding after the weaning"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَمِعْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) يَقُولُ لَا رَضَاعَ بَعْدَ فِطَامٍ قَالَ قُلْتُ جُعِلْتُ فِدَاكَ وَ مَا الْفِطَامُ قَالَ الْحَوْلَانِ اللَّذَانِ قَالَ اللَّهُ عَزَّ وَ جَلَّ ."
+        ],
+        "text": "سَمِعْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) يَقُولُ لَا رَضَاعَ بَعْدَ فِطَامٍ قَالَ قُلْتُ جُعِلْتُ فِدَاكَ وَ مَا الْفِطَامُ قَالَ الْحَوْلَانِ اللَّذَانِ قَالَ اللَّهُ عَزَّ وَ جَلَّ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Sahl Bin Ziyad, from Ahmad Bin Muhammad Bin Abu Nasr, from Hammad Bin Usman who said, ",
+            "‘I heard Abu Abdullah<sup>asws</sup> saying: ‘There is no breast-feeding after weaning’. I said, ‘May I be sacrificed for you<sup>asws</sup>! And what is the weaning?’ He<sup>asws</sup> said: ‘The two years which Allah<sup>azwj</sup> Mighty and Majestic Speaks of’."
+          ],
+          "text": "A number of our companions, from Sahl Bin Ziyad, from Ahmad Bin Muhammad Bin Abu Nasr, from Hammad Bin Usman who said,\n\n‘I heard Abu Abdullah<sup>asws</sup> saying: ‘There is no breast-feeding after weaning’. I said, ‘May I be sacrificed for you<sup>asws</sup>! And what is the weaning?’ He<sup>asws</sup> said: ‘The two years which Allah<sup>azwj</sup> Mighty and Majestic Speaks of’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "3. A number of our people have narrated from Sahl ibn Ziyad from Ahmad ibn Muhammad from ibn abu Nasr from Hammad ibn ‘Uthaman who has said the following: “I once heard abu ‘Abd Allah, ‘Alayhi al-Salam, saying, ‘Breastfeeding after weaning is not effective.’ I then said, ‘I pray to Allah to keep my soul in service for your cause, what is al-Fatam (weaning)?’ He (the Imam) said, ‘It is the two years that Allah, most Majestic, most Glorious, has mentioned (in His book).’ <a href=\"/#/books/quran:2#h233\"><a href=\"/books/quran:2#h233\">[2:233]</a></a>” "
+          ],
+          "text": "3. A number of our people have narrated from Sahl ibn Ziyad from Ahmad ibn Muhammad from ibn abu Nasr from Hammad ibn ‘Uthaman who has said the following: “I once heard abu ‘Abd Allah, ‘Alayhi al-Salam, saying, ‘Breastfeeding after weaning is not effective.’ I then said, ‘I pray to Allah to keep my soul in service for your cause, what is al-Fatam (weaning)?’ He (the Imam) said, ‘It is the two years that Allah, most Majestic, most Glorious, has mentioned (in His book).’ <a href=\"/#/books/quran:2#h233\"><a href=\"/books/quran:2#h233\">[2:233]</a></a>”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (0/215)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (0/215)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ سَهْلِ بْنِ زِيَادٍ عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ أَبِي نَصْرٍ عَنْ حَمَّادِ بْنِ عُثْمَانَ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَهْلِ بْنِ زِيَادٍ",
+            "path": "/people/narrators/8"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدِ بْنِ أَبِي نَصْرٍ",
+            "path": "/people/narrators/39"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "حَمَّادِ بْنِ عُثْمَانَ",
+            "path": "/people/narrators/54"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/8",
+          "/people/narrators/39",
+          "/people/narrators/54"
+        ]
+      },
+      "relations": {
+        "Mentions": [
+          "/books/quran:2:233"
+        ],
+        "Shared Chain": [
+          "/books/al-kafi:3:5:1:3",
+          "/books/al-kafi:4:3:110:10",
+          "/books/al-kafi:8:1:30:3"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:5:3:90:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/5/3/90/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:5:3:90:4",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:5:3:90:4",
+        "parts": [
+          5,
+          3,
+          90,
+          4
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 3,
+        "chapter": 90,
+        "hadith": 4
+      },
+      "chapter": {
+        "path": "/books/al-kafi:5:3:90",
+        "titles": {
+          "ar": "باب أَنَّهُ لَا رَضَاعَ بَعْدَ فِطَامٍ",
+          "en": "Chapter 89 – There is no breast-feeding after the weaning"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَأَلْتُهُ عَنِ امْرَأَةٍ حَلَبَتْ مِنْ لَبَنِهَا فَأَسْقَتْ زَوْجَهَا لِتَحْرُمَ عَلَيْهِ قَالَ أَمْسَكَهَا وَ أَوْجَعَ ظَهْرَهَا ."
+        ],
+        "text": "سَأَلْتُهُ عَنِ امْرَأَةٍ حَلَبَتْ مِنْ لَبَنِهَا فَأَسْقَتْ زَوْجَهَا لِتَحْرُمَ عَلَيْهِ قَالَ أَمْسَكَهَا وَ أَوْجَعَ ظَهْرَهَا ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father, and a number of our companions, from Sahl Bin Ziyad, altogether, from Ibn Abu Najran, from Aasim Bin Humeyd, from Muhammad Bin Qays who said, ",
+            "‘I asked him<sup>asws</sup> about a woman who milked herself from her own milk, and she quenched her husband in order for her to be Prohibited unto him. He<sup>asws</sup> said: ‘He would keep her, and her back would be (inflicted with) pain’."
+          ],
+          "text": "Ali Bin Ibrahim, from his father, and a number of our companions, from Sahl Bin Ziyad, altogether, from Ibn Abu Najran, from Aasim Bin Humeyd, from Muhammad Bin Qays who said,\n\n‘I asked him<sup>asws</sup> about a woman who milked herself from her own milk, and she quenched her husband in order for her to be Prohibited unto him. He<sup>asws</sup> said: ‘He would keep her, and her back would be (inflicted with) pain’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "4. Ali ibn Ibrahim has narrated from his father and a number of our people have narrated from Sahl ibn Ziyad all from ibn abu Najran from ‘Asem ibn Hamid from Muhammad ibn Qays who has said the following: “I once asked him (the Imam), ‘Alayhi al-Salam, about the case of a woman who drained her milk and made her husband to drink it so that she could become unlawful to him. He (the Imam) said, ‘He keeps her and makes her feel a backache.’” (Such expression is used for a flogging implemented by a judicial body.) "
+          ],
+          "text": "4. Ali ibn Ibrahim has narrated from his father and a number of our people have narrated from Sahl ibn Ziyad all from ibn abu Najran from ‘Asem ibn Hamid from Muhammad ibn Qays who has said the following: “I once asked him (the Imam), ‘Alayhi al-Salam, about the case of a woman who drained her milk and made her husband to drink it so that she could become unlawful to him. He (the Imam) said, ‘He keeps her and makes her feel a backache.’” (Such expression is used for a flogging implemented by a judicial body.)"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> حسن كالصحيح   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (20/215)",
+          "label": "حسن كالصحيح",
+          "text": "Allamah Baqir al-Majlisi: حسن كالصحيح - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (20/215)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ وَ عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ سَهْلِ بْنِ زِيَادٍ جَمِيعاً عَنِ ابْنِ أَبِي نَجْرَانَ عَنْ عَاصِمِ بْنِ حُمَيْدٍ عَنْ مُحَمَّدِ بْنِ قَيْسٍ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " وَ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَهْلِ بْنِ زِيَادٍ",
+            "path": "/people/narrators/8"
+          },
+          {
+            "kind": "plain",
+            "text": " جَمِيعاً عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ أَبِي نَجْرَانَ",
+            "path": "/people/narrators/74"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَاصِمِ بْنِ حُمَيْدٍ",
+            "path": "/people/narrators/79"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ قَيْسٍ",
+            "path": "/people/narrators/105"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/6",
+          "/people/narrators/8",
+          "/people/narrators/74",
+          "/people/narrators/79",
+          "/people/narrators/105"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:6:2:69:3"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:5:3:90:4",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/5/3/90/4.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:5:3:90:5",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:5:3:90:5",
+        "parts": [
+          5,
+          3,
+          90,
+          5
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 3,
+        "chapter": 90,
+        "hadith": 5
+      },
+      "chapter": {
+        "path": "/books/al-kafi:5:3:90",
+        "titles": {
+          "ar": "باب أَنَّهُ لَا رَضَاعَ بَعْدَ فِطَامٍ",
+          "en": "Chapter 89 – There is no breast-feeding after the weaning"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) لَا رَضَاعَ بَعْدَ فِطَامٍ وَ لَا وِصَالَ فِي صِيَامٍ وَ لَا يُتْمَ بَعْدَ احْتِلَامٍ وَ لَا صَمْتَ يَوْمٍ إِلَى اللَّيْلِ وَ لَا تَعَرُّبَ بَعْدَ الْهِجْرَةِ وَ لَا هِجْرَةَ بَعْدَ الْفَتْحِ  وَ لَا طَلَاقَ قَبْلَ النِّكَاحِ وَ لَا عِتْقَ قَبْلَ مِلْكٍ وَ لَا يَمِينَ لِلْوَلَدِ مَعَ وَالِدِهِ وَ لَا لِلْمَمْلُوكِ مَعَ مَوْلَاهُ وَ لَا لِلْمَرْأَةِ مَعَ زَوْجِهَا وَ لَا نَذْرَ فِي مَعْصِيَةٍ وَ لَا يَمِينَ فِي قَطِيعَةٍ ",
+          "فَمَعْنَى قَوْلِهِ لَا رَضَاعَ بَعْدَ فِطَامٍ أَنَّ الْوَلَدَ إِذَا شَرِبَ مِنْ لَبَنِ الْمَرْأَةِ بَعْدَ مَا تَفْطِمُهُ لَا يُحَرِّمُ ذَلِكَ الرَّضَاعُ التَّنَاكُحَ ."
+        ],
+        "text": "قَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) لَا رَضَاعَ بَعْدَ فِطَامٍ وَ لَا وِصَالَ فِي صِيَامٍ وَ لَا يُتْمَ بَعْدَ احْتِلَامٍ وَ لَا صَمْتَ يَوْمٍ إِلَى اللَّيْلِ وَ لَا تَعَرُّبَ بَعْدَ الْهِجْرَةِ وَ لَا هِجْرَةَ بَعْدَ الْفَتْحِ  وَ لَا طَلَاقَ قَبْلَ النِّكَاحِ وَ لَا عِتْقَ قَبْلَ مِلْكٍ وَ لَا يَمِينَ لِلْوَلَدِ مَعَ وَالِدِهِ وَ لَا لِلْمَمْلُوكِ مَعَ مَوْلَاهُ وَ لَا لِلْمَرْأَةِ مَعَ زَوْجِهَا وَ لَا نَذْرَ فِي مَعْصِيَةٍ وَ لَا يَمِينَ فِي قَطِيعَةٍ\n\nفَمَعْنَى قَوْلِهِ لَا رَضَاعَ بَعْدَ فِطَامٍ أَنَّ الْوَلَدَ إِذَا شَرِبَ مِنْ لَبَنِ الْمَرْأَةِ بَعْدَ مَا تَفْطِمُهُ لَا يُحَرِّمُ ذَلِكَ الرَّضَاعُ التَّنَاكُحَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father, from Ibn Abu Umeyr, from Mansour Bin Yunus, from Mansour Bin Hazim, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup> said: ‘There is no breast-feeding after weaning, nor copulation during Fasting, nor an orphan-hood after the puberty, nor a silence for a day up to the night, nor conforming to Arab customs after the emigration (Hijra), nor an emigration after the victory (conquest of Makkah), nor a divorce before the marriage, nor an emancipation (of a slave) before ownership, nor a swearing of an oath for the son with his father, nor for the owned slave with his master, nor for the woman with her husband, nor a vow regarding disobedience (to Allah<sup>azwj</sup>), nor a swearing of an oath regarding cutting-off of relationships. ",
+            "Thus, the Meaning of his<sup>saww</sup> words: ‘There is no breast-feeding after weaning’, is that the child, when it drinks from the milk of the woman after she having weaning him, that breast-feeding would not (bring about a) Prohibition of the marriage’."
+          ],
+          "text": "Ali Bin Ibrahim, from his father, from Ibn Abu Umeyr, from Mansour Bin Yunus, from Mansour Bin Hazim,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup> said: ‘There is no breast-feeding after weaning, nor copulation during Fasting, nor an orphan-hood after the puberty, nor a silence for a day up to the night, nor conforming to Arab customs after the emigration (Hijra), nor an emigration after the victory (conquest of Makkah), nor a divorce before the marriage, nor an emancipation (of a slave) before ownership, nor a swearing of an oath for the son with his father, nor for the owned slave with his master, nor for the woman with her husband, nor a vow regarding disobedience (to Allah<sup>azwj</sup>), nor a swearing of an oath regarding cutting-off of relationships.\n\nThus, the Meaning of his<sup>saww</sup> words: ‘There is no breast-feeding after weaning’, is that the child, when it drinks from the milk of the woman after she having weaning him, that breast-feeding would not (bring about a) Prohibition of the marriage’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "5. Ali ibn Ibrahim has narrated from his father from ibn abu ‘Umayr from Mansur ibn Yunus from Mansur ibn Hazim who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, has said, ‘Breastfeeding after weaning is not effective, continuous fasting is not valid, one is not an orphan after experiencing wet-dream, vowing to remain silent for the whole day until the night is not valid, going back to disbelief after migrating to Islam is not permissible, migration after the conquest is not applicable, divorce before marriage is not valid, setting free of slaves before owning a slave is not valid, oath by the son against his father or of a slave against his master, or a wife against her husband is not valid, a vow for unlawful matters is not valid. Swearing to disregard good relation with relatives is not permissible. The meaning of the words of the Messenger of Allah, ‘Breastfeeding after weaning is not effective’ means that if a boy drinks the milk of a woman after he is weaned, such breastfeeding does not make marriage unlawful.’” "
+          ],
+          "text": "5. Ali ibn Ibrahim has narrated from his father from ibn abu ‘Umayr from Mansur ibn Yunus from Mansur ibn Hazim who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, has said, ‘Breastfeeding after weaning is not effective, continuous fasting is not valid, one is not an orphan after experiencing wet-dream, vowing to remain silent for the whole day until the night is not valid, going back to disbelief after migrating to Islam is not permissible, migration after the conquest is not applicable, divorce before marriage is not valid, setting free of slaves before owning a slave is not valid, oath by the son against his father or of a slave against his master, or a wife against her husband is not valid, a vow for unlawful matters is not valid. Swearing to disregard good relation with relatives is not permissible. The meaning of the words of the Messenger of Allah, ‘Breastfeeding after weaning is not effective’ means that if a boy drinks the milk of a woman after he is weaned, such breastfeeding does not make marriage unlawful.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> حسن أو موثق   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (0/215)",
+          "label": "حسن أو موثق",
+          "text": "Allamah Baqir al-Majlisi: حسن أو موثق - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (0/215)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنِ ابْنِ أَبِي عُمَيْرٍ عَنْ مَنْصُورِ بْنِ يُونُسَ عَنْ مَنْصُورِ بْنِ حَازِمٍ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ أَبِي عُمَيْرٍ",
+            "path": "/people/narrators/7"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مَنْصُورِ بْنِ يُونُسَ",
+            "path": "/people/narrators/165"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مَنْصُورِ بْنِ حَازِمٍ",
+            "path": "/people/narrators/108"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/7",
+          "/people/narrators/165",
+          "/people/narrators/108",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:5:3:90:5",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/5/3/90/5.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

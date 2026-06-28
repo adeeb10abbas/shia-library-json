@@ -1,0 +1,89 @@
+{
+  "id": 2537,
+  "type": "narrator",
+  "path": "/people/narrators/2537",
+  "titles": {
+    "ar": "الْحَسَنِ بْنِ الْمُبَارَكِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:7:29:1",
+    "/books/tahdhib-al-ahkam:1:27:98",
+    "/books/tahdhib-al-ahkam:9:2:237"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "101-2537": {
+      "narrator_ids": [
+        101,
+        2537
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:27:98"
+      ]
+    },
+    "2537-585": {
+      "narrator_ids": [
+        2537,
+        585
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:29:1",
+        "/books/tahdhib-al-ahkam:1:27:98",
+        "/books/tahdhib-al-ahkam:9:2:237"
+      ]
+    },
+    "339-2537": {
+      "narrator_ids": [
+        339,
+        2537
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:29:1",
+        "/books/tahdhib-al-ahkam:9:2:237"
+      ]
+    },
+    "4-339-2537-585": {
+      "narrator_ids": [
+        4,
+        339,
+        2537,
+        585
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:29:1"
+      ]
+    },
+    "4134-101-2537-585": {
+      "narrator_ids": [
+        4134,
+        101,
+        2537,
+        585
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:27:98"
+      ]
+    },
+    "952-4-339-2537-585": {
+      "narrator_ids": [
+        952,
+        4,
+        339,
+        2537,
+        585
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:2:237"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2537",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2537.json"
+  }
+}

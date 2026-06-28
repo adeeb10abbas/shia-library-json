@@ -1,0 +1,119 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "mujam-al-ahadith-al-mutabara",
+  "chapterPath": "/books/mujam-al-ahadith-al-mutabara:3:90",
+  "chapter": {
+    "path": "/books/mujam-al-ahadith-al-mutabara:3:90",
+    "titles": {
+      "en": "Muhammad b. Abdallah b. al-Hasan b. al-Hasan al-Mujtaba al-Nafs al-Zakiyya"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "mujam-al-ahadith-al-mutabara:3:90:1",
+      "type": "hadith",
+      "book": {
+        "slug": "mujam-al-ahadith-al-mutabara",
+        "titles": {
+          "ar": "معجم الأحاديث المعتبرة",
+          "en": "Mu'jam al-Ahadith al-Mu'tabara"
+        },
+        "author": {
+          "en": "Muhammad Asif al-Muhsini"
+        }
+      },
+      "path": {
+        "source": "/books/mujam-al-ahadith-al-mutabara:3:90:1",
+        "parts": [
+          3,
+          90,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 90,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/mujam-al-ahadith-al-mutabara:3:90",
+        "titles": {
+          "en": "Muhammad b. Abdallah b. al-Hasan b. al-Hasan al-Mujtaba al-Nafs al-Zakiyya"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": ما من بني ولا وصي ولا ملك إلا في كتاب عندي، لا والله ما لمحمد بن عبدالله بن الحسن فيه اسم"
+        ],
+        "text": ": ما من بني ولا وصي ولا ملك إلا في كتاب عندي، لا والله ما لمحمد بن عبدالله بن الحسن فيه اسم"
+      },
+      "translations": {
+        "en.ammaar-muslim": {
+          "segments": [
+            "1. [1/-] Basair al-Darajat: Abdallah b. Ja’far from Muhammad b. Isa from Safwan from al-Iys [b. al-Qasim] from Abi Abdillah عليه السلام who said: there is not a prophet or a successor or a king except that he is found in a book which is with me. No by Allah! the name of Muhammad b. Abdallah b. al-Hasan is not in there."
+          ],
+          "text": "1. [1/-] Basair al-Darajat: Abdallah b. Ja’far from Muhammad b. Isa from Safwan from al-Iys [b. al-Qasim] from Abi Abdillah عليه السلام who said: there is not a prophet or a successor or a king except that he is found in a book which is with me. No by Allah! the name of Muhammad b. Abdallah b. al-Hasan is not in there."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "[-/1] بصائر الدرجات: عبدالله بن جعفر، عن محمد بن عيسى، عن صفوان، عن العيص، عن أبي عبدالله عليه السلام قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "[-/1] بصائر الدرجات: عبدالله بن جعفر،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "محمد بن عيسى،",
+            "path": "/people/narrators/27"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "صفوان،",
+            "path": "/people/narrators/43"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "العيص،",
+            "path": "/people/narrators/1373"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "أبي عبدالله عليه السلام قال"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/27",
+          "/people/narrators/43",
+          "/people/narrators/1373"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/mujam-al-ahadith-al-mutabara:3:90:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/mujam-al-ahadith-al-mutabara/3/90/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/9/3/91/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

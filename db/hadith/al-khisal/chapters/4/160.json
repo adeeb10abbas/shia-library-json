@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:4:160",
+  "chapter": {
+    "path": "/books/al-khisal:4:160",
+    "titles": {
+      "en": "God Will Make Three Things Rule Over Whoever Gains Illegitimate Property"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:4:160:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:4:160:1",
+        "parts": [
+          4,
+          160,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 160,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:4:160",
+        "titles": {
+          "en": "God Will Make Three Things Rule Over Whoever Gains Illegitimate Property"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا علي بن الحسين السعد آبادي، عن أحمد بن أبي عبد الله البرقي، عن أبيه، عن محمد بن أبي عمير، عن هشام بن الحكم، عن أبي عبد الله عليه السلام قال: من كسب مالا من غير حل سلط الله عليه البناء والماء والطين"
+        ],
+        "text": ": حدثنا علي بن الحسين السعد آبادي، عن أحمد بن أبي عبد الله البرقي، عن أبيه، عن محمد بن أبي عمير، عن هشام بن الحكم، عن أبي عبد الله عليه السلام قال: من كسب مالا من غير حل سلط الله عليه البناء والماء والطين"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "3-205 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Ali ibn al-Hussein al-Sa’ed Abady quoted on the authority of Ahmad ibn Aba Abdullah al-Barqy, on the authority of his father, on the authority of Muhammad ibn Abi Umayr, on the authority of Hisham ibn al-Hakam that Aba Abdullah as-Sadiq (MGB) said, “God will make a building, water and clay rule over whoever gains property through illegitimate means.”"
+          ],
+          "text": "3-205 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Ali ibn al-Hussein al-Sa’ed Abady quoted on the authority of Ahmad ibn Aba Abdullah al-Barqy, on the authority of his father, on the authority of Muhammad ibn Abi Umayr, on the authority of Hisham ibn al-Hakam that Aba Abdullah as-Sadiq (MGB) said, “God will make a building, water and clay rule over whoever gains property through illegitimate means.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "3-205 حدثنا أبي رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "3-205 حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي رضي الله عنه قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:4:160:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/4/160/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/4/160/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

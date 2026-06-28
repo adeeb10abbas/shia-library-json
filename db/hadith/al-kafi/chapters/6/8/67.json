@@ -1,0 +1,837 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:6:8:67",
+  "chapter": {
+    "path": "/books/al-kafi:6:8:67",
+    "titles": {
+      "ar": "باب تَحْجِيرِ السُّطُوحِ",
+      "en": "Chapter 67 – The Roof Enclosure"
+    }
+  },
+  "count": 6,
+  "records": [
+    {
+      "id": "al-kafi:6:8:67:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:8:67:1",
+        "parts": [
+          6,
+          8,
+          67,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 8,
+        "chapter": 67,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:8:67",
+        "titles": {
+          "ar": "باب تَحْجِيرِ السُّطُوحِ",
+          "en": "Chapter 67 – The Roof Enclosure"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " نَهَى رَسُولُ اللَّهِ ( صلى الله عليه وآله ) أَنْ يُبَاتَ عَلَى سَطْحٍ غَيْرِ مُحَجَّرٍ ."
+        ],
+        "text": "نَهَى رَسُولُ اللَّهِ ( صلى الله عليه وآله ) أَنْ يُبَاتَ عَلَى سَطْحٍ غَيْرِ مُحَجَّرٍ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father, from Ibn Abu Umeyr, from Hisham Bin Al Hakam, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup> forbade to sleep upon the roof other than in an enclosure (boundary wall)’."
+          ],
+          "text": "Ali Bin Ibrahim, from his father, from Ibn Abu Umeyr, from Hisham Bin Al Hakam,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup> forbade to sleep upon the roof other than in an enclosure (boundary wall)’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. Ali ibn Ibrahim has narrated from his father from ibn abu ‘Umayr from Hisham ibn af-Hakam who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, prohibited sleeping on the flat roof without a safety fencing wall around it.’” "
+          ],
+          "text": "1. Ali ibn Ibrahim has narrated from his father from ibn abu ‘Umayr from Hisham ibn af-Hakam who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, prohibited sleeping on the flat roof without a safety fencing wall around it.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> حسن   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/443)",
+          "label": "حسن",
+          "text": "Allamah Baqir al-Majlisi: حسن - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/443)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنِ ابْنِ أَبِي عُمَيْرٍ عَنْ هِشَامِ بْنِ الْحَكَمِ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ أَبِي عُمَيْرٍ",
+            "path": "/people/narrators/7"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "هِشَامِ بْنِ الْحَكَمِ",
+            "path": "/people/narrators/125"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/7",
+          "/people/narrators/125",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:8:67:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/8/67/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:8:67:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:8:67:2",
+        "parts": [
+          6,
+          8,
+          67,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 8,
+        "chapter": 67,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:8:67",
+        "titles": {
+          "ar": "باب تَحْجِيرِ السُّطُوحِ",
+          "en": "Chapter 67 – The Roof Enclosure"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) مَنْ بَاتَ عَلَى سَطْحٍ غَيْرِ مُحَجَّرٍ فَأَصَابَهُ شَيْ‏ءٌ فَلَا يَلُومَنَّ إِلَّا نَفْسَهُ ."
+        ],
+        "text": "قَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) مَنْ بَاتَ عَلَى سَطْحٍ غَيْرِ مُحَجَّرٍ فَأَصَابَهُ شَيْ‏ءٌ فَلَا يَلُومَنَّ إِلَّا نَفْسَهُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Abu Ali Al Ashary, from Muhammad Bin Abdul Jabbar, from Ali Bin Is’haq, from Sahl Bin Al Yas’a, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup> said: ‘The one who sleeps upon a roof without an enclosure (boundary wall), so something hits him, so he should not blame any except for himself’."
+          ],
+          "text": "Abu Ali Al Ashary, from Muhammad Bin Abdul Jabbar, from Ali Bin Is’haq, from Sahl Bin Al Yas’a,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup> said: ‘The one who sleeps upon a roof without an enclosure (boundary wall), so something hits him, so he should not blame any except for himself’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. Abu Ali al-Ash‘ariy has narrated from Muhammad ibn ‘Abd al-Jabbar from Ali ibn Ishaq from Sahl ibn al-Yasa’ who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, has said, ‘One who sleeps on a flat roof without a safety fencing walls around it and if something happened to him, he must not blame anyone except his own soul.”’ "
+          ],
+          "text": "2. Abu Ali al-Ash‘ariy has narrated from Muhammad ibn ‘Abd al-Jabbar from Ali ibn Ishaq from Sahl ibn al-Yasa’ who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, has said, ‘One who sleeps on a flat roof without a safety fencing walls around it and if something happened to him, he must not blame anyone except his own soul.”’"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> صحيح   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/443)",
+          "label": "صحيح",
+          "text": "Allamah Baqir al-Majlisi: صحيح - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/443)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "أَبُو عَلِيٍّ الْأَشْعَرِيُّ عَنْ مُحَمَّدِ بْنِ عَبْدِ الْجَبَّارِ عَنْ عَلِيِّ بْنِ إِسْحَاقَ عَنْ سَهْلِ بْنِ الْيَسَعِ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "أَبُو عَلِيٍّ الْأَشْعَرِيُّ",
+            "path": "/people/narrators/19"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ عَبْدِ الْجَبَّارِ",
+            "path": "/people/narrators/24"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيِّ بْنِ إِسْحَاقَ",
+            "path": "/people/narrators/1565"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَهْلِ بْنِ الْيَسَعِ",
+            "path": "/people/narrators/1497"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/19",
+          "/people/narrators/24",
+          "/people/narrators/1565",
+          "/people/narrators/1497",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:8:67:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/8/67/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:8:67:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:8:67:3",
+        "parts": [
+          6,
+          8,
+          67,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 8,
+        "chapter": 67,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:8:67",
+        "titles": {
+          "ar": "باب تَحْجِيرِ السُّطُوحِ",
+          "en": "Chapter 67 – The Roof Enclosure"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " ذَلِكَ سَوَاءٌ ."
+        ],
+        "text": "ذَلِكَ سَوَاءٌ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "From him, from Al Hajjal, from Abdullah Bin Bukeyr, from Muhammad Bin Muslim, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having dislike that the man should sleep upon a roof and there is not enclosure upon it, and the man and the woman with regards to that, are the same’."
+          ],
+          "text": "From him, from Al Hajjal, from Abdullah Bin Bukeyr, from Muhammad Bin Muslim,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having dislike that the man should sleep upon a roof and there is not enclosure upon it, and the man and the woman with regards to that, are the same’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "3. It is narrated from the narrator of the previous Hadith from al-Hajj al from ‘Abd Allah ibn Bukayr from Muhammad ibn Muslim who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, disliked a man’s sleeping overnight on a flat roof without safety fencing wall around it. It is the same for both men women.’” "
+          ],
+          "text": "3. It is narrated from the narrator of the previous Hadith from al-Hajj al from ‘Abd Allah ibn Bukayr from Muhammad ibn Muslim who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, disliked a man’s sleeping overnight on a flat roof without safety fencing wall around it. It is the same for both men women.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> موثق كالصحيح    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/443)",
+          "label": "موثق كالصحيح",
+          "text": "Allamah Baqir al-Majlisi: موثق كالصحيح - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/443)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَنْهُ عَنِ الْحَجَّالِ عَنْ عَبْدِ اللَّهِ بْنِ بُكَيْرٍ عَنْ مُحَمَّدِ بْنِ مُسْلِمٍ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) أَنَّهُ كَرِهَ أَنْ يَبِيتَ الرَّجُلُ عَلَى سَطْحٍ لَيْسَتْ عَلَيْهِ حُجْرَةٌ وَ الرَّجُلُ وَ الْمَرْأَةُ فِي",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَنْهُ",
+            "path": "/people/narrators/11"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحَجَّالِ",
+            "path": "/people/narrators/122"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَبْدِ اللَّهِ بْنِ بُكَيْرٍ",
+            "path": "/people/narrators/164"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ مُسْلِمٍ",
+            "path": "/people/narrators/16"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "plain",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام ) أَنَّهُ كَرِهَ أَنْ يَبِيتَ الرَّجُلُ عَلَى سَطْحٍ لَيْسَتْ عَلَيْهِ حُجْرَةٌ"
+          },
+          {
+            "kind": "plain",
+            "text": " وَ "
+          },
+          {
+            "kind": "plain",
+            "text": "الرَّجُلُ"
+          },
+          {
+            "kind": "plain",
+            "text": " وَ "
+          },
+          {
+            "kind": "plain",
+            "text": "الْمَرْأَةُ"
+          },
+          {
+            "kind": "plain",
+            "text": " فِي"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/11",
+          "/people/narrators/122",
+          "/people/narrators/164",
+          "/people/narrators/16"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:8:67:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/8/67/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:8:67:4",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:8:67:4",
+        "parts": [
+          6,
+          8,
+          67,
+          4
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 8,
+        "chapter": 67,
+        "hadith": 4
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:8:67",
+        "titles": {
+          "ar": "باب تَحْجِيرِ السُّطُوحِ",
+          "en": "Chapter 67 – The Roof Enclosure"
+        }
+      },
+      "arabic": {
+        "segments": [
+          "هِ بِمَنْزِلَةٍ ."
+        ],
+        "text": "هِ بِمَنْزِلَةٍ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad Bin Isa, from Ibn Fazzal, from Ibn Bukeyr, from Muhammad Bin Muslim, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having disliked for the man to spend the night alone upon a roof, or upon a rood with no enclosure upon it, and the man and the woman with regards to it are at the same status’."
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad Bin Isa, from Ibn Fazzal, from Ibn Bukeyr, from Muhammad Bin Muslim,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having disliked for the man to spend the night alone upon a roof, or upon a rood with no enclosure upon it, and the man and the woman with regards to it are at the same status’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "4. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad ibn ‘Isa from ibn Faddal from ibn Bukayr from Muhammad ibn Muslim who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, disliked a man’s sleeping alone overnight on a flat roof without safety fencing wall around it; and that it is the same for both men and women.’” "
+          ],
+          "text": "4. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad ibn ‘Isa from ibn Faddal from ibn Bukayr from Muhammad ibn Muslim who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, disliked a man’s sleeping alone overnight on a flat roof without safety fencing wall around it; and that it is the same for both men and women.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> موثق كالصحيح   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/443)",
+          "label": "موثق كالصحيح",
+          "text": "Allamah Baqir al-Majlisi: موثق كالصحيح - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/443)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى عَنِ ابْنِ فَضَّالٍ عَنِ ابْنِ بُكَيْرٍ عَنْ مُحَمَّدِ بْنِ مُسْلِمٍ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) أَنَّهُ كَرِهَ الْبَيْتُوتَةَ لِلرَّجُلِ عَلَى سَطْحٍ وَحْدَهُ أَوْ عَلَى سَطْحٍ لَيْسَتْ عَلَيْهِ حُجْرَةٌ وَ الرَّجُلُ وَ الْمَرْأَةُ فِي",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى",
+            "path": "/people/narrators/13"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ فَضَّالٍ",
+            "path": "/people/narrators/22"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ بُكَيْرٍ",
+            "path": "/people/narrators/56"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ مُسْلِمٍ",
+            "path": "/people/narrators/16"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "plain",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام ) أَنَّهُ كَرِهَ الْبَيْتُوتَةَ لِلرَّجُلِ عَلَى سَطْحٍ وَحْدَهُ أَوْ عَلَى سَطْحٍ لَيْسَتْ عَلَيْهِ حُجْرَةٌ"
+          },
+          {
+            "kind": "plain",
+            "text": " وَ "
+          },
+          {
+            "kind": "plain",
+            "text": "الرَّجُلُ"
+          },
+          {
+            "kind": "plain",
+            "text": " وَ "
+          },
+          {
+            "kind": "plain",
+            "text": "الْمَرْأَةُ"
+          },
+          {
+            "kind": "plain",
+            "text": " فِي"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/13",
+          "/people/narrators/22",
+          "/people/narrators/56",
+          "/people/narrators/16"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:2:2:16:2"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:8:67:4",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/8/67/4.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:8:67:5",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:8:67:5",
+        "parts": [
+          6,
+          8,
+          67,
+          5
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 8,
+        "chapter": 67,
+        "hadith": 5
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:8:67",
+        "titles": {
+          "ar": "باب تَحْجِيرِ السُّطُوحِ",
+          "en": "Chapter 67 – The Roof Enclosure"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " السَّطْحِ يُبَاتُ عَلَيْهِ وَ هُوَ غَيْرُ مُحَجَّرٍ قَالَ يُجْزِيهِ أَنْ يَكُونَ مِقْدَارُ ارْتِفَاعِ الْحَائِطِ ذِرَاعَيْنِ ."
+        ],
+        "text": "السَّطْحِ يُبَاتُ عَلَيْهِ وَ هُوَ غَيْرُ مُحَجَّرٍ قَالَ يُجْزِيهِ أَنْ يَكُونَ مِقْدَارُ ارْتِفَاعِ الْحَائِطِ ذِرَاعَيْنِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father, from Ibn Abu Umeyr, from Muhammad Bin Abu Hamza and someone else, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> regarding the roof one sleeps upon and he is not enclosed (by the boundary wall), he<sup>asws</sup> said: ‘It would suffice for him if there happened to be a wall of a height of the measurement of two cubits’."
+          ],
+          "text": "Ali Bin Ibrahim, from his father, from Ibn Abu Umeyr, from Muhammad Bin Abu Hamza and someone else,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> regarding the roof one sleeps upon and he is not enclosed (by the boundary wall), he<sup>asws</sup> said: ‘It would suffice for him if there happened to be a wall of a height of the measurement of two cubits’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "5. Ali ibn Ibrahim has narrated from his father from ibn abu ‘Umayr from Muhammad ibn abu Hamzah and others who has said the following: “About the case of a flat roof without fencing wall around it abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘If the height of the fencing wall around a flat roof is two yards (Zira’ arm-length) it is sufficient.’” "
+          ],
+          "text": "5. Ali ibn Ibrahim has narrated from his father from ibn abu ‘Umayr from Muhammad ibn abu Hamzah and others who has said the following: “About the case of a flat roof without fencing wall around it abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘If the height of the fencing wall around a flat roof is two yards (Zira’ arm-length) it is sufficient.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> حسن  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/444)",
+          "label": "حسن",
+          "text": "Allamah Baqir al-Majlisi: حسن - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/444)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنِ ابْنِ أَبِي عُمَيْرٍ عَنْ مُحَمَّدِ بْنِ أَبِي حَمْزَةَ وَ غَيْرِهِ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) فِي",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ أَبِي عُمَيْرٍ",
+            "path": "/people/narrators/7"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ أَبِي حَمْزَةَ",
+            "path": "/people/narrators/158"
+          },
+          {
+            "kind": "plain",
+            "text": " وَ "
+          },
+          {
+            "kind": "narrator",
+            "text": "غَيْرِهِ",
+            "path": "/people/narrators/78"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " فِي"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/7",
+          "/people/narrators/158",
+          "/people/narrators/78",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:8:67:5",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/8/67/5.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:8:67:6",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:8:67:6",
+        "parts": [
+          6,
+          8,
+          67,
+          6
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 8,
+        "chapter": 67,
+        "hadith": 6
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:8:67",
+        "titles": {
+          "ar": "باب تَحْجِيرِ السُّطُوحِ",
+          "en": "Chapter 67 – The Roof Enclosure"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَأَلْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) عَنِ السَّطْحِ يُنَامُ عَلَيْهِ بِغَيْرِ حُجْرَةٍ قَالَ نَهَى رَسُولُ اللَّهِ ( صلى الله عليه وآله ) عَنْ ذَلِكَ فَسَأَلْتُهُ عَنْ ثَلَاثَةِ حِيطَانٍ فَقَالَ لَا إِلَّا أَرْبَعَةً قُلْتُ كَمْ طُولُ الْحَائِطِ قَالَ أَقْصَرُهُ ذِرَاعٌ وَ شِبْرٌ ."
+        ],
+        "text": "سَأَلْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) عَنِ السَّطْحِ يُنَامُ عَلَيْهِ بِغَيْرِ حُجْرَةٍ قَالَ نَهَى رَسُولُ اللَّهِ ( صلى الله عليه وآله ) عَنْ ذَلِكَ فَسَأَلْتُهُ عَنْ ثَلَاثَةِ حِيطَانٍ فَقَالَ لَا إِلَّا أَرْبَعَةً قُلْتُ كَمْ طُولُ الْحَائِطِ قَالَ أَقْصَرُهُ ذِرَاعٌ وَ شِبْرٌ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "From him, from his father, from Safwan Bin yahya, from Ays Bin Al Qasim who said, ",
+            "‘I asked Abu Abdullah<sup>asws</sup> about the roof, can one sleep upon it without an enclosure?’ He<sup>asws</sup> said: ‘Rasool-Allah<sup>saww</sup> forbade from that’. So I asked him<sup>asws</sup> about three walls, so he<sup>asws</sup> said: ‘No, unless it is four’. I said, ‘How much should the height of the walls be?’ He<sup>asws</sup> said: ‘The shortest of it is one cubit and one open-palms width (<span class=\"iTxt\">Shibr</span>)’."
+          ],
+          "text": "From him, from his father, from Safwan Bin yahya, from Ays Bin Al Qasim who said,\n\n‘I asked Abu Abdullah<sup>asws</sup> about the roof, can one sleep upon it without an enclosure?’ He<sup>asws</sup> said: ‘Rasool-Allah<sup>saww</sup> forbade from that’. So I asked him<sup>asws</sup> about three walls, so he<sup>asws</sup> said: ‘No, unless it is four’. I said, ‘How much should the height of the walls be?’ He<sup>asws</sup> said: ‘The shortest of it is one cubit and one open-palms width (<span class=\"iTxt\">Shibr</span>)’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "6. It is narrated from the narrator of the previous Hadith from his father from Safwan ibn Yahya from ‘Is ibn al-Qasim who has said the following: “I once asked abu ‘Abd Allah, ‘Alayhi al-Salam, about sleeping overnight on a flat roof without fencing wall around it. He (the Imam) said, ‘The Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, prohibited it.’ I then asked if three yards (Zira’ arm-length) is sufficient for the height of such fencing wall. He (the Imam) said, ‘No, it is four.’ I then asked, ‘How much is the length of the wall?’ He (the Imam) said, ‘The shortest is one yard (Zira’ arm-length) and one Shibr. (the distance from the tip of the thump to the tip of the little finger with the thump and little finger open and stretched out).”’ "
+          ],
+          "text": "6. It is narrated from the narrator of the previous Hadith from his father from Safwan ibn Yahya from ‘Is ibn al-Qasim who has said the following: “I once asked abu ‘Abd Allah, ‘Alayhi al-Salam, about sleeping overnight on a flat roof without fencing wall around it. He (the Imam) said, ‘The Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, prohibited it.’ I then asked if three yards (Zira’ arm-length) is sufficient for the height of such fencing wall. He (the Imam) said, ‘No, it is four.’ I then asked, ‘How much is the length of the wall?’ He (the Imam) said, ‘The shortest is one yard (Zira’ arm-length) and one Shibr. (the distance from the tip of the thump to the tip of the little finger with the thump and little finger open and stretched out).”’"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> حسن   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/444)",
+          "label": "حسن",
+          "text": "Allamah Baqir al-Majlisi: حسن - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/444)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَنْهُ عَنْ أَبِيهِ عَنْ صَفْوَانَ بْنِ يَحْيَى عَنْ عِيصِ بْنِ الْقَاسِمِ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَنْهُ",
+            "path": "/people/narrators/11"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "صَفْوَانَ بْنِ يَحْيَى",
+            "path": "/people/narrators/30"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عِيصِ بْنِ الْقَاسِمِ",
+            "path": "/people/narrators/265"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/11",
+          "/people/narrators/2",
+          "/people/narrators/30",
+          "/people/narrators/265"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:8:67:6",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/8/67/6.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

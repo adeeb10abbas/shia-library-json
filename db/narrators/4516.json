@@ -1,0 +1,45 @@
+{
+  "id": 4516,
+  "type": "narrator",
+  "path": "/people/narrators/4516",
+  "titles": {
+    "ar": "هَيْثَمٍ التَّمِيمِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:139:9",
+    "/books/man-la-yahduruhu-al-faqih:2:3:77:2"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "19-24-30-4516": {
+      "narrator_ids": [
+        19,
+        24,
+        30,
+        4516
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:139:9"
+      ]
+    },
+    "30-4516": {
+      "narrator_ids": [
+        30,
+        4516
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:139:9",
+        "/books/man-la-yahduruhu-al-faqih:2:3:77:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4516",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4516.json"
+  }
+}

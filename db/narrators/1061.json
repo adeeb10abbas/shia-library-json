@@ -1,0 +1,132 @@
+{
+  "id": 1061,
+  "type": "narrator",
+  "path": "/people/narrators/1061",
+  "titles": {
+    "ar": "بِشْرِ بْنِ مَسْلَمَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:2:55:10",
+    "/books/al-kafi:5:2:119:3",
+    "/books/al-kafi:6:6:5:2",
+    "/books/tahdhib-al-ahkam:9:1:176"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "1061-64": {
+      "narrator_ids": [
+        1061,
+        64
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:1:176"
+      ]
+    },
+    "1061-669": {
+      "narrator_ids": [
+        1061,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:55:10"
+      ]
+    },
+    "1061-9": {
+      "narrator_ids": [
+        1061,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:119:3"
+      ]
+    },
+    "1061-98": {
+      "narrator_ids": [
+        1061,
+        98
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:5:2"
+      ]
+    },
+    "1642-1061": {
+      "narrator_ids": [
+        1642,
+        1061
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:55:10"
+      ]
+    },
+    "3-2-7-1061-9": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        1061,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:119:3"
+      ]
+    },
+    "3-2-7-1642-1061-669": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        1642,
+        1061,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:55:10"
+      ]
+    },
+    "49-3555-7-1061-98": {
+      "narrator_ids": [
+        49,
+        3555,
+        7,
+        1061,
+        98
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:5:2"
+      ]
+    },
+    "7-1061": {
+      "narrator_ids": [
+        7,
+        1061
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:119:3",
+        "/books/al-kafi:6:6:5:2",
+        "/books/tahdhib-al-ahkam:9:1:176"
+      ]
+    },
+    "952-49-3555-7-1061-64": {
+      "narrator_ids": [
+        952,
+        49,
+        3555,
+        7,
+        1061,
+        64
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:1:176"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1061",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1061.json"
+  }
+}

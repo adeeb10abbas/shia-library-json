@@ -1,0 +1,55 @@
+{
+  "id": 3082,
+  "type": "narrator",
+  "path": "/people/narrators/3082",
+  "titles": {
+    "ar": "حَفْصِ بْنِ الْبَخْتَرِيِّ كُلِّهِمْ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:3:39:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-2-7-47-54-3082-669": {
+      "narrator_ids": [
+        11,
+        2,
+        7,
+        47,
+        54,
+        3082,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:39:2"
+      ]
+    },
+    "3082-669": {
+      "narrator_ids": [
+        3082,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:39:2"
+      ]
+    },
+    "54-3082": {
+      "narrator_ids": [
+        54,
+        3082
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:39:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3082",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3082.json"
+  }
+}

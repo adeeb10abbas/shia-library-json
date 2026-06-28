@@ -1,0 +1,79 @@
+{
+  "id": 2071,
+  "type": "narrator",
+  "path": "/people/narrators/2071",
+  "titles": {
+    "ar": "أَبِي حَبِيبٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:3:48:20",
+    "/books/man-la-yahduruhu-al-faqih:3:1:53:10",
+    "/books/tahdhib-al-ahkam:10:10:34"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "2071-16": {
+      "narrator_ids": [
+        2071,
+        16
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:48:20",
+        "/books/man-la-yahduruhu-al-faqih:3:1:53:10",
+        "/books/tahdhib-al-ahkam:10:10:34"
+      ]
+    },
+    "3-2-431-2071-16": {
+      "narrator_ids": [
+        3,
+        2,
+        431,
+        2071,
+        16
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:48:20",
+        "/books/tahdhib-al-ahkam:10:10:34"
+      ]
+    },
+    "431-2071": {
+      "narrator_ids": [
+        431,
+        2071
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:48:20",
+        "/books/tahdhib-al-ahkam:10:10:34"
+      ]
+    },
+    "7-2071": {
+      "narrator_ids": [
+        7,
+        2071
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:3:1:53:10"
+      ]
+    },
+    "7-2071-16-9": {
+      "narrator_ids": [
+        7,
+        2071,
+        16,
+        9
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:3:1:53:10"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2071",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2071.json"
+  }
+}

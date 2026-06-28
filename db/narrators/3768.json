@@ -1,0 +1,43 @@
+{
+  "id": 3768,
+  "type": "narrator",
+  "path": "/people/narrators/3768",
+  "titles": {
+    "ar": "عَلِيِّ بْنِ حَبِيبٍ بَيَّاعِ الْهَرَوِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:1:39:8"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1285-3768": {
+      "narrator_ids": [
+        1285,
+        3768
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:1:39:8"
+      ]
+    },
+    "6-5-1285-3768": {
+      "narrator_ids": [
+        6,
+        5,
+        1285,
+        3768
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:1:39:8"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3768",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3768.json"
+  }
+}

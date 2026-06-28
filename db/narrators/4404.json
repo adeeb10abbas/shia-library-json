@@ -1,0 +1,64 @@
+{
+  "id": 4404,
+  "type": "narrator",
+  "path": "/people/narrators/4404",
+  "titles": {
+    "ar": "مُقَاتِلِ بْنِ سُلَيْمَانَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:42:9",
+    "/books/man-la-yahduruhu-al-faqih:4:73:1"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "3-2-53-4404": {
+      "narrator_ids": [
+        3,
+        2,
+        53,
+        4404
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:42:9"
+      ]
+    },
+    "4404-669": {
+      "narrator_ids": [
+        4404,
+        669
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:4:73:1"
+      ]
+    },
+    "53-4404": {
+      "narrator_ids": [
+        53,
+        4404
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:42:9",
+        "/books/man-la-yahduruhu-al-faqih:4:73:1"
+      ]
+    },
+    "53-4404-669": {
+      "narrator_ids": [
+        53,
+        4404,
+        669
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:4:73:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4404",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4404.json"
+  }
+}

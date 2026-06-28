@@ -1,0 +1,44 @@
+{
+  "id": 3018,
+  "type": "narrator",
+  "path": "/people/narrators/3018",
+  "titles": {
+    "ar": "جَمَاعَةَ بْنِ سَعْدٍ الْخَثْعَمِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:48:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "204-3018": {
+      "narrator_ids": [
+        204,
+        3018
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:48:3"
+      ]
+    },
+    "35-153-39-204-3018": {
+      "narrator_ids": [
+        35,
+        153,
+        39,
+        204,
+        3018
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:48:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3018",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3018.json"
+  }
+}

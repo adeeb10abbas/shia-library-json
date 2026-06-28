@@ -1,0 +1,54 @@
+{
+  "id": 3433,
+  "type": "narrator",
+  "path": "/people/narrators/3433",
+  "titles": {
+    "ar": "صَامِتٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:201:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "241-3433": {
+      "narrator_ids": [
+        241,
+        3433
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:201:5"
+      ]
+    },
+    "3433-669": {
+      "narrator_ids": [
+        3433,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:201:5"
+      ]
+    },
+    "5-3726-241-3433-669-662": {
+      "narrator_ids": [
+        5,
+        3726,
+        241,
+        3433,
+        669,
+        662
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:201:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3433",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3433.json"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": 3532,
+  "type": "narrator",
+  "path": "/people/narrators/3532",
+  "titles": {
+    "ar": "عَبْدِ الْعَظِيمِ بْنِ عَبْدِ اللَّهِ بْنِ الْحَسَنِ الْعَلَوِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:4:21:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "32-3532": {
+      "narrator_ids": [
+        32,
+        3532
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:21:1"
+      ]
+    },
+    "6-12-32-3532": {
+      "narrator_ids": [
+        6,
+        12,
+        32,
+        3532
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:21:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3532",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3532.json"
+  }
+}

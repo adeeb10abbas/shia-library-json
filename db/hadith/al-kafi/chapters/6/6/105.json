@@ -1,0 +1,320 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:6:6:105",
+  "chapter": {
+    "path": "/books/al-kafi:6:6:105",
+    "titles": {
+      "ar": "باب الْكُمَّثْرَى",
+      "en": "Chapter 104 – The Pears"
+    }
+  },
+  "count": 2,
+  "records": [
+    {
+      "id": "al-kafi:6:6:105:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:6:105:1",
+        "parts": [
+          6,
+          6,
+          105,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 6,
+        "chapter": 105,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:6:105",
+        "titles": {
+          "ar": "باب الْكُمَّثْرَى",
+          "en": "Chapter 104 – The Pears"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " كُلُوا الْكُمَّثْرَى فَإِنَّهُ يَجْلُو الْقَلْبَ وَ يُسَكِّنُ أَوْجَاعَ الْجَوْفِ بِإِذْنِ اللَّهِ تَعَالَى ."
+        ],
+        "text": "كُلُوا الْكُمَّثْرَى فَإِنَّهُ يَجْلُو الْقَلْبَ وَ يُسَكِّنُ أَوْجَاعَ الْجَوْفِ بِإِذْنِ اللَّهِ تَعَالَى ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Al Qasim Bin yahya, from his grandfather Al Hassan Bin Rashid, from Abu Baseer, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Eat the pears for it galvanises the heart and settles the interior pains by the Permission of Allah<sup>azwj</sup> the High’."
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Al Qasim Bin yahya, from his grandfather Al Hassan Bin Rashid, from Abu Baseer,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Eat the pears for it galvanises the heart and settles the interior pains by the Permission of Allah<sup>azwj</sup> the High’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from al-Qasim ibn Yahya from his grandfather al-Hassan ibn Rashid from abu Basir who has said the following: “Abu ‘ Abd Allah, ‘Alayhi al-Salam, has said, ‘You can eat pears; it brightens the heart (mind) and calms down pains by the permission of Allah.’” "
+          ],
+          "text": "1. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from al-Qasim ibn Yahya from his grandfather al-Hassan ibn Rashid from abu Basir who has said the following: “Abu ‘ Abd Allah, ‘Alayhi al-Salam, has said, ‘You can eat pears; it brightens the heart (mind) and calms down pains by the permission of Allah.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/199)",
+          "label": "ضعيف",
+          "text": "Allamah Baqir al-Majlisi: ضعيف - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/199)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنِ الْقَاسِمِ بْنِ يَحْيَى عَنْ جَدِّهِ الْحَسَنِ بْنِ رَاشِدٍ عَنْ أَبِي بَصِيرٍ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْقَاسِمِ بْنِ يَحْيَى",
+            "path": "/people/narrators/151"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "جَدِّهِ الْحَسَنِ بْنِ رَاشِدٍ",
+            "path": "/people/narrators/152"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي بَصِيرٍ",
+            "path": "/people/narrators/14"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/5",
+          "/people/narrators/151",
+          "/people/narrators/152",
+          "/people/narrators/14",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:6:6:100:2",
+          "/books/al-kafi:6:6:23:10",
+          "/books/al-kafi:6:6:44:3",
+          "/books/al-kafi:6:6:48:7",
+          "/books/al-kafi:6:6:49:1",
+          "/books/al-kafi:6:7:8:2",
+          "/books/al-kafi:6:8:1:1",
+          "/books/al-kafi:6:8:21:6",
+          "/books/al-kafi:6:8:26:9",
+          "/books/al-kafi:6:8:2:14",
+          "/books/al-kafi:6:8:4:4",
+          "/books/al-kafi:6:8:8:1"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:6:105:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/6/105/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:6:105:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:6:105:2",
+        "parts": [
+          6,
+          6,
+          105,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 6,
+        "chapter": 105,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:6:105",
+        "titles": {
+          "ar": "باب الْكُمَّثْرَى",
+          "en": "Chapter 104 – The Pears"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " الْكُمَّثْرَى يَدْبُغُ الْمَعِدَةَ وَ يُقَوِّيهَا هُوَ وَ السَّفَرْجَلُ سَوَاءٌ وَ هُوَ عَلَى الشِّبَعِ أَنْفَعُ مِنْهُ عَلَى الرِّيقِ وَ مَنْ أَصَابَهُ طَخَاءٌ فَلْيَأْكُلْهُ يَعْنِي عَلَى الطَّعَامِ ."
+        ],
+        "text": "الْكُمَّثْرَى يَدْبُغُ الْمَعِدَةَ وَ يُقَوِّيهَا هُوَ وَ السَّفَرْجَلُ سَوَاءٌ وَ هُوَ عَلَى الشِّبَعِ أَنْفَعُ مِنْهُ عَلَى الرِّيقِ وَ مَنْ أَصَابَهُ طَخَاءٌ فَلْيَأْكُلْهُ يَعْنِي عَلَى الطَّعَامِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Abdullah Bin Ja’far, from Muhammad Bin Isa, from Al Washa, from one of our companions, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The pears repair the stomach and strengthens it, it and the Quince are the same, and it is more beneficial upon the full stomach than upon the empty, and the one who is hit by overwhelming stress so let him eat it, meaning upon the food’."
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Abdullah Bin Ja’far, from Muhammad Bin Isa, from Al Washa, from one of our companions,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The pears repair the stomach and strengthens it, it and the Quince are the same, and it is more beneficial upon the full stomach than upon the empty, and the one who is hit by overwhelming stress so let him eat it, meaning upon the food’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from ‘Abd Allah ibn Ja‘far from Muhammad ibn ‘Isa from al- Washsha’ from certain persons of our people who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘Pears tan (cleanses) the stomach and makes it strong. Pears and quince are the same. On a full stomach, it is more beneficial than before breakfast. If one feels depression and sadness in his heart he should eat pears after food.’” "
+          ],
+          "text": "2. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from ‘Abd Allah ibn Ja‘far from Muhammad ibn ‘Isa from al- Washsha’ from certain persons of our people who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘Pears tan (cleanses) the stomach and makes it strong. Pears and quince are the same. On a full stomach, it is more beneficial than before breakfast. If one feels depression and sadness in his heart he should eat pears after food.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مرسل   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/199)",
+          "label": "مرسل",
+          "text": "Allamah Baqir al-Majlisi: مرسل - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/199)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنْ عَبْدِ اللَّهِ بْنِ جَعْفَرٍ عَنْ مُحَمَّدِ بْنِ عِيسَى عَنِ الْوَشَّاءِ عَنْ بَعْضِ أَصْحَابِنَا عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَبْدِ اللَّهِ بْنِ جَعْفَرٍ",
+            "path": "/people/narrators/256"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ عِيسَى",
+            "path": "/people/narrators/27"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْوَشَّاءِ",
+            "path": "/people/narrators/61"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "بَعْضِ أَصْحَابِنَا",
+            "path": "/people/narrators/36"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/5",
+          "/people/narrators/256",
+          "/people/narrators/27",
+          "/people/narrators/61",
+          "/people/narrators/36",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:6:105:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/6/105/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

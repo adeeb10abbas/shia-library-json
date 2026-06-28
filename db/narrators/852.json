@@ -1,0 +1,208 @@
+{
+  "id": 852,
+  "type": "narrator",
+  "path": "/people/narrators/852",
+  "titles": {
+    "ar": "أَحْمَدَ بْنِ الْفَضْلِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:1:23:1",
+    "/books/al-kafi:6:1:3:12",
+    "/books/al-kafi:6:6:6:9",
+    "/books/al-kafi:7:4:17:5",
+    "/books/kitab-al-ghayba-tusi:12:2",
+    "/books/tahdhib-al-ahkam:10:15:31",
+    "/books/tahdhib-al-ahkam:6:71:6",
+    "/books/tahdhib-al-ahkam:9:1:45",
+    "/books/uyun-akhbar-al-rida:1:2:10:2",
+    "/books/uyun-akhbar-al-rida:2:5:13"
+  ],
+  "verseCount": 10,
+  "relations": {},
+  "subchains": {
+    "11-852": {
+      "narrator_ids": [
+        11,
+        852
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:1:45"
+      ]
+    },
+    "11-852-146-184": {
+      "narrator_ids": [
+        11,
+        852,
+        146,
+        184
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:1:45"
+      ]
+    },
+    "1177-852": {
+      "narrator_ids": [
+        1177,
+        852
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:1:23:1",
+        "/books/al-kafi:7:4:17:5",
+        "/books/tahdhib-al-ahkam:10:15:31",
+        "/books/tahdhib-al-ahkam:6:71:6"
+      ]
+    },
+    "20-230-852-26-184": {
+      "narrator_ids": [
+        20,
+        230,
+        852,
+        26,
+        184
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:6:9"
+      ]
+    },
+    "227-852": {
+      "narrator_ids": [
+        227,
+        852
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:12:2",
+        "/books/uyun-akhbar-al-rida:1:2:10:2"
+      ]
+    },
+    "230-852": {
+      "narrator_ids": [
+        230,
+        852
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:6:9"
+      ]
+    },
+    "310-1177-852-124-1616": {
+      "narrator_ids": [
+        310,
+        1177,
+        852,
+        124,
+        1616
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:71:6"
+      ]
+    },
+    "310-1177-852-124-1616-1397": {
+      "narrator_ids": [
+        310,
+        1177,
+        852,
+        124,
+        1616,
+        1397
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:1:23:1"
+      ]
+    },
+    "5-1177-852-124-1616-1397-9": {
+      "narrator_ids": [
+        5,
+        1177,
+        852,
+        124,
+        1616,
+        1397,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:4:17:5",
+        "/books/tahdhib-al-ahkam:10:15:31"
+      ]
+    },
+    "577-852": {
+      "narrator_ids": [
+        577,
+        852
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:3:12"
+      ]
+    },
+    "6-5-577-852-669": {
+      "narrator_ids": [
+        6,
+        5,
+        577,
+        852,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:3:12"
+      ]
+    },
+    "601-59-227-852-146": {
+      "narrator_ids": [
+        601,
+        59,
+        227,
+        852,
+        146
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:12:2"
+      ]
+    },
+    "852-124": {
+      "narrator_ids": [
+        852,
+        124
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:1:23:1",
+        "/books/al-kafi:7:4:17:5",
+        "/books/tahdhib-al-ahkam:10:15:31",
+        "/books/tahdhib-al-ahkam:6:71:6"
+      ]
+    },
+    "852-146": {
+      "narrator_ids": [
+        852,
+        146
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:12:2",
+        "/books/tahdhib-al-ahkam:9:1:45"
+      ]
+    },
+    "852-26": {
+      "narrator_ids": [
+        852,
+        26
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:6:9"
+      ]
+    },
+    "852-669": {
+      "narrator_ids": [
+        852,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:3:12"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/852",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/852.json"
+  }
+}

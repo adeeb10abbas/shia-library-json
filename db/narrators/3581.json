@@ -1,0 +1,44 @@
+{
+  "id": 3581,
+  "type": "narrator",
+  "path": "/people/narrators/3581",
+  "titles": {
+    "ar": "عَبْدِ اللَّهِ بْنِ سَعِيدٍ الدَّغْشِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:54:17",
+    "/books/tahdhib-al-ahkam:7:1:29"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "2409-3581": {
+      "narrator_ids": [
+        2409,
+        3581
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:54:17"
+      ]
+    },
+    "92-925-2409-3581": {
+      "narrator_ids": [
+        92,
+        925,
+        2409,
+        3581
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:54:17"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3581",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3581.json"
+  }
+}

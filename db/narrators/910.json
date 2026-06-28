@@ -1,0 +1,127 @@
+{
+  "id": 910,
+  "type": "narrator",
+  "path": "/people/narrators/910",
+  "titles": {
+    "ar": "صَبَّاحِ بْنِ سَيَابَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:104:7",
+    "/books/al-kafi:2:1:112:13",
+    "/books/al-kafi:5:3:88:4",
+    "/books/al-kafi:8:1:46:33"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "19-24-17-33-30-45-910-669": {
+      "narrator_ids": [
+        19,
+        24,
+        17,
+        33,
+        30,
+        45,
+        910,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:88:4"
+      ]
+    },
+    "3-2-7-45-910": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        45,
+        910
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:112:13"
+      ]
+    },
+    "45-910": {
+      "narrator_ids": [
+        45,
+        910
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:112:13",
+        "/books/al-kafi:5:3:88:4"
+      ]
+    },
+    "46-910": {
+      "narrator_ids": [
+        46,
+        910
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:46:33"
+      ]
+    },
+    "49-1995-797-1659-46-910-440": {
+      "narrator_ids": [
+        49,
+        1995,
+        797,
+        1659,
+        46,
+        910,
+        440
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:46:33"
+      ]
+    },
+    "52-910": {
+      "narrator_ids": [
+        52,
+        910
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:104:7"
+      ]
+    },
+    "6-5-15-52-910-669": {
+      "narrator_ids": [
+        6,
+        5,
+        15,
+        52,
+        910,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:104:7"
+      ]
+    },
+    "910-440": {
+      "narrator_ids": [
+        910,
+        440
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:46:33"
+      ]
+    },
+    "910-669": {
+      "narrator_ids": [
+        910,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:104:7",
+        "/books/al-kafi:5:3:88:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/910",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/910.json"
+  }
+}

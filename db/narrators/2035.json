@@ -1,0 +1,77 @@
+{
+  "id": 2035,
+  "type": "narrator",
+  "path": "/people/narrators/2035",
+  "titles": {
+    "ar": "أَبِي بَصِيرٍ الْأَسَدِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:2:10:3",
+    "/books/tahdhib-al-ahkam:8:3:85"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "108-2035": {
+      "narrator_ids": [
+        108,
+        2035
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:10:3",
+        "/books/tahdhib-al-ahkam:8:3:85"
+      ]
+    },
+    "11-24-189-43-108-2035-655-389-669": {
+      "narrator_ids": [
+        11,
+        24,
+        189,
+        43,
+        108,
+        2035,
+        655,
+        389,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:8:3:85"
+      ]
+    },
+    "19-24-1652-189-43-108-2035-655-389-669": {
+      "narrator_ids": [
+        19,
+        24,
+        1652,
+        189,
+        43,
+        108,
+        2035,
+        655,
+        389,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:10:3"
+      ]
+    },
+    "2035-655": {
+      "narrator_ids": [
+        2035,
+        655
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:10:3",
+        "/books/tahdhib-al-ahkam:8:3:85"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2035",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2035.json"
+  }
+}

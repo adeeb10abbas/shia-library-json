@@ -1,0 +1,47 @@
+{
+  "id": 1795,
+  "type": "narrator",
+  "path": "/people/narrators/1795",
+  "titles": {
+    "ar": "إِبْرَاهِيمَ الْهَمَذَانِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:131:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "27-1795": {
+      "narrator_ids": [
+        27,
+        1795
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:131:2"
+      ]
+    },
+    "6-8-5-81-740-600-27-1795": {
+      "narrator_ids": [
+        6,
+        8,
+        5,
+        81,
+        740,
+        600,
+        27,
+        1795
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:131:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1795",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1795.json"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": 2082,
+  "type": "narrator",
+  "path": "/people/narrators/2082",
+  "titles": {
+    "ar": "أَبِي حَنِيفَةَ مُحَمَّدِ بْنِ يَحْيَى"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:113:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "20-4337-2082-2828-4266-2": {
+      "narrator_ids": [
+        20,
+        4337,
+        2082,
+        2828,
+        4266,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:113:1"
+      ]
+    },
+    "2082-2828": {
+      "narrator_ids": [
+        2082,
+        2828
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:113:1"
+      ]
+    },
+    "4337-2082": {
+      "narrator_ids": [
+        4337,
+        2082
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:113:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2082",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2082.json"
+  }
+}

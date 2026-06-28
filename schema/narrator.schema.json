@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.local/shia-library-json/schema/narrator.schema.json",
+  "title": "Narrator Record",
+  "type": "object",
+  "required": ["id", "type", "path", "titles", "source"],
+  "properties": {
+    "id": { "type": "integer" },
+    "type": { "const": "narrator" },
+    "path": { "type": "string" },
+    "titles": { "type": "object" },
+    "versePaths": { "type": "array" },
+    "verseCount": { "type": "integer" },
+    "relations": { "type": "object" },
+    "subchains": { "type": "object" },
+    "source": { "type": "object" }
+  }
+}
+

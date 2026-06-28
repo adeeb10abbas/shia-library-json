@@ -1,0 +1,74 @@
+{
+  "id": 4336,
+  "type": "narrator",
+  "path": "/people/narrators/4336",
+  "titles": {
+    "ar": "مُحَمَّدُ بْنُ يَحْيَى الْأَشْعَرِيُّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:53:3",
+    "/books/tahdhib-al-ahkam:1:27:30"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "135-4336": {
+      "narrator_ids": [
+        135,
+        4336
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:27:30"
+      ]
+    },
+    "135-4336-1474": {
+      "narrator_ids": [
+        135,
+        4336,
+        1474
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:27:30"
+      ]
+    },
+    "4336-1474": {
+      "narrator_ids": [
+        4336,
+        1474
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:27:30"
+      ]
+    },
+    "4336-5": {
+      "narrator_ids": [
+        4336,
+        5
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:53:3"
+      ]
+    },
+    "4336-5-259-65-375-442": {
+      "narrator_ids": [
+        4336,
+        5,
+        259,
+        65,
+        375,
+        442
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:53:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4336",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4336.json"
+  }
+}

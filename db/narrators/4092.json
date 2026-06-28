@@ -1,0 +1,43 @@
+{
+  "id": 4092,
+  "type": "narrator",
+  "path": "/people/narrators/4092",
+  "titles": {
+    "ar": "مُبَارَكٍ غُلَامِ شُعَيْبٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:107:20"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "41-4092": {
+      "narrator_ids": [
+        41,
+        4092
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:107:20"
+      ]
+    },
+    "6-12-41-4092": {
+      "narrator_ids": [
+        6,
+        12,
+        41,
+        4092
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:107:20"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4092",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4092.json"
+  }
+}

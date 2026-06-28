@@ -1,0 +1,82 @@
+{
+  "id": 3462,
+  "type": "narrator",
+  "path": "/people/narrators/3462",
+  "titles": {
+    "ar": "عَائِذِ بْنِ حَبِيبٍ بَيَّاعِ الْهَرَوِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:1:32:1",
+    "/books/tahdhib-al-ahkam:8:5:27",
+    "/books/tahdhib-al-ahkam:9:8:13"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "11-1285-3462": {
+      "narrator_ids": [
+        11,
+        1285,
+        3462
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:8:13"
+      ]
+    },
+    "1285-3462": {
+      "narrator_ids": [
+        1285,
+        3462
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:32:1",
+        "/books/tahdhib-al-ahkam:8:5:27",
+        "/books/tahdhib-al-ahkam:9:8:13"
+      ]
+    },
+    "3462-1607": {
+      "narrator_ids": [
+        3462,
+        1607
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:32:1",
+        "/books/tahdhib-al-ahkam:8:5:27"
+      ]
+    },
+    "4-13-1285-3462-1607-669": {
+      "narrator_ids": [
+        4,
+        13,
+        1285,
+        3462,
+        1607,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:32:1"
+      ]
+    },
+    "952-13-1285-3462-1607-669": {
+      "narrator_ids": [
+        952,
+        13,
+        1285,
+        3462,
+        1607,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:8:5:27"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3462",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3462.json"
+  }
+}

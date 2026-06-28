@@ -1,0 +1,54 @@
+{
+  "id": 4301,
+  "type": "narrator",
+  "path": "/people/narrators/4301",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ عِيسَى الْأَرْمِينِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:2:43:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "4301-2186": {
+      "narrator_ids": [
+        4301,
+        2186
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:43:1"
+      ]
+    },
+    "5-4301": {
+      "narrator_ids": [
+        5,
+        4301
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:43:1"
+      ]
+    },
+    "6-5-4301-2186-1019-669": {
+      "narrator_ids": [
+        6,
+        5,
+        4301,
+        2186,
+        1019,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:43:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4301",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4301.json"
+  }
+}

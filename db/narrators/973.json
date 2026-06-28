@@ -1,0 +1,129 @@
+{
+  "id": 973,
+  "type": "narrator",
+  "path": "/people/narrators/973",
+  "titles": {
+    "ar": "ابْنِ سَمَاعَةَ كُلِّهِمْ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:2:17:3",
+    "/books/al-kafi:6:2:38:1",
+    "/books/al-kafi:6:2:49:3",
+    "/books/tahdhib-al-ahkam:8:3:176"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "11-24-682-189-17-33-49-973-43-669": {
+      "narrator_ids": [
+        11,
+        24,
+        682,
+        189,
+        17,
+        33,
+        49,
+        973,
+        43,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:8:3:176"
+      ]
+    },
+    "19-24-682-189-17-33-49-973-43-669": {
+      "narrator_ids": [
+        19,
+        24,
+        682,
+        189,
+        17,
+        33,
+        49,
+        973,
+        43,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:49:3"
+      ]
+    },
+    "49-973": {
+      "narrator_ids": [
+        49,
+        973
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:17:3",
+        "/books/al-kafi:6:2:38:1",
+        "/books/al-kafi:6:2:49:3",
+        "/books/tahdhib-al-ahkam:8:3:176"
+      ]
+    },
+    "600-189-19-24-17-33-49-973-43-51-14": {
+      "narrator_ids": [
+        600,
+        189,
+        19,
+        24,
+        17,
+        33,
+        49,
+        973,
+        43,
+        51,
+        14
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:17:3"
+      ]
+    },
+    "612-189-19-24-17-33-49-973-30-96-18-9": {
+      "narrator_ids": [
+        612,
+        189,
+        19,
+        24,
+        17,
+        33,
+        49,
+        973,
+        30,
+        96,
+        18,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:38:1"
+      ]
+    },
+    "973-30": {
+      "narrator_ids": [
+        973,
+        30
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:38:1"
+      ]
+    },
+    "973-43": {
+      "narrator_ids": [
+        973,
+        43
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:17:3",
+        "/books/al-kafi:6:2:49:3",
+        "/books/tahdhib-al-ahkam:8:3:176"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/973",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/973.json"
+  }
+}

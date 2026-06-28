@@ -1,0 +1,104 @@
+{
+  "id": 1188,
+  "type": "narrator",
+  "path": "/people/narrators/1188",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ سَالِمِ بْنِ أَبِي سَلَمَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:43:2",
+    "/books/al-kafi:8:1:43:34",
+    "/books/al-kafi:8:1:43:35"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "1188-2282": {
+      "narrator_ids": [
+        1188,
+        2282
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:35"
+      ]
+    },
+    "1188-2282-2-66-669": {
+      "narrator_ids": [
+        1188,
+        2282,
+        2,
+        66,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:35"
+      ]
+    },
+    "1188-2553": {
+      "narrator_ids": [
+        1188,
+        2553
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:34"
+      ]
+    },
+    "1188-949": {
+      "narrator_ids": [
+        1188,
+        949
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:2"
+      ]
+    },
+    "154-929-1188-949": {
+      "narrator_ids": [
+        154,
+        929,
+        1188,
+        949
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:2"
+      ]
+    },
+    "20-4-1188-2553": {
+      "narrator_ids": [
+        20,
+        4,
+        1188,
+        2553
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:34"
+      ]
+    },
+    "4-1188": {
+      "narrator_ids": [
+        4,
+        1188
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:34"
+      ]
+    },
+    "929-1188": {
+      "narrator_ids": [
+        929,
+        1188
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1188",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1188.json"
+  }
+}

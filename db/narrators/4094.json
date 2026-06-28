@@ -1,0 +1,130 @@
+{
+  "id": 4094,
+  "type": "narrator",
+  "path": "/people/narrators/4094",
+  "titles": {
+    "ar": "مُثَنَّى بْنِ الْوَلِيدِ الْحَنَّاطِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:70:8",
+    "/books/man-la-yahduruhu-al-faqih:3:3:16:1",
+    "/books/tahdhib-al-ahkam:7:34:1",
+    "/books/tahdhib-al-ahkam:9:24:7",
+    "/books/tahdhib-al-ahkam:9:25:9"
+  ],
+  "verseCount": 5,
+  "relations": {},
+  "subchains": {
+    "11-15-4094-1619-3862-2": {
+      "narrator_ids": [
+        11,
+        15,
+        4094,
+        1619,
+        3862,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:70:8"
+      ]
+    },
+    "11-763-4094-18": {
+      "narrator_ids": [
+        11,
+        763,
+        4094,
+        18
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:24:7"
+      ]
+    },
+    "13-15-4094-14": {
+      "narrator_ids": [
+        13,
+        15,
+        4094,
+        14
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:34:1"
+      ]
+    },
+    "15-4094": {
+      "narrator_ids": [
+        15,
+        4094
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:70:8",
+        "/books/tahdhib-al-ahkam:7:34:1"
+      ]
+    },
+    "4094-14": {
+      "narrator_ids": [
+        4094,
+        14
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:3:3:16:1",
+        "/books/tahdhib-al-ahkam:7:34:1"
+      ]
+    },
+    "4094-1619": {
+      "narrator_ids": [
+        4094,
+        1619
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:70:8"
+      ]
+    },
+    "4094-18": {
+      "narrator_ids": [
+        4094,
+        18
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:24:7"
+      ]
+    },
+    "4094-669": {
+      "narrator_ids": [
+        4094,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:25:9"
+      ]
+    },
+    "645-763-4094-669": {
+      "narrator_ids": [
+        645,
+        763,
+        4094,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:25:9"
+      ]
+    },
+    "763-4094": {
+      "narrator_ids": [
+        763,
+        4094
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:24:7",
+        "/books/tahdhib-al-ahkam:9:25:9"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4094",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4094.json"
+  }
+}

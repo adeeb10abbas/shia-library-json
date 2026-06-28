@@ -1,0 +1,66 @@
+{
+  "id": 1393,
+  "type": "narrator",
+  "path": "/people/narrators/1393",
+  "titles": {
+    "ar": "الْيَسَعِ بْنِ حَمْزَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:189:2",
+    "/books/al-kafi:4:1:19:3"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "1393-184": {
+      "narrator_ids": [
+        1393,
+        184
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:189:2"
+      ]
+    },
+    "4-1664-610-1393": {
+      "narrator_ids": [
+        4,
+        1664,
+        610,
+        1393
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:19:3"
+      ]
+    },
+    "4-1664-610-1393-184": {
+      "narrator_ids": [
+        4,
+        1664,
+        610,
+        1393,
+        184
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:189:2"
+      ]
+    },
+    "610-1393": {
+      "narrator_ids": [
+        610,
+        1393
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:189:2",
+        "/books/al-kafi:4:1:19:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1393",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1393.json"
+  }
+}

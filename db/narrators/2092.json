@@ -1,0 +1,55 @@
+{
+  "id": 2092,
+  "type": "narrator",
+  "path": "/people/narrators/2092",
+  "titles": {
+    "ar": "أَبِي زُرَارَةَ التَّمِيمِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:3:7"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2092-2073": {
+      "narrator_ids": [
+        2092,
+        2073
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:3:7"
+      ]
+    },
+    "6-5-15-80-2092-2073-9": {
+      "narrator_ids": [
+        6,
+        5,
+        15,
+        80,
+        2092,
+        2073,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:3:7"
+      ]
+    },
+    "80-2092": {
+      "narrator_ids": [
+        80,
+        2092
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:3:7"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2092",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2092.json"
+  }
+}

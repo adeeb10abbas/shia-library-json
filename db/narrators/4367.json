@@ -1,0 +1,57 @@
+{
+  "id": 4367,
+  "type": "narrator",
+  "path": "/people/narrators/4367",
+  "titles": {
+    "ar": "مُشْمَعِلٍّ كُلِّهِمْ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:2:27:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-183-372-818-57-4366-3917-4367-14": {
+      "narrator_ids": [
+        11,
+        183,
+        372,
+        818,
+        57,
+        4366,
+        3917,
+        4367,
+        14
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:2:27:2"
+      ]
+    },
+    "3917-4367": {
+      "narrator_ids": [
+        3917,
+        4367
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:2:27:2"
+      ]
+    },
+    "4367-14": {
+      "narrator_ids": [
+        4367,
+        14
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:2:27:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4367",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4367.json"
+  }
+}

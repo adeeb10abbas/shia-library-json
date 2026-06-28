@@ -1,0 +1,46 @@
+{
+  "id": 3601,
+  "type": "narrator",
+  "path": "/people/narrators/3601",
+  "titles": {
+    "ar": "عَبْدِ اللَّهِ بْنِ مُحْرِزٍ بَيَّاعِ الْقَلَانِسِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:2:13:7"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "471-3601": {
+      "narrator_ids": [
+        471,
+        3601
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:2:13:7"
+      ]
+    },
+    "49-94-124-164-294-471-3601": {
+      "narrator_ids": [
+        49,
+        94,
+        124,
+        164,
+        294,
+        471,
+        3601
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:2:13:7"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3601",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3601.json"
+  }
+}

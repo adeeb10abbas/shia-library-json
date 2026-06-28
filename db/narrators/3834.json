@@ -1,0 +1,54 @@
+{
+  "id": 3834,
+  "type": "narrator",
+  "path": "/people/narrators/3834",
+  "titles": {
+    "ar": "عَمَّارٍ النَّوْفَلِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:8:37:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3834-2": {
+      "narrator_ids": [
+        3834,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:37:2"
+      ]
+    },
+    "49-94-202-653-3834-2": {
+      "narrator_ids": [
+        49,
+        94,
+        202,
+        653,
+        3834,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:37:2"
+      ]
+    },
+    "653-3834": {
+      "narrator_ids": [
+        653,
+        3834
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:37:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3834",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3834.json"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": 4426,
+  "type": "narrator",
+  "path": "/people/narrators/4426",
+  "titles": {
+    "ar": "مُهَاجِرٍ الْأَسَدِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:126:11"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3478-4426": {
+      "narrator_ids": [
+        3478,
+        4426
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:126:11"
+      ]
+    },
+    "4426-669": {
+      "narrator_ids": [
+        4426,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:126:11"
+      ]
+    },
+    "6-12-248-406-792-3478-4426-669": {
+      "narrator_ids": [
+        6,
+        12,
+        248,
+        406,
+        792,
+        3478,
+        4426,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:126:11"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4426",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4426.json"
+  }
+}

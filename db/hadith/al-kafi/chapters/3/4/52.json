@@ -1,0 +1,425 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:3:4:52",
+  "chapter": {
+    "path": "/books/al-kafi:3:4:52",
+    "titles": {
+      "ar": "باب الرَّجُلِ يَؤُمُّ النِّسَاءَ وَ الْمَرْأَةِ تَؤُمُّ النِّسَاءَ",
+      "en": "Chapter 52 – The man leading the women, and the woman leading the women"
+    }
+  },
+  "count": 3,
+  "records": [
+    {
+      "id": "al-kafi:3:4:52:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:3:4:52:1",
+        "parts": [
+          3,
+          4,
+          52,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 4,
+        "chapter": 52,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:3:4:52",
+        "titles": {
+          "ar": "باب الرَّجُلِ يَؤُمُّ النِّسَاءَ وَ الْمَرْأَةِ تَؤُمُّ النِّسَاءَ",
+          "en": "Chapter 52 – The man leading the women, and the woman leading the women"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَأَلْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) عَنِ الرَّجُلِ يَؤُمُّ الْمَرْأَةَ فِي بَيْتِهِ فَقَالَ نَعَمْ تَقُومُ وَرَاءَهُ ."
+        ],
+        "text": "سَأَلْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) عَنِ الرَّجُلِ يَؤُمُّ الْمَرْأَةَ فِي بَيْتِهِ فَقَالَ نَعَمْ تَقُومُ وَرَاءَهُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Muhammad Bin Sinan, from Ibn Muskan, from Abu Al Abbas who said, ",
+            "‘I asked Abu Abdullah<sup>asws</sup> about the man leading the woman (in <span class=\"iTxt\">Salāt</span>) in his house. So he<sup>asws</sup> said: ‘Yes, she should be standing behind him’."
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Muhammad Bin Sinan, from Ibn Muskan, from Abu Al Abbas who said,\n\n‘I asked Abu Abdullah<sup>asws</sup> about the man leading the woman (in <span class=\"iTxt\">Salāt</span>) in his house. So he<sup>asws</sup> said: ‘Yes, she should be standing behind him’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from Muhammad ibn Sinan from ibn Muskan from abu al-‘Abbas who has said the following: “I once asked abu ’Abd Allah, ‘Alayhi al-Salam, about a man who leads the woman in his house in Salah (prayer). He (the Imam) said, ’Yes, he can do so and she stands behind him.”’ "
+          ],
+          "text": "1. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from Muhammad ibn Sinan from ibn Muskan from abu al-‘Abbas who has said the following: “I once asked abu ’Abd Allah, ‘Alayhi al-Salam, about a man who leads the woman in his house in Salah (prayer). He (the Imam) said, ’Yes, he can do so and she stands behind him.”’"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (5/262)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (5/262)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنْ مُحَمَّدِ بْنِ سِنَانٍ عَنِ ابْنِ مُسْكَانَ عَنْ أَبِي الْعَبَّاسِ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ سِنَانٍ",
+            "path": "/people/narrators/42"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ مُسْكَانَ",
+            "path": "/people/narrators/51"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي الْعَبَّاسِ",
+            "path": "/people/narrators/201"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/5",
+          "/people/narrators/42",
+          "/people/narrators/51",
+          "/people/narrators/201"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:3:4:52:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/3/4/52/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:3:4:52:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:3:4:52:2",
+        "parts": [
+          3,
+          4,
+          52,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 4,
+        "chapter": 52,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:3:4:52",
+        "titles": {
+          "ar": "باب الرَّجُلِ يَؤُمُّ النِّسَاءَ وَ الْمَرْأَةِ تَؤُمُّ النِّسَاءَ",
+          "en": "Chapter 52 – The man leading the women, and the woman leading the women"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَأَلْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) عَنِ الْمَرْأَةِ تَؤُمُّ النِّسَاءَ فَقَالَ إِذَا كُنَّ جَمِيعاً أَمَّتْهُنَّ فِي النَّافِلَةِ فَأَمَّا الْمَكْتُوبَةُ فَلَا وَ لَا تَقَدَّمْهُنَّ وَ لَكِنْ تَقُومُ وَسَطاً مِنْهُنَّ ."
+        ],
+        "text": "سَأَلْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) عَنِ الْمَرْأَةِ تَؤُمُّ النِّسَاءَ فَقَالَ إِذَا كُنَّ جَمِيعاً أَمَّتْهُنَّ فِي النَّافِلَةِ فَأَمَّا الْمَكْتُوبَةُ فَلَا وَ لَا تَقَدَّمْهُنَّ وَ لَكِنْ تَقُومُ وَسَطاً مِنْهُنَّ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A group, from Ahmad Bin Muhammad, from Al Husayn Bin Saeed, from Fazalat, from Ibn Sinan, from Suleyman Bin Khalid who said, ",
+            "‘I asked Abu Abdullah<sup>asws</sup> about the woman leading the women (in <span class=\"iTxt\">Salāt</span>). So he<sup>asws</sup> said: ‘When they have gathered, she can lead them in the optional (<span class=\"iTxt\">Salāt</span>). But, as for the Obligatory (<span class=\"iTxt\">Salāt</span>), so no; and she should not preceded them (to be in front), but she should be standing in the middle of them’."
+          ],
+          "text": "A group, from Ahmad Bin Muhammad, from Al Husayn Bin Saeed, from Fazalat, from Ibn Sinan, from Suleyman Bin Khalid who said,\n\n‘I asked Abu Abdullah<sup>asws</sup> about the woman leading the women (in <span class=\"iTxt\">Salāt</span>). So he<sup>asws</sup> said: ‘When they have gathered, she can lead them in the optional (<span class=\"iTxt\">Salāt</span>). But, as for the Obligatory (<span class=\"iTxt\">Salāt</span>), so no; and she should not preceded them (to be in front), but she should be standing in the middle of them’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. A group has narrated from Ahmad ibn Muhammad from al-Husayn ibn Sa‘id from Fadalah from ibn Sinan from Sulayman ibn Khalid who has said the following: “I once asked abu ‘Abd Allah, ‘Alayhi al-Salam, about a woman’s leading other women in Salah (prayer). He (the Imam) said, ‘She can do so if they all follow her in optional Salah (prayer), but not in obligatory Salah (prayer), and she is not to lead them, instead she stands up in their middle.’” "
+          ],
+          "text": "2. A group has narrated from Ahmad ibn Muhammad from al-Husayn ibn Sa‘id from Fadalah from ibn Sinan from Sulayman ibn Khalid who has said the following: “I once asked abu ‘Abd Allah, ‘Alayhi al-Salam, about a woman’s leading other women in Salah (prayer). He (the Imam) said, ‘She can do so if they all follow her in optional Salah (prayer), but not in obligatory Salah (prayer), and she is not to lead them, instead she stands up in their middle.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> صحيح على الظاهر  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (5/262)",
+          "label": "صحيح على الظاهر",
+          "text": "Allamah Baqir al-Majlisi: صحيح على الظاهر - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (5/262)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "جَمَاعَةٌ عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنِ الْحُسَيْنِ بْنِ سَعِيدٍ عَنْ فَضَالَةَ عَنِ ابْنِ سِنَانٍ عَنْ سُلَيْمَانَ بْنِ خَالِدٍ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "جَمَاعَةٌ",
+            "path": "/people/narrators/317"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحُسَيْنِ بْنِ سَعِيدٍ",
+            "path": "/people/narrators/21"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "فَضَالَةَ",
+            "path": "/people/narrators/69"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ سِنَانٍ",
+            "path": "/people/narrators/104"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سُلَيْمَانَ بْنِ خَالِدٍ",
+            "path": "/people/narrators/123"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/317",
+          "/people/narrators/5",
+          "/people/narrators/21",
+          "/people/narrators/69",
+          "/people/narrators/104",
+          "/people/narrators/123"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:3:4:52:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/3/4/52/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:3:4:52:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:3:4:52:3",
+        "parts": [
+          3,
+          4,
+          52,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 4,
+        "chapter": 52,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:3:4:52",
+        "titles": {
+          "ar": "باب الرَّجُلِ يَؤُمُّ النِّسَاءَ وَ الْمَرْأَةِ تَؤُمُّ النِّسَاءَ",
+          "en": "Chapter 52 – The man leading the women, and the woman leading the women"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " الرَّجُلِ يَؤُمُّ النِّسَاءَ لَيْسَ مَعَهُنَّ رَجُلٌ فِي الْفَرِيضَةِ قَالَ نَعَمْ وَ إِنْ كَانَ مَعَهُ صَبِيٌّ فَلْيَقُمْ إِلَى جَانِبِهِ ."
+        ],
+        "text": "الرَّجُلِ يَؤُمُّ النِّسَاءَ لَيْسَ مَعَهُنَّ رَجُلٌ فِي الْفَرِيضَةِ قَالَ نَعَمْ وَ إِنْ كَانَ مَعَهُ صَبِيٌّ فَلْيَقُمْ إِلَى جَانِبِهِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ahmad, from Al Husayn, from Fazalat, from Hammad Bin Usman, from Ibrahim Bin Manmoun, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> regarding the man who led the women (in <span class=\"iTxt\">Salāt</span>), there not being (another) man with them, in the Obligatory (<span class=\"iTxt\">Salāt</span>)’. He<sup>asws</sup> said: ‘And even if there was a male child with him, so let him stand to his side’."
+          ],
+          "text": "Ahmad, from Al Husayn, from Fazalat, from Hammad Bin Usman, from Ibrahim Bin Manmoun,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> regarding the man who led the women (in <span class=\"iTxt\">Salāt</span>), there not being (another) man with them, in the Obligatory (<span class=\"iTxt\">Salāt</span>)’. He<sup>asws</sup> said: ‘And even if there was a male child with him, so let him stand to his side’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "3. Ahmad ibn al-Husayn has narrated from Fadalah from Hammad ibn ‘Uthaman from Ibrahim ibn Maymun who has said the following: “I once asked abu ‘Abd Allah, ‘Alayhi al-Salam, about a man who leads women in obligatory Salah (prayer) where there are no other men. He (the Imam) said, ‘Yes, he can do so and if there is a child he stands up on his side.’” "
+          ],
+          "text": "3. Ahmad ibn al-Husayn has narrated from Fadalah from Hammad ibn ‘Uthaman from Ibrahim ibn Maymun who has said the following: “I once asked abu ‘Abd Allah, ‘Alayhi al-Salam, about a man who leads women in obligatory Salah (prayer) where there are no other men. He (the Imam) said, ‘Yes, he can do so and if there is a child he stands up on his side.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مجهول   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (5/263)",
+          "label": "مجهول",
+          "text": "Allamah Baqir al-Majlisi: مجهول - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (5/263)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "أَحْمَدُ عَنِ الْحُسَيْنِ عَنْ فَضَالَةَ عَنْ حَمَّادِ بْنِ عُثْمَانَ عَنْ إِبْرَاهِيمَ بْنِ مَيْمُونٍ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) فِي",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدُ",
+            "path": "/people/narrators/92"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحُسَيْنِ",
+            "path": "/people/narrators/381"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "فَضَالَةَ",
+            "path": "/people/narrators/69"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "حَمَّادِ بْنِ عُثْمَانَ",
+            "path": "/people/narrators/54"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "إِبْرَاهِيمَ بْنِ مَيْمُونٍ",
+            "path": "/people/narrators/412"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " فِي"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/92",
+          "/people/narrators/381",
+          "/people/narrators/69",
+          "/people/narrators/54",
+          "/people/narrators/412",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:3:4:52:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/3/4/52/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

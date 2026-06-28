@@ -1,0 +1,132 @@
+{
+  "id": 893,
+  "type": "narrator",
+  "path": "/people/narrators/893",
+  "titles": {
+    "ar": "حَفْصِ بْنِ قُرْطٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:3:30:6",
+    "/books/al-kafi:2:1:126:16",
+    "/books/al-kafi:2:1:68:12",
+    "/books/al-kafi:5:2:46:6"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "104-893": {
+      "narrator_ids": [
+        104,
+        893
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:126:16"
+      ]
+    },
+    "146-893": {
+      "narrator_ids": [
+        146,
+        893
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:30:6"
+      ]
+    },
+    "19-24-30-44-893": {
+      "narrator_ids": [
+        19,
+        24,
+        30,
+        44,
+        893
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:46:6"
+      ]
+    },
+    "3-27-146-893-669": {
+      "narrator_ids": [
+        3,
+        27,
+        146,
+        893,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:30:6"
+      ]
+    },
+    "3-27-26-104-893-669": {
+      "narrator_ids": [
+        3,
+        27,
+        26,
+        104,
+        893,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:126:16"
+      ]
+    },
+    "44-893": {
+      "narrator_ids": [
+        44,
+        893
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:46:6"
+      ]
+    },
+    "6-12-2-7-893-71-9": {
+      "narrator_ids": [
+        6,
+        12,
+        2,
+        7,
+        893,
+        71,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:68:12"
+      ]
+    },
+    "7-893": {
+      "narrator_ids": [
+        7,
+        893
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:68:12"
+      ]
+    },
+    "893-669": {
+      "narrator_ids": [
+        893,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:30:6",
+        "/books/al-kafi:2:1:126:16"
+      ]
+    },
+    "893-71": {
+      "narrator_ids": [
+        893,
+        71
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:68:12"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/893",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/893.json"
+  }
+}

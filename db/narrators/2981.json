@@ -1,0 +1,53 @@
+{
+  "id": 2981,
+  "type": "narrator",
+  "path": "/people/narrators/2981",
+  "titles": {
+    "ar": "جَدِّهِ مُعَاوِيَةَ بْنِ وَهْبٍ أَوْ غَيْرِهِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:78:12"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-341-2981-1100-669": {
+      "narrator_ids": [
+        11,
+        341,
+        2981,
+        1100,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:78:12"
+      ]
+    },
+    "2981-1100": {
+      "narrator_ids": [
+        2981,
+        1100
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:78:12"
+      ]
+    },
+    "341-2981": {
+      "narrator_ids": [
+        341,
+        2981
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:78:12"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2981",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2981.json"
+  }
+}

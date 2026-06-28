@@ -1,0 +1,44 @@
+{
+  "id": 3235,
+  "type": "narrator",
+  "path": "/people/narrators/3235",
+  "titles": {
+    "ar": "رَجُلٍ مِنْ قُرَيْشٍ مِنْ أَهْلِ مَكَّةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:103:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "291-3235": {
+      "narrator_ids": [
+        291,
+        3235
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:103:2"
+      ]
+    },
+    "90-36-15-291-3235": {
+      "narrator_ids": [
+        90,
+        36,
+        15,
+        291,
+        3235
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:103:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3235",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3235.json"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "id": 1079,
+  "type": "narrator",
+  "path": "/people/narrators/1079",
+  "titles": {
+    "ar": "حَسَّانَ الْجَمَّالِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:3:23:8",
+    "/books/al-kafi:2:1:169:5",
+    "/books/al-kafi:4:3:225:2",
+    "/books/man-la-yahduruhu-al-faqih:2:3:152:3",
+    "/books/tahdhib-al-ahkam:3:26:65"
+  ],
+  "verseCount": 5,
+  "relations": {},
+  "subchains": {
+    "1079-3915": {
+      "narrator_ids": [
+        1079,
+        3915
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:169:5"
+      ]
+    },
+    "178-1079": {
+      "narrator_ids": [
+        178,
+        1079
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:169:5"
+      ]
+    },
+    "26-178-1079-3915-669": {
+      "narrator_ids": [
+        26,
+        178,
+        1079,
+        3915,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:169:5"
+      ]
+    },
+    "39-1079": {
+      "narrator_ids": [
+        39,
+        1079
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:23:8"
+      ]
+    },
+    "4-29-122-408-1079": {
+      "narrator_ids": [
+        4,
+        29,
+        122,
+        408,
+        1079
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:225:2"
+      ]
+    },
+    "4-29-39-1079": {
+      "narrator_ids": [
+        4,
+        29,
+        39,
+        1079
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:23:8"
+      ]
+    },
+    "404-1079": {
+      "narrator_ids": [
+        404,
+        1079
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:2:3:152:3"
+      ]
+    },
+    "408-1079": {
+      "narrator_ids": [
+        408,
+        1079
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:225:2",
+        "/books/tahdhib-al-ahkam:3:26:65"
+      ]
+    },
+    "4134-29-122-408-1079": {
+      "narrator_ids": [
+        4134,
+        29,
+        122,
+        408,
+        1079
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:3:26:65"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1079",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1079.json"
+  }
+}

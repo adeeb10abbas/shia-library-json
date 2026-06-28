@@ -1,0 +1,54 @@
+{
+  "id": 3238,
+  "type": "narrator",
+  "path": "/people/narrators/3238",
+  "titles": {
+    "ar": "رَجُلَيْنِ مِنْ أَصْحَابِنَا سَمِعَاهُ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:48:9"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "19-24-43-44-3238-669": {
+      "narrator_ids": [
+        19,
+        24,
+        43,
+        44,
+        3238,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:48:9"
+      ]
+    },
+    "3238-669": {
+      "narrator_ids": [
+        3238,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:48:9"
+      ]
+    },
+    "44-3238": {
+      "narrator_ids": [
+        44,
+        3238
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:48:9"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3238",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3238.json"
+  }
+}

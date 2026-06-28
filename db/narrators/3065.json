@@ -1,0 +1,54 @@
+{
+  "id": 3065,
+  "type": "narrator",
+  "path": "/people/narrators/3065",
+  "titles": {
+    "ar": "حُسَيْنِ بْنِ أَبِي سَعِيدٍ الْمُكَارِي"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:2:60:20"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-37-1442-3065-1075-2062": {
+      "narrator_ids": [
+        11,
+        37,
+        1442,
+        3065,
+        1075,
+        2062
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:60:20"
+      ]
+    },
+    "1442-3065": {
+      "narrator_ids": [
+        1442,
+        3065
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:60:20"
+      ]
+    },
+    "3065-1075": {
+      "narrator_ids": [
+        3065,
+        1075
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:60:20"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3065",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3065.json"
+  }
+}

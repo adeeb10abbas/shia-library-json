@@ -1,0 +1,43 @@
+{
+  "id": 1957,
+  "type": "narrator",
+  "path": "/people/narrators/1957",
+  "titles": {
+    "ar": "أَبِي الْأَعَزِّ النَّخَّاسِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:1:37:10"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "15-1957": {
+      "narrator_ids": [
+        15,
+        1957
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:1:37:10"
+      ]
+    },
+    "4-29-15-1957": {
+      "narrator_ids": [
+        4,
+        29,
+        15,
+        1957
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:1:37:10"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1957",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1957.json"
+  }
+}

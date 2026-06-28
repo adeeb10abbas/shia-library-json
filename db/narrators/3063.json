@@ -1,0 +1,54 @@
+{
+  "id": 3063,
+  "type": "narrator",
+  "path": "/people/narrators/3063",
+  "titles": {
+    "ar": "حُسَيْنٍ الْقَلَانِسِيِّ أَوْ بَعْضِ أَصْحَابِهِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:7:13:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3063-669": {
+      "narrator_ids": [
+        3063,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:7:13:4"
+      ]
+    },
+    "38-3063": {
+      "narrator_ids": [
+        38,
+        3063
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:7:13:4"
+      ]
+    },
+    "4-5-21-38-3063-669": {
+      "narrator_ids": [
+        4,
+        5,
+        21,
+        38,
+        3063,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:7:13:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3063",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3063.json"
+  }
+}

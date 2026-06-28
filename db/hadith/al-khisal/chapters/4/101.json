@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:4:101",
+  "chapter": {
+    "path": "/books/al-khisal:4:101",
+    "titles": {
+      "en": "There Would Have Come a Severe Punishment from God Were It Not for the Following Three"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:4:101:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:4:101:1",
+        "parts": [
+          4,
+          101,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 101,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:4:101",
+        "titles": {
+          "en": "There Would Have Come a Severe Punishment from God Were It Not for the Following Three"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا محمد بن يحيى العطار، وأحمد بن إدريس جميعا، عن أحمد بن محمد بن عيسى، عن محمد بن أبي عمير، عن الحسين ابن مصعب قال: قال أبوعبد الله عليه السلام: إن الله في كل يوم وليلة ملكا ينادي: مهلا مهلا عبادالله من معاصي الله فلولا بهائم رتع، وصبية رضع، وشيوخ ركع لصب عليكم العذاب صبا وترضون به رضا"
+        ],
+        "text": ": حدثنا محمد بن يحيى العطار، وأحمد بن إدريس جميعا، عن أحمد بن محمد بن عيسى، عن محمد بن أبي عمير، عن الحسين ابن مصعب قال: قال أبوعبد الله عليه السلام: إن الله في كل يوم وليلة ملكا ينادي: مهلا مهلا عبادالله من معاصي الله فلولا بهائم رتع، وصبية رضع، وشيوخ ركع لصب عليكم العذاب صبا وترضون به رضا"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "3-131 Muhammad ibn al-Hassan - may God be pleased with him - narrated that Muhammad ibn Yahya al-Attar and Ahmad ibn Idris quoted on the authority of Ahmad ibn Muhammad ibn Isa, on the authority of Muhammad ibn Abi Umayr, on the authority of Al-Hussein ibn Mus’ab that Abu Abdullah as-Sadiq (MGB) said, “God sends down an angel every day to announce: O people! Stop disobedience to God! Were it not for pasturing animals, breast-feeding babies and bent back white bearded old men there would have come to you such a hard punishment that would utterly destroy you.”"
+          ],
+          "text": "3-131 Muhammad ibn al-Hassan - may God be pleased with him - narrated that Muhammad ibn Yahya al-Attar and Ahmad ibn Idris quoted on the authority of Ahmad ibn Muhammad ibn Isa, on the authority of Muhammad ibn Abi Umayr, on the authority of Al-Hussein ibn Mus’ab that Abu Abdullah as-Sadiq (MGB) said, “God sends down an angel every day to announce: O people! Stop disobedience to God! Were it not for pasturing animals, breast-feeding babies and bent back white bearded old men there would have come to you such a hard punishment that would utterly destroy you.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "3-131 حدثنا محمد بن الحسن رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "3-131 حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "محمد بن الحسن رضي الله عنه قال",
+            "path": "/people/narrators/90"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/90"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:4:101:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/4/101/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/4/101/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

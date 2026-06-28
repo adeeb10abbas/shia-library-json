@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-amali-mufid",
+  "chapterPath": "/books/al-amali-mufid:33:8",
+  "chapter": {
+    "path": "/books/al-amali-mufid:33:8",
+    "titles": {
+      "en": "Death wipes off the sins"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-amali-mufid:33:8:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-amali-mufid",
+        "titles": {
+          "ar": "الأمالي (المفيد)",
+          "en": "Al-Amali (al-Mufid)"
+        },
+        "author": {
+          "ar": "الشيخ المفيد",
+          "en": "Shaykh al-Mufid"
+        }
+      },
+      "path": {
+        "source": "/books/al-amali-mufid:33:8:1",
+        "parts": [
+          33,
+          8,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 33,
+        "book": 8,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-amali-mufid:33:8",
+        "titles": {
+          "en": "Death wipes off the sins"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا أبو جعفر محمد بن علي بن الحسين قال: حدثنا محمد بن علي ماجيلويه، عن عمه محمد بن أبي القاسم، عن أحمد بن محمد بن خالد، عن أبيه، عن محمد بن سنان، عن محمد بن عطية، عن أبي عبد الله جعفر بن محمد عليهما السلام قال: قال رسول الله صلى الله عليه وآله: الموت كفارة لذنوب المؤمنين."
+        ],
+        "text": ": حدثنا أبو جعفر محمد بن علي بن الحسين قال: حدثنا محمد بن علي ماجيلويه، عن عمه محمد بن أبي القاسم، عن أحمد بن محمد بن خالد، عن أبيه، عن محمد بن سنان، عن محمد بن عطية، عن أبي عبد الله جعفر بن محمد عليهما السلام قال: قال رسول الله صلى الله عليه وآله: الموت كفارة لذنوب المؤمنين."
+      },
+      "translations": {
+        "en.mulla-asgharali-m-m-jaffer": {
+          "segments": [
+            "8. He said: Abu Ja’far Muhammad ibn ‘Ali ibn al-Husayn reported to me from Muhammad ibn ‘Ali Majilawayh from his uncle Mohammad ibn Abul Qasim, from Ahmad ibn Muhammad ibn Khalid, from his father, from Muhammad ibn Sinan, from Muhammad ibn Atiyyah, from Abu Abdillah Ja’far ibn Muhammad, peace be upon him, that: The Prophet, peace be upon him and his progeny, said: \"Death is an expiateon for the sins of the believers.\""
+          ],
+          "text": "8. He said: Abu Ja’far Muhammad ibn ‘Ali ibn al-Husayn reported to me from Muhammad ibn ‘Ali Majilawayh from his uncle Mohammad ibn Abul Qasim, from Ahmad ibn Muhammad ibn Khalid, from his father, from Muhammad ibn Sinan, from Muhammad ibn Atiyyah, from Abu Abdillah Ja’far ibn Muhammad, peace be upon him, that: The Prophet, peace be upon him and his progeny, said: \"Death is an expiateon for the sins of the believers.\""
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "8 - قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "8 - "
+          },
+          {
+            "kind": "narrator",
+            "text": "قال",
+            "path": "/people/narrators/652"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/652"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-amali-mufid:33:8:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-amali-mufid/33/8/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/13/33/8/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

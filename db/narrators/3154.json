@@ -1,0 +1,66 @@
+{
+  "id": 3154,
+  "type": "narrator",
+  "path": "/people/narrators/3154",
+  "titles": {
+    "ar": "خَيْرَانَ الْخَادِمِ"
+  },
+  "versePaths": [
+    "/books/al-istibsar:1:91:3",
+    "/books/al-kafi:3:4:61:5",
+    "/books/mujam-al-ahadith-al-mutabara:3:28:1"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "27-3154": {
+      "narrator_ids": [
+        27,
+        3154
+      ],
+      "verse_paths": [
+        "/books/mujam-al-ahadith-al-mutabara:3:28:1"
+      ]
+    },
+    "35-8-3154": {
+      "narrator_ids": [
+        35,
+        8,
+        3154
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:61:5"
+      ]
+    },
+    "77-952-35-8-3154": {
+      "narrator_ids": [
+        77,
+        952,
+        35,
+        8,
+        3154
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:91:3"
+      ]
+    },
+    "8-3154": {
+      "narrator_ids": [
+        8,
+        3154
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:91:3",
+        "/books/al-kafi:3:4:61:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3154",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3154.json"
+  }
+}

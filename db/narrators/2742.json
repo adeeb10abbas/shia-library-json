@@ -1,0 +1,43 @@
+{
+  "id": 2742,
+  "type": "narrator",
+  "path": "/people/narrators/2742",
+  "titles": {
+    "ar": "الْفَضْلِ الْكَاتِبِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:44:21"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "290-2742": {
+      "narrator_ids": [
+        290,
+        2742
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:44:21"
+      ]
+    },
+    "4-29-290-2742": {
+      "narrator_ids": [
+        4,
+        29,
+        290,
+        2742
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:44:21"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2742",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2742.json"
+  }
+}

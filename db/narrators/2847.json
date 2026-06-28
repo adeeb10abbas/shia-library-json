@@ -1,0 +1,45 @@
+{
+  "id": 2847,
+  "type": "narrator",
+  "path": "/people/narrators/2847",
+  "titles": {
+    "ar": "أُمِّهِ فَاطِمَةَ بِنْتِ الْحُسَيْنِ بْنِ عَلِيٍّ ( عليه السلام )"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:99:29"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-22-79-163-1530-2847": {
+      "narrator_ids": [
+        11,
+        22,
+        79,
+        163,
+        1530,
+        2847
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:99:29"
+      ]
+    },
+    "1530-2847": {
+      "narrator_ids": [
+        1530,
+        2847
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:99:29"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2847",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2847.json"
+  }
+}

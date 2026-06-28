@@ -1,0 +1,57 @@
+{
+  "id": 4374,
+  "type": "narrator",
+  "path": "/people/narrators/4374",
+  "titles": {
+    "ar": "مَطَرِ بْنِ أَرْقَمَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:3:63:42",
+    "/books/tahdhib-al-ahkam:10:7:99"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "13-10-85-4374": {
+      "narrator_ids": [
+        13,
+        10,
+        85,
+        4374
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:10:7:99"
+      ]
+    },
+    "4-13-10-85-4374": {
+      "narrator_ids": [
+        4,
+        13,
+        10,
+        85,
+        4374
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:63:42"
+      ]
+    },
+    "85-4374": {
+      "narrator_ids": [
+        85,
+        4374
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:63:42",
+        "/books/tahdhib-al-ahkam:10:7:99"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4374",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4374.json"
+  }
+}

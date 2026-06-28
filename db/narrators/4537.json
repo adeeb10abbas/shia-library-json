@@ -1,0 +1,43 @@
+{
+  "id": 4537,
+  "type": "narrator",
+  "path": "/people/narrators/4537",
+  "titles": {
+    "ar": "يَحْيَى الصَّنْعَانِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:108:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "6-8-68-4537": {
+      "narrator_ids": [
+        6,
+        8,
+        68,
+        4537
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:108:3"
+      ]
+    },
+    "68-4537": {
+      "narrator_ids": [
+        68,
+        4537
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:108:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4537",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4537.json"
+  }
+}

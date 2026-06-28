@@ -1,0 +1,153 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:7:3:41",
+  "chapter": {
+    "path": "/books/al-kafi:7:3:41",
+    "titles": {
+      "ar": "باب نَفْيِ السَّارِقِ",
+      "en": "Chapter 41 – Exiling the thief"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-kafi:7:3:41:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:3:41:1",
+        "parts": [
+          7,
+          3,
+          41,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 3,
+        "chapter": 41,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:3:41",
+        "titles": {
+          "ar": "باب نَفْيِ السَّارِقِ",
+          "en": "Chapter 41 – Exiling the thief"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " إِذَا أُقِيمَ عَلَى السَّارِقِ الْحَدُّ نُفِيَ إِلَى بَلْدَةٍ أُخْرَى ."
+        ],
+        "text": "إِذَا أُقِيمَ عَلَى السَّارِقِ الْحَدُّ نُفِيَ إِلَى بَلْدَةٍ أُخْرَى ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad Bin Isa, from Ibn Mahboub, from Ali Bin Al Hassan Bin Rabat, from Ibn Muskaan, from Al Halby, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘When the Penalty (<span class=\"iTxt\">Hadd</span>) is established upon the thief, he is exiled for another city’."
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad Bin Isa, from Ibn Mahboub, from Ali Bin Al Hassan Bin Rabat, from Ibn Muskaan, from Al Halby,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘When the Penalty (<span class=\"iTxt\">Hadd</span>) is established upon the thief, he is exiled for another city’."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى عَنِ ابْنِ مَحْبُوبٍ عَنْ عَلِيِّ بْنِ الْحَسَنِ بْنِ رِبَاطٍ عَنِ ابْنِ مُسْكَانَ عَنِ الْحَلَبِيِّ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى",
+            "path": "/people/narrators/13"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ مَحْبُوبٍ",
+            "path": "/people/narrators/10"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيِّ بْنِ الْحَسَنِ بْنِ رِبَاطٍ",
+            "path": "/people/narrators/372"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ مُسْكَانَ",
+            "path": "/people/narrators/51"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحَلَبِيِّ",
+            "path": "/people/narrators/28"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/13",
+          "/people/narrators/10",
+          "/people/narrators/372",
+          "/people/narrators/51",
+          "/people/narrators/28",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:3:41:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/3/41/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

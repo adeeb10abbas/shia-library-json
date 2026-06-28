@@ -1,0 +1,283 @@
+{
+  "id": 949,
+  "type": "narrator",
+  "path": "/people/narrators/949",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ سَعِيدِ بْنِ غَزْوَانَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:110:1",
+    "/books/al-kafi:2:1:98:16",
+    "/books/al-kafi:8:1:41:16",
+    "/books/al-kafi:8:1:43:2",
+    "/books/al-khisal:2:80:1",
+    "/books/al-khisal:3:9:1",
+    "/books/tahdhib-al-ahkam:1:23:31",
+    "/books/tahdhib-al-ahkam:1:23:46",
+    "/books/tahdhib-al-ahkam:5:9:62"
+  ],
+  "verseCount": 9,
+  "relations": {},
+  "subchains": {
+    "1188-949": {
+      "narrator_ids": [
+        1188,
+        949
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:2"
+      ]
+    },
+    "154-929-1188-949": {
+      "narrator_ids": [
+        154,
+        929,
+        1188,
+        949
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:2"
+      ]
+    },
+    "154-929-4322-949-4201-266-9": {
+      "narrator_ids": [
+        154,
+        929,
+        4322,
+        949,
+        4201,
+        266,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:41:16"
+      ]
+    },
+    "16-949": {
+      "narrator_ids": [
+        16,
+        949
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:98:16"
+      ]
+    },
+    "2-277-949-34-208-2": {
+      "narrator_ids": [
+        2,
+        277,
+        949,
+        34,
+        208,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-khisal:3:9:1"
+      ]
+    },
+    "2-865-949-669-2-253": {
+      "narrator_ids": [
+        2,
+        865,
+        949,
+        669,
+        2,
+        253
+      ],
+      "verse_paths": [
+        "/books/al-khisal:2:80:1"
+      ]
+    },
+    "20-4-545-16-668-949-74-42-207": {
+      "narrator_ids": [
+        20,
+        4,
+        545,
+        16,
+        668,
+        949,
+        74,
+        42,
+        207
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:110:1"
+      ]
+    },
+    "20-4-545-16-949-15-307-716": {
+      "narrator_ids": [
+        20,
+        4,
+        545,
+        16,
+        949,
+        15,
+        307,
+        716
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:98:16"
+      ]
+    },
+    "277-949": {
+      "narrator_ids": [
+        277,
+        949
+      ],
+      "verse_paths": [
+        "/books/al-khisal:3:9:1"
+      ]
+    },
+    "341-949": {
+      "narrator_ids": [
+        341,
+        949
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:9:62"
+      ]
+    },
+    "341-949-2-148": {
+      "narrator_ids": [
+        341,
+        949,
+        2,
+        148
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:9:62"
+      ]
+    },
+    "4286-2719-671-949-34-669-2-662": {
+      "narrator_ids": [
+        4286,
+        2719,
+        671,
+        949,
+        34,
+        669,
+        2,
+        662
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:23:46"
+      ]
+    },
+    "4286-277-671-949-34-669-2-662": {
+      "narrator_ids": [
+        4286,
+        277,
+        671,
+        949,
+        34,
+        669,
+        2,
+        662
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:23:31"
+      ]
+    },
+    "4322-949": {
+      "narrator_ids": [
+        4322,
+        949
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:41:16"
+      ]
+    },
+    "668-949": {
+      "narrator_ids": [
+        668,
+        949
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:110:1"
+      ]
+    },
+    "671-949": {
+      "narrator_ids": [
+        671,
+        949
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:23:31",
+        "/books/tahdhib-al-ahkam:1:23:46"
+      ]
+    },
+    "865-949": {
+      "narrator_ids": [
+        865,
+        949
+      ],
+      "verse_paths": [
+        "/books/al-khisal:2:80:1"
+      ]
+    },
+    "949-15": {
+      "narrator_ids": [
+        949,
+        15
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:98:16"
+      ]
+    },
+    "949-2": {
+      "narrator_ids": [
+        949,
+        2
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:9:62"
+      ]
+    },
+    "949-34": {
+      "narrator_ids": [
+        949,
+        34
+      ],
+      "verse_paths": [
+        "/books/al-khisal:3:9:1",
+        "/books/tahdhib-al-ahkam:1:23:31",
+        "/books/tahdhib-al-ahkam:1:23:46"
+      ]
+    },
+    "949-4201": {
+      "narrator_ids": [
+        949,
+        4201
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:41:16"
+      ]
+    },
+    "949-669": {
+      "narrator_ids": [
+        949,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-khisal:2:80:1"
+      ]
+    },
+    "949-74": {
+      "narrator_ids": [
+        949,
+        74
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:110:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/949",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/949.json"
+  }
+}

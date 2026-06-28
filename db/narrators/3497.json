@@ -1,0 +1,71 @@
+{
+  "id": 3497,
+  "type": "narrator",
+  "path": "/people/narrators/3497",
+  "titles": {
+    "ar": "عَبْدِ الرَّحْمَنِ بْنِ سَعِيدٍ الْمَكِّيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:235:4",
+    "/books/tahdhib-al-ahkam:6:34:3"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "1805-3497": {
+      "narrator_ids": [
+        1805,
+        3497
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:235:4",
+        "/books/tahdhib-al-ahkam:6:34:3"
+      ]
+    },
+    "3497-4560": {
+      "narrator_ids": [
+        3497,
+        4560
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:235:4",
+        "/books/tahdhib-al-ahkam:6:34:3"
+      ]
+    },
+    "4-1567-1805-3497-4560-206": {
+      "narrator_ids": [
+        4,
+        1567,
+        1805,
+        3497,
+        4560,
+        206
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:235:4"
+      ]
+    },
+    "952-4-1567-1805-3497-4560-206": {
+      "narrator_ids": [
+        952,
+        4,
+        1567,
+        1805,
+        3497,
+        4560,
+        206
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:34:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3497",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3497.json"
+  }
+}

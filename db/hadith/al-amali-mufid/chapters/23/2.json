@@ -1,0 +1,132 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-amali-mufid",
+  "chapterPath": "/books/al-amali-mufid:23:2",
+  "chapter": {
+    "path": "/books/al-amali-mufid:23:2",
+    "titles": {
+      "en": "The Best Virtues"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-amali-mufid:23:2:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-amali-mufid",
+        "titles": {
+          "ar": "الأمالي (المفيد)",
+          "en": "Al-Amali (al-Mufid)"
+        },
+        "author": {
+          "ar": "الشيخ المفيد",
+          "en": "Shaykh al-Mufid"
+        }
+      },
+      "path": {
+        "source": "/books/al-amali-mufid:23:2:1",
+        "parts": [
+          23,
+          2,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 23,
+        "book": 2,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-amali-mufid:23:2",
+        "titles": {
+          "en": "The Best Virtues"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": قال رسول الله صلى الله عليه وآله في خطبته: ألا أخبركم بخير خلائق الدنيا والآخرة ؟: العفو عمن ظلمك، وأن تصل من قطعك، والاحسان إلى من أساء إليك، وإعطاء من حرمك، وفي التباغض الحالقة، لا أعني حالقة الشعر ولكن حالقة الدين ."
+        ],
+        "text": ": قال رسول الله صلى الله عليه وآله في خطبته: ألا أخبركم بخير خلائق الدنيا والآخرة ؟: العفو عمن ظلمك، وأن تصل من قطعك، والاحسان إلى من أساء إليك، وإعطاء من حرمك، وفي التباغض الحالقة، لا أعني حالقة الشعر ولكن حالقة الدين ."
+      },
+      "translations": {
+        "en.mulla-asgharali-m-m-jaffer": {
+          "segments": [
+            "2. He said: And with the preceding chains of narration, from ‘Ali ibn Mahzyar, from Ibn Abi Umayr, from al-Nadhr ibn Suwaid, from Ibn Sinan, from Abu Abdillah Ja’far ibn Muhammad al-Sadiq, peace be upon them both, who said: The Prophet, peace be upon him and his progeny, in his address to the people, said: \"May I not inform you about the best virtues in this world and the next? (They are): to forgive one who wronged you, to make amends with the kins who severed relations with you, to oblige one who harmed you, to give to one who refused you. And (remember), hatred and mutual enmity is a remover, and I do not mean a remover (shaver) of hair; but a remover of faith.\""
+          ],
+          "text": "2. He said: And with the preceding chains of narration, from ‘Ali ibn Mahzyar, from Ibn Abi Umayr, from al-Nadhr ibn Suwaid, from Ibn Sinan, from Abu Abdillah Ja’far ibn Muhammad al-Sadiq, peace be upon them both, who said: The Prophet, peace be upon him and his progeny, in his address to the people, said: \"May I not inform you about the best virtues in this world and the next? (They are): to forgive one who wronged you, to make amends with the kins who severed relations with you, to oblige one who harmed you, to give to one who refused you. And (remember), hatred and mutual enmity is a remover, and I do not mean a remover (shaver) of hair; but a remover of faith.\""
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "2 - وبالإسناد الأول عن علي بن مهزيار، عن ابن أبي عمير، عن النضر ابن سويد، عن ابن سنان ، عن أبي عبد الله جعفر بن محمد الصادق صلوات الله عليهما قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "2 - "
+          },
+          {
+            "kind": "plain",
+            "text": "وبالإسناد الأول"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "علي بن مهزيار،",
+            "path": "/people/narrators/81"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابن أبي عمير،",
+            "path": "/people/narrators/7"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "النضر ابن سويد،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابن سنان ،",
+            "path": "/people/narrators/104"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "أبي عبد الله جعفر بن محمد الصادق صلوات الله عليهما قال"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/81",
+          "/people/narrators/7",
+          "/people/narrators/104"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-amali-mufid:23:2:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-amali-mufid/23/2/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/13/23/2/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

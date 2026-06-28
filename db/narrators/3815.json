@@ -1,0 +1,43 @@
+{
+  "id": 3815,
+  "type": "narrator",
+  "path": "/people/narrators/3815",
+  "titles": {
+    "ar": "عَلِيُّ بْنُ مُحَمَّدِ بْنِ عَبْدِ اللَّهِ الْقُمِّيُّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:7:7"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3815-12": {
+      "narrator_ids": [
+        3815,
+        12
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:7:7"
+      ]
+    },
+    "3815-12-2-163": {
+      "narrator_ids": [
+        3815,
+        12,
+        2,
+        163
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:7:7"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3815",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3815.json"
+  }
+}

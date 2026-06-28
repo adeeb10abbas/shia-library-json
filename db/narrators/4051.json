@@ -1,0 +1,49 @@
+{
+  "id": 4051,
+  "type": "narrator",
+  "path": "/people/narrators/4051",
+  "titles": {
+    "ar": "كَانَ خَادِماً لِأَبِي عَبْدِ اللَّهِ ( عليه السلام )"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:20:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "19-24-4-13-22-260-1260-4596-3213-4051": {
+      "narrator_ids": [
+        19,
+        24,
+        4,
+        13,
+        22,
+        260,
+        1260,
+        4596,
+        3213,
+        4051
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:20:2"
+      ]
+    },
+    "3213-4051": {
+      "narrator_ids": [
+        3213,
+        4051
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:20:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4051",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4051.json"
+  }
+}

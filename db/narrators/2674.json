@@ -1,0 +1,54 @@
+{
+  "id": 2674,
+  "type": "narrator",
+  "path": "/people/narrators/2674",
+  "titles": {
+    "ar": "الْخَطَّابِ بْنِ مُصْعَبٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:156:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "19-275-362-2674-348-669": {
+      "narrator_ids": [
+        19,
+        275,
+        362,
+        2674,
+        348,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:156:3"
+      ]
+    },
+    "2674-348": {
+      "narrator_ids": [
+        2674,
+        348
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:156:3"
+      ]
+    },
+    "362-2674": {
+      "narrator_ids": [
+        362,
+        2674
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:156:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2674",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2674.json"
+  }
+}

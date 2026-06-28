@@ -1,0 +1,136 @@
+{
+  "id": 1313,
+  "type": "narrator",
+  "path": "/people/narrators/1313",
+  "titles": {
+    "ar": "أَسَدِ بْنِ أَبِي الْعَلَاءِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:81:4",
+    "/books/al-kafi:6:3:1:3",
+    "/books/tahdhib-al-ahkam:8:10:104",
+    "/books/uyun-akhbar-al-rida:1:2:4:17"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "1187-146-1313": {
+      "narrator_ids": [
+        1187,
+        146,
+        1313
+      ],
+      "verse_paths": [
+        "/books/uyun-akhbar-al-rida:1:2:4:17"
+      ]
+    },
+    "122-1313": {
+      "narrator_ids": [
+        122,
+        1313
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:3:1:3"
+      ]
+    },
+    "1284-1313": {
+      "narrator_ids": [
+        1284,
+        1313
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:8:10:104"
+      ]
+    },
+    "1313-163": {
+      "narrator_ids": [
+        1313,
+        163
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:8:10:104"
+      ]
+    },
+    "1313-4511": {
+      "narrator_ids": [
+        1313,
+        4511
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:81:4"
+      ]
+    },
+    "1313-71": {
+      "narrator_ids": [
+        1313,
+        71
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:3:1:3"
+      ]
+    },
+    "146-1313": {
+      "narrator_ids": [
+        146,
+        1313
+      ],
+      "verse_paths": [
+        "/books/uyun-akhbar-al-rida:1:2:4:17"
+      ]
+    },
+    "21-1284-1313-163": {
+      "narrator_ids": [
+        21,
+        1284,
+        1313,
+        163
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:8:10:104"
+      ]
+    },
+    "261-1313": {
+      "narrator_ids": [
+        261,
+        1313
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:81:4"
+      ]
+    },
+    "4-5-122-1313-71": {
+      "narrator_ids": [
+        4,
+        5,
+        122,
+        1313,
+        71
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:3:1:3"
+      ]
+    },
+    "6-5-21-261-1313-4511-3452": {
+      "narrator_ids": [
+        6,
+        5,
+        21,
+        261,
+        1313,
+        4511,
+        3452
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:81:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1313",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1313.json"
+  }
+}

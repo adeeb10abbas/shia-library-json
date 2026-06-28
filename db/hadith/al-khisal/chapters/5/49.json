@@ -1,0 +1,85 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:5:49",
+  "chapter": {
+    "path": "/books/al-khisal:5:49",
+    "titles": {
+      "en": "The body is sustained on four things"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:5:49:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:5:49:1",
+        "parts": [
+          5,
+          49,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 49,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:5:49",
+        "titles": {
+          "en": "The body is sustained on four things"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا محمد بن يحيى العطار، عن محمد بن أحمد، عن درست، عن أبي الاصبـغ، عن أبي عبـد الله عليـه السلام قال: بني الجسد على أربعة أشياء [على] الروح والعقل، والدم والنفس فإذا خرج الروح تبعه العقل، وإذا رأى الروح شيئا حفظه عليه العقل وبقي الدم والنفس"
+        ],
+        "text": ": حدثنا محمد بن يحيى العطار، عن محمد بن أحمد، عن درست، عن أبي الاصبـغ، عن أبي عبـد الله عليـه السلام قال: بني الجسد على أربعة أشياء [على] الروح والعقل، والدم والنفس فإذا خرج الروح تبعه العقل، وإذا رأى الروح شيئا حفظه عليه العقل وبقي الدم والنفس"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "4-61 Muhammad ibn Musa ibn al-Mutawakkil (ra) narrated that Muhammad ibn Yahya al-Attar quoted Muhammad ibn Ahmad, on the authority of Durost, on the authority of Abil Asbaq that Aba Abdillah (as) said, “The body is based on four things: the spirit, the mind; the blood and the self. Once the spirit departs the body, the mind shall follow it. Once the spirit sees something, it will be saved by the mind and maintained by the blood and the self.”"
+          ],
+          "text": "4-61 Muhammad ibn Musa ibn al-Mutawakkil (ra) narrated that Muhammad ibn Yahya al-Attar quoted Muhammad ibn Ahmad, on the authority of Durost, on the authority of Abil Asbaq that Aba Abdillah (as) said, “The body is based on four things: the spirit, the mind; the blood and the self. Once the spirit departs the body, the mind shall follow it. Once the spirit sees something, it will be saved by the mind and maintained by the blood and the self.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "4-61 حدثنا محمد بن موسى بن المتوكل رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "4-61 حدثنا "
+          },
+          {
+            "kind": "plain",
+            "text": "محمد بن موسى بن المتوكل رضي الله عنه قال"
+          }
+        ],
+        "narratorPaths": []
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:5:49:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/5/49/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/5/49/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": 3380,
+  "type": "narrator",
+  "path": "/people/narrators/3380",
+  "titles": {
+    "ar": "سُلَيْمَانَ صَاحِبِ السَّابِرِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:2:19:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3380-44": {
+      "narrator_ids": [
+        3380,
+        44
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:19:4"
+      ]
+    },
+    "7-3380": {
+      "narrator_ids": [
+        7,
+        3380
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:19:4"
+      ]
+    },
+    "7-3380-44": {
+      "narrator_ids": [
+        7,
+        3380,
+        44
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:19:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3380",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3380.json"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": 3584,
+  "type": "narrator",
+  "path": "/people/narrators/3584",
+  "titles": {
+    "ar": "عَبْدِ اللَّهِ بْنِ شَرِيكٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:1:10:5",
+    "/books/tahdhib-al-ahkam:6:69:7"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "11-2-129-338-922-3584-2": {
+      "narrator_ids": [
+        11,
+        2,
+        129,
+        338,
+        922,
+        3584,
+        2
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:69:7"
+      ]
+    },
+    "3-2-129-338-922-3584-2": {
+      "narrator_ids": [
+        3,
+        2,
+        129,
+        338,
+        922,
+        3584,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:1:10:5"
+      ]
+    },
+    "3584-2": {
+      "narrator_ids": [
+        3584,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:1:10:5",
+        "/books/tahdhib-al-ahkam:6:69:7"
+      ]
+    },
+    "922-3584": {
+      "narrator_ids": [
+        922,
+        3584
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:1:10:5",
+        "/books/tahdhib-al-ahkam:6:69:7"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3584",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3584.json"
+  }
+}

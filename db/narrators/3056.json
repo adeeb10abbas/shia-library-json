@@ -1,0 +1,54 @@
+{
+  "id": 3056,
+  "type": "narrator",
+  "path": "/people/narrators/3056",
+  "titles": {
+    "ar": "حَسَنِ بْنِ مُحَمَّدِ بْنِ سَمَاعَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:95:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3056-372": {
+      "narrator_ids": [
+        3056,
+        372
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:95:5"
+      ]
+    },
+    "49-3056": {
+      "narrator_ids": [
+        49,
+        3056
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:95:5"
+      ]
+    },
+    "49-3056-372-4490-14-669": {
+      "narrator_ids": [
+        49,
+        3056,
+        372,
+        4490,
+        14,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:95:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3056",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3056.json"
+  }
+}

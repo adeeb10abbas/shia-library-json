@@ -1,0 +1,53 @@
+{
+  "id": 4329,
+  "type": "narrator",
+  "path": "/people/narrators/4329",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ مُوسَى بْنِ الْفُرَاتِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:8:48:10"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "12-4329": {
+      "narrator_ids": [
+        12,
+        4329
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:48:10"
+      ]
+    },
+    "4329-3818": {
+      "narrator_ids": [
+        4329,
+        3818
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:48:10"
+      ]
+    },
+    "6-12-4329-3818-2699": {
+      "narrator_ids": [
+        6,
+        12,
+        4329,
+        3818,
+        2699
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:48:10"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4329",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4329.json"
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:6:6:59",
+  "chapter": {
+    "path": "/books/al-kafi:6:6:59",
+    "titles": {
+      "ar": "باب لُحُومِ الْجَزُورِ وَ الْبُخْتِ",
+      "en": "Chapter 59 – Meats of the sacrificial camels and the strutting (racing) camels"
+    }
+  },
+  "count": 2,
+  "records": [
+    {
+      "id": "al-kafi:6:6:59:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:6:59:1",
+        "parts": [
+          6,
+          6,
+          59,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 6,
+        "chapter": 59,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:6:59",
+        "titles": {
+          "ar": "باب لُحُومِ الْجَزُورِ وَ الْبُخْتِ",
+          "en": "Chapter 59 – Meats of the sacrificial camels and the strutting (racing) camels"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " كَتَبْتُ إِلَى أَبِي الْحَسَنِ ( عليه السلام ) أَسْأَلُهُ عَنْ لُحُومِ الْبُخْتِ وَ أَلْبَانِهِنَّ فَقَالَ لَا بَأْسَ بِهِ ."
+        ],
+        "text": "كَتَبْتُ إِلَى أَبِي الْحَسَنِ ( عليه السلام ) أَسْأَلُهُ عَنْ لُحُومِ الْبُخْتِ وَ أَلْبَانِهِنَّ فَقَالَ لَا بَأْسَ بِهِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad Bin Isa, from Ali Bin Al Hakam, from Dawood Al Raqqy who said, ",
+            "‘I wrote to Abu Al-Hassan<sup>asws</sup> asking him<sup>asws</sup> about the meats of the strutting (racing) camels and their milks, so he<sup>asws</sup> said: ‘There is no problem with it’."
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad Bin Isa, from Ali Bin Al Hakam, from Dawood Al Raqqy who said,\n\n‘I wrote to Abu Al-Hassan<sup>asws</sup> asking him<sup>asws</sup> about the meats of the strutting (racing) camels and their milks, so he<sup>asws</sup> said: ‘There is no problem with it’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad ibn ‘Isa from Ali ibn al-Hakam from Dawud al-Riqqiy who has said the following: “I once wrote to abu al-Hassan, ‘Alayhi al-Salam, and ask about the meat of camels of Khurasan and their milk. He (the Imam) said, ’It is not unlawful.”’ "
+          ],
+          "text": "1. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad ibn ‘Isa from Ali ibn al-Hakam from Dawud al-Riqqiy who has said the following: “I once wrote to abu al-Hassan, ‘Alayhi al-Salam, and ask about the meat of camels of Khurasan and their milk. He (the Imam) said, ’It is not unlawful.”’"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> صحيح على الظاهر    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/132)",
+          "label": "صحيح على الظاهر",
+          "text": "Allamah Baqir al-Majlisi: صحيح على الظاهر - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/132)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى عَنْ عَلِيِّ بْنِ الْحَكَمِ عَنْ دَاوُدَ الرَّقِّيِّ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى",
+            "path": "/people/narrators/13"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيِّ بْنِ الْحَكَمِ",
+            "path": "/people/narrators/15"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "دَاوُدَ الرَّقِّيِّ",
+            "path": "/people/narrators/254"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/13",
+          "/people/narrators/15",
+          "/people/narrators/254"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:6:59:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/6/59/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:6:59:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:6:59:2",
+        "parts": [
+          6,
+          6,
+          59,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 6,
+        "chapter": 59,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:6:59",
+        "titles": {
+          "ar": "باب لُحُومِ الْجَزُورِ وَ الْبُخْتِ",
+          "en": "Chapter 59 – Meats of the sacrificial camels and the strutting (racing) camels"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قُلْتُ لِأَبِي عَبْدِ اللَّهِ ( عليه السلام ) جُعِلْتُ فِدَاكَ إِنَّ رَجُلًا مِنْ أَصْحَابِ أَبِي الْخَطَّابِ نَهَى عَنْ أَكْلِ الْبُخْتِ وَ عَنْ أَكْلِ لُحُومِ الْحَمَامِ الْمُسَرْوَلَةِ فَقَالَ أَبُو عَبْدِ اللَّهِ ( عليه السلام ) لَا بَأْسَ بِرُكُوبِ الْبُخْتِ وَ شُرْبِ أَلْبَانِهِنَّ وَ أَكْلِ لُحُومِ الْحَمَامِ الْمُسَرْوَلِ ."
+        ],
+        "text": "قُلْتُ لِأَبِي عَبْدِ اللَّهِ ( عليه السلام ) جُعِلْتُ فِدَاكَ إِنَّ رَجُلًا مِنْ أَصْحَابِ أَبِي الْخَطَّابِ نَهَى عَنْ أَكْلِ الْبُخْتِ وَ عَنْ أَكْلِ لُحُومِ الْحَمَامِ الْمُسَرْوَلَةِ فَقَالَ أَبُو عَبْدِ اللَّهِ ( عليه السلام ) لَا بَأْسَ بِرُكُوبِ الْبُخْتِ وَ شُرْبِ أَلْبَانِهِنَّ وَ أَكْلِ لُحُومِ الْحَمَامِ الْمُسَرْوَلِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Al Hassan Bin Ali, from Dawood Al Raqqy who said, ",
+            "‘I said to Abu Abdullah<sup>asws</sup>, ‘May I be sacrificed for you<sup>asws</sup>! A man from the companions of Abu Al-Khattab forbade from eating the strutting (racing) camels, and from eating the meat of <span class=\"iTxt\">Al-Masroula</span> pigeons. So Abu Abdullah<sup>asws</sup> said: ‘There is no problem with riding the strutting (racing) camels and drinking their milks, and eating the meat of <span class=\"iTxt\">Al-Masroula</span> pigeons’."
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Al Hassan Bin Ali, from Dawood Al Raqqy who said,\n\n‘I said to Abu Abdullah<sup>asws</sup>, ‘May I be sacrificed for you<sup>asws</sup>! A man from the companions of Abu Al-Khattab forbade from eating the strutting (racing) camels, and from eating the meat of <span class=\"iTxt\">Al-Masroula</span> pigeons. So Abu Abdullah<sup>asws</sup> said: ‘There is no problem with riding the strutting (racing) camels and drinking their milks, and eating the meat of <span class=\"iTxt\">Al-Masroula</span> pigeons’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from al-Hassan ibn Ali from Dawud al-Riqqiy who has said the following: “I once said to abu ‘ Abd Allah, ‘Alayhi al-Salam, ‘I pray to Allah to keep my soul in service for your cause, a man from the companions of abu al-Khattab prohibited eating the meat of camels of Khurasan and the meat of al-Musarwal (pigeons that have feathers on their legs). He (the Imam) said, ‘It is not unlawful to ride camel of Khurasan, drink their milk and eat the meat of al-Musarwal pigeons.’” "
+          ],
+          "text": "2. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from al-Hassan ibn Ali from Dawud al-Riqqiy who has said the following: “I once said to abu ‘ Abd Allah, ‘Alayhi al-Salam, ‘I pray to Allah to keep my soul in service for your cause, a man from the companions of abu al-Khattab prohibited eating the meat of camels of Khurasan and the meat of al-Musarwal (pigeons that have feathers on their legs). He (the Imam) said, ‘It is not unlawful to ride camel of Khurasan, drink their milk and eat the meat of al-Musarwal pigeons.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> صحيح   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/133)",
+          "label": "صحيح",
+          "text": "Allamah Baqir al-Majlisi: صحيح - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/133)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنِ الْحَسَنِ بْنِ عَلِيٍّ عَنْ دَاوُدَ الرَّقِّيِّ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحَسَنِ بْنِ عَلِيٍّ",
+            "path": "/people/narrators/63"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "دَاوُدَ الرَّقِّيِّ",
+            "path": "/people/narrators/254"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/5",
+          "/people/narrators/63",
+          "/people/narrators/254"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:6:59:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/6/59/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": 4373,
+  "type": "narrator",
+  "path": "/people/narrators/4373",
+  "titles": {
+    "ar": "مَصْقَلَةَ الطَّحَّانِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:116:8"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "26-4373": {
+      "narrator_ids": [
+        26,
+        4373
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:116:8"
+      ]
+    },
+    "35-8-59-63-26-4373": {
+      "narrator_ids": [
+        35,
+        8,
+        59,
+        63,
+        26,
+        4373
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:116:8"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4373",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4373.json"
+  }
+}

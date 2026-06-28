@@ -1,0 +1,54 @@
+{
+  "id": 3022,
+  "type": "narrator",
+  "path": "/people/narrators/3022",
+  "titles": {
+    "ar": "جَمِيلِ بْنِ دَرَّاجٍ كِلَاهُمَا"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:1:8:9"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "239-3022": {
+      "narrator_ids": [
+        239,
+        3022
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:1:8:9"
+      ]
+    },
+    "3022-669": {
+      "narrator_ids": [
+        3022,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:1:8:9"
+      ]
+    },
+    "6-5-61-239-3022-669": {
+      "narrator_ids": [
+        6,
+        5,
+        61,
+        239,
+        3022,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:1:8:9"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3022",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3022.json"
+  }
+}

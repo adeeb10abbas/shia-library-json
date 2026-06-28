@@ -1,0 +1,99 @@
+{
+  "id": 4163,
+  "type": "narrator",
+  "path": "/people/narrators/4163",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ الْحَسَنِ بْنِ عَلَّانٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:4:4:2",
+    "/books/tahdhib-al-ahkam:2:15:246",
+    "/books/tahdhib-al-ahkam:2:8:132",
+    "/books/tahdhib-al-ahkam:5:25:439"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "11-4163": {
+      "narrator_ids": [
+        11,
+        4163
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:15:246"
+      ]
+    },
+    "13-4163": {
+      "narrator_ids": [
+        13,
+        4163
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:4:2",
+        "/books/tahdhib-al-ahkam:5:25:439"
+      ]
+    },
+    "13-4163-76-3101-716": {
+      "narrator_ids": [
+        13,
+        4163,
+        76,
+        3101,
+        716
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:25:439"
+      ]
+    },
+    "4163-279": {
+      "narrator_ids": [
+        4163,
+        279
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:8:132"
+      ]
+    },
+    "4163-38": {
+      "narrator_ids": [
+        4163,
+        38
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:4:2"
+      ]
+    },
+    "4163-76": {
+      "narrator_ids": [
+        4163,
+        76
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:25:439"
+      ]
+    },
+    "6-13-4163-38-30-192-193-9": {
+      "narrator_ids": [
+        6,
+        13,
+        4163,
+        38,
+        30,
+        192,
+        193,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:4:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4163",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4163.json"
+  }
+}

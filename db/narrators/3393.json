@@ -1,0 +1,45 @@
+{
+  "id": 3393,
+  "type": "narrator",
+  "path": "/people/narrators/3393",
+  "titles": {
+    "ar": "سَيْفِ بْنِ هَارُونَ مَوْلَى آلِ جَعْدَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:4:29:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "4615-3393": {
+      "narrator_ids": [
+        4615,
+        3393
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:29:2"
+      ]
+    },
+    "6-12-67-63-4615-3393": {
+      "narrator_ids": [
+        6,
+        12,
+        67,
+        63,
+        4615,
+        3393
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:29:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3393",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3393.json"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "maani-al-akhbar",
+  "chapterPath": "/books/maani-al-akhbar:205",
+  "chapter": {
+    "path": "/books/maani-al-akhbar:205",
+    "titles": {
+      "en": "The chapter of the meaning of the (acceptance of) repentance by Allah, Exalted and Glorious is He, upon the creation"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "maani-al-akhbar:205:1",
+      "type": "hadith",
+      "book": {
+        "slug": "maani-al-akhbar",
+        "titles": {
+          "ar": "معاني الأخبار",
+          "en": "Ma'ani al-Akhbar"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/maani-al-akhbar:205:1",
+        "parts": [
+          205,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 205,
+        "book": 1
+      },
+      "chapter": {
+        "path": "/books/maani-al-akhbar:205",
+        "titles": {
+          "en": "The chapter of the meaning of the (acceptance of) repentance by Allah, Exalted and Glorious is He, upon the creation"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا سعد بن عبد الله، قال: حدثنا محمد بن الحسين، عن ابن فضال، عن علي بن عقبة، عن أبيه، عن أبي عبد الله عليه السلام في قول الله عز وجل: \" ثم تاب عليهم   \" قال: هي الإقالة."
+        ],
+        "text": ": حدثنا سعد بن عبد الله، قال: حدثنا محمد بن الحسين، عن ابن فضال، عن علي بن عقبة، عن أبيه، عن أبي عبد الله عليه السلام في قول الله عز وجل: \" ثم تاب عليهم   \" قال: هي الإقالة."
+      },
+      "translations": {
+        "en.basel-kadem": {
+          "segments": [
+            "1.\tMy father, may Allah grant him mercy, said: We were told by Sa’d bin Abdullah, that he said: We were told by Muhammed bin Hussein, from Ibn Faddal, from Ali bin ‘Aqaba, from his father, from Abu Abdillah, peace be upon him, with regards to the saying of Allah, Exalted and Glorious is He: «Then He (accepted their repentance by) repenting upon them.» <a href=\"/books/quran:9#h118\">[9:118]</a> He said: It is pardoning."
+          ],
+          "text": "1.\tMy father, may Allah grant him mercy, said: We were told by Sa’d bin Abdullah, that he said: We were told by Muhammed bin Hussein, from Ibn Faddal, from Ali bin ‘Aqaba, from his father, from Abu Abdillah, peace be upon him, with regards to the saying of Allah, Exalted and Glorious is He: «Then He (accepted their repentance by) repenting upon them.» <a href=\"/books/quran:9#h118\">[9:118]</a> He said: It is pardoning."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "أبي رحمه الله - قال",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "أبي رحمه الله - قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {
+        "Mentions": [
+          "/books/quran:9:118"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/maani-al-akhbar:205:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/maani-al-akhbar/205/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/28/1/205/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

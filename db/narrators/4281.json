@@ -1,0 +1,33 @@
+{
+  "id": 4281,
+  "type": "narrator",
+  "path": "/people/narrators/4281",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ عَلِيِّ بْنِ بِلَالٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:76:1",
+    "/books/mujam-al-ahadith-al-mutabara:3:94:2"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "35-4281": {
+      "narrator_ids": [
+        35,
+        4281
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:76:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4281",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4281.json"
+  }
+}

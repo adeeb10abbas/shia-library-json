@@ -1,0 +1,116 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-amali-mufid",
+  "chapterPath": "/books/al-amali-mufid:23:19",
+  "chapter": {
+    "path": "/books/al-amali-mufid:23:19",
+    "titles": {
+      "en": "The good and the bad traditions"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-amali-mufid:23:19:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-amali-mufid",
+        "titles": {
+          "ar": "الأمالي (المفيد)",
+          "en": "Al-Amali (al-Mufid)"
+        },
+        "author": {
+          "ar": "الشيخ المفيد",
+          "en": "Shaykh al-Mufid"
+        }
+      },
+      "path": {
+        "source": "/books/al-amali-mufid:23:19:1",
+        "parts": [
+          23,
+          19,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 23,
+        "book": 19,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-amali-mufid:23:19",
+        "titles": {
+          "en": "The good and the bad traditions"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": قال إسماعيل الجعفي : سمعت أبا جعفر محمد بن علي صلوات الله عليهما يقول: من سن سنة عدل فاتبع كان له مثل أجر من عمل بها من غير أن ينقص  من أجورهم شئ، ومن سن سنة جور فاتبع كان عليه وزر من عمل بها من غير أن ينقص من أوزارهم شئ."
+        ],
+        "text": ": قال إسماعيل الجعفي : سمعت أبا جعفر محمد بن علي صلوات الله عليهما يقول: من سن سنة عدل فاتبع كان له مثل أجر من عمل بها من غير أن ينقص  من أجورهم شئ، ومن سن سنة جور فاتبع كان عليه وزر من عمل بها من غير أن ينقص من أوزارهم شئ."
+      },
+      "translations": {
+        "en.mulla-asgharali-m-m-jaffer": {
+          "segments": [
+            "19. And with the preceding chains of narration, ‘Ali ibn Mahzyar reported from Ahmad ibn Muhammad, from Hammad ibn Uthman, who reported that Ismail al-Jo’fi said: I heard Abu Ja’far Muhammad ibn ‘Ali, peace be upon them both say: \"Whoever sets a balanced, just tradition, which is then followed by the people, he earns the reward of everyone who acts accordingly, without they losing anything from their rewards. And whoever sets an unjust tradition, which is then followed, he shall bear the burden of those who act accordingly, without any mitigation in the burdens of the followers.\""
+          ],
+          "text": "19. And with the preceding chains of narration, ‘Ali ibn Mahzyar reported from Ahmad ibn Muhammad, from Hammad ibn Uthman, who reported that Ismail al-Jo’fi said: I heard Abu Ja’far Muhammad ibn ‘Ali, peace be upon them both say: \"Whoever sets a balanced, just tradition, which is then followed by the people, he earns the reward of everyone who acts accordingly, without they losing anything from their rewards. And whoever sets an unjust tradition, which is then followed, he shall bear the burden of those who act accordingly, without any mitigation in the burdens of the followers.\""
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "19 - وبالإسناد الأول عن علي بن مهزيار، عن أحمد بن محمد، عن حماد بن عثمان قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "19 - "
+          },
+          {
+            "kind": "plain",
+            "text": "وبالإسناد الأول"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "علي بن مهزيار،",
+            "path": "/people/narrators/81"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أحمد بن محمد،",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "حماد بن عثمان قال",
+            "path": "/people/narrators/54"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/81",
+          "/people/narrators/5",
+          "/people/narrators/54"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-amali-mufid:23:19:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-amali-mufid/23/19/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/13/23/19/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

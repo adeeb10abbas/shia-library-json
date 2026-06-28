@@ -1,0 +1,105 @@
+{
+  "id": 3988,
+  "type": "narrator",
+  "path": "/people/narrators/3988",
+  "titles": {
+    "ar": "غَيْرِهِمْ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:36:1",
+    "/books/kamil-al-ziyarat:2:88:14",
+    "/books/man-la-yahduruhu-al-faqih:2:3:83:1"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "115-47-45-3988-669": {
+      "narrator_ids": [
+        115,
+        47,
+        45,
+        3988,
+        669
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:2:3:83:1"
+      ]
+    },
+    "1307-3988": {
+      "narrator_ids": [
+        1307,
+        3988
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:88:14"
+      ]
+    },
+    "1307-3988-97-59-29-67-2-9": {
+      "narrator_ids": [
+        1307,
+        3988,
+        97,
+        59,
+        29,
+        67,
+        2,
+        9
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:88:14"
+      ]
+    },
+    "3-2-7-115-47-45-3988-669": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        115,
+        47,
+        45,
+        3988,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:36:1"
+      ]
+    },
+    "3988-669": {
+      "narrator_ids": [
+        3988,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:36:1",
+        "/books/man-la-yahduruhu-al-faqih:2:3:83:1"
+      ]
+    },
+    "3988-97": {
+      "narrator_ids": [
+        3988,
+        97
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:88:14"
+      ]
+    },
+    "45-3988": {
+      "narrator_ids": [
+        45,
+        3988
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:36:1",
+        "/books/man-la-yahduruhu-al-faqih:2:3:83:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3988",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3988.json"
+  }
+}

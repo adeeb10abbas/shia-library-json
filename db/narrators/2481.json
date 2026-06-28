@@ -1,0 +1,32 @@
+{
+  "id": 2481,
+  "type": "narrator",
+  "path": "/people/narrators/2481",
+  "titles": {
+    "ar": "الْأَقْرَعِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:124:12"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "380-2481": {
+      "narrator_ids": [
+        380,
+        2481
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:124:12"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2481",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2481.json"
+  }
+}

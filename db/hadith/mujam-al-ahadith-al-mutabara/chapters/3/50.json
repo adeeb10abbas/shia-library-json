@@ -1,0 +1,111 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "mujam-al-ahadith-al-mutabara",
+  "chapterPath": "/books/mujam-al-ahadith-al-mutabara:3:50",
+  "chapter": {
+    "path": "/books/mujam-al-ahadith-al-mutabara:3:50",
+    "titles": {
+      "en": "Abd al-Khaliq b. Abd Rabbi"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "mujam-al-ahadith-al-mutabara:3:50:1",
+      "type": "hadith",
+      "book": {
+        "slug": "mujam-al-ahadith-al-mutabara",
+        "titles": {
+          "ar": "معجم الأحاديث المعتبرة",
+          "en": "Mu'jam al-Ahadith al-Mu'tabara"
+        },
+        "author": {
+          "en": "Muhammad Asif al-Muhsini"
+        }
+      },
+      "path": {
+        "source": "/books/mujam-al-ahadith-al-mutabara:3:50:1",
+        "parts": [
+          3,
+          50,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 50,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/mujam-al-ahadith-al-mutabara:3:50",
+        "titles": {
+          "en": "Abd al-Khaliq b. Abd Rabbi"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": ذكر أبو عبد الله عليه السلام أبي فقال: صلى الله على أبيك ثلاثا"
+        ],
+        "text": ": ذكر أبو عبد الله عليه السلام أبي فقال: صلى الله على أبيك ثلاثا"
+      },
+      "translations": {
+        "en.ammaar-muslim": {
+          "segments": [
+            "1. [1/-] Rijal al-Kashshi: Muhammad b. Masud from Abdallah b. Muhammad from his father from Ismail b. Abd al-Khaliq who said: Abu Abdillah عليه السلام remembered my father and said: may Allah bless your father – thrice."
+          ],
+          "text": "1. [1/-] Rijal al-Kashshi: Muhammad b. Masud from Abdallah b. Muhammad from his father from Ismail b. Abd al-Khaliq who said: Abu Abdillah عليه السلام remembered my father and said: may Allah bless your father – thrice."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "[-/1] رجال الكشي: محمد بن مسعود، عن عبد الله بن محمد، عن أبي، عن إسماعيل بن عبد الخالق قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "[-/1] رجال الكشي: محمد بن مسعود،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "عبد الله بن محمد،",
+            "path": "/people/narrators/144"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي،",
+            "path": "/people/narrators/613"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "إسماعيل بن عبد الخالق قال",
+            "path": "/people/narrators/460"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/144",
+          "/people/narrators/613",
+          "/people/narrators/460"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/mujam-al-ahadith-al-mutabara:3:50:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/mujam-al-ahadith-al-mutabara/3/50/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/9/3/51/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

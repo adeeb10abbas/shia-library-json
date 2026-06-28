@@ -1,0 +1,53 @@
+{
+  "id": 2777,
+  "type": "narrator",
+  "path": "/people/narrators/2777",
+  "titles": {
+    "ar": "الْقَاسِمِ بْنِ مُحَمَّدٍ الزَّيَّاتِ"
+  },
+  "versePaths": [
+    "/books/al-istibsar:3:70:11",
+    "/books/al-kafi:6:2:73:24",
+    "/books/tahdhib-al-ahkam:8:2:15"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "4134-2777": {
+      "narrator_ids": [
+        4134,
+        2777
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:8:2:15"
+      ]
+    },
+    "6-8-2777": {
+      "narrator_ids": [
+        6,
+        8,
+        2777
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:73:24"
+      ]
+    },
+    "8-2777": {
+      "narrator_ids": [
+        8,
+        2777
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:73:24"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2777",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2777.json"
+  }
+}

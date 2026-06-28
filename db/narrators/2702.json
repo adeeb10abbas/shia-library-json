@@ -1,0 +1,54 @@
+{
+  "id": 2702,
+  "type": "narrator",
+  "path": "/people/narrators/2702",
+  "titles": {
+    "ar": "السَّمَيْدَعِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:78:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "22-132-884-2702-1628-9": {
+      "narrator_ids": [
+        22,
+        132,
+        884,
+        2702,
+        1628,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:78:3"
+      ]
+    },
+    "2702-1628": {
+      "narrator_ids": [
+        2702,
+        1628
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:78:3"
+      ]
+    },
+    "884-2702": {
+      "narrator_ids": [
+        884,
+        2702
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:78:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2702",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2702.json"
+  }
+}

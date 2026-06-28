@@ -1,0 +1,87 @@
+{
+  "id": 1445,
+  "type": "narrator",
+  "path": "/people/narrators/1445",
+  "titles": {
+    "ar": "حَكَمِ بْنِ حُكَيْمٍ الصَّيْرَفِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:1:36:4",
+    "/books/tahdhib-al-ahkam:1:27:7",
+    "/books/tahdhib-al-ahkam:5:1:11",
+    "/books/tahdhib-al-ahkam:7:20:103"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "1045-46-1445": {
+      "narrator_ids": [
+        1045,
+        46,
+        1445
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:1:11"
+      ]
+    },
+    "158-1445": {
+      "narrator_ids": [
+        158,
+        1445
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:20:103"
+      ]
+    },
+    "3-2-7-47-1445": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        47,
+        1445
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:1:36:4",
+        "/books/tahdhib-al-ahkam:1:27:7"
+      ]
+    },
+    "46-1445": {
+      "narrator_ids": [
+        46,
+        1445
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:1:11"
+      ]
+    },
+    "47-1445": {
+      "narrator_ids": [
+        47,
+        1445
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:1:36:4",
+        "/books/tahdhib-al-ahkam:1:27:7"
+      ]
+    },
+    "94-158-1445": {
+      "narrator_ids": [
+        94,
+        158,
+        1445
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:20:103"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1445",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1445.json"
+  }
+}

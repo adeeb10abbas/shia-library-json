@@ -1,0 +1,58 @@
+{
+  "id": 4583,
+  "type": "narrator",
+  "path": "/people/narrators/4583",
+  "titles": {
+    "ar": "يَزِيدَ بْنِ عُمَرَ بْنِ طَلْحَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:229:1",
+    "/books/kamil-al-ziyarat:2:9:4"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "1216-4583": {
+      "narrator_ids": [
+        1216,
+        4583
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:229:1",
+        "/books/kamil-al-ziyarat:2:9:4"
+      ]
+    },
+    "3-2-1216-4583": {
+      "narrator_ids": [
+        3,
+        2,
+        1216,
+        4583
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:229:1"
+      ]
+    },
+    "613-952-371-2-1216-4583": {
+      "narrator_ids": [
+        613,
+        952,
+        371,
+        2,
+        1216,
+        4583
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:9:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4583",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4583.json"
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "id": 1123,
+  "type": "narrator",
+  "path": "/people/narrators/1123",
+  "titles": {
+    "ar": "عَامِرِ بْنِ السِّمْطِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:123:5",
+    "/books/al-kafi:3:3:58:2",
+    "/books/al-kafi:6:7:12:3",
+    "/books/man-la-yahduruhu-al-faqih:3:1:20:1",
+    "/books/tahdhib-al-ahkam:3:21:20"
+  ],
+  "verseCount": 5,
+  "relations": {},
+  "subchains": {
+    "11-6-8-3-2-10-1476-1123": {
+      "narrator_ids": [
+        11,
+        6,
+        8,
+        3,
+        2,
+        10,
+        1476,
+        1123
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:3:21:20"
+      ]
+    },
+    "1123-1429": {
+      "narrator_ids": [
+        1123,
+        1429
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:123:5"
+      ]
+    },
+    "1123-312": {
+      "narrator_ids": [
+        1123,
+        312
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:12:3",
+        "/books/man-la-yahduruhu-al-faqih:3:1:20:1"
+      ]
+    },
+    "1476-1123": {
+      "narrator_ids": [
+        1476,
+        1123
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:58:2",
+        "/books/tahdhib-al-ahkam:3:21:20"
+      ]
+    },
+    "1503-1123": {
+      "narrator_ids": [
+        1503,
+        1123
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:123:5",
+        "/books/man-la-yahduruhu-al-faqih:3:1:20:1"
+      ]
+    },
+    "1503-1123-312": {
+      "narrator_ids": [
+        1503,
+        1123,
+        312
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:3:1:20:1"
+      ]
+    },
+    "203-1123": {
+      "narrator_ids": [
+        203,
+        1123
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:12:3"
+      ]
+    },
+    "4-59-74-203-1123-312": {
+      "narrator_ids": [
+        4,
+        59,
+        74,
+        203,
+        1123,
+        312
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:12:3"
+      ]
+    },
+    "6-12-39-1503-1123-1429-312": {
+      "narrator_ids": [
+        6,
+        12,
+        39,
+        1503,
+        1123,
+        1429,
+        312
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:123:5"
+      ]
+    },
+    "6-8-3-2-10-1476-1123": {
+      "narrator_ids": [
+        6,
+        8,
+        3,
+        2,
+        10,
+        1476,
+        1123
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:58:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1123",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1123.json"
+  }
+}

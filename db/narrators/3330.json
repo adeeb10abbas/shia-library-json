@@ -1,0 +1,56 @@
+{
+  "id": 3330,
+  "type": "narrator",
+  "path": "/people/narrators/3330",
+  "titles": {
+    "ar": "سَعِيدِ بْنِ مُحَمَّدٍ الطَّاهِرِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:37:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "22-3330": {
+      "narrator_ids": [
+        22,
+        3330
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:37:5"
+      ]
+    },
+    "3330-2": {
+      "narrator_ids": [
+        3330,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:37:5"
+      ]
+    },
+    "6-8-3-2-22-3330-2-669": {
+      "narrator_ids": [
+        6,
+        8,
+        3,
+        2,
+        22,
+        3330,
+        2,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:37:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3330",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3330.json"
+  }
+}

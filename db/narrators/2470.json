@@ -1,0 +1,52 @@
+{
+  "id": 2470,
+  "type": "narrator",
+  "path": "/people/narrators/2470",
+  "titles": {
+    "ar": "إِشْكِيبِ بْنِ عَبْدَةَ الْهَمْدَانِيِّ بِإِسْنَادٍ لَهُ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:113:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2470-669": {
+      "narrator_ids": [
+        2470,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:113:4"
+      ]
+    },
+    "339-2470": {
+      "narrator_ids": [
+        339,
+        2470
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:113:4"
+      ]
+    },
+    "4-339-2470-669": {
+      "narrator_ids": [
+        4,
+        339,
+        2470,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:113:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2470",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2470.json"
+  }
+}

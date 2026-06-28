@@ -1,0 +1,116 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-amali-mufid",
+  "chapterPath": "/books/al-amali-mufid:23:28",
+  "chapter": {
+    "path": "/books/al-amali-mufid:23:28",
+    "titles": {
+      "en": "The verse of Qur’an interpreted"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-amali-mufid:23:28:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-amali-mufid",
+        "titles": {
+          "ar": "الأمالي (المفيد)",
+          "en": "Al-Amali (al-Mufid)"
+        },
+        "author": {
+          "ar": "الشيخ المفيد",
+          "en": "Shaykh al-Mufid"
+        }
+      },
+      "path": {
+        "source": "/books/al-amali-mufid:23:28:1",
+        "parts": [
+          23,
+          28,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 23,
+        "book": 28,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-amali-mufid:23:28",
+        "titles": {
+          "en": "The verse of Qur’an interpreted"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": سألت أبا عبد الله جعفر بن محمد عليهما السلام عن قول الله عز وجل: \" والذين يؤتون ما آتوا وقلوبهم وجلة  \"، قال: من شفقتهم ورجائهم يخافون أن ترد إليهم أعمالهم إذا لم يطيعوا، وهم يرجون أن يتقبل منهم."
+        ],
+        "text": ": سألت أبا عبد الله جعفر بن محمد عليهما السلام عن قول الله عز وجل: \" والذين يؤتون ما آتوا وقلوبهم وجلة  \"، قال: من شفقتهم ورجائهم يخافون أن ترد إليهم أعمالهم إذا لم يطيعوا، وهم يرجون أن يتقبل منهم."
+      },
+      "translations": {
+        "en.mulla-asgharali-m-m-jaffer": {
+          "segments": [
+            "28. And with the first chain of narration, from ‘Ali ibn Mahzyar, from al-Qasim ibn Muhammad, from ‘Ali who said: I asked Abu Abdillah Ja’far ibn Muhammad, peace be upon him about the verse from the Qur’an: ’And those who strive with righteous deeds to the greatest extent and their hearts are filled with fear....’ (al-Mu’minoon. 23:60). He said: \"That is their fear and hope. They fear that their acts may be rejected because of their sins, and at the same time, hope that they might be accepted from them.\""
+          ],
+          "text": "28. And with the first chain of narration, from ‘Ali ibn Mahzyar, from al-Qasim ibn Muhammad, from ‘Ali who said: I asked Abu Abdillah Ja’far ibn Muhammad, peace be upon him about the verse from the Qur’an: ’And those who strive with righteous deeds to the greatest extent and their hearts are filled with fear....’ (al-Mu’minoon. 23:60). He said: \"That is their fear and hope. They fear that their acts may be rejected because of their sins, and at the same time, hope that they might be accepted from them.\""
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "28 - وبالإسناد الأول عن علي بن مهزيار، عن القاسم بن محمد، عن علي  قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "28 - "
+          },
+          {
+            "kind": "plain",
+            "text": "وبالإسناد الأول"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "علي بن مهزيار،",
+            "path": "/people/narrators/81"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "القاسم بن محمد،",
+            "path": "/people/narrators/82"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "علي  قال",
+            "path": "/people/narrators/50"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/81",
+          "/people/narrators/82",
+          "/people/narrators/50"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-amali-mufid:23:28:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-amali-mufid/23/28/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/13/23/28/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

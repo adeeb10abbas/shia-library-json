@@ -1,0 +1,92 @@
+{
+  "id": 2966,
+  "type": "narrator",
+  "path": "/people/narrators/2966",
+  "titles": {
+    "ar": "جَابِرٍ الْمَكْفُوفِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:97:5",
+    "/books/kamil-al-ziyarat:2:49:4",
+    "/books/kamil-al-ziyarat:2:79:14"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "19-187-292-2966-326-669": {
+      "narrator_ids": [
+        19,
+        187,
+        292,
+        2966,
+        326,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:97:5"
+      ]
+    },
+    "292-2966": {
+      "narrator_ids": [
+        292,
+        2966
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:97:5",
+        "/books/kamil-al-ziyarat:2:49:4",
+        "/books/kamil-al-ziyarat:2:79:14"
+      ]
+    },
+    "2966-1251": {
+      "narrator_ids": [
+        2966,
+        1251
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:49:4",
+        "/books/kamil-al-ziyarat:2:79:14"
+      ]
+    },
+    "2966-326": {
+      "narrator_ids": [
+        2966,
+        326
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:97:5"
+      ]
+    },
+    "312-355-292-2966-1251-669": {
+      "narrator_ids": [
+        312,
+        355,
+        292,
+        2966,
+        1251,
+        669
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:79:14"
+      ]
+    },
+    "355-292-2966-1251": {
+      "narrator_ids": [
+        355,
+        292,
+        2966,
+        1251
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:49:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2966",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2966.json"
+  }
+}

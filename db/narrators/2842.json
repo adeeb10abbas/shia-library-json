@@ -1,0 +1,55 @@
+{
+  "id": 2842,
+  "type": "narrator",
+  "path": "/people/narrators/2842",
+  "titles": {
+    "ar": "امْرَأَةٍ دَرَّ لَبَنُهَا مِنْ غَيْرِ وِلَادَةٍ فَأَرْضَعَتْ جَارِيَةً"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:3:91:11"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2842-3977": {
+      "narrator_ids": [
+        2842,
+        3977
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:91:11"
+      ]
+    },
+    "49-183-202-85-669-2842-3977": {
+      "narrator_ids": [
+        49,
+        183,
+        202,
+        85,
+        669,
+        2842,
+        3977
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:91:11"
+      ]
+    },
+    "669-2842": {
+      "narrator_ids": [
+        669,
+        2842
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:91:11"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2842",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2842.json"
+  }
+}

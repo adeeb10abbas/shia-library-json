@@ -1,0 +1,67 @@
+{
+  "id": 1663,
+  "type": "narrator",
+  "path": "/people/narrators/1663",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ صَالِحٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:125:15",
+    "/books/al-kafi:1:4:125:25",
+    "/books/kamil-al-ziyarat:2:74:2",
+    "/books/mujam-al-ahadith-al-mutabara:3:88:2",
+    "/books/sifat-al-shia:41:1"
+  ],
+  "verseCount": 5,
+  "relations": {},
+  "subchains": {
+    "11-29-1663-791-669": {
+      "narrator_ids": [
+        11,
+        29,
+        1663,
+        791,
+        669
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:74:2"
+      ]
+    },
+    "1663-791": {
+      "narrator_ids": [
+        1663,
+        791
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:74:2"
+      ]
+    },
+    "29-1663": {
+      "narrator_ids": [
+        29,
+        1663
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:74:2"
+      ]
+    },
+    "35-1663": {
+      "narrator_ids": [
+        35,
+        1663
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:125:15",
+        "/books/al-kafi:1:4:125:25"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1663",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1663.json"
+  }
+}

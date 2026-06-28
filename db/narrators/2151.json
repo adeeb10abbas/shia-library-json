@@ -1,0 +1,32 @@
+{
+  "id": 2151,
+  "type": "narrator",
+  "path": "/people/narrators/2151",
+  "titles": {
+    "ar": "أَبِي عَبْدِ اللَّهِ النَّسَائِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:125:6"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "200-2151": {
+      "narrator_ids": [
+        200,
+        2151
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:125:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2151",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2151.json"
+  }
+}

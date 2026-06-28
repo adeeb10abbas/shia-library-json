@@ -1,0 +1,53 @@
+{
+  "id": 3351,
+  "type": "narrator",
+  "path": "/people/narrators/3351",
+  "titles": {
+    "ar": "سَلَمَةَ بْنِ أَبِي حَبَّةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:8:19:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "27-3351": {
+      "narrator_ids": [
+        27,
+        3351
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:19:1"
+      ]
+    },
+    "3351-669": {
+      "narrator_ids": [
+        3351,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:19:1"
+      ]
+    },
+    "6-8-27-3351-669": {
+      "narrator_ids": [
+        6,
+        8,
+        27,
+        3351,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:19:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3351",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3351.json"
+  }
+}

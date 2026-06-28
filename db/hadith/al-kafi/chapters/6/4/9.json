@@ -1,0 +1,140 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:6:4:9",
+  "chapter": {
+    "path": "/books/al-kafi:6:4:9",
+    "titles": {
+      "ar": "باب الرَّجُلِ يَرْمِي الصَّيْدَ فَيُخْطِئُ وَ يُصِيبُ غَيْرَهُ",
+      "en": "Chapter 9 – The man shoots at the prey, so he errs and hits something else"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-kafi:6:4:9:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:4:9:1",
+        "parts": [
+          6,
+          4,
+          9,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 4,
+        "chapter": 9,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:4:9",
+        "titles": {
+          "ar": "باب الرَّجُلِ يَرْمِي الصَّيْدَ فَيُخْطِئُ وَ يُصِيبُ غَيْرَهُ",
+          "en": "Chapter 9 – The man shoots at the prey, so he errs and hits something else"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَأَلْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) عَنْ رَجُلٍ سَمَّى وَ رَمَى صَيْداً فَأَخْطَأَهُ وَ أَصَابَ آخَرَ فَقَالَ يَأْكُلُ مِنْهُ ."
+        ],
+        "text": "سَأَلْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) عَنْ رَجُلٍ سَمَّى وَ رَمَى صَيْداً فَأَخْطَأَهُ وَ أَصَابَ آخَرَ فَقَالَ يَأْكُلُ مِنْهُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Ibn Mahboub, from Abbad Bin Suheyb who said, ",
+            "‘I asked Abu Abdullah<sup>asws</sup> about a man who Named (<span class=\"iTxt\">Bismillah</span>) and shot at a prey, so he erred and hit another. So he<sup>asws</sup> said: ‘He can eat from it’."
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Ibn Mahboub, from Abbad Bin Suheyb who said,\n\n‘I asked Abu Abdullah<sup>asws</sup> about a man who Named (<span class=\"iTxt\">Bismillah</span>) and shot at a prey, so he erred and hit another. So he<sup>asws</sup> said: ‘He can eat from it’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from ibn Mahbub from ‘Abbad ibn Suhayb who has said the following: “I once asked abu ‘Abd Allah, ‘Alayhi al-Salam, about the case of a man who shoots a prey and mentions the name of Allah, but misses it and hits another one. He (the Imam) said, ‘He can use it for food.’” "
+          ],
+          "text": "1. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from ibn Mahbub from ‘Abbad ibn Suhayb who has said the following: “I once asked abu ‘Abd Allah, ‘Alayhi al-Salam, about the case of a man who shoots a prey and mentions the name of Allah, but misses it and hits another one. He (the Imam) said, ‘He can use it for food.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> موثق   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (1/355)",
+          "label": "موثق",
+          "text": "Allamah Baqir al-Majlisi: موثق - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (1/355)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنِ ابْنِ مَحْبُوبٍ عَنْ عَبَّادِ بْنِ صُهَيْبٍ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ مَحْبُوبٍ",
+            "path": "/people/narrators/10"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَبَّادِ بْنِ صُهَيْبٍ",
+            "path": "/people/narrators/509"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/5",
+          "/people/narrators/10",
+          "/people/narrators/509"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:5:2:110:4",
+          "/books/al-kafi:7:3:46:5"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:4:9:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/4/9/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

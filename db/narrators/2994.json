@@ -1,0 +1,59 @@
+{
+  "id": 2994,
+  "type": "narrator",
+  "path": "/people/narrators/2994",
+  "titles": {
+    "ar": "جَعْفَرِ بْنِ سُلَيْمَانَ عَمِّهِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:1:19:10",
+    "/books/tahdhib-al-ahkam:1:19:28"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "4-306-88-82-2994": {
+      "narrator_ids": [
+        4,
+        306,
+        88,
+        82,
+        2994
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:1:19:10"
+      ]
+    },
+    "82-2994": {
+      "narrator_ids": [
+        82,
+        2994
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:1:19:10",
+        "/books/tahdhib-al-ahkam:1:19:28"
+      ]
+    },
+    "952-4-306-88-82-2994": {
+      "narrator_ids": [
+        952,
+        4,
+        306,
+        88,
+        82,
+        2994
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:19:28"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2994",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2994.json"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": 2394,
+  "type": "narrator",
+  "path": "/people/narrators/2394",
+  "titles": {
+    "ar": "أَرْطَاةَ بْنِ حَبِيبٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:3:190:57"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2394-379": {
+      "narrator_ids": [
+        2394,
+        379
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:190:57"
+      ]
+    },
+    "576-2394": {
+      "narrator_ids": [
+        576,
+        2394
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:190:57"
+      ]
+    },
+    "6-8-576-2394-379": {
+      "narrator_ids": [
+        6,
+        8,
+        576,
+        2394,
+        379
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:190:57"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2394",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2394.json"
+  }
+}

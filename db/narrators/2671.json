@@ -1,0 +1,53 @@
+{
+  "id": 2671,
+  "type": "narrator",
+  "path": "/people/narrators/2671",
+  "titles": {
+    "ar": "الْخَضِرِ بْنِ عَبْدِ الْمَلِكِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:2:9:8"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2671-279": {
+      "narrator_ids": [
+        2671,
+        279
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:9:8"
+      ]
+    },
+    "273-2671": {
+      "narrator_ids": [
+        273,
+        2671
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:9:8"
+      ]
+    },
+    "4-29-273-2671-279": {
+      "narrator_ids": [
+        4,
+        29,
+        273,
+        2671,
+        279
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:9:8"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2671",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2671.json"
+  }
+}

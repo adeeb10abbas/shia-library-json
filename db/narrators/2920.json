@@ -1,0 +1,53 @@
+{
+  "id": 2920,
+  "type": "narrator",
+  "path": "/people/narrators/2920",
+  "titles": {
+    "ar": "بَعْضِ رِجَالِهِ أَوْهَمَهُ الْمِيثَمِيُّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:2:3:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "158-2920": {
+      "narrator_ids": [
+        158,
+        2920
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:3:2"
+      ]
+    },
+    "2920-669": {
+      "narrator_ids": [
+        2920,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:3:2"
+      ]
+    },
+    "652-3042-158-2920-669": {
+      "narrator_ids": [
+        652,
+        3042,
+        158,
+        2920,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:3:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2920",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2920.json"
+  }
+}

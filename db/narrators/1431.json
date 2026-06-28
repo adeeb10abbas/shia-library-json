@@ -1,0 +1,108 @@
+{
+  "id": 1431,
+  "type": "narrator",
+  "path": "/people/narrators/1431",
+  "titles": {
+    "ar": "حَجَّاجٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:3:2:8",
+    "/books/al-kafi:6:4:8:1",
+    "/books/tahdhib-al-ahkam:9:1:150"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "13-1431": {
+      "narrator_ids": [
+        13,
+        1431
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:1:150"
+      ]
+    },
+    "13-1431-896-64": {
+      "narrator_ids": [
+        13,
+        1431,
+        896,
+        64
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:1:150"
+      ]
+    },
+    "1431-896": {
+      "narrator_ids": [
+        1431,
+        896
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:4:8:1",
+        "/books/tahdhib-al-ahkam:9:1:150"
+      ]
+    },
+    "1431-9": {
+      "narrator_ids": [
+        1431,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:2:8"
+      ]
+    },
+    "27-1431": {
+      "narrator_ids": [
+        27,
+        1431
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:4:8:1"
+      ]
+    },
+    "286-1431": {
+      "narrator_ids": [
+        286,
+        1431
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:2:8"
+      ]
+    },
+    "4-13-27-1431-896-64": {
+      "narrator_ids": [
+        4,
+        13,
+        27,
+        1431,
+        896,
+        64
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:4:8:1"
+      ]
+    },
+    "6-5-10-286-1431-9": {
+      "narrator_ids": [
+        6,
+        5,
+        10,
+        286,
+        1431,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:2:8"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1431",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1431.json"
+  }
+}

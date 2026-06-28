@@ -1,0 +1,535 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:6:7:26",
+  "chapter": {
+    "path": "/books/al-kafi:6:7:26",
+    "titles": {
+      "ar": "باب الْعَصِيرِ",
+      "en": "Chapter 26 – The (Grape) Juice"
+    }
+  },
+  "count": 4,
+  "records": [
+    {
+      "id": "al-kafi:6:7:26:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:7:26:1",
+        "parts": [
+          6,
+          7,
+          26,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 7,
+        "chapter": 26,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:7:26",
+        "titles": {
+          "ar": "باب الْعَصِيرِ",
+          "en": "Chapter 26 – The (Grape) Juice"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " لَا يَحْرُمُ الْعَصِيرُ حَتَّى يَغْلِيَ ."
+        ],
+        "text": "لَا يَحْرُمُ الْعَصِيرُ حَتَّى يَغْلِيَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father, from Ahmad Bin Muhammad Bin Abu Nasr, from Hammad Bin Usman, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The (grape) juice is not Prohibited until it boils’."
+          ],
+          "text": "Ali Bin Ibrahim, from his father, from Ahmad Bin Muhammad Bin Abu Nasr, from Hammad Bin Usman,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The (grape) juice is not Prohibited until it boils’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. Ali ibn Ibrahim has narrated from his father from Ahmad ibn Muhammad from ibn abu Nasr from Hammad ibn ‘Uthaman who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘Juice (grape juice) is not unlawful until it boils.’” "
+          ],
+          "text": "1. Ali ibn Ibrahim has narrated from his father from Ahmad ibn Muhammad from ibn abu Nasr from Hammad ibn ‘Uthaman who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘Juice (grape juice) is not unlawful until it boils.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> حسن   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/281)",
+          "label": "حسن",
+          "text": "Allamah Baqir al-Majlisi: حسن - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/281)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ أَبِي نَصْرٍ عَنْ حَمَّادِ بْنِ عُثْمَانَ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدِ بْنِ أَبِي نَصْرٍ",
+            "path": "/people/narrators/39"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "حَمَّادِ بْنِ عُثْمَانَ",
+            "path": "/people/narrators/54"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/39",
+          "/people/narrators/54",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:7:26:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/7/26/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:7:26:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:7:26:2",
+        "parts": [
+          6,
+          7,
+          26,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 7,
+        "chapter": 26,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:7:26",
+        "titles": {
+          "ar": "باب الْعَصِيرِ",
+          "en": "Chapter 26 – The (Grape) Juice"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " لَا بَأْسَ بِشُرْبِ الْعَصِيرِ سِتَّةَ أَيَّامٍ قَالَ ابْنُ أَبِي عُمَيْرٍ مَعْنَاهُ مَا لَمْ يَغْلِ ."
+        ],
+        "text": "لَا بَأْسَ بِشُرْبِ الْعَصِيرِ سِتَّةَ أَيَّامٍ قَالَ ابْنُ أَبِي عُمَيْرٍ مَعْنَاهُ مَا لَمْ يَغْلِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father, from Ibn Abu Umeyr, from Muhammad Bin Aasim, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘There is no problem with drinking the (grape) juice of six days (old)’. Ibn Abu Umeyr (the narrator) said, ‘Its meaning is, for as long as it was not boiled’."
+          ],
+          "text": "Ali Bin Ibrahim, from his father, from Ibn Abu Umeyr, from Muhammad Bin Aasim,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘There is no problem with drinking the (grape) juice of six days (old)’. Ibn Abu Umeyr (the narrator) said, ‘Its meaning is, for as long as it was not boiled’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. Ali ibn Ibrahim has narrated from his father from ibn abu ‘Umayr from Muhammad ibn ‘Asem who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘It is not unlawful to drink juice (grape juice) up to six days.’ Ibn abu ‘Umayr has said, ‘It means that it does not become intoxicating liquor and unlawful before it comes to a boil.’” "
+          ],
+          "text": "2. Ali ibn Ibrahim has narrated from his father from ibn abu ‘Umayr from Muhammad ibn ‘Asem who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘It is not unlawful to drink juice (grape juice) up to six days.’ Ibn abu ‘Umayr has said, ‘It means that it does not become intoxicating liquor and unlawful before it comes to a boil.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مجهول    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/281)",
+          "label": "مجهول",
+          "text": "Allamah Baqir al-Majlisi: مجهول - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/281)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنِ ابْنِ أَبِي عُمَيْرٍ عَنْ مُحَمَّدِ بْنِ عَاصِمٍ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ أَبِي عُمَيْرٍ",
+            "path": "/people/narrators/7"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ عَاصِمٍ",
+            "path": "/people/narrators/4247"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/7",
+          "/people/narrators/4247",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:7:26:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/7/26/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:7:26:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:7:26:3",
+        "parts": [
+          6,
+          7,
+          26,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 7,
+        "chapter": 26,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:7:26",
+        "titles": {
+          "ar": "باب الْعَصِيرِ",
+          "en": "Chapter 26 – The (Grape) Juice"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَأَلْتُهُ عَنْ شُرْبِ الْعَصِيرِ فَقَالَ اشْرَبْهُ مَا لَمْ يَغْلِ فَإِذَا غَلَى فَلَا تَشْرَبْهُ قَالَ قُلْتُ جُعِلْتُ فِدَاكَ أَيُّ شَيْ‏ءٍ الْغَلَيَانُ قَالَ الْقَلْبُ ."
+        ],
+        "text": "سَأَلْتُهُ عَنْ شُرْبِ الْعَصِيرِ فَقَالَ اشْرَبْهُ مَا لَمْ يَغْلِ فَإِذَا غَلَى فَلَا تَشْرَبْهُ قَالَ قُلْتُ جُعِلْتُ فِدَاكَ أَيُّ شَيْ‏ءٍ الْغَلَيَانُ قَالَ الْقَلْبُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Abu Yahya Al Wasity, from Hammad Bin Usman, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup>, said, ‘I asked him<sup>asws</sup> about drinking the (grape) juice, so he<sup>asws</sup> said: ‘Drink it for as long as it has not boiled. So when it is boiled, so do not drink it’. I said, ‘May I be sacrificed for you<sup>asws</sup>! Which thing is the boiling?’ He<sup>asws</sup> said: ‘The transformation (fermentation)’."
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Abu Yahya Al Wasity, from Hammad Bin Usman,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup>, said, ‘I asked him<sup>asws</sup> about drinking the (grape) juice, so he<sup>asws</sup> said: ‘Drink it for as long as it has not boiled. So when it is boiled, so do not drink it’. I said, ‘May I be sacrificed for you<sup>asws</sup>! Which thing is the boiling?’ He<sup>asws</sup> said: ‘The transformation (fermentation)’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "3. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from abu Yahya al-Wasitiy from Hammad ibn ‘Uthaman who has said the following: “I once asked abu ‘Abd Allah, ‘Alayhi al-Salam, about drinking juice (grape juice). He (the Imam) said, ‘You can drink it before it is boiled. Once it is boiled then do not drink.’ I then asked saying, ‘I pray to Allah to keep my soul in service for your cause, what is boiling?’ He (the Imam) said, ‘It is fluctuation (fermentation) and change.’” "
+          ],
+          "text": "3. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from abu Yahya al-Wasitiy from Hammad ibn ‘Uthaman who has said the following: “I once asked abu ‘Abd Allah, ‘Alayhi al-Salam, about drinking juice (grape juice). He (the Imam) said, ‘You can drink it before it is boiled. Once it is boiled then do not drink.’ I then asked saying, ‘I pray to Allah to keep my soul in service for your cause, what is boiling?’ He (the Imam) said, ‘It is fluctuation (fermentation) and change.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مجهول    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/282)",
+          "label": "مجهول",
+          "text": "Allamah Baqir al-Majlisi: مجهول - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/282)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنْ أَبِي يَحْيَى الْوَاسِطِيِّ عَنْ حَمَّادِ بْنِ عُثْمَانَ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي يَحْيَى الْوَاسِطِيِّ",
+            "path": "/people/narrators/331"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "حَمَّادِ بْنِ عُثْمَانَ",
+            "path": "/people/narrators/54"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/5",
+          "/people/narrators/331",
+          "/people/narrators/54",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:7:26:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/7/26/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:7:26:4",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:7:26:4",
+        "parts": [
+          6,
+          7,
+          26,
+          4
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 7,
+        "chapter": 26,
+        "hadith": 4
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:7:26",
+        "titles": {
+          "ar": "باب الْعَصِيرِ",
+          "en": "Chapter 26 – The (Grape) Juice"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَمِعْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) يَقُولُ إِذَا نَشَّ الْعَصِيرُ أَوْ غَلَى حَرُمَ ."
+        ],
+        "text": "سَمِعْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) يَقُولُ إِذَا نَشَّ الْعَصِيرُ أَوْ غَلَى حَرُمَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Ibn Fazzal Bin Al Jahm, from Zareeh who said, ",
+            "‘I heard Abu Abdullah<sup>asws</sup> saying: ‘When the (grape) juice simmer or boils, it is Prohibited’."
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Ibn Fazzal Bin Al Jahm, from Zareeh who said,\n\n‘I heard Abu Abdullah<sup>asws</sup> saying: ‘When the (grape) juice simmer or boils, it is Prohibited’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "4. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from ibn Faddal from al-Hassan ibn al-Jahm from Dharih who has said the following: “I once heard abu ‘Abd Allah, ‘Alayhi al-Salam, saying, ‘When juice (grape juice) begins to simmer or boil it becomes unlawful to use it for drink.’” "
+          ],
+          "text": "4. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from ibn Faddal from al-Hassan ibn al-Jahm from Dharih who has said the following: “I once heard abu ‘Abd Allah, ‘Alayhi al-Salam, saying, ‘When juice (grape juice) begins to simmer or boil it becomes unlawful to use it for drink.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> موثق كالصحيح    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/282)",
+          "label": "موثق كالصحيح",
+          "text": "Allamah Baqir al-Majlisi: موثق كالصحيح - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/282)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنِ ابْنِ فَضَّالٍ عَنِ الْحَسَنِ بْنِ الْجَهْمِ عَنْ ذَرِيحٍ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ فَضَّالٍ",
+            "path": "/people/narrators/22"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحَسَنِ بْنِ الْجَهْمِ",
+            "path": "/people/narrators/260"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ذَرِيحٍ",
+            "path": "/people/narrators/422"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/5",
+          "/people/narrators/22",
+          "/people/narrators/260",
+          "/people/narrators/422"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:7:26:4",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/7/26/4.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

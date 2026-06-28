@@ -1,0 +1,43 @@
+{
+  "id": 4268,
+  "type": "narrator",
+  "path": "/people/narrators/4268",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ عُبَيْدَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:2:18:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "35-8-740-4268": {
+      "narrator_ids": [
+        35,
+        8,
+        740,
+        4268
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:2:18:2"
+      ]
+    },
+    "740-4268": {
+      "narrator_ids": [
+        740,
+        4268
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:2:18:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4268",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4268.json"
+  }
+}

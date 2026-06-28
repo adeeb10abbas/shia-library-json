@@ -1,0 +1,91 @@
+{
+  "id": 3346,
+  "type": "narrator",
+  "path": "/people/narrators/3346",
+  "titles": {
+    "ar": "سَلَامِ بْنِ عَبْدِ اللَّهِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:81:1",
+    "/books/kitab-al-ghayba-tusi:51:24"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "10-3346": {
+      "narrator_ids": [
+        10,
+        3346
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:81:1"
+      ]
+    },
+    "11-67-3346-14-669": {
+      "narrator_ids": [
+        11,
+        67,
+        3346,
+        14,
+        669
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:51:24"
+      ]
+    },
+    "3346-14": {
+      "narrator_ids": [
+        3346,
+        14
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:51:24"
+      ]
+    },
+    "3346-90": {
+      "narrator_ids": [
+        3346,
+        90
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:81:1"
+      ]
+    },
+    "371-2-10-3346-90-35-8-19-275-67-68-3347": {
+      "narrator_ids": [
+        371,
+        2,
+        10,
+        3346,
+        90,
+        35,
+        8,
+        19,
+        275,
+        67,
+        68,
+        3347
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:81:1"
+      ]
+    },
+    "67-3346": {
+      "narrator_ids": [
+        67,
+        3346
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:51:24"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3346",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3346.json"
+  }
+}

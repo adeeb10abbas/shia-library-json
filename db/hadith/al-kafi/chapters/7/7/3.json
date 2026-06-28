@@ -1,0 +1,399 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:7:7:3",
+  "chapter": {
+    "path": "/books/al-kafi:7:7:3",
+    "titles": {
+      "ar": "باب آخَرُ مِنْهُ",
+      "en": "Chapter 3 – Another chapter from it"
+    }
+  },
+  "count": 3,
+  "records": [
+    {
+      "id": "al-kafi:7:7:3:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:7:3:1",
+        "parts": [
+          7,
+          7,
+          3,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 7,
+        "chapter": 3,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:7:3",
+        "titles": {
+          "ar": "باب آخَرُ مِنْهُ",
+          "en": "Chapter 3 – Another chapter from it"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " مَنْ قَالَ اللَّهُ يَعْلَمُ مَا لَمْ يَعْلَمِ اهْتَزَّ لِذَلِكَ عَرْشُهُ إِعْظَاماً لَهُ ."
+        ],
+        "text": "مَنْ قَالَ اللَّهُ يَعْلَمُ مَا لَمْ يَعْلَمِ اهْتَزَّ لِذَلِكَ عَرْشُهُ إِعْظَاماً لَهُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Ahmad Bin Muhammad, from Usman Bin Isa, from Wahab Bin Abd Rabbihi, ",
+            "Abu Abdullah<sup>asws</sup> has said: ‘The one who says, ‘Allah<sup>azwj</sup> Knows’, what he does not know, His<sup>azwj</sup> Throne shakes due to that, in Magnification for Him<sup>azwj</sup>’."
+          ],
+          "text": "A number of our companions, from Ahmad Bin Muhammad, from Usman Bin Isa, from Wahab Bin Abd Rabbihi,\n\nAbu Abdullah<sup>asws</sup> has said: ‘The one who says, ‘Allah<sup>azwj</sup> Knows’, what he does not know, His<sup>azwj</sup> Throne shakes due to that, in Magnification for Him<sup>azwj</sup>’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. A number of our people have narrated from Ahmad ibn Muhammad from ‘Uthman ibn ‘Isa from Wahab ibn ‘Abd Rabbihi who has narrated the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘If one says, “Allah knows”, when he does not know something, the Throne of Allah vibrates as a sign of expressing His greatness.”’ "
+          ],
+          "text": "1. A number of our people have narrated from Ahmad ibn Muhammad from ‘Uthman ibn ‘Isa from Wahab ibn ‘Abd Rabbihi who has narrated the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘If one says, “Allah knows”, when he does not know something, the Throne of Allah vibrates as a sign of expressing His greatness.”’"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> موثق   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (24/312)",
+          "label": "موثق",
+          "text": "Allamah Baqir al-Majlisi: موثق - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (24/312)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنْ عُثْمَانَ بْنِ عِيسَى عَنْ وَهْبِ بْنِ عَبْدِ رَبِّهِ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عُثْمَانَ بْنِ عِيسَى",
+            "path": "/people/narrators/41"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "وَهْبِ بْنِ عَبْدِ رَبِّهِ",
+            "path": "/people/narrators/659"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/5",
+          "/people/narrators/41",
+          "/people/narrators/659",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:7:3:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/7/3/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:7:3:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:7:3:2",
+        "parts": [
+          7,
+          7,
+          3,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 7,
+        "chapter": 3,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:7:3",
+        "titles": {
+          "ar": "باب آخَرُ مِنْهُ",
+          "en": "Chapter 3 – Another chapter from it"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ أَبُو عَبْدِ اللَّهِ ( عليه السلام ) إِذَا قَالَ الْعَبْدُ عَلِمَ اللَّهُ وَ كَانَ كَاذِباً قَالَ اللَّهُ عَزَّ وَ جَلَّ أَ مَا وَجَدْتَ أَحَداً تَكْذِبُ عَلَيْهِ غَيْرِي ."
+        ],
+        "text": "قَالَ أَبُو عَبْدِ اللَّهِ ( عليه السلام ) إِذَا قَالَ الْعَبْدُ عَلِمَ اللَّهُ وَ كَانَ كَاذِباً قَالَ اللَّهُ عَزَّ وَ جَلَّ أَ مَا وَجَدْتَ أَحَداً تَكْذِبُ عَلَيْهِ غَيْرِي ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "From him, from Ibn Fazzal, from Sa’alba, from Abu Jameela Bin salih, from Aban Bin Taghlub who said, ",
+            "‘Abu Abdullah<sup>asws</sup> said: ‘When the servants says, ‘Allah<sup>azwj</sup> is the Knower’, and he was lying, Allah<sup>azwj</sup> Mighty and Majestic Says: “But you could not find anyone to lie against apart from Me<sup>azwj</sup>?”."
+          ],
+          "text": "From him, from Ibn Fazzal, from Sa’alba, from Abu Jameela Bin salih, from Aban Bin Taghlub who said,\n\n‘Abu Abdullah<sup>asws</sup> said: ‘When the servants says, ‘Allah<sup>azwj</sup> is the Knower’, and he was lying, Allah<sup>azwj</sup> Mighty and Majestic Says: “But you could not find anyone to lie against apart from Me<sup>azwj</sup>?”."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. It is narrated from the narrator of the previous Hadith from ibn Faddal from Tha‘labah from abu Jamilah, al-Mufaddal ibn Salih from Aban ibn Taghlib who has narrated the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘When a servant says, “Allah has the knowledge” and he is not truthful in what he says, then Allah, most Majestic, most Glorious, says, “Why did you not find someone other than Me to ascribe a lie to him?”’” "
+          ],
+          "text": "2. It is narrated from the narrator of the previous Hadith from ibn Faddal from Tha‘labah from abu Jamilah, al-Mufaddal ibn Salih from Aban ibn Taghlib who has narrated the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘When a servant says, “Allah has the knowledge” and he is not truthful in what he says, then Allah, most Majestic, most Glorious, says, “Why did you not find someone other than Me to ascribe a lie to him?”’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (24/312)",
+          "label": "ضعيف",
+          "text": "Allamah Baqir al-Majlisi: ضعيف - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (24/312)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَنْهُ عَنِ ابْنِ فَضَّالٍ عَنْ ثَعْلَبَةَ عَنْ أَبِي جَمِيلَةَ الْمُفَضَّلِ بْنِ صَالِحٍ عَنْ أَبَانِ بْنِ تَغْلِبَ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَنْهُ",
+            "path": "/people/narrators/11"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ فَضَّالٍ",
+            "path": "/people/narrators/22"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ثَعْلَبَةَ",
+            "path": "/people/narrators/197"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي جَمِيلَةَ الْمُفَضَّلِ بْنِ صَالِحٍ",
+            "path": "/people/narrators/847"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبَانِ بْنِ تَغْلِبَ",
+            "path": "/people/narrators/148"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/11",
+          "/people/narrators/22",
+          "/people/narrators/197",
+          "/people/narrators/847",
+          "/people/narrators/148"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/tahdhib-al-ahkam:8:13:31"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:7:3:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/7/3/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:7:3:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:7:3:3",
+        "parts": [
+          7,
+          7,
+          3,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 7,
+        "chapter": 3,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:7:3",
+        "titles": {
+          "ar": "باب آخَرُ مِنْهُ",
+          "en": "Chapter 3 – Another chapter from it"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " مَنْ قَالَ عَلِمَ اللَّهُ مَا لَمْ يَعْلَمِ اهْتَزَّ الْعَرْشُ إِعْظَاماً لَهُ ."
+        ],
+        "text": "مَنْ قَالَ عَلِمَ اللَّهُ مَا لَمْ يَعْلَمِ اهْتَزَّ الْعَرْشُ إِعْظَاماً لَهُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Humeyd Bin Ziyad, from Al Hassan Bin Muhammad, from Wahab Bin Hafs, from Abu ",
+            "Abdullah<sup>asws</sup> having said: ‘The one who says, ‘Allah<sup>azwj</sup> is the Knower’, what he does not know, the Throne shakes in Magnification for Him<sup>azwj</sup>’."
+          ],
+          "text": "Humeyd Bin Ziyad, from Al Hassan Bin Muhammad, from Wahab Bin Hafs, from Abu\n\nAbdullah<sup>asws</sup> having said: ‘The one who says, ‘Allah<sup>azwj</sup> is the Knower’, what he does not know, the Throne shakes in Magnification for Him<sup>azwj</sup>’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "3. Humayd ibn Ziyad has narrated from al-Hassan ibn Muhammad from Wahab ibn Hafs who has narrated the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘If one says, “Allah has the knowledge”, when he does not know something, the Throne of Allah vibrates as a sign of expressing His greatness.’” "
+          ],
+          "text": "3. Humayd ibn Ziyad has narrated from al-Hassan ibn Muhammad from Wahab ibn Hafs who has narrated the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘If one says, “Allah has the knowledge”, when he does not know something, the Throne of Allah vibrates as a sign of expressing His greatness.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> موثق    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (24/312)",
+          "label": "موثق",
+          "text": "Allamah Baqir al-Majlisi: موثق - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (24/312)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "حُمَيْدُ بْنُ زِيَادٍ عَنِ الْحَسَنِ بْنِ مُحَمَّدٍ عَنْ وَهْبِ بْنِ حَفْصٍ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "حُمَيْدُ بْنُ زِيَادٍ",
+            "path": "/people/narrators/49"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحَسَنِ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/183"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "وَهْبِ بْنِ حَفْصٍ",
+            "path": "/people/narrators/1721"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/49",
+          "/people/narrators/183",
+          "/people/narrators/1721",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:7:3:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/7/3/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

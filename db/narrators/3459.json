@@ -1,0 +1,44 @@
+{
+  "id": 3459,
+  "type": "narrator",
+  "path": "/people/narrators/3459",
+  "titles": {
+    "ar": "عَامِرِ بْنِ نُعَيْمٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:4:58:25"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "23-3459": {
+      "narrator_ids": [
+        23,
+        3459
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:58:25"
+      ]
+    },
+    "3-27-26-23-3459": {
+      "narrator_ids": [
+        3,
+        27,
+        26,
+        23,
+        3459
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:58:25"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3459",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3459.json"
+  }
+}

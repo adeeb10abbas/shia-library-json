@@ -1,0 +1,55 @@
+{
+  "id": 3069,
+  "type": "narrator",
+  "path": "/people/narrators/3069",
+  "titles": {
+    "ar": "حُسَيْنِ بْنِ حَازِمٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:153:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3069-1082": {
+      "narrator_ids": [
+        3069,
+        1082
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:153:5"
+      ]
+    },
+    "37-3069": {
+      "narrator_ids": [
+        37,
+        3069
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:153:5"
+      ]
+    },
+    "6-12-37-3069-1082-2-669": {
+      "narrator_ids": [
+        6,
+        12,
+        37,
+        3069,
+        1082,
+        2,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:153:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3069",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3069.json"
+  }
+}

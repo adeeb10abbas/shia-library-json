@@ -1,0 +1,32 @@
+{
+  "id": 4471,
+  "type": "narrator",
+  "path": "/people/narrators/4471",
+  "titles": {
+    "ar": "نَصْرِ بْنِ حَبِيبٍ صَاحِبِ الْخَانِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:2:48:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "26-4471": {
+      "narrator_ids": [
+        26,
+        4471
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:2:48:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4471",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4471.json"
+  }
+}

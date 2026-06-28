@@ -1,0 +1,70 @@
+{
+  "id": 4061,
+  "type": "narrator",
+  "path": "/people/narrators/4061",
+  "titles": {
+    "ar": "كَانَ يَقُومُ بِبَعْضِ أُمُورِ الْمَاضِي ( عليه السلام )"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:8:23:3",
+    "/books/thawab-al-amal:2:384:1"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "113-4061": {
+      "narrator_ids": [
+        113,
+        4061
+      ],
+      "verse_paths": [
+        "/books/thawab-al-amal:2:384:1"
+      ]
+    },
+    "2337-4061": {
+      "narrator_ids": [
+        2337,
+        4061
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:23:3"
+      ]
+    },
+    "6-8-113-423-4506-4604-2337-4061": {
+      "narrator_ids": [
+        6,
+        8,
+        113,
+        423,
+        4506,
+        4604,
+        2337,
+        4061
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:23:3"
+      ]
+    },
+    "868-2-59-8-113-4061": {
+      "narrator_ids": [
+        868,
+        2,
+        59,
+        8,
+        113,
+        4061
+      ],
+      "verse_paths": [
+        "/books/thawab-al-amal:2:384:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4061",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4061.json"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1664,
+  "type": "narrator",
+  "path": "/people/narrators/1664",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ صَنْدَلٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:189:2",
+    "/books/al-kafi:4:1:19:3"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "1664-610": {
+      "narrator_ids": [
+        1664,
+        610
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:189:2",
+        "/books/al-kafi:4:1:19:3"
+      ]
+    },
+    "4-1664": {
+      "narrator_ids": [
+        4,
+        1664
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:189:2",
+        "/books/al-kafi:4:1:19:3"
+      ]
+    },
+    "4-1664-610-1393": {
+      "narrator_ids": [
+        4,
+        1664,
+        610,
+        1393
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:19:3"
+      ]
+    },
+    "4-1664-610-1393-184": {
+      "narrator_ids": [
+        4,
+        1664,
+        610,
+        1393,
+        184
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:189:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1664",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1664.json"
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "id": 3051,
+  "type": "narrator",
+  "path": "/people/narrators/3051",
+  "titles": {
+    "ar": "حَسَنٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:1:28:6",
+    "/books/kitab-al-zuhd:2:2:14",
+    "/books/tahdhib-al-ahkam:5:11:18",
+    "/books/tahdhib-al-ahkam:5:11:22"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "11-3051": {
+      "narrator_ids": [
+        11,
+        3051
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:11:22"
+      ]
+    },
+    "11-3051-16": {
+      "narrator_ids": [
+        11,
+        3051,
+        16
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:11:22"
+      ]
+    },
+    "1727-3051": {
+      "narrator_ids": [
+        1727,
+        3051
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:1:28:6"
+      ]
+    },
+    "3051-14": {
+      "narrator_ids": [
+        3051,
+        14
+      ],
+      "verse_paths": [
+        "/books/kitab-al-zuhd:2:2:14"
+      ]
+    },
+    "3051-16": {
+      "narrator_ids": [
+        3051,
+        16
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:11:22"
+      ]
+    },
+    "3051-640": {
+      "narrator_ids": [
+        3051,
+        640
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:11:18"
+      ]
+    },
+    "341-3051": {
+      "narrator_ids": [
+        341,
+        3051
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:11:18"
+      ]
+    },
+    "341-3051-640-16": {
+      "narrator_ids": [
+        341,
+        3051,
+        640,
+        16
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:11:18"
+      ]
+    },
+    "6-8-185-79-71-1727-3051": {
+      "narrator_ids": [
+        6,
+        8,
+        185,
+        79,
+        71,
+        1727,
+        3051
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:1:28:6"
+      ]
+    },
+    "65-3051": {
+      "narrator_ids": [
+        65,
+        3051
+      ],
+      "verse_paths": [
+        "/books/kitab-al-zuhd:2:2:14"
+      ]
+    },
+    "65-3051-14": {
+      "narrator_ids": [
+        65,
+        3051,
+        14
+      ],
+      "verse_paths": [
+        "/books/kitab-al-zuhd:2:2:14"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3051",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3051.json"
+  }
+}

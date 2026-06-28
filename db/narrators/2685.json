@@ -1,0 +1,56 @@
+{
+  "id": 2685,
+  "type": "narrator",
+  "path": "/people/narrators/2685",
+  "titles": {
+    "ar": "الرَّجُلِ يَكْتُبُ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:4:12:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2685-3233": {
+      "narrator_ids": [
+        2685,
+        3233
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:12:2"
+      ]
+    },
+    "3-2-106-26-31-669-2685-3233": {
+      "narrator_ids": [
+        3,
+        2,
+        106,
+        26,
+        31,
+        669,
+        2685,
+        3233
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:12:2"
+      ]
+    },
+    "669-2685": {
+      "narrator_ids": [
+        669,
+        2685
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:12:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2685",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2685.json"
+  }
+}

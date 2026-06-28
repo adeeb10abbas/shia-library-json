@@ -1,0 +1,54 @@
+{
+  "id": 3937,
+  "type": "narrator",
+  "path": "/people/narrators/3937",
+  "titles": {
+    "ar": "عَنْ هِشَامِ بْنِ سَالِمٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:3:79:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "115-3937": {
+      "narrator_ids": [
+        115,
+        3937
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:79:1"
+      ]
+    },
+    "3-2-7-115-3937-669": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        115,
+        3937,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:79:1"
+      ]
+    },
+    "3937-669": {
+      "narrator_ids": [
+        3937,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:79:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3937",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3937.json"
+  }
+}

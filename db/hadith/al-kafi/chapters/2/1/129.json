@@ -1,0 +1,681 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:2:1:129",
+  "chapter": {
+    "path": "/books/al-kafi:2:1:129",
+    "titles": {
+      "ar": "بَابُ سُوءِ الْخُلُقِ",
+      "en": "Chapter 129 – The Evil Manners"
+    }
+  },
+  "count": 5,
+  "records": [
+    {
+      "id": "al-kafi:2:1:129:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:2:1:129:1",
+        "parts": [
+          2,
+          1,
+          129,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 1,
+        "chapter": 129,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:2:1:129",
+        "titles": {
+          "ar": "بَابُ سُوءِ الْخُلُقِ",
+          "en": "Chapter 129 – The Evil Manners"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " إِنَّ سُوءَ الْخُلُقِ لَيُفْسِدُ الْعَمَلَ كَمَا يُفْسِدُ الْخَلُّ الْعَسَلَ ."
+        ],
+        "text": "إِنَّ سُوءَ الْخُلُقِ لَيُفْسِدُ الْعَمَلَ كَمَا يُفْسِدُ الْخَلُّ الْعَسَلَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father, from Ibn Abu Umeyr, from Abdullah Bin Sinan, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The evil mannerism is a spoiler of the deed just as the vinegar spoils the honey’."
+          ],
+          "text": "Ali Bin Ibrahim, from his father, from Ibn Abu Umeyr, from Abdullah Bin Sinan,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The evil mannerism is a spoiler of the deed just as the vinegar spoils the honey’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. Ali ibn Ibrahim has narrated from his father from ibn abu ‘Umayr from ‘Abd Allah ibn Sinan from abu ‘Abd Allah (a.s.) who has said the following: “Abu ‘Abd Allah (a.s.) has said, ‘Wickedness and evil behavior destroys and spoils good deeds just as vinegar spoils honey.’” "
+          ],
+          "text": "1. Ali ibn Ibrahim has narrated from his father from ibn abu ‘Umayr from ‘Abd Allah ibn Sinan from abu ‘Abd Allah (a.s.) who has said the following: “Abu ‘Abd Allah (a.s.) has said, ‘Wickedness and evil behavior destroys and spoils good deeds just as vinegar spoils honey.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> حسن كالصحيح   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (10/260)",
+          "label": "حسن كالصحيح",
+          "text": "Allamah Baqir al-Majlisi: حسن كالصحيح - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (10/260)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنِ ابْنِ أَبِي عُمَيْرٍ عَنْ عَبْدِ اللَّهِ بْنِ سِنَانٍ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ أَبِي عُمَيْرٍ",
+            "path": "/people/narrators/7"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَبْدِ اللَّهِ بْنِ سِنَانٍ",
+            "path": "/people/narrators/31"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/7",
+          "/people/narrators/31",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:2:1:129:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/2/1/129/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:2:1:129:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:2:1:129:2",
+        "parts": [
+          2,
+          1,
+          129,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 1,
+        "chapter": 129,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:2:1:129",
+        "titles": {
+          "ar": "بَابُ سُوءِ الْخُلُقِ",
+          "en": "Chapter 129 – The Evil Manners"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ النَّبِيُّ ( صلى الله عليه وآله ) أَبَى اللَّهُ عَزَّ وَ جَلَّ لِصَاحِبِ الْخُلُقِ السَّيِّئِ بِالتَّوْبَةِ قِيلَ وَ كَيْفَ ذَاكَ يَا رَسُولَ اللَّهِ قَالَ لِأَنَّهُ إِذَا تَابَ مِنْ ذَنْبٍ وَقَعَ فِي ذَنْبٍ أَعْظَمَ مِنْهُ ."
+        ],
+        "text": "قَالَ النَّبِيُّ ( صلى الله عليه وآله ) أَبَى اللَّهُ عَزَّ وَ جَلَّ لِصَاحِبِ الْخُلُقِ السَّيِّئِ بِالتَّوْبَةِ قِيلَ وَ كَيْفَ ذَاكَ يَا رَسُولَ اللَّهِ قَالَ لِأَنَّهُ إِذَا تَابَ مِنْ ذَنْبٍ وَقَعَ فِي ذَنْبٍ أَعْظَمَ مِنْهُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father, from Al Nowfaly, from Al Sakuny, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The Prophet<sup>saww</sup> said: ‘Allah<sup>azwj</sup> Mighty and Majestic Refuses (to Accept) the repentance of the one of the evil manners with the repentance’. It was said, ‘And how is that so, O Rasool-Allah<sup>saww</sup>?’ He<sup>saww</sup> said: ‘Because, when he repents from a sin, he falls into a sin more grievous than it’."
+          ],
+          "text": "Ali Bin Ibrahim, from his father, from Al Nowfaly, from Al Sakuny,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The Prophet<sup>saww</sup> said: ‘Allah<sup>azwj</sup> Mighty and Majestic Refuses (to Accept) the repentance of the one of the evil manners with the repentance’. It was said, ‘And how is that so, O Rasool-Allah<sup>saww</sup>?’ He<sup>saww</sup> said: ‘Because, when he repents from a sin, he falls into a sin more grievous than it’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. Ali ibn Ibrahim has narrated from his father from al-Nawfali from al-Sakuni from abu ‘Abd Allah (a.s.) who has said the following: “The Holy Prophet has said, ‘Allah, the Most Majestic, the Most Holy, refuses to accept the repentance of a person of bad conduct.’ It was asked, ‘Why is it so, O Messenger of Allah?’ He said, ‘It is because when he repents from a sin he falls into a greater sin.’” "
+          ],
+          "text": "2. Ali ibn Ibrahim has narrated from his father from al-Nawfali from al-Sakuni from abu ‘Abd Allah (a.s.) who has said the following: “The Holy Prophet has said, ‘Allah, the Most Majestic, the Most Holy, refuses to accept the repentance of a person of bad conduct.’ It was asked, ‘Why is it so, O Messenger of Allah?’ He said, ‘It is because when he repents from a sin he falls into a greater sin.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (10/260)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (10/260)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنِ النَّوْفَلِيِّ عَنِ السَّكُونِيِّ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "النَّوْفَلِيِّ",
+            "path": "/people/narrators/32"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "السَّكُونِيِّ",
+            "path": "/people/narrators/34"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/32",
+          "/people/narrators/34",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:2:1:129:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/2/1/129/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:2:1:129:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:2:1:129:3",
+        "parts": [
+          2,
+          1,
+          129,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 1,
+        "chapter": 129,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:2:1:129",
+        "titles": {
+          "ar": "بَابُ سُوءِ الْخُلُقِ",
+          "en": "Chapter 129 – The Evil Manners"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " إِنَّ سُوءَ الْخُلُقِ لَيُفْسِدُ الْإِيمَانَ كَمَا يُفْسِدُ الْخَلُّ الْعَسَلَ ."
+        ],
+        "text": "إِنَّ سُوءَ الْخُلُقِ لَيُفْسِدُ الْإِيمَانَ كَمَا يُفْسِدُ الْخَلُّ الْعَسَلَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Ahmad Bin Muhammad Bin Khalid, from Ismail bin Mihran, from Sayf Bin Ameyra, from the one who mentioned it, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The evil mannerism is a spoiler of the <span class=\"iTxt\">Emān</span> just as the vinegar spoils the honey’."
+          ],
+          "text": "A number of our companions, from Ahmad Bin Muhammad Bin Khalid, from Ismail bin Mihran, from Sayf Bin Ameyra, from the one who mentioned it,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The evil mannerism is a spoiler of the <span class=\"iTxt\">Emān</span> just as the vinegar spoils the honey’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "3. A number of our people have narrated from Ahmad ibn Muhammad ibn Khalid from Isma’il ibn Mehran from Sayf ibn ‘Amirah from those whom he has mentioned (in his book) from abu ‘Abd Allah (a.s.) who has said the following: “Abu ‘Abd Allah (a.s.) has said, ‘Wicked and evil behavior spoils good deeds just as vinegar spoils honey.’” "
+          ],
+          "text": "3. A number of our people have narrated from Ahmad ibn Muhammad ibn Khalid from Isma’il ibn Mehran from Sayf ibn ‘Amirah from those whom he has mentioned (in his book) from abu ‘Abd Allah (a.s.) who has said the following: “Abu ‘Abd Allah (a.s.) has said, ‘Wicked and evil behavior spoils good deeds just as vinegar spoils honey.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مرسل   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (0/261)",
+          "label": "مرسل",
+          "text": "Allamah Baqir al-Majlisi: مرسل - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (0/261)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ خَالِدٍ عَنْ إِسْمَاعِيلَ بْنِ مِهْرَانَ عَنْ سَيْفِ بْنِ عَمِيرَةَ عَمَّنْ ذَكَرَهُ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدِ بْنِ خَالِدٍ",
+            "path": "/people/narrators/12"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "إِسْمَاعِيلَ بْنِ مِهْرَانَ",
+            "path": "/people/narrators/119"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "plain",
+            "text": "سَيْفِ بْنِ عَمِيرَةَ عَمَّنْ ذَكَرَهُ"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/12",
+          "/people/narrators/119",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:2:2:9:4"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:2:1:129:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/2/1/129/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:2:1:129:4",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:2:1:129:4",
+        "parts": [
+          2,
+          1,
+          129,
+          4
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 1,
+        "chapter": 129,
+        "hadith": 4
+      },
+      "chapter": {
+        "path": "/books/al-kafi:2:1:129",
+        "titles": {
+          "ar": "بَابُ سُوءِ الْخُلُقِ",
+          "en": "Chapter 129 – The Evil Manners"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " مَنْ سَاءَ خُلُقُهُ عَذَّبَ نَفْسَهُ ."
+        ],
+        "text": "مَنْ سَاءَ خُلُقُهُ عَذَّبَ نَفْسَهُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "From him, from Muhammad Bin Ismail Bin Bazie, from Abdullah Bin Usman, from Al Husayn Bin Mihran, from Is’haq Bin Ghalib, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The one who worsens his manners, punishes his own self’."
+          ],
+          "text": "From him, from Muhammad Bin Ismail Bin Bazie, from Abdullah Bin Usman, from Al Husayn Bin Mihran, from Is’haq Bin Ghalib,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The one who worsens his manners, punishes his own self’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "4. It is narrated from him (narrator of the Hadith above) from Muhammad ibn Isma’il ibn Bazi’ from ‘Abd Allah ibn ‘Uthman from al-Husayn ibn Mehran from Ishaq ibn Ghalib from abu ‘Abd Allah (a.s.) who has said the following: “Abu ‘Abd Allah (a.s.) has said, ‘Whoever’s behavior is bad and evil, his soul lives in suffering.”’ "
+          ],
+          "text": "4. It is narrated from him (narrator of the Hadith above) from Muhammad ibn Isma’il ibn Bazi’ from ‘Abd Allah ibn ‘Uthman from al-Husayn ibn Mehran from Ishaq ibn Ghalib from abu ‘Abd Allah (a.s.) who has said the following: “Abu ‘Abd Allah (a.s.) has said, ‘Whoever’s behavior is bad and evil, his soul lives in suffering.”’"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (10/261)",
+          "label": "ضعيف",
+          "text": "Allamah Baqir al-Majlisi: ضعيف - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (10/261)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَنْهُ عَنْ مُحَمَّدِ بْنِ إِسْمَاعِيلَ بْنِ بَزِيعٍ عَنْ عَبْدِ اللَّهِ بْنِ عُثْمَانَ عَنِ الْحُسَيْنِ بْنِ مِهْرَانَ عَنْ إِسْحَاقَ بْنِ غَالِبٍ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَنْهُ",
+            "path": "/people/narrators/11"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ إِسْمَاعِيلَ بْنِ بَزِيعٍ",
+            "path": "/people/narrators/130"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَبْدِ اللَّهِ بْنِ عُثْمَانَ",
+            "path": "/people/narrators/638"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحُسَيْنِ بْنِ مِهْرَانَ",
+            "path": "/people/narrators/2649"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "إِسْحَاقَ بْنِ غَالِبٍ",
+            "path": "/people/narrators/674"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/11",
+          "/people/narrators/130",
+          "/people/narrators/638",
+          "/people/narrators/2649",
+          "/people/narrators/674",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:2:1:129:4",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/2/1/129/4.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:2:1:129:5",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:2:1:129:5",
+        "parts": [
+          2,
+          1,
+          129,
+          5
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 1,
+        "chapter": 129,
+        "hadith": 5
+      },
+      "chapter": {
+        "path": "/books/al-kafi:2:1:129",
+        "titles": {
+          "ar": "بَابُ سُوءِ الْخُلُقِ",
+          "en": "Chapter 129 – The Evil Manners"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ أَبُو عَبْدِ اللَّهِ ( عليه السلام ) أَوْحَى اللَّهُ عَزَّ وَ جَلَّ إِلَى بَعْضِ أَنْبِيَائِهِ الْخُلُقُ السَّيِّئُ يُفْسِدُ الْعَمَلَ كَمَا يُفْسِدُ الْخَلُّ الْعَسَلَ ."
+        ],
+        "text": "قَالَ أَبُو عَبْدِ اللَّهِ ( عليه السلام ) أَوْحَى اللَّهُ عَزَّ وَ جَلَّ إِلَى بَعْضِ أَنْبِيَائِهِ الْخُلُقُ السَّيِّئُ يُفْسِدُ الْعَمَلَ كَمَا يُفْسِدُ الْخَلُّ الْعَسَلَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Sahl Bin Ziyad, from Muhammad Bin Abdul Hameed, from Yahya Bin Amro, from Abdullah Bin Sinan who said, ",
+            "‘Abu Abdullah<sup>asws</sup> said: ‘Allah<sup>azwj</sup> Mighty and Majestic Revealed unto one of His<sup>azwj</sup> Prophets<sup>as</sup>: “The evil mannerism spoils the deed just as the vinegar spoils the honey”’."
+          ],
+          "text": "A number of our companions, from Sahl Bin Ziyad, from Muhammad Bin Abdul Hameed, from Yahya Bin Amro, from Abdullah Bin Sinan who said,\n\n‘Abu Abdullah<sup>asws</sup> said: ‘Allah<sup>azwj</sup> Mighty and Majestic Revealed unto one of His<sup>azwj</sup> Prophets<sup>as</sup>: “The evil mannerism spoils the deed just as the vinegar spoils the honey”’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "5. A number of our people have narrated from Sahl ibn Ziyad from Muhammad ibn ‘Abd al-Hamid from Yahya ibn ‘Amr from ‘Abd Allah ibn Sinan who has said the following: “Abu ‘Abd Allah (a.s.) has said, ‘Allah, the Most Majestic, the Most Holy, sent revelations to one of His prophets and it said, ‘Bad and evil behavior spoils good deeds just as vinegar spoils honey.’” "
+          ],
+          "text": "5. A number of our people have narrated from Sahl ibn Ziyad from Muhammad ibn ‘Abd al-Hamid from Yahya ibn ‘Amr from ‘Abd Allah ibn Sinan who has said the following: “Abu ‘Abd Allah (a.s.) has said, ‘Allah, the Most Majestic, the Most Holy, sent revelations to one of His prophets and it said, ‘Bad and evil behavior spoils good deeds just as vinegar spoils honey.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (10/262)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (10/262)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ سَهْلِ بْنِ زِيَادٍ عَنْ مُحَمَّدِ بْنِ عَبْدِ الْحَمِيدِ عَنْ يَحْيَى بْنِ عَمْرٍو عَنْ عَبْدِ اللَّهِ بْنِ سِنَانٍ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَهْلِ بْنِ زِيَادٍ",
+            "path": "/people/narrators/8"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ عَبْدِ الْحَمِيدِ",
+            "path": "/people/narrators/205"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "يَحْيَى بْنِ عَمْرٍو",
+            "path": "/people/narrators/831"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَبْدِ اللَّهِ بْنِ سِنَانٍ",
+            "path": "/people/narrators/31"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/8",
+          "/people/narrators/205",
+          "/people/narrators/831",
+          "/people/narrators/31"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:2:1:121:8"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:2:1:129:5",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/2/1/129/5.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

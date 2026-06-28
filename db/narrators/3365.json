@@ -1,0 +1,98 @@
+{
+  "id": 3365,
+  "type": "narrator",
+  "path": "/people/narrators/3365",
+  "titles": {
+    "ar": "سُلَيْمَانَ بْنِ أَبِي زَيْنَبَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:198:9",
+    "/books/tahdhib-al-ahkam:5:20:12",
+    "/books/tahdhib-al-ahkam:5:20:3"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "2719-319-68-3365-40-18-9": {
+      "narrator_ids": [
+        2719,
+        319,
+        68,
+        3365,
+        40,
+        18,
+        9
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:20:3"
+      ]
+    },
+    "3365-40": {
+      "narrator_ids": [
+        3365,
+        40
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:20:3"
+      ]
+    },
+    "3365-44": {
+      "narrator_ids": [
+        3365,
+        44
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:198:9",
+        "/books/tahdhib-al-ahkam:5:20:12"
+      ]
+    },
+    "6-8-248-68-3365-44-669": {
+      "narrator_ids": [
+        6,
+        8,
+        248,
+        68,
+        3365,
+        44,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:198:9"
+      ]
+    },
+    "68-3365": {
+      "narrator_ids": [
+        68,
+        3365
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:198:9",
+        "/books/tahdhib-al-ahkam:5:20:12",
+        "/books/tahdhib-al-ahkam:5:20:3"
+      ]
+    },
+    "952-6-8-248-68-3365-44-669": {
+      "narrator_ids": [
+        952,
+        6,
+        8,
+        248,
+        68,
+        3365,
+        44,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:20:12"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3365",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3365.json"
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "id": 1349,
+  "type": "narrator",
+  "path": "/people/narrators/1349",
+  "titles": {
+    "ar": "الْحُسَيْنِ بْنِ أَبِي حَمْزَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:4:71:3",
+    "/books/al-kafi:8:1:44:27",
+    "/books/man-la-yahduruhu-al-faqih:4:175:134",
+    "/books/mujam-al-ahadith-al-mutabara:3:93:1",
+    "/books/tahdhib-al-ahkam:4:71:18"
+  ],
+  "verseCount": 5,
+  "relations": {},
+  "subchains": {
+    "101-202-1349": {
+      "narrator_ids": [
+        101,
+        202,
+        1349
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:4:175:134"
+      ]
+    },
+    "11-6-8-10-343-1349-71": {
+      "narrator_ids": [
+        11,
+        6,
+        8,
+        10,
+        343,
+        1349,
+        71
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:4:71:18"
+      ]
+    },
+    "1349-669": {
+      "narrator_ids": [
+        1349,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:44:27"
+      ]
+    },
+    "1349-71": {
+      "narrator_ids": [
+        1349,
+        71
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:4:71:18"
+      ]
+    },
+    "20-176-81-69-1349": {
+      "narrator_ids": [
+        20,
+        176,
+        81,
+        69,
+        1349
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:71:3"
+      ]
+    },
+    "202-1349": {
+      "narrator_ids": [
+        202,
+        1349
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:4:175:134"
+      ]
+    },
+    "343-1349": {
+      "narrator_ids": [
+        343,
+        1349
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:4:71:18"
+      ]
+    },
+    "4-13-7-3-2-7-1349-669": {
+      "narrator_ids": [
+        4,
+        13,
+        7,
+        3,
+        2,
+        7,
+        1349,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:44:27"
+      ]
+    },
+    "69-1349": {
+      "narrator_ids": [
+        69,
+        1349
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:71:3"
+      ]
+    },
+    "7-1349": {
+      "narrator_ids": [
+        7,
+        1349
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:44:27"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1349",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1349.json"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": 3411,
+  "type": "narrator",
+  "path": "/people/narrators/3411",
+  "titles": {
+    "ar": "شَيْخٍ مِنْ أَصْحَابِنَا يُكَنَّى أَبَا الْحَسَنِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:7:2:11"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "140-3411": {
+      "narrator_ids": [
+        140,
+        3411
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:7:2:11"
+      ]
+    },
+    "3411-9": {
+      "narrator_ids": [
+        3411,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:7:2:11"
+      ]
+    },
+    "50-2-17-33-7-140-3411-9": {
+      "narrator_ids": [
+        50,
+        2,
+        17,
+        33,
+        7,
+        140,
+        3411,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:7:2:11"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3411",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3411.json"
+  }
+}

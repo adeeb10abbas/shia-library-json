@@ -1,0 +1,640 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:7:1:27",
+  "chapter": {
+    "path": "/books/al-kafi:7:1:27",
+    "titles": {
+      "ar": "باب الْمَرِيضِ يُقِرُّ لِوَارِثٍ بِدَيْنٍ",
+      "en": "Chapter 27 – The sick one acknowledges to an inheritor of the debt"
+    }
+  },
+  "count": 5,
+  "records": [
+    {
+      "id": "al-kafi:7:1:27:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:1:27:1",
+        "parts": [
+          7,
+          1,
+          27,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 1,
+        "chapter": 27,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:1:27",
+        "titles": {
+          "ar": "باب الْمَرِيضِ يُقِرُّ لِوَارِثٍ بِدَيْنٍ",
+          "en": "Chapter 27 – The sick one acknowledges to an inheritor of the debt"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قُلْتُ لَهُ الرَّجُلُ يُقِرُّ لِوَارِثٍ بِدَيْنٍ فَقَالَ يَجُوزُ إِذَا كَانَ مَلِيّاً ."
+        ],
+        "text": "قُلْتُ لَهُ الرَّجُلُ يُقِرُّ لِوَارِثٍ بِدَيْنٍ فَقَالَ يَجُوزُ إِذَا كَانَ مَلِيّاً ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father, from Ibn Abu Umeyr, from Hammad, from Al Halby, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup>, said, ‘I said to him<sup>asws</sup>, ‘The man acknowledged to an inheritor with the debt’. So he<sup>asws</sup> said: ‘Allowed, if it was prolonged’."
+          ],
+          "text": "Ali Bin Ibrahim, from his father, from Ibn Abu Umeyr, from Hammad, from Al Halby,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup>, said, ‘I said to him<sup>asws</sup>, ‘The man acknowledged to an inheritor with the debt’. So he<sup>asws</sup> said: ‘Allowed, if it was prolonged’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. Ali ibn Ibrahim has narrated from his father from ibn abu ‘ Umayr from Hammad from al-Halabiy who has narrated the following: “I once asked abu ‘ Abd Allah, ‘Alayhi al-Salam, about the case of a man who confirms his owing a certain amount of debt to one of his heirs. He (the Imam) said, ‘It is permissible if immediate payment is not required.’” "
+          ],
+          "text": "1. Ali ibn Ibrahim has narrated from his father from ibn abu ‘ Umayr from Hammad from al-Halabiy who has narrated the following: “I once asked abu ‘ Abd Allah, ‘Alayhi al-Salam, about the case of a man who confirms his owing a certain amount of debt to one of his heirs. He (the Imam) said, ‘It is permissible if immediate payment is not required.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> حسن  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (3/70)",
+          "label": "حسن",
+          "text": "Allamah Baqir al-Majlisi: حسن - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (3/70)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنِ ابْنِ أَبِي عُمَيْرٍ عَنْ حَمَّادٍ عَنِ الْحَلَبِيِّ عَنْ أَبِي عَبْدِ اللَّهِ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ أَبِي عُمَيْرٍ",
+            "path": "/people/narrators/7"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "حَمَّادٍ",
+            "path": "/people/narrators/23"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحَلَبِيِّ",
+            "path": "/people/narrators/28"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/7",
+          "/people/narrators/23",
+          "/people/narrators/28",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:1:27:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/1/27/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:1:27:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:1:27:2",
+        "parts": [
+          7,
+          1,
+          27,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 1,
+        "chapter": 27,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:1:27",
+        "titles": {
+          "ar": "باب الْمَرِيضِ يُقِرُّ لِوَارِثٍ بِدَيْنٍ",
+          "en": "Chapter 27 – The sick one acknowledges to an inheritor of the debt"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَأَلْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) عَنْ رَجُلٍ أَوْصَى لِبَعْضِ وَرَثَتِهِ أَنَّ لَهُ عَلَيْهِ دَيْناً فَقَالَ إِنْ كَانَ الْمَيِّتُ مَرْضِيّاً فَأَعْطِهِ الَّذِي أَوْصَى لَهُ ."
+        ],
+        "text": "سَأَلْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) عَنْ رَجُلٍ أَوْصَى لِبَعْضِ وَرَثَتِهِ أَنَّ لَهُ عَلَيْهِ دَيْناً فَقَالَ إِنْ كَانَ الْمَيِّتُ مَرْضِيّاً فَأَعْطِهِ الَّذِي أَوْصَى لَهُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Abu Ali Al Ashary, from Muhammad Bin Abdul Jabbar, from Safwan, from Mansour Bin Hazim who said, ",
+            "‘I asked Abu Abdullah<sup>asws</sup> about a man who bequeathed to one of his inheritors for whom was a debt upon himself. So he<sup>asws</sup> said: ‘If the deceased was pleased with (from other inheritors), so give it to the one whom he bequeathed it to’."
+          ],
+          "text": "Abu Ali Al Ashary, from Muhammad Bin Abdul Jabbar, from Safwan, from Mansour Bin Hazim who said,\n\n‘I asked Abu Abdullah<sup>asws</sup> about a man who bequeathed to one of his inheritors for whom was a debt upon himself. So he<sup>asws</sup> said: ‘If the deceased was pleased with (from other inheritors), so give it to the one whom he bequeathed it to’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. Abu Ali al-Ash‘ariy has narrated from Muhammad ibn ‘Abd al-Jabbar from Safwan from Mansur ibn Hazim who has narrated the following: “I once asked abu ‘Abd Allah, ‘Alayhi al-Salam, about the case of a man who confirms his owing a certain amount of debts to one of his heirs. He (the Imam) said, ‘If the deceased is one with whom people are happy, then you must pay to the one in whose favor the will is made.’” "
+          ],
+          "text": "2. Abu Ali al-Ash‘ariy has narrated from Muhammad ibn ‘Abd al-Jabbar from Safwan from Mansur ibn Hazim who has narrated the following: “I once asked abu ‘Abd Allah, ‘Alayhi al-Salam, about the case of a man who confirms his owing a certain amount of debts to one of his heirs. He (the Imam) said, ‘If the deceased is one with whom people are happy, then you must pay to the one in whose favor the will is made.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> صحيح  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (3/70)",
+          "label": "صحيح",
+          "text": "Allamah Baqir al-Majlisi: صحيح - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (3/70)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "أَبُو عَلِيٍّ الْأَشْعَرِيُّ عَنْ مُحَمَّدِ بْنِ عَبْدِ الْجَبَّارِ عَنْ صَفْوَانَ عَنْ مَنْصُورِ بْنِ حَازِمٍ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "أَبُو عَلِيٍّ الْأَشْعَرِيُّ",
+            "path": "/people/narrators/19"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ عَبْدِ الْجَبَّارِ",
+            "path": "/people/narrators/24"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "صَفْوَانَ",
+            "path": "/people/narrators/43"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مَنْصُورِ بْنِ حَازِمٍ",
+            "path": "/people/narrators/108"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/19",
+          "/people/narrators/24",
+          "/people/narrators/43",
+          "/people/narrators/108"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-istibsar:4:37:2",
+          "/books/tahdhib-al-ahkam:9:5:2"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:1:27:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/1/27/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:1:27:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:1:27:3",
+        "parts": [
+          7,
+          1,
+          27,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 1,
+        "chapter": 27,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:1:27",
+        "titles": {
+          "ar": "باب الْمَرِيضِ يُقِرُّ لِوَارِثٍ بِدَيْنٍ",
+          "en": "Chapter 27 – The sick one acknowledges to an inheritor of the debt"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَأَلْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) عَنِ امْرَأَةٍ اسْتَوْدَعَتْ رَجُلًا مَالًا فَلَمَّا حَضَرَتْهَا الْوَفَاةُ قَالَتْ لَهُ إِنَّ الْمَالَ الَّذِي دَفَعْتُهُ إِلَيْكَ لِفُلَانَةَ وَ مَاتَتِ الْمَرْأَةُ فَأَتَى أَوْلِيَاؤُهَا الرَّجُلَ فَقَالُوا لَهُ إِنَّهُ كَانَ لِصَاحِبَتِنَا مَالٌ وَ لَا نَرَاهُ إِلَّا عِنْدَكَ فَاحْلِفْ لَنَا أَنَّ مَا لَهَا قِبَلَكَ شَيْ‏ءٌ أَ فَيَحْلِفُ لَهُمْ فَقَالَ إِنْ كَانَتْ مَأْمُونَةً عِنْدَهُ فَيَحْلِفُ لَهُمْ وَ إِنْ كَانَتْ مُتَّهَمَةً فَلَا يَحْلِفُ وَ يَضَعُ الْأَمْرَ عَلَى مَا كَانَ فَإِنَّمَا لَهَا مِنْ مَالِهَا ثُلُثُهُ ."
+        ],
+        "text": "سَأَلْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) عَنِ امْرَأَةٍ اسْتَوْدَعَتْ رَجُلًا مَالًا فَلَمَّا حَضَرَتْهَا الْوَفَاةُ قَالَتْ لَهُ إِنَّ الْمَالَ الَّذِي دَفَعْتُهُ إِلَيْكَ لِفُلَانَةَ وَ مَاتَتِ الْمَرْأَةُ فَأَتَى أَوْلِيَاؤُهَا الرَّجُلَ فَقَالُوا لَهُ إِنَّهُ كَانَ لِصَاحِبَتِنَا مَالٌ وَ لَا نَرَاهُ إِلَّا عِنْدَكَ فَاحْلِفْ لَنَا أَنَّ مَا لَهَا قِبَلَكَ شَيْ‏ءٌ أَ فَيَحْلِفُ لَهُمْ فَقَالَ إِنْ كَانَتْ مَأْمُونَةً عِنْدَهُ فَيَحْلِفُ لَهُمْ وَ إِنْ كَانَتْ مُتَّهَمَةً فَلَا يَحْلِفُ وَ يَضَعُ الْأَمْرَ عَلَى مَا كَانَ فَإِنَّمَا لَهَا مِنْ مَالِهَا ثُلُثُهُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad Bin Isa, from Ali Bin Al Noman, from Ibn Muskan, from Al A’ala Baya’a Al Sabiry who said, ",
+            "‘I asked Abu Abdullah<sup>asws</sup> about a woman who entrusted a man with wealth. So when the death presented itself to her, she said to him, ‘The wealth which I handed over to you is for so and so’. And the woman died. So her guardians came over to the man, so they said to him, ‘There used to be wealth for our companion and we do not see it except it is with you, therefore swear an oath to us that it there is nothing for her’. Is it for him that he should swear an oath to them?’ So he<sup>asws</sup> said: ‘If she was trustworthy in his presence, so he should swear an oath to them, and if he was an accused, so he should not swear an oath, and should place the matter upon what it was. But rather, for her, from her wealth, was a third’."
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad Bin Isa, from Ali Bin Al Noman, from Ibn Muskan, from Al A’ala Baya’a Al Sabiry who said,\n\n‘I asked Abu Abdullah<sup>asws</sup> about a woman who entrusted a man with wealth. So when the death presented itself to her, she said to him, ‘The wealth which I handed over to you is for so and so’. And the woman died. So her guardians came over to the man, so they said to him, ‘There used to be wealth for our companion and we do not see it except it is with you, therefore swear an oath to us that it there is nothing for her’. Is it for him that he should swear an oath to them?’ So he<sup>asws</sup> said: ‘If she was trustworthy in his presence, so he should swear an oath to them, and if he was an accused, so he should not swear an oath, and should place the matter upon what it was. But rather, for her, from her wealth, was a third’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "3. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad ibn ‘Isa from Ali ibn al-Nu’man from ibn Muskan from al-‘Ala’ Bayya’ al-Sabiriy who has narrated the following: “I once asked abu ‘Abd Allah, ‘Alayhi al-Salam, about the case of a woman who leaves a certain amount of assets in trust with a man; and at the time of her death she says to him that the asset in his trust belongs to so and so female, and she dies. Her heirs then come to the man saying that their woman had certain amount of assets but they do not find them except with him, therefore he must take an oath that her assets are not with him; if he can take an oath as they ask him to do. He (the Imam) said, ‘He can take the oath if she was trustworthy in his view; but if she was accused then he must not take the oath. He must deal with the issues as they are wherein one-third of the legacy belongs to her.’” "
+          ],
+          "text": "3. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad ibn ‘Isa from Ali ibn al-Nu’man from ibn Muskan from al-‘Ala’ Bayya’ al-Sabiriy who has narrated the following: “I once asked abu ‘Abd Allah, ‘Alayhi al-Salam, about the case of a woman who leaves a certain amount of assets in trust with a man; and at the time of her death she says to him that the asset in his trust belongs to so and so female, and she dies. Her heirs then come to the man saying that their woman had certain amount of assets but they do not find them except with him, therefore he must take an oath that her assets are not with him; if he can take an oath as they ask him to do. He (the Imam) said, ‘He can take the oath if she was trustworthy in his view; but if she was accused then he must not take the oath. He must deal with the issues as they are wherein one-third of the legacy belongs to her.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مجهول   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (3/71)",
+          "label": "مجهول",
+          "text": "Allamah Baqir al-Majlisi: مجهول - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (3/71)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى عَنْ عَلِيِّ بْنِ النُّعْمَانِ عَنِ ابْنِ مُسْكَانَ عَنِ الْعَلَاءِ بَيَّاعِ السَّابِرِيِّ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى",
+            "path": "/people/narrators/13"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيِّ بْنِ النُّعْمَانِ",
+            "path": "/people/narrators/88"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ مُسْكَانَ",
+            "path": "/people/narrators/51"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْعَلَاءِ بَيَّاعِ السَّابِرِيِّ",
+            "path": "/people/narrators/2734"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/13",
+          "/people/narrators/88",
+          "/people/narrators/51",
+          "/people/narrators/2734"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:1:27:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/1/27/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:1:27:4",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:1:27:4",
+        "parts": [
+          7,
+          1,
+          27,
+          4
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 1,
+        "chapter": 27,
+        "hadith": 4
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:1:27",
+        "titles": {
+          "ar": "باب الْمَرِيضِ يُقِرُّ لِوَارِثٍ بِدَيْنٍ",
+          "en": "Chapter 27 – The sick one acknowledges to an inheritor of the debt"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَأَلْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) عَنْ رَجُلٍ أَقَرَّ لِوَارِثٍ لَهُ وَ هُوَ مَرِيضٌ بِدَيْنٍ عَلَيْهِ قَالَ يَجُوزُ عَلَيْهِ إِذَا أَقَرَّ بِهِ دُونَ الثُّلُثِ ."
+        ],
+        "text": "سَأَلْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) عَنْ رَجُلٍ أَقَرَّ لِوَارِثٍ لَهُ وَ هُوَ مَرِيضٌ بِدَيْنٍ عَلَيْهِ قَالَ يَجُوزُ عَلَيْهِ إِذَا أَقَرَّ بِهِ دُونَ الثُّلُثِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Ibn Mahboub, from Hisham Bin Salim, from Ismail Bin Jabir who said, ",
+            "‘I asked Abu Abdullah<sup>asws</sup> about a man who acknowledge to an inheritor of his, and he was ill, with a debt being upon him. He<sup>asws</sup> said: ‘It is allowed for him (to pay off), when he acknowledge with it, besides the third’."
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Ibn Mahboub, from Hisham Bin Salim, from Ismail Bin Jabir who said,\n\n‘I asked Abu Abdullah<sup>asws</sup> about a man who acknowledge to an inheritor of his, and he was ill, with a debt being upon him. He<sup>asws</sup> said: ‘It is allowed for him (to pay off), when he acknowledge with it, besides the third’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "4. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from ibn Mahbub from Hisham ibn Salim from ’Isma‘il ibn Jabir who has narrated the following: “I once asked abu ‘Abd Allah, ‘Alayhi al-Salam, about the case of a man who confirms in his illness his owing a certain amount of debts to one of his heirs. He (the Imam) said, ‘It is permissible if the amount is less than one-third of the legacy.’” "
+          ],
+          "text": "4. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from ibn Mahbub from Hisham ibn Salim from ’Isma‘il ibn Jabir who has narrated the following: “I once asked abu ‘Abd Allah, ‘Alayhi al-Salam, about the case of a man who confirms in his illness his owing a certain amount of debts to one of his heirs. He (the Imam) said, ‘It is permissible if the amount is less than one-third of the legacy.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> صحيح    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (23/71)",
+          "label": "صحيح",
+          "text": "Allamah Baqir al-Majlisi: صحيح - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (23/71)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنِ ابْنِ مَحْبُوبٍ عَنْ هِشَامِ بْنِ سَالِمٍ عَنْ إِسْمَاعِيلَ بْنِ جَابِرٍ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ مَحْبُوبٍ",
+            "path": "/people/narrators/10"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "هِشَامِ بْنِ سَالِمٍ",
+            "path": "/people/narrators/47"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "إِسْمَاعِيلَ بْنِ جَابِرٍ",
+            "path": "/people/narrators/252"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/5",
+          "/people/narrators/10",
+          "/people/narrators/47",
+          "/people/narrators/252"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:1:27:4",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/1/27/4.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:1:27:5",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:1:27:5",
+        "parts": [
+          7,
+          1,
+          27,
+          5
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 1,
+        "chapter": 27,
+        "hadith": 5
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:1:27",
+        "titles": {
+          "ar": "باب الْمَرِيضِ يُقِرُّ لِوَارِثٍ بِدَيْنٍ",
+          "en": "Chapter 27 – The sick one acknowledges to an inheritor of the debt"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَأَلْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) عَنْ رَجُلٍ مَرِيضٍ أَقَرَّ عِنْدَ الْمَوْتِ لِوَارِثٍ بِدَيْنٍ لَهُ عَلَيْهِ قَالَ يَجُوزُ ذَلِكَ قُلْتُ فَإِنْ أَوْصَى لِوَارِثٍ بِشَيْ‏ءٍ قَالَ جَائِزٌ ."
+        ],
+        "text": "سَأَلْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) عَنْ رَجُلٍ مَرِيضٍ أَقَرَّ عِنْدَ الْمَوْتِ لِوَارِثٍ بِدَيْنٍ لَهُ عَلَيْهِ قَالَ يَجُوزُ ذَلِكَ قُلْتُ فَإِنْ أَوْصَى لِوَارِثٍ بِشَيْ‏ءٍ قَالَ جَائِزٌ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ibn Mahboub, from Abu Walad who said, ",
+            "‘I asked Abu Abdullah<sup>asws</sup> about a man who was sick, acknowledged during the death to an inheritor, of there being a debt for him, over himself. He<sup>asws</sup> said: ‘That is allowed’. I said, ‘So if he were to bequeath to the inheritor with something?’ He<sup>asws</sup> said: ‘Allowed’."
+          ],
+          "text": "Ibn Mahboub, from Abu Walad who said,\n\n‘I asked Abu Abdullah<sup>asws</sup> about a man who was sick, acknowledged during the death to an inheritor, of there being a debt for him, over himself. He<sup>asws</sup> said: ‘That is allowed’. I said, ‘So if he were to bequeath to the inheritor with something?’ He<sup>asws</sup> said: ‘Allowed’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "5. Ibn Mahbub has narrated from abu Wallad who has narrated the following: “I once asked abu ‘Abd Allah, ‘Alayhi al-Salam, about the case of a man who in his illness at the time of his death confirms his owing a certain amount of debts to one of his heirs. He (the Imam) said, ‘It is permissible.’ I asked about his confirming his owing ‘something’ to one of his heirs. He (the Imam) said, ‘It is permissible.’” "
+          ],
+          "text": "5. Ibn Mahbub has narrated from abu Wallad who has narrated the following: “I once asked abu ‘Abd Allah, ‘Alayhi al-Salam, about the case of a man who in his illness at the time of his death confirms his owing a certain amount of debts to one of his heirs. He (the Imam) said, ‘It is permissible.’ I asked about his confirming his owing ‘something’ to one of his heirs. He (the Imam) said, ‘It is permissible.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> صحيح    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (23/71)",
+          "label": "صحيح",
+          "text": "Allamah Baqir al-Majlisi: صحيح - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (23/71)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "ابْنُ مَحْبُوبٍ عَنْ أَبِي وَلَّادٍ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "ابْنُ مَحْبُوبٍ",
+            "path": "/people/narrators/10"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي وَلَّادٍ",
+            "path": "/people/narrators/352"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/10",
+          "/people/narrators/352"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:1:27:5",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/1/27/5.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

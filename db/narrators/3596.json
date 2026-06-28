@@ -1,0 +1,66 @@
+{
+  "id": 3596,
+  "type": "narrator",
+  "path": "/people/narrators/3596",
+  "titles": {
+    "ar": "عَبْدِ اللَّهِ بْنِ عُمَرَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:212:22",
+    "/books/kitab-al-ghayba-tusi:51:2",
+    "/books/man-la-yahduruhu-al-faqih:2:3:136:21"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "2-3596": {
+      "narrator_ids": [
+        2,
+        3596
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:212:22",
+        "/books/kitab-al-ghayba-tusi:51:2"
+      ]
+    },
+    "3-2-3596": {
+      "narrator_ids": [
+        3,
+        2,
+        3596
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:212:22"
+      ]
+    },
+    "317-67-3693-2-3596": {
+      "narrator_ids": [
+        317,
+        67,
+        3693,
+        2,
+        3596
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:51:2"
+      ]
+    },
+    "404-3596": {
+      "narrator_ids": [
+        404,
+        3596
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:2:3:136:21"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3596",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3596.json"
+  }
+}

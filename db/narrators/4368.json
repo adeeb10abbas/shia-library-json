@@ -1,0 +1,45 @@
+{
+  "id": 4368,
+  "type": "narrator",
+  "path": "/people/narrators/4368",
+  "titles": {
+    "ar": "مُصَبِّحِ بْنِ هِلْقَامَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:153:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "6-12-19-275-857-4368": {
+      "narrator_ids": [
+        6,
+        12,
+        19,
+        275,
+        857,
+        4368
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:153:3"
+      ]
+    },
+    "857-4368": {
+      "narrator_ids": [
+        857,
+        4368
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:153:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4368",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4368.json"
+  }
+}

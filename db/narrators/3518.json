@@ -1,0 +1,53 @@
+{
+  "id": 3518,
+  "type": "narrator",
+  "path": "/people/narrators/3518",
+  "titles": {
+    "ar": "عَبْدِ الصَّمَدِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:2:47:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "13-3518": {
+      "narrator_ids": [
+        13,
+        3518
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:47:1"
+      ]
+    },
+    "3518-1035": {
+      "narrator_ids": [
+        3518,
+        1035
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:47:1"
+      ]
+    },
+    "4-13-3518-1035-9": {
+      "narrator_ids": [
+        4,
+        13,
+        3518,
+        1035,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:47:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3518",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3518.json"
+  }
+}

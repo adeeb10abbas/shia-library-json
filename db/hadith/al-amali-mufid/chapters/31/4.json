@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-amali-mufid",
+  "chapterPath": "/books/al-amali-mufid:31:4",
+  "chapter": {
+    "path": "/books/al-amali-mufid:31:4",
+    "titles": {
+      "en": "Never gloat over misfortunes of others"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-amali-mufid:31:4:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-amali-mufid",
+        "titles": {
+          "ar": "الأمالي (المفيد)",
+          "en": "Al-Amali (al-Mufid)"
+        },
+        "author": {
+          "ar": "الشيخ المفيد",
+          "en": "Shaykh al-Mufid"
+        }
+      },
+      "path": {
+        "source": "/books/al-amali-mufid:31:4:1",
+        "parts": [
+          31,
+          4,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 31,
+        "book": 4,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-amali-mufid:31:4",
+        "titles": {
+          "en": "Never gloat over misfortunes of others"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": أخبرني أبو بكر محمد بن عمر الجعابي قال: حدثنا أبو نصر محمد بن عمر النيشابوري قال: حدثنا محمد بن [أبي] السري  قال: حدثني أبي قال: حدثنا حفص بن غياث، عن برد بن سنان ، عن مكحول، عن واثلة بن الأسقع قال: قال رسول الله صلى الله عليه وآله وسلم: لا تظهر الشماتة لأخيك [فيعافيه الله] ويبتليك. وصلى الله عليه سيدنا محمد النبي وآله وسلم تسليما."
+        ],
+        "text": ": أخبرني أبو بكر محمد بن عمر الجعابي قال: حدثنا أبو نصر محمد بن عمر النيشابوري قال: حدثنا محمد بن [أبي] السري  قال: حدثني أبي قال: حدثنا حفص بن غياث، عن برد بن سنان ، عن مكحول، عن واثلة بن الأسقع قال: قال رسول الله صلى الله عليه وآله وسلم: لا تظهر الشماتة لأخيك [فيعافيه الله] ويبتليك. وصلى الله عليه سيدنا محمد النبي وآله وسلم تسليما."
+      },
+      "translations": {
+        "en.mulla-asgharali-m-m-jaffer": {
+          "segments": [
+            "4. He said: Abu Bakr Muhammad ibn Umar al-Ji’abi reported to me from Abu Nasr Muhammad ibn Umar al-Nishaburi, who reported from Muhammad ibn Abu Sary, who reported from his father, who reported from Hafs ibn Ghiyas, from Bard ibn Sinan, from Makhool, from Wathilah ibn al-Asqa, who said: The Prophet said: \"Never gloat over the misfortune of your brother, for he may be freed from it and you may be the next victim.\" And may Allah bless our master Muhammad, the Prophet and his progeny."
+          ],
+          "text": "4. He said: Abu Bakr Muhammad ibn Umar al-Ji’abi reported to me from Abu Nasr Muhammad ibn Umar al-Nishaburi, who reported from Muhammad ibn Abu Sary, who reported from his father, who reported from Hafs ibn Ghiyas, from Bard ibn Sinan, from Makhool, from Wathilah ibn al-Asqa, who said: The Prophet said: \"Never gloat over the misfortune of your brother, for he may be freed from it and you may be the next victim.\" And may Allah bless our master Muhammad, the Prophet and his progeny."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "4 - قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "4 - "
+          },
+          {
+            "kind": "narrator",
+            "text": "قال",
+            "path": "/people/narrators/652"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/652"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-amali-mufid:31:4:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-amali-mufid/31/4/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/13/31/4/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

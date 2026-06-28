@@ -1,0 +1,54 @@
+{
+  "id": 1803,
+  "type": "narrator",
+  "path": "/people/narrators/1803",
+  "titles": {
+    "ar": "إِبْرَاهِيمَ بْنِ أَبِي رَجَاءٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:4:24:3",
+    "/books/kitab-al-zuhd:2:3:20"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "119-1803": {
+      "narrator_ids": [
+        119,
+        1803
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:24:3"
+      ]
+    },
+    "1803-669": {
+      "narrator_ids": [
+        1803,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:24:3"
+      ]
+    },
+    "6-12-119-1803-669": {
+      "narrator_ids": [
+        6,
+        12,
+        119,
+        1803,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:24:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1803",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1803.json"
+  }
+}

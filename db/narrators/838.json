@@ -1,0 +1,104 @@
+{
+  "id": 838,
+  "type": "narrator",
+  "path": "/people/narrators/838",
+  "titles": {
+    "ar": "أَبُو عَبْدِ اللَّهِ الْأَشْعَرِيُّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:1:1:12",
+    "/books/al-kafi:2:4:21:5",
+    "/books/al-kafi:5:3:19:7",
+    "/books/al-kafi:6:6:35:2"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "838-230": {
+      "narrator_ids": [
+        838,
+        230
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:35:2"
+      ]
+    },
+    "838-230-4258-60-669": {
+      "narrator_ids": [
+        838,
+        230,
+        4258,
+        60,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:35:2"
+      ]
+    },
+    "838-25": {
+      "narrator_ids": [
+        838,
+        25
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:21:5"
+      ]
+    },
+    "838-25-61-54": {
+      "narrator_ids": [
+        838,
+        25,
+        61,
+        54
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:21:5"
+      ]
+    },
+    "838-36": {
+      "narrator_ids": [
+        838,
+        36
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:1:1:12",
+        "/books/al-kafi:5:3:19:7"
+      ]
+    },
+    "838-36-1071-3468-269-9-25-145-278-669": {
+      "narrator_ids": [
+        838,
+        36,
+        1071,
+        3468,
+        269,
+        9,
+        25,
+        145,
+        278,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:19:7"
+      ]
+    },
+    "838-36-125": {
+      "narrator_ids": [
+        838,
+        36,
+        125
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:1:1:12"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/838",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/838.json"
+  }
+}

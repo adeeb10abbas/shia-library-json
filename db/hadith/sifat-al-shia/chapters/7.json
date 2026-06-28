@@ -1,0 +1,106 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "sifat-al-shia",
+  "chapterPath": "/books/sifat-al-shia:7",
+  "chapter": {
+    "path": "/books/sifat-al-shia:7",
+    "titles": {
+      "en": "Divine allegiance through disbeliever relations"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "sifat-al-shia:7:1",
+      "type": "hadith",
+      "book": {
+        "slug": "sifat-al-shia",
+        "titles": {
+          "ar": "صفات الشيعة",
+          "en": "Sifat al-Shi'a"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/sifat-al-shia:7:1",
+        "parts": [
+          7,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 1
+      },
+      "chapter": {
+        "path": "/books/sifat-al-shia:7",
+        "titles": {
+          "en": "Divine allegiance through disbeliever relations"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " : مَنْ أَحَبَّ كَافِراً فَقَدْ أَبْغَضَ اَللَّهَ وَ مَنْ أَبْغَضَ كَافِراً فَقَدْ أَحَبَّ اَللَّهَ ثُمَّ قَالَ ع صَدِيقُ عَدُوِّ اَللَّهِ عَدُوُّ اَللَّهِ."
+        ],
+        "text": ": مَنْ أَحَبَّ كَافِراً فَقَدْ أَبْغَضَ اَللَّهَ وَ مَنْ أَبْغَضَ كَافِراً فَقَدْ أَحَبَّ اَللَّهَ ثُمَّ قَالَ ع صَدِيقُ عَدُوِّ اَللَّهِ عَدُوُّ اَللَّهِ."
+      },
+      "translations": {
+        "en.badr-shahin": {
+          "segments": [
+            "Mohammed bin al-Hasan bin Ahmed bin al-Waleed narrated to us from Ahmed bin Idris from Ja’far bin Mohammed Bin Malik al-Fazari from Mohammed bin al-Hussein bin Zaid from Mohammed bin Sinan from al-Alaa bin al-Fudhayl that Imam as-Sadiq (a) said: He who loves a disbeliever will hate Allah and whoever hates a disbeliever loves Allah. He (a) then added: The friend of Allah’s enemy is Allah’s enemy."
+          ],
+          "text": "Mohammed bin al-Hasan bin Ahmed bin al-Waleed narrated to us from Ahmed bin Idris from Ja’far bin Mohammed Bin Malik al-Fazari from Mohammed bin al-Hussein bin Zaid from Mohammed bin Sinan from al-Alaa bin al-Fudhayl that Imam as-Sadiq (a) said: He who loves a disbeliever will hate Allah and whoever hates a disbeliever loves Allah. He (a) then added: The friend of Allah’s enemy is Allah’s enemy."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "حَدَّثَنَا أَبِي رَحِمَهُ اَللَّهُ عَنِ اَلْعَلاَءِ بْنِ اَلْفُضَيْلِ عَنِ اَلصَّادِقِ ع قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "حَدَّثَنَا أَبِي رَحِمَهُ اَللَّهُ",
+            "path": "/people/narrators/613"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "اَلْعَلاَءِ بْنِ اَلْفُضَيْلِ",
+            "path": "/people/narrators/464"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "اَلصَّادِقِ ع",
+            "path": "/people/narrators/1365"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613",
+          "/people/narrators/464",
+          "/people/narrators/1365"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/sifat-al-shia:7:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/sifat-al-shia/7/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/26/1/15/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

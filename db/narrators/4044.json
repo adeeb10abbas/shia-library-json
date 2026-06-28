@@ -1,0 +1,54 @@
+{
+  "id": 4044,
+  "type": "narrator",
+  "path": "/people/narrators/4044",
+  "titles": {
+    "ar": "قَيْسِ بْنِ سَلَمَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:2:55:23"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1642-4044": {
+      "narrator_ids": [
+        1642,
+        4044
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:55:23"
+      ]
+    },
+    "3-2-7-1642-4044-669": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        1642,
+        4044,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:55:23"
+      ]
+    },
+    "4044-669": {
+      "narrator_ids": [
+        4044,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:55:23"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4044",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4044.json"
+  }
+}

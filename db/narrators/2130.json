@@ -1,0 +1,45 @@
+{
+  "id": 2130,
+  "type": "narrator",
+  "path": "/people/narrators/2130",
+  "titles": {
+    "ar": "أَبِي عَبْدِ اللَّهِ ( عليه السلام ) إِنَّ عَلِيّاً ( عليه السلام )"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:18:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "173-2130": {
+      "narrator_ids": [
+        173,
+        2130
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:18:3"
+      ]
+    },
+    "6-8-10-343-173-2130": {
+      "narrator_ids": [
+        6,
+        8,
+        10,
+        343,
+        173,
+        2130
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:18:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2130",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2130.json"
+  }
+}

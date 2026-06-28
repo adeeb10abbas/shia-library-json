@@ -1,0 +1,80 @@
+{
+  "id": 2004,
+  "type": "narrator",
+  "path": "/people/narrators/2004",
+  "titles": {
+    "ar": "أَبِي الْفَضْلِ"
+  },
+  "versePaths": [
+    "/books/al-istibsar:1:227:10",
+    "/books/al-kafi:4:3:57:9",
+    "/books/tahdhib-al-ahkam:3:1:18"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "2004-30": {
+      "narrator_ids": [
+        2004,
+        30
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:227:10",
+        "/books/tahdhib-al-ahkam:3:1:18"
+      ]
+    },
+    "4134-5-2004-30-95-301": {
+      "narrator_ids": [
+        4134,
+        5,
+        2004,
+        30,
+        95,
+        301
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:227:10",
+        "/books/tahdhib-al-ahkam:3:1:18"
+      ]
+    },
+    "43-2004": {
+      "narrator_ids": [
+        43,
+        2004
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:57:9"
+      ]
+    },
+    "5-2004": {
+      "narrator_ids": [
+        5,
+        2004
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:227:10",
+        "/books/tahdhib-al-ahkam:3:1:18"
+      ]
+    },
+    "6-5-21-43-2004": {
+      "narrator_ids": [
+        6,
+        5,
+        21,
+        43,
+        2004
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:57:9"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2004",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2004.json"
+  }
+}

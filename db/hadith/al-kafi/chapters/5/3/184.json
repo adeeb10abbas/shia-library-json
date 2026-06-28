@@ -1,0 +1,1227 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:5:3:184",
+  "chapter": {
+    "path": "/books/al-kafi:5:3:184",
+    "titles": {
+      "ar": "باب الزَّانِي",
+      "en": "Chapter 180 – The Adulterer"
+    }
+  },
+  "count": 9,
+  "records": [
+    {
+      "id": "al-kafi:5:3:184:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:5:3:184:1",
+        "parts": [
+          5,
+          3,
+          184,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 3,
+        "chapter": 184,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:5:3:184",
+        "titles": {
+          "ar": "باب الزَّانِي",
+          "en": "Chapter 180 – The Adulterer"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " إِنَّ أَشَدَّ النَّاسِ عَذَاباً يَوْمَ الْقِيَامَةِ رَجُلٌ أَقَرَّ نُطْفَتَهُ فِي رَحِمٍ يَحْرُمُ عَلَيْهِ ."
+        ],
+        "text": "إِنَّ أَشَدَّ النَّاسِ عَذَاباً يَوْمَ الْقِيَامَةِ رَجُلٌ أَقَرَّ نُطْفَتَهُ فِي رَحِمٍ يَحْرُمُ عَلَيْهِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father, from Usman Bin Isa, from Ali Bin Salim, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The most intense of the Punished people on the Day of Judgement will be a man who caused his seed to fall into a womb which was Prohibited unto him’."
+          ],
+          "text": "Ali Bin Ibrahim, from his father, from Usman Bin Isa, from Ali Bin Salim,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The most intense of the Punished people on the Day of Judgement will be a man who caused his seed to fall into a womb which was Prohibited unto him’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. Ali ibn Ibrahim has narrated from his father from ‘Uthman ibn ‘Isa from Ali ibn Salim who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘On the Day of Judgment of the people the one who suffers the most intense suffering is one who places his seed in the womb of one who with whom going to bed is unlawful.’” "
+          ],
+          "text": "1. Ali ibn Ibrahim has narrated from his father from ‘Uthman ibn ‘Isa from Ali ibn Salim who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘On the Day of Judgment of the people the one who suffers the most intense suffering is one who places his seed in the womb of one who with whom going to bed is unlawful.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (0/386)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (0/386)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنْ عُثْمَانَ بْنِ عِيسَى عَنْ عَلِيِّ بْنِ سَالِمٍ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عُثْمَانَ بْنِ عِيسَى",
+            "path": "/people/narrators/41"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيِّ بْنِ سَالِمٍ",
+            "path": "/people/narrators/927"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/41",
+          "/people/narrators/927",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:5:3:184:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/5/3/184/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:5:3:184:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:5:3:184:2",
+        "parts": [
+          5,
+          3,
+          184,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 3,
+        "chapter": 184,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:5:3:184",
+        "titles": {
+          "ar": "باب الزَّانِي",
+          "en": "Chapter 180 – The Adulterer"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ أَبُو إِبْرَاهِيمَ ( عليه السلام ) اتَّقِ الزِّنَا فَإِنَّهُ يَمْحَقُ الرِّزْقَ وَ يُبْطِلُ الدِّينَ ."
+        ],
+        "text": "قَالَ أَبُو إِبْرَاهِيمَ ( عليه السلام ) اتَّقِ الزِّنَا فَإِنَّهُ يَمْحَقُ الرِّزْقَ وَ يُبْطِلُ الدِّينَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father, from Ibn Abu Umeyr, and Usman Bin Isa, from Ali Bin Salim who said, ",
+            "‘Abu Ibrahim<sup>asws</sup> (7<sup>th</sup> Imam<sup>asws</sup>) said: ‘Fear the adultery, for it obliterates the sustenance and invalidates the Religion’."
+          ],
+          "text": "Ali Bin Ibrahim, from his father, from Ibn Abu Umeyr, and Usman Bin Isa, from Ali Bin Salim who said,\n\n‘Abu Ibrahim<sup>asws</sup> (7<sup>th</sup> Imam<sup>asws</sup>) said: ‘Fear the adultery, for it obliterates the sustenance and invalidates the Religion’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. Ali ibn Ibrahim has narrated from his father from ibn abu ‘Umayr from and ‘Uthman ibn ‘Isa from Ali ibn Salim who has said the following: “Abu Ibrahim, ‘Alayhi al-Salam, has said, ‘Stay away from fornication, it destroys one’s sustenance and invalidates one’s religion.’” "
+          ],
+          "text": "2. Ali ibn Ibrahim has narrated from his father from ibn abu ‘Umayr from and ‘Uthman ibn ‘Isa from Ali ibn Salim who has said the following: “Abu Ibrahim, ‘Alayhi al-Salam, has said, ‘Stay away from fornication, it destroys one’s sustenance and invalidates one’s religion.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (20/386)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (20/386)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنِ ابْنِ أَبِي عُمَيْرٍ وَ عُثْمَانَ بْنِ عِيسَى عَنْ عَلِيِّ بْنِ سَالِمٍ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ أَبِي عُمَيْرٍ",
+            "path": "/people/narrators/7"
+          },
+          {
+            "kind": "plain",
+            "text": " وَ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عُثْمَانَ بْنِ عِيسَى",
+            "path": "/people/narrators/41"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيِّ بْنِ سَالِمٍ",
+            "path": "/people/narrators/927"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/7",
+          "/people/narrators/41",
+          "/people/narrators/927"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:5:3:184:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/5/3/184/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:5:3:184:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:5:3:184:3",
+        "parts": [
+          5,
+          3,
+          184,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 3,
+        "chapter": 184,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:5:3:184",
+        "titles": {
+          "ar": "باب الزَّانِي",
+          "en": "Chapter 180 – The Adulterer"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " لِلزَّانِي سِتُّ خِصَالٍ ثَلَاثٌ فِي الدُّنْيَا وَ ثَلَاثٌ فِي الْآخِرَةِ أَمَّا الَّتِي فِي الدُّنْيَا فَيَذْهَبُ بِنُورِ الْوَجْهِ وَ يُورِثُ الْفَقْرَ وَ يُعَجِّلُ الْفَنَاءَ وَ أَمَّا الَّتِي فِي الْآخِرَةِ فَسَخَطُ الرَّبِّ وَ سُوءُ الْحِسَابِ وَ الْخُلُودُ فِي النَّارِ ."
+        ],
+        "text": "لِلزَّانِي سِتُّ خِصَالٍ ثَلَاثٌ فِي الدُّنْيَا وَ ثَلَاثٌ فِي الْآخِرَةِ أَمَّا الَّتِي فِي الدُّنْيَا فَيَذْهَبُ بِنُورِ الْوَجْهِ وَ يُورِثُ الْفَقْرَ وَ يُعَجِّلُ الْفَنَاءَ وَ أَمَّا الَّتِي فِي الْآخِرَةِ فَسَخَطُ الرَّبِّ وَ سُوءُ الْحِسَابِ وَ الْخُلُودُ فِي النَّارِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Sahl Bin Ziyad, from Ja’far Bin Muhammad Al Ashary, from Abdullah Bin Maymoun Al Qaddah, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> from his<sup>asws</sup> father<sup>asws</sup> having said: ‘For the adulterer there are six characteristics, three in the world and three in the Hereafter. As for those in the world, so it removes the light of the face, and inherits the poverty, and hastens the destruction; and as for those in the Hereafter, so it Angers the Lord<sup>azwj</sup>, and the evil Reckoning, and the eternity in the Fire’."
+          ],
+          "text": "A number of our companions, from Sahl Bin Ziyad, from Ja’far Bin Muhammad Al Ashary, from Abdullah Bin Maymoun Al Qaddah,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> from his<sup>asws</sup> father<sup>asws</sup> having said: ‘For the adulterer there are six characteristics, three in the world and three in the Hereafter. As for those in the world, so it removes the light of the face, and inherits the poverty, and hastens the destruction; and as for those in the Hereafter, so it Angers the Lord<sup>azwj</sup>, and the evil Reckoning, and the eternity in the Fire’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "3. A number of our people have narrated from Sahl ibn Ziyad from Ja’far ibn Muhammad al-Ash’ariy fm ‘Abd Allah ibn Maymun al- Qaddah who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has narrated from his father who has said that one who commits fornication faces six troubling issues, of which three are in this world and three in the next life. In this world it takes away light and beauty from his face, brings poverty and quicker death. In the next life, it is the anger of Allah, worse account and living in the fire forever.’” "
+          ],
+          "text": "3. A number of our people have narrated from Sahl ibn Ziyad from Ja’far ibn Muhammad al-Ash’ariy fm ‘Abd Allah ibn Maymun al- Qaddah who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has narrated from his father who has said that one who commits fornication faces six troubling issues, of which three are in this world and three in the next life. In this world it takes away light and beauty from his face, brings poverty and quicker death. In the next life, it is the anger of Allah, worse account and living in the fire forever.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (0/386)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (0/386)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ سَهْلِ بْنِ زِيَادٍ عَنْ جَعْفَرِ بْنِ مُحَمَّدٍ الْأَشْعَرِيِّ عَنْ عَبْدِ اللَّهِ بْنِ مَيْمُونٍ الْقَدَّاحِ عَنْ أَبِي عَبْدِ اللَّهِ عَنْ أَبِيهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَهْلِ بْنِ زِيَادٍ",
+            "path": "/people/narrators/8"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "جَعْفَرِ بْنِ مُحَمَّدٍ الْأَشْعَرِيِّ",
+            "path": "/people/narrators/110"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَبْدِ اللَّهِ بْنِ مَيْمُونٍ الْقَدَّاحِ",
+            "path": "/people/narrators/336"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ ( عليه السلام )",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/8",
+          "/people/narrators/110",
+          "/people/narrators/336",
+          "/people/narrators/669",
+          "/people/narrators/2"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:5:3:184:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/5/3/184/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:5:3:184:4",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:5:3:184:4",
+        "parts": [
+          5,
+          3,
+          184,
+          4
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 3,
+        "chapter": 184,
+        "hadith": 4
+      },
+      "chapter": {
+        "path": "/books/al-kafi:5:3:184",
+        "titles": {
+          "ar": "باب الزَّانِي",
+          "en": "Chapter 180 – The Adulterer"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " وَجَدْنَا فِي كِتَابِ عَلِيٍّ ( عليه السلام ) قَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) إِذَا كَثُرَ الزِّنَا مِنْ بَعْدِي كَثُرَ مَوْتُ الْفَجْأَةِ ."
+        ],
+        "text": "وَجَدْنَا فِي كِتَابِ عَلِيٍّ ( عليه السلام ) قَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) إِذَا كَثُرَ الزِّنَا مِنْ بَعْدِي كَثُرَ مَوْتُ الْفَجْأَةِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Ibn Mahboub, from Malik Bin Atiyya, from Abu Ubeyda, ",
+            "(It has been narrated) from Abu Ja’far<sup>asws</sup> having said: ‘We<sup>asws</sup> found in the Book of Ali<sup>asws</sup> that Rasool-Allah<sup>asws</sup> said: ‘When the adultery is abundant from after me<sup>asws</sup>, there would be an abundance of sudden death’."
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Ibn Mahboub, from Malik Bin Atiyya, from Abu Ubeyda,\n\n(It has been narrated) from Abu Ja’far<sup>asws</sup> having said: ‘We<sup>asws</sup> found in the Book of Ali<sup>asws</sup> that Rasool-Allah<sup>asws</sup> said: ‘When the adultery is abundant from after me<sup>asws</sup>, there would be an abundance of sudden death’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "4. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from ibn Mahbub from Malik ibn ‘Atiyyah from abu ‘Ubaydah who has said the following: “Abu Ja‘far, ‘Alayhi al-Salam, has said, ‘It is in the book of Ali, ‘Alayhi al-Salam, that the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, has said, “When people after me will commit fornication in increasing numbers the number of deaths suddenly will also increase.’”” "
+          ],
+          "text": "4. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from ibn Mahbub from Malik ibn ‘Atiyyah from abu ‘Ubaydah who has said the following: “Abu Ja‘far, ‘Alayhi al-Salam, has said, ‘It is in the book of Ali, ‘Alayhi al-Salam, that the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, has said, “When people after me will commit fornication in increasing numbers the number of deaths suddenly will also increase.’””"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> صحيح    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (20/386)",
+          "label": "صحيح",
+          "text": "Allamah Baqir al-Majlisi: صحيح - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (20/386)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنِ ابْنِ مَحْبُوبٍ عَنْ مَالِكِ بْنِ عَطِيَّةَ عَنْ أَبِي عُبَيْدَةَ عَنْ أَبِي جَعْفَرٍ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ مَحْبُوبٍ",
+            "path": "/people/narrators/10"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مَالِكِ بْنِ عَطِيَّةَ",
+            "path": "/people/narrators/172"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عُبَيْدَةَ",
+            "path": "/people/narrators/150"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي جَعْفَرٍ ( عليه السلام )",
+            "path": "/people/narrators/9"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/5",
+          "/people/narrators/10",
+          "/people/narrators/172",
+          "/people/narrators/150",
+          "/people/narrators/9"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:5:3:184:4",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/5/3/184/4.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:5:3:184:5",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:5:3:184:5",
+        "parts": [
+          5,
+          3,
+          184,
+          5
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 3,
+        "chapter": 184,
+        "hadith": 5
+      },
+      "chapter": {
+        "path": "/books/al-kafi:5:3:184",
+        "titles": {
+          "ar": "باب الزَّانِي",
+          "en": "Chapter 180 – The Adulterer"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " كُنْتُ عِنْدَ عَلِيِّ بْنِ الْحُسَيْنِ ( عليه السلام ) فَجَاءَهُ رَجُلٌ فَقَالَ لَهُ يَا أَبَا مُحَمَّدٍ إِنِّي مُبْتَلًى بِالنِّسَاءِ فَأَزْنِي يَوْماً وَ أَصُومُ يَوْماً فَيَكُونُ ذَا كَفَّارَةً لِذَا فَقَالَ لَهُ عَلِيُّ بْنُ الْحُسَيْنِ ( عليه السلام ) إِنَّهُ لَيْسَ شَيْ‏ءٌ أَحَبَّ إِلَى اللَّهِ عَزَّ وَ جَلَّ مِنْ أَنْ يُطَاعَ وَ لَا يُعْصَى فَلَا تَزْنِ وَ لَا تَصُمْ فَاجْتَذَبَهُ أَبُو جَعْفَرٍ ( عليه السلام ) إِلَيْهِ فَأَخَذَ بِيَدِهِ فَقَالَ يَا أَبَا زَنَّةَ تَعْمَلُ عَمَلَ أَهْلِ النَّارِ وَ تَرْجُو أَنْ تَدْخُلَ الْجَنَّةَ ."
+        ],
+        "text": "كُنْتُ عِنْدَ عَلِيِّ بْنِ الْحُسَيْنِ ( عليه السلام ) فَجَاءَهُ رَجُلٌ فَقَالَ لَهُ يَا أَبَا مُحَمَّدٍ إِنِّي مُبْتَلًى بِالنِّسَاءِ فَأَزْنِي يَوْماً وَ أَصُومُ يَوْماً فَيَكُونُ ذَا كَفَّارَةً لِذَا فَقَالَ لَهُ عَلِيُّ بْنُ الْحُسَيْنِ ( عليه السلام ) إِنَّهُ لَيْسَ شَيْ‏ءٌ أَحَبَّ إِلَى اللَّهِ عَزَّ وَ جَلَّ مِنْ أَنْ يُطَاعَ وَ لَا يُعْصَى فَلَا تَزْنِ وَ لَا تَصُمْ فَاجْتَذَبَهُ أَبُو جَعْفَرٍ ( عليه السلام ) إِلَيْهِ فَأَخَذَ بِيَدِهِ فَقَالَ يَا أَبَا زَنَّةَ تَعْمَلُ عَمَلَ أَهْلِ النَّارِ وَ تَرْجُو أَنْ تَدْخُلَ الْجَنَّةَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Ali Bin Al Hakam, from Abu Hamza who said, ",
+            "‘I was in the presence of Ali<sup>asws</sup> Bin Al-Husayn<sup>asws</sup>, so a man came over and said to him<sup>asws</sup>, ‘O Abu Muhammad<sup>asws</sup>! I am afflicted (addicted) with the women, so I commit adultery one day, and I Fast one day. So, does that become an expiation for that?’ So he<sup>asws</sup> said to him: ‘There is nothing more Beloved to Allah<sup>azwj</sup> Mighty and Majestic than that He<sup>azwj</sup> is obeyed and is not disobeyed. Therefore, do not commit adultery and do not Fast (as an expiation for it)’. So Abu Ja’far<sup>asws</sup> pulled him and grabbed his hand and said: ‘O father of adultery! You are doing a deed of the inhabitants of the Fire and you are hoping that you would enter the Paradise?’"
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Ali Bin Al Hakam, from Abu Hamza who said,\n\n‘I was in the presence of Ali<sup>asws</sup> Bin Al-Husayn<sup>asws</sup>, so a man came over and said to him<sup>asws</sup>, ‘O Abu Muhammad<sup>asws</sup>! I am afflicted (addicted) with the women, so I commit adultery one day, and I Fast one day. So, does that become an expiation for that?’ So he<sup>asws</sup> said to him: ‘There is nothing more Beloved to Allah<sup>azwj</sup> Mighty and Majestic than that He<sup>azwj</sup> is obeyed and is not disobeyed. Therefore, do not commit adultery and do not Fast (as an expiation for it)’. So Abu Ja’far<sup>asws</sup> pulled him and grabbed his hand and said: ‘O father of adultery! You are doing a deed of the inhabitants of the Fire and you are hoping that you would enter the Paradise?’"
+        },
+        "en.sarwar": {
+          "segments": [
+            "5. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from Ali ibn al-Hakam from abu Hamzah who has said the following: “Once I was with Ali ibn al-Husayn, ‘Alayhi al-Salam, when a man came and said, ‘O abu Muhammad, I am addicted to women. One day I commit fornication and the other day I fast; if this can become expiation for the sin.’ Ali ibn al-Husayn, ‘Alayhi al-Salam, said, ‘There is not anything more beloved to Allah, most Majestic, most Glorious, than obedience to Him and not to disobey Him. So you must not fornicate and you must not fast.’ Abu Ja‘far, ‘Alayhi al-Salam, pulled him to himself holding his hand and said, ‘O fornicator, you do the deeds of the people of hell and hope to enter paradise?”’ "
+          ],
+          "text": "5. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from Ali ibn al-Hakam from abu Hamzah who has said the following: “Once I was with Ali ibn al-Husayn, ‘Alayhi al-Salam, when a man came and said, ‘O abu Muhammad, I am addicted to women. One day I commit fornication and the other day I fast; if this can become expiation for the sin.’ Ali ibn al-Husayn, ‘Alayhi al-Salam, said, ‘There is not anything more beloved to Allah, most Majestic, most Glorious, than obedience to Him and not to disobey Him. So you must not fornicate and you must not fast.’ Abu Ja‘far, ‘Alayhi al-Salam, pulled him to himself holding his hand and said, ‘O fornicator, you do the deeds of the people of hell and hope to enter paradise?”’"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> صحيح    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (20/386)",
+          "label": "صحيح",
+          "text": "Allamah Baqir al-Majlisi: صحيح - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (20/386)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنْ عَلِيِّ بْنِ الْحَكَمِ عَنْ أَبِي حَمْزَةَ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيِّ بْنِ الْحَكَمِ",
+            "path": "/people/narrators/15"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي حَمْزَةَ",
+            "path": "/people/narrators/71"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/5",
+          "/people/narrators/15",
+          "/people/narrators/71"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:5:3:184:5",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/5/3/184/5.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:5:3:184:6",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:5:3:184:6",
+        "parts": [
+          5,
+          3,
+          184,
+          6
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 3,
+        "chapter": 184,
+        "hadith": 6
+      },
+      "chapter": {
+        "path": "/books/al-kafi:5:3:184",
+        "titles": {
+          "ar": "باب الزَّانِي",
+          "en": "Chapter 180 – The Adulterer"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قُلْتُ لِأَبِي الْحَسَنِ ( عليه السلام ) إِنِّي مُبْتَلًى بِالنَّظَرِ إِلَى الْمَرْأَةِ الْجَمِيلَةِ فَيُعْجِبُنِي النَّظَرُ إِلَيْهَا فَقَالَ لِي يَا عَلِيُّ لَا بَأْسَ إِذَا عَرَفَ اللَّهُ مِنْ نِيَّتِكَ الصِّدْقَ وَ إِيَّاكَ وَ الزِّنَا فَإِنَّهُ يَمْحَقُ الْبَرَكَةَ وَ يُهْلِكُ الدِّينَ ."
+        ],
+        "text": "قُلْتُ لِأَبِي الْحَسَنِ ( عليه السلام ) إِنِّي مُبْتَلًى بِالنَّظَرِ إِلَى الْمَرْأَةِ الْجَمِيلَةِ فَيُعْجِبُنِي النَّظَرُ إِلَيْهَا فَقَالَ لِي يَا عَلِيُّ لَا بَأْسَ إِذَا عَرَفَ اللَّهُ مِنْ نِيَّتِكَ الصِّدْقَ وَ إِيَّاكَ وَ الزِّنَا فَإِنَّهُ يَمْحَقُ الْبَرَكَةَ وَ يُهْلِكُ الدِّينَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Ali Bin Al Hakam, from Ali Bin Suweyd who said, ",
+            "‘I said to Abu Al-Hassan<sup>asws</sup>, ‘I am addicted with the looking at the beautiful woman, and looking at her fascinates me’. So he<sup>asws</sup> said to me: ‘O Ali! It is not unlawful when Allah<sup>azwj</sup> Recognises the sincerity from your intention, but beware of the adultery, for it obliterates the Blessings and destroys the Religion’."
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Ali Bin Al Hakam, from Ali Bin Suweyd who said,\n\n‘I said to Abu Al-Hassan<sup>asws</sup>, ‘I am addicted with the looking at the beautiful woman, and looking at her fascinates me’. So he<sup>asws</sup> said to me: ‘O Ali! It is not unlawful when Allah<sup>azwj</sup> Recognises the sincerity from your intention, but beware of the adultery, for it obliterates the Blessings and destroys the Religion’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "6. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad fm Ali ibn al-Hakam from Ali ibn Suwayd who has said the following: “I once said to abu al-Hassan, ‘Alayhi al-Salam, ‘I am addicted to looking at beautiful women and I like looking at them. He (the Imam) said, ‘O Ali, it is not unlawful if Allah finds that your intention is truthful, but you must remain on your guard against fornication because it destroys bounties and invalidates religion.’” "
+          ],
+          "text": "6. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad fm Ali ibn al-Hakam from Ali ibn Suwayd who has said the following: “I once said to abu al-Hassan, ‘Alayhi al-Salam, ‘I am addicted to looking at beautiful women and I like looking at them. He (the Imam) said, ‘O Ali, it is not unlawful if Allah finds that your intention is truthful, but you must remain on your guard against fornication because it destroys bounties and invalidates religion.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> صحيح  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (0/387)",
+          "label": "صحيح",
+          "text": "Allamah Baqir al-Majlisi: صحيح - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (0/387)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنْ عَلِيِّ بْنِ الْحَكَمِ عَنْ عَلِيِّ بْنِ سُوَيْدٍ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيِّ بْنِ الْحَكَمِ",
+            "path": "/people/narrators/15"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيِّ بْنِ سُوَيْدٍ",
+            "path": "/people/narrators/647"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/5",
+          "/people/narrators/15",
+          "/people/narrators/647"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:5:3:184:6",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/5/3/184/6.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:5:3:184:7",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:5:3:184:7",
+        "parts": [
+          5,
+          3,
+          184,
+          7
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 3,
+        "chapter": 184,
+        "hadith": 7
+      },
+      "chapter": {
+        "path": "/books/al-kafi:5:3:184",
+        "titles": {
+          "ar": "باب الزَّانِي",
+          "en": "Chapter 180 – The Adulterer"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " اجْتَمَعَ الْحَوَارِيُّونَ إِلَى عِيسَى ( عليه السلام ) فَقَالُوا لَهُ يَا مُعَلِّمَ الْخَيْرِ أَرْشِدْنَا فَقَالَ لَهُمْ إِنَّ مُوسَى كَلِيمَ اللَّهِ ( عليه السلام ) أَمَرَكُمْ أَنْ لَا تَحْلِفُوا بِاللَّهِ تَبَارَكَ وَ تَعَالَى كَاذِبِينَ وَ أَنَا آمُرُكُمْ أَنْ لَا تَحْلِفُوا بِاللَّهِ كَاذِبِينَ وَ لَا صَادِقِينَ ",
+          "قَالُوا يَا رُوحَ اللَّهِ زِدْنَا فَقَالَ إِنَّ مُوسَى نَبِيَّ اللَّهِ ( عليه السلام ) أَمَرَكُمْ أَنْ لَا تَزْنُوا وَ أَنَا آمُرُكُمْ أَنْ لَا تُحَدِّثُوا أَنْفُسَكُمْ بِالزِّنَا فَضْلًا عَنْ أَنْ تَزْنُوا فَإِنَّ مَنْ حَدَّثَ نَفْسَهُ بِالزِّنَا كَانَ كَمَنْ أَوْقَدَ فِي بَيْتٍ مُزَوَّقٍ فَأَفْسَدَ التَّزَاوِيقَ الدُّخَانُ وَ إِنْ لَمْ يَحْتَرِقِ الْبَيْتُ."
+        ],
+        "text": "اجْتَمَعَ الْحَوَارِيُّونَ إِلَى عِيسَى ( عليه السلام ) فَقَالُوا لَهُ يَا مُعَلِّمَ الْخَيْرِ أَرْشِدْنَا فَقَالَ لَهُمْ إِنَّ مُوسَى كَلِيمَ اللَّهِ ( عليه السلام ) أَمَرَكُمْ أَنْ لَا تَحْلِفُوا بِاللَّهِ تَبَارَكَ وَ تَعَالَى كَاذِبِينَ وَ أَنَا آمُرُكُمْ أَنْ لَا تَحْلِفُوا بِاللَّهِ كَاذِبِينَ وَ لَا صَادِقِينَ\n\nقَالُوا يَا رُوحَ اللَّهِ زِدْنَا فَقَالَ إِنَّ مُوسَى نَبِيَّ اللَّهِ ( عليه السلام ) أَمَرَكُمْ أَنْ لَا تَزْنُوا وَ أَنَا آمُرُكُمْ أَنْ لَا تُحَدِّثُوا أَنْفُسَكُمْ بِالزِّنَا فَضْلًا عَنْ أَنْ تَزْنُوا فَإِنَّ مَنْ حَدَّثَ نَفْسَهُ بِالزِّنَا كَانَ كَمَنْ أَوْقَدَ فِي بَيْتٍ مُزَوَّقٍ فَأَفْسَدَ التَّزَاوِيقَ الدُّخَانُ وَ إِنْ لَمْ يَحْتَرِقِ الْبَيْتُ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father, and a number of our companions, from Ahmad Bin Muhammad, from Abu Al Abbas Al Kufy, altogether from Amro Bin Usman, from Abdullah Bin Sinan, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The disciples gathered to Isa<sup>as</sup>, so they said to him<sup>as</sup>, ‘O good teacher, Guide us! So he<sup>as</sup> said to them: ‘Musa<sup>as</sup> the Speaker with Allah<sup>azwj</sup> had ordered you all not to falsely swear oaths with Allah<sup>azwj</sup> Blessed and High, and I<sup>as</sup> am ordering you all not to swear with Allah<sup>azwj</sup>, falsely nor truthfully’. ",
+            "They said, ‘O Spirit of Allah<sup>azwj</sup>, increase it for us’. So he<sup>as</sup> said: ‘Musa<sup>as</sup> the Prophet<sup>as</sup> of Allah<sup>azwj</sup> ordered you all that you shall not commit adultery, and I<sup>as</sup> am ordering you that should not speak to your souls about the adultery, not to speak of committing adultery, for the one who discusses with himself with the adultery, so he would be like the one who ignites in a decorated house, so the smoke spoils the decoration even if it does not burn down the house’."
+          ],
+          "text": "Ali Bin Ibrahim, from his father, and a number of our companions, from Ahmad Bin Muhammad, from Abu Al Abbas Al Kufy, altogether from Amro Bin Usman, from Abdullah Bin Sinan,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The disciples gathered to Isa<sup>as</sup>, so they said to him<sup>as</sup>, ‘O good teacher, Guide us! So he<sup>as</sup> said to them: ‘Musa<sup>as</sup> the Speaker with Allah<sup>azwj</sup> had ordered you all not to falsely swear oaths with Allah<sup>azwj</sup> Blessed and High, and I<sup>as</sup> am ordering you all not to swear with Allah<sup>azwj</sup>, falsely nor truthfully’.\n\nThey said, ‘O Spirit of Allah<sup>azwj</sup>, increase it for us’. So he<sup>as</sup> said: ‘Musa<sup>as</sup> the Prophet<sup>as</sup> of Allah<sup>azwj</sup> ordered you all that you shall not commit adultery, and I<sup>as</sup> am ordering you that should not speak to your souls about the adultery, not to speak of committing adultery, for the one who discusses with himself with the adultery, so he would be like the one who ignites in a decorated house, so the smoke spoils the decoration even if it does not burn down the house’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "7. Ali ibn Ibrahim has narrated from his father and a number of our people have narrated from Ahmad ibn Muhammad from abu al-‘ Ab has al-Kufiy all from ‘Anar ibn ‘ Uthman from ‘ Abd Allah ibn Sinan who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘Once the disciples of Jesus gathered around him and said, “O teacher of goodness teach us guidance.” Jesus said to them, “Moses has commanded you not to falsely swear by Allah and I command you not to swear even in a truthful manner.” They said, “O Spirit of Allah, please give us more guidance.” He then said, “Moses, the Holy Prophet of Allah, has commanded you not to commit fornication and I command you not to even speak to your souls about fornication, not to speak of committing fornication, because one who speaks to his soul about fornication is like one who decorates a house and smoke destroys the house even though it does not burn down the whole house.’” "
+          ],
+          "text": "7. Ali ibn Ibrahim has narrated from his father and a number of our people have narrated from Ahmad ibn Muhammad from abu al-‘ Ab has al-Kufiy all from ‘Anar ibn ‘ Uthman from ‘ Abd Allah ibn Sinan who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘Once the disciples of Jesus gathered around him and said, “O teacher of goodness teach us guidance.” Jesus said to them, “Moses has commanded you not to falsely swear by Allah and I command you not to swear even in a truthful manner.” They said, “O Spirit of Allah, please give us more guidance.” He then said, “Moses, the Holy Prophet of Allah, has commanded you not to commit fornication and I command you not to even speak to your souls about fornication, not to speak of committing fornication, because one who speaks to his soul about fornication is like one who decorates a house and smoke destroys the house even though it does not burn down the whole house.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> حسن كالموثق    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (20/387)",
+          "label": "حسن كالموثق",
+          "text": "Allamah Baqir al-Majlisi: حسن كالموثق - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (20/387)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ وَ عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنْ أَبِي الْعَبَّاسِ الْكُوفِيِّ جَمِيعاً عَنْ عَمْرِو بْنِ عُثْمَانَ عَنْ عَبْدِ اللَّهِ بْنِ سِنَانٍ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " وَ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي الْعَبَّاسِ الْكُوفِيِّ",
+            "path": "/people/narrators/987"
+          },
+          {
+            "kind": "plain",
+            "text": " جَمِيعاً عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَمْرِو بْنِ عُثْمَانَ",
+            "path": "/people/narrators/129"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَبْدِ اللَّهِ بْنِ سِنَانٍ",
+            "path": "/people/narrators/31"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/6",
+          "/people/narrators/5",
+          "/people/narrators/987",
+          "/people/narrators/129",
+          "/people/narrators/31",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:5:3:184:7",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/5/3/184/7.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:5:3:184:8",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:5:3:184:8",
+        "parts": [
+          5,
+          3,
+          184,
+          8
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 3,
+        "chapter": 184,
+        "hadith": 8
+      },
+      "chapter": {
+        "path": "/books/al-kafi:5:3:184",
+        "titles": {
+          "ar": "باب الزَّانِي",
+          "en": "Chapter 180 – The Adulterer"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ يَعْقُوبُ لِابْنِهِ يَا بُنَيَّ لَا تَزْنِ فَإِنَّ الطَّائِرَ لَوْ زَنَى لَتَنَاثَرَ رِيشُهُ ."
+        ],
+        "text": "قَالَ يَعْقُوبُ لِابْنِهِ يَا بُنَيَّ لَا تَزْنِ فَإِنَّ الطَّائِرَ لَوْ زَنَى لَتَنَاثَرَ رِيشُهُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Ibn Fazzal, from Abdullah Bin Maymoun Al Qaddah, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Yaqoub<sup>as</sup> said to his<sup>as</sup> son<sup>as</sup>: ‘Do not commit adultery, for the bird, if it commits adultery, its feathers fall off’."
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Ibn Fazzal, from Abdullah Bin Maymoun Al Qaddah,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Yaqoub<sup>as</sup> said to his<sup>as</sup> son<sup>as</sup>: ‘Do not commit adultery, for the bird, if it commits adultery, its feathers fall off’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "8. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from ibn Faddal from ‘Abd Allah ibn Maymun al-Qaddah who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that Ya’qub said to his son, ‘O son, do not commit fornication; even if a bird commits fornication it loses its feathers.’” "
+          ],
+          "text": "8. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from ibn Faddal from ‘Abd Allah ibn Maymun al-Qaddah who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that Ya’qub said to his son, ‘O son, do not commit fornication; even if a bird commits fornication it loses its feathers.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> موثق  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (0/388)",
+          "label": "موثق",
+          "text": "Allamah Baqir al-Majlisi: موثق - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (0/388)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنِ ابْنِ فَضَّالٍ عَنْ عَبْدِ اللَّهِ بْنِ مَيْمُونٍ الْقَدَّاحِ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ فَضَّالٍ",
+            "path": "/people/narrators/22"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَبْدِ اللَّهِ بْنِ مَيْمُونٍ الْقَدَّاحِ",
+            "path": "/people/narrators/336"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/5",
+          "/people/narrators/22",
+          "/people/narrators/336",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:5:3:184:8",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/5/3/184/8.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:5:3:184:9",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:5:3:184:9",
+        "parts": [
+          5,
+          3,
+          184,
+          9
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 3,
+        "chapter": 184,
+        "hadith": 9
+      },
+      "chapter": {
+        "path": "/books/al-kafi:5:3:184",
+        "titles": {
+          "ar": "باب الزَّانِي",
+          "en": "Chapter 180 – The Adulterer"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ النَّبِيُّ ( صلى الله عليه وآله ) فِي الزِّنَا خَمْسُ خِصَالٍ يَذْهَبُ بِمَاءِ الْوَجْهِ وَ يُورِثُ الْفَقْرَ وَ يَنْقُصُ الْعُمُرَ وَ يُسْخِطُ الرَّحْمَنَ وَ يُخَلِّدُ فِي النَّارِ نَعُوذُ بِاللَّهِ مِنَ النَّارِ ."
+        ],
+        "text": "قَالَ النَّبِيُّ ( صلى الله عليه وآله ) فِي الزِّنَا خَمْسُ خِصَالٍ يَذْهَبُ بِمَاءِ الْوَجْهِ وَ يُورِثُ الْفَقْرَ وَ يَنْقُصُ الْعُمُرَ وَ يُسْخِطُ الرَّحْمَنَ وَ يُخَلِّدُ فِي النَّارِ نَعُوذُ بِاللَّهِ مِنَ النَّارِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father, from Hammad Bin Isa, from Hareyz Bin Abdullah, from Al Fuzayl, ",
+            "(It has been narrated) from Abu Ja’far<sup>asws</sup> having said: ‘The Prophet<sup>asws</sup> said regarding the adultery: ‘Five characteristics remove the water of the face and inherit the poverty, and shorten the life-spans, and anger the Beneficent, and (necessitate) an eternity in the Fire. We<sup>asws</sup> seek Refuge with Allah<sup>azwj</sup> from the Fire’."
+          ],
+          "text": "Ali Bin Ibrahim, from his father, from Hammad Bin Isa, from Hareyz Bin Abdullah, from Al Fuzayl,\n\n(It has been narrated) from Abu Ja’far<sup>asws</sup> having said: ‘The Prophet<sup>asws</sup> said regarding the adultery: ‘Five characteristics remove the water of the face and inherit the poverty, and shorten the life-spans, and anger the Beneficent, and (necessitate) an eternity in the Fire. We<sup>asws</sup> seek Refuge with Allah<sup>azwj</sup> from the Fire’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "9. Ali ibn Ibrahim has narrated from his father from Hammad ibn ‘Isa from Hariz ibn ‘Abd Allah from al-Fudayl ibn Yasar who has said the following: “Abu Ja‘far, ‘Alayhi al-Salam, has said that the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, has said, “In fornication there are five disturbing issues: It destroys the beauty of the face, causes poverty, shortens one’s life, makes the Beneficent angry, and sends one to the hellfire to suffer therein forever.’” "
+          ],
+          "text": "9. Ali ibn Ibrahim has narrated from his father from Hammad ibn ‘Isa from Hariz ibn ‘Abd Allah from al-Fudayl ibn Yasar who has said the following: “Abu Ja‘far, ‘Alayhi al-Salam, has said that the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, has said, “In fornication there are five disturbing issues: It destroys the beauty of the face, causes poverty, shortens one’s life, makes the Beneficent angry, and sends one to the hellfire to suffer therein forever.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> حسن    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (20/388)",
+          "label": "حسن",
+          "text": "Allamah Baqir al-Majlisi: حسن - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (20/388)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنْ حَمَّادِ بْنِ عِيسَى عَنْ حَرِيزِ بْنِ عَبْدِ اللَّهِ عَنِ الْفُضَيْلِ عَنْ أَبِي جَعْفَرٍ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "حَمَّادِ بْنِ عِيسَى",
+            "path": "/people/narrators/38"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "حَرِيزِ بْنِ عَبْدِ اللَّهِ",
+            "path": "/people/narrators/335"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْفُضَيْلِ",
+            "path": "/people/narrators/220"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي جَعْفَرٍ ( عليه السلام )",
+            "path": "/people/narrators/9"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/38",
+          "/people/narrators/335",
+          "/people/narrators/220",
+          "/people/narrators/9"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:5:3:184:9",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/5/3/184/9.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

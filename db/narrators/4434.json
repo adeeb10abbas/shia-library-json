@@ -1,0 +1,54 @@
+{
+  "id": 4434,
+  "type": "narrator",
+  "path": "/people/narrators/4434",
+  "titles": {
+    "ar": "مُوسَى بْنِ إِبْرَاهِيمَ الْمُحَارِبِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:1:1:31"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "371-4434": {
+      "narrator_ids": [
+        371,
+        4434
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:1:1:31"
+      ]
+    },
+    "371-4434-679-4450-4460-669": {
+      "narrator_ids": [
+        371,
+        4434,
+        679,
+        4450,
+        4460,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:1:1:31"
+      ]
+    },
+    "4434-679": {
+      "narrator_ids": [
+        4434,
+        679
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:1:1:31"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4434",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4434.json"
+  }
+}

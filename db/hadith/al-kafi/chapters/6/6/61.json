@@ -1,0 +1,125 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:6:6:61",
+  "chapter": {
+    "path": "/books/al-kafi:6:6:61",
+    "titles": {
+      "ar": "باب لُحُومِ الظِّبَاءِ وَ الْحُمُرِ الْوَحْشِيَّةِ",
+      "en": "Chapter 61 – Meats of the antelopes and the wild donkeys (Zebras)"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-kafi:6:6:61:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:6:61:1",
+        "parts": [
+          6,
+          6,
+          61,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 6,
+        "chapter": 61,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:6:61",
+        "titles": {
+          "ar": "باب لُحُومِ الظِّبَاءِ وَ الْحُمُرِ الْوَحْشِيَّةِ",
+          "en": "Chapter 61 – Meats of the antelopes and the wild donkeys (Zebras)"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " كَتَبْتُ إِلَى أَبِي الْحَسَنِ ( عليه السلام ) أَسْأَلُهُ عَنْ لُحُومِ حُمُرِ الْوَحْشِ فَكَتَبَ ( عليه السلام ) يَجُوزُ أَكْلُهُ لِوَحْشَتِهِ وَ تَرْكُهُ عِنْدِي أَفْضَلُ ."
+        ],
+        "text": "كَتَبْتُ إِلَى أَبِي الْحَسَنِ ( عليه السلام ) أَسْأَلُهُ عَنْ لُحُومِ حُمُرِ الْوَحْشِ فَكَتَبَ ( عليه السلام ) يَجُوزُ أَكْلُهُ لِوَحْشَتِهِ وَ تَرْكُهُ عِنْدِي أَفْضَلُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, form Sahl Bin Ziyad, from Nasr Bin Muhammad who said, ",
+            "‘I wrote to Abu Al-Hassan<sup>asws</sup> asking him<sup>asws</sup> about the meats of the wild donkeys (Zebras). So he<sup>asws</sup> wrote: ‘It is allowed to eat it, however, leaving is preferable with me<sup>asws</sup>’."
+          ],
+          "text": "A number of our companions, form Sahl Bin Ziyad, from Nasr Bin Muhammad who said,\n\n‘I wrote to Abu Al-Hassan<sup>asws</sup> asking him<sup>asws</sup> about the meats of the wild donkeys (Zebras). So he<sup>asws</sup> wrote: ‘It is allowed to eat it, however, leaving is preferable with me<sup>asws</sup>’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. A number of our people have narrated from Sahl ibn Ziyad from Nasr ibn Muhammad who has said the following: “I once wrote to abu al-Hassan, ‘Alayhi al-Salam, and asked about the meat of the wild donkeys. He (the Imam) wrote the answer that said, ‘It is not unlawful because of its being wild but not to eat is better to me.”’ "
+          ],
+          "text": "1. A number of our people have narrated from Sahl ibn Ziyad from Nasr ibn Muhammad who has said the following: “I once wrote to abu al-Hassan, ‘Alayhi al-Salam, and asked about the meat of the wild donkeys. He (the Imam) wrote the answer that said, ‘It is not unlawful because of its being wild but not to eat is better to me.”’"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/135)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/135)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ سَهْلِ بْنِ زِيَادٍ عَنْ نَصْرِ بْنِ مُحَمَّدٍ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَهْلِ بْنِ زِيَادٍ",
+            "path": "/people/narrators/8"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "نَصْرِ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/4473"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/8",
+          "/people/narrators/4473"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:6:61:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/6/61/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

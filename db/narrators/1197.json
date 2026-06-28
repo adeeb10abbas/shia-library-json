@@ -1,0 +1,118 @@
+{
+  "id": 1197,
+  "type": "narrator",
+  "path": "/people/narrators/1197",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ مَنْصُورٍ الْخُزَاعِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:172:11",
+    "/books/al-kafi:7:5:3:3",
+    "/books/al-kafi:8:1:28:1",
+    "/books/tahdhib-al-ahkam:6:90:147"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "119-1197": {
+      "narrator_ids": [
+        119,
+        1197
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:172:11",
+        "/books/al-kafi:7:5:3:3",
+        "/books/al-kafi:8:1:28:1",
+        "/books/tahdhib-al-ahkam:6:90:147"
+      ]
+    },
+    "1197-1576": {
+      "narrator_ids": [
+        1197,
+        1576
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:5:3:3",
+        "/books/tahdhib-al-ahkam:6:90:147"
+      ]
+    },
+    "1197-647": {
+      "narrator_ids": [
+        1197,
+        647
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:172:11",
+        "/books/al-kafi:8:1:28:1"
+      ]
+    },
+    "6-8-119-1197-1576-64": {
+      "narrator_ids": [
+        6,
+        8,
+        119,
+        1197,
+        1576,
+        64
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:5:3:3"
+      ]
+    },
+    "6-8-119-1197-647-206": {
+      "narrator_ids": [
+        6,
+        8,
+        119,
+        1197,
+        647,
+        206
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:172:11"
+      ]
+    },
+    "6-8-119-1197-647-4-29-130-650-647-183-297-119-822-647": {
+      "narrator_ids": [
+        6,
+        8,
+        119,
+        1197,
+        647,
+        4,
+        29,
+        130,
+        650,
+        647,
+        183,
+        297,
+        119,
+        822,
+        647
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:28:1"
+      ]
+    },
+    "8-119-1197-1576-64": {
+      "narrator_ids": [
+        8,
+        119,
+        1197,
+        1576,
+        64
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:90:147"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1197",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1197.json"
+  }
+}

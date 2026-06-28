@@ -1,0 +1,939 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:2:4:5",
+  "chapter": {
+    "path": "/books/al-kafi:2:4:5",
+    "titles": {
+      "ar": "بَابُ التَّحَبُّبِ إِلَى النَّاسِ وَ التَّوَدُّدِ إِلَيْهِمْ",
+      "en": "Chapter 5 – Endearment to the people and the cordiality towards them"
+    }
+  },
+  "count": 7,
+  "records": [
+    {
+      "id": "al-kafi:2:4:5:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:2:4:5:1",
+        "parts": [
+          2,
+          4,
+          5,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 4,
+        "chapter": 5,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:2:4:5",
+        "titles": {
+          "ar": "بَابُ التَّحَبُّبِ إِلَى النَّاسِ وَ التَّوَدُّدِ إِلَيْهِمْ",
+          "en": "Chapter 5 – Endearment to the people and the cordiality towards them"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " إِنَّ أَعْرَابِيّاً مِنْ بَنِي تَمِيمٍ أَتَى النَّبِيَّ ( صلى الله عليه وآله ) فَقَالَ لَهُ أَوْصِنِي فَكَانَ مِمَّا أَوْصَاهُ تَحَبَّبْ إِلَى النَّاسِ يُحِبُّوكَ ."
+        ],
+        "text": "إِنَّ أَعْرَابِيّاً مِنْ بَنِي تَمِيمٍ أَتَى النَّبِيَّ ( صلى الله عليه وآله ) فَقَالَ لَهُ أَوْصِنِي فَكَانَ مِمَّا أَوْصَاهُ تَحَبَّبْ إِلَى النَّاسِ يُحِبُّوكَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad and Ali Bin Ibrahim, from his father, altogether, from Ibn Mahboub, from Hisham Bin Salim, ",
+            "(It has been narrated) from Abu Baseer, from Abu Ja’far<sup>asws</sup> having said: ‘A Bedouin from the Clan of Tameem came over to the Prophet<sup>saww</sup> and said to him<sup>saww</sup>: ‘Advise me’. So, from what he<sup>saww</sup> advised him was: ‘Love (and be kind) to the people, they will love you’."
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad and Ali Bin Ibrahim, from his father, altogether, from Ibn Mahboub, from Hisham Bin Salim,\n\n(It has been narrated) from Abu Baseer, from Abu Ja’far<sup>asws</sup> having said: ‘A Bedouin from the Clan of Tameem came over to the Prophet<sup>saww</sup> and said to him<sup>saww</sup>: ‘Advise me’. So, from what he<sup>saww</sup> advised him was: ‘Love (and be kind) to the people, they will love you’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad and Ali ibn Ibrahim has narrated from his father all from ibn Mahbub from Hisham ibn Salim from abu Basir from abu Ja’far (a.s.) who has said the following: “Once an Arab man came to the Holy Prophet and said, ‘Instinct me with good advice.’ Of the good advice to him was: ‘Love people, they will love you.’” "
+          ],
+          "text": "1. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad and Ali ibn Ibrahim has narrated from his father all from ibn Mahbub from Hisham ibn Salim from abu Basir from abu Ja’far (a.s.) who has said the following: “Once an Arab man came to the Holy Prophet and said, ‘Instinct me with good advice.’ Of the good advice to him was: ‘Love people, they will love you.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> صحيح    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (12/537)",
+          "label": "صحيح",
+          "text": "Allamah Baqir al-Majlisi: صحيح - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (12/537)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ وَ عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ جَمِيعاً عَنِ ابْنِ مَحْبُوبٍ عَنْ هِشَامِ بْنِ سَالِمٍ عَنْ أَبِي بَصِيرٍ عَنْ أَبِي جَعْفَرٍ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " وَ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " جَمِيعاً عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ مَحْبُوبٍ",
+            "path": "/people/narrators/10"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "هِشَامِ بْنِ سَالِمٍ",
+            "path": "/people/narrators/47"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي بَصِيرٍ",
+            "path": "/people/narrators/14"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي جَعْفَرٍ ( عليه السلام )",
+            "path": "/people/narrators/9"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/5",
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/10",
+          "/people/narrators/47",
+          "/people/narrators/14",
+          "/people/narrators/9"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:2:4:5:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/2/4/5/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:2:4:5:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:2:4:5:2",
+        "parts": [
+          2,
+          4,
+          5,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 4,
+        "chapter": 5,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:2:4:5",
+        "titles": {
+          "ar": "بَابُ التَّحَبُّبِ إِلَى النَّاسِ وَ التَّوَدُّدِ إِلَيْهِمْ",
+          "en": "Chapter 5 – Endearment to the people and the cordiality towards them"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " مُجَامَلَةُ النَّاسِ ثُلُثُ الْعَقْلِ ."
+        ],
+        "text": "مُجَامَلَةُ النَّاسِ ثُلُثُ الْعَقْلِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Ahmad Bin Muhammad Bin Khalid, from Usman Bin Isa, from Sama’at, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Being courteous to the people is a third of ‘الْعَقْلِ’ the intellect’."
+          ],
+          "text": "A number of our companions, from Ahmad Bin Muhammad Bin Khalid, from Usman Bin Isa, from Sama’at,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Being courteous to the people is a third of ‘الْعَقْلِ’ the intellect’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. A number of our people have narrated from Ahmad ibn Muhammad ibn Khalid from ‘Uthman ibn ‘Isa from Sama’a from abu ‘Abd Allah (a.s.) who has said the following: “Dealing with people in a graceful manner is one third of (the power) reason.” "
+          ],
+          "text": "2. A number of our people have narrated from Ahmad ibn Muhammad ibn Khalid from ‘Uthman ibn ‘Isa from Sama’a from abu ‘Abd Allah (a.s.) who has said the following: “Dealing with people in a graceful manner is one third of (the power) reason.”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> موثق   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (12/537)",
+          "label": "موثق",
+          "text": "Allamah Baqir al-Majlisi: موثق - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (12/537)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ خَالِدٍ عَنْ عُثْمَانَ بْنِ عِيسَى عَنْ سَمَاعَةَ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدِ بْنِ خَالِدٍ",
+            "path": "/people/narrators/12"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عُثْمَانَ بْنِ عِيسَى",
+            "path": "/people/narrators/41"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَمَاعَةَ",
+            "path": "/people/narrators/48"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/12",
+          "/people/narrators/41",
+          "/people/narrators/48",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:2:1:131:8",
+          "/books/al-kafi:2:1:203:21",
+          "/books/al-kafi:2:1:92:1",
+          "/books/al-kafi:3:3:67:2",
+          "/books/al-kafi:6:6:16:1",
+          "/books/al-kafi:6:6:24:3",
+          "/books/al-kafi:6:8:43:29",
+          "/books/al-kafi:7:4:22:1",
+          "/books/al-kafi:7:4:23:2",
+          "/books/al-kafi:7:4:39:14",
+          "/books/al-kafi:7:4:3:1",
+          "/books/al-kafi:7:5:2:1",
+          "/books/al-kafi:7:7:15:2"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:2:4:5:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/2/4/5/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:2:4:5:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:2:4:5:3",
+        "parts": [
+          2,
+          4,
+          5,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 4,
+        "chapter": 5,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:2:4:5",
+        "titles": {
+          "ar": "بَابُ التَّحَبُّبِ إِلَى النَّاسِ وَ التَّوَدُّدِ إِلَيْهِمْ",
+          "en": "Chapter 5 – Endearment to the people and the cordiality towards them"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) ثَلَاثٌ يُصْفِينَ وُدَّ الْمَرْءِ لِأَخِيهِ الْمُسْلِمِ يَلْقَاهُ بِالْبُشْرِ إِذَا لَقِيَهُ وَ يُوَسِّعُ لَهُ فِي الْمَجْلِسِ إِذَا جَلَسَ إِلَيْهِ وَ يَدْعُوهُ بِأَحَبِّ الْأَسْمَاءِ إِلَيْهِ ."
+        ],
+        "text": "قَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) ثَلَاثٌ يُصْفِينَ وُدَّ الْمَرْءِ لِأَخِيهِ الْمُسْلِمِ يَلْقَاهُ بِالْبُشْرِ إِذَا لَقِيَهُ وَ يُوَسِّعُ لَهُ فِي الْمَجْلِسِ إِذَا جَلَسَ إِلَيْهِ وَ يَدْعُوهُ بِأَحَبِّ الْأَسْمَاءِ إِلَيْهِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father, from Al Nowfaly, from Al Sakuny, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup> said: ‘Three (things) would purify a Muslim’s love for his brother (in <span class=\"iTxt\">Eman</span>) – he meets him with a smile when he does meet him, and makes space for him in the gathering when he comes over to sit, and he calls him with the name most beloved to him’."
+          ],
+          "text": "Ali Bin Ibrahim, from his father, from Al Nowfaly, from Al Sakuny,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup> said: ‘Three (things) would purify a Muslim’s love for his brother (in <span class=\"iTxt\">Eman</span>) – he meets him with a smile when he does meet him, and makes space for him in the gathering when he comes over to sit, and he calls him with the name most beloved to him’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "3. Ali ibn Ibrahim has narrated from his father from al-Nawfali from al-Sakuni from abu ‘Abd Allah (a.s.) who has said the following: “The Messenger of Allah has said, ‘Three things purify a Muslim’s love for his brother (in belief): meeting him in a cheerful manner, preparing for him a seat if he wants to sit down in a gathering, and calling him by his names that he loves most.’” "
+          ],
+          "text": "3. Ali ibn Ibrahim has narrated from his father from al-Nawfali from al-Sakuni from abu ‘Abd Allah (a.s.) who has said the following: “The Messenger of Allah has said, ‘Three things purify a Muslim’s love for his brother (in belief): meeting him in a cheerful manner, preparing for him a seat if he wants to sit down in a gathering, and calling him by his names that he loves most.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/537)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/537)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنِ النَّوْفَلِيِّ عَنِ السَّكُونِيِّ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "النَّوْفَلِيِّ",
+            "path": "/people/narrators/32"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "السَّكُونِيِّ",
+            "path": "/people/narrators/34"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/32",
+          "/people/narrators/34",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:2:4:5:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/2/4/5/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:2:4:5:4",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:2:4:5:4",
+        "parts": [
+          2,
+          4,
+          5,
+          4
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 4,
+        "chapter": 5,
+        "hadith": 4
+      },
+      "chapter": {
+        "path": "/books/al-kafi:2:4:5",
+        "titles": {
+          "ar": "بَابُ التَّحَبُّبِ إِلَى النَّاسِ وَ التَّوَدُّدِ إِلَيْهِمْ",
+          "en": "Chapter 5 – Endearment to the people and the cordiality towards them"
+        }
+      },
+      "arabic": {
+        "segments": [
+          "وَ بِهَذَا الْإِسْنَادِ قَالَ قَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) التَّوَدُّدُ إِلَى النَّاسِ نِصْفُ الْعَقْلِ ."
+        ],
+        "text": "وَ بِهَذَا الْإِسْنَادِ قَالَ قَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) التَّوَدُّدُ إِلَى النَّاسِ نِصْفُ الْعَقْلِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "And by this chain, ",
+            "‘He<sup>asws</sup> said: ‘Rasool-Allah<sup>saww</sup> said: ‘Being affectionate towards the people is half ‘الْعَقْلِ’ the intellect’."
+          ],
+          "text": "And by this chain,\n\n‘He<sup>asws</sup> said: ‘Rasool-Allah<sup>saww</sup> said: ‘Being affectionate towards the people is half ‘الْعَقْلِ’ the intellect’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "4. Through the same chain of narrators it is narrated from abu ‘Abd Allah (a.s.) who has said the following: “The Messenger of Allah has said, ‘Showing that one loves people is half (the power) of reason.’” "
+          ],
+          "text": "4. Through the same chain of narrators it is narrated from abu ‘Abd Allah (a.s.) who has said the following: “The Messenger of Allah has said, ‘Showing that one loves people is half (the power) of reason.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (12/537)",
+          "label": "ضعيف",
+          "text": "Allamah Baqir al-Majlisi: ضعيف - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (12/537)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "وَبِهَذَا الْإِسْنَادِ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَآلِهِ",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "وَبِهَذَا الْإِسْنَادِ قَالَ قَالَ "
+          },
+          {
+            "kind": "narrator",
+            "text": "رَسُولُ اللَّهِ",
+            "path": "/people/narrators/3243"
+          },
+          {
+            "kind": "plain",
+            "text": " صَلَّى اللَّهُ عَلَيْهِ وَآلِهِ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3243"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:2:4:5:4",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/2/4/5/4.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:2:4:5:5",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:2:4:5:5",
+        "parts": [
+          2,
+          4,
+          5,
+          5
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 4,
+        "chapter": 5,
+        "hadith": 5
+      },
+      "chapter": {
+        "path": "/books/al-kafi:2:4:5",
+        "titles": {
+          "ar": "بَابُ التَّحَبُّبِ إِلَى النَّاسِ وَ التَّوَدُّدِ إِلَيْهِمْ",
+          "en": "Chapter 5 – Endearment to the people and the cordiality towards them"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " التَّوَدُّدُ إِلَى النَّاسِ نِصْفُ الْعَقْلِ ."
+        ],
+        "text": "التَّوَدُّدُ إِلَى النَّاسِ نِصْفُ الْعَقْلِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Sahl Bin Ziyad, from Ali Bin Hassan, from Musa Bin Bakr, ",
+            "(It has been narrated) from Abu Al Hassan<sup>asws</sup> having said: ‘Being affectionate towards the people is half the intellect’."
+          ],
+          "text": "A number of our companions, from Sahl Bin Ziyad, from Ali Bin Hassan, from Musa Bin Bakr,\n\n(It has been narrated) from Abu Al Hassan<sup>asws</sup> having said: ‘Being affectionate towards the people is half the intellect’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "5. A number of our people have narrated from Sahl ibn Ziyad from Ali ibn Hassan from Musa ibn Bakr from abu al-Hassan (a.s.) who has said the following: “Showing that one loves people is one half (the power) of reason.” "
+          ],
+          "text": "5. A number of our people have narrated from Sahl ibn Ziyad from Ali ibn Hassan from Musa ibn Bakr from abu al-Hassan (a.s.) who has said the following: “Showing that one loves people is one half (the power) of reason.”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/537)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/537)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ سَهْلِ بْنِ زِيَادٍ عَنْ عَلِيِّ بْنِ حَسَّانَ عَنْ مُوسَى بْنِ بَكْرٍ عَنْ أَبِي الْحَسَنِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَهْلِ بْنِ زِيَادٍ",
+            "path": "/people/narrators/8"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيِّ بْنِ حَسَّانَ",
+            "path": "/people/narrators/145"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُوسَى بْنِ بَكْرٍ",
+            "path": "/people/narrators/96"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي الْحَسَنِ ( عليه السلام )",
+            "path": "/people/narrators/64"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/8",
+          "/people/narrators/145",
+          "/people/narrators/96",
+          "/people/narrators/64"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:6:6:81:5"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:2:4:5:5",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/2/4/5/5.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:2:4:5:6",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:2:4:5:6",
+        "parts": [
+          2,
+          4,
+          5,
+          6
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 4,
+        "chapter": 5,
+        "hadith": 6
+      },
+      "chapter": {
+        "path": "/books/al-kafi:2:4:5",
+        "titles": {
+          "ar": "بَابُ التَّحَبُّبِ إِلَى النَّاسِ وَ التَّوَدُّدِ إِلَيْهِمْ",
+          "en": "Chapter 5 – Endearment to the people and the cordiality towards them"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَمِعْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) يَقُولُ مَنْ كَفَّ يَدَهُ عَنِ النَّاسِ فَإِنَّمَا يَكُفُّ عَنْهُمْ يَداً وَاحِدَةً وَ يَكُفُّونَ عَنْهُ أَيْدِياً كَثِيرَةً ."
+        ],
+        "text": "سَمِعْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) يَقُولُ مَنْ كَفَّ يَدَهُ عَنِ النَّاسِ فَإِنَّمَا يَكُفُّ عَنْهُمْ يَداً وَاحِدَةً وَ يَكُفُّونَ عَنْهُ أَيْدِياً كَثِيرَةً ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad Bin Isa, from Muhammad Bin Sinan, from Huzeyfa Bin Mansour who said, ",
+            "‘I heard Abu Abdullah<sup>asws</sup> saying: ‘The one who restrains his hand from the people, so rather he has restrained one hand from them, and they would be restraining from him, a lot of hands’."
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad Bin Isa, from Muhammad Bin Sinan, from Huzeyfa Bin Mansour who said,\n\n‘I heard Abu Abdullah<sup>asws</sup> saying: ‘The one who restrains his hand from the people, so rather he has restrained one hand from them, and they would be restraining from him, a lot of hands’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "6. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad ibn ‘Isa from Muhammad ibn Sinan from Hudhayfah ibn Mansur who has said the following: “I heard abu ‘Abd Allah (a.s.) saying, ‘Whoever holds his hands off the people has held back only one hand, however, they will hold many hands off of him.’” "
+          ],
+          "text": "6. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad ibn ‘Isa from Muhammad ibn Sinan from Hudhayfah ibn Mansur who has said the following: “I heard abu ‘Abd Allah (a.s.) saying, ‘Whoever holds his hands off the people has held back only one hand, however, they will hold many hands off of him.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (12/538)",
+          "label": "ضعيف",
+          "text": "Allamah Baqir al-Majlisi: ضعيف - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (12/538)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى عَنْ مُحَمَّدِ بْنِ سِنَانٍ عَنْ حُذَيْفَةَ بْنِ مَنْصُورٍ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى",
+            "path": "/people/narrators/13"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ سِنَانٍ",
+            "path": "/people/narrators/42"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "حُذَيْفَةَ بْنِ مَنْصُورٍ",
+            "path": "/people/narrators/334"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/13",
+          "/people/narrators/42",
+          "/people/narrators/334"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:2:4:5:6",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/2/4/5/6.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:2:4:5:7",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:2:4:5:7",
+        "parts": [
+          2,
+          4,
+          5,
+          7
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 4,
+        "chapter": 5,
+        "hadith": 7
+      },
+      "chapter": {
+        "path": "/books/al-kafi:2:4:5",
+        "titles": {
+          "ar": "بَابُ التَّحَبُّبِ إِلَى النَّاسِ وَ التَّوَدُّدِ إِلَيْهِمْ",
+          "en": "Chapter 5 – Endearment to the people and the cordiality towards them"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ الْحَسَنُ بْنُ عَلِيٍّ ( عليه السلام ) الْقَرِيبُ مَنْ قَرَّبَتْهُ الْمَوَدَّةُ وَ إِنْ بَعُدَ نَسَبُهُ وَ الْبَعِيدُ مَنْ بَعَّدَتْهُ الْمَوَدَّةُ وَ إِنْ قَرُبَ نَسَبُهُ لَا شَيْ‏ءَ أَقْرَبُ إِلَى شَيْ‏ءٍ مِنْ يَدٍ إِلَى جَسَدٍ وَ إِنَّ الْيَدَ تَغُلُّ فَتُقْطَعُ وَ تُقْطَعُ فَتُحْسَمُ ."
+        ],
+        "text": "قَالَ الْحَسَنُ بْنُ عَلِيٍّ ( عليه السلام ) الْقَرِيبُ مَنْ قَرَّبَتْهُ الْمَوَدَّةُ وَ إِنْ بَعُدَ نَسَبُهُ وَ الْبَعِيدُ مَنْ بَعَّدَتْهُ الْمَوَدَّةُ وَ إِنْ قَرُبَ نَسَبُهُ لَا شَيْ‏ءَ أَقْرَبُ إِلَى شَيْ‏ءٍ مِنْ يَدٍ إِلَى جَسَدٍ وَ إِنَّ الْيَدَ تَغُلُّ فَتُقْطَعُ وَ تُقْطَعُ فَتُحْسَمُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Ahmad Bin Muhammad Bin Khalid, from one of his companions, from Salih Bin Uqba, from Suleyman Bin Ziyad Al Tameemy, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Al-Hassan<sup>asws</sup> Bin Ali<sup>asws</sup> said: ‘The closest is the one whom cordiality brought closer and even though his lineage may be remote; and the remotest one is the one whom cordiality distanced, and even though his lineage may be close. There is nothing closer to something than a hand is to the body; and if the hand is rebellious, (when) it is cut off, so the blood flow stops’."
+          ],
+          "text": "A number of our companions, from Ahmad Bin Muhammad Bin Khalid, from one of his companions, from Salih Bin Uqba, from Suleyman Bin Ziyad Al Tameemy,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Al-Hassan<sup>asws</sup> Bin Ali<sup>asws</sup> said: ‘The closest is the one whom cordiality brought closer and even though his lineage may be remote; and the remotest one is the one whom cordiality distanced, and even though his lineage may be close. There is nothing closer to something than a hand is to the body; and if the hand is rebellious, (when) it is cut off, so the blood flow stops’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "7. A number of our people have narrated from Ahmad ibn Muhammad ibn Khalid from certain individuals of his people from Salih ibn ‘Aqabah from Sulayman ibn Ziyad al-Tamimi from abu ‘Abd Allah (a.s.) who has said the following: “Al-Hassan ibn Ali (a.s.) has said, ‘A person close to another person is one whom love has brought so close even though his lineage is far remote. A person far away is one whom love has distanced a part even though his lineage is near and close. There is nothing so close to another thing than the hands to the body, but when it becomes disloyal it is cut off and when it is cut off the body’s blood is held back from flowing out.’” "
+          ],
+          "text": "7. A number of our people have narrated from Ahmad ibn Muhammad ibn Khalid from certain individuals of his people from Salih ibn ‘Aqabah from Sulayman ibn Ziyad al-Tamimi from abu ‘Abd Allah (a.s.) who has said the following: “Al-Hassan ibn Ali (a.s.) has said, ‘A person close to another person is one whom love has brought so close even though his lineage is far remote. A person far away is one whom love has distanced a part even though his lineage is near and close. There is nothing so close to another thing than the hands to the body, but when it becomes disloyal it is cut off and when it is cut off the body’s blood is held back from flowing out.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> سكت عنه    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (12/538)",
+          "label": "سكت عنه",
+          "text": "Allamah Baqir al-Majlisi: سكت عنه - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (12/538)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ خَالِدٍ عَنْ بَعْضِ أَصْحَابِهِ عَنْ صَالِحِ بْنِ عُقْبَةَ عَنْ سُلَيْمَانَ بْنِ زِيَادٍ التَّمِيمِيِّ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدِ بْنِ خَالِدٍ",
+            "path": "/people/narrators/12"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "بَعْضِ أَصْحَابِهِ",
+            "path": "/people/narrators/37"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "صَالِحِ بْنِ عُقْبَةَ",
+            "path": "/people/narrators/156"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سُلَيْمَانَ بْنِ زِيَادٍ التَّمِيمِيِّ",
+            "path": "/people/narrators/3369"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/12",
+          "/people/narrators/37",
+          "/people/narrators/156",
+          "/people/narrators/3369",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:2:4:5:7",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/2/4/5/7.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

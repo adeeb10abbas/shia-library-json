@@ -1,0 +1,136 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "maani-al-akhbar",
+  "chapterPath": "/books/maani-al-akhbar:147",
+  "chapter": {
+    "path": "/books/maani-al-akhbar:147",
+    "titles": {
+      "en": "The meaning of saama, haama, ‘aamma and laama"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "maani-al-akhbar:147:1",
+      "type": "hadith",
+      "book": {
+        "slug": "maani-al-akhbar",
+        "titles": {
+          "ar": "معاني الأخبار",
+          "en": "Ma'ani al-Akhbar"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/maani-al-akhbar:147:1",
+        "parts": [
+          147,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 147,
+        "book": 1
+      },
+      "chapter": {
+        "path": "/books/maani-al-akhbar:147",
+        "titles": {
+          "en": "The meaning of saama, haama, ‘aamma and laama"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": السامة القرابة، والهامة هو أم الأرض  ، واللامة لمم الشياطين، والعامة عامة الناس."
+        ],
+        "text": ": السامة القرابة، والهامة هو أم الأرض  ، واللامة لمم الشياطين، والعامة عامة الناس."
+      },
+      "translations": {
+        "en.basel-kadem": {
+          "segments": [
+            "1.\tMy father, may Allah grant him mercy, (narrated) from Muhammed bin Yahya, from Ahmad bin Muhammed bin Musa bin Ja’far, from more than one of our companions, from Sulayman bin Khalid, from Abu Abdillah, peace be upon him, that he was asked about the saying of Allah’s Messenger, Allah’s blessings be upon him and his Family: «I seek refuge in You from the evil of saama, haama, ‘aamma and laama». So he said: Saama is kinship, haama is the mother of earth, laama is the minor sins of demons and ‘aamma is the general people."
+          ],
+          "text": "1.\tMy father, may Allah grant him mercy, (narrated) from Muhammed bin Yahya, from Ahmad bin Muhammed bin Musa bin Ja’far, from more than one of our companions, from Sulayman bin Khalid, from Abu Abdillah, peace be upon him, that he was asked about the saying of Allah’s Messenger, Allah’s blessings be upon him and his Family: «I seek refuge in You from the evil of saama, haama, ‘aamma and laama». So he said: Saama is kinship, haama is the mother of earth, laama is the minor sins of demons and ‘aamma is the general people."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "أبي - رحمه الله - عن محمد بن يحيى، عن أحمد بن محمد بن موسى بن جعفر، عن غير واحد من أصحابنا، عن سليمان بن خالد، عن أبي عبد الله عليه السلام أنه سئل عن قول رسول الله صلى الله عليه وآله: \" أعوذ بك من شر السامة والهامة والعامة واللامة \" فقال",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "أبي - رحمه الله -",
+            "path": "/people/narrators/613"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "محمد بن يحيى،",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "أحمد بن محمد بن موسى بن جعفر،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "غير واحد من أصحابنا،",
+            "path": "/people/narrators/492"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "سليمان بن خالد،",
+            "path": "/people/narrators/123"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "أبي عبد الله عليه السلام أنه سئل"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "قول رسول الله صلى الله عليه وآله: \" أعوذ بك من شر السامة والهامة والعامة واللامة \" فقال"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613",
+          "/people/narrators/4",
+          "/people/narrators/492",
+          "/people/narrators/123"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/maani-al-akhbar:147:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/maani-al-akhbar/147/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/28/1/147/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

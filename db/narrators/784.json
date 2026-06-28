@@ -1,0 +1,185 @@
+{
+  "id": 784,
+  "type": "narrator",
+  "path": "/people/narrators/784",
+  "titles": {
+    "ar": "صَبَّاحٍ الْمُزَنِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:100:2",
+    "/books/al-kafi:1:4:108:82",
+    "/books/al-kafi:3:1:28:5",
+    "/books/al-kafi:6:3:16:9",
+    "/books/al-kafi:8:1:48:7",
+    "/books/man-la-yahduruhu-al-faqih:3:1:21:13"
+  ],
+  "verseCount": 6,
+  "relations": {},
+  "subchains": {
+    "26-784": {
+      "narrator_ids": [
+        26,
+        784
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:108:82"
+      ]
+    },
+    "274-321-387-784-1022-463": {
+      "narrator_ids": [
+        274,
+        321,
+        387,
+        784,
+        1022,
+        463
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:100:2"
+      ]
+    },
+    "3735-784": {
+      "narrator_ids": [
+        3735,
+        784
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:3:16:9"
+      ]
+    },
+    "387-784": {
+      "narrator_ids": [
+        387,
+        784
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:100:2"
+      ]
+    },
+    "4-167-3610-3735-784-1209": {
+      "narrator_ids": [
+        4,
+        167,
+        3610,
+        3735,
+        784,
+        1209
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:3:16:9"
+      ]
+    },
+    "4-618-1149-4363-446-784-72-9": {
+      "narrator_ids": [
+        4,
+        618,
+        1149,
+        4363,
+        446,
+        784,
+        72,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:48:7"
+      ]
+    },
+    "404-784": {
+      "narrator_ids": [
+        404,
+        784
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:3:1:21:13"
+      ]
+    },
+    "446-784": {
+      "narrator_ids": [
+        446,
+        784
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:48:7"
+      ]
+    },
+    "6-321-707-784-1022-1326": {
+      "narrator_ids": [
+        6,
+        321,
+        707,
+        784,
+        1022,
+        1326
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:1:28:5"
+      ]
+    },
+    "707-784": {
+      "narrator_ids": [
+        707,
+        784
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:1:28:5"
+      ]
+    },
+    "77-26-784-71-58": {
+      "narrator_ids": [
+        77,
+        26,
+        784,
+        71,
+        58
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:108:82"
+      ]
+    },
+    "784-1022": {
+      "narrator_ids": [
+        784,
+        1022
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:100:2",
+        "/books/al-kafi:3:1:28:5"
+      ]
+    },
+    "784-1209": {
+      "narrator_ids": [
+        784,
+        1209
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:3:16:9"
+      ]
+    },
+    "784-71": {
+      "narrator_ids": [
+        784,
+        71
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:108:82"
+      ]
+    },
+    "784-72": {
+      "narrator_ids": [
+        784,
+        72
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:48:7"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/784",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/784.json"
+  }
+}

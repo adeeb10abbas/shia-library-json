@@ -1,0 +1,147 @@
+{
+  "id": 1058,
+  "type": "narrator",
+  "path": "/people/narrators/1058",
+  "titles": {
+    "ar": "أَيْمَنَ بْنِ مُحْرِزٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:78:15",
+    "/books/al-kafi:4:1:11:5",
+    "/books/al-kafi:5:3:44:2",
+    "/books/kitab-al-ghayba-tusi:51:44",
+    "/books/thawab-al-amal:2:97:1"
+  ],
+  "verseCount": 5,
+  "relations": {},
+  "subchains": {
+    "1058-117": {
+      "narrator_ids": [
+        1058,
+        117
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:44:2"
+      ]
+    },
+    "1058-455": {
+      "narrator_ids": [
+        1058,
+        455
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:11:5"
+      ]
+    },
+    "1058-669": {
+      "narrator_ids": [
+        1058,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:78:15",
+        "/books/kitab-al-ghayba-tusi:51:44"
+      ]
+    },
+    "1058-73": {
+      "narrator_ids": [
+        1058,
+        73
+      ],
+      "verse_paths": [
+        "/books/thawab-al-amal:2:97:1"
+      ]
+    },
+    "11-119-1058-669": {
+      "narrator_ids": [
+        11,
+        119,
+        1058,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:78:15"
+      ]
+    },
+    "119-1058": {
+      "narrator_ids": [
+        119,
+        1058
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:78:15",
+        "/books/al-kafi:4:1:11:5",
+        "/books/al-kafi:5:3:44:2",
+        "/books/kitab-al-ghayba-tusi:51:44"
+      ]
+    },
+    "119-1058-669": {
+      "narrator_ids": [
+        119,
+        1058,
+        669
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:51:44"
+      ]
+    },
+    "21-1058": {
+      "narrator_ids": [
+        21,
+        1058
+      ],
+      "verse_paths": [
+        "/books/thawab-al-amal:2:97:1"
+      ]
+    },
+    "274-12-2-119-1058-455-669": {
+      "narrator_ids": [
+        274,
+        12,
+        2,
+        119,
+        1058,
+        455,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:11:5"
+      ]
+    },
+    "5-119-1058-117-72-9": {
+      "narrator_ids": [
+        5,
+        119,
+        1058,
+        117,
+        72,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:44:2"
+      ]
+    },
+    "90-381-21-1058-73-71-669": {
+      "narrator_ids": [
+        90,
+        381,
+        21,
+        1058,
+        73,
+        71,
+        669
+      ],
+      "verse_paths": [
+        "/books/thawab-al-amal:2:97:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1058",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1058.json"
+  }
+}

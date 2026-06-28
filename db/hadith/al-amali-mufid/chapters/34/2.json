@@ -1,0 +1,92 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-amali-mufid",
+  "chapterPath": "/books/al-amali-mufid:34:2",
+  "chapter": {
+    "path": "/books/al-amali-mufid:34:2",
+    "titles": {
+      "en": "Sign on certitude"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-amali-mufid:34:2:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-amali-mufid",
+        "titles": {
+          "ar": "الأمالي (المفيد)",
+          "en": "Al-Amali (al-Mufid)"
+        },
+        "author": {
+          "ar": "الشيخ المفيد",
+          "en": "Shaykh al-Mufid"
+        }
+      },
+      "path": {
+        "source": "/books/al-amali-mufid:34:2:1",
+        "parts": [
+          34,
+          2,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 34,
+        "book": 2,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-amali-mufid:34:2",
+        "titles": {
+          "en": "Sign on certitude"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": أخبرني أبو نصر محمد بن الحسين المقري قال: حدثنا أبو القاسم علي بن محمد قال: حدثنا أبو العباس الأحوص بن علي بن مرداس قال: حدثني محمد بن الحسن بن عيسى الرواسي  قال: حدثنا سماعة بن مهران، عن أبي عبد الله جعفر بن محمد عليهما السلام قال: إن من اليقين ألا ترضوا الناس بسخط الله عز وجل، ولا تلوموهم على ما لم يؤتكم الله من فضله، فإن الرزق لا يسوقه حرص حريص، ولا ترده كراهية كاره، ولو أن أحدكم فر من رزقه كما يفر من الموت لأدركه رزقه كما يدركه الموت ."
+        ],
+        "text": ": أخبرني أبو نصر محمد بن الحسين المقري قال: حدثنا أبو القاسم علي بن محمد قال: حدثنا أبو العباس الأحوص بن علي بن مرداس قال: حدثني محمد بن الحسن بن عيسى الرواسي  قال: حدثنا سماعة بن مهران، عن أبي عبد الله جعفر بن محمد عليهما السلام قال: إن من اليقين ألا ترضوا الناس بسخط الله عز وجل، ولا تلوموهم على ما لم يؤتكم الله من فضله، فإن الرزق لا يسوقه حرص حريص، ولا ترده كراهية كاره، ولو أن أحدكم فر من رزقه كما يفر من الموت لأدركه رزقه كما يدركه الموت ."
+      },
+      "translations": {
+        "en.mulla-asgharali-m-m-jaffer": {
+          "segments": [
+            "2. He said: Abu Nasr Muhammad ibn al-Husayn al-Muqri reported to me from Abul Qasim ‘Ali ibn Muhammad, who reported from Abul Abbas al-Ahwas ibn ‘Ali ibn Mardas, who reported from Muhammad ibn al-Hasan ibn Isa al-Rawasi, who reported from Sama’ah ibn Mahran, that: Abu Abdillah Ja’far ibn Muhammad, peace be upon him, said: \"Among the signs of certitude is that you will never please the people by earning the wrath of Allah, Most High, nor will you blame them if Allah did not grant you from His favour. Because sustenance is not led by the greed of the avaricious, nor is it prevented by the aversion of someone grudging. If anyone from you were to run away from his sustenance, the way he runs away from death, it would find him out, the way death would.\""
+          ],
+          "text": "2. He said: Abu Nasr Muhammad ibn al-Husayn al-Muqri reported to me from Abul Qasim ‘Ali ibn Muhammad, who reported from Abul Abbas al-Ahwas ibn ‘Ali ibn Mardas, who reported from Muhammad ibn al-Hasan ibn Isa al-Rawasi, who reported from Sama’ah ibn Mahran, that: Abu Abdillah Ja’far ibn Muhammad, peace be upon him, said: \"Among the signs of certitude is that you will never please the people by earning the wrath of Allah, Most High, nor will you blame them if Allah did not grant you from His favour. Because sustenance is not led by the greed of the avaricious, nor is it prevented by the aversion of someone grudging. If anyone from you were to run away from his sustenance, the way he runs away from death, it would find him out, the way death would.\""
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "2 - قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "2 - "
+          },
+          {
+            "kind": "narrator",
+            "text": "قال",
+            "path": "/people/narrators/652"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/652"
+        ]
+      },
+      "relations": {
+        "Quotes Quran": [
+          "/books/quran:7:15"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-amali-mufid:34:2:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-amali-mufid/34/2/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/13/34/2/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

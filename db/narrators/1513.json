@@ -1,0 +1,92 @@
+{
+  "id": 1513,
+  "type": "narrator",
+  "path": "/people/narrators/1513",
+  "titles": {
+    "ar": "عَبْدِ الْحَمِيدِ بْنِ عَوَّاضٍ الطَّائِيِّ"
+  },
+  "versePaths": [
+    "/books/al-istibsar:3:50:3",
+    "/books/al-kafi:5:2:159:26",
+    "/books/al-kafi:5:3:71:4",
+    "/books/man-la-yahduruhu-al-faqih:3:2:11:34",
+    "/books/tahdhib-al-ahkam:7:30:19"
+  ],
+  "verseCount": 5,
+  "relations": {},
+  "subchains": {
+    "11-3-27-26-1513": {
+      "narrator_ids": [
+        11,
+        3,
+        27,
+        26,
+        1513
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:3:50:3",
+        "/books/tahdhib-al-ahkam:7:30:19"
+      ]
+    },
+    "197-1513": {
+      "narrator_ids": [
+        197,
+        1513
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:159:26"
+      ]
+    },
+    "26-1513": {
+      "narrator_ids": [
+        26,
+        1513
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:3:50:3",
+        "/books/al-kafi:5:3:71:4",
+        "/books/tahdhib-al-ahkam:7:30:19"
+      ]
+    },
+    "3-27-26-1513": {
+      "narrator_ids": [
+        3,
+        27,
+        26,
+        1513
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:71:4"
+      ]
+    },
+    "404-1513": {
+      "narrator_ids": [
+        404,
+        1513
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:3:2:11:34"
+      ]
+    },
+    "6-5-22-197-1513": {
+      "narrator_ids": [
+        6,
+        5,
+        22,
+        197,
+        1513
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:159:26"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1513",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1513.json"
+  }
+}

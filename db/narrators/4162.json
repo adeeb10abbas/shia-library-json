@@ -1,0 +1,75 @@
+{
+  "id": 4162,
+  "type": "narrator",
+  "path": "/people/narrators/4162",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ الْحَسَنِ بْنِ شَمُّونٍ الْبَصْرِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:7:2:2",
+    "/books/tahdhib-al-ahkam:6:92:39"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "4162-2121": {
+      "narrator_ids": [
+        4162,
+        2121
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:2:2"
+      ]
+    },
+    "4162-272": {
+      "narrator_ids": [
+        4162,
+        272
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:92:39"
+      ]
+    },
+    "67-569-8-4162-272-669": {
+      "narrator_ids": [
+        67,
+        569,
+        8,
+        4162,
+        272,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:92:39"
+      ]
+    },
+    "8-4162": {
+      "narrator_ids": [
+        8,
+        4162
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:2:2",
+        "/books/tahdhib-al-ahkam:6:92:39"
+      ]
+    },
+    "8-4162-2121": {
+      "narrator_ids": [
+        8,
+        4162,
+        2121
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:2:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4162",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4162.json"
+  }
+}

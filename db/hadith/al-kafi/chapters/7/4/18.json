@@ -1,0 +1,677 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:7:4:18",
+  "chapter": {
+    "path": "/books/al-kafi:7:4:18",
+    "titles": {
+      "ar": "باب الرَّجُلُ يَقْتُلُ ابْنَهُ وَ الِابْنُ يَقْتُلُ أَبَاهُ وَ أُمَّهُ",
+      "en": "Chapter 18 – The man kills his son, and the son kills his father and his mother"
+    }
+  },
+  "count": 5,
+  "records": [
+    {
+      "id": "al-kafi:7:4:18:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:4:18:1",
+        "parts": [
+          7,
+          4,
+          18,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 4,
+        "chapter": 18,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:4:18",
+        "titles": {
+          "ar": "باب الرَّجُلُ يَقْتُلُ ابْنَهُ وَ الِابْنُ يَقْتُلُ أَبَاهُ وَ أُمَّهُ",
+          "en": "Chapter 18 – The man kills his son, and the son kills his father and his mother"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " لَا يُقَادُ وَالِدٌ بِوَلَدِهِ وَ يُقْتَلُ الْوَلَدُ إِذَا قَتَلَ وَالِدَهُ عَمْداً ."
+        ],
+        "text": "لَا يُقَادُ وَالِدٌ بِوَلَدِهِ وَ يُقْتَلُ الْوَلَدُ إِذَا قَتَلَ وَالِدَهُ عَمْداً ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad, and Ali Bin Ibrahim, form his father, both together from Al Hassan Bin Mahboub, from Abu Ayoub Al Khazaz, from Humran, ",
+            "(It has been narrated) from one of the two (5<sup>th</sup> or 6<sup>th</sup> Imam<sup>asws</sup>) having said: ‘The father would not be retaliated due to (killing) his son, but the son would be killed when he kills his father deliberately’."
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad, and Ali Bin Ibrahim, form his father, both together from Al Hassan Bin Mahboub, from Abu Ayoub Al Khazaz, from Humran,\n\n(It has been narrated) from one of the two (5<sup>th</sup> or 6<sup>th</sup> Imam<sup>asws</sup>) having said: ‘The father would not be retaliated due to (killing) his son, but the son would be killed when he kills his father deliberately’."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ وَ عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ جَمِيعاً عَنِ الْحَسَنِ بْنِ مَحْبُوبٍ عَنْ أَبِي أَيُّوبَ الْخَزَّازِ عَنْ حُمْرَانَ عَنْ أَحَدِهِمَا ( عليهما السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " وَ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " جَمِيعاً عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحَسَنِ بْنِ مَحْبُوبٍ",
+            "path": "/people/narrators/53"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي أَيُّوبَ الْخَزَّازِ",
+            "path": "/people/narrators/118"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "حُمْرَانَ",
+            "path": "/people/narrators/250"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحَدِهِمَا ( عليهما السلام )",
+            "path": "/people/narrators/58"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/5",
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/53",
+          "/people/narrators/118",
+          "/people/narrators/250",
+          "/people/narrators/58"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:4:18:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/4/18/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:4:18:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:4:18:2",
+        "parts": [
+          7,
+          4,
+          18,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 4,
+        "chapter": 18,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:4:18",
+        "titles": {
+          "ar": "باب الرَّجُلُ يَقْتُلُ ابْنَهُ وَ الِابْنُ يَقْتُلُ أَبَاهُ وَ أُمَّهُ",
+          "en": "Chapter 18 – The man kills his son, and the son kills his father and his mother"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَأَلْتُ أَبَا جَعْفَرٍ ( عليه السلام ) عَنْ رَجُلٍ قَتَلَ أُمَّهُ قَالَ يُقْتَلُ بِهَا صَاغِراً وَ لَا أَظُنُّ قَتْلَهُ كَفَّارَةً لَهُ وَ لَا يَرِثُهَا ."
+        ],
+        "text": "سَأَلْتُ أَبَا جَعْفَرٍ ( عليه السلام ) عَنْ رَجُلٍ قَتَلَ أُمَّهُ قَالَ يُقْتَلُ بِهَا صَاغِراً وَ لَا أَظُنُّ قَتْلَهُ كَفَّارَةً لَهُ وَ لَا يَرِثُهَا ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Sahl Bin Ziyad, from Ibn Mahboub, from Ibn Raib, from Abu Umeyda who said, ",
+            "‘I asked Abu Ja’far<sup>asws</sup> about a man who killed his mother. He<sup>asws</sup> said: ‘He would be killed due to it, belittled, and I<sup>asws</sup> do not think killing him would be an expiation for him, and he would not inherit her’."
+          ],
+          "text": "A number of our companions, from Sahl Bin Ziyad, from Ibn Mahboub, from Ibn Raib, from Abu Umeyda who said,\n\n‘I asked Abu Ja’far<sup>asws</sup> about a man who killed his mother. He<sup>asws</sup> said: ‘He would be killed due to it, belittled, and I<sup>asws</sup> do not think killing him would be an expiation for him, and he would not inherit her’."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ سَهْلِ بْنِ زِيَادٍ عَنِ ابْنِ مَحْبُوبٍ عَنِ ابْنِ رِئَابٍ عَنْ أَبِي عُبَيْدَةَ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَهْلِ بْنِ زِيَادٍ",
+            "path": "/people/narrators/8"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ مَحْبُوبٍ",
+            "path": "/people/narrators/10"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ رِئَابٍ",
+            "path": "/people/narrators/87"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عُبَيْدَةَ",
+            "path": "/people/narrators/150"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/8",
+          "/people/narrators/10",
+          "/people/narrators/87",
+          "/people/narrators/150"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:4:18:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/4/18/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:4:18:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:4:18:3",
+        "parts": [
+          7,
+          4,
+          18,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 4,
+        "chapter": 18,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:4:18",
+        "titles": {
+          "ar": "باب الرَّجُلُ يَقْتُلُ ابْنَهُ وَ الِابْنُ يَقْتُلُ أَبَاهُ وَ أُمَّهُ",
+          "en": "Chapter 18 – The man kills his son, and the son kills his father and his mother"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " لَا يُقْتَلُ الْأَبُ بِابْنِهِ إِذَا قَتَلَهُ وَ يُقْتَلُ الِابْنُ بِأَبِيهِ إِذَا قَتَلَ أَبَاهُ ."
+        ],
+        "text": "لَا يُقْتَلُ الْأَبُ بِابْنِهِ إِذَا قَتَلَهُ وَ يُقْتَلُ الِابْنُ بِأَبِيهِ إِذَا قَتَلَ أَبَاهُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Ali Bin Al Hakam, from Ali Bin Abu Hamza, from Abu Baseer, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The father would not be killed due to killing of his son, but the son would be killed if he kills his father’."
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Ali Bin Al Hakam, from Ali Bin Abu Hamza, from Abu Baseer,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The father would not be killed due to killing of his son, but the son would be killed if he kills his father’."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنْ عَلِيِّ بْنِ الْحَكَمِ عَنْ عَلِيِّ بْنِ أَبِي حَمْزَةَ عَنْ أَبِي بَصِيرٍ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيِّ بْنِ الْحَكَمِ",
+            "path": "/people/narrators/15"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيِّ بْنِ أَبِي حَمْزَةَ",
+            "path": "/people/narrators/57"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي بَصِيرٍ",
+            "path": "/people/narrators/14"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/5",
+          "/people/narrators/15",
+          "/people/narrators/57",
+          "/people/narrators/14",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:3:3:86:2",
+          "/books/al-kafi:4:3:109:1",
+          "/books/al-kafi:4:3:165:2",
+          "/books/al-kafi:4:3:57:2",
+          "/books/al-kafi:4:3:86:1",
+          "/books/al-kafi:4:3:97:9",
+          "/books/al-kafi:4:3:99:1",
+          "/books/al-kafi:5:3:32:3",
+          "/books/al-kafi:5:3:82:9",
+          "/books/al-kafi:6:2:50:2",
+          "/books/al-kafi:6:2:79:7",
+          "/books/al-kafi:6:3:2:2",
+          "/books/al-kafi:6:5:10:2",
+          "/books/al-kafi:6:6:8:2",
+          "/books/al-kafi:7:3:36:2",
+          "/books/al-kafi:7:3:7:3",
+          "/books/al-kafi:7:4:23:4",
+          "/books/al-kafi:7:4:29:2",
+          "/books/al-kafi:7:4:44:3"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:4:18:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/4/18/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:4:18:4",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:4:18:4",
+        "parts": [
+          7,
+          4,
+          18,
+          4
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 4,
+        "chapter": 18,
+        "hadith": 4
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:4:18",
+        "titles": {
+          "ar": "باب الرَّجُلُ يَقْتُلُ ابْنَهُ وَ الِابْنُ يَقْتُلُ أَبَاهُ وَ أُمَّهُ",
+          "en": "Chapter 18 – The man kills his son, and the son kills his father and his mother"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَأَلْتُهُ عَنِ الرَّجُلِ يَقْتُلُ ابْنَهُ أَ يُقْتَلُ بِهِ قَالَ لَا ."
+        ],
+        "text": "سَأَلْتُهُ عَنِ الرَّجُلِ يَقْتُلُ ابْنَهُ أَ يُقْتَلُ بِهِ قَالَ لَا ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father, from Ibn Abu Umeyr, from Hammad, from Al Halby, ",
+            "(The narrators) says: ‘I asked Abu Abdullah<sup>asws</sup> about the man who killed his son, would he be killed due to it?’ He<sup>asws</sup> said: ‘No’."
+          ],
+          "text": "Ali Bin Ibrahim, from his father, from Ibn Abu Umeyr, from Hammad, from Al Halby,\n\n(The narrators) says: ‘I asked Abu Abdullah<sup>asws</sup> about the man who killed his son, would he be killed due to it?’ He<sup>asws</sup> said: ‘No’."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنِ ابْنِ أَبِي عُمَيْرٍ عَنْ حَمَّادٍ عَنِ الْحَلَبِيِّ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ أَبِي عُمَيْرٍ",
+            "path": "/people/narrators/7"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "حَمَّادٍ",
+            "path": "/people/narrators/23"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحَلَبِيِّ",
+            "path": "/people/narrators/28"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/7",
+          "/people/narrators/23",
+          "/people/narrators/28",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:4:18:4",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/4/18/4.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:4:18:5",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:4:18:5",
+        "parts": [
+          7,
+          4,
+          18,
+          5
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 4,
+        "chapter": 18,
+        "hadith": 5
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:4:18",
+        "titles": {
+          "ar": "باب الرَّجُلُ يَقْتُلُ ابْنَهُ وَ الِابْنُ يَقْتُلُ أَبَاهُ وَ أُمَّهُ",
+          "en": "Chapter 18 – The man kills his son, and the son kills his father and his mother"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ أَبُو عَبْدِ اللَّهِ ( عليه السلام ) لَا يُقْتَلُ الْوَالِدُ بِوَلَدِهِ وَ يُقْتَلُ الْوَلَدُ بِوَالِدِهِ وَ لَا يَرِثُ الرَّجُلُ الرَّجُلَ إِذَا قَتَلَهُ وَ إِنْ كَانَ خَطَأً ."
+        ],
+        "text": "قَالَ أَبُو عَبْدِ اللَّهِ ( عليه السلام ) لَا يُقْتَلُ الْوَالِدُ بِوَلَدِهِ وَ يُقْتَلُ الْوَلَدُ بِوَالِدِهِ وَ لَا يَرِثُ الرَّجُلُ الرَّجُلَ إِذَا قَتَلَهُ وَ إِنْ كَانَ خَطَأً ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali, from Muhammad Bin Isa, from Yunus, from Ibn Sinan, from Al A’la Bin Al Fuzayl who said, ",
+            "‘Abu Abdullah<sup>asws</sup> said: ‘The father would not be killed due to his son, but the son would be killed due to (killing of) his father; and the man would not inherit the man when he kills him, even though it (were to) be in error’."
+          ],
+          "text": "Ali, from Muhammad Bin Isa, from Yunus, from Ibn Sinan, from Al A’la Bin Al Fuzayl who said,\n\n‘Abu Abdullah<sup>asws</sup> said: ‘The father would not be killed due to his son, but the son would be killed due to (killing of) his father; and the man would not inherit the man when he kills him, even though it (were to) be in error’."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "عَلِيٌّ عَنْ مُحَمَّدِ بْنِ عِيسَى عَنْ يُونُسَ عَنِ ابْنِ سِنَانٍ عَنِ الْعَلَاءِ بْنِ الْفُضَيْلِ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيٌّ",
+            "path": "/people/narrators/50"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ عِيسَى",
+            "path": "/people/narrators/27"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "يُونُسَ",
+            "path": "/people/narrators/26"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ سِنَانٍ",
+            "path": "/people/narrators/104"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْعَلَاءِ بْنِ الْفُضَيْلِ",
+            "path": "/people/narrators/464"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/50",
+          "/people/narrators/27",
+          "/people/narrators/26",
+          "/people/narrators/104",
+          "/people/narrators/464"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:4:18:5",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/4/18/5.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

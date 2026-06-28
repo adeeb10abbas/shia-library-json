@@ -1,0 +1,64 @@
+{
+  "id": 3531,
+  "type": "narrator",
+  "path": "/people/narrators/3531",
+  "titles": {
+    "ar": "عَبْدِ الْعَظِيمِ الْحَسَنِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:95:8",
+    "/books/uyun-akhbar-al-rida:1:2:1:2"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "219-3531": {
+      "narrator_ids": [
+        219,
+        3531
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:95:8"
+      ]
+    },
+    "219-3531-68-132-530-14": {
+      "narrator_ids": [
+        219,
+        3531,
+        68,
+        132,
+        530,
+        14
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:95:8"
+      ]
+    },
+    "3389-3531": {
+      "narrator_ids": [
+        3389,
+        3531
+      ],
+      "verse_paths": [
+        "/books/uyun-akhbar-al-rida:1:2:1:2"
+      ]
+    },
+    "3531-68": {
+      "narrator_ids": [
+        3531,
+        68
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:95:8"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3531",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3531.json"
+  }
+}

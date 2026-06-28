@@ -1,0 +1,53 @@
+{
+  "id": 1822,
+  "type": "narrator",
+  "path": "/people/narrators/1822",
+  "titles": {
+    "ar": "إِبْرَاهِيمَ بْنِ سِنَانٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:123:14"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1822-266": {
+      "narrator_ids": [
+        1822,
+        266
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:123:14"
+      ]
+    },
+    "576-1822": {
+      "narrator_ids": [
+        576,
+        1822
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:123:14"
+      ]
+    },
+    "6-8-576-1822-266": {
+      "narrator_ids": [
+        6,
+        8,
+        576,
+        1822,
+        266
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:123:14"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1822",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1822.json"
+  }
+}

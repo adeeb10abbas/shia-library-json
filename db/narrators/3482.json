@@ -1,0 +1,56 @@
+{
+  "id": 3482,
+  "type": "narrator",
+  "path": "/people/narrators/3482",
+  "titles": {
+    "ar": "عَبْدِ الرَّحْمَنِ الْأَبْزَارِيِّ الْكُنَاسِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:3:61:14",
+    "/books/tahdhib-al-ahkam:10:10:20"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "27-3482": {
+      "narrator_ids": [
+        27,
+        3482
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:61:14",
+        "/books/tahdhib-al-ahkam:10:10:20"
+      ]
+    },
+    "3-27-3482-300": {
+      "narrator_ids": [
+        3,
+        27,
+        3482,
+        300
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:61:14",
+        "/books/tahdhib-al-ahkam:10:10:20"
+      ]
+    },
+    "3482-300": {
+      "narrator_ids": [
+        3482,
+        300
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:61:14",
+        "/books/tahdhib-al-ahkam:10:10:20"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3482",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3482.json"
+  }
+}

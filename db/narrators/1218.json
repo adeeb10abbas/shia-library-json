@@ -1,0 +1,110 @@
+{
+  "id": 1218,
+  "type": "narrator",
+  "path": "/people/narrators/1218",
+  "titles": {
+    "ar": "يُونُسَ بْنِ رِبَاطٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:65:9",
+    "/books/al-kafi:2:1:106:16",
+    "/books/al-kafi:6:1:35:6",
+    "/books/tahdhib-al-ahkam:8:5:39"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "1218-669": {
+      "narrator_ids": [
+        1218,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:35:6",
+        "/books/tahdhib-al-ahkam:8:5:39"
+      ]
+    },
+    "35-8-719-1218": {
+      "narrator_ids": [
+        35,
+        8,
+        719,
+        1218
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:65:9"
+      ]
+    },
+    "372-1218": {
+      "narrator_ids": [
+        372,
+        1218
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:35:6",
+        "/books/tahdhib-al-ahkam:8:5:39"
+      ]
+    },
+    "4-5-42-1218": {
+      "narrator_ids": [
+        4,
+        5,
+        42,
+        1218
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:106:16"
+      ]
+    },
+    "42-1218": {
+      "narrator_ids": [
+        42,
+        1218
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:106:16"
+      ]
+    },
+    "53-372-1218-669": {
+      "narrator_ids": [
+        53,
+        372,
+        1218,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:8:5:39"
+      ]
+    },
+    "6-5-53-372-1218-669": {
+      "narrator_ids": [
+        6,
+        5,
+        53,
+        372,
+        1218,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:35:6"
+      ]
+    },
+    "719-1218": {
+      "narrator_ids": [
+        719,
+        1218
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:65:9"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1218",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1218.json"
+  }
+}

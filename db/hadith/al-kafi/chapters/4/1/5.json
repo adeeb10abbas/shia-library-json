@@ -1,0 +1,617 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:4:1:5",
+  "chapter": {
+    "path": "/books/al-kafi:4:1:5",
+    "titles": {
+      "ar": "بَابٌ فِي أَنَّ الصَّدَقَةَ تَزِيدُ فِي الْمَالِ",
+      "en": "Chapter 52 – Regarding that the charity increased in the wealth"
+    }
+  },
+  "count": 5,
+  "records": [
+    {
+      "id": "al-kafi:4:1:5:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:4:1:5:1",
+        "parts": [
+          4,
+          1,
+          5,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 1,
+        "chapter": 5,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:4:1:5",
+        "titles": {
+          "ar": "بَابٌ فِي أَنَّ الصَّدَقَةَ تَزِيدُ فِي الْمَالِ",
+          "en": "Chapter 52 – Regarding that the charity increased in the wealth"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " إِنَّ الصَّدَقَةَ تَقْضِي الدَّيْنَ وَ تَخْلُفُ بِالْبَرَكَةِ ."
+        ],
+        "text": "إِنَّ الصَّدَقَةَ تَقْضِي الدَّيْنَ وَ تَخْلُفُ بِالْبَرَكَةِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Muhammad Bin Yahya, from Giyas Bin Ibrahim, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The charity pays-off the debts and replaces them with the Blessings’."
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Muhammad Bin Yahya, from Giyas Bin Ibrahim,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The charity pays-off the debts and replaces them with the Blessings’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad ibn Yahya from Ghiyath ibn Ibrahim who has said the following: “Abu ‘ Abd Allah, ‘Alayhi al-Salam, has said, ‘Giving charity pays off debts and leaves behind blessings.’” "
+          ],
+          "text": "1. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad ibn Yahya from Ghiyath ibn Ibrahim who has said the following: “Abu ‘ Abd Allah, ‘Alayhi al-Salam, has said, ‘Giving charity pays off debts and leaves behind blessings.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> موثق    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (16/134)",
+          "label": "موثق",
+          "text": "Allamah Baqir al-Majlisi: موثق - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (16/134)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنْ مُحَمَّدِ بْنِ يَحْيَى عَنْ غِيَاثِ بْنِ إِبْرَاهِيمَ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "غِيَاثِ بْنِ إِبْرَاهِيمَ",
+            "path": "/people/narrators/162"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/5",
+          "/people/narrators/4",
+          "/people/narrators/162",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:4:1:5:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/4/1/5/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:4:1:5:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:4:1:5:2",
+        "parts": [
+          4,
+          1,
+          5,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 1,
+        "chapter": 5,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:4:1:5",
+        "titles": {
+          "ar": "بَابٌ فِي أَنَّ الصَّدَقَةَ تَزِيدُ فِي الْمَالِ",
+          "en": "Chapter 52 – Regarding that the charity increased in the wealth"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " حَدَّثَنِي الْجَهْمُ بْنُ الْحَكَمِ الْمَدَائِنِيُّ عَنِ السَّكُونِيِّ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ قَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) تَصَدَّقُوا فَإِنَّ الصَّدَقَةَ تَزِيدُ فِي الْمَالِ كَثْرَةً وَ تَصَدَّقُوا رَحِمَكُمُ اللَّهُ ."
+        ],
+        "text": "حَدَّثَنِي الْجَهْمُ بْنُ الْحَكَمِ الْمَدَائِنِيُّ عَنِ السَّكُونِيِّ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ قَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) تَصَدَّقُوا فَإِنَّ الصَّدَقَةَ تَزِيدُ فِي الْمَالِ كَثْرَةً وَ تَصَدَّقُوا رَحِمَكُمُ اللَّهُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Ahmad Bin Abu Abdullah who said, ‘Al Jahm Bin Al Hakam Al Madainy narrated to me from Al Sakuny, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup> said: ‘Give charity for the charity increases in the wealth a lot, and give charity, Allah<sup>azwj</sup> would be Merciful upon you’."
+          ],
+          "text": "A number of our companions, from Ahmad Bin Abu Abdullah who said, ‘Al Jahm Bin Al Hakam Al Madainy narrated to me from Al Sakuny,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup> said: ‘Give charity for the charity increases in the wealth a lot, and give charity, Allah<sup>azwj</sup> would be Merciful upon you’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. A number of our people have narrated from Ahmad ibn abu ‘Abd Allah, from al-Jahm ibn al-Hakam al-Mada’iniy from al-Sakuniy who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, has said, ‘Give charity; charity increases wealth a great deal. Give charity, may Allah grant you favors.’” "
+          ],
+          "text": "2. A number of our people have narrated from Ahmad ibn abu ‘Abd Allah, from al-Jahm ibn al-Hakam al-Mada’iniy from al-Sakuniy who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, has said, ‘Give charity; charity increases wealth a great deal. Give charity, may Allah grant you favors.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (16/134)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (16/134)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ أَحْمَدَ بْنِ أَبِي عَبْدِ اللَّهِ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ أَبِي عَبْدِ اللَّهِ",
+            "path": "/people/narrators/12"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/12"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:4:1:5:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/4/1/5/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:4:1:5:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:4:1:5:3",
+        "parts": [
+          4,
+          1,
+          5,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 1,
+        "chapter": 5,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:4:1:5",
+        "titles": {
+          "ar": "بَابٌ فِي أَنَّ الصَّدَقَةَ تَزِيدُ فِي الْمَالِ",
+          "en": "Chapter 52 – Regarding that the charity increased in the wealth"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ أَبُو عَبْدِ اللَّهِ ( عليه السلام ) لِمُحَمَّدٍ ابْنِهِ يَا بُنَيَّ كَمْ فَضَلَ مَعَكَ مِنْ تِلْكَ النَّفَقَةِ قَالَ أَرْبَعُونَ دِينَاراً قَالَ اخْرُجْ فَتَصَدَّقْ بِهَا قَالَ إِنَّهُ لَمْ يَبْقَ مَعِي غَيْرُهَا قَالَ تَصَدَّقْ بِهَا فَإِنَّ اللَّهَ عَزَّ وَ جَلَّ يُخْلِفُهَا أَ مَا عَلِمْتَ أَنَّ لِكُلِّ شَيْ‏ءٍ مِفْتَاحاً وَ مِفْتَاحُ الرِّزْقِ الصَّدَقَةُ فَتَصَدَّقْ بِهَا ",
+          "فَفَعَلَ فَمَا لَبِثَ أَبُو عَبْدِ اللَّهِ ( عليه السلام ) عَشَرَةَ أَيَّامٍ حَتَّى جَاءَهُ مِنْ مَوْضِعٍ أَرْبَعَةُ آلَافِ دِينَارٍ فَقَالَ يَا بُنَيَّ أَعْطَيْنَا لِلَّهِ أَرْبَعِينَ دِينَاراً فَأَعْطَانَا اللَّهُ أَرْبَعَةَ آلَافِ دِينَارٍ ."
+        ],
+        "text": "قَالَ أَبُو عَبْدِ اللَّهِ ( عليه السلام ) لِمُحَمَّدٍ ابْنِهِ يَا بُنَيَّ كَمْ فَضَلَ مَعَكَ مِنْ تِلْكَ النَّفَقَةِ قَالَ أَرْبَعُونَ دِينَاراً قَالَ اخْرُجْ فَتَصَدَّقْ بِهَا قَالَ إِنَّهُ لَمْ يَبْقَ مَعِي غَيْرُهَا قَالَ تَصَدَّقْ بِهَا فَإِنَّ اللَّهَ عَزَّ وَ جَلَّ يُخْلِفُهَا أَ مَا عَلِمْتَ أَنَّ لِكُلِّ شَيْ‏ءٍ مِفْتَاحاً وَ مِفْتَاحُ الرِّزْقِ الصَّدَقَةُ فَتَصَدَّقْ بِهَا\n\nفَفَعَلَ فَمَا لَبِثَ أَبُو عَبْدِ اللَّهِ ( عليه السلام ) عَشَرَةَ أَيَّامٍ حَتَّى جَاءَهُ مِنْ مَوْضِعٍ أَرْبَعَةُ آلَافِ دِينَارٍ فَقَالَ يَا بُنَيَّ أَعْطَيْنَا لِلَّهِ أَرْبَعِينَ دِينَاراً فَأَعْطَانَا اللَّهُ أَرْبَعَةَ آلَافِ دِينَارٍ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ahmad Bin Muhammad, from his father, from Ali Bin Wahbaan, from his uncle Haroun Bin Isa who said, ",
+            "‘Abu Abdullah<sup>asws</sup> said to Muhammad, his<sup>asws</sup> son: ‘O my<sup>asws</sup> son! How much excess is there with you from those expenses?’ He said, ‘Forty Dinars’. He<sup>asws</sup> said: ‘Bring it out and give charity with it’. He said, ‘There does not remain with me anything apart from it’. He<sup>asws</sup> said: ‘Give in charity with it, for Allah<sup>azwj</sup> Mighty and Majestic would Replace it. But, do you not know that for everything there is a key, and a key for the sustenance is the charity, therefore give charity with it’. ",
+            "So he did it and Abu Abdullah<sup>azwj</sup> did not remain for more than ten days before there came to him from a place, four thousand Dinars. So he<sup>asws</sup> said: ‘O my<sup>asws</sup> son! We gave Allah<sup>azwj</sup> forty Dinars, and He<sup>azwj</sup> Gave us four thousand Dinars’."
+          ],
+          "text": "Ahmad Bin Muhammad, from his father, from Ali Bin Wahbaan, from his uncle Haroun Bin Isa who said,\n\n‘Abu Abdullah<sup>asws</sup> said to Muhammad, his<sup>asws</sup> son: ‘O my<sup>asws</sup> son! How much excess is there with you from those expenses?’ He said, ‘Forty Dinars’. He<sup>asws</sup> said: ‘Bring it out and give charity with it’. He said, ‘There does not remain with me anything apart from it’. He<sup>asws</sup> said: ‘Give in charity with it, for Allah<sup>azwj</sup> Mighty and Majestic would Replace it. But, do you not know that for everything there is a key, and a key for the sustenance is the charity, therefore give charity with it’.\n\nSo he did it and Abu Abdullah<sup>azwj</sup> did not remain for more than ten days before there came to him from a place, four thousand Dinars. So he<sup>asws</sup> said: ‘O my<sup>asws</sup> son! We gave Allah<sup>azwj</sup> forty Dinars, and He<sup>azwj</sup> Gave us four thousand Dinars’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "3. Ahmad ibn Muhammad from has narrated from his father from Ali ibn Wahban from his uncle, Harun ibn ‘Isa who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, once said to his son, Muhammad, ‘Son, how much is left with you of that (money) for expenses?’ He replied, ‘Forty dinars are left.’ He said, ‘You should go out and give it away as charity.’ The son said, ‘No more money is left with me besides this.’ The Imam said, ‘You should give it as charity, Allah, the Most Majestic, the Most Glorious, will replace it. Have you not noted that for everything there is a key, and the key to greater means of sustenance is giving charity, so give it as charity.’ The son followed the instruction. Abu ‘Abd Allah, ‘Alayhi al-Salam, waited for only ten days until he received four thousand dinars from a certain place. He then said, ‘Son, we gave Allah forty dinars and He has given us four thousand dinars.’” "
+          ],
+          "text": "3. Ahmad ibn Muhammad from has narrated from his father from Ali ibn Wahban from his uncle, Harun ibn ‘Isa who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, once said to his son, Muhammad, ‘Son, how much is left with you of that (money) for expenses?’ He replied, ‘Forty dinars are left.’ He said, ‘You should go out and give it away as charity.’ The son said, ‘No more money is left with me besides this.’ The Imam said, ‘You should give it as charity, Allah, the Most Majestic, the Most Glorious, will replace it. Have you not noted that for everything there is a key, and the key to greater means of sustenance is giving charity, so give it as charity.’ The son followed the instruction. Abu ‘Abd Allah, ‘Alayhi al-Salam, waited for only ten days until he received four thousand dinars from a certain place. He then said, ‘Son, we gave Allah forty dinars and He has given us four thousand dinars.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (6/134)",
+          "label": "ضعيف",
+          "text": "Allamah Baqir al-Majlisi: ضعيف - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (6/134)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "أَحْمَدُ بْنُ مُحَمَّدٍ عَنْ أَبِيهِ عَنْ عَلِيِّ بْنِ وَهْبَانَ عَنْ عَمِّهِ هَارُونَ بْنِ عِيسَى قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدُ بْنُ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيِّ بْنِ وَهْبَانَ",
+            "path": "/people/narrators/3827"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَمِّهِ هَارُونَ بْنِ عِيسَى",
+            "path": "/people/narrators/3913"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/5",
+          "/people/narrators/2",
+          "/people/narrators/3827",
+          "/people/narrators/3913"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:4:1:5:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/4/1/5/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:4:1:5:4",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:4:1:5:4",
+        "parts": [
+          4,
+          1,
+          5,
+          4
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 1,
+        "chapter": 5,
+        "hadith": 4
+      },
+      "chapter": {
+        "path": "/books/al-kafi:4:1:5",
+        "titles": {
+          "ar": "بَابٌ فِي أَنَّ الصَّدَقَةَ تَزِيدُ فِي الْمَالِ",
+          "en": "Chapter 52 – Regarding that the charity increased in the wealth"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " اسْتَنْزِلُوا الرِّزْقَ بِالصَّدَقَةِ ."
+        ],
+        "text": "اسْتَنْزِلُوا الرِّزْقَ بِالصَّدَقَةِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "He said, ‘And it has been narrated to me by Ali Bin Hassan, from Musa Bin Bakr, ",
+            "(It has been narrated) from Abu Al-Hassan<sup>asws</sup> having said: ‘Cause the sustenance to descend by the charity’."
+          ],
+          "text": "He said, ‘And it has been narrated to me by Ali Bin Hassan, from Musa Bin Bakr,\n\n(It has been narrated) from Abu Al-Hassan<sup>asws</sup> having said: ‘Cause the sustenance to descend by the charity’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "4. The narrator of the above Hadith has said that Ali ibn Hassan narrated to me from Musa ibn Bakr who has said the following: “Abu al-Hassan, ‘Alayhi al-Salam, has said, ‘Make the means of sustenance descend to you by giving charity.’” "
+          ],
+          "text": "4. The narrator of the above Hadith has said that Ali ibn Hassan narrated to me from Musa ibn Bakr who has said the following: “Abu al-Hassan, ‘Alayhi al-Salam, has said, ‘Make the means of sustenance descend to you by giving charity.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (16/134)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (16/134)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "قَالَ وَ حَدَّثَنِي عَلِيُّ بْنُ حَسَّانَ عَنْ مُوسَى بْنِ بَكْرٍ عَنْ أَبِي الْحَسَنِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "قَالَ",
+            "path": "/people/narrators/652"
+          },
+          {
+            "kind": "plain",
+            "text": " وَ "
+          },
+          {
+            "kind": "narrator",
+            "text": "حَدَّثَنِي عَلِيُّ بْنُ حَسَّانَ",
+            "path": "/people/narrators/145"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُوسَى بْنِ بَكْرٍ",
+            "path": "/people/narrators/96"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي الْحَسَنِ ( عليه السلام )",
+            "path": "/people/narrators/64"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/652",
+          "/people/narrators/145",
+          "/people/narrators/96",
+          "/people/narrators/64"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:4:1:5:4",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/4/1/5/4.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:4:1:5:5",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:4:1:5:5",
+        "parts": [
+          4,
+          1,
+          5,
+          5
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 1,
+        "chapter": 5,
+        "hadith": 5
+      },
+      "chapter": {
+        "path": "/books/al-kafi:4:1:5",
+        "titles": {
+          "ar": "بَابٌ فِي أَنَّ الصَّدَقَةَ تَزِيدُ فِي الْمَالِ",
+          "en": "Chapter 52 – Regarding that the charity increased in the wealth"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " مَا أَحْسَنَ عَبْدٌ الصَّدَقَةَ فِي الدُّنْيَا إِلَّا أَحْسَنَ اللَّهُ الْخِلَافَةَ عَلَى وُلْدِهِ مِنْ بَعْدِهِ وَ قَالَ حُسْنُ الصَّدَقَةِ يَقْضِي الدَّيْنَ وَ يَخْلُفُ عَلَى الْبَرَكَةِ ."
+        ],
+        "text": "مَا أَحْسَنَ عَبْدٌ الصَّدَقَةَ فِي الدُّنْيَا إِلَّا أَحْسَنَ اللَّهُ الْخِلَافَةَ عَلَى وُلْدِهِ مِنْ بَعْدِهِ وَ قَالَ حُسْنُ الصَّدَقَةِ يَقْضِي الدَّيْنَ وَ يَخْلُفُ عَلَى الْبَرَكَةِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father, from Al Nowfaly, from Al Sakuny, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘A servant does not give good charity in the world except that Allah<sup>azwj</sup> betters the succession upon his children from after him’. And he<sup>asws</sup> said: ‘Good charity pays off the debts, and leaves behind the Blessings’."
+          ],
+          "text": "Ali Bin Ibrahim, from his father, from Al Nowfaly, from Al Sakuny,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘A servant does not give good charity in the world except that Allah<sup>azwj</sup> betters the succession upon his children from after him’. And he<sup>asws</sup> said: ‘Good charity pays off the debts, and leaves behind the Blessings’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "5. Ali ibn Ibrahim has narrated from his father, from al-Nawfaliy from al-Sakuniy who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘Whenever a man gives charity of the best quality, Allah replaces it for him with children in the same way (of best quality children) after his passing away.” The Imam has also said, ‘Giving charity of best quality pays off debts and leaves behind blessings.’” "
+          ],
+          "text": "5. Ali ibn Ibrahim has narrated from his father, from al-Nawfaliy from al-Sakuniy who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘Whenever a man gives charity of the best quality, Allah replaces it for him with children in the same way (of best quality children) after his passing away.” The Imam has also said, ‘Giving charity of best quality pays off debts and leaves behind blessings.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (16/135)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (16/135)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنِ النَّوْفَلِيِّ عَنِ السَّكُونِيِّ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "النَّوْفَلِيِّ",
+            "path": "/people/narrators/32"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "السَّكُونِيِّ",
+            "path": "/people/narrators/34"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/32",
+          "/people/narrators/34",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:4:1:5:5",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/4/1/5/5.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 3900,
+  "type": "narrator",
+  "path": "/people/narrators/3900",
+  "titles": {
+    "ar": "عَمْرِو بْنِ نُهَيْكٍ بَيَّاعِ الْهَرَوِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:31:6"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "19-24-17-88-3900": {
+      "narrator_ids": [
+        19,
+        24,
+        17,
+        88,
+        3900
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:31:6"
+      ]
+    },
+    "88-3900": {
+      "narrator_ids": [
+        88,
+        3900
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:31:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3900",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3900.json"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "id": 1031,
+  "type": "narrator",
+  "path": "/people/narrators/1031",
+  "titles": {
+    "ar": "الْحَسَنِ بْنِ مُحَمَّدٍ الْهَاشِمِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:108:77",
+    "/books/al-kafi:1:4:64:3",
+    "/books/al-kafi:8:1:40:16"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "1031-2": {
+      "narrator_ids": [
+        1031,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:64:3"
+      ]
+    },
+    "1748-25-39-1031": {
+      "narrator_ids": [
+        1748,
+        25,
+        39,
+        1031
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:40:16"
+      ]
+    },
+    "20-25-5-1031": {
+      "narrator_ids": [
+        20,
+        25,
+        5,
+        1031
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:108:77"
+      ]
+    },
+    "20-25-5-1031-2-854-669": {
+      "narrator_ids": [
+        20,
+        25,
+        5,
+        1031,
+        2,
+        854,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:64:3"
+      ]
+    },
+    "39-1031": {
+      "narrator_ids": [
+        39,
+        1031
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:40:16"
+      ]
+    },
+    "5-1031": {
+      "narrator_ids": [
+        5,
+        1031
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:108:77",
+        "/books/al-kafi:1:4:64:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1031",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1031.json"
+  }
+}

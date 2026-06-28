@@ -1,0 +1,42 @@
+{
+  "id": 4333,
+  "type": "narrator",
+  "path": "/people/narrators/4333",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ هَارُونَ الْجَلَّابِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:154:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "121-4333": {
+      "narrator_ids": [
+        121,
+        4333
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:154:2"
+      ]
+    },
+    "8-121-4333": {
+      "narrator_ids": [
+        8,
+        121,
+        4333
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:154:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4333",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4333.json"
+  }
+}

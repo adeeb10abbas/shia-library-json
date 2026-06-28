@@ -1,0 +1,192 @@
+{
+  "id": 583,
+  "type": "narrator",
+  "path": "/people/narrators/583",
+  "titles": {
+    "ar": "حَفْصِ بْنِ عُمَرَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:136:6",
+    "/books/al-kafi:2:1:148:4",
+    "/books/al-kafi:2:1:48:23",
+    "/books/al-kafi:3:5:2:14",
+    "/books/al-kafi:4:1:11:6",
+    "/books/al-kafi:5:2:63:6",
+    "/books/al-kafi:5:2:67:2",
+    "/books/al-kafi:8:1:37:27",
+    "/books/man-la-yahduruhu-al-faqih:3:2:38:55"
+  ],
+  "verseCount": 9,
+  "relations": {},
+  "subchains": {
+    "11-2-329-583-669": {
+      "narrator_ids": [
+        11,
+        2,
+        329,
+        583,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:136:6",
+        "/books/al-kafi:2:1:48:23"
+      ]
+    },
+    "1322-583": {
+      "narrator_ids": [
+        1322,
+        583
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:37:27"
+      ]
+    },
+    "133-12-2-329-583-669": {
+      "narrator_ids": [
+        133,
+        12,
+        2,
+        329,
+        583,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:67:2"
+      ]
+    },
+    "329-583": {
+      "narrator_ids": [
+        329,
+        583
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:136:6",
+        "/books/al-kafi:2:1:148:4",
+        "/books/al-kafi:2:1:48:23",
+        "/books/al-kafi:4:1:11:6",
+        "/books/al-kafi:5:2:67:2"
+      ]
+    },
+    "364-583": {
+      "narrator_ids": [
+        364,
+        583
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:63:6"
+      ]
+    },
+    "4-5-17-364-583-60-669": {
+      "narrator_ids": [
+        4,
+        5,
+        17,
+        364,
+        583,
+        60,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:63:6"
+      ]
+    },
+    "5-2-329-583-669": {
+      "narrator_ids": [
+        5,
+        2,
+        329,
+        583,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:11:6"
+      ]
+    },
+    "583-60": {
+      "narrator_ids": [
+        583,
+        60
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:63:6"
+      ]
+    },
+    "583-669": {
+      "narrator_ids": [
+        583,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:136:6",
+        "/books/al-kafi:2:1:148:4",
+        "/books/al-kafi:2:1:48:23",
+        "/books/al-kafi:4:1:11:6",
+        "/books/al-kafi:5:2:67:2",
+        "/books/man-la-yahduruhu-al-faqih:3:2:38:55"
+      ]
+    },
+    "583-778": {
+      "narrator_ids": [
+        583,
+        778
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:5:2:14"
+      ]
+    },
+    "583-778-14-669": {
+      "narrator_ids": [
+        583,
+        778,
+        14,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:5:2:14"
+      ]
+    },
+    "583-861": {
+      "narrator_ids": [
+        583,
+        861
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:37:27"
+      ]
+    },
+    "6-12-2-329-583-669": {
+      "narrator_ids": [
+        6,
+        12,
+        2,
+        329,
+        583,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:148:4"
+      ]
+    },
+    "8-101-1322-583-861-669": {
+      "narrator_ids": [
+        8,
+        101,
+        1322,
+        583,
+        861,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:37:27"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/583",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/583.json"
+  }
+}

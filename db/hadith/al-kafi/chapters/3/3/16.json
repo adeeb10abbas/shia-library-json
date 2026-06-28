@@ -1,0 +1,179 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:3:3:16",
+  "chapter": {
+    "path": "/books/al-kafi:3:3:16",
+    "titles": {
+      "ar": "باب نَادِرٌ",
+      "en": "Chapter 16 – Miscellaneous"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-kafi:3:3:16:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:3:3:16:1",
+        "parts": [
+          3,
+          3,
+          16,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 3,
+        "chapter": 16,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:3:3:16",
+        "titles": {
+          "ar": "باب نَادِرٌ",
+          "en": "Chapter 16 – Miscellaneous"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " لَيْسَ مِنْ مَيِّتٍ يَمُوتُ وَ يُتْرَكُ وَحْدَهُ إِلَّا لَعِبَ بِهِ الشَّيْطَانُ فِي جَوْفِهِ ."
+        ],
+        "text": "لَيْسَ مِنْ مَيِّتٍ يَمُوتُ وَ يُتْرَكُ وَحْدَهُ إِلَّا لَعِبَ بِهِ الشَّيْطَانُ فِي جَوْفِهِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Muhammad, from Salih Bin Abu Hammad, and Al Husayn Bin Muhammad, from Moalla Bin Muhammad, altogether from Al Washha, from Ahmad Bin A’iz, from Abu Khadeeja, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘There is none from  deceased who dies and he is left alone except that the Satan<sup>la</sup> would play with him in his inside’."
+          ],
+          "text": "Ali Bin Muhammad, from Salih Bin Abu Hammad, and Al Husayn Bin Muhammad, from Moalla Bin Muhammad, altogether from Al Washha, from Ahmad Bin A’iz, from Abu Khadeeja,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘There is none from  deceased who dies and he is left alone except that the Satan<sup>la</sup> would play with him in his inside’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. Ali ibn Muhammad has narrated from Salih ibn abu Hammad and al-Husayn ibn Muhammad from Mu‘alla’ ibn Muhammad all from al- -Washsha’ from Ahmad ibn al-‘A’idh from abu Khadijah who has said the following: “Abu ’Abd Allah, ‘Alayhi al-Salam, has said that Satan plays inside every dead person who is left alone.” "
+          ],
+          "text": "1. Ali ibn Muhammad has narrated from Salih ibn abu Hammad and al-Husayn ibn Muhammad from Mu‘alla’ ibn Muhammad all from al- -Washsha’ from Ahmad ibn al-‘A’idh from abu Khadijah who has said the following: “Abu ’Abd Allah, ‘Alayhi al-Salam, has said that Satan plays inside every dead person who is left alone.”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (13/302)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (13/302)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ مُحَمَّدٍ عَنْ صَالِحِ بْنِ أَبِي حَمَّادٍ وَ الْحُسَيْنُ بْنُ مُحَمَّدٍ عَنْ مُعَلَّى بْنِ مُحَمَّدٍ جَمِيعاً عَنِ الْوَشَّاءِ عَنْ أَحْمَدَ بْنِ عَائِذٍ عَنْ أَبِي خَدِيجَةَ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ مُحَمَّدٍ",
+            "path": "/people/narrators/35"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "صَالِحِ بْنِ أَبِي حَمَّادٍ",
+            "path": "/people/narrators/166"
+          },
+          {
+            "kind": "plain",
+            "text": " وَ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحُسَيْنُ بْنُ مُحَمَّدٍ",
+            "path": "/people/narrators/20"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُعَلَّى بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/25"
+          },
+          {
+            "kind": "plain",
+            "text": " جَمِيعاً عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْوَشَّاءِ",
+            "path": "/people/narrators/61"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ عَائِذٍ",
+            "path": "/people/narrators/215"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي خَدِيجَةَ",
+            "path": "/people/narrators/207"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/35",
+          "/people/narrators/166",
+          "/people/narrators/20",
+          "/people/narrators/25",
+          "/people/narrators/61",
+          "/people/narrators/215",
+          "/people/narrators/207",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:6:9:7:5"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:3:3:16:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/3/3/16/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

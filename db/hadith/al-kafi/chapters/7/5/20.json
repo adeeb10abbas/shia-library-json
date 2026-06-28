@@ -1,0 +1,294 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:7:5:20",
+  "chapter": {
+    "path": "/books/al-kafi:7:5:20",
+    "titles": {
+      "ar": "باب",
+      "en": "Chapter 20 – A chapter"
+    }
+  },
+  "count": 2,
+  "records": [
+    {
+      "id": "al-kafi:7:5:20:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:5:20:1",
+        "parts": [
+          7,
+          5,
+          20,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 5,
+        "chapter": 20,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:5:20",
+        "titles": {
+          "ar": "باب",
+          "en": "Chapter 20 – A chapter"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " رَجُلٍ شَهِدَ عَلَى شَهَادَةِ رَجُلٍ فَجَاءَ الرَّجُلُ فَقَالَ لَمْ أُشْهِدْهُ فَقَالَ تَجُوزُ شَهَادَةُ أَعْدَلِهِمَا وَ لَوْ كَانَ أَعْدَلُهُمَا وَاحِداً لَمْ تَجُزْ شَهَادَتُهُ عَدَالَةً فِيهِمَا ."
+        ],
+        "text": "رَجُلٍ شَهِدَ عَلَى شَهَادَةِ رَجُلٍ فَجَاءَ الرَّجُلُ فَقَالَ لَمْ أُشْهِدْهُ فَقَالَ تَجُوزُ شَهَادَةُ أَعْدَلِهِمَا وَ لَوْ كَانَ أَعْدَلُهُمَا وَاحِداً لَمْ تَجُزْ شَهَادَتُهُ عَدَالَةً فِيهِمَا ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from Muhammad Bin Isa, from Yunus, from Ibn Sinan, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> regarding a man who testified upon a testimony of another man. So the man comes over, so he said to him, ‘I did not (appoint him) as a witness (on my behalf)’. So he<sup>asws</sup> said: ‘The one who is more just from the two would be allowed (to give testimony), but if (there is only) one just (to be found), his testimony would not be allowed in fairness to both of them’."
+          ],
+          "text": "Ali Bin Ibrahim, from Muhammad Bin Isa, from Yunus, from Ibn Sinan,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> regarding a man who testified upon a testimony of another man. So the man comes over, so he said to him, ‘I did not (appoint him) as a witness (on my behalf)’. So he<sup>asws</sup> said: ‘The one who is more just from the two would be allowed (to give testimony), but if (there is only) one just (to be found), his testimony would not be allowed in fairness to both of them’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. Ali ibn Ibrahim has narrated from Muhammad ibn ‘Isa from Yunus from b Sinan who has narrated the following: “This is about the case of a man who bears testimony to the testimony of another witness but then the man says that he had not appointed him as witness. Abu ‘ Abd Allah, ‘Alayhi al-Salam, has said, ‘The testimony of the one who is more just is admissible but if such man of justice is one man then his testimony is not acceptable because of fairness for both.’” "
+          ],
+          "text": "1. Ali ibn Ibrahim has narrated from Muhammad ibn ‘Isa from Yunus from b Sinan who has narrated the following: “This is about the case of a man who bears testimony to the testimony of another witness but then the man says that he had not appointed him as witness. Abu ‘ Abd Allah, ‘Alayhi al-Salam, has said, ‘The testimony of the one who is more just is admissible but if such man of justice is one man then his testimony is not acceptable because of fairness for both.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> صحيح  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (4/255)",
+          "label": "صحيح",
+          "text": "Allamah Baqir al-Majlisi: صحيح - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (4/255)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ مُحَمَّدِ بْنِ عِيسَى عَنْ يُونُسَ عَنِ ابْنِ سِنَانٍ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) فِي",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ عِيسَى",
+            "path": "/people/narrators/27"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "يُونُسَ",
+            "path": "/people/narrators/26"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ سِنَانٍ",
+            "path": "/people/narrators/104"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " فِي"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/27",
+          "/people/narrators/26",
+          "/people/narrators/104",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/tahdhib-al-ahkam:6:90:71"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:5:20:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/5/20/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:5:20:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:5:20:2",
+        "parts": [
+          7,
+          5,
+          20,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 5,
+        "chapter": 20,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:5:20",
+        "titles": {
+          "ar": "باب",
+          "en": "Chapter 20 – A chapter"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " رَجُلٍ شَهِدَ عَلَى شَهَادَةِ رَجُلٍ فَجَاءَ الرَّجُلُ فَقَالَ لَمْ أُشْهِدْهُ فَقَالَ تَجُوزُ شَهَادَةُ أَعْدَلِهِمَا ."
+        ],
+        "text": "رَجُلٍ شَهِدَ عَلَى شَهَادَةِ رَجُلٍ فَجَاءَ الرَّجُلُ فَقَالَ لَمْ أُشْهِدْهُ فَقَالَ تَجُوزُ شَهَادَةُ أَعْدَلِهِمَا ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Al Husayn Bin Muhammad, from Moala Bin Muhammad, from Al Washa, from Aban Bin Usman, from Abdul Rahman Bin Abu Abdullah, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> regarding a man who testified upon the testimony of a man, so the man came over, so he said, ‘I did not (appoint) him as a witness’. So he<sup>asws</sup> said: ‘The testimony of the more just of the two would be acceptable’."
+          ],
+          "text": "Al Husayn Bin Muhammad, from Moala Bin Muhammad, from Al Washa, from Aban Bin Usman, from Abdul Rahman Bin Abu Abdullah,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> regarding a man who testified upon the testimony of a man, so the man came over, so he said, ‘I did not (appoint) him as a witness’. So he<sup>asws</sup> said: ‘The testimony of the more just of the two would be acceptable’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. Al-Husayn Muhammad has narrated from Mu‘alla’ ibn Muhammad from al-Washsha’ from Aban ibn ‘Uthman from ‘Abd al-Rahman ibn abu ‘Abd Allah who has narrated the following: “About the case of a man who bears testimony to the testimony of a witness but then the man says that he had not appointed him as witness, abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘The testimony of the one who is more just is admissible.”’ "
+          ],
+          "text": "2. Al-Husayn Muhammad has narrated from Mu‘alla’ ibn Muhammad from al-Washsha’ from Aban ibn ‘Uthman from ‘Abd al-Rahman ibn abu ‘Abd Allah who has narrated the following: “About the case of a man who bears testimony to the testimony of a witness but then the man says that he had not appointed him as witness, abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘The testimony of the one who is more just is admissible.”’"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (4/256)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (4/256)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "الْحُسَيْنُ بْنُ مُحَمَّدٍ عَنْ مُعَلَّى بْنِ مُحَمَّدٍ عَنِ الْوَشَّاءِ عَنْ أَبَانِ بْنِ عُثْمَانَ عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي عَبْدِ اللَّهِ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) فِي",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "الْحُسَيْنُ بْنُ مُحَمَّدٍ",
+            "path": "/people/narrators/20"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُعَلَّى بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/25"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْوَشَّاءِ",
+            "path": "/people/narrators/61"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبَانِ بْنِ عُثْمَانَ",
+            "path": "/people/narrators/52"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَبْدِ الرَّحْمَنِ بْنِ أَبِي عَبْدِ اللَّهِ",
+            "path": "/people/narrators/102"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " فِي"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/20",
+          "/people/narrators/25",
+          "/people/narrators/61",
+          "/people/narrators/52",
+          "/people/narrators/102",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:6:7:16:1",
+          "/books/al-kafi:7:5:13:10"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:5:20:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/5/20/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "id": 823,
+  "type": "narrator",
+  "path": "/people/narrators/823",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ مُيَسِّرٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:3:15:2",
+    "/books/al-kafi:3:3:78:3",
+    "/books/al-kafi:4:3:139:11",
+    "/books/al-kafi:5:2:112:8",
+    "/books/al-kafi:5:2:93:15",
+    "/books/man-la-yahduruhu-al-faqih:3:2:21:51",
+    "/books/tahdhib-al-ahkam:1:39:5",
+    "/books/tahdhib-al-ahkam:5:9:115",
+    "/books/tahdhib-al-ahkam:7:6:17",
+    "/books/tahdhib-al-ahkam:8:10:105"
+  ],
+  "verseCount": 10,
+  "relations": {},
+  "subchains": {
+    "1705-823": {
+      "narrator_ids": [
+        1705,
+        823
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:15:2",
+        "/books/al-kafi:3:3:78:3",
+        "/books/tahdhib-al-ahkam:1:39:5"
+      ]
+    },
+    "3-2-7-823": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        823
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:112:8"
+      ]
+    },
+    "4-59-277-770-1705-823-329-34-669": {
+      "narrator_ids": [
+        4,
+        59,
+        277,
+        770,
+        1705,
+        823,
+        329,
+        34,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:15:2",
+        "/books/al-kafi:3:3:78:3",
+        "/books/tahdhib-al-ahkam:1:39:5"
+      ]
+    },
+    "4-78-59-277-4451-823-665-669-662-50": {
+      "narrator_ids": [
+        4,
+        78,
+        59,
+        277,
+        4451,
+        823,
+        665,
+        669,
+        662,
+        50
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:139:11"
+      ]
+    },
+    "4134-277-4451-823-665-669-2-662-50": {
+      "narrator_ids": [
+        4134,
+        277,
+        4451,
+        823,
+        665,
+        669,
+        2,
+        662,
+        50
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:9:115"
+      ]
+    },
+    "4286-189-7-823-669": {
+      "narrator_ids": [
+        4286,
+        189,
+        7,
+        823,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:8:10:105"
+      ]
+    },
+    "4451-823": {
+      "narrator_ids": [
+        4451,
+        823
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:139:11",
+        "/books/tahdhib-al-ahkam:5:9:115"
+      ]
+    },
+    "476-823": {
+      "narrator_ids": [
+        476,
+        823
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:93:15",
+        "/books/tahdhib-al-ahkam:7:6:17"
+      ]
+    },
+    "6-8-476-823-2-669": {
+      "narrator_ids": [
+        6,
+        8,
+        476,
+        823,
+        2,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:93:15"
+      ]
+    },
+    "7-823": {
+      "narrator_ids": [
+        7,
+        823
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:112:8",
+        "/books/tahdhib-al-ahkam:8:10:105"
+      ]
+    },
+    "8-476-823-2-669": {
+      "narrator_ids": [
+        8,
+        476,
+        823,
+        2,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:6:17"
+      ]
+    },
+    "823-2": {
+      "narrator_ids": [
+        823,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:93:15",
+        "/books/tahdhib-al-ahkam:7:6:17"
+      ]
+    },
+    "823-329": {
+      "narrator_ids": [
+        823,
+        329
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:15:2",
+        "/books/al-kafi:3:3:78:3",
+        "/books/tahdhib-al-ahkam:1:39:5"
+      ]
+    },
+    "823-665": {
+      "narrator_ids": [
+        823,
+        665
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:139:11",
+        "/books/tahdhib-al-ahkam:5:9:115"
+      ]
+    },
+    "823-669": {
+      "narrator_ids": [
+        823,
+        669
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:3:2:21:51",
+        "/books/tahdhib-al-ahkam:8:10:105"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/823",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/823.json"
+  }
+}

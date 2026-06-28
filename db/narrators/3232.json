@@ -1,0 +1,44 @@
+{
+  "id": 3232,
+  "type": "narrator",
+  "path": "/people/narrators/3232",
+  "titles": {
+    "ar": "رَجُلٍ مِنْ طَبَرِسْتَانَ يُقَالُ لَهُ مُحَمَّدٌ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:104:9"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "35-8-350-362-3232": {
+      "narrator_ids": [
+        35,
+        8,
+        350,
+        362,
+        3232
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:104:9"
+      ]
+    },
+    "362-3232": {
+      "narrator_ids": [
+        362,
+        3232
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:104:9"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3232",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3232.json"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": 4430,
+  "type": "narrator",
+  "path": "/people/narrators/4430",
+  "titles": {
+    "ar": "مِهْرَانَ بْنِ مُحَمَّدِ بْنِ أَبِي نَصْرٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:31:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "4-59-617-2-41-4430-669": {
+      "narrator_ids": [
+        4,
+        59,
+        617,
+        2,
+        41,
+        4430,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:31:5"
+      ]
+    },
+    "41-4430": {
+      "narrator_ids": [
+        41,
+        4430
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:31:5"
+      ]
+    },
+    "4430-669": {
+      "narrator_ids": [
+        4430,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:31:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4430",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4430.json"
+  }
+}

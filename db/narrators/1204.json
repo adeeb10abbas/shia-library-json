@@ -1,0 +1,100 @@
+{
+  "id": 1204,
+  "type": "narrator",
+  "path": "/people/narrators/1204",
+  "titles": {
+    "ar": "مُنْذِرِ بْنِ يَزِيدَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:145:2",
+    "/books/al-kafi:4:2:1:17",
+    "/books/al-kafi:4:2:1:8"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "104-1204": {
+      "narrator_ids": [
+        104,
+        1204
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:145:2"
+      ]
+    },
+    "11-5-104-1204-221": {
+      "narrator_ids": [
+        11,
+        5,
+        104,
+        1204,
+        221
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:145:2"
+      ]
+    },
+    "1204-221": {
+      "narrator_ids": [
+        1204,
+        221
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:145:2"
+      ]
+    },
+    "1204-342": {
+      "narrator_ids": [
+        1204,
+        342
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:1:17",
+        "/books/al-kafi:4:2:1:8"
+      ]
+    },
+    "42-1204": {
+      "narrator_ids": [
+        42,
+        1204
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:1:17",
+        "/books/al-kafi:4:2:1:8"
+      ]
+    },
+    "6-8-169-42-1204-342": {
+      "narrator_ids": [
+        6,
+        8,
+        169,
+        42,
+        1204,
+        342
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:1:17"
+      ]
+    },
+    "6-8-42-1204-342": {
+      "narrator_ids": [
+        6,
+        8,
+        42,
+        1204,
+        342
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:1:8"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1204",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1204.json"
+  }
+}

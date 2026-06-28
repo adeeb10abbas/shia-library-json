@@ -1,0 +1,54 @@
+{
+  "id": 4428,
+  "type": "narrator",
+  "path": "/people/narrators/4428",
+  "titles": {
+    "ar": "مِهْرَانَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:43:45"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "4-29-758-4428-148-3685": {
+      "narrator_ids": [
+        4,
+        29,
+        758,
+        4428,
+        148,
+        3685
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:45"
+      ]
+    },
+    "4428-148": {
+      "narrator_ids": [
+        4428,
+        148
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:45"
+      ]
+    },
+    "758-4428": {
+      "narrator_ids": [
+        758,
+        4428
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:45"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4428",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4428.json"
+  }
+}

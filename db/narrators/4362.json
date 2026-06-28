@@ -1,0 +1,54 @@
+{
+  "id": 4362,
+  "type": "narrator",
+  "path": "/people/narrators/4362",
+  "titles": {
+    "ar": "مِسْكِينِ بْنِ أَبِي الْحَكَمِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:8:30:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "15-4362": {
+      "narrator_ids": [
+        15,
+        4362
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:30:2"
+      ]
+    },
+    "4-5-15-4362-60-669": {
+      "narrator_ids": [
+        4,
+        5,
+        15,
+        4362,
+        60,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:30:2"
+      ]
+    },
+    "4362-60": {
+      "narrator_ids": [
+        4362,
+        60
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:30:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4362",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4362.json"
+  }
+}

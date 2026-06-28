@@ -1,0 +1,56 @@
+{
+  "id": 2632,
+  "type": "narrator",
+  "path": "/people/narrators/2632",
+  "titles": {
+    "ar": "الْحُسَيْنِ بْنِ ضَمْرَةَ بْنِ أَبِي ضَمْرَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:6:19:19"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "20-25-333-100-2431-2632-2-253": {
+      "narrator_ids": [
+        20,
+        25,
+        333,
+        100,
+        2431,
+        2632,
+        2,
+        253
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:6:19:19"
+      ]
+    },
+    "2431-2632": {
+      "narrator_ids": [
+        2431,
+        2632
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:6:19:19"
+      ]
+    },
+    "2632-2": {
+      "narrator_ids": [
+        2632,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:6:19:19"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2632",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2632.json"
+  }
+}

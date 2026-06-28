@@ -1,0 +1,54 @@
+{
+  "id": 3835,
+  "type": "narrator",
+  "path": "/people/narrators/3835",
+  "titles": {
+    "ar": "عَمَّارِ بْنِ أَبِي الْيَقْظَانِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:82:10"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "19-24-244-319-3835-148": {
+      "narrator_ids": [
+        19,
+        24,
+        244,
+        319,
+        3835,
+        148
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:82:10"
+      ]
+    },
+    "319-3835": {
+      "narrator_ids": [
+        319,
+        3835
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:82:10"
+      ]
+    },
+    "3835-148": {
+      "narrator_ids": [
+        3835,
+        148
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:82:10"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3835",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3835.json"
+  }
+}

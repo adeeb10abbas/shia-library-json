@@ -1,0 +1,55 @@
+{
+  "id": 3510,
+  "type": "narrator",
+  "path": "/people/narrators/3510",
+  "titles": {
+    "ar": "عَبْدِ الرَّحِيمِ بْنِ رَوْحٍ الْقَصِيرِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:64:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3510-9": {
+      "narrator_ids": [
+        3510,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:64:2"
+      ]
+    },
+    "4-13-2-76-51-3510-9": {
+      "narrator_ids": [
+        4,
+        13,
+        2,
+        76,
+        51,
+        3510,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:64:2"
+      ]
+    },
+    "51-3510": {
+      "narrator_ids": [
+        51,
+        3510
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:64:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3510",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3510.json"
+  }
+}

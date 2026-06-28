@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:4:25",
+  "chapter": {
+    "path": "/books/al-khisal:4:25",
+    "titles": {
+      "en": "The Best Three People"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:4:25:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:4:25:1",
+        "parts": [
+          4,
+          25,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 25,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:4:25",
+        "titles": {
+          "en": "The Best Three People"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا عبد الله بن جعفر الحميري، عن أحمد بن أبي عبد الله، عن أبيه، عن عبد الله بن الفضل النوفلي، عن عيسى بن عبد الله الهاشمي، عن أبي خالد محمد بن سليمان، عن رجل، عن ابن المنكدر باسناده قال: قال رسول الله صلى الله عليه وآله: خيركم من أطعم الطعام، وأفشى السلام وصلى والناس نيام"
+        ],
+        "text": ": حدثنا عبد الله بن جعفر الحميري، عن أحمد بن أبي عبد الله، عن أبيه، عن عبد الله بن الفضل النوفلي، عن عيسى بن عبد الله الهاشمي، عن أبي خالد محمد بن سليمان، عن رجل، عن ابن المنكدر باسناده قال: قال رسول الله صلى الله عليه وآله: خيركم من أطعم الطعام، وأفشى السلام وصلى والناس نيام"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "3-32 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Abdullah ibn Ja’far al-Homayry quoted Ahmad ibn Aba Abdullah, on the authority of his father, on the authority of Abdullah ibn al-Fazl al-Nawfaly, on the authority of Isa ibn Abdullah al-Hashemi, on the authority of Abi Khalid Muhammad ibn Suleiman, on the authority of someone, on the authority of Ibn al-Munkadir who linked it up through documents to God’s Prophet (MGB) who said, “The best of you are those who feed (the needy), greet aloud, and pray (at night) when others are asleep.”"
+          ],
+          "text": "3-32 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Abdullah ibn Ja’far al-Homayry quoted Ahmad ibn Aba Abdullah, on the authority of his father, on the authority of Abdullah ibn al-Fazl al-Nawfaly, on the authority of Isa ibn Abdullah al-Hashemi, on the authority of Abi Khalid Muhammad ibn Suleiman, on the authority of someone, on the authority of Ibn al-Munkadir who linked it up through documents to God’s Prophet (MGB) who said, “The best of you are those who feed (the needy), greet aloud, and pray (at night) when others are asleep.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "3-32 حدثنا أبي رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "3-32 حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي رضي الله عنه قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:4:25:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/4/25/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/4/25/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

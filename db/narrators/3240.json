@@ -1,0 +1,51 @@
+{
+  "id": 3240,
+  "type": "narrator",
+  "path": "/people/narrators/3240",
+  "titles": {
+    "ar": "رُزَيْقٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:40:13"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "143-3240": {
+      "narrator_ids": [
+        143,
+        3240
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:40:13"
+      ]
+    },
+    "143-3240-669": {
+      "narrator_ids": [
+        143,
+        3240,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:40:13"
+      ]
+    },
+    "3240-669": {
+      "narrator_ids": [
+        3240,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:40:13"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3240",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3240.json"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": 2251,
+  "type": "narrator",
+  "path": "/people/narrators/2251",
+  "titles": {
+    "ar": "أَبِيهِ عُبَيْدٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:1:39:8"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "340-2251": {
+      "narrator_ids": [
+        340,
+        2251
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:39:8"
+      ]
+    },
+    "6-5-340-2251": {
+      "narrator_ids": [
+        6,
+        5,
+        340,
+        2251
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:39:8"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2251",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2251.json"
+  }
+}

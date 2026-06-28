@@ -1,0 +1,42 @@
+{
+  "id": 3316,
+  "type": "narrator",
+  "path": "/people/narrators/3316",
+  "titles": {
+    "ar": "سَعْدِ بْنِ زَيْدٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:2:48:29"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-205-3316": {
+      "narrator_ids": [
+        11,
+        205,
+        3316
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:48:29"
+      ]
+    },
+    "205-3316": {
+      "narrator_ids": [
+        205,
+        3316
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:48:29"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3316",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3316.json"
+  }
+}

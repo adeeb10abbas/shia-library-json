@@ -1,0 +1,303 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:3:1:20",
+  "chapter": {
+    "path": "/books/al-kafi:3:1:20",
+    "titles": {
+      "ar": "باب مَسْحِ الْخُفِّ",
+      "en": "Chapter 20 – Wiping (over) the shoes"
+    }
+  },
+  "count": 2,
+  "records": [
+    {
+      "id": "al-kafi:3:1:20:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:3:1:20:1",
+        "parts": [
+          3,
+          1,
+          20,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 1,
+        "chapter": 20,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:3:1:20",
+        "titles": {
+          "ar": "باب مَسْحِ الْخُفِّ",
+          "en": "Chapter 20 – Wiping (over) the shoes"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَأَلْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) عَنِ الْمَرِيضِ هَلْ لَهُ رُخْصَةٌ فِي الْمَسْحِ قَالَ لَا ."
+        ],
+        "text": "سَأَلْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) عَنِ الْمَرِيضِ هَلْ لَهُ رُخْصَةٌ فِي الْمَسْحِ قَالَ لَا ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Ahmad Bin Muhammad, from Al Husayn Bin Saeed, from Fazalat Bin Ayoub, from Aban, from Is’haq Bin Ammar who said, ",
+            "‘I asked Abu Abdullah<sup>asws</sup> about the sick, ‘Is it permitted for him with regards to (neglecting) the wiping?’ He<sup>asws</sup> said: ‘No’."
+          ],
+          "text": "A number of our companions, from Ahmad Bin Muhammad, from Al Husayn Bin Saeed, from Fazalat Bin Ayoub, from Aban, from Is’haq Bin Ammar who said,\n\n‘I asked Abu Abdullah<sup>asws</sup> about the sick, ‘Is it permitted for him with regards to (neglecting) the wiping?’ He<sup>asws</sup> said: ‘No’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. A number of our people have narrated from Ahmad ibn Muhammad from al-Husayn ibn Sa‘id from Fadalah ibn Ayyub from Aban from Ishaq ibn ‘Ammar who has said the following: “I once asked abu ’Abd Allah, ‘Alayhi al-Salam, about the case of one suffering from illness if it is permissible for him to wipe for Wudu’. He (the Imam) said, ’No, it is not permissible.’” "
+          ],
+          "text": "1. A number of our people have narrated from Ahmad ibn Muhammad from al-Husayn ibn Sa‘id from Fadalah ibn Ayyub from Aban from Ishaq ibn ‘Ammar who has said the following: “I once asked abu ’Abd Allah, ‘Alayhi al-Salam, about the case of one suffering from illness if it is permissible for him to wipe for Wudu’. He (the Imam) said, ’No, it is not permissible.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> موثق   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (13/106)",
+          "label": "موثق",
+          "text": "Allamah Baqir al-Majlisi: موثق - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (13/106)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنِ الْحُسَيْنِ بْنِ سَعِيدٍ عَنْ فَضَالَةَ بْنِ أَيُّوبَ عَنْ أَبَانٍ عَنْ إِسْحَاقَ بْنِ عَمَّارٍ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحُسَيْنِ بْنِ سَعِيدٍ",
+            "path": "/people/narrators/21"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "فَضَالَةَ بْنِ أَيُّوبَ",
+            "path": "/people/narrators/69"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبَانٍ",
+            "path": "/people/narrators/46"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "إِسْحَاقَ بْنِ عَمَّارٍ",
+            "path": "/people/narrators/44"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/5",
+          "/people/narrators/21",
+          "/people/narrators/69",
+          "/people/narrators/46",
+          "/people/narrators/44"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:3:1:20:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/3/1/20/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:3:1:20:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:3:1:20:2",
+        "parts": [
+          3,
+          1,
+          20,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 1,
+        "chapter": 20,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:3:1:20",
+        "titles": {
+          "ar": "باب مَسْحِ الْخُفِّ",
+          "en": "Chapter 20 – Wiping (over) the shoes"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قُلْتُ لَهُ فِي مَسْحِ الْخُفَّيْنِ تَقِيَّةٌ فَقَالَ ثَلَاثَةٌ لَا أَتَّقِي فِيهِنَّ أَحَداً شُرْبُ الْمُسْكِرِ وَ مَسْحُ الْخُفَّيْنِ وَ مُتْعَةُ الْحَجِّ ",
+          "قَالَ زُرَارَةُ وَ لَمْ يَقُلْ الْوَاجِبُ عَلَيْكُمْ أَلَّا تَتَّقُوا فِيهِنَّ أَحَداً ."
+        ],
+        "text": "قُلْتُ لَهُ فِي مَسْحِ الْخُفَّيْنِ تَقِيَّةٌ فَقَالَ ثَلَاثَةٌ لَا أَتَّقِي فِيهِنَّ أَحَداً شُرْبُ الْمُسْكِرِ وَ مَسْحُ الْخُفَّيْنِ وَ مُتْعَةُ الْحَجِّ\n\nقَالَ زُرَارَةُ وَ لَمْ يَقُلْ الْوَاجِبُ عَلَيْكُمْ أَلَّا تَتَّقُوا فِيهِنَّ أَحَداً ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father, from Hammad, from Hareyz, from Zurara who said, ",
+            "‘I said to him<sup>asws</sup>, ‘With regards to the wiping (over) the two shoes, can there be dissimulation?’ So he<sup>asws</sup> said: ‘There are three (acts in religion), there should be no dissimulation with regards to these – one is drinking the wine, and wiping the two shoes/socks, and <span class=\"iTxt\">Tumatto</span> of the Hajj’. ",
+            "Zurara said, ‘And he<sup>asws</sup> did not say: ‘It is an Obligation upon you that you would not be acting in dissimulation with regards to these with anyone’."
+          ],
+          "text": "Ali Bin Ibrahim, from his father, from Hammad, from Hareyz, from Zurara who said,\n\n‘I said to him<sup>asws</sup>, ‘With regards to the wiping (over) the two shoes, can there be dissimulation?’ So he<sup>asws</sup> said: ‘There are three (acts in religion), there should be no dissimulation with regards to these – one is drinking the wine, and wiping the two shoes/socks, and <span class=\"iTxt\">Tumatto</span> of the Hajj’.\n\nZurara said, ‘And he<sup>asws</sup> did not say: ‘It is an Obligation upon you that you would not be acting in dissimulation with regards to these with anyone’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. Ali ibn Ibrahim has narrated from his father from Hammad from Hariz from Zurarah who has said the following: “I once asked him (the Imam), ‘Alayhi al-Salam, about wiping for Wudu’ over one’s shoes because of Taqiyyah (fear). He (the Imam) said, ‘I do not practice Taqiyyah before anyone in three things: Drinking intoxicating liquor, wiping for Wudu’ over the shoes and in Mut’ah during Hajj.’ Zurarah has said that he (the Imam) did not say, ‘It is obligatory on you to disregard Taqiyyah before anyone.’” "
+          ],
+          "text": "2. Ali ibn Ibrahim has narrated from his father from Hammad from Hariz from Zurarah who has said the following: “I once asked him (the Imam), ‘Alayhi al-Salam, about wiping for Wudu’ over one’s shoes because of Taqiyyah (fear). He (the Imam) said, ‘I do not practice Taqiyyah before anyone in three things: Drinking intoxicating liquor, wiping for Wudu’ over the shoes and in Mut’ah during Hajj.’ Zurarah has said that he (the Imam) did not say, ‘It is obligatory on you to disregard Taqiyyah before anyone.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> حسن   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (13/106)",
+          "label": "حسن",
+          "text": "Allamah Baqir al-Majlisi: حسن - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (13/106)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنْ حَمَّادٍ عَنْ حَرِيزٍ عَنْ زُرَارَةَ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "حَمَّادٍ",
+            "path": "/people/narrators/23"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "حَرِيزٍ",
+            "path": "/people/narrators/40"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "زُرَارَةَ",
+            "path": "/people/narrators/18"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/23",
+          "/people/narrators/40",
+          "/people/narrators/18"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:3:1:19:8",
+          "/books/al-kafi:3:1:23:6",
+          "/books/al-kafi:3:3:10:3",
+          "/books/al-kafi:3:4:50:6",
+          "/books/al-kafi:3:4:59:16",
+          "/books/al-kafi:3:4:78:7",
+          "/books/al-kafi:3:5:11:6",
+          "/books/al-kafi:4:3:103:1",
+          "/books/al-kafi:5:2:111:7",
+          "/books/al-kafi:6:7:14:3",
+          "/books/tahdhib-al-ahkam:2:17:41",
+          "/books/tahdhib-al-ahkam:3:26:75",
+          "/books/tahdhib-al-ahkam:7:16:2"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:3:1:20:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/3/1/20/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": 2326,
+  "type": "narrator",
+  "path": "/people/narrators/2326",
+  "titles": {
+    "ar": "أَحْمَدَ بْنِ مُحَسِّنٍ الْمِيثَمِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:3:1:2",
+    "/books/al-tawhid:2:9:4"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "12-1519-2326": {
+      "narrator_ids": [
+        12,
+        1519,
+        2326
+      ],
+      "verse_paths": [
+        "/books/al-tawhid:2:9:4"
+      ]
+    },
+    "1519-2326": {
+      "narrator_ids": [
+        1519,
+        2326
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:1:2",
+        "/books/al-tawhid:2:9:4"
+      ]
+    },
+    "6-12-67-1519-2326": {
+      "narrator_ids": [
+        6,
+        12,
+        67,
+        1519,
+        2326
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:1:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2326",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2326.json"
+  }
+}

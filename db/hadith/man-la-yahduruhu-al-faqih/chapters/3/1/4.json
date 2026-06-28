@@ -1,0 +1,104 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "man-la-yahduruhu-al-faqih",
+  "chapterPath": "/books/man-la-yahduruhu-al-faqih:3:1:4",
+  "chapter": {
+    "path": "/books/man-la-yahduruhu-al-faqih:3:1:4",
+    "titles": {
+      "en": "Chapter on Compensation for judges' Errors"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "man-la-yahduruhu-al-faqih:3:1:4:1",
+      "type": "hadith",
+      "book": {
+        "slug": "man-la-yahduruhu-al-faqih",
+        "titles": {
+          "ar": "من لا يحضره الفقيه",
+          "en": "Man La Yahduruhu al-Faqih"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/man-la-yahduruhu-al-faqih:3:1:4:1",
+        "parts": [
+          3,
+          1,
+          4,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 1,
+        "chapter": 4,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/man-la-yahduruhu-al-faqih:3:1:4",
+        "titles": {
+          "en": "Chapter on Compensation for judges' Errors"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " : قَضَى أَمِيرُ اَلْمُؤْمِنِينَ عَلَيْهِ اَلسَّلاَمُ أَنَّ مَا أَخْطَأَتِ اَلْقُضَاةُ فِي دَمٍ أَوْ قَطْعٍ فَهُوَ عَلَى بَيْتِ مَالِ اَلْمُسْلِمِينَ."
+        ],
+        "text": ": قَضَى أَمِيرُ اَلْمُؤْمِنِينَ عَلَيْهِ اَلسَّلاَمُ أَنَّ مَا أَخْطَأَتِ اَلْقُضَاةُ فِي دَمٍ أَوْ قَطْعٍ فَهُوَ عَلَى بَيْتِ مَالِ اَلْمُسْلِمِينَ."
+      },
+      "translations": {
+        "en.bab-ul-qaim-publications": {
+          "segments": [
+            "Hadith.3231 - It is narrated from Al-Asbagh ibn Nubatah that he said:\nCommander of the Faithful Imam Ali ibn Abi Talib (as) ruled that any error made by judges concerning bloodshed or amputation is to be compensated from the public treasury of the Muslims."
+          ],
+          "text": "Hadith.3231 - It is narrated from Al-Asbagh ibn Nubatah that he said:\nCommander of the Faithful Imam Ali ibn Abi Talib (as) ruled that any error made by judges concerning bloodshed or amputation is to be compensated from the public treasury of the Muslims."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "3231 - رُوِيَ عَنِ اَلْأَصْبَغِ بْنِ نُبَاتَةَ أَنَّهُ قَالَ",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "3231 - "
+          },
+          {
+            "kind": "narrator",
+            "text": "رُوِيَ",
+            "path": "/people/narrators/404"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "اَلْأَصْبَغِ بْنِ نُبَاتَةَ أَنَّهُ",
+            "path": "/people/narrators/322"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/404",
+          "/people/narrators/322"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/man-la-yahduruhu-al-faqih:3:1:4:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/man-la-yahduruhu-al-faqih/3/1/4/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/34/1/8/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

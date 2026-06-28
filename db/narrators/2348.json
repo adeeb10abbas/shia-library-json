@@ -1,0 +1,157 @@
+{
+  "id": 2348,
+  "type": "narrator",
+  "path": "/people/narrators/2348",
+  "titles": {
+    "ar": "أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى الْأَشْعَرِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:3:14:1",
+    "/books/kamil-al-ziyarat:2:48:3",
+    "/books/kitab-al-ghayba-tusi:33:30",
+    "/books/kitab-al-ghayba-tusi:38:9",
+    "/books/mujam-al-ahadith-al-mutabara:4:6:2"
+  ],
+  "verseCount": 5,
+  "relations": {},
+  "subchains": {
+    "2-2348": {
+      "narrator_ids": [
+        2,
+        2348
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:33:30"
+      ]
+    },
+    "2-2348-39": {
+      "narrator_ids": [
+        2,
+        2348,
+        39
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:33:30"
+      ]
+    },
+    "2348-15": {
+      "narrator_ids": [
+        2348,
+        15
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:48:3"
+      ]
+    },
+    "2348-2631": {
+      "narrator_ids": [
+        2348,
+        2631
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:14:1"
+      ]
+    },
+    "2348-39": {
+      "narrator_ids": [
+        2348,
+        39
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:33:30"
+      ]
+    },
+    "2348-42": {
+      "narrator_ids": [
+        2348,
+        42
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:38:9"
+      ]
+    },
+    "2348-42-497-425": {
+      "narrator_ids": [
+        2348,
+        42,
+        497,
+        425
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:38:9"
+      ]
+    },
+    "2348-65": {
+      "narrator_ids": [
+        2348,
+        65
+      ],
+      "verse_paths": [
+        "/books/mujam-al-ahadith-al-mutabara:4:6:2"
+      ]
+    },
+    "2348-65-79": {
+      "narrator_ids": [
+        2348,
+        65,
+        79
+      ],
+      "verse_paths": [
+        "/books/mujam-al-ahadith-al-mutabara:4:6:2"
+      ]
+    },
+    "312-2348": {
+      "narrator_ids": [
+        312,
+        2348
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:48:3"
+      ]
+    },
+    "601-2348": {
+      "narrator_ids": [
+        601,
+        2348
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:14:1"
+      ]
+    },
+    "601-2348-2631-65-79-669": {
+      "narrator_ids": [
+        601,
+        2348,
+        2631,
+        65,
+        79,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:14:1"
+      ]
+    },
+    "613-1307-312-2348-15-36-669": {
+      "narrator_ids": [
+        613,
+        1307,
+        312,
+        2348,
+        15,
+        36,
+        669
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:48:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2348",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2348.json"
+  }
+}

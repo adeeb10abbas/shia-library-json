@@ -1,0 +1,96 @@
+{
+  "id": 1206,
+  "type": "narrator",
+  "path": "/people/narrators/1206",
+  "titles": {
+    "ar": "مِهْزَمٍ الْأَسَدِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:99:27",
+    "/books/al-kafi:6:8:42:5",
+    "/books/al-kafi:6:8:56:6"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "1098-1206": {
+      "narrator_ids": [
+        1098,
+        1206
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:99:27"
+      ]
+    },
+    "1206-669": {
+      "narrator_ids": [
+        1206,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:56:6"
+      ]
+    },
+    "1330-1206": {
+      "narrator_ids": [
+        1330,
+        1206
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:42:5",
+        "/books/al-kafi:6:8:56:6"
+      ]
+    },
+    "3-27-26-1205-36-67-4138-19-187-292-1098-1206": {
+      "narrator_ids": [
+        3,
+        27,
+        26,
+        1205,
+        36,
+        67,
+        4138,
+        19,
+        187,
+        292,
+        1098,
+        1206
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:99:27"
+      ]
+    },
+    "6-12-2-1330-1206-669": {
+      "narrator_ids": [
+        6,
+        12,
+        2,
+        1330,
+        1206,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:56:6"
+      ]
+    },
+    "8-27-1330-1206": {
+      "narrator_ids": [
+        8,
+        27,
+        1330,
+        1206
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:42:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1206",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1206.json"
+  }
+}

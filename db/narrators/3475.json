@@ -1,0 +1,45 @@
+{
+  "id": 3475,
+  "type": "narrator",
+  "path": "/people/narrators/3475",
+  "titles": {
+    "ar": "عَبْدِ الْحَمِيدِ بْنِ أَبِي الْعَلَاءِ الْأَزْدِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:13:12"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "20-25-227-69-2096-3475": {
+      "narrator_ids": [
+        20,
+        25,
+        227,
+        69,
+        2096,
+        3475
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:13:12"
+      ]
+    },
+    "2096-3475": {
+      "narrator_ids": [
+        2096,
+        3475
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:13:12"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3475",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3475.json"
+  }
+}

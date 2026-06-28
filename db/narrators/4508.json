@@ -1,0 +1,53 @@
+{
+  "id": 4508,
+  "type": "narrator",
+  "path": "/people/narrators/4508",
+  "titles": {
+    "ar": "هُوَ الْعَاصِمِيُّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:2:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1304-4508": {
+      "narrator_ids": [
+        1304,
+        4508
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:2:2"
+      ]
+    },
+    "1304-4508-3633-4145-206": {
+      "narrator_ids": [
+        1304,
+        4508,
+        3633,
+        4145,
+        206
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:2:2"
+      ]
+    },
+    "4508-3633": {
+      "narrator_ids": [
+        4508,
+        3633
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:2:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4508",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4508.json"
+  }
+}

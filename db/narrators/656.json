@@ -1,0 +1,226 @@
+{
+  "id": 656,
+  "type": "narrator",
+  "path": "/people/narrators/656",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ مُرَازِمٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:4:21:3",
+    "/books/al-kafi:4:2:6:11",
+    "/books/al-kafi:5:2:159:29",
+    "/books/al-kafi:5:2:18:5",
+    "/books/al-kafi:5:2:60:2",
+    "/books/al-kafi:8:1:18:9",
+    "/books/al-kafi:8:1:37:10",
+    "/books/man-la-yahduruhu-al-faqih:2:2:15:9",
+    "/books/tahdhib-al-ahkam:4:40:54",
+    "/books/tahdhib-al-ahkam:7:1:46"
+  ],
+  "verseCount": 10,
+  "relations": {},
+  "subchains": {
+    "101-656": {
+      "narrator_ids": [
+        101,
+        656
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:6:11",
+        "/books/al-kafi:5:2:159:29",
+        "/books/al-kafi:5:2:18:5",
+        "/books/al-kafi:5:2:60:2",
+        "/books/al-kafi:8:1:37:10",
+        "/books/tahdhib-al-ahkam:4:40:54",
+        "/books/tahdhib-al-ahkam:7:1:46"
+      ]
+    },
+    "11-101-656-60-44": {
+      "narrator_ids": [
+        11,
+        101,
+        656,
+        60,
+        44
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:60:2"
+      ]
+    },
+    "11-5-656-2": {
+      "narrator_ids": [
+        11,
+        5,
+        656,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:18:9"
+      ]
+    },
+    "183-297-101-656-2": {
+      "narrator_ids": [
+        183,
+        297,
+        101,
+        656,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:18:5"
+      ]
+    },
+    "355-101-656-2-669": {
+      "narrator_ids": [
+        355,
+        101,
+        656,
+        2,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:4:40:54"
+      ]
+    },
+    "5-101-656-60-44": {
+      "narrator_ids": [
+        5,
+        101,
+        656,
+        60,
+        44
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:1:46"
+      ]
+    },
+    "5-656": {
+      "narrator_ids": [
+        5,
+        656
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:18:9"
+      ]
+    },
+    "50-2-7-656-2112-669": {
+      "narrator_ids": [
+        50,
+        2,
+        7,
+        656,
+        2112,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:21:3"
+      ]
+    },
+    "656-1729": {
+      "narrator_ids": [
+        656,
+        1729
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:37:10"
+      ]
+    },
+    "656-2": {
+      "narrator_ids": [
+        656,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:6:11",
+        "/books/al-kafi:5:2:18:5",
+        "/books/al-kafi:8:1:18:9",
+        "/books/man-la-yahduruhu-al-faqih:2:2:15:9",
+        "/books/tahdhib-al-ahkam:4:40:54"
+      ]
+    },
+    "656-2-669": {
+      "narrator_ids": [
+        656,
+        2,
+        669
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:2:2:15:9"
+      ]
+    },
+    "656-2112": {
+      "narrator_ids": [
+        656,
+        2112
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:21:3"
+      ]
+    },
+    "656-60": {
+      "narrator_ids": [
+        656,
+        60
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:159:29",
+        "/books/al-kafi:5:2:60:2",
+        "/books/tahdhib-al-ahkam:7:1:46"
+      ]
+    },
+    "7-656": {
+      "narrator_ids": [
+        7,
+        656
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:21:3"
+      ]
+    },
+    "8-101-656-1729-31": {
+      "narrator_ids": [
+        8,
+        101,
+        656,
+        1729,
+        31
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:37:10"
+      ]
+    },
+    "8-101-656-60-44": {
+      "narrator_ids": [
+        8,
+        101,
+        656,
+        60,
+        44
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:159:29"
+      ]
+    },
+    "97-59-101-656-2-669": {
+      "narrator_ids": [
+        97,
+        59,
+        101,
+        656,
+        2,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:6:11"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/656",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/656.json"
+  }
+}

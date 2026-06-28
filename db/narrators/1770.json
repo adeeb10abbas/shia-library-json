@@ -1,0 +1,46 @@
+{
+  "id": 1770,
+  "type": "narrator",
+  "path": "/people/narrators/1770",
+  "titles": {
+    "ar": "9ـ سَعْدُ بْنُ عَبْدِ الله وَعَبْدُ الله بْنُ جَعْفَرٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:120:10"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1770-377": {
+      "narrator_ids": [
+        1770,
+        377
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:120:10"
+      ]
+    },
+    "1770-377-459-21-42-51-14": {
+      "narrator_ids": [
+        1770,
+        377,
+        459,
+        21,
+        42,
+        51,
+        14
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:120:10"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1770",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1770.json"
+  }
+}

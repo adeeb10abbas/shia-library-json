@@ -1,0 +1,45 @@
+{
+  "id": 3902,
+  "type": "narrator",
+  "path": "/people/narrators/3902",
+  "titles": {
+    "ar": "عَمْرِو بْنِ هِلَالٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:63:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "170-3902": {
+      "narrator_ids": [
+        170,
+        3902
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:63:1"
+      ]
+    },
+    "4-13-42-238-170-3902": {
+      "narrator_ids": [
+        4,
+        13,
+        42,
+        238,
+        170,
+        3902
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:63:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3902",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3902.json"
+  }
+}

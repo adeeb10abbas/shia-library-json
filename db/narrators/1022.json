@@ -1,0 +1,132 @@
+{
+  "id": 1022,
+  "type": "narrator",
+  "path": "/people/narrators/1022",
+  "titles": {
+    "ar": "الْحَارِثِ بْنِ حَصِيرَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:100:2",
+    "/books/al-kafi:3:1:28:5",
+    "/books/al-kafi:7:3:63:22",
+    "/books/kitab-al-ghayba-tusi:28:9"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "1022-1269": {
+      "narrator_ids": [
+        1022,
+        1269
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:28:9"
+      ]
+    },
+    "1022-1326": {
+      "narrator_ids": [
+        1022,
+        1326
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:1:28:5"
+      ]
+    },
+    "1022-463": {
+      "narrator_ids": [
+        1022,
+        463
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:100:2"
+      ]
+    },
+    "20-25-803-255-36-1022": {
+      "narrator_ids": [
+        20,
+        25,
+        803,
+        255,
+        36,
+        1022
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:63:22"
+      ]
+    },
+    "274-321-387-784-1022-463": {
+      "narrator_ids": [
+        274,
+        321,
+        387,
+        784,
+        1022,
+        463
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:100:2"
+      ]
+    },
+    "36-1022": {
+      "narrator_ids": [
+        36,
+        1022
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:63:22"
+      ]
+    },
+    "482-3335-917-1022-1269": {
+      "narrator_ids": [
+        482,
+        3335,
+        917,
+        1022,
+        1269
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:28:9"
+      ]
+    },
+    "6-321-707-784-1022-1326": {
+      "narrator_ids": [
+        6,
+        321,
+        707,
+        784,
+        1022,
+        1326
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:1:28:5"
+      ]
+    },
+    "784-1022": {
+      "narrator_ids": [
+        784,
+        1022
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:100:2",
+        "/books/al-kafi:3:1:28:5"
+      ]
+    },
+    "917-1022": {
+      "narrator_ids": [
+        917,
+        1022
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:28:9"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1022",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1022.json"
+  }
+}

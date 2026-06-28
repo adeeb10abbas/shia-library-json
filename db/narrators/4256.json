@@ -1,0 +1,44 @@
+{
+  "id": 4256,
+  "type": "narrator",
+  "path": "/people/narrators/4256",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ عَبْدِ اللَّهِ الصَّيْقَلِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:2:63:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3106-4256": {
+      "narrator_ids": [
+        3106,
+        4256
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:63:4"
+      ]
+    },
+    "6-8-964-3106-4256": {
+      "narrator_ids": [
+        6,
+        8,
+        964,
+        3106,
+        4256
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:63:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4256",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4256.json"
+  }
+}

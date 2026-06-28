@@ -1,0 +1,43 @@
+{
+  "id": 2781,
+  "type": "narrator",
+  "path": "/people/narrators/2781",
+  "titles": {
+    "ar": "الْقَنْبَرِيِّ رَجُلٌ مِنْ وُلْدِ قَنْبَرٍ الْكَبِيرِ مَوْلَى أَبِي الْحَسَنِ الرِّضَا ( عليه السلام )"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:77:9"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "179-2781": {
+      "narrator_ids": [
+        179,
+        2781
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:77:9"
+      ]
+    },
+    "50-848-179-2781": {
+      "narrator_ids": [
+        50,
+        848,
+        179,
+        2781
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:77:9"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2781",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2781.json"
+  }
+}

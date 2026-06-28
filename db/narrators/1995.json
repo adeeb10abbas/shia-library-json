@@ -1,0 +1,55 @@
+{
+  "id": 1995,
+  "type": "narrator",
+  "path": "/people/narrators/1995",
+  "titles": {
+    "ar": "أَبِي الْعَبَّاسِ عُبَيْدِ اللَّهِ بْنِ أَحْمَدَ الدِّهْقَانِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:46:33"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1995-797": {
+      "narrator_ids": [
+        1995,
+        797
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:46:33"
+      ]
+    },
+    "49-1995": {
+      "narrator_ids": [
+        49,
+        1995
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:46:33"
+      ]
+    },
+    "49-1995-797-1659-46-910-440": {
+      "narrator_ids": [
+        49,
+        1995,
+        797,
+        1659,
+        46,
+        910,
+        440
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:46:33"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1995",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1995.json"
+  }
+}

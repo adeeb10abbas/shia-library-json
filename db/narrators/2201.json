@@ -1,0 +1,107 @@
+{
+  "id": 2201,
+  "type": "narrator",
+  "path": "/people/narrators/2201",
+  "titles": {
+    "ar": "أَبِي مَالِكٍ الْجُهَنِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:8:28:2",
+    "/books/tahdhib-al-ahkam:1:39:44",
+    "/books/tahdhib-al-ahkam:5:16:23"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "13-15-2201-1344-9": {
+      "narrator_ids": [
+        13,
+        15,
+        2201,
+        1344,
+        9
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:16:23"
+      ]
+    },
+    "15-2201": {
+      "narrator_ids": [
+        15,
+        2201
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:39:44",
+        "/books/tahdhib-al-ahkam:5:16:23"
+      ]
+    },
+    "2201-1344": {
+      "narrator_ids": [
+        2201,
+        1344
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:16:23"
+      ]
+    },
+    "2201-790": {
+      "narrator_ids": [
+        2201,
+        790
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:28:2"
+      ]
+    },
+    "2201-9": {
+      "narrator_ids": [
+        2201,
+        9
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:39:44"
+      ]
+    },
+    "5-15-2201-9": {
+      "narrator_ids": [
+        5,
+        15,
+        2201,
+        9
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:39:44"
+      ]
+    },
+    "6-12-2-76-2201-790": {
+      "narrator_ids": [
+        6,
+        12,
+        2,
+        76,
+        2201,
+        790
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:28:2"
+      ]
+    },
+    "76-2201": {
+      "narrator_ids": [
+        76,
+        2201
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:28:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2201",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2201.json"
+  }
+}

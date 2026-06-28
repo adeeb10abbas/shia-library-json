@@ -1,0 +1,117 @@
+{
+  "id": 3111,
+  "type": "narrator",
+  "path": "/people/narrators/3111",
+  "titles": {
+    "ar": "حَمْزَةَ بْنِ بَزِيعٍ",
+    "en": "Hamza ibn Bazi'"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:57:4",
+    "/books/tahdhib-al-ahkam:8:14:32",
+    "/books/thawab-al-amal:2:48:3"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "130-3111": {
+      "narrator_ids": [
+        130,
+        3111
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:57:4"
+      ]
+    },
+    "17-3111": {
+      "narrator_ids": [
+        17,
+        3111
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:8:14:32"
+      ]
+    },
+    "19-24-130-3111-31-669": {
+      "narrator_ids": [
+        19,
+        24,
+        130,
+        3111,
+        31,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:57:4"
+      ]
+    },
+    "21-17-3111-1562": {
+      "narrator_ids": [
+        21,
+        17,
+        3111,
+        1562
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:8:14:32"
+      ]
+    },
+    "3111-1562": {
+      "narrator_ids": [
+        3111,
+        1562
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:8:14:32"
+      ]
+    },
+    "3111-31": {
+      "narrator_ids": [
+        3111,
+        31
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:57:4"
+      ]
+    },
+    "3111-669": {
+      "narrator_ids": [
+        3111,
+        669
+      ],
+      "verse_paths": [
+        "/books/thawab-al-amal:2:48:3"
+      ]
+    },
+    "453-3111": {
+      "narrator_ids": [
+        453,
+        3111
+      ],
+      "verse_paths": [
+        "/books/thawab-al-amal:2:48:3"
+      ]
+    },
+    "5-2-59-453-3111-669": {
+      "narrator_ids": [
+        5,
+        2,
+        59,
+        453,
+        3111,
+        669
+      ],
+      "verse_paths": [
+        "/books/thawab-al-amal:2:48:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3111",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3111.json"
+  }
+}

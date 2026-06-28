@@ -1,0 +1,44 @@
+{
+  "id": 2398,
+  "type": "narrator",
+  "path": "/people/narrators/2398",
+  "titles": {
+    "ar": "إِسْحَاقَ الْجَلَّابِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:123:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "20-25-333-35-2398": {
+      "narrator_ids": [
+        20,
+        25,
+        333,
+        35,
+        2398
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:123:3"
+      ]
+    },
+    "35-2398": {
+      "narrator_ids": [
+        35,
+        2398
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:123:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2398",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2398.json"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": 1248,
+  "type": "narrator",
+  "path": "/people/narrators/1248",
+  "titles": {
+    "ar": "أَبِي الْخَزْرَجِ الْأَنْصَارِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:1:7:9",
+    "/books/al-kafi:5:2:3:7",
+    "/books/tahdhib-al-ahkam:6:91:23"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "11-1248": {
+      "narrator_ids": [
+        11,
+        1248
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:91:23"
+      ]
+    },
+    "11-1248-1578-669": {
+      "narrator_ids": [
+        11,
+        1248,
+        1578,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:91:23"
+      ]
+    },
+    "12-1248": {
+      "narrator_ids": [
+        12,
+        1248
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:7:9",
+        "/books/al-kafi:5:2:3:7"
+      ]
+    },
+    "1248-1578": {
+      "narrator_ids": [
+        1248,
+        1578
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:7:9",
+        "/books/al-kafi:5:2:3:7",
+        "/books/tahdhib-al-ahkam:6:91:23"
+      ]
+    },
+    "133-12-1248-1578-669": {
+      "narrator_ids": [
+        133,
+        12,
+        1248,
+        1578,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:3:7"
+      ]
+    },
+    "6-12-1248-1578-669": {
+      "narrator_ids": [
+        6,
+        12,
+        1248,
+        1578,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:7:9"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1248",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1248.json"
+  }
+}

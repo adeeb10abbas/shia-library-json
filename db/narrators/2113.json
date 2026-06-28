@@ -1,0 +1,59 @@
+{
+  "id": 2113,
+  "type": "narrator",
+  "path": "/people/narrators/2113",
+  "titles": {
+    "ar": "أَبِي سَهْلٍ الْقُرَشِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:2:6",
+    "/books/tahdhib-al-ahkam:9:1:157"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "11-6-8-74-79-2113": {
+      "narrator_ids": [
+        11,
+        6,
+        8,
+        74,
+        79,
+        2113
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:1:157"
+      ]
+    },
+    "6-8-74-79-2113": {
+      "narrator_ids": [
+        6,
+        8,
+        74,
+        79,
+        2113
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:2:6"
+      ]
+    },
+    "79-2113": {
+      "narrator_ids": [
+        79,
+        2113
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:2:6",
+        "/books/tahdhib-al-ahkam:9:1:157"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2113",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2113.json"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": 2980,
+  "type": "narrator",
+  "path": "/people/narrators/2980",
+  "titles": {
+    "ar": "جَدِّهِ مُحَمَّدِ بْنِ الْحَسَنِ بْنِ مُحَمَّدِ بْنِ عُبَيْدِ اللَّهِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:111:26"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2980-295": {
+      "narrator_ids": [
+        2980,
+        295
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:111:26"
+      ]
+    },
+    "795-2980": {
+      "narrator_ids": [
+        795,
+        2980
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:111:26"
+      ]
+    },
+    "795-2980-295-184": {
+      "narrator_ids": [
+        795,
+        2980,
+        295,
+        184
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:111:26"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2980",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2980.json"
+  }
+}

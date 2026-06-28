@@ -1,0 +1,58 @@
+{
+  "id": 2840,
+  "type": "narrator",
+  "path": "/people/narrators/2840",
+  "titles": {
+    "ar": "أُمِّ هَانِئٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:80:22",
+    "/books/kitab-al-ghayba-tusi:27:4"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "35-208-732-4529-2524-653-2840": {
+      "narrator_ids": [
+        35,
+        208,
+        732,
+        4529,
+        2524,
+        653,
+        2840
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:80:22"
+      ]
+    },
+    "355-653-2840": {
+      "narrator_ids": [
+        355,
+        653,
+        2840
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:27:4"
+      ]
+    },
+    "653-2840": {
+      "narrator_ids": [
+        653,
+        2840
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:80:22",
+        "/books/kitab-al-ghayba-tusi:27:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2840",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2840.json"
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "id": 631,
+  "type": "narrator",
+  "path": "/people/narrators/631",
+  "titles": {
+    "ar": "حَمْزَةَ بْنِ الطَّيَّارِ",
+    "en": "Hamza ibn al-Tayyar"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:3:34:4",
+    "/books/al-kafi:1:4:6:2",
+    "/books/al-kafi:1:4:6:4",
+    "/books/al-kafi:2:1:164:2",
+    "/books/al-kafi:8:1:39:38",
+    "/books/al-tawhid:2:64:10",
+    "/books/al-tawhid:2:64:3",
+    "/books/al-tawhid:2:64:4",
+    "/books/kitab-al-ghayba-numani:2:9:4"
+  ],
+  "verseCount": 9,
+  "relations": {},
+  "subchains": {
+    "104-631": {
+      "narrator_ids": [
+        104,
+        631
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:6:4"
+      ]
+    },
+    "12-22-161-631": {
+      "narrator_ids": [
+        12,
+        22,
+        161,
+        631
+      ],
+      "verse_paths": [
+        "/books/al-tawhid:2:64:4"
+      ]
+    },
+    "12-22-161-631-669": {
+      "narrator_ids": [
+        12,
+        22,
+        161,
+        631,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-tawhid:2:64:3"
+      ]
+    },
+    "161-631": {
+      "narrator_ids": [
+        161,
+        631
+      ],
+      "verse_paths": [
+        "/books/al-tawhid:2:64:3",
+        "/books/al-tawhid:2:64:4"
+      ]
+    },
+    "2-15-520-631-669": {
+      "narrator_ids": [
+        2,
+        15,
+        520,
+        631,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-tawhid:2:64:10"
+      ]
+    },
+    "23-631": {
+      "narrator_ids": [
+        23,
+        631
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:164:2"
+      ]
+    },
+    "291-631": {
+      "narrator_ids": [
+        291,
+        631
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:39:38"
+      ]
+    },
+    "3-135-26-23-631": {
+      "narrator_ids": [
+        3,
+        135,
+        26,
+        23,
+        631
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:164:2"
+      ]
+    },
+    "310-3745-205-291-631": {
+      "narrator_ids": [
+        310,
+        3745,
+        205,
+        291,
+        631
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:39:38"
+      ]
+    },
+    "42-631": {
+      "narrator_ids": [
+        42,
+        631
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:6:2",
+        "/books/kitab-al-ghayba-numani:2:9:4"
+      ]
+    },
+    "520-631": {
+      "narrator_ids": [
+        520,
+        631
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:34:4",
+        "/books/al-tawhid:2:64:10"
+      ]
+    },
+    "6-12-15-520-631-669": {
+      "narrator_ids": [
+        6,
+        12,
+        15,
+        520,
+        631,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:34:4"
+      ]
+    },
+    "6-271-306-104-631": {
+      "narrator_ids": [
+        6,
+        271,
+        306,
+        104,
+        631
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:6:4"
+      ]
+    },
+    "631-669": {
+      "narrator_ids": [
+        631,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:34:4",
+        "/books/al-kafi:1:4:6:2",
+        "/books/al-tawhid:2:64:10",
+        "/books/al-tawhid:2:64:3"
+      ]
+    },
+    "952-756-306-42-631": {
+      "narrator_ids": [
+        952,
+        756,
+        306,
+        42,
+        631
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-numani:2:9:4"
+      ]
+    },
+    "97-4-5-135-42-631-669": {
+      "narrator_ids": [
+        97,
+        4,
+        5,
+        135,
+        42,
+        631,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:6:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/631",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/631.json"
+  }
+}

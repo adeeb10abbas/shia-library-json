@@ -1,0 +1,219 @@
+{
+  "id": 731,
+  "type": "narrator",
+  "path": "/people/narrators/731",
+  "titles": {
+    "ar": "مِنْهَالٍ الْقَصَّابِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:3:2:4",
+    "/books/al-kafi:4:1:10:2",
+    "/books/al-kafi:5:2:100:2",
+    "/books/al-kafi:5:2:69:2",
+    "/books/al-kafi:5:2:69:3",
+    "/books/al-kafi:5:2:69:4",
+    "/books/man-la-yahduruhu-al-faqih:3:2:4:2",
+    "/books/tahdhib-al-ahkam:2:16:52",
+    "/books/tahdhib-al-ahkam:7:13:1",
+    "/books/tahdhib-al-ahkam:7:13:3",
+    "/books/tahdhib-al-ahkam:7:13:4",
+    "/books/tahdhib-al-ahkam:7:6:51"
+  ],
+  "verseCount": 12,
+  "relations": {},
+  "subchains": {
+    "10-172-731-669": {
+      "narrator_ids": [
+        10,
+        172,
+        731,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:3:2:4"
+      ]
+    },
+    "10-370-731": {
+      "narrator_ids": [
+        10,
+        370,
+        731
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:69:3",
+        "/books/tahdhib-al-ahkam:7:13:3"
+      ]
+    },
+    "11-7-70-731": {
+      "narrator_ids": [
+        11,
+        7,
+        70,
+        731
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:6:51"
+      ]
+    },
+    "172-731": {
+      "narrator_ids": [
+        172,
+        731
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:3:2:4"
+      ]
+    },
+    "211-731": {
+      "narrator_ids": [
+        211,
+        731
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:69:2",
+        "/books/tahdhib-al-ahkam:7:13:1"
+      ]
+    },
+    "224-731": {
+      "narrator_ids": [
+        224,
+        731
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:10:2"
+      ]
+    },
+    "26-731": {
+      "narrator_ids": [
+        26,
+        731
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:16:52"
+      ]
+    },
+    "3-2-7-70-731": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        70,
+        731
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:69:4",
+        "/books/tahdhib-al-ahkam:7:13:4"
+      ]
+    },
+    "370-731": {
+      "narrator_ids": [
+        370,
+        731
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:69:3",
+        "/books/tahdhib-al-ahkam:7:13:3"
+      ]
+    },
+    "404-731": {
+      "narrator_ids": [
+        404,
+        731
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:3:2:4:2"
+      ]
+    },
+    "4134-29-143-26-731": {
+      "narrator_ids": [
+        4134,
+        29,
+        143,
+        26,
+        731
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:16:52"
+      ]
+    },
+    "5-53-211-731-669": {
+      "narrator_ids": [
+        5,
+        53,
+        211,
+        731,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:13:1"
+      ]
+    },
+    "5-7-70-731": {
+      "narrator_ids": [
+        5,
+        7,
+        70,
+        731
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:100:2"
+      ]
+    },
+    "5-926-224-731": {
+      "narrator_ids": [
+        5,
+        926,
+        224,
+        731
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:10:2"
+      ]
+    },
+    "6-8-5-10-211-731-669": {
+      "narrator_ids": [
+        6,
+        8,
+        5,
+        10,
+        211,
+        731,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:69:2"
+      ]
+    },
+    "70-731": {
+      "narrator_ids": [
+        70,
+        731
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:100:2",
+        "/books/al-kafi:5:2:69:4",
+        "/books/tahdhib-al-ahkam:7:13:4",
+        "/books/tahdhib-al-ahkam:7:6:51"
+      ]
+    },
+    "731-669": {
+      "narrator_ids": [
+        731,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:3:2:4",
+        "/books/al-kafi:5:2:69:2",
+        "/books/tahdhib-al-ahkam:7:13:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/731",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/731.json"
+  }
+}

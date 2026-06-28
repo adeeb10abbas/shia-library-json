@@ -1,0 +1,54 @@
+{
+  "id": 4619,
+  "type": "narrator",
+  "path": "/people/narrators/4619",
+  "titles": {
+    "ar": "يُوسُفَ بْنِ يَعْقُوبَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:4:23:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-67-4559-4619-156-1217": {
+      "narrator_ids": [
+        11,
+        67,
+        4559,
+        4619,
+        156,
+        1217
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:23:3"
+      ]
+    },
+    "4559-4619": {
+      "narrator_ids": [
+        4559,
+        4619
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:23:3"
+      ]
+    },
+    "4619-156": {
+      "narrator_ids": [
+        4619,
+        156
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:23:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4619",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4619.json"
+  }
+}

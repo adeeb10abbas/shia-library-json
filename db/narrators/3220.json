@@ -1,0 +1,43 @@
+{
+  "id": 3220,
+  "type": "narrator",
+  "path": "/people/narrators/3220",
+  "titles": {
+    "ar": "رَجُلٍ مِنَ الْجَعْفَرِيِّينَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:159:45"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1226-3220": {
+      "narrator_ids": [
+        1226,
+        3220
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:159:45"
+      ]
+    },
+    "8-225-1226-3220": {
+      "narrator_ids": [
+        8,
+        225,
+        1226,
+        3220
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:159:45"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3220",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3220.json"
+  }
+}

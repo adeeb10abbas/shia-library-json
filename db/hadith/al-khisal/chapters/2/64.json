@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:2:64",
+  "chapter": {
+    "path": "/books/al-khisal:2:64",
+    "titles": {
+      "en": "A Characteristic That is Gratitude for All Blessings"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:2:64:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:2:64:1",
+        "parts": [
+          2,
+          64,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 64,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:2:64",
+        "titles": {
+          "en": "A Characteristic That is Gratitude for All Blessings"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا سعد بن عبد الله، عن يعقوب بن يزيد، عن محمد بن أبي عمير، عن الحسن بن عطية، عن عمر بن يزيد، عن أبي عبد الله عليه السلام قال: سمعته يقول: شكر كل نعمة وإن عظمت أن تحمد الله عز وجل"
+        ],
+        "text": ": حدثنا سعد بن عبد الله، عن يعقوب بن يزيد، عن محمد بن أبي عمير، عن الحسن بن عطية، عن عمر بن يزيد، عن أبي عبد الله عليه السلام قال: سمعته يقول: شكر كل نعمة وإن عظمت أن تحمد الله عز وجل"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "1-73 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Sa’ed ibn Abdullah quoted on the authority of Yaqoob ibn Yazid, on the authority of Muhammad ibn Abi Umayr, on the authority of Al-Hassan ibn Atiye , on the authority of Umar ibn Yazid that he had heard Aba Abdullah as-Sadiq (MGB) say, “The gratitude for any blessing - no matter how great it may be - is to praise God the Honorable the Exalted.”"
+          ],
+          "text": "1-73 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Sa’ed ibn Abdullah quoted on the authority of Yaqoob ibn Yazid, on the authority of Muhammad ibn Abi Umayr, on the authority of Al-Hassan ibn Atiye , on the authority of Umar ibn Yazid that he had heard Aba Abdullah as-Sadiq (MGB) say, “The gratitude for any blessing - no matter how great it may be - is to praise God the Honorable the Exalted.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "1-73 حدثنا أبي رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "1-73 حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي رضي الله عنه قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:2:64:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/2/64/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/2/64/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

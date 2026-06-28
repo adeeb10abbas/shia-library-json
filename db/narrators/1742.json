@@ -1,0 +1,42 @@
+{
+  "id": 1742,
+  "type": "narrator",
+  "path": "/people/narrators/1742",
+  "titles": {
+    "ar": "11ـ عَلِيُّ بْنُ إِبْرَاهِيمَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:4:12:11"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1742-2": {
+      "narrator_ids": [
+        1742,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:12:11"
+      ]
+    },
+    "1742-2-669": {
+      "narrator_ids": [
+        1742,
+        2,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:12:11"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1742",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1742.json"
+  }
+}

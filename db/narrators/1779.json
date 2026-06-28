@@ -1,0 +1,56 @@
+{
+  "id": 1779,
+  "type": "narrator",
+  "path": "/people/narrators/1779",
+  "titles": {
+    "ar": "أَبَانِ بْنِ أَبِي مُسَافِرٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:47:19"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "140-1779": {
+      "narrator_ids": [
+        140,
+        1779
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:47:19"
+      ]
+    },
+    "1779-669": {
+      "narrator_ids": [
+        1779,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:47:19"
+      ]
+    },
+    "3-2-17-33-7-140-1779-669": {
+      "narrator_ids": [
+        3,
+        2,
+        17,
+        33,
+        7,
+        140,
+        1779,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:47:19"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1779",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1779.json"
+  }
+}

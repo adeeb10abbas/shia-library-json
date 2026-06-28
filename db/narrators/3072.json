@@ -1,0 +1,52 @@
+{
+  "id": 3072,
+  "type": "narrator",
+  "path": "/people/narrators/3072",
+  "titles": {
+    "ar": "حُسَيْنِ بْنِ خَالِدٍ الصَّيْرَفِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:1:22:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3072-521": {
+      "narrator_ids": [
+        3072,
+        521
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:1:22:2"
+      ]
+    },
+    "5-7-3072-521": {
+      "narrator_ids": [
+        5,
+        7,
+        3072,
+        521
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:1:22:2"
+      ]
+    },
+    "7-3072": {
+      "narrator_ids": [
+        7,
+        3072
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:1:22:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3072",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3072.json"
+  }
+}

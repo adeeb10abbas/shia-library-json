@@ -1,0 +1,125 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:6:8:36",
+  "chapter": {
+    "path": "/books/al-kafi:6:8:36",
+    "titles": {
+      "ar": "باب أَخْذِ الشَّعْرِ مِنَ الْأَنْفِ",
+      "en": "Chapter 36 – Plucking the hair from the nose"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-kafi:6:8:36:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:8:36:1",
+        "parts": [
+          6,
+          8,
+          36,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 8,
+        "chapter": 36,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:8:36",
+        "titles": {
+          "ar": "باب أَخْذِ الشَّعْرِ مِنَ الْأَنْفِ",
+          "en": "Chapter 36 – Plucking the hair from the nose"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ أَبُو عَبْدِ اللَّهِ ( عليه السلام ) أَخْذُ الشَّعْرِ مِنَ الْأَنْفِ يُحَسِّنُ الْوَجْهَ ."
+        ],
+        "text": "قَالَ أَبُو عَبْدِ اللَّهِ ( عليه السلام ) أَخْذُ الشَّعْرِ مِنَ الْأَنْفِ يُحَسِّنُ الْوَجْهَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad Bin Isa, from Muhammad Bin Hamza Al Ashary, raising it, said, ",
+            "‘Abu Abdullah<sup>asws</sup> said: ‘Plucking the hair from the nose beautifies the face’."
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad Bin Isa, from Muhammad Bin Hamza Al Ashary, raising it, said,\n\n‘Abu Abdullah<sup>asws</sup> said: ‘Plucking the hair from the nose beautifies the face’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad ibn ‘Isa from Muhammad ibn Hamzah al-Ash‘ariy in a marfu‘ manner has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘Removing hairs from the nostrils (outside) beautifies the face.” "
+          ],
+          "text": "1. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad ibn ‘Isa from Muhammad ibn Hamzah al-Ash‘ariy in a marfu‘ manner has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘Removing hairs from the nostrils (outside) beautifies the face.”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مرفوع  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/384)",
+          "label": "مرفوع",
+          "text": "Allamah Baqir al-Majlisi: مرفوع - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/384)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى عَنْ مُحَمَّدِ بْنِ حَمْزَةَ الْأَشْعَرِيِّ رَفَعَهُ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى",
+            "path": "/people/narrators/13"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ حَمْزَةَ الْأَشْعَرِيِّ",
+            "path": "/people/narrators/4218"
+          },
+          {
+            "kind": "plain",
+            "text": " رَفَعَهُ قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/13",
+          "/people/narrators/4218"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:8:36:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/8/36/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

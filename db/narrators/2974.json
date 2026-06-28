@@ -1,0 +1,54 @@
+{
+  "id": 2974,
+  "type": "narrator",
+  "path": "/people/narrators/2974",
+  "titles": {
+    "ar": "جَدِّهِ أَبِي جَمِيلَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:47:20"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2974-37": {
+      "narrator_ids": [
+        2974,
+        37
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:47:20"
+      ]
+    },
+    "3810-2974": {
+      "narrator_ids": [
+        3810,
+        2974
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:47:20"
+      ]
+    },
+    "6-12-27-3810-2974-37": {
+      "narrator_ids": [
+        6,
+        12,
+        27,
+        3810,
+        2974,
+        37
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:47:20"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2974",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2974.json"
+  }
+}

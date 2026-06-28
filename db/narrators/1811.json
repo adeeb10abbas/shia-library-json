@@ -1,0 +1,53 @@
+{
+  "id": 1811,
+  "type": "narrator",
+  "path": "/people/narrators/1811",
+  "titles": {
+    "ar": "إِبْرَاهِيمَ بْنِ إِسْحَاقَ بِإِسْنَادٍ ذَكَرَهُ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:2:65:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "133-78-1811-155-9": {
+      "narrator_ids": [
+        133,
+        78,
+        1811,
+        155,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:65:3"
+      ]
+    },
+    "1811-155": {
+      "narrator_ids": [
+        1811,
+        155
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:65:3"
+      ]
+    },
+    "78-1811": {
+      "narrator_ids": [
+        78,
+        1811
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:65:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1811",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1811.json"
+  }
+}

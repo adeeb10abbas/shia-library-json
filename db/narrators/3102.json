@@ -1,0 +1,69 @@
+{
+  "id": 3102,
+  "type": "narrator",
+  "path": "/people/narrators/3102",
+  "titles": {
+    "ar": "حَمَّادِ بْنِ عِيسَى أَوِ ابْنِ أَبِي عُمَيْرٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:2:7:2",
+    "/books/tahdhib-al-ahkam:8:3:29"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "2-3102": {
+      "narrator_ids": [
+        2,
+        3102
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:7:2",
+        "/books/tahdhib-al-ahkam:8:3:29"
+      ]
+    },
+    "3-2-3102-141-18": {
+      "narrator_ids": [
+        3,
+        2,
+        3102,
+        141,
+        18
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:7:2"
+      ]
+    },
+    "3102-141": {
+      "narrator_ids": [
+        3102,
+        141
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:7:2",
+        "/books/tahdhib-al-ahkam:8:3:29"
+      ]
+    },
+    "952-3-2-3102-141-18": {
+      "narrator_ids": [
+        952,
+        3,
+        2,
+        3102,
+        141,
+        18
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:8:3:29"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3102",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3102.json"
+  }
+}

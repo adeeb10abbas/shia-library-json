@@ -1,0 +1,55 @@
+{
+  "id": 4128,
+  "type": "narrator",
+  "path": "/people/narrators/4128",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ أَحْمَدَ الدَّقَّاقِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:8:56:7"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "4128-17": {
+      "narrator_ids": [
+        4128,
+        17
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:56:7"
+      ]
+    },
+    "6-8-4128-17-156-465-669": {
+      "narrator_ids": [
+        6,
+        8,
+        4128,
+        17,
+        156,
+        465,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:56:7"
+      ]
+    },
+    "8-4128": {
+      "narrator_ids": [
+        8,
+        4128
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:56:7"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4128",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4128.json"
+  }
+}

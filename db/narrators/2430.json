@@ -1,0 +1,54 @@
+{
+  "id": 2430,
+  "type": "narrator",
+  "path": "/people/narrators/2430",
+  "titles": {
+    "ar": "إِسْمَاعِيلَ الْمَدَائِنِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:47:24"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "101-2430": {
+      "narrator_ids": [
+        101,
+        2430
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:47:24"
+      ]
+    },
+    "2430-164": {
+      "narrator_ids": [
+        2430,
+        164
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:47:24"
+      ]
+    },
+    "6-8-101-2430-164-60": {
+      "narrator_ids": [
+        6,
+        8,
+        101,
+        2430,
+        164,
+        60
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:47:24"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2430",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2430.json"
+  }
+}

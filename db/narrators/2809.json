@@ -1,0 +1,52 @@
+{
+  "id": 2809,
+  "type": "narrator",
+  "path": "/people/narrators/2809",
+  "titles": {
+    "ar": "النَّضْرِ بْنِ شُعَيْبٍ الْمُحَارِبِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:1:13:18"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2809-669": {
+      "narrator_ids": [
+        2809,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:1:13:18"
+      ]
+    },
+    "29-2809": {
+      "narrator_ids": [
+        29,
+        2809
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:1:13:18"
+      ]
+    },
+    "4-29-2809-669": {
+      "narrator_ids": [
+        4,
+        29,
+        2809,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:1:13:18"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2809",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2809.json"
+  }
+}

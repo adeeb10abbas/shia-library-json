@@ -1,0 +1,53 @@
+{
+  "id": 1987,
+  "type": "narrator",
+  "path": "/people/narrators/1987",
+  "titles": {
+    "ar": "أَبِي الْخَضِيبِ الرَّبِيعِ بْنِ بَكْرٍ الْأَزْدِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:8:38:9"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-22-2074-1987-591": {
+      "narrator_ids": [
+        11,
+        22,
+        2074,
+        1987,
+        591
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:38:9"
+      ]
+    },
+    "1987-591": {
+      "narrator_ids": [
+        1987,
+        591
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:38:9"
+      ]
+    },
+    "2074-1987": {
+      "narrator_ids": [
+        2074,
+        1987
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:38:9"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1987",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1987.json"
+  }
+}

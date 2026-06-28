@@ -1,0 +1,57 @@
+{
+  "id": 2854,
+  "type": "narrator",
+  "path": "/people/narrators/2854",
+  "titles": {
+    "ar": "أَيُّوبَ أَخِي أُدَيْمٍ بَيَّاعِ الْهَرَوِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:5:3",
+    "/books/tahdhib-al-ahkam:6:91:9"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "140-2854": {
+      "narrator_ids": [
+        140,
+        2854
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:5:3",
+        "/books/tahdhib-al-ahkam:6:91:9"
+      ]
+    },
+    "17-33-7-140-2854": {
+      "narrator_ids": [
+        17,
+        33,
+        7,
+        140,
+        2854
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:5:3"
+      ]
+    },
+    "33-7-140-2854": {
+      "narrator_ids": [
+        33,
+        7,
+        140,
+        2854
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:91:9"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2854",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2854.json"
+  }
+}

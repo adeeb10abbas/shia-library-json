@@ -1,0 +1,53 @@
+{
+  "id": 3767,
+  "type": "narrator",
+  "path": "/people/narrators/3767",
+  "titles": {
+    "ar": "عَلِيِّ بْنِ حَبِيبٍ الْخَثْعَمِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:172:12"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "237-3767": {
+      "narrator_ids": [
+        237,
+        3767
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:172:12"
+      ]
+    },
+    "36-237-3767-2098-669": {
+      "narrator_ids": [
+        36,
+        237,
+        3767,
+        2098,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:172:12"
+      ]
+    },
+    "3767-2098": {
+      "narrator_ids": [
+        3767,
+        2098
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:172:12"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3767",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3767.json"
+  }
+}

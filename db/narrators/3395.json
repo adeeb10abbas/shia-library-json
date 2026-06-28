@@ -1,0 +1,53 @@
+{
+  "id": 3395,
+  "type": "narrator",
+  "path": "/people/narrators/3395",
+  "titles": {
+    "ar": "شَاذَانَ بْنِ الْخَلِيلِ أَبِي الْفَضْلِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:24:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3395-149": {
+      "narrator_ids": [
+        3395,
+        149
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:24:1"
+      ]
+    },
+    "5-3395": {
+      "narrator_ids": [
+        5,
+        3395
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:24:1"
+      ]
+    },
+    "6-5-3395-149-669": {
+      "narrator_ids": [
+        6,
+        5,
+        3395,
+        149,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:24:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3395",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3395.json"
+  }
+}

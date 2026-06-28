@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "mujam-al-ahadith-al-mutabara",
+  "chapterPath": "/books/mujam-al-ahadith-al-mutabara:3:12",
+  "chapter": {
+    "path": "/books/mujam-al-ahadith-al-mutabara:3:12",
+    "titles": {
+      "en": "Abu Sasan, Ammar, Shatira and Abu Amra"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "mujam-al-ahadith-al-mutabara:3:12:1",
+      "type": "hadith",
+      "book": {
+        "slug": "mujam-al-ahadith-al-mutabara",
+        "titles": {
+          "ar": "معجم الأحاديث المعتبرة",
+          "en": "Mu'jam al-Ahadith al-Mu'tabara"
+        },
+        "author": {
+          "en": "Muhammad Asif al-Muhsini"
+        }
+      },
+      "path": {
+        "source": "/books/mujam-al-ahadith-al-mutabara:3:12:1",
+        "parts": [
+          3,
+          12,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 12,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/mujam-al-ahadith-al-mutabara:3:12",
+        "titles": {
+          "en": "Abu Sasan, Ammar, Shatira and Abu Amra"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": سمعت عبد الملك بن أعين يسأل أبا عبد الله عليه السلام فلم يزل يسأله حتى قال له: فهلك الناس إذا فقال: إي و الله يا ابن أعين هلك الناس أجمعون قلت: من في الشرق و من في الغرب قال: فقال: إنها فتحت على الضلال إي و الله هلكوا إلا ثلاثة ثم لحق أبو ساسان و عمار و شتيرة و أبو عمرة فصاروا سبعة"
+        ],
+        "text": ": سمعت عبد الملك بن أعين يسأل أبا عبد الله عليه السلام فلم يزل يسأله حتى قال له: فهلك الناس إذا فقال: إي و الله يا ابن أعين هلك الناس أجمعون قلت: من في الشرق و من في الغرب قال: فقال: إنها فتحت على الضلال إي و الله هلكوا إلا ثلاثة ثم لحق أبو ساسان و عمار و شتيرة و أبو عمرة فصاروا سبعة"
+      },
+      "translations": {
+        "en.ammaar-muslim": {
+          "segments": [
+            "1. [1/134] Rijal al-Kashshi: Muhammad b. Masud from Ali b. al-Hasan b. Fadhal from al-Abbas b. Amir and Ja`far b. Muhammad b. Hukaym from Aban b. Uthman from al-Harith b. Mughira al-Nasri who said: I heard Abd al-Malik b. A`yan asking Aba Abdillah عليه السلام – and he did not cease asking him – until he said to him: so the people were destroyed then (after the messenger of Allah)? he said: yes, by Allah, O the son of A`yan, all the people were destroyed, I (Abd al-Malik) said: whomever was in the east and the west? he said: it (the whole earth) was opened up to misguidance, yes, by Allah, they were all destroyed, except three, then joined Abu Sasan, Ammar, Shatira and Abu Umra, so they became seven."
+          ],
+          "text": "1. [1/134] Rijal al-Kashshi: Muhammad b. Masud from Ali b. al-Hasan b. Fadhal from al-Abbas b. Amir and Ja`far b. Muhammad b. Hukaym from Aban b. Uthman from al-Harith b. Mughira al-Nasri who said: I heard Abd al-Malik b. A`yan asking Aba Abdillah عليه السلام – and he did not cease asking him – until he said to him: so the people were destroyed then (after the messenger of Allah)? he said: yes, by Allah, O the son of A`yan, all the people were destroyed, I (Abd al-Malik) said: whomever was in the east and the west? he said: it (the whole earth) was opened up to misguidance, yes, by Allah, they were all destroyed, except three, then joined Abu Sasan, Ammar, Shatira and Abu Umra, so they became seven."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "[1/134] رجال الكشي: محمد بن مسعود، عن علي بن الحسن بن فضال، عن العباس بن عامر و جعفر بن محمد بن حكيم، عن أبان بن عثمان، عن الحارث بن المغيرة النصري قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "[1/134] رجال الكشي: محمد بن مسعود،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "علي بن الحسن بن فضال،",
+            "path": "/people/narrators/645"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "العباس بن عامر",
+            "path": "/people/narrators/292"
+          },
+          {
+            "kind": "plain",
+            "text": " و "
+          },
+          {
+            "kind": "narrator",
+            "text": "جعفر بن محمد بن حكيم،",
+            "path": "/people/narrators/1073"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبان بن عثمان،",
+            "path": "/people/narrators/52"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "الحارث بن المغيرة النصري قال",
+            "path": "/people/narrators/1020"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/645",
+          "/people/narrators/292",
+          "/people/narrators/1073",
+          "/people/narrators/52",
+          "/people/narrators/1020"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/mujam-al-ahadith-al-mutabara:3:12:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/mujam-al-ahadith-al-mutabara/3/12/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/9/3/12/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

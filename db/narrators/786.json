@@ -1,0 +1,163 @@
+{
+  "id": 786,
+  "type": "narrator",
+  "path": "/people/narrators/786",
+  "titles": {
+    "ar": "عَبْدِ الْعَظِيمِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:108:60",
+    "/books/al-kafi:1:4:108:61",
+    "/books/al-kafi:1:4:108:62",
+    "/books/al-kafi:1:4:108:63",
+    "/books/al-kafi:1:4:108:64",
+    "/books/kamil-al-ziyarat:2:28:17"
+  ],
+  "verseCount": 6,
+  "relations": {},
+  "subchains": {
+    "219-786": {
+      "narrator_ids": [
+        219,
+        786
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:108:60"
+      ]
+    },
+    "219-786-2927-72-9": {
+      "narrator_ids": [
+        219,
+        786,
+        2927,
+        72,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:108:60"
+      ]
+    },
+    "259-786": {
+      "narrator_ids": [
+        259,
+        786
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:28:17"
+      ]
+    },
+    "613-355-5-259-786-417-668": {
+      "narrator_ids": [
+        613,
+        355,
+        5,
+        259,
+        786,
+        417,
+        668
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:28:17"
+      ]
+    },
+    "786-125": {
+      "narrator_ids": [
+        786,
+        125
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:108:63"
+      ]
+    },
+    "786-141": {
+      "narrator_ids": [
+        786,
+        141
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:108:61"
+      ]
+    },
+    "786-2927": {
+      "narrator_ids": [
+        786,
+        2927
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:108:60"
+      ]
+    },
+    "786-417": {
+      "narrator_ids": [
+        786,
+        417
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:28:17"
+      ]
+    },
+    "786-73": {
+      "narrator_ids": [
+        786,
+        73
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:108:64"
+      ]
+    },
+    "92-786": {
+      "narrator_ids": [
+        92,
+        786
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:108:61",
+        "/books/al-kafi:1:4:108:62",
+        "/books/al-kafi:1:4:108:63",
+        "/books/al-kafi:1:4:108:64"
+      ]
+    },
+    "92-786-125-669": {
+      "narrator_ids": [
+        92,
+        786,
+        125,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:108:63"
+      ]
+    },
+    "92-786-141-554": {
+      "narrator_ids": [
+        92,
+        786,
+        141,
+        554
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:108:61"
+      ]
+    },
+    "92-786-73-71-9": {
+      "narrator_ids": [
+        92,
+        786,
+        73,
+        71,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:108:64"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/786",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/786.json"
+  }
+}

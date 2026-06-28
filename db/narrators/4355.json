@@ -1,0 +1,49 @@
+{
+  "id": 4355,
+  "type": "narrator",
+  "path": "/people/narrators/4355",
+  "titles": {
+    "ar": "مُرَّةَ مَوْلَى مُحَمَّدِ بْنِ خَالِدٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:4:89:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3-27-26-16-20-176-81-69-618-4355": {
+      "narrator_ids": [
+        3,
+        27,
+        26,
+        16,
+        20,
+        176,
+        81,
+        69,
+        618,
+        4355
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:89:1"
+      ]
+    },
+    "618-4355": {
+      "narrator_ids": [
+        618,
+        4355
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:89:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4355",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4355.json"
+  }
+}

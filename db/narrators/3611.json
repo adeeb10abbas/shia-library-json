@@ -1,0 +1,54 @@
+{
+  "id": 3611,
+  "type": "narrator",
+  "path": "/people/narrators/3611",
+  "titles": {
+    "ar": "عَبْدِ اللَّهِ بْنِ مَرْحُومٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:47:8"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "10-3611": {
+      "narrator_ids": [
+        10,
+        3611
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:47:8"
+      ]
+    },
+    "3-2-10-3611-1275-669": {
+      "narrator_ids": [
+        3,
+        2,
+        10,
+        3611,
+        1275,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:47:8"
+      ]
+    },
+    "3611-1275": {
+      "narrator_ids": [
+        3611,
+        1275
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:47:8"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3611",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3611.json"
+  }
+}

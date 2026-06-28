@@ -1,0 +1,84 @@
+{
+  "id": 4275,
+  "type": "narrator",
+  "path": "/people/narrators/4275",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ عَلِيٍّ الصَّيْرَفِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:1:39:12",
+    "/books/maani-al-akhbar:95:1",
+    "/books/tahdhib-al-ahkam:8:6:76"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "12-4275": {
+      "narrator_ids": [
+        12,
+        4275
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:39:12"
+      ]
+    },
+    "4275-104": {
+      "narrator_ids": [
+        4275,
+        104
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:39:12"
+      ]
+    },
+    "4275-255": {
+      "narrator_ids": [
+        4275,
+        255
+      ],
+      "verse_paths": [
+        "/books/maani-al-akhbar:95:1"
+      ]
+    },
+    "4275-255-3080-669": {
+      "narrator_ids": [
+        4275,
+        255,
+        3080,
+        669
+      ],
+      "verse_paths": [
+        "/books/maani-al-akhbar:95:1"
+      ]
+    },
+    "503-12-4275-104-669": {
+      "narrator_ids": [
+        503,
+        12,
+        4275,
+        104,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:39:12"
+      ]
+    },
+    "695-4275": {
+      "narrator_ids": [
+        695,
+        4275
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:8:6:76"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4275",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4275.json"
+  }
+}

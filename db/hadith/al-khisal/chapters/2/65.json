@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:2:65",
+  "chapter": {
+    "path": "/books/al-khisal:2:65",
+    "titles": {
+      "en": "Religion Is the Same as Love"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:2:65:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:2:65:1",
+        "parts": [
+          2,
+          65,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 65,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:2:65",
+        "titles": {
+          "en": "Religion Is the Same as Love"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا علي بن إبراهيم بن هـاشم، عن أبيـه،عن ابن أبي عمير، عن محمد بن حمران، عن سعيد بن يسار قال: قال لي أبوعبد الله عليه السلام: هل الدين إلا الحب؟ إن الله عز وجل يقول: قُلْ إِن كُنتُمْ تُحِبُّونَ اللّهَ فَاتَّبِعُونِي يُحْبِبْكُمُ اللّهُ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ وَاللّهُ غَفُورٌ رَّحِيمٌ"
+        ],
+        "text": ": حدثنا علي بن إبراهيم بن هـاشم، عن أبيـه،عن ابن أبي عمير، عن محمد بن حمران، عن سعيد بن يسار قال: قال لي أبوعبد الله عليه السلام: هل الدين إلا الحب؟ إن الله عز وجل يقول: قُلْ إِن كُنتُمْ تُحِبُّونَ اللّهَ فَاتَّبِعُونِي يُحْبِبْكُمُ اللّهُ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ وَاللّهُ غَفُورٌ رَّحِيمٌ"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "1-74 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Ali ibn Ibrahim ibn Hashim quoted on theauthority of his father, on the authority of Ibn Abi Umayr, on the authority of Muhammad ibn Himran, on the authority of Sa’id ibn Yasar who said: Imam Abu Abdullah (as) said to me: “Is there anything in religion except love? Indeed, Allah, the Almighty, says: ‘Say, if you love Allah, then follow me, and Allah will love you and forgive you your sins, and Allah is Forgiving, Merciful.’” (Surah Al-Imran, 3:31)"
+          ],
+          "text": "1-74 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Ali ibn Ibrahim ibn Hashim quoted on theauthority of his father, on the authority of Ibn Abi Umayr, on the authority of Muhammad ibn Himran, on the authority of Sa’id ibn Yasar who said: Imam Abu Abdullah (as) said to me: “Is there anything in religion except love? Indeed, Allah, the Almighty, says: ‘Say, if you love Allah, then follow me, and Allah will love you and forgive you your sins, and Allah is Forgiving, Merciful.’” (Surah Al-Imran, 3:31)"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "1-74 حدثنا أبي رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "1-74 حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي رضي الله عنه قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:2:65:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/2/65/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/2/65/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

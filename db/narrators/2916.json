@@ -1,0 +1,53 @@
+{
+  "id": 2916,
+  "type": "narrator",
+  "path": "/people/narrators/2916",
+  "titles": {
+    "ar": "بَعْضِ الْوَاسِطِيِّينَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:131:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-373-598-2916-64": {
+      "narrator_ids": [
+        11,
+        373,
+        598,
+        2916,
+        64
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:131:2"
+      ]
+    },
+    "2916-64": {
+      "narrator_ids": [
+        2916,
+        64
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:131:2"
+      ]
+    },
+    "598-2916": {
+      "narrator_ids": [
+        598,
+        2916
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:131:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2916",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2916.json"
+  }
+}

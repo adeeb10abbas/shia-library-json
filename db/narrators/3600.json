@@ -1,0 +1,52 @@
+{
+  "id": 3600,
+  "type": "narrator",
+  "path": "/people/narrators/3600",
+  "titles": {
+    "ar": "عَبْدِ اللَّهِ بْنِ مَالِكٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:5:25:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3600-2198": {
+      "narrator_ids": [
+        3600,
+        2198
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:5:25:5"
+      ]
+    },
+    "4-5-3600-2198": {
+      "narrator_ids": [
+        4,
+        5,
+        3600,
+        2198
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:5:25:5"
+      ]
+    },
+    "5-3600": {
+      "narrator_ids": [
+        5,
+        3600
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:5:25:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3600",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3600.json"
+  }
+}

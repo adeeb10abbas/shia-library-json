@@ -1,0 +1,101 @@
+{
+  "id": 1442,
+  "type": "narrator",
+  "path": "/people/narrators/1442",
+  "titles": {
+    "ar": "حُسَيْنِ بْنِ عُمَارَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:2:60:20",
+    "/books/al-kafi:7:2:23:3",
+    "/books/tahdhib-al-ahkam:9:26:18"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "10-1442": {
+      "narrator_ids": [
+        10,
+        1442
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:2:23:3",
+        "/books/tahdhib-al-ahkam:9:26:18"
+      ]
+    },
+    "11-10-1442-410": {
+      "narrator_ids": [
+        11,
+        10,
+        1442,
+        410
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:26:18"
+      ]
+    },
+    "11-37-1442-3065-1075-2062": {
+      "narrator_ids": [
+        11,
+        37,
+        1442,
+        3065,
+        1075,
+        2062
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:60:20"
+      ]
+    },
+    "11-5-3-2-10-1442-410": {
+      "narrator_ids": [
+        11,
+        5,
+        3,
+        2,
+        10,
+        1442,
+        410
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:2:23:3"
+      ]
+    },
+    "1442-3065": {
+      "narrator_ids": [
+        1442,
+        3065
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:60:20"
+      ]
+    },
+    "1442-410": {
+      "narrator_ids": [
+        1442,
+        410
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:2:23:3",
+        "/books/tahdhib-al-ahkam:9:26:18"
+      ]
+    },
+    "37-1442": {
+      "narrator_ids": [
+        37,
+        1442
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:60:20"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1442",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1442.json"
+  }
+}

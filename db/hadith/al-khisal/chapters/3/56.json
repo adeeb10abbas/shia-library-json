@@ -1,0 +1,89 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:3:56",
+  "chapter": {
+    "path": "/books/al-khisal:3:56",
+    "titles": {
+      "en": "Two Characteristics Due to True Faith"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:3:56:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:3:56:1",
+        "parts": [
+          3,
+          56,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 56,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:3:56",
+        "titles": {
+          "en": "Two Characteristics Due to True Faith"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا محمد بن يحيى العطار، عن محمد بن أحمد، عن علي بن حسان الواسطي يرفعه إلى زرارة، عن أبي عبد الله عليه السلام قال: إن من حقيقة الايمان أن تؤثر الحق وإن ضرك على الباطل وإن نفعك، وأن لا تجوز منطقك علمك"
+        ],
+        "text": ": حدثنا محمد بن يحيى العطار، عن محمد بن أحمد، عن علي بن حسان الواسطي يرفعه إلى زرارة، عن أبي عبد الله عليه السلام قال: إن من حقيقة الايمان أن تؤثر الحق وإن ضرك على الباطل وإن نفعك، وأن لا تجوز منطقك علمك"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "2-70 Muhammad ibn Musa ibn al-Mutevakil - may God be pleased with him - narrated that Muhammad ibn Yahya al-Attar quoted Muhammad ibn Ahmad, on the authority of Ali ibn Hisan al-Vaseti, who linked it up to Zurarah, on the authority of Aba Abdullah as-Sadiq (MGB) who said, “Two characteristics are due to true faith. The first one is that you prefer the truth over the false, even if it may be to your disadvantage. The second one is that what you say is not beyond your intellect.”"
+          ],
+          "text": "2-70 Muhammad ibn Musa ibn al-Mutevakil - may God be pleased with him - narrated that Muhammad ibn Yahya al-Attar quoted Muhammad ibn Ahmad, on the authority of Ali ibn Hisan al-Vaseti, who linked it up to Zurarah, on the authority of Aba Abdullah as-Sadiq (MGB) who said, “Two characteristics are due to true faith. The first one is that you prefer the truth over the false, even if it may be to your disadvantage. The second one is that what you say is not beyond your intellect.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "2-70 حدثنا محمد بن موسى بن المتوكل رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "2-70 حدثنا "
+          },
+          {
+            "kind": "plain",
+            "text": "محمد بن موسى بن المتوكل رضي الله عنه قال"
+          }
+        ],
+        "narratorPaths": []
+      },
+      "relations": {
+        "Quotes Quran": [
+          "/books/quran:7:15"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:3:56:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/3/56/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/3/56/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": 4529,
+  "type": "narrator",
+  "path": "/people/narrators/4529",
+  "titles": {
+    "ar": "وَهْبِ بْنِ شَاذَانَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:80:22"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "35-208-732-4529-2524-653-2840": {
+      "narrator_ids": [
+        35,
+        208,
+        732,
+        4529,
+        2524,
+        653,
+        2840
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:80:22"
+      ]
+    },
+    "4529-2524": {
+      "narrator_ids": [
+        4529,
+        2524
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:80:22"
+      ]
+    },
+    "732-4529": {
+      "narrator_ids": [
+        732,
+        4529
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:80:22"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4529",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4529.json"
+  }
+}

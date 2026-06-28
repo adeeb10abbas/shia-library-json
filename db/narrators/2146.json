@@ -1,0 +1,60 @@
+{
+  "id": 2146,
+  "type": "narrator",
+  "path": "/people/narrators/2146",
+  "titles": {
+    "ar": "أَبِي عَبْدِ اللَّهِ الْحُسَيْنِ الصَّغِيرِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:111:21"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1358-2146": {
+      "narrator_ids": [
+        1358,
+        2146
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:111:21"
+      ]
+    },
+    "2146-1635": {
+      "narrator_ids": [
+        2146,
+        1635
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:111:21"
+      ]
+    },
+    "97-1358-2146-1635-2320-669-4-355-101-22-231-669": {
+      "narrator_ids": [
+        97,
+        1358,
+        2146,
+        1635,
+        2320,
+        669,
+        4,
+        355,
+        101,
+        22,
+        231,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:111:21"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2146",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2146.json"
+  }
+}

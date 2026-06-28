@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.local/shia-library-json/schema/quran-verse.schema.json",
+  "title": "Quran Verse Record",
+  "type": "object",
+  "required": ["id", "type", "path", "numbering", "source"],
+  "properties": {
+    "id": { "type": "string" },
+    "type": { "const": "quran_verse" },
+    "path": { "type": "object" },
+    "numbering": { "type": "object" },
+    "arabic": { "type": "object" },
+    "translations": { "type": "object" },
+    "relations": { "type": "object" },
+    "source": { "type": "object" }
+  }
+}
+

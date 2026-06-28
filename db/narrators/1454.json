@@ -1,0 +1,124 @@
+{
+  "id": 1454,
+  "type": "narrator",
+  "path": "/people/narrators/1454",
+  "titles": {
+    "ar": "خَضِرٍ الصَّيْرَفِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:7:15:11",
+    "/books/al-kafi:7:4:15:1",
+    "/books/tahdhib-al-ahkam:10:18:47",
+    "/books/tahdhib-al-ahkam:9:2:182"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "10-1454": {
+      "narrator_ids": [
+        10,
+        1454
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:4:15:1"
+      ]
+    },
+    "1454-534": {
+      "narrator_ids": [
+        1454,
+        534
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:4:15:1",
+        "/books/tahdhib-al-ahkam:10:18:47"
+      ]
+    },
+    "1454-669": {
+      "narrator_ids": [
+        1454,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:15:11",
+        "/books/tahdhib-al-ahkam:9:2:182"
+      ]
+    },
+    "20-208-29-3707-1454-669": {
+      "narrator_ids": [
+        20,
+        208,
+        29,
+        3707,
+        1454,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:15:11"
+      ]
+    },
+    "3707-1454": {
+      "narrator_ids": [
+        3707,
+        1454
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:15:11",
+        "/books/tahdhib-al-ahkam:9:2:182"
+      ]
+    },
+    "4-5-3-2-10-1454-534": {
+      "narrator_ids": [
+        4,
+        5,
+        3,
+        2,
+        10,
+        1454,
+        534
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:4:15:1"
+      ]
+    },
+    "53-1454": {
+      "narrator_ids": [
+        53,
+        1454
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:10:18:47"
+      ]
+    },
+    "53-1454-534": {
+      "narrator_ids": [
+        53,
+        1454,
+        534
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:10:18:47"
+      ]
+    },
+    "94-208-29-3707-1454-669": {
+      "narrator_ids": [
+        94,
+        208,
+        29,
+        3707,
+        1454,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:2:182"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1454",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1454.json"
+  }
+}

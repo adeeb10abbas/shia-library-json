@@ -1,0 +1,55 @@
+{
+  "id": 3006,
+  "type": "narrator",
+  "path": "/people/narrators/3006",
+  "titles": {
+    "ar": "جَعْفَرِ بْنِ مُحَمَّدٍ الصَّيْقَلِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:83:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1030-3006": {
+      "narrator_ids": [
+        1030,
+        3006
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:83:3"
+      ]
+    },
+    "3006-2": {
+      "narrator_ids": [
+        3006,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:83:3"
+      ]
+    },
+    "4-183-208-1030-3006-2-319": {
+      "narrator_ids": [
+        4,
+        183,
+        208,
+        1030,
+        3006,
+        2,
+        319
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:83:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3006",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3006.json"
+  }
+}

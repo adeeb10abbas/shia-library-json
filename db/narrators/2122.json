@@ -1,0 +1,53 @@
+{
+  "id": 2122,
+  "type": "narrator",
+  "path": "/people/narrators/2122",
+  "titles": {
+    "ar": "أَبِي عَبَّادٍ عِمْرَانَ بْنِ عَطِيَّةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:2:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2122-669": {
+      "narrator_ids": [
+        2122,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:2:1"
+      ]
+    },
+    "42-2122": {
+      "narrator_ids": [
+        42,
+        2122
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:2:1"
+      ]
+    },
+    "6-5-42-2122-669": {
+      "narrator_ids": [
+        6,
+        5,
+        42,
+        2122,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:2:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2122",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2122.json"
+  }
+}

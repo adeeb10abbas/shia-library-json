@@ -1,0 +1,54 @@
+{
+  "id": 2182,
+  "type": "narrator",
+  "path": "/people/narrators/2182",
+  "titles": {
+    "ar": "أَبِي عُمَرَ الْحَنَّاطِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:33:6"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "133-12-2767-4447-2182-2428": {
+      "narrator_ids": [
+        133,
+        12,
+        2767,
+        4447,
+        2182,
+        2428
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:33:6"
+      ]
+    },
+    "2182-2428": {
+      "narrator_ids": [
+        2182,
+        2428
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:33:6"
+      ]
+    },
+    "4447-2182": {
+      "narrator_ids": [
+        4447,
+        2182
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:33:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2182",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2182.json"
+  }
+}

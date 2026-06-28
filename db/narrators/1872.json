@@ -1,0 +1,53 @@
+{
+  "id": 1872,
+  "type": "narrator",
+  "path": "/people/narrators/1872",
+  "titles": {
+    "ar": "ابْنِ الْوَلِيدِ بْنِ صَبِيحٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:4:94:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "15-1872": {
+      "narrator_ids": [
+        15,
+        1872
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:94:4"
+      ]
+    },
+    "1872-2": {
+      "narrator_ids": [
+        1872,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:94:4"
+      ]
+    },
+    "3-5-15-1872-2": {
+      "narrator_ids": [
+        3,
+        5,
+        15,
+        1872,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:94:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1872",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1872.json"
+  }
+}

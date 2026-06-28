@@ -1,0 +1,56 @@
+{
+  "id": 3921,
+  "type": "narrator",
+  "path": "/people/narrators/3921",
+  "titles": {
+    "ar": "عَنِ السَّابَاطِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:139:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3-2-38-40-16-9-3921-3927": {
+      "narrator_ids": [
+        3,
+        2,
+        38,
+        40,
+        16,
+        9,
+        3921,
+        3927
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:139:3"
+      ]
+    },
+    "3921-3927": {
+      "narrator_ids": [
+        3921,
+        3927
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:139:3"
+      ]
+    },
+    "9-3921": {
+      "narrator_ids": [
+        9,
+        3921
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:139:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3921",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3921.json"
+  }
+}

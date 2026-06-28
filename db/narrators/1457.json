@@ -1,0 +1,120 @@
+{
+  "id": 1457,
+  "type": "narrator",
+  "path": "/people/narrators/1457",
+  "titles": {
+    "ar": "خَلَّادٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:54:12",
+    "/books/al-kafi:4:3:21:8",
+    "/books/man-la-yahduruhu-al-faqih:2:3:6:7",
+    "/books/tahdhib-al-ahkam:9:42:4"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "11-2-7-1457-760-312": {
+      "narrator_ids": [
+        11,
+        2,
+        7,
+        1457,
+        760,
+        312
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:54:12"
+      ]
+    },
+    "1457-394": {
+      "narrator_ids": [
+        1457,
+        394
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:42:4"
+      ]
+    },
+    "1457-669": {
+      "narrator_ids": [
+        1457,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:21:8",
+        "/books/man-la-yahduruhu-al-faqih:2:3:6:7"
+      ]
+    },
+    "1457-760": {
+      "narrator_ids": [
+        1457,
+        760
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:54:12"
+      ]
+    },
+    "3-2-7-1457-669": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        1457,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:21:8"
+      ]
+    },
+    "318-1457": {
+      "narrator_ids": [
+        318,
+        1457
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:42:4"
+      ]
+    },
+    "5-318-1457-394": {
+      "narrator_ids": [
+        5,
+        318,
+        1457,
+        394
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:42:4"
+      ]
+    },
+    "7-1457": {
+      "narrator_ids": [
+        7,
+        1457
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:54:12",
+        "/books/al-kafi:4:3:21:8",
+        "/books/man-la-yahduruhu-al-faqih:2:3:6:7"
+      ]
+    },
+    "7-1457-669": {
+      "narrator_ids": [
+        7,
+        1457,
+        669
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:2:3:6:7"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1457",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1457.json"
+  }
+}

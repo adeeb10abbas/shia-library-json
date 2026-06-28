@@ -1,0 +1,101 @@
+{
+  "id": 1568,
+  "type": "narrator",
+  "path": "/people/narrators/1568",
+  "titles": {
+    "ar": "عَلِيِّ بْنِ الْحُسَيْنِ بْنِ الْحَسَنِ الضَّرِيرِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:3:8:2",
+    "/books/al-kafi:6:1:32:2",
+    "/books/tahdhib-al-ahkam:1:34:4"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "11-1568": {
+      "narrator_ids": [
+        11,
+        1568
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:3:8:2"
+      ]
+    },
+    "11-1568-38-669": {
+      "narrator_ids": [
+        11,
+        1568,
+        38,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:3:8:2"
+      ]
+    },
+    "11-576-1568-38-669-2-50": {
+      "narrator_ids": [
+        11,
+        576,
+        1568,
+        38,
+        669,
+        2,
+        50
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:34:4"
+      ]
+    },
+    "1568-38": {
+      "narrator_ids": [
+        1568,
+        38
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:3:8:2",
+        "/books/al-kafi:6:1:32:2",
+        "/books/tahdhib-al-ahkam:1:34:4"
+      ]
+    },
+    "4-59-517-1568-38-669": {
+      "narrator_ids": [
+        4,
+        59,
+        517,
+        1568,
+        38,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:32:2"
+      ]
+    },
+    "517-1568": {
+      "narrator_ids": [
+        517,
+        1568
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:32:2"
+      ]
+    },
+    "576-1568": {
+      "narrator_ids": [
+        576,
+        1568
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:34:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1568",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1568.json"
+  }
+}

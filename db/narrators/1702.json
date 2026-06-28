@@ -1,0 +1,80 @@
+{
+  "id": 1702,
+  "type": "narrator",
+  "path": "/people/narrators/1702",
+  "titles": {
+    "ar": "مُوسَى بْنِ عُمَرَ الصَّيْقَلِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:3:9:10",
+    "/books/al-kafi:8:1:12:2"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "1702-27": {
+      "narrator_ids": [
+        1702,
+        27
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:3:9:10"
+      ]
+    },
+    "1702-747": {
+      "narrator_ids": [
+        1702,
+        747
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:12:2"
+      ]
+    },
+    "6-8-1702-27-34-642-60-669": {
+      "narrator_ids": [
+        6,
+        8,
+        1702,
+        27,
+        34,
+        642,
+        60,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:3:9:10"
+      ]
+    },
+    "6-8-1702-747-296-669": {
+      "narrator_ids": [
+        6,
+        8,
+        1702,
+        747,
+        296,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:12:2"
+      ]
+    },
+    "8-1702": {
+      "narrator_ids": [
+        8,
+        1702
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:3:9:10",
+        "/books/al-kafi:8:1:12:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1702",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1702.json"
+  }
+}

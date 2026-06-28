@@ -1,0 +1,79 @@
+{
+  "id": 3099,
+  "type": "narrator",
+  "path": "/people/narrators/3099",
+  "titles": {
+    "ar": "حَمَّادِ بْنِ أَبِي طَلْحَةَ بَيَّاعِ السَّابِرِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:25:6",
+    "/books/tahdhib-al-ahkam:6:80:24"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "3099-723": {
+      "narrator_ids": [
+        3099,
+        723
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:80:24"
+      ]
+    },
+    "3099-73": {
+      "narrator_ids": [
+        3099,
+        73
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:25:6"
+      ]
+    },
+    "4-5-42-3099-73-1085-71": {
+      "narrator_ids": [
+        4,
+        5,
+        42,
+        3099,
+        73,
+        1085,
+        71
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:25:6"
+      ]
+    },
+    "42-3099": {
+      "narrator_ids": [
+        42,
+        3099
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:25:6",
+        "/books/tahdhib-al-ahkam:6:80:24"
+      ]
+    },
+    "5-42-3099-723-163-9": {
+      "narrator_ids": [
+        5,
+        42,
+        3099,
+        723,
+        163,
+        9
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:80:24"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3099",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3099.json"
+  }
+}

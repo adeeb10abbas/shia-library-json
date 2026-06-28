@@ -1,0 +1,58 @@
+{
+  "id": 2001,
+  "type": "narrator",
+  "path": "/people/narrators/2001",
+  "titles": {
+    "ar": "أَبِي الْعَلَاءِ الشَّامِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:1:12:6"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2001-1489": {
+      "narrator_ids": [
+        2001,
+        1489
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:12:6"
+      ]
+    },
+    "2219-2001": {
+      "narrator_ids": [
+        2219,
+        2001
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:12:6"
+      ]
+    },
+    "4-29-4309-3546-113-2219-2001-1489-2094-63": {
+      "narrator_ids": [
+        4,
+        29,
+        4309,
+        3546,
+        113,
+        2219,
+        2001,
+        1489,
+        2094,
+        63
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:12:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2001",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2001.json"
+  }
+}

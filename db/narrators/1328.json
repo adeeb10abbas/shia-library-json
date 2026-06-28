@@ -1,0 +1,70 @@
+{
+  "id": 1328,
+  "type": "narrator",
+  "path": "/people/narrators/1328",
+  "titles": {
+    "ar": "الْحَسَنِ الْبَزَّازِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:66:6",
+    "/books/al-kafi:2:1:66:8"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "11-2-65-47-18-1328-669": {
+      "narrator_ids": [
+        11,
+        2,
+        65,
+        47,
+        18,
+        1328,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:66:6"
+      ]
+    },
+    "1328-669": {
+      "narrator_ids": [
+        1328,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:66:6"
+      ]
+    },
+    "18-1328": {
+      "narrator_ids": [
+        18,
+        1328
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:66:6",
+        "/books/al-kafi:2:1:66:8"
+      ]
+    },
+    "50-2-10-47-18-1328": {
+      "narrator_ids": [
+        50,
+        2,
+        10,
+        47,
+        18,
+        1328
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:66:8"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1328",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1328.json"
+  }
+}

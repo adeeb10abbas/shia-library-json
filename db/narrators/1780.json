@@ -1,0 +1,53 @@
+{
+  "id": 1780,
+  "type": "narrator",
+  "path": "/people/narrators/1780",
+  "titles": {
+    "ar": "أَبَانِ بْنِ الْأَحْمَرِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:4:29:6"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-15-1780-687-669": {
+      "narrator_ids": [
+        11,
+        15,
+        1780,
+        687,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:29:6"
+      ]
+    },
+    "15-1780": {
+      "narrator_ids": [
+        15,
+        1780
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:29:6"
+      ]
+    },
+    "1780-687": {
+      "narrator_ids": [
+        1780,
+        687
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:29:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1780",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1780.json"
+  }
+}

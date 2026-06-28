@@ -1,0 +1,55 @@
+{
+  "id": 2285,
+  "type": "narrator",
+  "path": "/people/narrators/2285",
+  "titles": {
+    "ar": "أَحْمَدَ بْنِ الْمُبَارَكِ الدِّينَوَرِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:129:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-230-12-2285-993-245-669": {
+      "narrator_ids": [
+        11,
+        230,
+        12,
+        2285,
+        993,
+        245,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:129:4"
+      ]
+    },
+    "12-2285": {
+      "narrator_ids": [
+        12,
+        2285
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:129:4"
+      ]
+    },
+    "2285-993": {
+      "narrator_ids": [
+        2285,
+        993
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:129:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2285",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2285.json"
+  }
+}

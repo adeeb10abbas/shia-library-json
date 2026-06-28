@@ -1,0 +1,112 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "fadail-al-shia",
+  "chapterPath": "/books/fadail-al-shia:37",
+  "chapter": {
+    "path": "/books/fadail-al-shia:37",
+    "titles": {
+      "en": "Divine selection in religious leadership succession"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "fadail-al-shia:37:1",
+      "type": "hadith",
+      "book": {
+        "slug": "fadail-al-shia",
+        "titles": {
+          "ar": "فضائل الشيعة",
+          "en": "Fada'il al-Shi'a"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/fadail-al-shia:37:1",
+        "parts": [
+          37,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 37,
+        "book": 1
+      },
+      "chapter": {
+        "path": "/books/fadail-al-shia:37",
+        "titles": {
+          "en": "Divine selection in religious leadership succession"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": قال أبو عبد الله عليه السلام: يا عمر، إنّ الله يعطي الدنيا لمن يحبّ ويبغض، ولا يعطي هذا الأمر إلاّ أهل صفوته. أنتم ـ والله ـ على ديني ودين آبائي إبراهيم وإسماعيل، لا أعني عليّ بن الحسين ولا الباقر عليهما السلام ولو كان هؤلاء على دين هؤلاء."
+        ],
+        "text": ": قال أبو عبد الله عليه السلام: يا عمر، إنّ الله يعطي الدنيا لمن يحبّ ويبغض، ولا يعطي هذا الأمر إلاّ أهل صفوته. أنتم ـ والله ـ على ديني ودين آبائي إبراهيم وإسماعيل، لا أعني عليّ بن الحسين ولا الباقر عليهما السلام ولو كان هؤلاء على دين هؤلاء."
+      },
+      "translations": {
+        "en.badr-shahin": {
+          "segments": [
+            "(The same previous series of relaters)… from al-Hasan bin Ali from Aassim bin Hamid from Omar bin Hanzhala that Abu Abdullah (a) said: O Omar, Allah surely grants the pleasures of this world to everyone whether He likes or dislikes, but He does not grant this matter except for His choice. You, by Allah, are following my religion as well as the religion of my forefathers Abraham and Ishmael, not Ali bin al-Hussein or al-Baqir (a) although these are following the religion of those."
+          ],
+          "text": "(The same previous series of relaters)… from al-Hasan bin Ali from Aassim bin Hamid from Omar bin Hanzhala that Abu Abdullah (a) said: O Omar, Allah surely grants the pleasures of this world to everyone whether He likes or dislikes, but He does not grant this matter except for His choice. You, by Allah, are following my religion as well as the religion of my forefathers Abraham and Ishmael, not Ali bin al-Hussein or al-Baqir (a) although these are following the religion of those."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "وبهذا الاسناد، عن الحسن بن علي، عن عاصم بن حميد، عن عمر بن حنظلة، قال",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "وبهذا الاسناد،",
+            "path": "/people/narrators/4521"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "الحسن بن علي،",
+            "path": "/people/narrators/63"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "عاصم بن حميد،",
+            "path": "/people/narrators/79"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "عمر بن حنظلة، قال",
+            "path": "/people/narrators/389"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4521",
+          "/people/narrators/63",
+          "/people/narrators/79",
+          "/people/narrators/389"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/fadail-al-shia:37:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/fadail-al-shia/37/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/25/1/41/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

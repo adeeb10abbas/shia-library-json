@@ -1,0 +1,745 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:7:3:8",
+  "chapter": {
+    "path": "/books/al-kafi:7:3:8",
+    "titles": {
+      "ar": "باب صِفَةِ الرَّجْمِ",
+      "en": "Chapter 8 – Description of the stoning"
+    }
+  },
+  "count": 6,
+  "records": [
+    {
+      "id": "al-kafi:7:3:8:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:3:8:1",
+        "parts": [
+          7,
+          3,
+          8,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 3,
+        "chapter": 8,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:3:8",
+        "titles": {
+          "ar": "باب صِفَةِ الرَّجْمِ",
+          "en": "Chapter 8 – Description of the stoning"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ أَبُو عَبْدِ اللَّهِ ( عليه السلام ) تُدْفَنُ الْمَرْأَةُ إِلَى وَسَطِهَا إِذَا أَرَادُوا أَنْ يَرْجُمُوهَا وَ يَرْمِي الْإِمَامُ ثُمَّ النَّاسُ بَعْدُ بِأَحْجَارٍ صِغَارٍ ."
+        ],
+        "text": "قَالَ أَبُو عَبْدِ اللَّهِ ( عليه السلام ) تُدْفَنُ الْمَرْأَةُ إِلَى وَسَطِهَا إِذَا أَرَادُوا أَنْ يَرْجُمُوهَا وَ يَرْمِي الْإِمَامُ ثُمَّ النَّاسُ بَعْدُ بِأَحْجَارٍ صِغَارٍ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from Muhammad Bin Isa Bin Ubeyd, from Yunus, from Is’haq Bin Ammar, from Abu Baseer who said, ",
+            "‘Abu Abdullah<sup>asws</sup> said: ‘Bury the woman up to her waist when it is intended to stone her, and the Imam<sup>asws</sup> would pelt, then the people afterwards, with the small stones’."
+          ],
+          "text": "Ali Bin Ibrahim, from Muhammad Bin Isa Bin Ubeyd, from Yunus, from Is’haq Bin Ammar, from Abu Baseer who said,\n\n‘Abu Abdullah<sup>asws</sup> said: ‘Bury the woman up to her waist when it is intended to stone her, and the Imam<sup>asws</sup> would pelt, then the people afterwards, with the small stones’."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ مُحَمَّدِ بْنِ عِيسَى بْنِ عُبَيْدٍ عَنْ يُونُسَ عَنْ إِسْحَاقَ بْنِ عَمَّارٍ عَنْ أَبِي بَصِيرٍ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ عِيسَى بْنِ عُبَيْدٍ",
+            "path": "/people/narrators/135"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "يُونُسَ",
+            "path": "/people/narrators/26"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "إِسْحَاقَ بْنِ عَمَّارٍ",
+            "path": "/people/narrators/44"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي بَصِيرٍ",
+            "path": "/people/narrators/14"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/135",
+          "/people/narrators/26",
+          "/people/narrators/44",
+          "/people/narrators/14"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:7:3:12:1"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:3:8:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/3/8/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:3:8:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:3:8:2",
+        "parts": [
+          7,
+          3,
+          8,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 3,
+        "chapter": 8,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:3:8",
+        "titles": {
+          "ar": "باب صِفَةِ الرَّجْمِ",
+          "en": "Chapter 8 – Description of the stoning"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " تُدْفَنُ الْمَرْأَةُ إِلَى وَسَطِهَا ثُمَّ يَرْمِي الْإِمَامُ ثُمَّ يَرْمِي النَّاسُ بِأَحْجَارٍ صِغَارٍ ."
+        ],
+        "text": "تُدْفَنُ الْمَرْأَةُ إِلَى وَسَطِهَا ثُمَّ يَرْمِي الْإِمَامُ ثُمَّ يَرْمِي النَّاسُ بِأَحْجَارٍ صِغَارٍ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Ahmad Bin Muhammad Bin Khalid, from Usman Bin Isa, from Sama’at Bin Mahran, ",
+            "Abu Abdullah<sup>asws</sup> has said: ‘The woman is buried up to her waist, then the Imam<sup>asws</sup> pelts, then the people pelt, with the small stones’."
+          ],
+          "text": "A number of our companions, from Ahmad Bin Muhammad Bin Khalid, from Usman Bin Isa, from Sama’at Bin Mahran,\n\nAbu Abdullah<sup>asws</sup> has said: ‘The woman is buried up to her waist, then the Imam<sup>asws</sup> pelts, then the people pelt, with the small stones’."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ خَالِدٍ عَنْ عُثْمَانَ بْنِ عِيسَى عَنْ سَمَاعَةَ بْنِ مِهْرَانَ عَنْ أَبِي عَبْدِ اللَّهِ عَلَيْهِ السَّلَامُ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدِ بْنِ خَالِدٍ",
+            "path": "/people/narrators/12"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عُثْمَانَ بْنِ عِيسَى",
+            "path": "/people/narrators/41"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَمَاعَةَ بْنِ مِهْرَانَ",
+            "path": "/people/narrators/149"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " عَلَيْهِ السَّلَامُ قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/12",
+          "/people/narrators/41",
+          "/people/narrators/149",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:2:1:60:14",
+          "/books/al-kafi:2:1:99:28",
+          "/books/al-kafi:6:7:16:8",
+          "/books/al-kafi:6:8:49:1",
+          "/books/al-kafi:7:3:54:1",
+          "/books/al-kafi:7:4:45:1"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:3:8:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/3/8/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:3:8:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:3:8:3",
+        "parts": [
+          7,
+          3,
+          8,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 3,
+        "chapter": 8,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:3:8",
+        "titles": {
+          "ar": "باب صِفَةِ الرَّجْمِ",
+          "en": "Chapter 8 – Description of the stoning"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " إِذَا أَقَرَّ الزَّانِي الْمُحْصَنُ كَانَ أَوَّلَ مَنْ يَرْجُمُهُ الْإِمَامُ ثُمَّ النَّاسُ فَإِذَا قَامَتْ عَلَيْهِ الْبَيِّنَةُ كَانَ أَوَّلَ مَنْ يَرْجُمُهُ الْبَيِّنَةُ ثُمَّ الْإِمَامُ ثُمَّ النَّاسُ ."
+        ],
+        "text": "إِذَا أَقَرَّ الزَّانِي الْمُحْصَنُ كَانَ أَوَّلَ مَنْ يَرْجُمُهُ الْإِمَامُ ثُمَّ النَّاسُ فَإِذَا قَامَتْ عَلَيْهِ الْبَيِّنَةُ كَانَ أَوَّلَ مَنْ يَرْجُمُهُ الْبَيِّنَةُ ثُمَّ الْإِمَامُ ثُمَّ النَّاسُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Ibn Fazzal, from the one who reported it, ",
+            "Abu Abdullah<sup>asws</sup> has said: ‘When the married adulterer confesses, the first one to pelt him would be the Imam<sup>asws</sup>, then the people. So when the proof is established against him, the first ones to pelt him would be the ‘provers’ (four witnesses), then the Imam<sup>asws</sup>, then the people’."
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Ibn Fazzal, from the one who reported it,\n\nAbu Abdullah<sup>asws</sup> has said: ‘When the married adulterer confesses, the first one to pelt him would be the Imam<sup>asws</sup>, then the people. So when the proof is established against him, the first ones to pelt him would be the ‘provers’ (four witnesses), then the Imam<sup>asws</sup>, then the people’."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنِ ابْنِ فَضَّالٍ عَنْ صَفْوَانَ عَمَّنْ رَوَاهُ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ فَضَّالٍ",
+            "path": "/people/narrators/22"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "plain",
+            "text": "صَفْوَانَ عَمَّنْ رَوَاهُ"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/5",
+          "/people/narrators/22",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:3:4:15:7"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:3:8:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/3/8/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:3:8:4",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:3:8:4",
+        "parts": [
+          7,
+          3,
+          8,
+          4
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 3,
+        "chapter": 8,
+        "hadith": 4
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:3:8",
+        "titles": {
+          "ar": "باب صِفَةِ الرَّجْمِ",
+          "en": "Chapter 8 – Description of the stoning"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " تُدْفَنُ الْمَرْأَةُ إِلَى وَسَطِهَا ثُمَّ يَرْمِي الْإِمَامُ وَ يَرْمِي النَّاسُ بِأَحْجَارٍ صِغَارٍ وَ لَا يُدْفَنُ الرَّجُلُ إِذَا رُجِمَ إِلَّا إِلَى حَقْوَيْهِ ."
+        ],
+        "text": "تُدْفَنُ الْمَرْأَةُ إِلَى وَسَطِهَا ثُمَّ يَرْمِي الْإِمَامُ وَ يَرْمِي النَّاسُ بِأَحْجَارٍ صِغَارٍ وَ لَا يُدْفَنُ الرَّجُلُ إِذَا رُجِمَ إِلَّا إِلَى حَقْوَيْهِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from Muhammad Bin Isa Bin Ubeyd, from Yunus, from Sama’at, ",
+            "Abu Abdullah<sup>asws</sup> has said: ‘The woman would be buried up to her waist, then the Imam<sup>asws</sup> would pelt, and the people would pelt, with the small stones; and the man would not be buried when stoned, except up to his loins’."
+          ],
+          "text": "Ali Bin Ibrahim, from Muhammad Bin Isa Bin Ubeyd, from Yunus, from Sama’at,\n\nAbu Abdullah<sup>asws</sup> has said: ‘The woman would be buried up to her waist, then the Imam<sup>asws</sup> would pelt, and the people would pelt, with the small stones; and the man would not be buried when stoned, except up to his loins’."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ مُحَمَّدِ بْنِ عِيسَى بْنِ عُبَيْدٍ عَنْ يُونُسَ عَنْ سَمَاعَةَ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ عِيسَى بْنِ عُبَيْدٍ",
+            "path": "/people/narrators/135"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "يُونُسَ",
+            "path": "/people/narrators/26"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَمَاعَةَ",
+            "path": "/people/narrators/48"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/135",
+          "/people/narrators/26",
+          "/people/narrators/48",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-istibsar:4:48:3",
+          "/books/al-kafi:7:3:2:2"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:3:8:4",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/3/8/4.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:3:8:5",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:3:8:5",
+        "parts": [
+          7,
+          3,
+          8,
+          5
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 3,
+        "chapter": 8,
+        "hadith": 5
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:3:8",
+        "titles": {
+          "ar": "باب صِفَةِ الرَّجْمِ",
+          "en": "Chapter 8 – Description of the stoning"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قُلْتُ لِأَبِي الْحَسَنِ ( عليه السلام ) أَخْبِرْنِي عَنِ الْمُحْصَنِ إِذَا هُوَ هَرَبَ مِنَ الْحَفِيرَةِ هَلْ يُرَدُّ حَتَّى يُقَامَ عَلَيْهِ الْحَدُّ فَقَالَ يُرَدُّ وَ لَا يُرَدُّ فَقُلْتُ وَ كَيْفَ ذَلِكَ فَقَالَ إِذَا كَانَ هُوَ الْمُقِرَّ عَلَى نَفْسِهِ ثُمَّ هَرَبَ مِنَ الْحَفِيرَةِ بَعْدَ مَا يُصِيبُهُ شَيْ‏ءٌ مِنَ الْحِجَارَةِ لَمْ يُرَدَّ ",
+          "وَ إِنْ كَانَ إِنَّمَا قَامَتْ عَلَيْهِ الْبَيِّنَةُ وَ هُوَ يَجْحَدُ ثُمَّ هَرَبَ رُدَّ وَ هُوَ صَاغِرٌ حَتَّى يُقَامَ عَلَيْهِ الْحَدُّ وَ ذَلِكَ أَنَّ مَاعِزَ بْنَ مَالِكٍ أَقَرَّ عِنْدَ رَسُولِ اللَّهِ ( صلى الله عليه وآله ) بِالزِّنَى فَأَمَرَ بِهِ أَنْ يُرْجَمَ فَهَرَبَ مِنَ الْحَفِيرَةِ فَرَمَاهُ الزُّبَيْرُ بْنُ الْعَوَّامِ بِسَاقِ بَعِيرٍ فَعَقَلَهُ فَسَقَطَ فَلَحِقَهُ النَّاسُ فَقَتَلُوهُ ثُمَّ أَخْبَرُوا رَسُولَ اللَّهِ ( صلى الله عليه وآله ) بِذَلِكَ فَقَالَ لَهُمْ فَهَلَّا تَرَكْتُمُوهُ إِذَا هَرَبَ يَذْهَبُ فَإِنَّمَا هُوَ الَّذِي أَقَرَّ عَلَى نَفْسِهِ ",
+          "وَ قَالَ لَهُمْ أَمَا لَوْ كَانَ عَلِيٌّ حَاضِراً مَعَكُمْ لَمَا ضَلَلْتُمْ ",
+          "قَالَ وَ وَدَاهُ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) مِنْ بَيْتِ مَالِ الْمُسْلِمِينَ ."
+        ],
+        "text": "قُلْتُ لِأَبِي الْحَسَنِ ( عليه السلام ) أَخْبِرْنِي عَنِ الْمُحْصَنِ إِذَا هُوَ هَرَبَ مِنَ الْحَفِيرَةِ هَلْ يُرَدُّ حَتَّى يُقَامَ عَلَيْهِ الْحَدُّ فَقَالَ يُرَدُّ وَ لَا يُرَدُّ فَقُلْتُ وَ كَيْفَ ذَلِكَ فَقَالَ إِذَا كَانَ هُوَ الْمُقِرَّ عَلَى نَفْسِهِ ثُمَّ هَرَبَ مِنَ الْحَفِيرَةِ بَعْدَ مَا يُصِيبُهُ شَيْ‏ءٌ مِنَ الْحِجَارَةِ لَمْ يُرَدَّ\n\nوَ إِنْ كَانَ إِنَّمَا قَامَتْ عَلَيْهِ الْبَيِّنَةُ وَ هُوَ يَجْحَدُ ثُمَّ هَرَبَ رُدَّ وَ هُوَ صَاغِرٌ حَتَّى يُقَامَ عَلَيْهِ الْحَدُّ وَ ذَلِكَ أَنَّ مَاعِزَ بْنَ مَالِكٍ أَقَرَّ عِنْدَ رَسُولِ اللَّهِ ( صلى الله عليه وآله ) بِالزِّنَى فَأَمَرَ بِهِ أَنْ يُرْجَمَ فَهَرَبَ مِنَ الْحَفِيرَةِ فَرَمَاهُ الزُّبَيْرُ بْنُ الْعَوَّامِ بِسَاقِ بَعِيرٍ فَعَقَلَهُ فَسَقَطَ فَلَحِقَهُ النَّاسُ فَقَتَلُوهُ ثُمَّ أَخْبَرُوا رَسُولَ اللَّهِ ( صلى الله عليه وآله ) بِذَلِكَ فَقَالَ لَهُمْ فَهَلَّا تَرَكْتُمُوهُ إِذَا هَرَبَ يَذْهَبُ فَإِنَّمَا هُوَ الَّذِي أَقَرَّ عَلَى نَفْسِهِ\n\nوَ قَالَ لَهُمْ أَمَا لَوْ كَانَ عَلِيٌّ حَاضِراً مَعَكُمْ لَمَا ضَلَلْتُمْ\n\nقَالَ وَ وَدَاهُ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) مِنْ بَيْتِ مَالِ الْمُسْلِمِينَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father, from Amro Bin Usman, from Al Husayn Bin Khalid who said, ",
+            "‘I said to Abu Al-Hassan<sup>asws</sup>, ‘Inform me about the married man when he flees from the pit, would he be returned until the Penalty (<span class=\"iTxt\">Hadd</span>) (of stoning) is established upon him?’ So he<sup>asws</sup> said: ‘He would be returned and not returned’. So I said, ‘And how is that?’ So he<sup>asws</sup> said: ‘If was a confessor upon himself, then he fled from the pit after something having hit him, from the stones, he would not be returned.",
+            "And if it was so that the proof was established against him, and he was arguing against it, then he flees, he would be returned and would be humiliated until the Penalty (<span class=\"iTxt\">Hadd</span>) is established against him. And that is that Maiz Bin Malik accepted in the presence of Rasool-Allah<sup>saww</sup> with having committed adultery. So he<sup>saww</sup> ordered that he should be stoned, so he fled from the pit. So Al-Zubeyr Bin Al-Awwam hit him with a left of a camel, so he was injured and fell down. So the people came over and killed him. Then Rasool-Allah<sup>saww</sup> was informed of that, so he<sup>saww</sup> said to them: ‘If only you would have left him alone when he fled, he would have gone. But rather, it was he who accepted it upon himself’. ",
+            "And he<sup>saww</sup> said:’ And if Ali<sup>asws</sup> had been present with you all, you would not have gone astray’. ",
+            "He<sup>asws</sup> said: ‘And Rasool-Allah<sup>saww</sup> paid (his wergild – the blood money) from the public treasury of the Muslims’."
+          ],
+          "text": "Ali Bin Ibrahim, from his father, from Amro Bin Usman, from Al Husayn Bin Khalid who said,\n\n‘I said to Abu Al-Hassan<sup>asws</sup>, ‘Inform me about the married man when he flees from the pit, would he be returned until the Penalty (<span class=\"iTxt\">Hadd</span>) (of stoning) is established upon him?’ So he<sup>asws</sup> said: ‘He would be returned and not returned’. So I said, ‘And how is that?’ So he<sup>asws</sup> said: ‘If was a confessor upon himself, then he fled from the pit after something having hit him, from the stones, he would not be returned.\n\nAnd if it was so that the proof was established against him, and he was arguing against it, then he flees, he would be returned and would be humiliated until the Penalty (<span class=\"iTxt\">Hadd</span>) is established against him. And that is that Maiz Bin Malik accepted in the presence of Rasool-Allah<sup>saww</sup> with having committed adultery. So he<sup>saww</sup> ordered that he should be stoned, so he fled from the pit. So Al-Zubeyr Bin Al-Awwam hit him with a left of a camel, so he was injured and fell down. So the people came over and killed him. Then Rasool-Allah<sup>saww</sup> was informed of that, so he<sup>saww</sup> said to them: ‘If only you would have left him alone when he fled, he would have gone. But rather, it was he who accepted it upon himself’.\n\nAnd he<sup>saww</sup> said:’ And if Ali<sup>asws</sup> had been present with you all, you would not have gone astray’.\n\nHe<sup>asws</sup> said: ‘And Rasool-Allah<sup>saww</sup> paid (his wergild – the blood money) from the public treasury of the Muslims’."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنْ عَمْرِو بْنِ عُثْمَانَ عَنِ الْحُسَيْنِ بْنِ خَالِدٍ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَمْرِو بْنِ عُثْمَانَ",
+            "path": "/people/narrators/129"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحُسَيْنِ بْنِ خَالِدٍ",
+            "path": "/people/narrators/323"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/129",
+          "/people/narrators/323"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:6:6:2:4"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:3:8:5",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/3/8/5.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:3:8:6",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:3:8:6",
+        "parts": [
+          7,
+          3,
+          8,
+          6
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 3,
+        "chapter": 8,
+        "hadith": 6
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:3:8",
+        "titles": {
+          "ar": "باب صِفَةِ الرَّجْمِ",
+          "en": "Chapter 8 – Description of the stoning"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ أَبُو عَبْدِ اللَّهِ ( عليه السلام ) أَتَى النَّبِيَّ ( صلى الله عليه وآله ) رَجُلٌ فَقَالَ إِنِّي زَنَيْتُ فَطَهِّرْنِي فَصَرَفَ النَّبِيُّ ( صلى الله عليه وآله ) وَجْهَهُ عَنْهُ فَأَتَاهُ مِنْ جَانِبِهِ الْآخَرِ ثُمَّ قَالَ مِثْلَ مَا قَالَ فَصَرَفَ وَجْهَهُ عَنْهُ ثُمَّ جَاءَ الثَّالِثَةَ فَقَالَ لَهُ يَا رَسُولَ اللَّهِ إِنِّي زَنَيْتُ وَ عَذَابُ الدُّنْيَا أَهْوَنُ لِي مِنْ عَذَابِ الْآخِرَةِ فَقَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) أَ بِصَاحِبِكُمْ بَأْسٌ يَعْنِي جِنَّةً فَقَالُوا لَا فَأَقَرَّ عَلَى نَفْسِهِ الرَّابِعَةَ ",
+          "فَأَمَرَ بِهِ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) أَنْ يُرْجَمَ فَحَفَرُوا لَهُ حَفِيرَةً فَلَمَّا وَجَدَ مَسَّ الْحِجَارَةِ خَرَجَ يَشْتَدُّ فَلَقِيَهُ الزُّبَيْرُ فَرَمَاهُ بِسَاقِ بَعِيرٍ فَسَقَطَ فَعَقَلَهُ بِهِ فَأَدْرَكَهُ النَّاسُ فَقَتَلُوهُ فَأَخْبَرُوا رَسُولَ اللَّهِ ( صلى الله عليه وآله ) بِذَلِكَ فَقَالَ هَلَّا تَرَكْتُمُوهُ ثُمَّ قَالَ لَوِ اسْتَتَرَ ثُمَّ تَابَ كَانَ خَيْراً لَهُ ."
+        ],
+        "text": "قَالَ أَبُو عَبْدِ اللَّهِ ( عليه السلام ) أَتَى النَّبِيَّ ( صلى الله عليه وآله ) رَجُلٌ فَقَالَ إِنِّي زَنَيْتُ فَطَهِّرْنِي فَصَرَفَ النَّبِيُّ ( صلى الله عليه وآله ) وَجْهَهُ عَنْهُ فَأَتَاهُ مِنْ جَانِبِهِ الْآخَرِ ثُمَّ قَالَ مِثْلَ مَا قَالَ فَصَرَفَ وَجْهَهُ عَنْهُ ثُمَّ جَاءَ الثَّالِثَةَ فَقَالَ لَهُ يَا رَسُولَ اللَّهِ إِنِّي زَنَيْتُ وَ عَذَابُ الدُّنْيَا أَهْوَنُ لِي مِنْ عَذَابِ الْآخِرَةِ فَقَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) أَ بِصَاحِبِكُمْ بَأْسٌ يَعْنِي جِنَّةً فَقَالُوا لَا فَأَقَرَّ عَلَى نَفْسِهِ الرَّابِعَةَ\n\nفَأَمَرَ بِهِ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) أَنْ يُرْجَمَ فَحَفَرُوا لَهُ حَفِيرَةً فَلَمَّا وَجَدَ مَسَّ الْحِجَارَةِ خَرَجَ يَشْتَدُّ فَلَقِيَهُ الزُّبَيْرُ فَرَمَاهُ بِسَاقِ بَعِيرٍ فَسَقَطَ فَعَقَلَهُ بِهِ فَأَدْرَكَهُ النَّاسُ فَقَتَلُوهُ فَأَخْبَرُوا رَسُولَ اللَّهِ ( صلى الله عليه وآله ) بِذَلِكَ فَقَالَ هَلَّا تَرَكْتُمُوهُ ثُمَّ قَالَ لَوِ اسْتَتَرَ ثُمَّ تَابَ كَانَ خَيْراً لَهُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from Muhammad Bin Isa, from Yunus, from Aban, from Abu Al Abbas who said, ",
+            "‘Abu Abdullah<sup>asws</sup> said: ‘A man came over to the Prophet<sup>saww</sup> so he said, ‘I have committed adultery, so purify me’. So the Prophet<sup>saww</sup> turned his<sup>saww</sup> face away from him. So he came over from his<sup>saww</sup> other side, then said similar to what he had said. So he<sup>saww</sup> turned his<sup>saww</sup> face away from him. Then he came for the third time, so he said to him<sup>saww</sup>, ‘O Rasool-Allah<sup>saww</sup>! I have committed adultery, and the punishment of the world is easier to me than the Punishment of the Hereafter!’ So Rasool-Allah<sup>saww</sup> said (to his<sup>saww</sup> companions): ‘Is there a problem with your companion?’ – meaning insanity. So they said, ‘No’. So he confessed upon himself for the fourth time.",
+            "So Rasool-Allah<sup>saww</sup> ordered that he be stoned, so they dug out a pit for him. So when he found the touch of the stone (being pelted), he came out fleeing hurriedly. So Al-Zubayr met him, and hit him with a leg of a camel. So he fell injured by it. So the people realised, so they killed him’. So they informed Rasool-Allah<sup>saww</sup> of that, so he<sup>saww</sup> said: ‘If only you had just left him alone’. Then he<sup>saww</sup> said: ‘Had he hid himself, then repented, that would have been better for him’."
+          ],
+          "text": "Ali Bin Ibrahim, from Muhammad Bin Isa, from Yunus, from Aban, from Abu Al Abbas who said,\n\n‘Abu Abdullah<sup>asws</sup> said: ‘A man came over to the Prophet<sup>saww</sup> so he said, ‘I have committed adultery, so purify me’. So the Prophet<sup>saww</sup> turned his<sup>saww</sup> face away from him. So he came over from his<sup>saww</sup> other side, then said similar to what he had said. So he<sup>saww</sup> turned his<sup>saww</sup> face away from him. Then he came for the third time, so he said to him<sup>saww</sup>, ‘O Rasool-Allah<sup>saww</sup>! I have committed adultery, and the punishment of the world is easier to me than the Punishment of the Hereafter!’ So Rasool-Allah<sup>saww</sup> said (to his<sup>saww</sup> companions): ‘Is there a problem with your companion?’ – meaning insanity. So they said, ‘No’. So he confessed upon himself for the fourth time.\n\nSo Rasool-Allah<sup>saww</sup> ordered that he be stoned, so they dug out a pit for him. So when he found the touch of the stone (being pelted), he came out fleeing hurriedly. So Al-Zubayr met him, and hit him with a leg of a camel. So he fell injured by it. So the people realised, so they killed him’. So they informed Rasool-Allah<sup>saww</sup> of that, so he<sup>saww</sup> said: ‘If only you had just left him alone’. Then he<sup>saww</sup> said: ‘Had he hid himself, then repented, that would have been better for him’."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ مُحَمَّدِ بْنِ عِيسَى عَنْ يُونُسَ عَنْ أَبَانٍ عَنْ أَبِي الْعَبَّاسِ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ عِيسَى",
+            "path": "/people/narrators/27"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "يُونُسَ",
+            "path": "/people/narrators/26"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبَانٍ",
+            "path": "/people/narrators/46"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي الْعَبَّاسِ",
+            "path": "/people/narrators/201"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/27",
+          "/people/narrators/26",
+          "/people/narrators/46",
+          "/people/narrators/201"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:3:8:6",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/3/8/6.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

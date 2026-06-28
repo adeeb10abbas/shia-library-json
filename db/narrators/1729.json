@@ -1,0 +1,86 @@
+{
+  "id": 1729,
+  "type": "narrator",
+  "path": "/people/narrators/1729",
+  "titles": {
+    "ar": "يَزِيدَ بْنِ حَمَّادٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:3:190:11",
+    "/books/al-kafi:8:1:37:10"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "1729-31": {
+      "narrator_ids": [
+        1729,
+        31
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:37:10"
+      ]
+    },
+    "1729-78": {
+      "narrator_ids": [
+        1729,
+        78
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:190:11"
+      ]
+    },
+    "5-669-1729-78-100-9-669": {
+      "narrator_ids": [
+        5,
+        669,
+        1729,
+        78,
+        100,
+        9,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:190:11"
+      ]
+    },
+    "656-1729": {
+      "narrator_ids": [
+        656,
+        1729
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:37:10"
+      ]
+    },
+    "669-1729": {
+      "narrator_ids": [
+        669,
+        1729
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:190:11"
+      ]
+    },
+    "8-101-656-1729-31": {
+      "narrator_ids": [
+        8,
+        101,
+        656,
+        1729,
+        31
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:37:10"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1729",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1729.json"
+  }
+}

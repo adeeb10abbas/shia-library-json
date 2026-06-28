@@ -1,0 +1,627 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:4:3:213",
+  "chapter": {
+    "path": "/books/al-kafi:4:3:213",
+    "titles": {
+      "ar": "بَابُ زِيَارَةِ النَّبِيِّ ( صلى الله عليه وآله )",
+      "en": "Chapter 213 – Ziyarat-Al-Nabi (visitation) of the Prophetsaww"
+    }
+  },
+  "count": 5,
+  "records": [
+    {
+      "id": "al-kafi:4:3:213:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:4:3:213:1",
+        "parts": [
+          4,
+          3,
+          213,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 3,
+        "chapter": 213,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:4:3:213",
+        "titles": {
+          "ar": "بَابُ زِيَارَةِ النَّبِيِّ ( صلى الله عليه وآله )",
+          "en": "Chapter 213 – Ziyarat-Al-Nabi (visitation) of the Prophetsaww"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قُلْتُ لِأَبِي جَعْفَرٍ ( عليه السلام ) جُعِلْتُ فِدَاكَ مَا لِمَنْ زَارَ رَسُولَ اللَّهِ ( صلى الله عليه وآله ) مُتَعَمِّداً فَقَالَ لَهُ الْجَنَّةُ ."
+        ],
+        "text": "قُلْتُ لِأَبِي جَعْفَرٍ ( عليه السلام ) جُعِلْتُ فِدَاكَ مَا لِمَنْ زَارَ رَسُولَ اللَّهِ ( صلى الله عليه وآله ) مُتَعَمِّداً فَقَالَ لَهُ الْجَنَّةُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Ahmad Bin Muhammad Bin Isa, from Ibn Abu Najran who said, ",
+            "‘I said, ‘May I be sacrificed for you<sup>asws</sup>! What is for the one who, purposely, visits Rasool-Allah<sup>saww</sup>?’ So he<sup>asws</sup> said: ‘For him is the Paradise’."
+          ],
+          "text": "A number of our companions, from Ahmad Bin Muhammad Bin Isa, from Ibn Abu Najran who said,\n\n‘I said, ‘May I be sacrificed for you<sup>asws</sup>! What is for the one who, purposely, visits Rasool-Allah<sup>saww</sup>?’ So he<sup>asws</sup> said: ‘For him is the Paradise’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. A number of our people have narrated from Ahmad ibn Muhammad ibn ‘Isa from ibn abu Najran who has said the following: “I once asked abu Ja’far, ‘Alayhi al-Salam, ’What is the reward for one who visits the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, voluntarily?’ He (the Imam) replied, ’The reward for him is paradise.’” "
+          ],
+          "text": "1. A number of our people have narrated from Ahmad ibn Muhammad ibn ‘Isa from ibn abu Najran who has said the following: “I once asked abu Ja’far, ‘Alayhi al-Salam, ’What is the reward for one who visits the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, voluntarily?’ He (the Imam) replied, ’The reward for him is paradise.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> صحيح    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (18/257)",
+          "label": "صحيح",
+          "text": "Allamah Baqir al-Majlisi: صحيح - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (18/257)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى عَنِ ابْنِ أَبِي نَجْرَانَ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى",
+            "path": "/people/narrators/13"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ أَبِي نَجْرَانَ",
+            "path": "/people/narrators/74"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/13",
+          "/people/narrators/74"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:4:3:213:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/4/3/213/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:4:3:213:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:4:3:213:2",
+        "parts": [
+          4,
+          3,
+          213,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 3,
+        "chapter": 213,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:4:3:213",
+        "titles": {
+          "ar": "بَابُ زِيَارَةِ النَّبِيِّ ( صلى الله عليه وآله )",
+          "en": "Chapter 213 – Ziyarat-Al-Nabi (visitation) of the Prophetsaww"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " إِنَّ زِيَارَةَ قَبْرِ رَسُولِ اللَّهِ ( صلى الله عليه وآله ) وَ زِيَارَةَ قُبُورِ الشُّهَدَاءِ وَ زِيَارَةَ قَبْرِ الْحُسَيْنِ ( عليه السلام ) تَعْدِلُ حَجَّةً مَعَ رَسُولِ اللَّهِ ( صلى الله عليه وآله ) ."
+        ],
+        "text": "إِنَّ زِيَارَةَ قَبْرِ رَسُولِ اللَّهِ ( صلى الله عليه وآله ) وَ زِيَارَةَ قُبُورِ الشُّهَدَاءِ وَ زِيَارَةَ قَبْرِ الْحُسَيْنِ ( عليه السلام ) تَعْدِلُ حَجَّةً مَعَ رَسُولِ اللَّهِ ( صلى الله عليه وآله ) ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ahmad Bin Muhammad, from Al Hassan Bin Ali, from Hareyz, from Fuzayl Bin Yasaar, ",
+            "He<sup>asws</sup> said, ‘The <span class=\"iTxt\">Ziyarah</span> of the grave of Rasool-Allah<sup>saww</sup>, and <span class=\"iTxt\">Ziyarah</span> of the martyrs, and <span class=\"iTxt\">Ziyarah</span> of the grave of Al-Husayn<sup>asws</sup> equates to having performed a Hajj with Rasool-Allah<sup>saww</sup>’."
+          ],
+          "text": "Ahmad Bin Muhammad, from Al Hassan Bin Ali, from Hareyz, from Fuzayl Bin Yasaar,\n\nHe<sup>asws</sup> said, ‘The <span class=\"iTxt\">Ziyarah</span> of the grave of Rasool-Allah<sup>saww</sup>, and <span class=\"iTxt\">Ziyarah</span> of the martyrs, and <span class=\"iTxt\">Ziyarah</span> of the grave of Al-Husayn<sup>asws</sup> equates to having performed a Hajj with Rasool-Allah<sup>saww</sup>’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. Ahmad ibn Muhammad has narrated from al-Hassan ibn Ali from Hariz from Fudayl ibn Yasar who (in a Mawquf manner) has said the following: “He (the Imam), ‘Alayhi al-Salam has said, ‘Visiting the grave of the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, the graves of the martyrs and the grave of Imam al-Husayn, ‘Alayhi al-Salam, is equal to performing al-Hajj along with the Messenger of Allah.” "
+          ],
+          "text": "2. Ahmad ibn Muhammad has narrated from al-Hassan ibn Ali from Hariz from Fudayl ibn Yasar who (in a Mawquf manner) has said the following: “He (the Imam), ‘Alayhi al-Salam has said, ‘Visiting the grave of the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, the graves of the martyrs and the grave of Imam al-Husayn, ‘Alayhi al-Salam, is equal to performing al-Hajj along with the Messenger of Allah.”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> موثق كالصحيح    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (18/257)",
+          "label": "موثق كالصحيح",
+          "text": "Allamah Baqir al-Majlisi: موثق كالصحيح - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (18/257)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "أَحْمَدُ بْنُ مُحَمَّدٍ عَنِ الْحَسَنِ بْنِ عَلِيٍّ عَنْ حَرِيزٍ عَنْ فُضَيْلِ بْنِ يَسَارٍ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدُ بْنُ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحَسَنِ بْنِ عَلِيٍّ",
+            "path": "/people/narrators/63"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "حَرِيزٍ",
+            "path": "/people/narrators/40"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "فُضَيْلِ بْنِ يَسَارٍ",
+            "path": "/people/narrators/193"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/5",
+          "/people/narrators/63",
+          "/people/narrators/40",
+          "/people/narrators/193"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:4:3:213:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/4/3/213/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:4:3:213:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:4:3:213:3",
+        "parts": [
+          4,
+          3,
+          213,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 3,
+        "chapter": 213,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:4:3:213",
+        "titles": {
+          "ar": "بَابُ زِيَارَةِ النَّبِيِّ ( صلى الله عليه وآله )",
+          "en": "Chapter 213 – Ziyarat-Al-Nabi (visitation) of the Prophetsaww"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) مَنْ أَتَانِي زَائِراً كُنْتُ شَفِيعَهُ يَوْمَ الْقِيَامَةِ ."
+        ],
+        "text": "قَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) مَنْ أَتَانِي زَائِراً كُنْتُ شَفِيعَهُ يَوْمَ الْقِيَامَةِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ahmad Bin Muhammad, from Ibn Mahboub, from Aban, from Al Sadousy, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup> said: ‘The one who comes to me<sup>saww</sup> for <span class=\"iTxt\">Ziyarah</span>, I<sup>saww</sup> shall intercede for him on the Day of Judgement’."
+          ],
+          "text": "Ahmad Bin Muhammad, from Ibn Mahboub, from Aban, from Al Sadousy,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup> said: ‘The one who comes to me<sup>saww</sup> for <span class=\"iTxt\">Ziyarah</span>, I<sup>saww</sup> shall intercede for him on the Day of Judgement’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "3. Ahmad ibn Muhammad has narrated from ibn Mahbub from Aban from al-Sadusiy who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, has said, ‘Whoever comes to visit me, I will intercede on his behalf on the Day of Judgment.’” "
+          ],
+          "text": "3. Ahmad ibn Muhammad has narrated from ibn Mahbub from Aban from al-Sadusiy who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, has said, ‘Whoever comes to visit me, I will intercede on his behalf on the Day of Judgment.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مجهول    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (18/257)",
+          "label": "مجهول",
+          "text": "Allamah Baqir al-Majlisi: مجهول - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (18/257)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "أَحْمَدُ بْنُ مُحَمَّدٍ عَنِ ابْنِ مَحْبُوبٍ عَنْ أَبَانٍ عَنِ السَّدُوسِيِّ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدُ بْنُ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ مَحْبُوبٍ",
+            "path": "/people/narrators/10"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبَانٍ",
+            "path": "/people/narrators/46"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "السَّدُوسِيِّ",
+            "path": "/people/narrators/2696"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/5",
+          "/people/narrators/10",
+          "/people/narrators/46",
+          "/people/narrators/2696",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:4:3:213:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/4/3/213/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:4:3:213:4",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:4:3:213:4",
+        "parts": [
+          4,
+          3,
+          213,
+          4
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 3,
+        "chapter": 213,
+        "hadith": 4
+      },
+      "chapter": {
+        "path": "/books/al-kafi:4:3:213",
+        "titles": {
+          "ar": "بَابُ زِيَارَةِ النَّبِيِّ ( صلى الله عليه وآله )",
+          "en": "Chapter 213 – Ziyarat-Al-Nabi (visitation) of the Prophetsaww"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ الْحُسَيْنُ ( عليه السلام ) لِرَسُولِ اللَّهِ ( صلى الله عليه وآله ) يَا أَبَتَاهْ مَا لِمَنْ زَارَكَ فَقَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) يَا بُنَيَّ مَنْ زَارَنِي حَيّاً أَوْ مَيِّتاً أَوْ زَارَ أَبَاكَ أَوْ زَارَ أَخَاكَ أَوْ زَارَكَ كَانَ حَقّاً عَلَيَّ أَنْ أَزُورَهُ يَوْمَ الْقِيَامَةِ وَ أُخَلِّصَهُ مِنْ ذُنُوبِهِ ."
+        ],
+        "text": "قَالَ الْحُسَيْنُ ( عليه السلام ) لِرَسُولِ اللَّهِ ( صلى الله عليه وآله ) يَا أَبَتَاهْ مَا لِمَنْ زَارَكَ فَقَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) يَا بُنَيَّ مَنْ زَارَنِي حَيّاً أَوْ مَيِّتاً أَوْ زَارَ أَبَاكَ أَوْ زَارَ أَخَاكَ أَوْ زَارَكَ كَانَ حَقّاً عَلَيَّ أَنْ أَزُورَهُ يَوْمَ الْقِيَامَةِ وَ أُخَلِّصَهُ مِنْ ذُنُوبِهِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Ahmad Bin Abu Abdullah, from Usman Bin Isa, from Al Moalla Abu Shihaab who said, ",
+            "‘Al-Husayn<sup>asws</sup> said to Rasool-Allah<sup>saww</sup>: ‘O father<sup>saww</sup>! What is for the one who performs your<sup>saww</sup> <span class=\"iTxt\">Ziyarah</span>?’ So Rasool-Allah<sup>saww</sup> said: ‘O my<sup>saww</sup> son<sup>asws</sup>! The one who performs my<sup>saww</sup> <span class=\"iTxt\">Ziyarah</span>, whether I<sup>saww</sup> alive or passed away, or <span class=\"iTxt\">Ziyarah</span> of your<sup>asws</sup> father<sup>asws</sup>, or <span class=\"iTxt\">Ziyarah</span> of your<sup>asws</sup> brother<sup>asws</sup>, or your<sup>asws</sup> <span class=\"iTxt\">Ziyarah</span>, would have a right upon me<sup>saww</sup> that I<sup>saww</sup> visit him on the Day of Judgement, and erase his sins’."
+          ],
+          "text": "A number of our companions, from Ahmad Bin Abu Abdullah, from Usman Bin Isa, from Al Moalla Abu Shihaab who said,\n\n‘Al-Husayn<sup>asws</sup> said to Rasool-Allah<sup>saww</sup>: ‘O father<sup>saww</sup>! What is for the one who performs your<sup>saww</sup> <span class=\"iTxt\">Ziyarah</span>?’ So Rasool-Allah<sup>saww</sup> said: ‘O my<sup>saww</sup> son<sup>asws</sup>! The one who performs my<sup>saww</sup> <span class=\"iTxt\">Ziyarah</span>, whether I<sup>saww</sup> alive or passed away, or <span class=\"iTxt\">Ziyarah</span> of your<sup>asws</sup> father<sup>asws</sup>, or <span class=\"iTxt\">Ziyarah</span> of your<sup>asws</sup> brother<sup>asws</sup>, or your<sup>asws</sup> <span class=\"iTxt\">Ziyarah</span>, would have a right upon me<sup>saww</sup> that I<sup>saww</sup> visit him on the Day of Judgement, and erase his sins’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "4. A number of our people have narrated from Ahmad ibn abu ‘Abd Allah from ‘Uthman ibn ‘Isa from al-Mu‘alla’ abu Shihab who has said the following: “He (the Imam), ‘Alayhi al-Salam, has said that al-Husayn, ‘Alayhi al-Salam, once asked, ‘What, O grandfather, is the reward for one who visits you?’ The Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, replied as follows: ‘My son, whoever visits me in my lifetime or after I die, or visits your father, your brother or visits you, it becomes necessary for me to visit him on the Day of Judgment to save him from his sins.’” "
+          ],
+          "text": "4. A number of our people have narrated from Ahmad ibn abu ‘Abd Allah from ‘Uthman ibn ‘Isa from al-Mu‘alla’ abu Shihab who has said the following: “He (the Imam), ‘Alayhi al-Salam, has said that al-Husayn, ‘Alayhi al-Salam, once asked, ‘What, O grandfather, is the reward for one who visits you?’ The Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, replied as follows: ‘My son, whoever visits me in my lifetime or after I die, or visits your father, your brother or visits you, it becomes necessary for me to visit him on the Day of Judgment to save him from his sins.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مجهول   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (8/257)",
+          "label": "مجهول",
+          "text": "Allamah Baqir al-Majlisi: مجهول - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (8/257)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ أَحْمَدَ بْنِ أَبِي عَبْدِ اللَّهِ عَنْ عُثْمَانَ بْنِ عِيسَى عَنِ الْمُعَلَّى أَبِي شِهَابٍ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ أَبِي عَبْدِ اللَّهِ",
+            "path": "/people/narrators/12"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عُثْمَانَ بْنِ عِيسَى",
+            "path": "/people/narrators/41"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْمُعَلَّى أَبِي شِهَابٍ",
+            "path": "/people/narrators/2799"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/12",
+          "/people/narrators/41",
+          "/people/narrators/2799"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:4:3:213:4",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/4/3/213/4.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:4:3:213:5",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:4:3:213:5",
+        "parts": [
+          4,
+          3,
+          213,
+          5
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 3,
+        "chapter": 213,
+        "hadith": 5
+      },
+      "chapter": {
+        "path": "/books/al-kafi:4:3:213",
+        "titles": {
+          "ar": "بَابُ زِيَارَةِ النَّبِيِّ ( صلى الله عليه وآله )",
+          "en": "Chapter 213 – Ziyarat-Al-Nabi (visitation) of the Prophetsaww"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) مَنْ أَتَى مَكَّةَ حَاجّاً وَ لَمْ يَزُرْنِي إِلَى الْمَدِينَةِ جَفَوْتُهُ يَوْمَ الْقِيَامَةِ وَ مَنْ أَتَانِي زَائِراً وَجَبَتْ لَهُ شَفَاعَتِي وَ مَنْ وَجَبَتْ لَهُ شَفَاعَتِي وَجَبَتْ لَهُ الْجَنَّةُ ",
+          "وَ مَنْ مَاتَ فِي أَحَدِ الْحَرَمَيْنِ مَكَّةَ وَ الْمَدِينَةِ لَمْ يُعْرَضْ وَ لَمْ يُحَاسَبْ وَ مَنْ مَاتَ مُهَاجِراً إِلَى اللَّهِ عَزَّ وَ جَلَّ حُشِرَ يَوْمَ الْقِيَامَةِ مَعَ أَصْحَابِ بَدْرٍ ."
+        ],
+        "text": "قَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) مَنْ أَتَى مَكَّةَ حَاجّاً وَ لَمْ يَزُرْنِي إِلَى الْمَدِينَةِ جَفَوْتُهُ يَوْمَ الْقِيَامَةِ وَ مَنْ أَتَانِي زَائِراً وَجَبَتْ لَهُ شَفَاعَتِي وَ مَنْ وَجَبَتْ لَهُ شَفَاعَتِي وَجَبَتْ لَهُ الْجَنَّةُ\n\nوَ مَنْ مَاتَ فِي أَحَدِ الْحَرَمَيْنِ مَكَّةَ وَ الْمَدِينَةِ لَمْ يُعْرَضْ وَ لَمْ يُحَاسَبْ وَ مَنْ مَاتَ مُهَاجِراً إِلَى اللَّهِ عَزَّ وَ جَلَّ حُشِرَ يَوْمَ الْقِيَامَةِ مَعَ أَصْحَابِ بَدْرٍ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Muhammad Bin Bundar, from Ibrahim Bin Is’haq, from Muhammad Bin Suleyman Al Dalaymi, from Abu Hajar Al Aslamy, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup> said: ‘The one who comes to Makkah as a pilgrim and does not perform my<sup>saww</sup> <span class=\"iTxt\">Ziyarah </span>in Al-Medina, I<sup>saww</sup> shall turn away from him on the Day of Judgement; and the one who comes to me<sup>saww</sup> as a visitor, my<sup>saww</sup> intercession would be Obligated upon him; and the one for whom my<sup>saww</sup> intercession is Obligated, the Paradise would be Obligated for him. ",
+            "And the one who dies in one of the two <span class=\"iTxt\">Harrams</span>, Makkah and Al-Medina, would not be exposed (on the Day of Judgement), and would not be Reckoned with; and the one who dies as an emigrant to Allah<sup>azwj</sup> Mighty and Majestic, would be Resurrected on the Day of Judgement along with the companions of (the battle of) Badr’."
+          ],
+          "text": "Ali Bin Muhammad Bin Bundar, from Ibrahim Bin Is’haq, from Muhammad Bin Suleyman Al Dalaymi, from Abu Hajar Al Aslamy,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup> said: ‘The one who comes to Makkah as a pilgrim and does not perform my<sup>saww</sup> <span class=\"iTxt\">Ziyarah </span>in Al-Medina, I<sup>saww</sup> shall turn away from him on the Day of Judgement; and the one who comes to me<sup>saww</sup> as a visitor, my<sup>saww</sup> intercession would be Obligated upon him; and the one for whom my<sup>saww</sup> intercession is Obligated, the Paradise would be Obligated for him.\n\nAnd the one who dies in one of the two <span class=\"iTxt\">Harrams</span>, Makkah and Al-Medina, would not be exposed (on the Day of Judgement), and would not be Reckoned with; and the one who dies as an emigrant to Allah<sup>azwj</sup> Mighty and Majestic, would be Resurrected on the Day of Judgement along with the companions of (the battle of) Badr’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "5. Ali ibn Muhammad ibn Bandar has narrated from Ibrahim ibn Ishaq from Muhammad ibn Sulayman al-Daylamiy from abu Hajar al- Aslamiy who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, has said, ‘Whoever comes to Makkah for al-Hajj but does not visit me, on the Day of Judgment I will turn away from him. Whoever comes to visit me, my intercession on his behalf becomes necessary. One on whose behalf my intercession becomes necessary, for him paradise becomes necessary. Whoever dies in one of the two Sacred areas, Makkah or al-Madinah, will not be exposed or brought in, to present an account of his deeds. Whoever dies during his migration to Allah, the Most Majestic, the Most Glorious, on the Day of Judgment will be raised with the people of Badr.’” "
+          ],
+          "text": "5. Ali ibn Muhammad ibn Bandar has narrated from Ibrahim ibn Ishaq from Muhammad ibn Sulayman al-Daylamiy from abu Hajar al- Aslamiy who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, has said, ‘Whoever comes to Makkah for al-Hajj but does not visit me, on the Day of Judgment I will turn away from him. Whoever comes to visit me, my intercession on his behalf becomes necessary. One on whose behalf my intercession becomes necessary, for him paradise becomes necessary. Whoever dies in one of the two Sacred areas, Makkah or al-Madinah, will not be exposed or brought in, to present an account of his deeds. Whoever dies during his migration to Allah, the Most Majestic, the Most Glorious, on the Day of Judgment will be raised with the people of Badr.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (18/258)",
+          "label": "ضعيف",
+          "text": "Allamah Baqir al-Majlisi: ضعيف - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (18/258)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ مُحَمَّدِ بْنِ بُنْدَارَ عَنْ إِبْرَاهِيمَ بْنِ إِسْحَاقَ عَنْ مُحَمَّدِ بْنِ سُلَيْمَانَ الدَّيْلَمِيِّ عَنْ أَبِي حَجَرٍ الْأَسْلَمِيِّ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ مُحَمَّدِ بْنِ بُنْدَارَ",
+            "path": "/people/narrators/133"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "إِبْرَاهِيمَ بْنِ إِسْحَاقَ",
+            "path": "/people/narrators/376"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ سُلَيْمَانَ الدَّيْلَمِيِّ",
+            "path": "/people/narrators/514"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي حَجَرٍ الْأَسْلَمِيِّ",
+            "path": "/people/narrators/2072"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/133",
+          "/people/narrators/376",
+          "/people/narrators/514",
+          "/people/narrators/2072",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:4:3:213:5",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/4/3/213/5.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

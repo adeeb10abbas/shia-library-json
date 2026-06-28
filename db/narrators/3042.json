@@ -1,0 +1,53 @@
+{
+  "id": 3042,
+  "type": "narrator",
+  "path": "/people/narrators/3042",
+  "titles": {
+    "ar": "حَدَّثَنِي بِهَذَا الْحَدِيثِ الْمِيثَمِيُّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:2:3:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3042-158": {
+      "narrator_ids": [
+        3042,
+        158
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:3:2"
+      ]
+    },
+    "652-3042": {
+      "narrator_ids": [
+        652,
+        3042
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:3:2"
+      ]
+    },
+    "652-3042-158-2920-669": {
+      "narrator_ids": [
+        652,
+        3042,
+        158,
+        2920,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:3:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3042",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3042.json"
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "mujam-al-ahadith-al-mutabara",
+  "chapterPath": "/books/mujam-al-ahadith-al-mutabara:3:1",
+  "chapter": {
+    "path": "/books/mujam-al-ahadith-al-mutabara:3:1",
+    "titles": {
+      "en": "Aban b. Taghlib"
+    }
+  },
+  "count": 2,
+  "records": [
+    {
+      "id": "mujam-al-ahadith-al-mutabara:3:1:1",
+      "type": "hadith",
+      "book": {
+        "slug": "mujam-al-ahadith-al-mutabara",
+        "titles": {
+          "ar": "معجم الأحاديث المعتبرة",
+          "en": "Mu'jam al-Ahadith al-Mu'tabara"
+        },
+        "author": {
+          "en": "Muhammad Asif al-Muhsini"
+        }
+      },
+      "path": {
+        "source": "/books/mujam-al-ahadith-al-mutabara:3:1:1",
+        "parts": [
+          3,
+          1,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 1,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/mujam-al-ahadith-al-mutabara:3:1",
+        "titles": {
+          "en": "Aban b. Taghlib"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": قلت لأبي عبد الله عليه السلام: إني أقعد في المسجد فيجي‏ء الناس فيسألوني فإن لم أجبهم لم يقبلوا مني و أكره أن أجيبهم بقولكم وما جاء عنكم فقال لي انظر ما علمت أنه من قولهم فأخبرهم بذلك"
+        ],
+        "text": ": قلت لأبي عبد الله عليه السلام: إني أقعد في المسجد فيجي‏ء الناس فيسألوني فإن لم أجبهم لم يقبلوا مني و أكره أن أجيبهم بقولكم وما جاء عنكم فقال لي انظر ما علمت أنه من قولهم فأخبرهم بذلك"
+      },
+      "translations": {
+        "en.ammaar-muslim": {
+          "segments": [
+            "1. [1/116] Rijal al-Kashshi: From Hamduwayh from Ya`qub bin Yazid from Ibn Abi Umayr from Ali bin Ismail bin Ammar from Ibn Muskan from Aban bin Taghlib who said: I said to Abi Abdillah عليه السلام: I do sit in the Masjid – and the people come and ask me questions, so if I do not answer them they do not accept from me (i.e. they insist on answers), and I dislike answering them based on your verdicts and according to what has come from you (i.e. since they are not Shia), so he عليه السلام said to me: look at what you know is from their own verdicts and inform them about that (i.e. answer them using their own sources and scholars)."
+          ],
+          "text": "1. [1/116] Rijal al-Kashshi: From Hamduwayh from Ya`qub bin Yazid from Ibn Abi Umayr from Ali bin Ismail bin Ammar from Ibn Muskan from Aban bin Taghlib who said: I said to Abi Abdillah عليه السلام: I do sit in the Masjid – and the people come and ask me questions, so if I do not answer them they do not accept from me (i.e. they insist on answers), and I dislike answering them based on your verdicts and according to what has come from you (i.e. since they are not Shia), so he عليه السلام said to me: look at what you know is from their own verdicts and inform them about that (i.e. answer them using their own sources and scholars)."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "[1/116] رجال الكشي: عن حمدويه، عن يعقوب بن يزيد، عن ابن أبي عمير، عن علي بن إسماعيل بن عمار، عن ابن مسكان، عن أبان بن تغلب قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "[1/116] رجال الكشي:"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "حمدويه،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "يعقوب بن يزيد،",
+            "path": "/people/narrators/101"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابن أبي عمير،",
+            "path": "/people/narrators/7"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "علي بن إسماعيل بن عمار،",
+            "path": "/people/narrators/3733"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابن مسكان،",
+            "path": "/people/narrators/51"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبان بن تغلب قال",
+            "path": "/people/narrators/148"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/101",
+          "/people/narrators/7",
+          "/people/narrators/3733",
+          "/people/narrators/51",
+          "/people/narrators/148"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/mujam-al-ahadith-al-mutabara:3:1:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/mujam-al-ahadith-al-mutabara/3/1/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/9/3/1/1",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "mujam-al-ahadith-al-mutabara:3:1:2",
+      "type": "hadith",
+      "book": {
+        "slug": "mujam-al-ahadith-al-mutabara",
+        "titles": {
+          "ar": "معجم الأحاديث المعتبرة",
+          "en": "Mu'jam al-Ahadith al-Mu'tabara"
+        },
+        "author": {
+          "en": "Muhammad Asif al-Muhsini"
+        }
+      },
+      "path": {
+        "source": "/books/mujam-al-ahadith-al-mutabara:3:1:2",
+        "parts": [
+          3,
+          1,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 1,
+        "chapter": 2
+      },
+      "chapter": {
+        "path": "/books/mujam-al-ahadith-al-mutabara:3:1",
+        "titles": {
+          "en": "Aban b. Taghlib"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": قال لى أبو عبد الله عليه السلام: جالس أهل المدينة فاني أحب أن يرى في شيعتنا مثلك"
+        ],
+        "text": ": قال لى أبو عبد الله عليه السلام: جالس أهل المدينة فاني أحب أن يرى في شيعتنا مثلك"
+      },
+      "translations": {
+        "en.ammaar-muslim": {
+          "segments": [
+            "2. [2/117] Rijal al-Kashshi: From Hamduwayh from Ya`qub b. Yazid from Ibn Abi Umayr from Aban b. Taghlib who said: Abu Abdillah عليه السلام said to me: sit and attend to the people of Madina (answer their questions) – for I like it that someone like you be seen amongst our Shia."
+          ],
+          "text": "2. [2/117] Rijal al-Kashshi: From Hamduwayh from Ya`qub b. Yazid from Ibn Abi Umayr from Aban b. Taghlib who said: Abu Abdillah عليه السلام said to me: sit and attend to the people of Madina (answer their questions) – for I like it that someone like you be seen amongst our Shia."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "[2/117] رجال الكشي: عن حمدويه، عن يعقوب بن يزيد، عن ابن أبي عمير، عن أبان ابن تغلب قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "[2/117] رجال الكشي:"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "حمدويه،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "يعقوب بن يزيد،",
+            "path": "/people/narrators/101"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابن أبي عمير،",
+            "path": "/people/narrators/7"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "أبان ابن تغلب قال"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/101",
+          "/people/narrators/7"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/mujam-al-ahadith-al-mutabara:3:1:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/mujam-al-ahadith-al-mutabara/3/1/2.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/9/3/1/2",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

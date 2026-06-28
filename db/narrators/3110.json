@@ -1,0 +1,53 @@
+{
+  "id": 3110,
+  "type": "narrator",
+  "path": "/people/narrators/3110",
+  "titles": {
+    "ar": "حَمْزَةَ أَبِي يَعْلَى"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:2:6:8"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "13-3110": {
+      "narrator_ids": [
+        13,
+        3110
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:6:8"
+      ]
+    },
+    "3110-4158": {
+      "narrator_ids": [
+        3110,
+        4158
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:6:8"
+      ]
+    },
+    "6-13-3110-4158-669": {
+      "narrator_ids": [
+        6,
+        13,
+        3110,
+        4158,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:6:8"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3110",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3110.json"
+  }
+}

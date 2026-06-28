@@ -1,0 +1,43 @@
+{
+  "id": 3251,
+  "type": "narrator",
+  "path": "/people/narrators/3251",
+  "titles": {
+    "ar": "رَوَاهُ مُحَمَّدُ بْنُ عِيسَى"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:181:16"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3251-559": {
+      "narrator_ids": [
+        3251,
+        559
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:181:16"
+      ]
+    },
+    "3251-559-40-220": {
+      "narrator_ids": [
+        3251,
+        559,
+        40,
+        220
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:181:16"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3251",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3251.json"
+  }
+}

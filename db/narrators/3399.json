@@ -1,0 +1,57 @@
+{
+  "id": 3399,
+  "type": "narrator",
+  "path": "/people/narrators/3399",
+  "titles": {
+    "ar": "شُرَحْبِيلَ بْنِ مُسْلِمٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:1:12:1",
+    "/books/tahdhib-al-ahkam:7:39:19"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "11-4-167-3676-3399": {
+      "narrator_ids": [
+        11,
+        4,
+        167,
+        3676,
+        3399
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:39:19"
+      ]
+    },
+    "3676-3399": {
+      "narrator_ids": [
+        3676,
+        3399
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:12:1",
+        "/books/tahdhib-al-ahkam:7:39:19"
+      ]
+    },
+    "4-167-3676-3399": {
+      "narrator_ids": [
+        4,
+        167,
+        3676,
+        3399
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:12:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3399",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3399.json"
+  }
+}

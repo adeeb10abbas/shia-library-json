@@ -1,0 +1,99 @@
+{
+  "id": 2038,
+  "type": "narrator",
+  "path": "/people/narrators/2038",
+  "titles": {
+    "ar": "أَبِي بَصِيرٍ لَيْثٍ الْمُرَادِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:2:39:1",
+    "/books/man-la-yahduruhu-al-faqih:2:2:18:1",
+    "/books/thawab-al-amal:3:9:22"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "2038-1523": {
+      "narrator_ids": [
+        2038,
+        1523
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:39:1"
+      ]
+    },
+    "2038-669": {
+      "narrator_ids": [
+        2038,
+        669
+      ],
+      "verse_paths": [
+        "/books/thawab-al-amal:3:9:22"
+      ]
+    },
+    "3112-2038": {
+      "narrator_ids": [
+        3112,
+        2038
+      ],
+      "verse_paths": [
+        "/books/thawab-al-amal:3:9:22"
+      ]
+    },
+    "51-2038": {
+      "narrator_ids": [
+        51,
+        2038
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:39:1"
+      ]
+    },
+    "6-5-129-3-2-76-51-2038-1523-669": {
+      "narrator_ids": [
+        6,
+        5,
+        129,
+        3,
+        2,
+        76,
+        51,
+        2038,
+        1523,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:39:1"
+      ]
+    },
+    "77-99-3112-2038-669": {
+      "narrator_ids": [
+        77,
+        99,
+        3112,
+        2038,
+        669
+      ],
+      "verse_paths": [
+        "/books/thawab-al-amal:3:9:22"
+      ]
+    },
+    "79-2038": {
+      "narrator_ids": [
+        79,
+        2038
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:2:2:18:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2038",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2038.json"
+  }
+}

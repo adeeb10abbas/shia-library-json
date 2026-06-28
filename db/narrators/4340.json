@@ -1,0 +1,32 @@
+{
+  "id": 4340,
+  "type": "narrator",
+  "path": "/people/narrators/4340",
+  "titles": {
+    "ar": "مُحَمَّدُ بْنُ يَحْيَى جَمِيعاً رَفَعَاهُ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:3:22:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "200-4340": {
+      "narrator_ids": [
+        200,
+        4340
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:22:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4340",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4340.json"
+  }
+}

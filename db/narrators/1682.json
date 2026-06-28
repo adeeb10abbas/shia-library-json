@@ -1,0 +1,129 @@
+{
+  "id": 1682,
+  "type": "narrator",
+  "path": "/people/narrators/1682",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ مَنْصُورٍ الصَّيْقَلِ"
+  },
+  "versePaths": [
+    "/books/al-istibsar:3:86:7",
+    "/books/al-kafi:1:4:83:6",
+    "/books/al-kafi:3:3:95:3",
+    "/books/kitab-al-ghayba-numani:2:10:23",
+    "/books/man-la-yahduruhu-al-faqih:3:4:9:8",
+    "/books/tahdhib-al-ahkam:8:3:151"
+  ],
+  "verseCount": 6,
+  "relations": {},
+  "subchains": {
+    "124-1682": {
+      "narrator_ids": [
+        124,
+        1682
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-numani:2:10:23"
+      ]
+    },
+    "13-15-1682-2-669": {
+      "narrator_ids": [
+        13,
+        15,
+        1682,
+        2,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:3:86:7"
+      ]
+    },
+    "15-1682": {
+      "narrator_ids": [
+        15,
+        1682
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:3:86:7",
+        "/books/man-la-yahduruhu-al-faqih:3:4:9:8",
+        "/books/tahdhib-al-ahkam:8:3:151"
+      ]
+    },
+    "15-1682-2-669": {
+      "narrator_ids": [
+        15,
+        1682,
+        2,
+        669
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:3:4:9:8",
+        "/books/tahdhib-al-ahkam:8:3:151"
+      ]
+    },
+    "1682-2": {
+      "narrator_ids": [
+        1682,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:3:86:7",
+        "/books/al-kafi:1:4:83:6",
+        "/books/al-kafi:3:3:95:3",
+        "/books/man-la-yahduruhu-al-faqih:3:4:9:8",
+        "/books/tahdhib-al-ahkam:8:3:151"
+      ]
+    },
+    "1819-1682": {
+      "narrator_ids": [
+        1819,
+        1682
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:95:3"
+      ]
+    },
+    "19-24-2210-1819-1682-2": {
+      "narrator_ids": [
+        19,
+        24,
+        2210,
+        1819,
+        1682,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:95:3"
+      ]
+    },
+    "42-1682": {
+      "narrator_ids": [
+        42,
+        1682
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:83:6"
+      ]
+    },
+    "90-35-8-42-1682-2": {
+      "narrator_ids": [
+        90,
+        35,
+        8,
+        42,
+        1682,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:83:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1682",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1682.json"
+  }
+}

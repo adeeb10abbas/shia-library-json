@@ -1,0 +1,831 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:7:2:65",
+  "chapter": {
+    "path": "/books/al-kafi:7:2:65",
+    "titles": {
+      "ar": "باب أَنَّ الْوَلَاءَ لِمَنْ أَعْتَقَ",
+      "en": "Chapter 63 – The guardianship is for the one who emancipates"
+    }
+  },
+  "count": 6,
+  "records": [
+    {
+      "id": "al-kafi:7:2:65:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:2:65:1",
+        "parts": [
+          7,
+          2,
+          65,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 2,
+        "chapter": 65,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:2:65",
+        "titles": {
+          "ar": "باب أَنَّ الْوَلَاءَ لِمَنْ أَعْتَقَ",
+          "en": "Chapter 63 – The guardianship is for the one who emancipates"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ النَّبِيُّ ( صلى الله عليه وآله ) الْوَلَاءُ لِمَنْ أَعْتَقَ ."
+        ],
+        "text": "قَالَ النَّبِيُّ ( صلى الله عليه وآله ) الْوَلَاءُ لِمَنْ أَعْتَقَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father, from Abu Umeyr, from Hammad, from Al Halby and Muhammad Bin Muslim, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The Prophet<sup>saww</sup> said: ‘The guardianship is for the one who emancipates (frees)’."
+          ],
+          "text": "Ali Bin Ibrahim, from his father, from Abu Umeyr, from Hammad, from Al Halby and Muhammad Bin Muslim,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The Prophet<sup>saww</sup> said: ‘The guardianship is for the one who emancipates (frees)’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. Ali ibn Ibrahim has narrated from his father from ibn abu ‘Umayr from Hammad from al-Halabiy and Muhammad ibn Muslim who has narrated the following: “Abu ‘ Abd Allah, ‘Alayhi al-Salam, has said that the Holy Prophet, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, has said, ‘Guardianship rests in favor of one who sets one free.’” "
+          ],
+          "text": "1. Ali ibn Ibrahim has narrated from his father from ibn abu ‘Umayr from Hammad from al-Halabiy and Muhammad ibn Muslim who has narrated the following: “Abu ‘ Abd Allah, ‘Alayhi al-Salam, has said that the Holy Prophet, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, has said, ‘Guardianship rests in favor of one who sets one free.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> حسن  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (3/256)",
+          "label": "حسن",
+          "text": "Allamah Baqir al-Majlisi: حسن - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (3/256)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنِ ابْنِ أَبِي عُمَيْرٍ عَنْ حَمَّادٍ عَنِ الْحَلَبِيِّ وَ مُحَمَّدِ بْنِ مُسْلِمٍ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ أَبِي عُمَيْرٍ",
+            "path": "/people/narrators/7"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "حَمَّادٍ",
+            "path": "/people/narrators/23"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحَلَبِيِّ",
+            "path": "/people/narrators/28"
+          },
+          {
+            "kind": "plain",
+            "text": " وَ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ مُسْلِمٍ",
+            "path": "/people/narrators/16"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/7",
+          "/people/narrators/23",
+          "/people/narrators/28",
+          "/people/narrators/16",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:5:3:134:1",
+          "/books/al-kafi:6:2:74:9",
+          "/books/al-kafi:6:3:17:1",
+          "/books/al-kafi:7:1:2:2",
+          "/books/tahdhib-al-ahkam:9:7:10"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:2:65:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/2/65/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:2:65:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:2:65:2",
+        "parts": [
+          7,
+          2,
+          65,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 2,
+        "chapter": 65,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:2:65",
+        "titles": {
+          "ar": "باب أَنَّ الْوَلَاءَ لِمَنْ أَعْتَقَ",
+          "en": "Chapter 63 – The guardianship is for the one who emancipates"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " حَدِيثِ بَرِيرَةَ أَنَّ النَّبِيَّ ( صلى الله عليه وآله ) قَالَ لِعَائِشَةَ أَعْتِقِي فَإِنَّ الْوَلَاءَ لِمَنْ أَعْتَقَ ."
+        ],
+        "text": "حَدِيثِ بَرِيرَةَ أَنَّ النَّبِيَّ ( صلى الله عليه وآله ) قَالَ لِعَائِشَةَ أَعْتِقِي فَإِنَّ الْوَلَاءَ لِمَنْ أَعْتَقَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Ibn Fazal, from Ibn Bukeyr, from Zurara, ",
+            "(It has been narrated) from Abu Ja’far<sup>asws</sup> in a Hadeeth of Bureyra, that the Prophet<sup>saww</sup> said to Ayesha: ‘Emancipate (a slave) for the guardianship is for the one who emancipates’."
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Ibn Fazal, from Ibn Bukeyr, from Zurara,\n\n(It has been narrated) from Abu Ja’far<sup>asws</sup> in a Hadeeth of Bureyra, that the Prophet<sup>saww</sup> said to Ayesha: ‘Emancipate (a slave) for the guardianship is for the one who emancipates’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from ibn Faddal from ibn Bukayr from Zurarah who has narrated the following: “Abu Ja‘far, ‘Alayhi al-Salam, about Hadith of Burayrah has said, ‘The Holy Prophet, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, said to ‘A’ishah, ‘Set a slave free because guardianship rests with the one who buys one’s freedom.’” "
+          ],
+          "text": "2. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from ibn Faddal from ibn Bukayr from Zurarah who has narrated the following: “Abu Ja‘far, ‘Alayhi al-Salam, about Hadith of Burayrah has said, ‘The Holy Prophet, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, said to ‘A’ishah, ‘Set a slave free because guardianship rests with the one who buys one’s freedom.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> موثق  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (3/256)",
+          "label": "موثق",
+          "text": "Allamah Baqir al-Majlisi: موثق - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (3/256)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنِ ابْنِ فَضَّالٍ عَنِ ابْنِ بُكَيْرٍ عَنْ زُرَارَةَ عَنْ أَبِي جَعْفَرٍ ( عليه السلام ) فِي",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ فَضَّالٍ",
+            "path": "/people/narrators/22"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ بُكَيْرٍ",
+            "path": "/people/narrators/56"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "زُرَارَةَ",
+            "path": "/people/narrators/18"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي جَعْفَرٍ ( عليه السلام )",
+            "path": "/people/narrators/9"
+          },
+          {
+            "kind": "plain",
+            "text": " فِي"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/5",
+          "/people/narrators/22",
+          "/people/narrators/56",
+          "/people/narrators/18",
+          "/people/narrators/9"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:5:2:4:6",
+          "/books/al-kafi:5:3:190:6",
+          "/books/al-kafi:5:3:27:12",
+          "/books/al-kafi:6:3:17:3",
+          "/books/al-kafi:6:6:65:2",
+          "/books/al-kafi:7:2:24:13",
+          "/books/al-kafi:7:7:12:1",
+          "/books/al-kafi:7:7:16:11"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:2:65:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/2/65/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:2:65:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:2:65:3",
+        "parts": [
+          7,
+          2,
+          65,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 2,
+        "chapter": 65,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:2:65",
+        "titles": {
+          "ar": "باب أَنَّ الْوَلَاءَ لِمَنْ أَعْتَقَ",
+          "en": "Chapter 63 – The guardianship is for the one who emancipates"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَتْ عَائِشَةُ لِرَسُولِ اللَّهِ ( صلى الله عليه وآله ) إِنَّ أَهْلَ بَرِيرَةَ اشْتَرَطُوا وَلَاءَهَا فَقَالَ رَسُولُ اللَّهِ الْوَلَاءُ لِمَنْ أَعْتَقَ ."
+        ],
+        "text": "قَالَتْ عَائِشَةُ لِرَسُولِ اللَّهِ ( صلى الله عليه وآله ) إِنَّ أَهْلَ بَرِيرَةَ اشْتَرَطُوا وَلَاءَهَا فَقَالَ رَسُولُ اللَّهِ الْوَلَاءُ لِمَنْ أَعْتَقَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Abu Ali Al Ashary, from Muhammad Bin Abdul Jabbar, from Safwan Bin Yahya, from Ays Bin Al Qasim, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Ayesha said to Rasool-Allah<sup>saww</sup>, ‘The people of Bureyra has stipulated a condition upon her guardianship’. So he<sup>saww</sup> said: ‘The guardianship is for the one who emancipates’."
+          ],
+          "text": "Abu Ali Al Ashary, from Muhammad Bin Abdul Jabbar, from Safwan Bin Yahya, from Ays Bin Al Qasim,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Ayesha said to Rasool-Allah<sup>saww</sup>, ‘The people of Bureyra has stipulated a condition upon her guardianship’. So he<sup>saww</sup> said: ‘The guardianship is for the one who emancipates’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "3. Abu Ali al-Al-Ash‘ariy has narrated from Muhammad ibn ‘Abd al-Jabbar from Safwan ibn Yahya from ‘Is ibn al-Qasim ibn Muhammad who has narrated the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that ‘A’ishah once said to the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, ‘People of Burayrah have set her guardianship a condition.’ The Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, has issued this decree. ‘Guardianship rests with the one who buys one’s freedom.’” "
+          ],
+          "text": "3. Abu Ali al-Al-Ash‘ariy has narrated from Muhammad ibn ‘Abd al-Jabbar from Safwan ibn Yahya from ‘Is ibn al-Qasim ibn Muhammad who has narrated the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that ‘A’ishah once said to the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, ‘People of Burayrah have set her guardianship a condition.’ The Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, has issued this decree. ‘Guardianship rests with the one who buys one’s freedom.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> صحيح   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (23/257)",
+          "label": "صحيح",
+          "text": "Allamah Baqir al-Majlisi: صحيح - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (23/257)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "أَبُو عَلِيٍّ الْأَشْعَرِيُّ عَنْ مُحَمَّدِ بْنِ عَبْدِ الْجَبَّارِ عَنْ صَفْوَانَ بْنِ يَحْيَى عَنْ عِيصِ بْنِ الْقَاسِمِ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "أَبُو عَلِيٍّ الْأَشْعَرِيُّ",
+            "path": "/people/narrators/19"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ عَبْدِ الْجَبَّارِ",
+            "path": "/people/narrators/24"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "صَفْوَانَ بْنِ يَحْيَى",
+            "path": "/people/narrators/30"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عِيصِ بْنِ الْقَاسِمِ",
+            "path": "/people/narrators/265"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/19",
+          "/people/narrators/24",
+          "/people/narrators/30",
+          "/people/narrators/265",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:4:2:48:5",
+          "/books/al-kafi:4:2:49:2",
+          "/books/al-kafi:4:3:181:15",
+          "/books/al-kafi:4:3:191:4",
+          "/books/al-kafi:5:3:63:1",
+          "/books/al-kafi:6:3:17:4"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:2:65:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/2/65/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:2:65:4",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:2:65:4",
+        "parts": [
+          7,
+          2,
+          65,
+          4
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 2,
+        "chapter": 65,
+        "hadith": 4
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:2:65",
+        "titles": {
+          "ar": "باب أَنَّ الْوَلَاءَ لِمَنْ أَعْتَقَ",
+          "en": "Chapter 63 – The guardianship is for the one who emancipates"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَأَلْتُهُ عَنْ رَجُلٍ اشْتَرَى عَبْداً لَهُ أَوْلَادٌ مِنِ امْرَأَةٍ حُرَّةٍ فَأَعْتَقَهُ قَالَ وَلَاءُ وُلْدِهِ لِمَنْ أَعْتَقَهُ ."
+        ],
+        "text": "سَأَلْتُهُ عَنْ رَجُلٍ اشْتَرَى عَبْداً لَهُ أَوْلَادٌ مِنِ امْرَأَةٍ حُرَّةٍ فَأَعْتَقَهُ قَالَ وَلَاءُ وُلْدِهِ لِمَنْ أَعْتَقَهُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Safwan, from Al Ays Bin Al Qasim, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup>, said, ‘I asked him<sup>asws</sup> about a man who bought a slave who had children from a free woman, so he emancipated him. He<sup>asws</sup> said: ‘The guardianship of his children is for the one who emancipated him’."
+          ],
+          "text": "Safwan, from Al Ays Bin Al Qasim,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup>, said, ‘I asked him<sup>asws</sup> about a man who bought a slave who had children from a free woman, so he emancipated him. He<sup>asws</sup> said: ‘The guardianship of his children is for the one who emancipated him’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "4. Safwan has narrated from al-‘Is ibn al-Qasim ibn Muhammad who has narrated the following: “I once asked abu ‘Abd Allah, ‘Alayhi al-Salam, about the case of a man who buys a slave who has children from a free woman who has set him free. He (the Imam) said, ‘The guardianship of his children rests with one who has bought his freedom.’” "
+          ],
+          "text": "4. Safwan has narrated from al-‘Is ibn al-Qasim ibn Muhammad who has narrated the following: “I once asked abu ‘Abd Allah, ‘Alayhi al-Salam, about the case of a man who buys a slave who has children from a free woman who has set him free. He (the Imam) said, ‘The guardianship of his children rests with one who has bought his freedom.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> صحيح  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (3/257)",
+          "label": "صحيح",
+          "text": "Allamah Baqir al-Majlisi: صحيح - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (3/257)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "صَفْوَانُ عَنِ الْعِيصِ بْنِ الْقَاسِمِ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "صَفْوَانُ",
+            "path": "/people/narrators/43"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْعِيصِ بْنِ الْقَاسِمِ",
+            "path": "/people/narrators/484"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/43",
+          "/people/narrators/484",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:2:65:4",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/2/65/4.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:2:65:5",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:2:65:5",
+        "parts": [
+          7,
+          2,
+          65,
+          5
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 2,
+        "chapter": 65,
+        "hadith": 5
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:2:65",
+        "titles": {
+          "ar": "باب أَنَّ الْوَلَاءَ لِمَنْ أَعْتَقَ",
+          "en": "Chapter 63 – The guardianship is for the one who emancipates"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " امْرَأَةٍ أَعْتَقَتْ رَجُلًا لِمَنْ وَلَاؤُهُ وَ لِمَنْ مِيرَاثُهُ قَالَ لِلَّذِي أَعْتَقَهُ إِلَّا أَنْ يَكُونَ لَهُ وَارِثٌ غَيْرُهَا ."
+        ],
+        "text": "امْرَأَةٍ أَعْتَقَتْ رَجُلًا لِمَنْ وَلَاؤُهُ وَ لِمَنْ مِيرَاثُهُ قَالَ لِلَّذِي أَعْتَقَهُ إِلَّا أَنْ يَكُونَ لَهُ وَارِثٌ غَيْرُهَا ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Muhammad Bin Al Fuzayl, from Abu Al Sabah Al kanany, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> regarding a woman who emancipated a man, for whom is his guardianship and for whom is his inheritance?’ He<sup>asws</sup> said: ‘For the one who emancipated him except if there happen to be for him an inheritor other than her’."
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Muhammad Bin Al Fuzayl, from Abu Al Sabah Al kanany,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> regarding a woman who emancipated a man, for whom is his guardianship and for whom is his inheritance?’ He<sup>asws</sup> said: ‘For the one who emancipated him except if there happen to be for him an inheritor other than her’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "5. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from Muhammad ibn al-Fudayl from abu al-Sabbah al-Kinaniy who has narrated the following: “About the case of a woman who freed a man and about with whom rests his guardianship and to who belongs his legacy, abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘Such things rest with the one who has bought his freedom, unless he has other heirs besides her.’” "
+          ],
+          "text": "5. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from Muhammad ibn al-Fudayl from abu al-Sabbah al-Kinaniy who has narrated the following: “About the case of a woman who freed a man and about with whom rests his guardianship and to who belongs his legacy, abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘Such things rest with the one who has bought his freedom, unless he has other heirs besides her.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مجهول   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (23/257)",
+          "label": "مجهول",
+          "text": "Allamah Baqir al-Majlisi: مجهول - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (23/257)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنْ مُحَمَّدِ بْنِ الْفُضَيْلِ عَنْ أَبِي الصَّبَّاحِ الْكِنَانِيِّ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) فِي",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ الْفُضَيْلِ",
+            "path": "/people/narrators/73"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي الصَّبَّاحِ الْكِنَانِيِّ",
+            "path": "/people/narrators/116"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " فِي"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/5",
+          "/people/narrators/73",
+          "/people/narrators/116",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:2:65:5",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/2/65/5.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:2:65:6",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:2:65:6",
+        "parts": [
+          7,
+          2,
+          65,
+          6
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 2,
+        "chapter": 65,
+        "hadith": 6
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:2:65",
+        "titles": {
+          "ar": "باب أَنَّ الْوَلَاءَ لِمَنْ أَعْتَقَ",
+          "en": "Chapter 63 – The guardianship is for the one who emancipates"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " مَاتَ مَوْلًى لِحَمْزَةَ بْنِ عَبْدِ الْمُطَّلِبِ فَدَفَعَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) مِيرَاثَهُ إِلَى ابْنَةِ حَمْزَةَ ."
+        ],
+        "text": "مَاتَ مَوْلًى لِحَمْزَةَ بْنِ عَبْدِ الْمُطَّلِبِ فَدَفَعَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) مِيرَاثَهُ إِلَى ابْنَةِ حَمْزَةَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Humeyd Bin Ziyad, from Al Hassan Bin Muhammad, from Safwan, from Abdul Rahman Bin Al Hajjaj, from the one who narrated it, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘A slave of Hamza Bin Abdul Muttalib<sup>as</sup> died, so Rasool-Allah<sup>saww</sup> handed over his inheritance to a daughter of Hamza’."
+          ],
+          "text": "Humeyd Bin Ziyad, from Al Hassan Bin Muhammad, from Safwan, from Abdul Rahman Bin Al Hajjaj, from the one who narrated it,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘A slave of Hamza Bin Abdul Muttalib<sup>as</sup> died, so Rasool-Allah<sup>saww</sup> handed over his inheritance to a daughter of Hamza’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "6. Humayd ibn Ziyad has narrated from al-Hassan ibn Muhammad from Safwan from ‘Abd al-Rahman ibn al-Hajjaj from those who narrated to him who has narrated the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘When a mawla of Hamzah ibn ‘Abd al-Muttalib died, the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, gave his legacy to the daughter of Hamzah.’” Al-Hassan has said that this proves that the mawla did not have any daughter as al-‘A’ammah narrate, and that women also inherit guardianship contrary to what al-‘A’ammah narrate. "
+          ],
+          "text": "6. Humayd ibn Ziyad has narrated from al-Hassan ibn Muhammad from Safwan from ‘Abd al-Rahman ibn al-Hajjaj from those who narrated to him who has narrated the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘When a mawla of Hamzah ibn ‘Abd al-Muttalib died, the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, gave his legacy to the daughter of Hamzah.’” Al-Hassan has said that this proves that the mawla did not have any daughter as al-‘A’ammah narrate, and that women also inherit guardianship contrary to what al-‘A’ammah narrate."
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مرسل  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (3/258)",
+          "label": "مرسل",
+          "text": "Allamah Baqir al-Majlisi: مرسل - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (3/258)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "حُمَيْدُ بْنُ زِيَادٍ عَنِ الْحَسَنِ بْنِ مُحَمَّدٍ عَنْ صَفْوَانَ عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْحَجَّاجِ عَمَّنْ حَدَّثَهُ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "حُمَيْدُ بْنُ زِيَادٍ",
+            "path": "/people/narrators/49"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحَسَنِ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/183"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "صَفْوَانَ",
+            "path": "/people/narrators/43"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "plain",
+            "text": "عَبْدِ الرَّحْمَنِ بْنِ الْحَجَّاجِ عَمَّنْ حَدَّثَهُ"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/49",
+          "/people/narrators/183",
+          "/people/narrators/43",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:2:65:6",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/2/65/6.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

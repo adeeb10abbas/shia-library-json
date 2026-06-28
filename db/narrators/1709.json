@@ -1,0 +1,46 @@
+{
+  "id": 1709,
+  "type": "narrator",
+  "path": "/people/narrators/1709",
+  "titles": {
+    "ar": "مَوْلًى لِأَبِي عَبْدِ اللَّهِ ( عليه السلام ) مِنْ أَهْلِ الْمَدِينَةِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:141:8",
+    "/books/al-kafi:4:3:142:7"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "6-8-68-1709": {
+      "narrator_ids": [
+        6,
+        8,
+        68,
+        1709
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:141:8",
+        "/books/al-kafi:4:3:142:7"
+      ]
+    },
+    "68-1709": {
+      "narrator_ids": [
+        68,
+        1709
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:141:8",
+        "/books/al-kafi:4:3:142:7"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1709",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1709.json"
+  }
+}

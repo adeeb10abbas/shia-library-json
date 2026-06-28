@@ -1,0 +1,45 @@
+{
+  "id": 3460,
+  "type": "narrator",
+  "path": "/people/narrators/3460",
+  "titles": {
+    "ar": "عَامِلٍ كَانَ لِمُحَمَّدِ بْنِ رَاشِدٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:37:21"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "123-3460": {
+      "narrator_ids": [
+        123,
+        3460
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:37:21"
+      ]
+    },
+    "19-24-63-85-123-3460": {
+      "narrator_ids": [
+        19,
+        24,
+        63,
+        85,
+        123,
+        3460
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:37:21"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3460",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3460.json"
+  }
+}

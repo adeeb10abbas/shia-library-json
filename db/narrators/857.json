@@ -1,0 +1,155 @@
+{
+  "id": 857,
+  "type": "narrator",
+  "path": "/people/narrators/857",
+  "titles": {
+    "ar": "إِدْرِيسَ بْنِ الْحَسَنِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:2:2:6",
+    "/books/al-kafi:2:1:153:3",
+    "/books/al-kafi:6:6:90:3",
+    "/books/al-kafi:7:5:5:3",
+    "/books/tahdhib-al-ahkam:6:90:82"
+  ],
+  "verseCount": 5,
+  "relations": {},
+  "subchains": {
+    "11-275-857-50-669": {
+      "narrator_ids": [
+        11,
+        275,
+        857,
+        50,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:90:82"
+      ]
+    },
+    "275-857": {
+      "narrator_ids": [
+        275,
+        857
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:2:2:6",
+        "/books/al-kafi:2:1:153:3",
+        "/books/al-kafi:7:5:5:3",
+        "/books/tahdhib-al-ahkam:6:90:82"
+      ]
+    },
+    "4-5-857-103-2-669": {
+      "narrator_ids": [
+        4,
+        5,
+        857,
+        103,
+        2,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:90:3"
+      ]
+    },
+    "5-275-857-3800-669": {
+      "narrator_ids": [
+        5,
+        275,
+        857,
+        3800,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:5:5:3"
+      ]
+    },
+    "5-857": {
+      "narrator_ids": [
+        5,
+        857
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:90:3"
+      ]
+    },
+    "6-12-19-275-857-4368": {
+      "narrator_ids": [
+        6,
+        12,
+        19,
+        275,
+        857,
+        4368
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:153:3"
+      ]
+    },
+    "857-103": {
+      "narrator_ids": [
+        857,
+        103
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:90:3"
+      ]
+    },
+    "857-1948": {
+      "narrator_ids": [
+        857,
+        1948
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:2:2:6"
+      ]
+    },
+    "857-3800": {
+      "narrator_ids": [
+        857,
+        3800
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:5:5:3"
+      ]
+    },
+    "857-4368": {
+      "narrator_ids": [
+        857,
+        4368
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:153:3"
+      ]
+    },
+    "857-50": {
+      "narrator_ids": [
+        857,
+        50
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:90:82"
+      ]
+    },
+    "97-275-857-1948-465": {
+      "narrator_ids": [
+        97,
+        275,
+        857,
+        1948,
+        465
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:2:2:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/857",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/857.json"
+  }
+}

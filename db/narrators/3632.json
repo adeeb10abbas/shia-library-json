@@ -1,0 +1,56 @@
+{
+  "id": 3632,
+  "type": "narrator",
+  "path": "/people/narrators/3632",
+  "titles": {
+    "ar": "عَبْدِ الْمُؤْمِنِ بْنِ الْقَاسِمِ الْأَنْصَارِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:21:1",
+    "/books/man-la-yahduruhu-al-faqih:2:2:13:2"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "3-2-76-3632-695-72-9": {
+      "narrator_ids": [
+        3,
+        2,
+        76,
+        3632,
+        695,
+        72,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:21:1"
+      ]
+    },
+    "3632-695": {
+      "narrator_ids": [
+        3632,
+        695
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:21:1"
+      ]
+    },
+    "76-3632": {
+      "narrator_ids": [
+        76,
+        3632
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:21:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3632",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3632.json"
+  }
+}

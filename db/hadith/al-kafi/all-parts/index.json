@@ -1,0 +1,27 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "apiDocs": "https://github.com/narmafraz/ThaqalaynData/blob/master/API.md"
+  },
+  "layout": "split-record-collection",
+  "splitOf": "all.json",
+  "count": 15385,
+  "partCount": 2,
+  "parts": [
+    {
+      "path": "part-0001.json",
+      "count": 10778,
+      "bytes": 90623958
+    },
+    {
+      "path": "part-0002.json",
+      "count": 4607,
+      "bytes": 37002528
+    }
+  ]
+}

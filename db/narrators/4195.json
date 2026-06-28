@@ -1,0 +1,54 @@
+{
+  "id": 4195,
+  "type": "narrator",
+  "path": "/people/narrators/4195",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ النُّعْمَانِ أَبِي جَعْفَرٍ الْأَحْوَلِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:43:56"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "4-13-53-4195-508-9": {
+      "narrator_ids": [
+        4,
+        13,
+        53,
+        4195,
+        508,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:56"
+      ]
+    },
+    "4195-508": {
+      "narrator_ids": [
+        4195,
+        508
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:56"
+      ]
+    },
+    "53-4195": {
+      "narrator_ids": [
+        53,
+        4195
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:56"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4195",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4195.json"
+  }
+}

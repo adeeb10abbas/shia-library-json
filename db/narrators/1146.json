@@ -1,0 +1,133 @@
+{
+  "id": 1146,
+  "type": "narrator",
+  "path": "/people/narrators/1146",
+  "titles": {
+    "ar": "عَبْدِ اللَّهِ بْنِ فَرْقَدٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:9:2",
+    "/books/al-kafi:2:3:14:27",
+    "/books/al-kafi:4:3:101:1",
+    "/books/kitab-al-zuhd:2:8:2"
+  ],
+  "verseCount": 4,
+  "relations": {},
+  "subchains": {
+    "1146-250": {
+      "narrator_ids": [
+        1146,
+        250
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:9:2",
+        "/books/al-kafi:4:3:101:1"
+      ]
+    },
+    "1146-440": {
+      "narrator_ids": [
+        1146,
+        440
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:3:14:27"
+      ]
+    },
+    "1146-918": {
+      "narrator_ids": [
+        1146,
+        918
+      ],
+      "verse_paths": [
+        "/books/kitab-al-zuhd:2:8:2"
+      ]
+    },
+    "15-1146": {
+      "narrator_ids": [
+        15,
+        1146
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:3:14:27"
+      ]
+    },
+    "232-1146": {
+      "narrator_ids": [
+        232,
+        1146
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:9:2",
+        "/books/al-kafi:4:3:101:1"
+      ]
+    },
+    "4-5-15-1146-440": {
+      "narrator_ids": [
+        4,
+        5,
+        15,
+        1146,
+        440
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:3:14:27"
+      ]
+    },
+    "6-8-131-232-1146-250-9": {
+      "narrator_ids": [
+        6,
+        8,
+        131,
+        232,
+        1146,
+        250,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:101:1"
+      ]
+    },
+    "6-8-39-232-1146-250-669": {
+      "narrator_ids": [
+        6,
+        8,
+        39,
+        232,
+        1146,
+        250,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:9:2"
+      ]
+    },
+    "69-1146": {
+      "narrator_ids": [
+        69,
+        1146
+      ],
+      "verse_paths": [
+        "/books/kitab-al-zuhd:2:8:2"
+      ]
+    },
+    "69-1146-918-9": {
+      "narrator_ids": [
+        69,
+        1146,
+        918,
+        9
+      ],
+      "verse_paths": [
+        "/books/kitab-al-zuhd:2:8:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1146",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1146.json"
+  }
+}

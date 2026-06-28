@@ -1,0 +1,32 @@
+{
+  "id": 1937,
+  "type": "narrator",
+  "path": "/people/narrators/1937",
+  "titles": {
+    "ar": "أَبِي إِبْرَاهِيمَ ( عليه السلام ) دُعَاءً"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:2:53:11"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-1937": {
+      "narrator_ids": [
+        11,
+        1937
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:53:11"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1937",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1937.json"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": 3746,
+  "type": "narrator",
+  "path": "/people/narrators/3746",
+  "titles": {
+    "ar": "عَلِيِّ بْنِ الْحُسَيْنِ ( صلوات الله عليه )  [قَالَ]"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:33:8"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "163-3746": {
+      "narrator_ids": [
+        163,
+        3746
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:33:8"
+      ]
+    },
+    "3-12-482-42-458-163-3746": {
+      "narrator_ids": [
+        3,
+        12,
+        482,
+        42,
+        458,
+        163,
+        3746
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:33:8"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3746",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3746.json"
+  }
+}

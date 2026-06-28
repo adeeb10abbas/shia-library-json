@@ -1,0 +1,78 @@
+{
+  "id": 1446,
+  "type": "narrator",
+  "path": "/people/narrators/1446",
+  "titles": {
+    "ar": "حَمَّادِ بْنِ زَكَرِيَّا"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:114:5",
+    "/books/al-kafi:6:6:115:1"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "1446-669": {
+      "narrator_ids": [
+        1446,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:114:5",
+        "/books/al-kafi:6:6:115:1"
+      ]
+    },
+    "4032-1446": {
+      "narrator_ids": [
+        4032,
+        1446
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:115:1"
+      ]
+    },
+    "6-12-1196-4032-1446-669": {
+      "narrator_ids": [
+        6,
+        12,
+        1196,
+        4032,
+        1446,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:115:1"
+      ]
+    },
+    "6-12-1196-636-1446-669": {
+      "narrator_ids": [
+        6,
+        12,
+        1196,
+        636,
+        1446,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:114:5"
+      ]
+    },
+    "636-1446": {
+      "narrator_ids": [
+        636,
+        1446
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:114:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1446",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1446.json"
+  }
+}

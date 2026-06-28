@@ -1,0 +1,58 @@
+{
+  "id": 1977,
+  "type": "narrator",
+  "path": "/people/narrators/1977",
+  "titles": {
+    "ar": "أَبِي الْحَسَنِ الْكِنَانِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:61:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1977-3014": {
+      "narrator_ids": [
+        1977,
+        3014
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:61:2"
+      ]
+    },
+    "5-1977": {
+      "narrator_ids": [
+        5,
+        1977
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:61:2"
+      ]
+    },
+    "5-4-29-5-1977-3014-4133-2-253-669": {
+      "narrator_ids": [
+        5,
+        4,
+        29,
+        5,
+        1977,
+        3014,
+        4133,
+        2,
+        253,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:61:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1977",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1977.json"
+  }
+}

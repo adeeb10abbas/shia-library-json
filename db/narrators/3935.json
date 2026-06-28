@@ -1,0 +1,57 @@
+{
+  "id": 3935,
+  "type": "narrator",
+  "path": "/people/narrators/3935",
+  "titles": {
+    "ar": "عَنْ مُحَمَّدِ بْنِ سِنَانٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:111:24"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "36-298-2-10-87-70-3935-221-669": {
+      "narrator_ids": [
+        36,
+        298,
+        2,
+        10,
+        87,
+        70,
+        3935,
+        221,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:111:24"
+      ]
+    },
+    "3935-221": {
+      "narrator_ids": [
+        3935,
+        221
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:111:24"
+      ]
+    },
+    "70-3935": {
+      "narrator_ids": [
+        70,
+        3935
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:111:24"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3935",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3935.json"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": 1972,
+  "type": "narrator",
+  "path": "/people/narrators/1972",
+  "titles": {
+    "ar": "أَبِي الْحَسَنِ السَّوَّاقِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:2:45:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1972-148": {
+      "narrator_ids": [
+        1972,
+        148
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:45:1"
+      ]
+    },
+    "20-25-6-5-61-215-1972-148-669": {
+      "narrator_ids": [
+        20,
+        25,
+        6,
+        5,
+        61,
+        215,
+        1972,
+        148,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:45:1"
+      ]
+    },
+    "215-1972": {
+      "narrator_ids": [
+        215,
+        1972
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:45:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1972",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1972.json"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": 2728,
+  "type": "narrator",
+  "path": "/people/narrators/2728",
+  "titles": {
+    "ar": "الْعَبَّاسِ بْنِ هِلَالٍ الشَّامِيِّ مَوْلًى لِأَبِي الْحَسَنِ مُوسَى ( عليه السلام )"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:111:29"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "310-643-2728": {
+      "narrator_ids": [
+        310,
+        643,
+        2728
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:111:29"
+      ]
+    },
+    "643-2728": {
+      "narrator_ids": [
+        643,
+        2728
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:111:29"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2728",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2728.json"
+  }
+}

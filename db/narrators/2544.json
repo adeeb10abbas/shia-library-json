@@ -1,0 +1,32 @@
+{
+  "id": 2544,
+  "type": "narrator",
+  "path": "/people/narrators/2544",
+  "titles": {
+    "ar": "الْحَسَنُ بْنُ خَفِيفٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:125:21"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2544-2": {
+      "narrator_ids": [
+        2544,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:125:21"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2544",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2544.json"
+  }
+}

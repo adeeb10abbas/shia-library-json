@@ -1,0 +1,126 @@
+{
+  "id": 1251,
+  "type": "narrator",
+  "path": "/people/narrators/1251",
+  "titles": {
+    "ar": "أَبِي الصَّامِتِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:217:12",
+    "/books/al-kafi:8:1:43:16",
+    "/books/kamil-al-ziyarat:2:49:4",
+    "/books/kamil-al-ziyarat:2:4:3",
+    "/books/kamil-al-ziyarat:2:79:14"
+  ],
+  "verseCount": 5,
+  "relations": {},
+  "subchains": {
+    "1251-669": {
+      "narrator_ids": [
+        1251,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:16",
+        "/books/kamil-al-ziyarat:2:79:14"
+      ]
+    },
+    "2966-1251": {
+      "narrator_ids": [
+        2966,
+        1251
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:49:4",
+        "/books/kamil-al-ziyarat:2:79:14"
+      ]
+    },
+    "312-355-292-2966-1251-669": {
+      "narrator_ids": [
+        312,
+        355,
+        292,
+        2966,
+        1251,
+        669
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:79:14"
+      ]
+    },
+    "355-13-130-51-1251": {
+      "narrator_ids": [
+        355,
+        13,
+        130,
+        51,
+        1251
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:4:3"
+      ]
+    },
+    "355-292-2966-1251": {
+      "narrator_ids": [
+        355,
+        292,
+        2966,
+        1251
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:49:4"
+      ]
+    },
+    "5-17-364-51-1251": {
+      "narrator_ids": [
+        5,
+        17,
+        364,
+        51,
+        1251
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:217:12"
+      ]
+    },
+    "51-1251": {
+      "narrator_ids": [
+        51,
+        1251
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:217:12",
+        "/books/kamil-al-ziyarat:2:4:3"
+      ]
+    },
+    "553-1251": {
+      "narrator_ids": [
+        553,
+        1251
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:16"
+      ]
+    },
+    "8-63-553-1251-669": {
+      "narrator_ids": [
+        8,
+        63,
+        553,
+        1251,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:43:16"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1251",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1251.json"
+  }
+}

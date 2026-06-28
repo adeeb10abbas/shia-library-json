@@ -1,0 +1,123 @@
+{
+  "id": 3334,
+  "type": "narrator",
+  "path": "/people/narrators/3334",
+  "titles": {
+    "ar": "سُفْيَانَ",
+    "en": "Sufyan"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:2:64:5",
+    "/books/tahdhib-al-ahkam:6:61:1",
+    "/books/tahdhib-al-ahkam:9:29:15"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "107-3334": {
+      "narrator_ids": [
+        107,
+        3334
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:64:5"
+      ]
+    },
+    "11-576-3334-319": {
+      "narrator_ids": [
+        11,
+        576,
+        3334,
+        319
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:29:15"
+      ]
+    },
+    "19-24-17-33-837-189-49-107-3334-51-14-669": {
+      "narrator_ids": [
+        19,
+        24,
+        17,
+        33,
+        837,
+        189,
+        49,
+        107,
+        3334,
+        51,
+        14,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:64:5"
+      ]
+    },
+    "325-3334": {
+      "narrator_ids": [
+        325,
+        3334
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:61:1"
+      ]
+    },
+    "3334-319": {
+      "narrator_ids": [
+        3334,
+        319
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:29:15"
+      ]
+    },
+    "3334-438": {
+      "narrator_ids": [
+        3334,
+        438
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:61:1"
+      ]
+    },
+    "3334-51": {
+      "narrator_ids": [
+        3334,
+        51
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:64:5"
+      ]
+    },
+    "4154-209-82-325-3334-438": {
+      "narrator_ids": [
+        4154,
+        209,
+        82,
+        325,
+        3334,
+        438
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:61:1"
+      ]
+    },
+    "576-3334": {
+      "narrator_ids": [
+        576,
+        3334
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:29:15"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3334",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3334.json"
+  }
+}

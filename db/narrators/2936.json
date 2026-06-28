@@ -1,0 +1,44 @@
+{
+  "id": 2936,
+  "type": "narrator",
+  "path": "/people/narrators/2936",
+  "titles": {
+    "ar": "بَكْرِ بْنِ كَرِبٍ الصَّيْرَفِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:40:6"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2264-2936": {
+      "narrator_ids": [
+        2264,
+        2936
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:40:6"
+      ]
+    },
+    "6-5-397-2264-2936": {
+      "narrator_ids": [
+        6,
+        5,
+        397,
+        2264,
+        2936
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:40:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2936",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2936.json"
+  }
+}

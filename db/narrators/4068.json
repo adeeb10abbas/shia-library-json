@@ -1,0 +1,72 @@
+{
+  "id": 4068,
+  "type": "narrator",
+  "path": "/people/narrators/4068",
+  "titles": {
+    "ar": "كَذَا"
+  },
+  "versePaths": [
+    "/books/man-la-yahduruhu-al-faqih:3:2:5:30",
+    "/books/tahdhib-al-ahkam:7:18:20",
+    "/books/tahdhib-al-ahkam:8:10:166"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "11-27-7-46-1214-147-28-669-4068": {
+      "narrator_ids": [
+        11,
+        27,
+        7,
+        46,
+        1214,
+        147,
+        28,
+        669,
+        4068
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:18:20"
+      ]
+    },
+    "381-4068": {
+      "narrator_ids": [
+        381,
+        4068
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:8:10:166"
+      ]
+    },
+    "5-7-23-28-381-4068": {
+      "narrator_ids": [
+        5,
+        7,
+        23,
+        28,
+        381,
+        4068
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:8:10:166"
+      ]
+    },
+    "669-4068": {
+      "narrator_ids": [
+        669,
+        4068
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:18:20"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4068",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4068.json"
+  }
+}

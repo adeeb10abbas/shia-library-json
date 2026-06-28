@@ -1,0 +1,61 @@
+{
+  "id": 2844,
+  "type": "narrator",
+  "path": "/people/narrators/2844",
+  "titles": {
+    "ar": "أُمِّهِ أُمِّ إِسْحَاقَ بِنْتِ سُلَيْمَانَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:1:28:2",
+    "/books/tahdhib-al-ahkam:8:5:15"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "11-4-167-339-4181-2-2844": {
+      "narrator_ids": [
+        11,
+        4,
+        167,
+        339,
+        4181,
+        2,
+        2844
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:8:5:15"
+      ]
+    },
+    "2-2844": {
+      "narrator_ids": [
+        2,
+        2844
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:28:2",
+        "/books/tahdhib-al-ahkam:8:5:15"
+      ]
+    },
+    "4-167-339-4181-2-2844": {
+      "narrator_ids": [
+        4,
+        167,
+        339,
+        4181,
+        2,
+        2844
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:1:28:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2844",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2844.json"
+  }
+}

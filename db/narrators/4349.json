@@ -1,0 +1,54 @@
+{
+  "id": 4349,
+  "type": "narrator",
+  "path": "/people/narrators/4349",
+  "titles": {
+    "ar": "مَخْلَدٍ أَبِي الشُّكْرِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:2:34:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "119-4349": {
+      "narrator_ids": [
+        119,
+        4349
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:34:2"
+      ]
+    },
+    "4349-163": {
+      "narrator_ids": [
+        4349,
+        163
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:34:2"
+      ]
+    },
+    "6-8-119-4349-163-9": {
+      "narrator_ids": [
+        6,
+        8,
+        119,
+        4349,
+        163,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:34:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4349",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4349.json"
+  }
+}

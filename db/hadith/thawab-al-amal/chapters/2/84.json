@@ -1,0 +1,126 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "thawab-al-amal",
+  "chapterPath": "/books/thawab-al-amal:2:84",
+  "chapter": {
+    "path": "/books/thawab-al-amal:2:84",
+    "titles": {
+      "en": "Reward of a complete Ruku"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "thawab-al-amal:2:84:1",
+      "type": "hadith",
+      "book": {
+        "slug": "thawab-al-amal",
+        "titles": {
+          "ar": "ثواب الأعمال وعقاب الأعمال",
+          "en": "Thawab al-A'mal wa 'Iqab al-A'mal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/thawab-al-amal:2:84:1",
+        "parts": [
+          2,
+          84,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 84,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/thawab-al-amal:2:84",
+        "titles": {
+          "en": "Reward of a complete Ruku"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": کُنْتُ عِنْدَ أَبِی جَعْفَرٍ ع فِی مَنْزِلٍ بِالْمَدِینَهِ فَقَالَ مُبْتَدِئاً مَنْ أَتَمَّ رَکْعَهً لَمْ تَدْخُلْهُ وَحْشَهٌ فِی قَبْرِهِ."
+        ],
+        "text": ": کُنْتُ عِنْدَ أَبِی جَعْفَرٍ ع فِی مَنْزِلٍ بِالْمَدِینَهِ فَقَالَ مُبْتَدِئاً مَنْ أَتَمَّ رَکْعَهً لَمْ تَدْخُلْهُ وَحْشَهٌ فِی قَبْرِهِ."
+      },
+      "translations": {
+        "en.sayed-athar-husain-rizvi-&-sayed-maqsood-athar": {
+          "segments": [
+            "1. It was narrated to me by Muhammad b. Musa b. al-Mutawakil from Muhammad b. Yahya al-’Attar from Muhammad b. Ahmad from al-Sindi b. al-Rabee’ from Sa’eed b. Janah who said: “For one who completes his Ruku, fear won’t enter his grave.”"
+          ],
+          "text": "1. It was narrated to me by Muhammad b. Musa b. al-Mutawakil from Muhammad b. Yahya al-’Attar from Muhammad b. Ahmad from al-Sindi b. al-Rabee’ from Sa’eed b. Janah who said: “For one who completes his Ruku, fear won’t enter his grave.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "حَدَّثَنِی مُحَمَّدُ بْنُ مُوسَی بْنِ الْمُتَوَکِّلِ عَنْ مُحَمَّدِ بْنِ یَحْیَی الْعَطَّارِ عَنْ مُحَمَّدِ بْنِ أَحْمَدَ عَنِ السِّنْدِیِّ بْنِ الرَّبِیعِ عَنْ سَعِیدِ بْنِ جَنَاحٍ قَالَ",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "حَدَّثَنِی مُحَمَّدُ بْنُ مُوسَی بْنِ الْمُتَوَکِّلِ"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ یَحْیَی الْعَطَّارِ",
+            "path": "/people/narrators/601"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ أَحْمَدَ",
+            "path": "/people/narrators/59"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "السِّنْدِیِّ بْنِ الرَّبِیعِ",
+            "path": "/people/narrators/1044"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَعِیدِ بْنِ جَنَاحٍ",
+            "path": "/people/narrators/406"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/601",
+          "/people/narrators/59",
+          "/people/narrators/1044",
+          "/people/narrators/406"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/thawab-al-amal:2:84:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/thawab-al-amal/2/84/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/23/2/84/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": 3354,
+  "type": "narrator",
+  "path": "/people/narrators/3354",
+  "titles": {
+    "ar": "سَلَمَةَ بَيَّاعِ السَّابِرِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:37:19",
+    "/books/thawab-al-amal:2:397:2"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "115-3354": {
+      "narrator_ids": [
+        115,
+        3354
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:37:19"
+      ]
+    },
+    "318-3354": {
+      "narrator_ids": [
+        318,
+        3354
+      ],
+      "verse_paths": [
+        "/books/thawab-al-amal:2:397:2"
+      ]
+    },
+    "3354-60": {
+      "narrator_ids": [
+        3354,
+        60
+      ],
+      "verse_paths": [
+        "/books/thawab-al-amal:2:397:2"
+      ]
+    },
+    "3354-669": {
+      "narrator_ids": [
+        3354,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:37:19"
+      ]
+    },
+    "50-2-17-33-7-70-115-3354-669": {
+      "narrator_ids": [
+        50,
+        2,
+        17,
+        33,
+        7,
+        70,
+        115,
+        3354,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:37:19"
+      ]
+    },
+    "613-355-101-318-3354-60-9": {
+      "narrator_ids": [
+        613,
+        355,
+        101,
+        318,
+        3354,
+        60,
+        9
+      ],
+      "verse_paths": [
+        "/books/thawab-al-amal:2:397:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3354",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3354.json"
+  }
+}

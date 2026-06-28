@@ -1,0 +1,424 @@
+{
+  "id": 401,
+  "type": "narrator",
+  "path": "/people/narrators/401",
+  "titles": {
+    "ar": "أَبِي هَاشِمٍ الْجَعْفَرِيِّ"
+  },
+  "versePaths": [
+    "/books/al-istibsar:1:249:3",
+    "/books/al-kafi:1:1:1:18",
+    "/books/al-kafi:1:3:16:12",
+    "/books/al-kafi:1:3:16:7",
+    "/books/al-kafi:1:3:9:10",
+    "/books/al-kafi:1:4:122:10",
+    "/books/al-kafi:1:4:124:21",
+    "/books/al-kafi:1:4:124:5",
+    "/books/al-kafi:1:4:75:10",
+    "/books/al-kafi:1:4:76:2",
+    "/books/al-kafi:3:3:78:2",
+    "/books/al-kafi:3:4:83:5",
+    "/books/al-kafi:4:3:226:3",
+    "/books/al-kafi:6:3:19:3",
+    "/books/al-kafi:6:5:3:4",
+    "/books/al-kafi:6:8:63:5",
+    "/books/kamil-al-ziyarat:2:90:1",
+    "/books/kamil-al-ziyarat:2:90:2",
+    "/books/kitab-al-ghayba-tusi:33:13",
+    "/books/kitab-al-ghayba-tusi:33:16",
+    "/books/kitab-al-ghayba-tusi:50:15",
+    "/books/man-la-yahduruhu-al-faqih:3:1:3:13",
+    "/books/man-la-yahduruhu-al-faqih:4:175:100",
+    "/books/mujam-al-ahadith-al-mutabara:1:1:5",
+    "/books/mujam-al-ahadith-al-mutabara:4:1:2",
+    "/books/mujam-al-ahadith-al-mutabara:4:3:6",
+    "/books/mujam-al-ahadith-al-mutabara:4:4:2",
+    "/books/tahdhib-al-ahkam:3:29:9",
+    "/books/tahdhib-al-ahkam:3:32:45",
+    "/books/tahdhib-al-ahkam:8:10:121",
+    "/books/tahdhib-al-ahkam:9:1:217"
+  ],
+  "verseCount": 31,
+  "relations": {},
+  "subchains": {
+    "1239-401": {
+      "narrator_ids": [
+        1239,
+        401
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:124:5"
+      ]
+    },
+    "13-401": {
+      "narrator_ids": [
+        13,
+        401
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:16:12"
+      ]
+    },
+    "186-401": {
+      "narrator_ids": [
+        186,
+        401
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:76:2"
+      ]
+    },
+    "2-401": {
+      "narrator_ids": [
+        2,
+        401
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:1:1:18",
+        "/books/al-kafi:3:3:78:2",
+        "/books/al-kafi:6:3:19:3",
+        "/books/al-kafi:6:5:3:4",
+        "/books/mujam-al-ahadith-al-mutabara:1:1:5",
+        "/books/tahdhib-al-ahkam:8:10:121",
+        "/books/tahdhib-al-ahkam:9:1:217"
+      ]
+    },
+    "200-401": {
+      "narrator_ids": [
+        200,
+        401
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:16:7"
+      ]
+    },
+    "259-401": {
+      "narrator_ids": [
+        259,
+        401
+      ],
+      "verse_paths": [
+        "/books/mujam-al-ahadith-al-mutabara:4:4:2"
+      ]
+    },
+    "27-401": {
+      "narrator_ids": [
+        27,
+        401
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:90:2"
+      ]
+    },
+    "275-401": {
+      "narrator_ids": [
+        275,
+        401
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:122:10"
+      ]
+    },
+    "3-2-401": {
+      "narrator_ids": [
+        3,
+        2,
+        401
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:78:2",
+        "/books/al-kafi:6:3:19:3"
+      ]
+    },
+    "3-2-401-2-367-669": {
+      "narrator_ids": [
+        3,
+        2,
+        401,
+        2,
+        367,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:5:3:4"
+      ]
+    },
+    "3-401": {
+      "narrator_ids": [
+        3,
+        401
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:3:32:45"
+      ]
+    },
+    "312-317-355-27-401": {
+      "narrator_ids": [
+        312,
+        317,
+        355,
+        27,
+        401
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:90:2"
+      ]
+    },
+    "35-37-401": {
+      "narrator_ids": [
+        35,
+        37,
+        401
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:63:5"
+      ]
+    },
+    "35-573-401": {
+      "narrator_ids": [
+        35,
+        573,
+        401
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:75:10"
+      ]
+    },
+    "35-8-401": {
+      "narrator_ids": [
+        35,
+        8,
+        401
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:83:5"
+      ]
+    },
+    "35-90-8-4-13-401": {
+      "narrator_ids": [
+        35,
+        90,
+        8,
+        4,
+        13,
+        401
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:16:12"
+      ]
+    },
+    "355-401": {
+      "narrator_ids": [
+        355,
+        401
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:33:13"
+      ]
+    },
+    "37-401": {
+      "narrator_ids": [
+        37,
+        401
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:63:5"
+      ]
+    },
+    "380-401": {
+      "narrator_ids": [
+        380,
+        401
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:124:21"
+      ]
+    },
+    "4-186-401": {
+      "narrator_ids": [
+        4,
+        186,
+        401
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:76:2"
+      ]
+    },
+    "4-5-401-98": {
+      "narrator_ids": [
+        4,
+        5,
+        401,
+        98
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:9:10"
+      ]
+    },
+    "401-2": {
+      "narrator_ids": [
+        401,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:5:3:4",
+        "/books/tahdhib-al-ahkam:9:1:217"
+      ]
+    },
+    "401-98": {
+      "narrator_ids": [
+        401,
+        98
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:9:10",
+        "/books/mujam-al-ahadith-al-mutabara:4:3:6"
+      ]
+    },
+    "404-401": {
+      "narrator_ids": [
+        404,
+        401
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:3:1:3:13",
+        "/books/man-la-yahduruhu-al-faqih:4:175:100"
+      ]
+    },
+    "4521-401": {
+      "narrator_ids": [
+        4521,
+        401
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:33:16"
+      ]
+    },
+    "5-401": {
+      "narrator_ids": [
+        5,
+        401
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:3:9:10",
+        "/books/mujam-al-ahadith-al-mutabara:4:3:6"
+      ]
+    },
+    "5-401-98": {
+      "narrator_ids": [
+        5,
+        401,
+        98
+      ],
+      "verse_paths": [
+        "/books/mujam-al-ahadith-al-mutabara:4:3:6"
+      ]
+    },
+    "50-1239-401": {
+      "narrator_ids": [
+        50,
+        1239,
+        401
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:124:5"
+      ]
+    },
+    "50-2-401": {
+      "narrator_ids": [
+        50,
+        2,
+        401
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:1:1:18"
+      ]
+    },
+    "573-401": {
+      "narrator_ids": [
+        573,
+        401
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:75:10"
+      ]
+    },
+    "6-8-401": {
+      "narrator_ids": [
+        6,
+        8,
+        401
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:226:3"
+      ]
+    },
+    "613-90-8-401": {
+      "narrator_ids": [
+        613,
+        90,
+        8,
+        401
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:90:1"
+      ]
+    },
+    "8-401": {
+      "narrator_ids": [
+        8,
+        401
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:249:3",
+        "/books/al-kafi:3:4:83:5",
+        "/books/al-kafi:4:3:226:3",
+        "/books/kamil-al-ziyarat:2:90:1",
+        "/books/tahdhib-al-ahkam:3:29:9"
+      ]
+    },
+    "952-3-2-401-2-367-669": {
+      "narrator_ids": [
+        952,
+        3,
+        2,
+        401,
+        2,
+        367,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:1:217"
+      ]
+    },
+    "952-50-2-401": {
+      "narrator_ids": [
+        952,
+        50,
+        2,
+        401
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:8:10:121"
+      ]
+    },
+    "97-275-401": {
+      "narrator_ids": [
+        97,
+        275,
+        401
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:122:10"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/401",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/401.json"
+  }
+}

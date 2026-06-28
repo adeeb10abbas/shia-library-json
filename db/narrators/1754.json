@@ -1,0 +1,44 @@
+{
+  "id": 1754,
+  "type": "narrator",
+  "path": "/people/narrators/1754",
+  "titles": {
+    "ar": "28ـ عَلِيٌّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:130:29"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1754-2": {
+      "narrator_ids": [
+        1754,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:130:29"
+      ]
+    },
+    "1754-2-7-23-28": {
+      "narrator_ids": [
+        1754,
+        2,
+        7,
+        23,
+        28
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:130:29"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1754",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1754.json"
+  }
+}

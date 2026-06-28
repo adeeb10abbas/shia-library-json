@@ -1,0 +1,415 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:6:6:125",
+  "chapter": {
+    "path": "/books/al-kafi:6:6:125",
+    "titles": {
+      "ar": "باب الْجَزَرِ",
+      "en": "Chapter 124 – The Carrot"
+    }
+  },
+  "count": 3,
+  "records": [
+    {
+      "id": "al-kafi:6:6:125:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:6:125:1",
+        "parts": [
+          6,
+          6,
+          125,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 6,
+        "chapter": 125,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:6:125",
+        "titles": {
+          "ar": "باب الْجَزَرِ",
+          "en": "Chapter 124 – The Carrot"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " أَكْلُ الْجَزَرِ يُسَخِّنُ الْكُلْيَتَيْنِ وَ يُقِيمُ الذَّكَرَ ."
+        ],
+        "text": "أَكْلُ الْجَزَرِ يُسَخِّنُ الْكُلْيَتَيْنِ وَ يُقِيمُ الذَّكَرَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad Bin Al Hassan Bin Ali, or someone else, from Dawood Bin Farqad, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Eating the carrots warms the kidneys and stirs the manhood’."
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad Bin Al Hassan Bin Ali, or someone else, from Dawood Bin Farqad,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Eating the carrots warms the kidneys and stirs the manhood’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from al-Hassan ibn Ali and others from Dawud ibn Farqad who has said the following: “Abu ’Abd Allah, ‘Alayhi al-Salam, has said, ’Eating carrot warms up the kidneys and causes erection.”’ "
+          ],
+          "text": "1. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from al-Hassan ibn Ali and others from Dawud ibn Farqad who has said the following: “Abu ’Abd Allah, ‘Alayhi al-Salam, has said, ’Eating carrot warms up the kidneys and causes erection.”’"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مجهول    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/217)",
+          "label": "مجهول",
+          "text": "Allamah Baqir al-Majlisi: مجهول - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/217)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنِ الْحَسَنِ بْنِ عَلِيٍّ أَوْ غَيْرِهِ عَنْ دَاوُدَ بْنِ فَرْقَدٍ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحَسَنِ بْنِ عَلِيٍّ أَوْ غَيْرِهِ",
+            "path": "/people/narrators/1029"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "دَاوُدَ بْنِ فَرْقَدٍ",
+            "path": "/people/narrators/178"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/5",
+          "/people/narrators/1029",
+          "/people/narrators/178",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:6:125:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/6/125/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:6:125:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:6:125:2",
+        "parts": [
+          6,
+          6,
+          125,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 6,
+        "chapter": 125,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:6:125",
+        "titles": {
+          "ar": "باب الْجَزَرِ",
+          "en": "Chapter 124 – The Carrot"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ أَبُو عَبْدِ اللَّهِ ( عليه السلام ) الْجَزَرُ أَمَانٌ مِنَ الْقُولَنْجِ وَ الْبَوَاسِيرِ وَ يُعِينُ عَلَى الْجِمَاعِ ."
+        ],
+        "text": "قَالَ أَبُو عَبْدِ اللَّهِ ( عليه السلام ) الْجَزَرُ أَمَانٌ مِنَ الْقُولَنْجِ وَ الْبَوَاسِيرِ وَ يُعِينُ عَلَى الْجِمَاعِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Muhammad Bin Musa, from Ahmad Bin Al Hassan Al Jallab, from Musa Bin Ismail, from Ibn Abu Umeyr, from one of our companions who said, ",
+            "‘Abu Abdullah<sup>asws</sup> said: ‘The carrots are a security from the colitis, and the hemorrhoids, and it aids upon the copulation’."
+          ],
+          "text": "Muhammad Bin Yahya, from Muhammad Bin Musa, from Ahmad Bin Al Hassan Al Jallab, from Musa Bin Ismail, from Ibn Abu Umeyr, from one of our companions who said,\n\n‘Abu Abdullah<sup>asws</sup> said: ‘The carrots are a security from the colitis, and the hemorrhoids, and it aids upon the copulation’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. Muhammad ibn Yahya has narrated from Muhammad ibn Musa from Ahmad ibn al-Hassan al-Jallab from Musa ibn ’Isma‘il from ibn abu ‘Umayr from certain persons of our people who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ’Carrot is protection against colic pain, hemorrhoid, and helps in going to bed with one’s wife.’” "
+          ],
+          "text": "2. Muhammad ibn Yahya has narrated from Muhammad ibn Musa from Ahmad ibn al-Hassan al-Jallab from Musa ibn ’Isma‘il from ibn abu ‘Umayr from certain persons of our people who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ’Carrot is protection against colic pain, hemorrhoid, and helps in going to bed with one’s wife.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/217)",
+          "label": "ضعيف",
+          "text": "Allamah Baqir al-Majlisi: ضعيف - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/217)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ مُحَمَّدِ بْنِ مُوسَى عَنْ أَحْمَدَ بْنِ الْحَسَنِ الْجَلَّابِ عَنْ مُوسَى بْنِ إِسْمَاعِيلَ عَنِ ابْنِ أَبِي عُمَيْرٍ عَنْ بَعْضِ أَصْحَابِنَا قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ مُوسَى",
+            "path": "/people/narrators/339"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ الْحَسَنِ الْجَلَّابِ",
+            "path": "/people/narrators/1299"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُوسَى بْنِ إِسْمَاعِيلَ",
+            "path": "/people/narrators/4435"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ أَبِي عُمَيْرٍ",
+            "path": "/people/narrators/7"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "بَعْضِ أَصْحَابِنَا",
+            "path": "/people/narrators/36"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/339",
+          "/people/narrators/1299",
+          "/people/narrators/4435",
+          "/people/narrators/7",
+          "/people/narrators/36"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:6:125:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/6/125/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:6:125:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:6:125:3",
+        "parts": [
+          6,
+          6,
+          125,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 6,
+        "chapter": 125,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:6:125",
+        "titles": {
+          "ar": "باب الْجَزَرِ",
+          "en": "Chapter 124 – The Carrot"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَمِعْتُ أَبَا الْحَسَنِ ( عليه السلام ) يَقُولُ أَكْلُ الْجَزَرِ يُسَخِّنُ الْكُلْيَتَيْنِ وَ يَنْصِبُ الذَّكَرَ قَالَ فَقُلْتُ لَهُ جُعِلْتُ فِدَاكَ كَيْفَ آكُلُهُ وَ لَيْسَ لِي أَسْنَانٌ قَالَ فَقَالَ لِي مُرِ الْجَارِيَةَ تَسْلُقُهُ وَ كُلْهُ ."
+        ],
+        "text": "سَمِعْتُ أَبَا الْحَسَنِ ( عليه السلام ) يَقُولُ أَكْلُ الْجَزَرِ يُسَخِّنُ الْكُلْيَتَيْنِ وَ يَنْصِبُ الذَّكَرَ قَالَ فَقُلْتُ لَهُ جُعِلْتُ فِدَاكَ كَيْفَ آكُلُهُ وَ لَيْسَ لِي أَسْنَانٌ قَالَ فَقَالَ لِي مُرِ الْجَارِيَةَ تَسْلُقُهُ وَ كُلْهُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Sahl Bin Ziyad, from Ibrahim Bin Abdul Rahman, from his father, from Dawood Bin Farqad who said, ",
+            "‘I heard Abu Al-Hassan<sup>asws</sup> saying: ‘Eating the carrots warms the kidneys, and establishes the manhood’. I said to him<sup>asws</sup>, ‘May I be sacrificed for you<sup>asws</sup>! How can I eat it and there are no teeth for me’. So he<sup>asws</sup> said to me: ‘Instruct the maid to boil it, and eat it’."
+          ],
+          "text": "A number of our companions, from Sahl Bin Ziyad, from Ibrahim Bin Abdul Rahman, from his father, from Dawood Bin Farqad who said,\n\n‘I heard Abu Al-Hassan<sup>asws</sup> saying: ‘Eating the carrots warms the kidneys, and establishes the manhood’. I said to him<sup>asws</sup>, ‘May I be sacrificed for you<sup>asws</sup>! How can I eat it and there are no teeth for me’. So he<sup>asws</sup> said to me: ‘Instruct the maid to boil it, and eat it’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "3. A number of our people have narrated from Sahl ibn Ziyad from Ibrahim ibn ‘Abd al-Rahman from his father from Dawud ibn Farqad who has said the following: “I once heard abu al-Hassan, ‘Alayhi al-Salam, saying, ’Eating carrot warms up the kidneys and causes erection.’ He (the narrator) has said that he asked, ‘I pray to Allah to keep my soul in service for your cause, how should I eat it when I have no teeth?’ He (the Imam) said, ’Order the girl to boil it, then eat.’” "
+          ],
+          "text": "3. A number of our people have narrated from Sahl ibn Ziyad from Ibrahim ibn ‘Abd al-Rahman from his father from Dawud ibn Farqad who has said the following: “I once heard abu al-Hassan, ‘Alayhi al-Salam, saying, ’Eating carrot warms up the kidneys and causes erection.’ He (the narrator) has said that he asked, ‘I pray to Allah to keep my soul in service for your cause, how should I eat it when I have no teeth?’ He (the Imam) said, ’Order the girl to boil it, then eat.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/218)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/218)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ سَهْلِ بْنِ زِيَادٍ عَنْ إِبْرَاهِيمَ بْنِ عَبْدِ الرَّحْمَنِ عَنْ أَبِيهِ عَنْ دَاوُدَ بْنِ فَرْقَدٍ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَهْلِ بْنِ زِيَادٍ",
+            "path": "/people/narrators/8"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "إِبْرَاهِيمَ بْنِ عَبْدِ الرَّحْمَنِ",
+            "path": "/people/narrators/1227"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "دَاوُدَ بْنِ فَرْقَدٍ",
+            "path": "/people/narrators/178"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/8",
+          "/people/narrators/1227",
+          "/people/narrators/2",
+          "/people/narrators/178"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:6:125:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/6/125/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "maani-al-akhbar",
+  "chapterPath": "/books/maani-al-akhbar:68",
+  "chapter": {
+    "path": "/books/maani-al-akhbar:68",
+    "titles": {
+      "en": "The meaning of impurity"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "maani-al-akhbar:68:1",
+      "type": "hadith",
+      "book": {
+        "slug": "maani-al-akhbar",
+        "titles": {
+          "ar": "معاني الأخبار",
+          "en": "Ma'ani al-Akhbar"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/maani-al-akhbar:68:1",
+        "parts": [
+          68,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 68,
+        "book": 1
+      },
+      "chapter": {
+        "path": "/books/maani-al-akhbar:68",
+        "titles": {
+          "en": "The meaning of impurity"
+        }
+      },
+      "arabic": {
+        "segments": [
+          "ا: حدثنا عبد الله بن جعفر الحميري، عن محمد بن الحسين بن أبي الخطاب، قال: حدثنا النضر بن شعيب، عن عبد الغفار الجازي، عن أبي عبد الله عليه السلام في قول الله عز وجل: \" إنما يريد الله ليذهب عنكم الرجس أهل البيت ويطهركم تطهيرا   \" قال: الرجس هو الشك."
+        ],
+        "text": "ا: حدثنا عبد الله بن جعفر الحميري، عن محمد بن الحسين بن أبي الخطاب، قال: حدثنا النضر بن شعيب، عن عبد الغفار الجازي، عن أبي عبد الله عليه السلام في قول الله عز وجل: \" إنما يريد الله ليذهب عنكم الرجس أهل البيت ويطهركم تطهيرا   \" قال: الرجس هو الشك."
+      },
+      "translations": {
+        "en.basel-kadem": {
+          "segments": [
+            "1.\tWe were told by my father, and Muhammed bin Hasan bin Ahmad bin Waleed, may Allah be pleased with them both, that they both said: We were told by Abdullah bin Ja’far al-Himyari, from Muhammed bin Hussain bin Abi’l-Khattab, that he said: We were told by Nadr bin Shu’aib, from Abdul-Ghaffar al-Jazi, from Abu Abdillah, peace be upon him, with regards to the saying of Allah, Exalted and Glorious is He: «Allah only wants, verily, to remove from you impurity, (O) Household, and to purify you a (complete) purification.» <a href=\"/books/quran:33#h33\">[33:33]</a> He said: Impurity is doubt."
+          ],
+          "text": "1.\tWe were told by my father, and Muhammed bin Hasan bin Ahmad bin Waleed, may Allah be pleased with them both, that they both said: We were told by Abdullah bin Ja’far al-Himyari, from Muhammed bin Hussain bin Abi’l-Khattab, that he said: We were told by Nadr bin Shu’aib, from Abdul-Ghaffar al-Jazi, from Abu Abdillah, peace be upon him, with regards to the saying of Allah, Exalted and Glorious is He: «Allah only wants, verily, to remove from you impurity, (O) Household, and to purify you a (complete) purification.» <a href=\"/books/quran:33#h33\">[33:33]</a> He said: Impurity is doubt."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "حدثنا أبي، ومحمد بن الحسن بن أحمد بن الوليد - رضي الله عنهما - قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "حدثنا "
+          },
+          {
+            "kind": "plain",
+            "text": "أبي، ومحمد بن الحسن بن أحمد بن الوليد - رضي الله عنهما - قال"
+          }
+        ],
+        "narratorPaths": []
+      },
+      "relations": {
+        "Mentions": [
+          "/books/quran:33:33"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/maani-al-akhbar:68:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/maani-al-akhbar/68/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/28/1/68/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

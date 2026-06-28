@@ -1,0 +1,54 @@
+{
+  "id": 1827,
+  "type": "narrator",
+  "path": "/people/narrators/1827",
+  "titles": {
+    "ar": "إِبْرَاهِيمَ بْنِ عُقْبَةَ يَرْفَعُهُ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:46:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1827-669": {
+      "narrator_ids": [
+        1827,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:46:4"
+      ]
+    },
+    "20-25-12-231-1827-669": {
+      "narrator_ids": [
+        20,
+        25,
+        12,
+        231,
+        1827,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:46:4"
+      ]
+    },
+    "231-1827": {
+      "narrator_ids": [
+        231,
+        1827
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:46:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1827",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1827.json"
+  }
+}

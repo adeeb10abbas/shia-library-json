@@ -1,0 +1,57 @@
+{
+  "id": 1784,
+  "type": "narrator",
+  "path": "/people/narrators/1784",
+  "titles": {
+    "ar": "أَبَانٍ لَا أَعْلَمُهُ إِلَّا ذَكَرَهُ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:3:38:1",
+    "/books/tahdhib-al-ahkam:1:39:115"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "1784-71": {
+      "narrator_ids": [
+        1784,
+        71
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:38:1",
+        "/books/tahdhib-al-ahkam:1:39:115"
+      ]
+    },
+    "3-2-76-1784-71": {
+      "narrator_ids": [
+        3,
+        2,
+        76,
+        1784,
+        71
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:38:1",
+        "/books/tahdhib-al-ahkam:1:39:115"
+      ]
+    },
+    "76-1784": {
+      "narrator_ids": [
+        76,
+        1784
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:38:1",
+        "/books/tahdhib-al-ahkam:1:39:115"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1784",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1784.json"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": 1701,
+  "type": "narrator",
+  "path": "/people/narrators/1701",
+  "titles": {
+    "ar": "مُوسَى بْنِ عَبْدِ اللَّهِ بْنِ مُوسَى"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:8:43:36",
+    "/books/al-kafi:6:8:43:38"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "20-4-545-212-1701": {
+      "narrator_ids": [
+        20,
+        4,
+        545,
+        212,
+        1701
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:43:36",
+        "/books/al-kafi:6:8:43:38"
+      ]
+    },
+    "212-1701": {
+      "narrator_ids": [
+        212,
+        1701
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:43:36",
+        "/books/al-kafi:6:8:43:38"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1701",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1701.json"
+  }
+}

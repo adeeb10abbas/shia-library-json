@@ -1,0 +1,53 @@
+{
+  "id": 3915,
+  "type": "narrator",
+  "path": "/people/narrators/3915",
+  "titles": {
+    "ar": "عَمِيرَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:169:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1079-3915": {
+      "narrator_ids": [
+        1079,
+        3915
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:169:5"
+      ]
+    },
+    "26-178-1079-3915-669": {
+      "narrator_ids": [
+        26,
+        178,
+        1079,
+        3915,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:169:5"
+      ]
+    },
+    "3915-669": {
+      "narrator_ids": [
+        3915,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:169:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3915",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3915.json"
+  }
+}

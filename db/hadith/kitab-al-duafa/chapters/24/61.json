@@ -1,0 +1,84 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "kitab-al-duafa",
+  "chapterPath": "/books/kitab-al-duafa:24:61",
+  "chapter": {
+    "path": "/books/kitab-al-duafa:24:61",
+    "titles": {
+      "en": "Khālid b. Yaḥyā b. Khālid"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "kitab-al-duafa:24:61:1",
+      "type": "hadith",
+      "book": {
+        "slug": "kitab-al-duafa",
+        "titles": {
+          "ar": "كتاب الضعفاء",
+          "en": "Kitab al-Du'afa'"
+        },
+        "author": {
+          "en": "Ahmad ibn al-Husayn al-Ghada'iri"
+        }
+      },
+      "path": {
+        "source": "/books/kitab-al-duafa:24:61:1",
+        "parts": [
+          24,
+          61,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 24,
+        "book": 61,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/kitab-al-duafa:24:61",
+        "titles": {
+          "en": "Khālid b. Yaḥyā b. Khālid"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " الإمامة كبيرا، سماه \" كتاب المنهج \"."
+        ],
+        "text": "الإمامة كبيرا، سماه \" كتاب المنهج \"."
+      },
+      "translations": {
+        "en.tashayyu": {
+          "segments": [
+            "61 – Khālid b. Yaḥyā b. Khālid.  I saw a large book of his regarding the Imamate.  He named it “book of the method” (kitāb al-manhaj)"
+          ],
+          "text": "61 – Khālid b. Yaḥyā b. Khālid.  I saw a large book of his regarding the Imamate.  He named it “book of the method” (kitāb al-manhaj)"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "61 - خالد بن يحيى بن خالد. رأيت له كتابا في",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "61 - "
+          },
+          {
+            "kind": "plain",
+            "text": "خالد بن يحيى بن خالد. رأيت له كتابا في"
+          }
+        ],
+        "narratorPaths": []
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/kitab-al-duafa:24:61:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/kitab-al-duafa/24/61/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/17/24/61/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

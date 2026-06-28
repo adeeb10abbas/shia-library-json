@@ -1,0 +1,57 @@
+{
+  "id": 1494,
+  "type": "narrator",
+  "path": "/people/narrators/1494",
+  "titles": {
+    "ar": "سُلَيْمَانَ بْنِ حَفْصٍ الْبَصْرِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:36:1",
+    "/books/al-kafi:6:6:38:1"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "1026-1494": {
+      "narrator_ids": [
+        1026,
+        1494
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:36:1",
+        "/books/al-kafi:6:6:38:1"
+      ]
+    },
+    "1494-669": {
+      "narrator_ids": [
+        1494,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:36:1",
+        "/books/al-kafi:6:6:38:1"
+      ]
+    },
+    "3-2-1026-1494-669": {
+      "narrator_ids": [
+        3,
+        2,
+        1026,
+        1494,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:36:1",
+        "/books/al-kafi:6:6:38:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1494",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1494.json"
+  }
+}

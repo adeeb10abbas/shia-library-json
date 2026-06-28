@@ -1,0 +1,438 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:4:2:57",
+  "chapter": {
+    "path": "/books/al-kafi:4:2:57",
+    "titles": {
+      "ar": "بَابُ صَوْمِ كَفَّارَةِ الْيَمِينِ",
+      "en": "Chapter 57 – Fasting as an expiation for the oath"
+    }
+  },
+  "count": 3,
+  "records": [
+    {
+      "id": "al-kafi:4:2:57:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:4:2:57:1",
+        "parts": [
+          4,
+          2,
+          57,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 2,
+        "chapter": 57,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:4:2:57",
+        "titles": {
+          "ar": "بَابُ صَوْمِ كَفَّارَةِ الْيَمِينِ",
+          "en": "Chapter 57 – Fasting as an expiation for the oath"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " كُلُّ صَوْمٍ يُفَرَّقُ إِلَّا ثَلَاثَةَ أَيَّامٍ فِي كَفَّارَةِ الْيَمِينِ ."
+        ],
+        "text": "كُلُّ صَوْمٍ يُفَرَّقُ إِلَّا ثَلَاثَةَ أَيَّامٍ فِي كَفَّارَةِ الْيَمِينِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father, from Ibn Abu Umeyr, from Abdullah Bin Sinan, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup>, said, ‘Every Fast can be separated except for the three days regarding an expiation for the oath’."
+          ],
+          "text": "Ali Bin Ibrahim, from his father, from Ibn Abu Umeyr, from Abdullah Bin Sinan,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup>, said, ‘Every Fast can be separated except for the three days regarding an expiation for the oath’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. Ali ibn Ibrahim has narrated from his father from ibn abu ‘Umayr from ‘ Abd Allah ibn Sinan who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘All fasts can lawfully be completed in different times except the fast which is as expiation for an oath.”’ "
+          ],
+          "text": "1. Ali ibn Ibrahim has narrated from his father from ibn abu ‘Umayr from ‘ Abd Allah ibn Sinan who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘All fasts can lawfully be completed in different times except the fast which is as expiation for an oath.”’"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> حسن   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (16/349)",
+          "label": "حسن",
+          "text": "Allamah Baqir al-Majlisi: حسن - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (16/349)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنِ ابْنِ أَبِي عُمَيْرٍ عَنْ عَبْدِ اللَّهِ بْنِ سِنَانٍ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ أَبِي عُمَيْرٍ",
+            "path": "/people/narrators/7"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَبْدِ اللَّهِ بْنِ سِنَانٍ",
+            "path": "/people/narrators/31"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/7",
+          "/people/narrators/31",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:4:2:57:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/4/2/57/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:4:2:57:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:4:2:57:2",
+        "parts": [
+          4,
+          2,
+          57,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 2,
+        "chapter": 57,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:4:2:57",
+        "titles": {
+          "ar": "بَابُ صَوْمِ كَفَّارَةِ الْيَمِينِ",
+          "en": "Chapter 57 – Fasting as an expiation for the oath"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " صِيَامُ ثَلَاثَةِ أَيَّامٍ فِي كَفَّارَةِ الْيَمِينِ مُتَتَابِعَاتٍ لَا يُفْصَلُ بَيْنَهُنَّ ."
+        ],
+        "text": "صِيَامُ ثَلَاثَةِ أَيَّامٍ فِي كَفَّارَةِ الْيَمِينِ مُتَتَابِعَاتٍ لَا يُفْصَلُ بَيْنَهُنَّ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "And from him, from his father, from Ibn Abu Umeyr, from Hammad, from Al Halby, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The Fasts of the three days regarding an expiation for the oath are consecutive, there cannot be a gap in between them’."
+          ],
+          "text": "And from him, from his father, from Ibn Abu Umeyr, from Hammad, from Al Halby,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The Fasts of the three days regarding an expiation for the oath are consecutive, there cannot be a gap in between them’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. It is narrated from him (narrator of previous Hadith) from ibn abu ‘Umayr from Hammad from al-Halabiy who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘The fast which is as expiation for an oath must be completed without any interval in between.’” "
+          ],
+          "text": "2. It is narrated from him (narrator of previous Hadith) from ibn abu ‘Umayr from Hammad from al-Halabiy who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘The fast which is as expiation for an oath must be completed without any interval in between.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> حسن    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (16/349)",
+          "label": "حسن",
+          "text": "Allamah Baqir al-Majlisi: حسن - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (16/349)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "وَ عَنْهُ عَنْ أَبِيهِ عَنِ ابْنِ أَبِي عُمَيْرٍ عَنْ حَمَّادٍ عَنِ الْحَلَبِيِّ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "وَ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَنْهُ",
+            "path": "/people/narrators/11"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ أَبِي عُمَيْرٍ",
+            "path": "/people/narrators/7"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "حَمَّادٍ",
+            "path": "/people/narrators/23"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحَلَبِيِّ",
+            "path": "/people/narrators/28"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/11",
+          "/people/narrators/2",
+          "/people/narrators/7",
+          "/people/narrators/23",
+          "/people/narrators/28",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:2:4:23:10",
+          "/books/al-kafi:3:4:18:8",
+          "/books/al-kafi:5:2:113:2",
+          "/books/tahdhib-al-ahkam:10:26:3",
+          "/books/tahdhib-al-ahkam:6:81:3",
+          "/books/tahdhib-al-ahkam:7:8:86"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:4:2:57:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/4/2/57/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:4:2:57:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:4:2:57:3",
+        "parts": [
+          4,
+          2,
+          57,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 2,
+        "chapter": 57,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:4:2:57",
+        "titles": {
+          "ar": "بَابُ صَوْمِ كَفَّارَةِ الْيَمِينِ",
+          "en": "Chapter 57 – Fasting as an expiation for the oath"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " السَّبْعَةُ الْأَيَّامِ وَ الثَّلَاثَةُ الْأَيَّامِ فِي الْحَجِّ لَا يُفَرَّقُ إِنَّمَا هِيَ بِمَنْزِلَةِ الثَّلَاثَةِ الْأَيَّامِ فِي الْيَمِينِ ."
+        ],
+        "text": "السَّبْعَةُ الْأَيَّامِ وَ الثَّلَاثَةُ الْأَيَّامِ فِي الْحَجِّ لَا يُفَرَّقُ إِنَّمَا هِيَ بِمَنْزِلَةِ الثَّلَاثَةِ الْأَيَّامِ فِي الْيَمِينِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Ahmad Bin Muhammad, from Al Hassan Bin Ali Al Washa, from Aban, from Al Husayn Bin Zayd, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The seven days, and the three days during the Hajj cannot be separated. But rather, these are at the status of the three days regarding the oath’."
+          ],
+          "text": "A number of our companions, from Ahmad Bin Muhammad, from Al Hassan Bin Ali Al Washa, from Aban, from Al Husayn Bin Zayd,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The seven days, and the three days during the Hajj cannot be separated. But rather, these are at the status of the three days regarding the oath’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "3. A number of our people have narrated from Ahmad ibn Muhammad from al-Hassan ibn Ali al-Washsha’ from Aban from al-Husayn ibn Zayd who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘The seven days and the three days during Hajj are without any interval in between. They are just like three days because of an oath.’” "
+          ],
+          "text": "3. A number of our people have narrated from Ahmad ibn Muhammad from al-Hassan ibn Ali al-Washsha’ from Aban from al-Husayn ibn Zayd who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘The seven days and the three days during Hajj are without any interval in between. They are just like three days because of an oath.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> حسن أو موثق   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (16/349)",
+          "label": "حسن أو موثق",
+          "text": "Allamah Baqir al-Majlisi: حسن أو موثق - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (16/349)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنِ الْحَسَنِ بْنِ عَلِيٍّ الْوَشَّاءِ عَنْ أَبَانٍ عَنِ الْحُسَيْنِ بْنِ زَيْدٍ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحَسَنِ بْنِ عَلِيٍّ الْوَشَّاءِ",
+            "path": "/people/narrators/89"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبَانٍ",
+            "path": "/people/narrators/46"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحُسَيْنِ بْنِ زَيْدٍ",
+            "path": "/people/narrators/680"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/5",
+          "/people/narrators/89",
+          "/people/narrators/46",
+          "/people/narrators/680",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:4:2:57:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/4/2/57/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

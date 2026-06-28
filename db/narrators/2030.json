@@ -1,0 +1,53 @@
+{
+  "id": 2030,
+  "type": "narrator",
+  "path": "/people/narrators/2030",
+  "titles": {
+    "ar": "أَبِي أَيُّوبَ الْمَدَنِيِّ مَوْلَى بَنِي هَاشِمٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:1:32:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2030-1462": {
+      "narrator_ids": [
+        2030,
+        1462
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:32:2"
+      ]
+    },
+    "209-2030": {
+      "narrator_ids": [
+        209,
+        2030
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:32:2"
+      ]
+    },
+    "3-209-2030-1462-834": {
+      "narrator_ids": [
+        3,
+        209,
+        2030,
+        1462,
+        834
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:32:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2030",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2030.json"
+  }
+}

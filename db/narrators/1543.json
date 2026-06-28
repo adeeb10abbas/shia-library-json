@@ -1,0 +1,72 @@
+{
+  "id": 1543,
+  "type": "narrator",
+  "path": "/people/narrators/1543",
+  "titles": {
+    "ar": "عَبْدِ اللَّهِ بْنِ غَالِبٍ الْأَسَدِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:1:11:4",
+    "/books/al-kafi:8:1:14:1"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "1543-2": {
+      "narrator_ids": [
+        1543,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:11:4",
+        "/books/al-kafi:8:1:14:1"
+      ]
+    },
+    "4-13-3-2-53-1543-2-633": {
+      "narrator_ids": [
+        4,
+        13,
+        3,
+        2,
+        53,
+        1543,
+        2,
+        633
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:14:1"
+      ]
+    },
+    "53-1543": {
+      "narrator_ids": [
+        53,
+        1543
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:11:4",
+        "/books/al-kafi:8:1:14:1"
+      ]
+    },
+    "6-8-53-1543-2-633": {
+      "narrator_ids": [
+        6,
+        8,
+        53,
+        1543,
+        2,
+        633
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:11:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1543",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1543.json"
+  }
+}

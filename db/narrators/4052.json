@@ -1,0 +1,45 @@
+{
+  "id": 4052,
+  "type": "narrator",
+  "path": "/people/narrators/4052",
+  "titles": {
+    "ar": "كَانَ خَالَهُ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:129:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "133-2-432-2563-1711-4052": {
+      "narrator_ids": [
+        133,
+        2,
+        432,
+        2563,
+        1711,
+        4052
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:129:3"
+      ]
+    },
+    "1711-4052": {
+      "narrator_ids": [
+        1711,
+        4052
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:129:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4052",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4052.json"
+  }
+}

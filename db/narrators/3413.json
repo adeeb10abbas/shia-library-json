@@ -1,0 +1,45 @@
+{
+  "id": 3413,
+  "type": "narrator",
+  "path": "/people/narrators/3413",
+  "titles": {
+    "ar": "شَيْخٍ مِنَ النَّخَعِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:136:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3-2-7-659-3645-3413": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        659,
+        3645,
+        3413
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:136:3"
+      ]
+    },
+    "3645-3413": {
+      "narrator_ids": [
+        3645,
+        3413
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:136:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3413",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3413.json"
+  }
+}

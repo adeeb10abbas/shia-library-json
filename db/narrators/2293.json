@@ -1,0 +1,52 @@
+{
+  "id": 2293,
+  "type": "narrator",
+  "path": "/people/narrators/2293",
+  "titles": {
+    "ar": "أَحْمَدَ بْنِ جُمْهُورٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:4:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2293-493": {
+      "narrator_ids": [
+        2293,
+        493
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:4:5"
+      ]
+    },
+    "36-2293": {
+      "narrator_ids": [
+        36,
+        2293
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:4:5"
+      ]
+    },
+    "36-2293-493-126": {
+      "narrator_ids": [
+        36,
+        2293,
+        493,
+        126
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:4:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2293",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2293.json"
+  }
+}

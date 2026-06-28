@@ -1,0 +1,45 @@
+{
+  "id": 4459,
+  "type": "narrator",
+  "path": "/people/narrators/4459",
+  "titles": {
+    "ar": "مَوْلًى لِعَلِيِّ بْنِ الْحُسَيْنِ ( عليه السلام )"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:8:32:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "40-4459": {
+      "narrator_ids": [
+        40,
+        4459
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:32:4"
+      ]
+    },
+    "6-12-2-69-40-4459": {
+      "narrator_ids": [
+        6,
+        12,
+        2,
+        69,
+        40,
+        4459
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:32:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4459",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4459.json"
+  }
+}

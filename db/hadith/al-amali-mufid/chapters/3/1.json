@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-amali-mufid",
+  "chapterPath": "/books/al-amali-mufid:3:1",
+  "chapter": {
+    "path": "/books/al-amali-mufid:3:1",
+    "titles": {
+      "en": "Adopting Ignorant Leaders"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-amali-mufid:3:1:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-amali-mufid",
+        "titles": {
+          "ar": "الأمالي (المفيد)",
+          "en": "Al-Amali (al-Mufid)"
+        },
+        "author": {
+          "ar": "الشيخ المفيد",
+          "en": "Shaykh al-Mufid"
+        }
+      },
+      "path": {
+        "source": "/books/al-amali-mufid:3:1:1",
+        "parts": [
+          3,
+          1,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 1,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-amali-mufid:3:1",
+        "titles": {
+          "en": "Adopting Ignorant Leaders"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا أبو بكر محمد بن عمر الجعابي، قال: حدثني عبد الله بن إسحاق، قال: حدثنا إسحاق بن إبراهيم البغوي، قال: حدثنا أبو قطن ، قال: حدثنا هشام الدستوائي ، عن يحيى بن أبي كثير، عن عروة ، عن عبد الله بن عمر، قال: قال رسول الله صلى الله عليه وآله وسلم: إن الله لا يقبض العلم انتزاعا ينتزعه من الناس، ولكن يقبض العلم بقبض العلماء، وإذا لم يبق عالم اتخذ الناس رؤساء جهالا، فسألوهم فقالوا بغير علم فضلوا وأضلوا ."
+        ],
+        "text": ": حدثنا أبو بكر محمد بن عمر الجعابي، قال: حدثني عبد الله بن إسحاق، قال: حدثنا إسحاق بن إبراهيم البغوي، قال: حدثنا أبو قطن ، قال: حدثنا هشام الدستوائي ، عن يحيى بن أبي كثير، عن عروة ، عن عبد الله بن عمر، قال: قال رسول الله صلى الله عليه وآله وسلم: إن الله لا يقبض العلم انتزاعا ينتزعه من الناس، ولكن يقبض العلم بقبض العلماء، وإذا لم يبق عالم اتخذ الناس رؤساء جهالا، فسألوهم فقالوا بغير علم فضلوا وأضلوا ."
+      },
+      "translations": {
+        "en.mulla-asgharali-m-m-jaffer": {
+          "segments": [
+            "1. He said: Abu Bakr Muhammad ibn Umar al-Ji’abi reported from Abdullah ibn Ishaq, who reported from Ishaq ibn Ibrahim al-Baghvi, who reported from Abu Qatan, who reported from Hisham al-Dastwai, from Yahya ibn Abu Katheer, from Urwah, from Abdullah ibn Umar that the Prophet, peace be upon him and his progeny, said: \"Surely, Allah does not withdraw knowledge from the people by erasing it from their minds; rather, He does so by taking away the learned people (from among them). And when there is no learned man around, people adopt the ignorant men as their leaders, and refer their questions to these (ignorant leaders), who answer without any knowledge, thus going astray, and causing others to go astray.\""
+          ],
+          "text": "1. He said: Abu Bakr Muhammad ibn Umar al-Ji’abi reported from Abdullah ibn Ishaq, who reported from Ishaq ibn Ibrahim al-Baghvi, who reported from Abu Qatan, who reported from Hisham al-Dastwai, from Yahya ibn Abu Katheer, from Urwah, from Abdullah ibn Umar that the Prophet, peace be upon him and his progeny, said: \"Surely, Allah does not withdraw knowledge from the people by erasing it from their minds; rather, He does so by taking away the learned people (from among them). And when there is no learned man around, people adopt the ignorant men as their leaders, and refer their questions to these (ignorant leaders), who answer without any knowledge, thus going astray, and causing others to go astray.\""
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "1 - قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "1 - "
+          },
+          {
+            "kind": "narrator",
+            "text": "قال",
+            "path": "/people/narrators/652"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/652"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-amali-mufid:3:1:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-amali-mufid/3/1/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/13/3/1/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

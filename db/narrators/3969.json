@@ -1,0 +1,57 @@
+{
+  "id": 3969,
+  "type": "narrator",
+  "path": "/people/narrators/3969",
+  "titles": {
+    "ar": "عِيسَى بْنِ عَطِيَّةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:7:18:2",
+    "/books/tahdhib-al-ahkam:8:13:74"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "11-4595-1139-3969": {
+      "narrator_ids": [
+        11,
+        4595,
+        1139,
+        3969
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:8:13:74"
+      ]
+    },
+    "1139-3969": {
+      "narrator_ids": [
+        1139,
+        3969
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:7:18:2",
+        "/books/tahdhib-al-ahkam:8:13:74"
+      ]
+    },
+    "19-275-995-1139-3969": {
+      "narrator_ids": [
+        19,
+        275,
+        995,
+        1139,
+        3969
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:7:18:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3969",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3969.json"
+  }
+}

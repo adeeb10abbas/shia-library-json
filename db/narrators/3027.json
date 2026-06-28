@@ -1,0 +1,34 @@
+{
+  "id": 3027,
+  "type": "narrator",
+  "path": "/people/narrators/3027",
+  "titles": {
+    "ar": "جُوَيْرَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:3:18:4",
+    "/books/tahdhib-al-ahkam:8:10:148"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "366-3027": {
+      "narrator_ids": [
+        366,
+        3027
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:3:18:4",
+        "/books/tahdhib-al-ahkam:8:10:148"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3027",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3027.json"
+  }
+}

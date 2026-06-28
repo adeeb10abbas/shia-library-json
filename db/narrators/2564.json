@@ -1,0 +1,53 @@
+{
+  "id": 2564,
+  "type": "narrator",
+  "path": "/people/narrators/2564",
+  "titles": {
+    "ar": "الْحَسَنِ بْنِ عَلِيٍّ الْكِنْدِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:3:3:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2564-202": {
+      "narrator_ids": [
+        2564,
+        202
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:3:4"
+      ]
+    },
+    "49-2564": {
+      "narrator_ids": [
+        49,
+        2564
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:3:4"
+      ]
+    },
+    "49-2564-202-60-669": {
+      "narrator_ids": [
+        49,
+        2564,
+        202,
+        60,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:3:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2564",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2564.json"
+  }
+}

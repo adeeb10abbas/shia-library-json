@@ -1,0 +1,86 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "maani-al-akhbar",
+  "chapterPath": "/books/maani-al-akhbar:380",
+  "chapter": {
+    "path": "/books/maani-al-akhbar:380",
+    "titles": {
+      "en": "The meaning of a container"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "maani-al-akhbar:380:1",
+      "type": "hadith",
+      "book": {
+        "slug": "maani-al-akhbar",
+        "titles": {
+          "ar": "معاني الأخبار",
+          "en": "Ma'ani al-Akhbar"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/maani-al-akhbar:380:1",
+        "parts": [
+          380,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 380,
+        "book": 1
+      },
+      "chapter": {
+        "path": "/books/maani-al-akhbar:380",
+        "titles": {
+          "en": "The meaning of a container"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا سعد بن عبد الله، عن القاسم بن محمد الأصبهاني، عن سليمان بن داود المنقري، عن حماد بن عيسى، عن أبي عبد الله عليه السلام أنه نظر إلى المقابر فقال: يا حماد هذه كفات الأموات ونظر إلى البيوت فقال: هذه كفات الاحياء ثم تلا [هذه الآية] \" ألم نجعل الأرض كفاتا * أحياء وأمواتا \". وروي أنه دفن الشعر والظفر."
+        ],
+        "text": ": حدثنا سعد بن عبد الله، عن القاسم بن محمد الأصبهاني، عن سليمان بن داود المنقري، عن حماد بن عيسى، عن أبي عبد الله عليه السلام أنه نظر إلى المقابر فقال: يا حماد هذه كفات الأموات ونظر إلى البيوت فقال: هذه كفات الاحياء ثم تلا [هذه الآية] \" ألم نجعل الأرض كفاتا * أحياء وأمواتا \". وروي أنه دفن الشعر والظفر."
+      },
+      "translations": {
+        "en.basel-kadem": {
+          "segments": [
+            "1.\tWe were told by my father, may Allah grant him mercy, that he said: We were told by Sa’d bin Abdullah, from Qasem bin Muhammed al-Esbahani, from Sulayman bin Dawud al-Manqari, from Hammad bin Isa, from Abu Abdillah, peace be upon him, that he looked at the graves and said: O Hammad, these are the containers of the dead. He then looked at the houses and said: These are the containers of the living. Then he recited this verse: «Have We not made the earth a container? Of the living and the dead?» (77:25-26) It has been narrated that it refers to the burial of hair and nails."
+          ],
+          "text": "1.\tWe were told by my father, may Allah grant him mercy, that he said: We were told by Sa’d bin Abdullah, from Qasem bin Muhammed al-Esbahani, from Sulayman bin Dawud al-Manqari, from Hammad bin Isa, from Abu Abdillah, peace be upon him, that he looked at the graves and said: O Hammad, these are the containers of the dead. He then looked at the houses and said: These are the containers of the living. Then he recited this verse: «Have We not made the earth a container? Of the living and the dead?» (77:25-26) It has been narrated that it refers to the burial of hair and nails."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "حدثنا أبي - رحمه الله - قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي - رحمه الله - قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/maani-al-akhbar:380:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/maani-al-akhbar/380/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/28/1/382/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:19:2",
+  "chapter": {
+    "path": "/books/al-khisal:19:2",
+    "titles": {
+      "en": "God Considers Eighteen-Year Olds Blameworthy"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:19:2:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:19:2:1",
+        "parts": [
+          19,
+          2,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 19,
+        "book": 2,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:19:2",
+        "titles": {
+          "en": "God Considers Eighteen-Year Olds Blameworthy"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا سعد بن عبد الله قال: حدثنا أحمد بن أبي عبد الله البرقي باسناده رفعه إلى أبي عبد الله عليه السلام في قول الله عز وجل: \"أَوَلَمْ نُعَمِّرْكُمْ مَا يَتَذَكَّرُ\" قال: توبيخ لابن ثمان عشرة سنة"
+        ],
+        "text": ": حدثنا سعد بن عبد الله قال: حدثنا أحمد بن أبي عبد الله البرقي باسناده رفعه إلى أبي عبد الله عليه السلام في قول الله عز وجل: \"أَوَلَمْ نُعَمِّرْكُمْ مَا يَتَذَكَّرُ\" قال: توبيخ لابن ثمان عشرة سنة"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "18-2 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Sa’ed ibn Abdullah quoted Ahmad ibn Aba Abdullah al-Barqy who linked it up through a chain of narrators to Aba Abdullah as-Sadiq (MGB) who said, “What is meant by ‘long enough life’ in the following words of the Honorable the Exalted God, ‘Did We not give you long enough life so that he that would should receive admonition?’ is eighteen years.”"
+          ],
+          "text": "18-2 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Sa’ed ibn Abdullah quoted Ahmad ibn Aba Abdullah al-Barqy who linked it up through a chain of narrators to Aba Abdullah as-Sadiq (MGB) who said, “What is meant by ‘long enough life’ in the following words of the Honorable the Exalted God, ‘Did We not give you long enough life so that he that would should receive admonition?’ is eighteen years.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "18-2 حدثنا أبي رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "18-2 حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي رضي الله عنه قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:19:2:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/19/2/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/19/2/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

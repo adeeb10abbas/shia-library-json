@@ -1,0 +1,54 @@
+{
+  "id": 2599,
+  "type": "narrator",
+  "path": "/people/narrators/2599",
+  "titles": {
+    "ar": "الْحُسَيْنِ الصَّحَّافِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:6:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2599-348": {
+      "narrator_ids": [
+        2599,
+        348
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:6:1"
+      ]
+    },
+    "347-2599": {
+      "narrator_ids": [
+        347,
+        2599
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:6:1"
+      ]
+    },
+    "6-12-426-347-2599-348": {
+      "narrator_ids": [
+        6,
+        12,
+        426,
+        347,
+        2599,
+        348
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:6:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2599",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2599.json"
+  }
+}

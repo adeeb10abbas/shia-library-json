@@ -1,0 +1,57 @@
+{
+  "id": 2379,
+  "type": "narrator",
+  "path": "/people/narrators/2379",
+  "titles": {
+    "ar": "أَخِيهِ مُحَمَّدٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:111:27"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2379-263": {
+      "narrator_ids": [
+        2379,
+        263
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:111:27"
+      ]
+    },
+    "4-355-500-712-2379-263-57-14-669": {
+      "narrator_ids": [
+        4,
+        355,
+        500,
+        712,
+        2379,
+        263,
+        57,
+        14,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:111:27"
+      ]
+    },
+    "712-2379": {
+      "narrator_ids": [
+        712,
+        2379
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:111:27"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2379",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2379.json"
+  }
+}

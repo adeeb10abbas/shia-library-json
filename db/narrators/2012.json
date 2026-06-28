@@ -1,0 +1,53 @@
+{
+  "id": 2012,
+  "type": "narrator",
+  "path": "/people/narrators/2012",
+  "titles": {
+    "ar": "أَبِي الْمَحَامِلِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:1:4:9"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2012-669": {
+      "narrator_ids": [
+        2012,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:1:4:9"
+      ]
+    },
+    "3-2-792-2012-669": {
+      "narrator_ids": [
+        3,
+        2,
+        792,
+        2012,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:1:4:9"
+      ]
+    },
+    "792-2012": {
+      "narrator_ids": [
+        792,
+        2012
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:1:4:9"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2012",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2012.json"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": 4625,
+  "type": "narrator",
+  "path": "/people/narrators/4625",
+  "titles": {
+    "ar": "يُونُسَ بْنِ ظَبْيَانَ أَوِ الْمُعَلَّى بْنِ خُنَيْسٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:105:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1783-4625": {
+      "narrator_ids": [
+        1783,
+        4625
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:105:5"
+      ]
+    },
+    "4-59-4262-88-701-1783-4625": {
+      "narrator_ids": [
+        4,
+        59,
+        4262,
+        88,
+        701,
+        1783,
+        4625
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:105:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4625",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4625.json"
+  }
+}

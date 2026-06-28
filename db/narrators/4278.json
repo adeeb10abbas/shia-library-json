@@ -1,0 +1,53 @@
+{
+  "id": 4278,
+  "type": "narrator",
+  "path": "/people/narrators/4278",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ عَلِيِّ بْنِ أَبِي حَمْزَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:84:9"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-67-290-4278-14": {
+      "narrator_ids": [
+        11,
+        67,
+        290,
+        4278,
+        14
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:84:9"
+      ]
+    },
+    "290-4278": {
+      "narrator_ids": [
+        290,
+        4278
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:84:9"
+      ]
+    },
+    "4278-14": {
+      "narrator_ids": [
+        4278,
+        14
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:84:9"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4278",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4278.json"
+  }
+}

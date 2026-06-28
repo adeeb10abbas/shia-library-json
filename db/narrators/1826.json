@@ -1,0 +1,42 @@
+{
+  "id": 1826,
+  "type": "narrator",
+  "path": "/people/narrators/1826",
+  "titles": {
+    "ar": "إِبْرَاهِيمَ بْنِ عَبْدِ اللَّهِ الصُّوفِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:41:17"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "240-1826": {
+      "narrator_ids": [
+        240,
+        1826
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:41:17"
+      ]
+    },
+    "77-240-1826": {
+      "narrator_ids": [
+        77,
+        240,
+        1826
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:41:17"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1826",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1826.json"
+  }
+}

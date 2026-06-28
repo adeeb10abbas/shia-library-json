@@ -1,0 +1,160 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "maani-al-akhbar",
+  "chapterPath": "/books/maani-al-akhbar:126",
+  "chapter": {
+    "path": "/books/maani-al-akhbar:126",
+    "titles": {
+      "en": "The meaning of the two knobs"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "maani-al-akhbar:126:1",
+      "type": "hadith",
+      "book": {
+        "slug": "maani-al-akhbar",
+        "titles": {
+          "ar": "معاني الأخبار",
+          "en": "Ma'ani al-Akhbar"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/maani-al-akhbar:126:1",
+        "parts": [
+          126,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 126,
+        "book": 1
+      },
+      "chapter": {
+        "path": "/books/maani-al-akhbar:126",
+        "titles": {
+          "en": "The meaning of the two knobs"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": لا يصلين أحدكم وبه أحد العقدين يعني البول والغائط."
+        ],
+        "text": ": لا يصلين أحدكم وبه أحد العقدين يعني البول والغائط."
+      },
+      "translations": {
+        "en.basel-kadem": {
+          "segments": [
+            "1.\tWe were told by Muhammed bin Ali Majilawayh, may Allah grant him mercy, from his paternal uncle, Muhammed bin Abi’l-Qasem, from Muhammed ibn Ali al-Kufi, from Isa bin Abdillah al-‘Amri, from his father, from his grandfather, from his father, from Ali, peace be upon him, of the Prophet, Allah’s blessings be upon him and his Family, that he said: Let none of you pray whilst in him is one of the two knobs. Meaning urine and excrement."
+          ],
+          "text": "1.\tWe were told by Muhammed bin Ali Majilawayh, may Allah grant him mercy, from his paternal uncle, Muhammed bin Abi’l-Qasem, from Muhammed ibn Ali al-Kufi, from Isa bin Abdillah al-‘Amri, from his father, from his grandfather, from his father, from Ali, peace be upon him, of the Prophet, Allah’s blessings be upon him and his Family, that he said: Let none of you pray whilst in him is one of the two knobs. Meaning urine and excrement."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "حدثنا محمد بن علي ماجيلويه - رحمه الله - عن عمه محمد بن أبي القاسم، عن محمد ابن علي الكوفي، عن عيسى بن عبد الله العمري، عن أبيه، عن جده، عن أبيه، عن علي عليه السلام، عن النبي صلى الله عليه وآله قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "حدثنا "
+          },
+          {
+            "kind": "plain",
+            "text": "محمد بن علي ماجيلويه - رحمه الله -"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "عمه محمد بن أبي القاسم،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "محمد ابن علي الكوفي،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "عيسى بن عبد الله العمري،",
+            "path": "/people/narrators/1609"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبيه،",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "جده،",
+            "path": "/people/narrators/253"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبيه،",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "علي عليه السلام،",
+            "path": "/people/narrators/50"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "النبي صلى الله عليه وآله قال",
+            "path": "/people/narrators/1053"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/1609",
+          "/people/narrators/2",
+          "/people/narrators/253",
+          "/people/narrators/2",
+          "/people/narrators/50",
+          "/people/narrators/1053"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/maani-al-akhbar:126:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/maani-al-akhbar/126/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/28/1/126/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

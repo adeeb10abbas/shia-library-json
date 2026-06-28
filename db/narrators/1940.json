@@ -1,0 +1,54 @@
+{
+  "id": 1940,
+  "type": "narrator",
+  "path": "/people/narrators/1940",
+  "titles": {
+    "ar": "أَبِي إِبْرَاهِيمَ الْأَعْجَمِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:99:17"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1940-36": {
+      "narrator_ids": [
+        1940,
+        36
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:99:17"
+      ]
+    },
+    "308-1940": {
+      "narrator_ids": [
+        308,
+        1940
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:99:17"
+      ]
+    },
+    "6-8-308-1940-36-669": {
+      "narrator_ids": [
+        6,
+        8,
+        308,
+        1940,
+        36,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:99:17"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1940",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1940.json"
+  }
+}

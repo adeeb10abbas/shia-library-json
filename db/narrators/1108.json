@@ -1,0 +1,146 @@
+{
+  "id": 1108,
+  "type": "narrator",
+  "path": "/people/narrators/1108",
+  "titles": {
+    "ar": "سَعِيدِ بْنِ عَبْدِ اللَّهِ الْأَعْرَجِ"
+  },
+  "versePaths": [
+    "/books/al-istibsar:1:36:3",
+    "/books/al-kafi:2:3:14:24",
+    "/books/al-kafi:4:1:42:4",
+    "/books/al-kafi:4:3:9:3",
+    "/books/man-la-yahduruhu-al-faqih:2:3:5:20",
+    "/books/man-la-yahduruhu-al-faqih:2:3:5:51",
+    "/books/tahdhib-al-ahkam:3:3:70"
+  ],
+  "verseCount": 7,
+  "relations": {},
+  "subchains": {
+    "1108-669": {
+      "narrator_ids": [
+        1108,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:9:3",
+        "/books/man-la-yahduruhu-al-faqih:2:3:5:20",
+        "/books/man-la-yahduruhu-al-faqih:2:3:5:51"
+      ]
+    },
+    "3-2-43-1108": {
+      "narrator_ids": [
+        3,
+        2,
+        43,
+        1108
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:3:14:24"
+      ]
+    },
+    "30-1108": {
+      "narrator_ids": [
+        30,
+        1108
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:36:3",
+        "/books/tahdhib-al-ahkam:3:3:70"
+      ]
+    },
+    "355-373-189-30-1108": {
+      "narrator_ids": [
+        355,
+        373,
+        189,
+        30,
+        1108
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:3:3:70"
+      ]
+    },
+    "4-13-21-88-1108": {
+      "narrator_ids": [
+        4,
+        13,
+        21,
+        88,
+        1108
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:42:4"
+      ]
+    },
+    "4-5-88-1108-669": {
+      "narrator_ids": [
+        4,
+        5,
+        88,
+        1108,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:9:3"
+      ]
+    },
+    "404-1108": {
+      "narrator_ids": [
+        404,
+        1108
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:2:3:5:51"
+      ]
+    },
+    "404-1108-669": {
+      "narrator_ids": [
+        404,
+        1108,
+        669
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:2:3:5:51"
+      ]
+    },
+    "43-1108": {
+      "narrator_ids": [
+        43,
+        1108
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:3:14:24"
+      ]
+    },
+    "695-189-30-1108": {
+      "narrator_ids": [
+        695,
+        189,
+        30,
+        1108
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:36:3"
+      ]
+    },
+    "88-1108": {
+      "narrator_ids": [
+        88,
+        1108
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:42:4",
+        "/books/al-kafi:4:3:9:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1108",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1108.json"
+  }
+}

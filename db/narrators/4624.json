@@ -1,0 +1,56 @@
+{
+  "id": 4624,
+  "type": "narrator",
+  "path": "/people/narrators/4624",
+  "titles": {
+    "ar": "يُونُسَ بْنِ بَكَّارٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:108:28"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "35-12-2-570-4624-2-72-9": {
+      "narrator_ids": [
+        35,
+        12,
+        2,
+        570,
+        4624,
+        2,
+        72,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:108:28"
+      ]
+    },
+    "4624-2": {
+      "narrator_ids": [
+        4624,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:108:28"
+      ]
+    },
+    "570-4624": {
+      "narrator_ids": [
+        570,
+        4624
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:108:28"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4624",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4624.json"
+  }
+}

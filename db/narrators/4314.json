@@ -1,0 +1,52 @@
+{
+  "id": 4314,
+  "type": "narrator",
+  "path": "/people/narrators/4314",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ مُحَمَّدٍ الْعَامِرِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:125:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "35-3932-4314-2104": {
+      "narrator_ids": [
+        35,
+        3932,
+        4314,
+        2104
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:125:3"
+      ]
+    },
+    "3932-4314": {
+      "narrator_ids": [
+        3932,
+        4314
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:125:3"
+      ]
+    },
+    "4314-2104": {
+      "narrator_ids": [
+        4314,
+        2104
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:125:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4314",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4314.json"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": 3621,
+  "type": "narrator",
+  "path": "/people/narrators/3621",
+  "titles": {
+    "ar": "عَبْدِ اللَّهِ جَبَلَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:3:21:9"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "225-3621": {
+      "narrator_ids": [
+        225,
+        3621
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:21:9"
+      ]
+    },
+    "3-2-225-3621-44": {
+      "narrator_ids": [
+        3,
+        2,
+        225,
+        3621,
+        44
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:21:9"
+      ]
+    },
+    "3621-44": {
+      "narrator_ids": [
+        3621,
+        44
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:21:9"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3621",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3621.json"
+  }
+}

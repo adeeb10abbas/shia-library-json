@@ -1,0 +1,52 @@
+{
+  "id": 2127,
+  "type": "narrator",
+  "path": "/people/narrators/2127",
+  "titles": {
+    "ar": "أَبِي عَبْدِ الرَّحْمَنِ الْمَسْعُودِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:159:41"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-292-2127-3086": {
+      "narrator_ids": [
+        11,
+        292,
+        2127,
+        3086
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:159:41"
+      ]
+    },
+    "2127-3086": {
+      "narrator_ids": [
+        2127,
+        3086
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:159:41"
+      ]
+    },
+    "292-2127": {
+      "narrator_ids": [
+        292,
+        2127
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:159:41"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2127",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2127.json"
+  }
+}

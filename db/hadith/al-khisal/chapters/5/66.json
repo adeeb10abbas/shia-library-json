@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:5:66",
+  "chapter": {
+    "path": "/books/al-khisal:5:66",
+    "titles": {
+      "en": "The treasures of two orphans were four pieces of advice"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:5:66:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:5:66:1",
+        "parts": [
+          5,
+          66,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 66,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:5:66",
+        "titles": {
+          "en": "The treasures of two orphans were four pieces of advice"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا سعد بن عبد الله قال: حدثنا محمد ابن عبدالحميد العطار قال: حدثنا العلاء بن رزين، عن محمد بن مسلم الثقفي، عن أبي جعفر عليه السلام في قول الله عز وجل \"وكان تحته كنز لهما\" قال: والله ما كان من ذهب ولا فضة وما كان إلا لوحا فيه كلمات أربع: إني أنا الله لا إله إلا أنا، ومحمد رسولي، عجبت لمن أيقن بالموت كيف يفرح قلبه، وعجبت لمن أيقن بالحساب كيف يضحك سنه، وعجبت لمن أيقن بالقدر كيف يستبطئ الله في رزقه، وعجبت لمن يرى النشأة الاولى كيف ينكر النشأة الاخرى"
+        ],
+        "text": ": حدثنا سعد بن عبد الله قال: حدثنا محمد ابن عبدالحميد العطار قال: حدثنا العلاء بن رزين، عن محمد بن مسلم الثقفي، عن أبي جعفر عليه السلام في قول الله عز وجل \"وكان تحته كنز لهما\" قال: والله ما كان من ذهب ولا فضة وما كان إلا لوحا فيه كلمات أربع: إني أنا الله لا إله إلا أنا، ومحمد رسولي، عجبت لمن أيقن بالموت كيف يفرح قلبه، وعجبت لمن أيقن بالحساب كيف يضحك سنه، وعجبت لمن أيقن بالقدر كيف يستبطئ الله في رزقه، وعجبت لمن يرى النشأة الاولى كيف ينكر النشأة الاخرى"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "4-79 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Sa’ed ibn Abdullah quoted Muhammad ibn Abdul Hamid al-At’tar, on the authority of Al-Ala’ ibn Razin, on the authority of Muhammad ibn Muslim al-Saqafy, on the authority of Abi Ja’far al-Baqir (MGB) who said the following regarding the words of the Honorable the Exalted God, ‘…there was, beneath it, a buried treasure, to which they were entitled.’ “I swear by God that the treasure referred to here was not gold or silver. Rather it was a tablet on which it was written, ‘Inni ana Allah! La ilaha illa ana! Va Muhammad Rasuli! (Indeed I am God. There are no gods but Me. Muhammad is My Prophet). I wonder how one who believes in death can be happy! I wonder how one who believes in the Reckoning and the Resurrection Day can laugh! I wonder how one who believes in destiny can doubt the fact that God would send down the daily bread! I wonder how one who has seen this world can deny the Hereafter!”"
+          ],
+          "text": "4-79 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Sa’ed ibn Abdullah quoted Muhammad ibn Abdul Hamid al-At’tar, on the authority of Al-Ala’ ibn Razin, on the authority of Muhammad ibn Muslim al-Saqafy, on the authority of Abi Ja’far al-Baqir (MGB) who said the following regarding the words of the Honorable the Exalted God, ‘…there was, beneath it, a buried treasure, to which they were entitled.’ “I swear by God that the treasure referred to here was not gold or silver. Rather it was a tablet on which it was written, ‘Inni ana Allah! La ilaha illa ana! Va Muhammad Rasuli! (Indeed I am God. There are no gods but Me. Muhammad is My Prophet). I wonder how one who believes in death can be happy! I wonder how one who believes in the Reckoning and the Resurrection Day can laugh! I wonder how one who believes in destiny can doubt the fact that God would send down the daily bread! I wonder how one who has seen this world can deny the Hereafter!”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "4-79 حدثنا أبي رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "4-79 حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي رضي الله عنه قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:5:66:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/5/66/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/5/66/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

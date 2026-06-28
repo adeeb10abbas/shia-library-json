@@ -1,0 +1,431 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:6:8:14",
+  "chapter": {
+    "path": "/books/al-kafi:6:8:14",
+    "titles": {
+      "ar": "باب لُبْسِ الْخُلْقَانِ",
+      "en": "Chapter 14 – Wearing the shabby clothes"
+    }
+  },
+  "count": 3,
+  "records": [
+    {
+      "id": "al-kafi:6:8:14:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:8:14:1",
+        "parts": [
+          6,
+          8,
+          14,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 8,
+        "chapter": 14,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:8:14",
+        "titles": {
+          "ar": "باب لُبْسِ الْخُلْقَانِ",
+          "en": "Chapter 14 – Wearing the shabby clothes"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " أَدْنَى الْإِسْرَافِ هِرَاقَةُ فَضْلِ الْإِنَاءِ وَ ابْتِذَالُ ثَوْبِ الصَّوْنِ وَ إِلْقَاءُ النَّوَى ."
+        ],
+        "text": "أَدْنَى الْإِسْرَافِ هِرَاقَةُ فَضْلِ الْإِنَاءِ وَ ابْتِذَالُ ثَوْبِ الصَّوْنِ وَ إِلْقَاءُ النَّوَى ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Al Hassan Bin Ali, from Ali Bin Iqba, from Is’haq Bin Ammar, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The lowest form of extravagance is discarding the remnants of the vessel, and the routine of wearing the protective clothing, and throwing away cores’."
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Al Hassan Bin Ali, from Ali Bin Iqba, from Is’haq Bin Ammar,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The lowest form of extravagance is discarding the remnants of the vessel, and the routine of wearing the protective clothing, and throwing away cores’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from al-Hassan ibn Ali from Ali ibn ‘Uqbah from Ishaq ibn ‘Ammar who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has made this pronouncement: ‘The least of squandering is throwing away the remaining water in a bowl, misuse of protective clothes and throwing away of nutlets.”’ "
+          ],
+          "text": "1. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from al-Hassan ibn Ali from Ali ibn ‘Uqbah from Ishaq ibn ‘Ammar who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has made this pronouncement: ‘The least of squandering is throwing away the remaining water in a bowl, misuse of protective clothes and throwing away of nutlets.”’"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> موثق    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/342)",
+          "label": "موثق",
+          "text": "Allamah Baqir al-Majlisi: موثق - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/342)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنِ الْحَسَنِ بْنِ عَلِيٍّ عَنْ عَلِيِّ بْنِ عُقْبَةَ عَنْ إِسْحَاقَ بْنِ عَمَّارٍ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحَسَنِ بْنِ عَلِيٍّ",
+            "path": "/people/narrators/63"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيِّ بْنِ عُقْبَةَ",
+            "path": "/people/narrators/132"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "إِسْحَاقَ بْنِ عَمَّارٍ",
+            "path": "/people/narrators/44"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/5",
+          "/people/narrators/63",
+          "/people/narrators/132",
+          "/people/narrators/44",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:8:14:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/8/14/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:8:14:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:8:14:2",
+        "parts": [
+          6,
+          8,
+          14,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 8,
+        "chapter": 14,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:8:14",
+        "titles": {
+          "ar": "باب لُبْسِ الْخُلْقَانِ",
+          "en": "Chapter 14 – Wearing the shabby clothes"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قُلْتُ لِأَبِي عَبْدِ اللَّهِ ( عليه السلام ) مَا أَدْنَى مَا يَجِي‏ءُ مِنَ الْإِسْرَافِ قَالَ ابْتِذَالُكَ ثَوْبَ صَوْنِكَ وَ إِهْرَاقُكَ فَضْلَ إِنَائِكَ وَ أَكْلُكَ التَّمْرَ وَ رَمْيَكَ بِالنَّوَى هَاهُنَا وَ هَاهُنَا ."
+        ],
+        "text": "قُلْتُ لِأَبِي عَبْدِ اللَّهِ ( عليه السلام ) مَا أَدْنَى مَا يَجِي‏ءُ مِنَ الْإِسْرَافِ قَالَ ابْتِذَالُكَ ثَوْبَ صَوْنِكَ وَ إِهْرَاقُكَ فَضْلَ إِنَائِكَ وَ أَكْلُكَ التَّمْرَ وَ رَمْيَكَ بِالنَّوَى هَاهُنَا وَ هَاهُنَا ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Muhammad Bin Al Husayn, from Muhammad Bin Ismail, from Salih Bin Uqba, from Suleyman Bin Salih who said, ",
+            "‘I said to Abu Abdullah<sup>asws</sup>, ‘What is the lowest of the extravagance?’ He<sup>asws</sup> said: ‘Your routinely wearing of your protective clothing, and your discarding the remnants of your utensil, and your eating the dates and your throwing with the core over here and over there’."
+          ],
+          "text": "Muhammad Bin Yahya, from Muhammad Bin Al Husayn, from Muhammad Bin Ismail, from Salih Bin Uqba, from Suleyman Bin Salih who said,\n\n‘I said to Abu Abdullah<sup>asws</sup>, ‘What is the lowest of the extravagance?’ He<sup>asws</sup> said: ‘Your routinely wearing of your protective clothing, and your discarding the remnants of your utensil, and your eating the dates and your throwing with the core over here and over there’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. Muhammad ibn Yahya Muhammad ibn al-Husayn from Muhammad ibn ’Isma‘il from Salih ibn ‘Uqbah from Sulayman ibn Salih who has said the following: “I once asked abu ‘ Abd Allah, ‘Alayhi al-Salam, about the least degree of squandering. He (the Imam) said, ‘It is misuse of protective clothes, throwing away the remaining water in your bowl and when eating dates throwing the date-stone here and there.’” "
+          ],
+          "text": "2. Muhammad ibn Yahya Muhammad ibn al-Husayn from Muhammad ibn ’Isma‘il from Salih ibn ‘Uqbah from Sulayman ibn Salih who has said the following: “I once asked abu ‘ Abd Allah, ‘Alayhi al-Salam, about the least degree of squandering. He (the Imam) said, ‘It is misuse of protective clothes, throwing away the remaining water in your bowl and when eating dates throwing the date-stone here and there.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/342)",
+          "label": "ضعيف",
+          "text": "Allamah Baqir al-Majlisi: ضعيف - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/342)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ مُحَمَّدِ بْنِ الْحُسَيْنِ عَنْ مُحَمَّدِ بْنِ إِسْمَاعِيلَ عَنْ صَالِحِ بْنِ عُقْبَةَ عَنْ سُلَيْمَانَ بْنِ صَالِحٍ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ الْحُسَيْنِ",
+            "path": "/people/narrators/29"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ إِسْمَاعِيلَ",
+            "path": "/people/narrators/17"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "صَالِحِ بْنِ عُقْبَةَ",
+            "path": "/people/narrators/156"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سُلَيْمَانَ بْنِ صَالِحٍ",
+            "path": "/people/narrators/588"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/29",
+          "/people/narrators/17",
+          "/people/narrators/156",
+          "/people/narrators/588"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/tahdhib-al-ahkam:10:25:2"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:8:14:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/8/14/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:8:14:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:8:14:3",
+        "parts": [
+          6,
+          8,
+          14,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 8,
+        "chapter": 14,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:8:14",
+        "titles": {
+          "ar": "باب لُبْسِ الْخُلْقَانِ",
+          "en": "Chapter 14 – Wearing the shabby clothes"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " دَخَلَ عَلَيْهِ بَعْضُ أَصْحَابِهِ فَرَأَى عَلَيْهِ قَمِيصاً فِيهِ قَبٌّ قَدْ رَقَعَهُ فَجَعَلَ يَنْظُرُ إِلَيْهِ فَقَالَ لَهُ أَبُو عَبْدِ اللَّهِ ( عليه السلام ) مَا لَكَ تَنْظُرُ فَقَالَ قَبٌّ مُلْقًى فِي قَمِيصِكَ قَالَ فَقَالَ لِيَ اضْرِبْ يَدَكَ إِلَى هَذَا الْكِتَابِ فَاقْرَأْ مَا فِيهِ وَ كَانَ بَيْنَ يَدَيْهِ كِتَابٌ أَوْ قَرِيبٌ مِنْهُ فَنَظَرَ الرَّجُلُ فِيهِ فَإِذَا فِيهِ لَا إِيمَانَ لِمَنْ لَا حَيَاءَ لَهُ وَ لَا مَالَ لِمَنْ لَا تَقْدِيرَ لَهُ وَ لَا جَدِيدَ لِمَنْ لَا خَلَقَ لَهُ ."
+        ],
+        "text": "دَخَلَ عَلَيْهِ بَعْضُ أَصْحَابِهِ فَرَأَى عَلَيْهِ قَمِيصاً فِيهِ قَبٌّ قَدْ رَقَعَهُ فَجَعَلَ يَنْظُرُ إِلَيْهِ فَقَالَ لَهُ أَبُو عَبْدِ اللَّهِ ( عليه السلام ) مَا لَكَ تَنْظُرُ فَقَالَ قَبٌّ مُلْقًى فِي قَمِيصِكَ قَالَ فَقَالَ لِيَ اضْرِبْ يَدَكَ إِلَى هَذَا الْكِتَابِ فَاقْرَأْ مَا فِيهِ وَ كَانَ بَيْنَ يَدَيْهِ كِتَابٌ أَوْ قَرِيبٌ مِنْهُ فَنَظَرَ الرَّجُلُ فِيهِ فَإِذَا فِيهِ لَا إِيمَانَ لِمَنْ لَا حَيَاءَ لَهُ وَ لَا مَالَ لِمَنْ لَا تَقْدِيرَ لَهُ وَ لَا جَدِيدَ لِمَنْ لَا خَلَقَ لَهُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Sahl Bin Ziyad, from Muhammad Bin Isa, from Al Hassan Bin Ali Bin Yaqteen, from Al Fazl Bin Kaseer Al Madainy, from the one who mentioned it, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup>, said, ‘One of his companions went over to him<sup>asws</sup>, so he saw upon him<sup>asws</sup> a shirt in which was a patch. So he went on staring at it, so Abu Abdullah<sup>asws</sup> said: ‘What is the matter with you, staring?’ So he said, ‘A patch attached in your<sup>asws</sup> shirt’. He<sup>asws</sup> said to me: ‘Strike you hand to this book and read what is in it’; and in front of him<sup>asws</sup> was a book, or near to him<sup>asws</sup>. So the man looked in it, and there was (written) in it: ‘There is no faith for the one who has no shame for him, nor any wealth for the one who has no esteem for him, nor anything new for the one who does not have (anything) old for him’."
+          ],
+          "text": "A number of our companions, from Sahl Bin Ziyad, from Muhammad Bin Isa, from Al Hassan Bin Ali Bin Yaqteen, from Al Fazl Bin Kaseer Al Madainy, from the one who mentioned it,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup>, said, ‘One of his companions went over to him<sup>asws</sup>, so he saw upon him<sup>asws</sup> a shirt in which was a patch. So he went on staring at it, so Abu Abdullah<sup>asws</sup> said: ‘What is the matter with you, staring?’ So he said, ‘A patch attached in your<sup>asws</sup> shirt’. He<sup>asws</sup> said to me: ‘Strike you hand to this book and read what is in it’; and in front of him<sup>asws</sup> was a book, or near to him<sup>asws</sup>. So the man looked in it, and there was (written) in it: ‘There is no faith for the one who has no shame for him, nor any wealth for the one who has no esteem for him, nor anything new for the one who does not have (anything) old for him’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "3. A number of our people have narrated from Sahl ibn Ziyad from Muhammad ibn ‘Isa from al-Hassan ibn Ali ibn Yaqtin from Fadl ibn Kathir al-Mada’iniy from those whom he has mentioned who has said the following: “Once certain person of his people came to him (the Imam) and he saw on him (the Imam) a shirt with a patch stitched on it and he kept looking at it. Abu ‘Abd Allah, ‘Alayhi al-Salam, said, ‘What is the matter; what are you looking at?’ He replied, ‘I look at the patch stitched on your shirt.’ He (the Imam) said, ‘Pick up this book and read what is in it.’ There was a book before him (the Imam) or near him (the Imam). The man looked in it and there it said, ‘There is no faith and belief in one who does not have any bashfulness, no wealth for one who has no planning and nothing new for one who does have any old item.’” "
+          ],
+          "text": "3. A number of our people have narrated from Sahl ibn Ziyad from Muhammad ibn ‘Isa from al-Hassan ibn Ali ibn Yaqtin from Fadl ibn Kathir al-Mada’iniy from those whom he has mentioned who has said the following: “Once certain person of his people came to him (the Imam) and he saw on him (the Imam) a shirt with a patch stitched on it and he kept looking at it. Abu ‘Abd Allah, ‘Alayhi al-Salam, said, ‘What is the matter; what are you looking at?’ He replied, ‘I look at the patch stitched on your shirt.’ He (the Imam) said, ‘Pick up this book and read what is in it.’ There was a book before him (the Imam) or near him (the Imam). The man looked in it and there it said, ‘There is no faith and belief in one who does not have any bashfulness, no wealth for one who has no planning and nothing new for one who does have any old item.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/342)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/342)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ سَهْلِ بْنِ زِيَادٍ عَنْ مُحَمَّدِ بْنِ عِيسَى عَنِ الْحَسَنِ بْنِ عَلِيِّ بْنِ يَقْطِينٍ عَنِ الْفَضْلِ بْنِ كَثِيرٍ الْمَدَائِنِيِّ عَمَّنْ ذَكَرَهُ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَهْلِ بْنِ زِيَادٍ",
+            "path": "/people/narrators/8"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ عِيسَى",
+            "path": "/people/narrators/27"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحَسَنِ بْنِ عَلِيِّ بْنِ يَقْطِينٍ",
+            "path": "/people/narrators/261"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "plain",
+            "text": "الْفَضْلِ بْنِ كَثِيرٍ الْمَدَائِنِيِّ عَمَّنْ ذَكَرَهُ"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/8",
+          "/people/narrators/27",
+          "/people/narrators/261",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:2:1:52:5"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:8:14:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/8/14/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

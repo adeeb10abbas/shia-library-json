@@ -1,0 +1,43 @@
+{
+  "id": 3583,
+  "type": "narrator",
+  "path": "/people/narrators/3583",
+  "titles": {
+    "ar": "عَبْدِ اللَّهِ بْنِ سِنَانٍ عَنْ  أَبِي  عَبْدِ اللَّهِ ( عليه السلام )"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:1:1:9"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3-2-7-3583": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        3583
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:1:9"
+      ]
+    },
+    "7-3583": {
+      "narrator_ids": [
+        7,
+        3583
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:1:9"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3583",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3583.json"
+  }
+}

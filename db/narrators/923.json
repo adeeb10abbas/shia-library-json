@@ -1,0 +1,155 @@
+{
+  "id": 923,
+  "type": "narrator",
+  "path": "/people/narrators/923",
+  "titles": {
+    "ar": "عَلِيٍّ الْأَحْمَسِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:188:1",
+    "/books/al-kafi:2:1:196:7",
+    "/books/al-kafi:2:1:196:9",
+    "/books/al-kafi:5:2:3:14",
+    "/books/kitab-al-zuhd:2:12:9"
+  ],
+  "verseCount": 5,
+  "relations": {},
+  "subchains": {
+    "1369-923": {
+      "narrator_ids": [
+        1369,
+        923
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:196:7"
+      ]
+    },
+    "15-923": {
+      "narrator_ids": [
+        15,
+        923
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:3:14"
+      ]
+    },
+    "3-2-7-923-60-9": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        923,
+        60,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:196:9"
+      ]
+    },
+    "3-2-7-923-9": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        923,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:188:1"
+      ]
+    },
+    "318-923": {
+      "narrator_ids": [
+        318,
+        923
+      ],
+      "verse_paths": [
+        "/books/kitab-al-zuhd:2:12:9"
+      ]
+    },
+    "318-923-55-9": {
+      "narrator_ids": [
+        318,
+        923,
+        55,
+        9
+      ],
+      "verse_paths": [
+        "/books/kitab-al-zuhd:2:12:9"
+      ]
+    },
+    "4-13-1369-923-60-9": {
+      "narrator_ids": [
+        4,
+        13,
+        1369,
+        923,
+        60,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:196:7"
+      ]
+    },
+    "4-5-15-923-60-9": {
+      "narrator_ids": [
+        4,
+        5,
+        15,
+        923,
+        60,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:3:14"
+      ]
+    },
+    "7-923": {
+      "narrator_ids": [
+        7,
+        923
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:188:1",
+        "/books/al-kafi:2:1:196:9"
+      ]
+    },
+    "923-55": {
+      "narrator_ids": [
+        923,
+        55
+      ],
+      "verse_paths": [
+        "/books/kitab-al-zuhd:2:12:9"
+      ]
+    },
+    "923-60": {
+      "narrator_ids": [
+        923,
+        60
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:196:7",
+        "/books/al-kafi:2:1:196:9",
+        "/books/al-kafi:5:2:3:14"
+      ]
+    },
+    "923-9": {
+      "narrator_ids": [
+        923,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:188:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/923",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/923.json"
+  }
+}

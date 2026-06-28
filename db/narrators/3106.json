@@ -1,0 +1,67 @@
+{
+  "id": 3106,
+  "type": "narrator",
+  "path": "/people/narrators/3106",
+  "titles": {
+    "ar": "حَمْدَانَ بْنِ النَّضْرِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:2:63:4",
+    "/books/tahdhib-al-ahkam:4:68:2"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "11-6-8-964-3106": {
+      "narrator_ids": [
+        11,
+        6,
+        8,
+        964,
+        3106
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:4:68:2"
+      ]
+    },
+    "3106-4256": {
+      "narrator_ids": [
+        3106,
+        4256
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:63:4"
+      ]
+    },
+    "6-8-964-3106-4256": {
+      "narrator_ids": [
+        6,
+        8,
+        964,
+        3106,
+        4256
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:63:4"
+      ]
+    },
+    "964-3106": {
+      "narrator_ids": [
+        964,
+        3106
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:63:4",
+        "/books/tahdhib-al-ahkam:4:68:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3106",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3106.json"
+  }
+}

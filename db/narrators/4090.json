@@ -1,0 +1,53 @@
+{
+  "id": 4090,
+  "type": "narrator",
+  "path": "/people/narrators/4090",
+  "titles": {
+    "ar": "مُبَارَكٍ الْعَقَرْقُوفِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:5:1:6",
+    "/books/man-la-yahduruhu-al-faqih:2:1:19:3"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "106-4090": {
+      "narrator_ids": [
+        106,
+        4090
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:5:1:6"
+      ]
+    },
+    "3-2-106-4090": {
+      "narrator_ids": [
+        3,
+        2,
+        106,
+        4090
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:5:1:6"
+      ]
+    },
+    "4090-843": {
+      "narrator_ids": [
+        4090,
+        843
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:2:1:19:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4090",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4090.json"
+  }
+}

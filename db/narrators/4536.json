@@ -1,0 +1,44 @@
+{
+  "id": 4536,
+  "type": "narrator",
+  "path": "/people/narrators/4536",
+  "titles": {
+    "ar": "يَحْيَى الْحَذَّاءِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:159:54"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3270-4536": {
+      "narrator_ids": [
+        3270,
+        4536
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:159:54"
+      ]
+    },
+    "6-8-101-3270-4536": {
+      "narrator_ids": [
+        6,
+        8,
+        101,
+        3270,
+        4536
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:159:54"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4536",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4536.json"
+  }
+}

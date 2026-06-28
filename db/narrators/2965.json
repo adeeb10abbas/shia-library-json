@@ -1,0 +1,45 @@
+{
+  "id": 2965,
+  "type": "narrator",
+  "path": "/people/narrators/2965",
+  "titles": {
+    "ar": "جَابِرٍ الْعَبْدِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:106:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "395-2965": {
+      "narrator_ids": [
+        395,
+        2965
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:106:1"
+      ]
+    },
+    "4-13-10-23-395-2965": {
+      "narrator_ids": [
+        4,
+        13,
+        10,
+        23,
+        395,
+        2965
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:106:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2965",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2965.json"
+  }
+}

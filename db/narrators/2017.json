@@ -1,0 +1,67 @@
+{
+  "id": 2017,
+  "type": "narrator",
+  "path": "/people/narrators/2017",
+  "titles": {
+    "ar": "أَبِي النُّعْمَانِ الْعِجْلِيِّ"
+  },
+  "versePaths": [
+    "/books/al-amali-mufid:23:5:1",
+    "/books/al-kafi:2:1:203:3"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "2017-9": {
+      "narrator_ids": [
+        2017,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:203:3"
+      ]
+    },
+    "4-13-88-44-2017-9": {
+      "narrator_ids": [
+        4,
+        13,
+        88,
+        44,
+        2017,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:203:3"
+      ]
+    },
+    "44-2017": {
+      "narrator_ids": [
+        44,
+        2017
+      ],
+      "verse_paths": [
+        "/books/al-amali-mufid:23:5:1",
+        "/books/al-kafi:2:1:203:3"
+      ]
+    },
+    "81-138-44-2017": {
+      "narrator_ids": [
+        81,
+        138,
+        44,
+        2017
+      ],
+      "verse_paths": [
+        "/books/al-amali-mufid:23:5:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2017",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2017.json"
+  }
+}

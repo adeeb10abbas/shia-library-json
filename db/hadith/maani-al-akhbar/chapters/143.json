@@ -1,0 +1,130 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "maani-al-akhbar",
+  "chapterPath": "/books/maani-al-akhbar:143",
+  "chapter": {
+    "path": "/books/maani-al-akhbar:143",
+    "titles": {
+      "en": "The meaning of the one whose family and property are perished"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "maani-al-akhbar:143:1",
+      "type": "hadith",
+      "book": {
+        "slug": "maani-al-akhbar",
+        "titles": {
+          "ar": "معاني الأخبار",
+          "en": "Ma'ani al-Akhbar"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/maani-al-akhbar:143:1",
+        "parts": [
+          143,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 143,
+        "book": 1
+      },
+      "chapter": {
+        "path": "/books/maani-al-akhbar:143",
+        "titles": {
+          "en": "The meaning of the one whose family and property are perished"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": قال أبو جعفر عليه السلام: ما خدعوك عن شئ فلا يخدعوك في العصر، صلها والشمس بيضاء نقية. فإن رسول الله صلى الله عليه وآله قال: الموتور أهله وماله من ضيع صلاة العصر. قلت: وما الموتور أهله وماله؟ قال: لا يكون له أهل ولا مال في الجنة. قلت: وما تضييعها؟ قال: يدعها والله حتى تصفار أو تغيب."
+        ],
+        "text": ": قال أبو جعفر عليه السلام: ما خدعوك عن شئ فلا يخدعوك في العصر، صلها والشمس بيضاء نقية. فإن رسول الله صلى الله عليه وآله قال: الموتور أهله وماله من ضيع صلاة العصر. قلت: وما الموتور أهله وماله؟ قال: لا يكون له أهل ولا مال في الجنة. قلت: وما تضييعها؟ قال: يدعها والله حتى تصفار أو تغيب."
+      },
+      "translations": {
+        "en.basel-kadem": {
+          "segments": [
+            "1.\tWe were told by Muhammed bin Ali Majilawayh, from his paternal uncle, Muhammed bin Abi’l-Qasem, from Muhammed bin Ali al-Kufi, from Ali bin Nu’man, from Ibn Maskan, from Abu Baseer, that he said: Abu Ja’far, peace be upon him, said: Regardless how much they deceive you in anything, let them not deceive you with regards to the afternoon (prayer); pray it while the sun is white and pure, for indeed, the Messenger of Allah, Allah’s blessings be upon him and his Family, said: The one whose family and property are perished is the one who wastes the afternoon prayer. I said: And what is the one whose family and property are perished? He said: He will neither have family nor property in Paradise. I said: And what is it to waste it? He said: That he leaves it, by Allah, until it yellows or disappears."
+          ],
+          "text": "1.\tWe were told by Muhammed bin Ali Majilawayh, from his paternal uncle, Muhammed bin Abi’l-Qasem, from Muhammed bin Ali al-Kufi, from Ali bin Nu’man, from Ibn Maskan, from Abu Baseer, that he said: Abu Ja’far, peace be upon him, said: Regardless how much they deceive you in anything, let them not deceive you with regards to the afternoon (prayer); pray it while the sun is white and pure, for indeed, the Messenger of Allah, Allah’s blessings be upon him and his Family, said: The one whose family and property are perished is the one who wastes the afternoon prayer. I said: And what is the one whose family and property are perished? He said: He will neither have family nor property in Paradise. I said: And what is it to waste it? He said: That he leaves it, by Allah, until it yellows or disappears."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "حدثنا محمد بن علي ماجيلويه، عن عمه محمد بن أبي القاسم، عن محمد بن علي الكوفي عن علي بن النعمان، عن ابن مسكان، عن أبي بصير، قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "حدثنا "
+          },
+          {
+            "kind": "plain",
+            "text": "محمد بن علي ماجيلويه،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "عمه محمد بن أبي القاسم،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "محمد بن علي الكوفي"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "علي بن النعمان،",
+            "path": "/people/narrators/88"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابن مسكان،",
+            "path": "/people/narrators/51"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي بصير، قال",
+            "path": "/people/narrators/14"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/88",
+          "/people/narrators/51",
+          "/people/narrators/14"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/maani-al-akhbar:143:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/maani-al-akhbar/143/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/28/1/143/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

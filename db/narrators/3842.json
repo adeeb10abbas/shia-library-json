@@ -1,0 +1,64 @@
+{
+  "id": 3842,
+  "type": "narrator",
+  "path": "/people/narrators/3842",
+  "titles": {
+    "ar": "عَمَّارِ بْنِ يَاسِرٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:46:42",
+    "/books/kitab-al-ghayba-tusi:51:10"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "1211-3842": {
+      "narrator_ids": [
+        1211,
+        3842
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:51:10"
+      ]
+    },
+    "2216-3842": {
+      "narrator_ids": [
+        2216,
+        3842
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:46:42"
+      ]
+    },
+    "33-1211-3842": {
+      "narrator_ids": [
+        33,
+        1211,
+        3842
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:51:10"
+      ]
+    },
+    "4-13-3778-2216-3842": {
+      "narrator_ids": [
+        4,
+        13,
+        3778,
+        2216,
+        3842
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:46:42"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3842",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3842.json"
+  }
+}

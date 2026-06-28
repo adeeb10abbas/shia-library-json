@@ -1,0 +1,57 @@
+{
+  "id": 2740,
+  "type": "narrator",
+  "path": "/people/narrators/2740",
+  "titles": {
+    "ar": "الْفَضْلِ ابْنَيْ يَزِيدَ الْأَشْعَرِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:146:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2740-164": {
+      "narrator_ids": [
+        2740,
+        164
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:146:1"
+      ]
+    },
+    "391-2740": {
+      "narrator_ids": [
+        391,
+        2740
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:146:1"
+      ]
+    },
+    "4-13-42-391-2740-164-18-9-669": {
+      "narrator_ids": [
+        4,
+        13,
+        42,
+        391,
+        2740,
+        164,
+        18,
+        9,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:146:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2740",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2740.json"
+  }
+}

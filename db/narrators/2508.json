@@ -1,0 +1,54 @@
+{
+  "id": 2508,
+  "type": "narrator",
+  "path": "/people/narrators/2508",
+  "titles": {
+    "ar": "الْحَائِضِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:2:9:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2508-2704": {
+      "narrator_ids": [
+        2508,
+        2704
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:2:9:1"
+      ]
+    },
+    "3-27-26-3980-2508-2704": {
+      "narrator_ids": [
+        3,
+        27,
+        26,
+        3980,
+        2508,
+        2704
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:2:9:1"
+      ]
+    },
+    "3980-2508": {
+      "narrator_ids": [
+        3980,
+        2508
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:2:9:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2508",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2508.json"
+  }
+}

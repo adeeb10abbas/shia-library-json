@@ -1,0 +1,55 @@
+{
+  "id": 2090,
+  "type": "narrator",
+  "path": "/people/narrators/2090",
+  "titles": {
+    "ar": "أَبِي رَزِينٍ الْأَسَدِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:44:31"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "163-2090": {
+      "narrator_ids": [
+        163,
+        2090
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:44:31"
+      ]
+    },
+    "2090-394": {
+      "narrator_ids": [
+        2090,
+        394
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:44:31"
+      ]
+    },
+    "3-2-39-52-163-2090-394": {
+      "narrator_ids": [
+        3,
+        2,
+        39,
+        52,
+        163,
+        2090,
+        394
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:44:31"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2090",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2090.json"
+  }
+}

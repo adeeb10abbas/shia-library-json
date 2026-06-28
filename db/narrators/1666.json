@@ -1,0 +1,78 @@
+{
+  "id": 1666,
+  "type": "narrator",
+  "path": "/people/narrators/1666",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ عَبْدِ الْجَبَّارِ أَوْ غَيْرِهِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:3:152:7",
+    "/books/al-kafi:6:2:73:28"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "1666-22": {
+      "narrator_ids": [
+        1666,
+        22
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:152:7"
+      ]
+    },
+    "1666-63": {
+      "narrator_ids": [
+        1666,
+        63
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:73:28"
+      ]
+    },
+    "19-1666": {
+      "narrator_ids": [
+        19,
+        1666
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:152:7",
+        "/books/al-kafi:6:2:73:28"
+      ]
+    },
+    "19-1666-22-450-901": {
+      "narrator_ids": [
+        19,
+        1666,
+        22,
+        450,
+        901
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:152:7"
+      ]
+    },
+    "19-1666-63-132-607-36-669": {
+      "narrator_ids": [
+        19,
+        1666,
+        63,
+        132,
+        607,
+        36,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:73:28"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1666",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1666.json"
+  }
+}

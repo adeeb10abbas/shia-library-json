@@ -1,0 +1,69 @@
+{
+  "id": 3288,
+  "type": "narrator",
+  "path": "/people/narrators/3288",
+  "titles": {
+    "ar": "زِيَادِ بْنِ يَحْيَى الْحَنْظَلِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:139:4",
+    "/books/tahdhib-al-ahkam:5:9:110"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "313-3288": {
+      "narrator_ids": [
+        313,
+        3288
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:139:4",
+        "/books/tahdhib-al-ahkam:5:9:110"
+      ]
+    },
+    "3288-669": {
+      "narrator_ids": [
+        3288,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:139:4",
+        "/books/tahdhib-al-ahkam:5:9:110"
+      ]
+    },
+    "8-5-313-3288-669": {
+      "narrator_ids": [
+        8,
+        5,
+        313,
+        3288,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:139:4"
+      ]
+    },
+    "952-8-5-313-3288-669": {
+      "narrator_ids": [
+        952,
+        8,
+        5,
+        313,
+        3288,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:9:110"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3288",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3288.json"
+  }
+}

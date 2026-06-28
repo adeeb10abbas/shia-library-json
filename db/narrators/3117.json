@@ -1,0 +1,54 @@
+{
+  "id": 3117,
+  "type": "narrator",
+  "path": "/people/narrators/3117",
+  "titles": {
+    "ar": "حَيْدَرٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:2:13:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2570-3117": {
+      "narrator_ids": [
+        2570,
+        3117
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:2:13:2"
+      ]
+    },
+    "3117-294": {
+      "narrator_ids": [
+        3117,
+        294
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:2:13:2"
+      ]
+    },
+    "5-237-68-2570-3117-294": {
+      "narrator_ids": [
+        5,
+        237,
+        68,
+        2570,
+        3117,
+        294
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:2:13:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3117",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3117.json"
+  }
+}

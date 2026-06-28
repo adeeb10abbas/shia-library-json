@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:5:98",
+  "chapter": {
+    "path": "/books/al-khisal:5:98",
+    "titles": {
+      "en": "Four who Cannot Shorten Their Prayers"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:5:98:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:5:98:1",
+        "parts": [
+          5,
+          98,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 5,
+        "book": 98,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:5:98",
+        "titles": {
+          "en": "Four who Cannot Shorten Their Prayers"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا علي بن موسى بن جعفر بن أبي جعفر الكميداني، عن أحمد بن محمد بن عيسى، عن أبيه، عن حماد بن عيسى، عن حريز، عن زرارة، عن أبي جعفر عليه السلام قال: أربعة يجب عليهم التمام في سفر كانوا أو في حضر: المكاري، والكري، والاشتقان، والراعي لانه عملهمقال مصنف هذا الكتاب: الاشتقان: البريد"
+        ],
+        "text": ": حدثنا علي بن موسى بن جعفر بن أبي جعفر الكميداني، عن أحمد بن محمد بن عيسى، عن أبيه، عن حماد بن عيسى، عن حريز، عن زرارة، عن أبي جعفر عليه السلام قال: أربعة يجب عليهم التمام في سفر كانوا أو في حضر: المكاري، والكري، والاشتقان، والراعي لانه عملهمقال مصنف هذا الكتاب: الاشتقان: البريد"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "4-122 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Ali ibn Musa ibn Ja’far ibn Abi Ja’far al-Kumaydany quoted Ahmad ibn Muhammad ibn Isa, on the authority of his father, on the authority of Hammad ibn Isa, on the authority of Hurayz, on the authority of Zurarah that Abi Ja’far al-Baqir (MGB) said, “The following four people cannot shorten their prayers whether they are at home or on a journey: quadruped keepers who rents them; those who drive the rented quadrupeds; the (long-distance) couriers; and the desert shepherds.”The compiler of the book said, “Courier refers to a postman.”"
+          ],
+          "text": "4-122 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Ali ibn Musa ibn Ja’far ibn Abi Ja’far al-Kumaydany quoted Ahmad ibn Muhammad ibn Isa, on the authority of his father, on the authority of Hammad ibn Isa, on the authority of Hurayz, on the authority of Zurarah that Abi Ja’far al-Baqir (MGB) said, “The following four people cannot shorten their prayers whether they are at home or on a journey: quadruped keepers who rents them; those who drive the rented quadrupeds; the (long-distance) couriers; and the desert shepherds.”The compiler of the book said, “Courier refers to a postman.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "4-12 2 حدثنا أبي رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "4-12 2 حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي رضي الله عنه قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:5:98:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/5/98/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/5/98/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:2:62",
+  "chapter": {
+    "path": "/books/al-khisal:2:62",
+    "titles": {
+      "en": "Be Patient with the Enemies of the Blessings"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:2:62:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:2:62:1",
+        "parts": [
+          2,
+          62,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 62,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:2:62",
+        "titles": {
+          "en": "Be Patient with the Enemies of the Blessings"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا سعد بن عبد الله قال: حدثني يعقوب ابن يزيد، عن محمد بن أبي عمير، عن معاوية بن وهب، عن معاذ بن مسلم، عن أبي عبد الله عليه السلام قال: اصبر على أعداء النعم، فإنك لن تكافي من عصى الله فيك بأفضل من أن تطيع الله فيه"
+        ],
+        "text": ": حدثنا سعد بن عبد الله قال: حدثني يعقوب ابن يزيد، عن محمد بن أبي عمير، عن معاوية بن وهب، عن معاذ بن مسلم، عن أبي عبد الله عليه السلام قال: اصبر على أعداء النعم، فإنك لن تكافي من عصى الله فيك بأفضل من أن تطيع الله فيه"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "1-71 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Sa’ed ibn Abdullah quoted on the authority of Yaqoob ibn Yazid, on the authority of Muhammad ibn Abi Umayr, on the authority of Muawiyah ibn Wahab, on the authority of Mu’az ibn Muslim that Aba Abdullah as-Sadiq (MGB) said, “Be patient with the enemies of the blessings . You cannot treat those who disobey God regarding yourself any better than by obeying God regarding them.”"
+          ],
+          "text": "1-71 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Sa’ed ibn Abdullah quoted on the authority of Yaqoob ibn Yazid, on the authority of Muhammad ibn Abi Umayr, on the authority of Muawiyah ibn Wahab, on the authority of Mu’az ibn Muslim that Aba Abdullah as-Sadiq (MGB) said, “Be patient with the enemies of the blessings . You cannot treat those who disobey God regarding yourself any better than by obeying God regarding them.”"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "1-71 حدثنا أبي رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "1-71 حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي رضي الله عنه قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:2:62:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/2/62/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/2/62/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

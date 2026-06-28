@@ -1,0 +1,42 @@
+{
+  "id": 3797,
+  "type": "narrator",
+  "path": "/people/narrators/3797",
+  "titles": {
+    "ar": "عَلِيِّ بْنِ عَمْرٍو الْعَطَّارِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:75:7"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2202-3797": {
+      "narrator_ids": [
+        2202,
+        3797
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:75:7"
+      ]
+    },
+    "35-2202-3797": {
+      "narrator_ids": [
+        35,
+        2202,
+        3797
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:75:7"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3797",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3797.json"
+  }
+}

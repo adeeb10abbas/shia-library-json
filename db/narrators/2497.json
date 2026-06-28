@@ -1,0 +1,54 @@
+{
+  "id": 2497,
+  "type": "narrator",
+  "path": "/people/narrators/2497",
+  "titles": {
+    "ar": "الْحَارِثِ بْنِ الْمُغِيرَةِ أَوْ أَبِيهِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:33:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "165-2497": {
+      "narrator_ids": [
+        165,
+        2497
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:33:1"
+      ]
+    },
+    "2497-669": {
+      "narrator_ids": [
+        2497,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:33:1"
+      ]
+    },
+    "6-5-138-165-2497-669": {
+      "narrator_ids": [
+        6,
+        5,
+        138,
+        165,
+        2497,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:33:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2497",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2497.json"
+  }
+}

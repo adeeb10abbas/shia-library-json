@@ -1,0 +1,92 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "kitab-al-duafa",
+  "chapterPath": "/books/kitab-al-duafa:20:6",
+  "chapter": {
+    "path": "/books/kitab-al-duafa:20:6",
+    "titles": {
+      "en": "Munakhkhal b. Jamīl"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "kitab-al-duafa:20:6:1",
+      "type": "hadith",
+      "book": {
+        "slug": "kitab-al-duafa",
+        "titles": {
+          "ar": "كتاب الضعفاء",
+          "en": "Kitab al-Du'afa'"
+        },
+        "author": {
+          "en": "Ahmad ibn al-Husayn al-Ghada'iri"
+        }
+      },
+      "path": {
+        "source": "/books/kitab-al-duafa:20:6:1",
+        "parts": [
+          20,
+          6,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 20,
+        "book": 6,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/kitab-al-duafa:20:6",
+        "titles": {
+          "en": "Munakhkhal b. Jamīl"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " مذهبه غلو."
+        ],
+        "text": "مذهبه غلو."
+      },
+      "translations": {
+        "en.tashayyu": {
+          "segments": [
+            "6 – Munakhkhal b. Jamīl, the seller of slave girls.  He narrated from Abū ʿAbdillāh  عليه السلام and Abū al-Ḥasan  عليه السلام .  Kufan, weak, in his madhhab there is ghulw."
+          ],
+          "text": "6 – Munakhkhal b. Jamīl, the seller of slave girls.  He narrated from Abū ʿAbdillāh  عليه السلام and Abū al-Ḥasan  عليه السلام .  Kufan, weak, in his madhhab there is ghulw."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "6 - منخل بن جميل، بياع الجواري. روى عن أبي عبد الله، وأبي الحسن (عليهما السلام). كوفي، ضعيف، في",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "6 - "
+          },
+          {
+            "kind": "plain",
+            "text": "منخل بن جميل، بياع الجواري. روى"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "أبي عبد الله، وأبي الحسن (عليهما السلام). كوفي، ضعيف، في"
+          }
+        ],
+        "narratorPaths": []
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/kitab-al-duafa:20:6:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/kitab-al-duafa/20/6/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/17/20/6/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

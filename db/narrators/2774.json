@@ -1,0 +1,44 @@
+{
+  "id": 2774,
+  "type": "narrator",
+  "path": "/people/narrators/2774",
+  "titles": {
+    "ar": "الْقَاسِمِ بْنِ عَبْدِ الرَّحْمَنِ الْأَنْصَارِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:5:1:11"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-5-53-70-2774": {
+      "narrator_ids": [
+        11,
+        5,
+        53,
+        70,
+        2774
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:5:1:11"
+      ]
+    },
+    "70-2774": {
+      "narrator_ids": [
+        70,
+        2774
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:5:1:11"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2774",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2774.json"
+  }
+}

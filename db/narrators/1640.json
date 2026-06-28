@@ -1,0 +1,42 @@
+{
+  "id": 1640,
+  "type": "narrator",
+  "path": "/people/narrators/1640",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ أَحْمَدَ بْنِ مُطَهَّرٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:3:190:31"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "256-1640": {
+      "narrator_ids": [
+        256,
+        1640
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:190:31"
+      ]
+    },
+    "4-256-1640": {
+      "narrator_ids": [
+        4,
+        256,
+        1640
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:190:31"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1640",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1640.json"
+  }
+}

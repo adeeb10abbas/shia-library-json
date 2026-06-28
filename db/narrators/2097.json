@@ -1,0 +1,51 @@
+{
+  "id": 2097,
+  "type": "narrator",
+  "path": "/people/narrators/2097",
+  "titles": {
+    "ar": "أَبِي سَارَةَ الْغَزَّالِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:37:7"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "174-2097": {
+      "narrator_ids": [
+        174,
+        2097
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:37:7"
+      ]
+    },
+    "174-2097-9": {
+      "narrator_ids": [
+        174,
+        2097,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:37:7"
+      ]
+    },
+    "2097-9": {
+      "narrator_ids": [
+        2097,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:37:7"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2097",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2097.json"
+  }
+}

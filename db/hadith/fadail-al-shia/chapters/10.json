@@ -1,0 +1,100 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "fadail-al-shia",
+  "chapterPath": "/books/fadail-al-shia:10",
+  "chapter": {
+    "path": "/books/fadail-al-shia:10",
+    "titles": {
+      "en": "Right guidance as acknowledgment of successive Imams"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "fadail-al-shia:10:1",
+      "type": "hadith",
+      "book": {
+        "slug": "fadail-al-shia",
+        "titles": {
+          "ar": "فضائل الشيعة",
+          "en": "Fada'il al-Shi'a"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/fadail-al-shia:10:1",
+        "parts": [
+          10,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 10,
+        "book": 1
+      },
+      "chapter": {
+        "path": "/books/fadail-al-shia:10",
+        "titles": {
+          "en": "Right guidance as acknowledgment of successive Imams"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": دخلت على أبي عبد الله عليه السلام فقلت له: جعلت فداك، قوله تعالى: (وَإِنّي لَغَفَّارٌ لِمَنْ تَابَ وَآمَنَ وَعَمِلَ صَالِحاً ثُمَّ اهْتَدَى،) فما هذا الهدى بعد التوبة والايمان والعمل الصالح؟ قال: فقال: معرفة الأئمّة ـ والله ـ إمام بعد إمام."
+        ],
+        "text": ": دخلت على أبي عبد الله عليه السلام فقلت له: جعلت فداك، قوله تعالى: (وَإِنّي لَغَفَّارٌ لِمَنْ تَابَ وَآمَنَ وَعَمِلَ صَالِحاً ثُمَّ اهْتَدَى،) فما هذا الهدى بعد التوبة والايمان والعمل الصالح؟ قال: فقال: معرفة الأئمّة ـ والله ـ إمام بعد إمام."
+      },
+      "translations": {
+        "en.badr-shahin": {
+          "segments": [
+            "(The same previous series of relaters)… from Sulaiman that Dawoud bin Kuthair ar-Raqqi said: When I was before Abu Abdullah (a), I said to him: Allah may make me your sacrifice. Regarding the Holy saying of Allah, \"I am All-forgiving to him who repented, believed, and did righteous acts then followed the right guidance, <a href=\"/books/quran:20#h82\">[20:82]</a>\" what is that right guidance, which comes after repentance, faith, and the righteous acts? He (a) said: (This right guidance is) the acknowledgement of the Imams-one after the other."
+          ],
+          "text": "(The same previous series of relaters)… from Sulaiman that Dawoud bin Kuthair ar-Raqqi said: When I was before Abu Abdullah (a), I said to him: Allah may make me your sacrifice. Regarding the Holy saying of Allah, \"I am All-forgiving to him who repented, believed, and did righteous acts then followed the right guidance, <a href=\"/books/quran:20#h82\">[20:82]</a>\" what is that right guidance, which comes after repentance, faith, and the righteous acts? He (a) said: (This right guidance is) the acknowledgement of the Imams-one after the other."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "وبهذا الاسناد عن سليمان، عن داود بن كثير الرقّي قال",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "وبهذا الاسناد",
+            "path": "/people/narrators/4521"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "سليمان،",
+            "path": "/people/narrators/1112"
+          },
+          {
+            "kind": "plain",
+            "text": " عن داود بن كثير الرقّي قال"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4521",
+          "/people/narrators/1112"
+        ]
+      },
+      "relations": {
+        "Mentions": [
+          "/books/quran:20:82"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/fadail-al-shia:10:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/fadail-al-shia/10/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/25/1/22/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

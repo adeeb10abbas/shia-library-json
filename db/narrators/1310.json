@@ -1,0 +1,66 @@
+{
+  "id": 1310,
+  "type": "narrator",
+  "path": "/people/narrators/1310",
+  "titles": {
+    "ar": "أَخِيهِ إِسْحَاقَ بْنِ إِبْرَاهِيمَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:1:18:6",
+    "/books/al-kafi:3:4:66:14"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "1310-130": {
+      "narrator_ids": [
+        1310,
+        130
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:1:18:6",
+        "/books/al-kafi:3:4:66:14"
+      ]
+    },
+    "3-1310": {
+      "narrator_ids": [
+        3,
+        1310
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:1:18:6",
+        "/books/al-kafi:3:4:66:14"
+      ]
+    },
+    "3-1310-130-184": {
+      "narrator_ids": [
+        3,
+        1310,
+        130,
+        184
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:66:14"
+      ]
+    },
+    "3-1310-130-98": {
+      "narrator_ids": [
+        3,
+        1310,
+        130,
+        98
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:1:18:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1310",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1310.json"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 3529,
+  "type": "narrator",
+  "path": "/people/narrators/3529",
+  "titles": {
+    "ar": "عَبْدِ الْعَزِيزِ بْنِ مُسْلِمٍ",
+    "en": "'Abd al-'Aziz ibn Muslim"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:15:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1932-3529": {
+      "narrator_ids": [
+        1932,
+        3529
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:15:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3529",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3529.json"
+  }
+}

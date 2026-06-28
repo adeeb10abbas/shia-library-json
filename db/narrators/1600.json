@@ -1,0 +1,62 @@
+{
+  "id": 1600,
+  "type": "narrator",
+  "path": "/people/narrators/1600",
+  "titles": {
+    "ar": "عَنْ عَبْدِ اللَّهِ بْنِ عَبْدِ الرَّحْمَنِ الْأَصَمِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:3:85:10",
+    "/books/al-kafi:5:1:15:5"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "1600-40": {
+      "narrator_ids": [
+        1600,
+        40
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:85:10",
+        "/books/al-kafi:5:1:15:5"
+      ]
+    },
+    "310-298-2-42-315-669-1600-40-16-669": {
+      "narrator_ids": [
+        310,
+        298,
+        2,
+        42,
+        315,
+        669,
+        1600,
+        40,
+        16,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:85:10",
+        "/books/al-kafi:5:1:15:5"
+      ]
+    },
+    "669-1600": {
+      "narrator_ids": [
+        669,
+        1600
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:85:10",
+        "/books/al-kafi:5:1:15:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1600",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1600.json"
+  }
+}

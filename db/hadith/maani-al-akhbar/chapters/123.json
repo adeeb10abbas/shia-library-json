@@ -1,0 +1,87 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "maani-al-akhbar",
+  "chapterPath": "/books/maani-al-akhbar:123",
+  "chapter": {
+    "path": "/books/maani-al-akhbar:123",
+    "titles": {
+      "en": "The meaning of domestication"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "maani-al-akhbar:123:1",
+      "type": "hadith",
+      "book": {
+        "slug": "maani-al-akhbar",
+        "titles": {
+          "ar": "معاني الأخبار",
+          "en": "Ma'ani al-Akhbar"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/maani-al-akhbar:123:1",
+        "parts": [
+          123,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 123,
+        "book": 1
+      },
+      "chapter": {
+        "path": "/books/maani-al-akhbar:123",
+        "titles": {
+          "en": "The meaning of domestication"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا محمد بن الحسن الصفار، عن أحمد بن محمد، عن علي بن الحكم، ومحسن بن أحمد، عن أبان بن الأحمر، عن عبد الرحمن بن أبي عبد الله قال: سألت أبا عبد الله عليه السلام عن قوله الله عز وجل: \" لا تدخلوا بيوتا غير بيوتكم حتى تستأنسوا وتسلموا على أهلها   \" قال: الاستيناس وقع النعل والتسليم."
+        ],
+        "text": ": حدثنا محمد بن الحسن الصفار، عن أحمد بن محمد، عن علي بن الحكم، ومحسن بن أحمد، عن أبان بن الأحمر، عن عبد الرحمن بن أبي عبد الله قال: سألت أبا عبد الله عليه السلام عن قوله الله عز وجل: \" لا تدخلوا بيوتا غير بيوتكم حتى تستأنسوا وتسلموا على أهلها   \" قال: الاستيناس وقع النعل والتسليم."
+      },
+      "translations": {
+        "en.basel-kadem": {
+          "segments": [
+            "1.\tWe were told by Muhammed bin Hasan bin Ahmad bin Waleed, may Allah grant him mercy, that he said: We were told by Muhammed bin Hasan al-Saffar, from Ahmad bin Muhammed, from Ali bin Hakam, and Mohsin bin Ahmad, from Aban bin Ahmar, from Abdul-Rahman bin Abi Abdillah, that he said: I asked Abu Abdillah, peace be upon him, about the saying of Allah, Exalted and Glorious is He: «do not enter houses other than your houses until you domesticate (yourselves) and send peace upon their people.» <a href=\"/books/quran:24#h27\">[24:27]</a> He said: Domestication is to place the sandals and send peace."
+          ],
+          "text": "1.\tWe were told by Muhammed bin Hasan bin Ahmad bin Waleed, may Allah grant him mercy, that he said: We were told by Muhammed bin Hasan al-Saffar, from Ahmad bin Muhammed, from Ali bin Hakam, and Mohsin bin Ahmad, from Aban bin Ahmar, from Abdul-Rahman bin Abi Abdillah, that he said: I asked Abu Abdillah, peace be upon him, about the saying of Allah, Exalted and Glorious is He: «do not enter houses other than your houses until you domesticate (yourselves) and send peace upon their people.» <a href=\"/books/quran:24#h27\">[24:27]</a> He said: Domestication is to place the sandals and send peace."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "حدثنا محمد بن الحسن بن أحمد بن الوليد - رحمه الله - قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "حدثنا "
+          },
+          {
+            "kind": "plain",
+            "text": "محمد بن الحسن بن أحمد بن الوليد - رحمه الله - قال"
+          }
+        ],
+        "narratorPaths": []
+      },
+      "relations": {
+        "Mentions": [
+          "/books/quran:24:27"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/maani-al-akhbar:123:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/maani-al-akhbar/123/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/28/1/123/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

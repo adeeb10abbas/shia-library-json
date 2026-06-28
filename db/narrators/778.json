@@ -1,0 +1,216 @@
+{
+  "id": 778,
+  "type": "narrator",
+  "path": "/people/narrators/778",
+  "titles": {
+    "ar": "سَالِمٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:24:1",
+    "/books/al-kafi:3:3:89:1",
+    "/books/al-kafi:3:4:101:2",
+    "/books/al-kafi:3:5:2:14",
+    "/books/al-kafi:6:4:1:4",
+    "/books/man-la-yahduruhu-al-faqih:2:2:5:11",
+    "/books/tahdhib-al-ahkam:3:26:6"
+  ],
+  "verseCount": 7,
+  "relations": {},
+  "subchains": {
+    "20-25-227-38-917-778": {
+      "narrator_ids": [
+        20,
+        25,
+        227,
+        38,
+        917,
+        778
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:24:1"
+      ]
+    },
+    "273-778": {
+      "narrator_ids": [
+        273,
+        778
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:101:2"
+      ]
+    },
+    "290-778": {
+      "narrator_ids": [
+        290,
+        778
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:89:1"
+      ]
+    },
+    "4-29-290-778-669": {
+      "narrator_ids": [
+        4,
+        29,
+        290,
+        778,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:89:1"
+      ]
+    },
+    "4-528-273-778-9": {
+      "narrator_ids": [
+        4,
+        528,
+        273,
+        778,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:101:2"
+      ]
+    },
+    "4-528-778-9": {
+      "narrator_ids": [
+        4,
+        528,
+        778,
+        9
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:3:26:6"
+      ]
+    },
+    "528-778": {
+      "narrator_ids": [
+        528,
+        778
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:3:26:6"
+      ]
+    },
+    "583-778": {
+      "narrator_ids": [
+        583,
+        778
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:5:2:14"
+      ]
+    },
+    "583-778-14-669": {
+      "narrator_ids": [
+        583,
+        778,
+        14,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:5:2:14"
+      ]
+    },
+    "6-8-778-3-2-4-5-10-93-242": {
+      "narrator_ids": [
+        6,
+        8,
+        778,
+        3,
+        2,
+        4,
+        5,
+        10,
+        93,
+        242
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:4:1:4"
+      ]
+    },
+    "76-778": {
+      "narrator_ids": [
+        76,
+        778
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:2:2:5:11"
+      ]
+    },
+    "76-778-669": {
+      "narrator_ids": [
+        76,
+        778,
+        669
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:2:2:5:11"
+      ]
+    },
+    "778-14": {
+      "narrator_ids": [
+        778,
+        14
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:5:2:14"
+      ]
+    },
+    "778-3": {
+      "narrator_ids": [
+        778,
+        3
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:4:1:4"
+      ]
+    },
+    "778-669": {
+      "narrator_ids": [
+        778,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:89:1",
+        "/books/man-la-yahduruhu-al-faqih:2:2:5:11"
+      ]
+    },
+    "778-9": {
+      "narrator_ids": [
+        778,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:101:2",
+        "/books/tahdhib-al-ahkam:3:26:6"
+      ]
+    },
+    "8-778": {
+      "narrator_ids": [
+        8,
+        778
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:4:1:4"
+      ]
+    },
+    "917-778": {
+      "narrator_ids": [
+        917,
+        778
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:24:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/778",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/778.json"
+  }
+}

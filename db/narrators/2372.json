@@ -1,0 +1,79 @@
+{
+  "id": 2372,
+  "type": "narrator",
+  "path": "/people/narrators/2372",
+  "titles": {
+    "ar": "أَخِيهِ أَحْمَدَ بْنِ حَمَّادٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:33:7",
+    "/books/kamil-al-ziyarat:2:16:3"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "1655-2372": {
+      "narrator_ids": [
+        1655,
+        2372
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:33:7",
+        "/books/kamil-al-ziyarat:2:16:3"
+      ]
+    },
+    "2372-234": {
+      "narrator_ids": [
+        2372,
+        234
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:16:3"
+      ]
+    },
+    "2372-391": {
+      "narrator_ids": [
+        2372,
+        391
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:33:7"
+      ]
+    },
+    "4-2266-1655-2372-391-2-841": {
+      "narrator_ids": [
+        4,
+        2266,
+        1655,
+        2372,
+        391,
+        2,
+        841
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:33:7"
+      ]
+    },
+    "613-355-1655-2372-234-2": {
+      "narrator_ids": [
+        613,
+        355,
+        1655,
+        2372,
+        234,
+        2
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:16:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2372",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2372.json"
+  }
+}

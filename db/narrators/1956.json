@@ -1,0 +1,64 @@
+{
+  "id": 1956,
+  "type": "narrator",
+  "path": "/people/narrators/1956",
+  "titles": {
+    "ar": "أَبِي إِسْمَاعِيلَ الصَّيْقَلِ الرَّازِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:8:1",
+    "/books/tahdhib-al-ahkam:6:91:158"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "12-1956": {
+      "narrator_ids": [
+        12,
+        1956
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:91:158"
+      ]
+    },
+    "1840-1956": {
+      "narrator_ids": [
+        1840,
+        1956
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:8:1"
+      ]
+    },
+    "1956-669": {
+      "narrator_ids": [
+        1956,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:8:1"
+      ]
+    },
+    "4-5-22-1840-1956-669": {
+      "narrator_ids": [
+        4,
+        5,
+        22,
+        1840,
+        1956,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:8:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1956",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1956.json"
+  }
+}

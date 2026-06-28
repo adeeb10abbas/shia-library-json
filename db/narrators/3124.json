@@ -1,0 +1,54 @@
+{
+  "id": 3124,
+  "type": "narrator",
+  "path": "/people/narrators/3124",
+  "titles": {
+    "ar": "خَالِدِ بْنِ أَيْمَنَ الْحَنَّاطِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:7:11:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3-2-76-3124-14-669": {
+      "narrator_ids": [
+        3,
+        2,
+        76,
+        3124,
+        14,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:7:11:2"
+      ]
+    },
+    "3124-14": {
+      "narrator_ids": [
+        3124,
+        14
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:7:11:2"
+      ]
+    },
+    "76-3124": {
+      "narrator_ids": [
+        76,
+        3124
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:7:11:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3124",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3124.json"
+  }
+}

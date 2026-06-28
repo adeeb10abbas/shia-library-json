@@ -1,0 +1,104 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "man-la-yahduruhu-al-faqih",
+  "chapterPath": "/books/man-la-yahduruhu-al-faqih:2:1:1",
+  "chapter": {
+    "path": "/books/man-la-yahduruhu-al-faqih:2:1:1",
+    "titles": {
+      "en": "Chapter on the Man Who Feels Shy to Take Zakat and is Given in Another Form"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "man-la-yahduruhu-al-faqih:2:1:1:1",
+      "type": "hadith",
+      "book": {
+        "slug": "man-la-yahduruhu-al-faqih",
+        "titles": {
+          "ar": "من لا يحضره الفقيه",
+          "en": "Man La Yahduruhu al-Faqih"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/man-la-yahduruhu-al-faqih:2:1:1:1",
+        "parts": [
+          2,
+          1,
+          1,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 1,
+        "chapter": 1,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/man-la-yahduruhu-al-faqih:2:1:1",
+        "titles": {
+          "en": "Chapter on the Man Who Feels Shy to Take Zakat and is Given in Another Form"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": قُلْتُ لِأَبِي جَعْفَرٍ عَلَيْهِ اَلسَّلاَمُ اَلرَّجُلُ مِنْ أَصْحَابِنَا يَسْتَحْيِي أَنْ يَأْخُذَ مِنَ اَلزَّكَاةِ فَأُعْطِيهِ مِنَ اَلزَّكَاةِ وَ لاَ أُسَمِّي لَهُ أَنَّهَا مِنَ اَلزَّكَاةِ فَقَالَ «أَعْطِهِ وَ لاَ تُسَمِّ لَهُ وَ لاَ تُذِلَّ اَلْمُؤْمِنَ »."
+        ],
+        "text": ": قُلْتُ لِأَبِي جَعْفَرٍ عَلَيْهِ اَلسَّلاَمُ اَلرَّجُلُ مِنْ أَصْحَابِنَا يَسْتَحْيِي أَنْ يَأْخُذَ مِنَ اَلزَّكَاةِ فَأُعْطِيهِ مِنَ اَلزَّكَاةِ وَ لاَ أُسَمِّي لَهُ أَنَّهَا مِنَ اَلزَّكَاةِ فَقَالَ «أَعْطِهِ وَ لاَ تُسَمِّ لَهُ وَ لاَ تُذِلَّ اَلْمُؤْمِنَ »."
+      },
+      "translations": {
+        "en.bab-ul-qaim-publications": {
+          "segments": [
+            "Hadith.1597 - Asim ibn Humayd reported from Abu Basir, who said:\nI said to Abu Ja’far Imam Muhammad ibn Ali Al-Baqir (as) \"A man from among our companions feels embarrassed to take from Zakat. Can I give it to him without telling him that it is from Zakat?\"\nThe Imam (as) replied: \"Give it to him without mentioning that it is Zakat, and do not humiliate the believer.\""
+          ],
+          "text": "Hadith.1597 - Asim ibn Humayd reported from Abu Basir, who said:\nI said to Abu Ja’far Imam Muhammad ibn Ali Al-Baqir (as) \"A man from among our companions feels embarrassed to take from Zakat. Can I give it to him without telling him that it is from Zakat?\"\nThe Imam (as) replied: \"Give it to him without mentioning that it is Zakat, and do not humiliate the believer.\""
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "رَوَى عَاصِمُ بْنُ حُمَيْدٍ عَنْ أَبِي بَصِيرٍ قَالَ",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "رَوَى ع"
+          },
+          {
+            "kind": "narrator",
+            "text": "َاصِمُ بْنُ حُمَيْدٍ",
+            "path": "/people/narrators/79"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي بَصِيرٍ",
+            "path": "/people/narrators/14"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/79",
+          "/people/narrators/14"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/man-la-yahduruhu-al-faqih:2:1:1:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/man-la-yahduruhu-al-faqih/2/1/1/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/34/1/4/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

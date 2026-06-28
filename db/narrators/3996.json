@@ -1,0 +1,32 @@
+{
+  "id": 3996,
+  "type": "narrator",
+  "path": "/people/narrators/3996",
+  "titles": {
+    "ar": "فَتْحٍ مَوْلَى الزُّرَارِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:77:5"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "35-3996": {
+      "narrator_ids": [
+        35,
+        3996
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:77:5"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3996",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3996.json"
+  }
+}

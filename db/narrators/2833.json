@@ -1,0 +1,55 @@
+{
+  "id": 2833,
+  "type": "narrator",
+  "path": "/people/narrators/2833",
+  "titles": {
+    "ar": "الْوَلِيدِ بْنِ عَلَاءٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:106:7"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2833-23": {
+      "narrator_ids": [
+        2833,
+        23
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:106:7"
+      ]
+    },
+    "4-13-42-2833-23-2-9": {
+      "narrator_ids": [
+        4,
+        13,
+        42,
+        2833,
+        23,
+        2,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:106:7"
+      ]
+    },
+    "42-2833": {
+      "narrator_ids": [
+        42,
+        2833
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:106:7"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2833",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2833.json"
+  }
+}

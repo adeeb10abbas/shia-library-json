@@ -1,0 +1,89 @@
+{
+  "id": 1536,
+  "type": "narrator",
+  "path": "/people/narrators/1536",
+  "titles": {
+    "ar": "عَبْدِ اللَّهِ بْنِ الْوَلِيدِ الْكِنْدِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:4:84:27",
+    "/books/al-kafi:8:1:17:6",
+    "/books/tahdhib-al-ahkam:2:8:231"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "11-29-122-1536-2443": {
+      "narrator_ids": [
+        11,
+        29,
+        122,
+        1536,
+        2443
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:84:27"
+      ]
+    },
+    "11-63-1536": {
+      "narrator_ids": [
+        11,
+        63,
+        1536
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:17:6"
+      ]
+    },
+    "122-1536": {
+      "narrator_ids": [
+        122,
+        1536
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:84:27",
+        "/books/tahdhib-al-ahkam:2:8:231"
+      ]
+    },
+    "1536-2443": {
+      "narrator_ids": [
+        1536,
+        2443
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:84:27",
+        "/books/tahdhib-al-ahkam:2:8:231"
+      ]
+    },
+    "63-1536": {
+      "narrator_ids": [
+        63,
+        1536
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:17:6"
+      ]
+    },
+    "952-35-29-122-1536-2443": {
+      "narrator_ids": [
+        952,
+        35,
+        29,
+        122,
+        1536,
+        2443
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:8:231"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1536",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1536.json"
+  }
+}

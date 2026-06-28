@@ -1,0 +1,55 @@
+{
+  "id": 3682,
+  "type": "narrator",
+  "path": "/people/narrators/3682",
+  "titles": {
+    "ar": "عُثَيْمِ بْنِ سُلَيْمَانَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:42:7"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-538-1190-1549-3682-45-669": {
+      "narrator_ids": [
+        11,
+        538,
+        1190,
+        1549,
+        3682,
+        45,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:42:7"
+      ]
+    },
+    "1549-3682": {
+      "narrator_ids": [
+        1549,
+        3682
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:42:7"
+      ]
+    },
+    "3682-45": {
+      "narrator_ids": [
+        3682,
+        45
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:42:7"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3682",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3682.json"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": 4013,
+  "type": "narrator",
+  "path": "/people/narrators/4013",
+  "titles": {
+    "ar": "فُضَيْلٍ سُكَّرَةَ"
+  },
+  "versePaths": [
+    "/books/al-istibsar:1:95:3",
+    "/books/al-kafi:3:3:23:1",
+    "/books/tahdhib-al-ahkam:1:39:40"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "39-4013": {
+      "narrator_ids": [
+        39,
+        4013
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:1:95:3",
+        "/books/al-kafi:3:3:23:1",
+        "/books/tahdhib-al-ahkam:1:39:40"
+      ]
+    },
+    "6-8-39-4013": {
+      "narrator_ids": [
+        6,
+        8,
+        39,
+        4013
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:23:1"
+      ]
+    },
+    "8-39-4013": {
+      "narrator_ids": [
+        8,
+        39,
+        4013
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:1:39:40"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4013",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4013.json"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 1743,
+  "type": "narrator",
+  "path": "/people/narrators/1743",
+  "titles": {
+    "ar": "12ـ سَعْدُ بْنُ عَبْدِ الله وَالْحِمْيَرِيُّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:122:13"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1743-377": {
+      "narrator_ids": [
+        1743,
+        377
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:122:13"
+      ]
+    },
+    "1743-377-1009-21-42": {
+      "narrator_ids": [
+        1743,
+        377,
+        1009,
+        21,
+        42
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:122:13"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1743",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1743.json"
+  }
+}

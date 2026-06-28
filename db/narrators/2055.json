@@ -1,0 +1,53 @@
+{
+  "id": 2055,
+  "type": "narrator",
+  "path": "/people/narrators/2055",
+  "titles": {
+    "ar": "أَبِي جَعْفَرٍ الصَّائِغِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:44:56"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2055-16": {
+      "narrator_ids": [
+        2055,
+        16
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:44:56"
+      ]
+    },
+    "50-2-63-2055-16": {
+      "narrator_ids": [
+        50,
+        2,
+        63,
+        2055,
+        16
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:44:56"
+      ]
+    },
+    "63-2055": {
+      "narrator_ids": [
+        63,
+        2055
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:44:56"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2055",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2055.json"
+  }
+}

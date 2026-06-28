@@ -1,0 +1,54 @@
+{
+  "id": 4465,
+  "type": "narrator",
+  "path": "/people/narrators/4465",
+  "titles": {
+    "ar": "نَجْمِ بْنِ حُطَيْمٍ الْغَنَوِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:67:6"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-2-38-45-4465-9": {
+      "narrator_ids": [
+        11,
+        2,
+        38,
+        45,
+        4465,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:67:6"
+      ]
+    },
+    "4465-9": {
+      "narrator_ids": [
+        4465,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:67:6"
+      ]
+    },
+    "45-4465": {
+      "narrator_ids": [
+        45,
+        4465
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:67:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4465",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4465.json"
+  }
+}

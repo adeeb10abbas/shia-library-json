@@ -1,0 +1,722 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:6:8:39",
+  "chapter": {
+    "path": "/books/al-kafi:6:8:39",
+    "titles": {
+      "ar": "باب جَزِّ الشَّيْبِ وَ نَتْفِهِ",
+      "en": "Chapter 39 – Cutting the grey hair and plucking it"
+    }
+  },
+  "count": 6,
+  "records": [
+    {
+      "id": "al-kafi:6:8:39:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:8:39:1",
+        "parts": [
+          6,
+          8,
+          39,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 8,
+        "chapter": 39,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:8:39",
+        "titles": {
+          "ar": "باب جَزِّ الشَّيْبِ وَ نَتْفِهِ",
+          "en": "Chapter 39 – Cutting the grey hair and plucking it"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " لَا بَأْسَ بِجَزِّ الشَّمَطِ وَ نَتْفِهِ وَ جَزُّهُ أَحَبُّ إِلَيَّ مِنْ نَتْفِهِ ."
+        ],
+        "text": "لَا بَأْسَ بِجَزِّ الشَّمَطِ وَ نَتْفِهِ وَ جَزُّهُ أَحَبُّ إِلَيَّ مِنْ نَتْفِهِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Ahmad Bin Muhammad, from Al Hassan Bin Ali Al Washa, from Abdullah Bin Sinan, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘There is no problem with cutting the grey hair and plucking it, and cutting it is more beloved to me than plucking it’."
+          ],
+          "text": "A number of our companions, from Ahmad Bin Muhammad, from Al Hassan Bin Ali Al Washa, from Abdullah Bin Sinan,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘There is no problem with cutting the grey hair and plucking it, and cutting it is more beloved to me than plucking it’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. A number of our people have narrated from Ahmad ibn Muhammad from al-Hassan ibn Ali al-Washsha’ from ‘Abd Allah ibn Sinan who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘It is not unlawful to clip or pull out gray from the head but clipping is more likable to me.” "
+          ],
+          "text": "1. A number of our people have narrated from Ahmad ibn Muhammad from al-Hassan ibn Ali al-Washsha’ from ‘Abd Allah ibn Sinan who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘It is not unlawful to clip or pull out gray from the head but clipping is more likable to me.”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> صحيح    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/390)",
+          "label": "صحيح",
+          "text": "Allamah Baqir al-Majlisi: صحيح - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/390)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنِ الْحَسَنِ بْنِ عَلِيٍّ الْوَشَّاءِ عَنْ عَبْدِ اللَّهِ بْنِ سِنَانٍ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحَسَنِ بْنِ عَلِيٍّ الْوَشَّاءِ",
+            "path": "/people/narrators/89"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَبْدِ اللَّهِ بْنِ سِنَانٍ",
+            "path": "/people/narrators/31"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/5",
+          "/people/narrators/89",
+          "/people/narrators/31",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:8:39:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/8/39/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:8:39:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:8:39:2",
+        "parts": [
+          6,
+          8,
+          39,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 8,
+        "chapter": 39,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:8:39",
+        "titles": {
+          "ar": "باب جَزِّ الشَّيْبِ وَ نَتْفِهِ",
+          "en": "Chapter 39 – Cutting the grey hair and plucking it"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " لَا بَأْسَ بِجَزِّ الشَّمَطِ وَ نَتْفِهِ مِنَ اللِّحْيَةِ ."
+        ],
+        "text": "لَا بَأْسَ بِجَزِّ الشَّمَطِ وَ نَتْفِهِ مِنَ اللِّحْيَةِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "From him, from Ibn Fazzal, from the one who mentioned it, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘There is no problem with cutting the grey hair and plucking it from the beard’."
+          ],
+          "text": "From him, from Ibn Fazzal, from the one who mentioned it,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘There is no problem with cutting the grey hair and plucking it from the beard’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. It is narrated from the narrator of the previous Hadith from ibn Faddal from those whom he has mentioned who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘It is not unlawful to pull up or clip gray from the beard.’” "
+          ],
+          "text": "2. It is narrated from the narrator of the previous Hadith from ibn Faddal from those whom he has mentioned who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘It is not unlawful to pull up or clip gray from the beard.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مرسل  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/390)",
+          "label": "مرسل",
+          "text": "Allamah Baqir al-Majlisi: مرسل - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/390)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَنْهُ عَنِ ابْنِ فَضَّالٍ عَمَّنْ ذَكَرَهُ عَنْ أَبِي عَبْدِ اللَّهِ ( صلوات الله عليه ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَنْهُ",
+            "path": "/people/narrators/11"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "plain",
+            "text": "ابْنِ فَضَّالٍ عَمَّنْ ذَكَرَهُ"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( صلوات الله عليه )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/11",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:8:39:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/8/39/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:8:39:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:8:39:3",
+        "parts": [
+          6,
+          8,
+          39,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 8,
+        "chapter": 39,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:8:39",
+        "titles": {
+          "ar": "باب جَزِّ الشَّيْبِ وَ نَتْفِهِ",
+          "en": "Chapter 39 – Cutting the grey hair and plucking it"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " أَنَّ أَمِيرَ الْمُؤْمِنِينَ ( عليه السلام ) كَانَ لَا يَرَى بِجَزِّ الشَّيْبِ بَأْساً وَ يَكْرَهُ نَتْفَهُ ."
+        ],
+        "text": "أَنَّ أَمِيرَ الْمُؤْمِنِينَ ( عليه السلام ) كَانَ لَا يَرَى بِجَزِّ الشَّيْبِ بَأْساً وَ يَكْرَهُ نَتْفَهُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father, from Al Nowfaly, from Al Sakuny, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> that Amir Al-Momineen<sup>asws</sup> did not view the cutting of the grey hairs as a problem, and disliked plucking it’."
+          ],
+          "text": "Ali Bin Ibrahim, from his father, from Al Nowfaly, from Al Sakuny,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> that Amir Al-Momineen<sup>asws</sup> did not view the cutting of the grey hairs as a problem, and disliked plucking it’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "3. Ali ibn Ibrahim has narrated from his father from al-Nawfaliy from al-Sakuniy who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that ’Amir al-Mu’minin did not consider it harmful to clip gray hairs but disliked pulling it out.’” "
+          ],
+          "text": "3. Ali ibn Ibrahim has narrated from his father from al-Nawfaliy from al-Sakuniy who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that ’Amir al-Mu’minin did not consider it harmful to clip gray hairs but disliked pulling it out.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/391)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/391)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنِ النَّوْفَلِيِّ عَنِ السَّكُونِيِّ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "النَّوْفَلِيِّ",
+            "path": "/people/narrators/32"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "السَّكُونِيِّ",
+            "path": "/people/narrators/34"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/32",
+          "/people/narrators/34",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:8:39:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/8/39/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:8:39:4",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:8:39:4",
+        "parts": [
+          6,
+          8,
+          39,
+          4
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 8,
+        "chapter": 39,
+        "hadith": 4
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:8:39",
+        "titles": {
+          "ar": "باب جَزِّ الشَّيْبِ وَ نَتْفِهِ",
+          "en": "Chapter 39 – Cutting the grey hair and plucking it"
+        }
+      },
+      "arabic": {
+        "segments": [
+          "وَ بِهَذَا الْإِسْنَادِ قَالَ ( عليه السلام ) أَوَّلُ مَنْ شَابَ إِبْرَاهِيمُ ( عليه السلام ) فَقَالَ يَا رَبِّ مَا هَذَا فَقَالَ نُورٌ وَ تَوْقِيرٌ قَالَ رَبِّ زِدْنِي مِنْهُ ."
+        ],
+        "text": "وَ بِهَذَا الْإِسْنَادِ قَالَ ( عليه السلام ) أَوَّلُ مَنْ شَابَ إِبْرَاهِيمُ ( عليه السلام ) فَقَالَ يَا رَبِّ مَا هَذَا فَقَالَ نُورٌ وَ تَوْقِيرٌ قَالَ رَبِّ زِدْنِي مِنْهُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "And by this chain, ",
+            "‘He<sup>asws</sup> said: ‘The first one to be grey-haired was Ibrahim<sup>as</sup>. He<sup>as</sup> said: ‘O Lord<sup>azwj</sup>! What is this?’ So He<sup>azwj</sup> Said: “A radiance and a reverence”. He<sup>as</sup> said: ‘Lord<sup>azwj</sup>! Increase for me<sup>as</sup>, from it’."
+          ],
+          "text": "And by this chain,\n\n‘He<sup>asws</sup> said: ‘The first one to be grey-haired was Ibrahim<sup>as</sup>. He<sup>as</sup> said: ‘O Lord<sup>azwj</sup>! What is this?’ So He<sup>azwj</sup> Said: “A radiance and a reverence”. He<sup>as</sup> said: ‘Lord<sup>azwj</sup>! Increase for me<sup>as</sup>, from it’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "4. Through the same chain of narrators as that of the previous Hadith the following is narrated: “He (the Imam), ‘Alayhi al-Salam, has said, ‘The first one who noticed gray hairs was Ibrahim ‘Alayhi al-Salam, and he asked, ‘O Lord, what is this?’ He said, ‘It is light and reverence.’ He then said, ‘O Lord, increase it for me.’” "
+          ],
+          "text": "4. Through the same chain of narrators as that of the previous Hadith the following is narrated: “He (the Imam), ‘Alayhi al-Salam, has said, ‘The first one who noticed gray hairs was Ibrahim ‘Alayhi al-Salam, and he asked, ‘O Lord, what is this?’ He said, ‘It is light and reverence.’ He then said, ‘O Lord, increase it for me.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/391)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (2/391)"
+        }
+      ],
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:8:39:4",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/8/39/4.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:8:39:5",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:8:39:5",
+        "parts": [
+          6,
+          8,
+          39,
+          5
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 8,
+        "chapter": 39,
+        "hadith": 5
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:8:39",
+        "titles": {
+          "ar": "باب جَزِّ الشَّيْبِ وَ نَتْفِهِ",
+          "en": "Chapter 39 – Cutting the grey hair and plucking it"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " كَانَ النَّاسُ لَا يَشِيبُونَ فَأَبْصَرَ إِبْرَاهِيمُ ( عليه السلام ) شَيْباً فِي لِحْيَتِهِ فَقَالَ يَا رَبِّ مَا هَذَا فَقَالَ هَذَا وَقَارٌ فَقَالَ يَا رَبِّ زِدْنِي وَقَاراً ."
+        ],
+        "text": "كَانَ النَّاسُ لَا يَشِيبُونَ فَأَبْصَرَ إِبْرَاهِيمُ ( عليه السلام ) شَيْباً فِي لِحْيَتِهِ فَقَالَ يَا رَبِّ مَا هَذَا فَقَالَ هَذَا وَقَارٌ فَقَالَ يَا رَبِّ زِدْنِي وَقَاراً ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father, from Ibn Abu Umeyr, from Hafs Bin Al Bakhtary, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The people were not becoming grey-haired. So Ibrahim<sup>as</sup> saw something in his<sup>as</sup> beard, so he<sup>as</sup> said: ‘O Lord<sup>azwj</sup>! What is this?’ So He<sup>azwj</sup> Said: “This is a reverence”. So he<sup>as</sup> said: ‘O Lord<sup>azwj</sup>! Increase the reverence for me<sup>as</sup>’’."
+          ],
+          "text": "Ali Bin Ibrahim, from his father, from Ibn Abu Umeyr, from Hafs Bin Al Bakhtary,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The people were not becoming grey-haired. So Ibrahim<sup>as</sup> saw something in his<sup>as</sup> beard, so he<sup>as</sup> said: ‘O Lord<sup>azwj</sup>! What is this?’ So He<sup>azwj</sup> Said: “This is a reverence”. So he<sup>as</sup> said: ‘O Lord<sup>azwj</sup>! Increase the reverence for me<sup>as</sup>’’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "5. Ali ibn Ibrahim has narrated from his father from ibn abu ‘ Umayr from Hafs ibn al-Bakhtariy who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘People did not grow gray hairs but Ibrahim ‘Alayhi al- Salam, found gray in his beard and asked, ‘O Lord, what is this?’ He said, ‘It is reverence.’ He then said, ‘O Lord, increase my reverence.’” "
+          ],
+          "text": "5. Ali ibn Ibrahim has narrated from his father from ibn abu ‘ Umayr from Hafs ibn al-Bakhtariy who has said the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘People did not grow gray hairs but Ibrahim ‘Alayhi al- Salam, found gray in his beard and asked, ‘O Lord, what is this?’ He said, ‘It is reverence.’ He then said, ‘O Lord, increase my reverence.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> حسن   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/391)",
+          "label": "حسن",
+          "text": "Allamah Baqir al-Majlisi: حسن - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/391)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنِ ابْنِ أَبِي عُمَيْرٍ عَنْ حَفْصِ بْنِ الْبَخْتَرِيِّ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ أَبِي عُمَيْرٍ",
+            "path": "/people/narrators/7"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "حَفْصِ بْنِ الْبَخْتَرِيِّ",
+            "path": "/people/narrators/115"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/7",
+          "/people/narrators/115",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:8:39:5",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/8/39/5.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:6:8:39:6",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:6:8:39:6",
+        "parts": [
+          6,
+          8,
+          39,
+          6
+        ]
+      },
+      "numbering": {
+        "volume": 6,
+        "book": 8,
+        "chapter": 39,
+        "hadith": 6
+      },
+      "chapter": {
+        "path": "/books/al-kafi:6:8:39",
+        "titles": {
+          "ar": "باب جَزِّ الشَّيْبِ وَ نَتْفِهِ",
+          "en": "Chapter 39 – Cutting the grey hair and plucking it"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " الشَّيْبُ فِي مُقَدَّمِ الرَّأْسِ يُمْنٌ وَ فِي الْعَارِضَيْنِ سَخَاءٌ وَ فِي الذَّوَائِبِ شَجَاعَةٌ وَ فِي الْقَفَا شُؤْمٌ ."
+        ],
+        "text": "الشَّيْبُ فِي مُقَدَّمِ الرَّأْسِ يُمْنٌ وَ فِي الْعَارِضَيْنِ سَخَاءٌ وَ فِي الذَّوَائِبِ شَجَاعَةٌ وَ فِي الْقَفَا شُؤْمٌ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Ahmad Bin Abu Abdullah, from Abu Ayoub Al Madainy, from Suleyman Al Ja’fary, ",
+            "(It has been narrated) from Al-Reza<sup>asws</sup>, from his<sup>asws</sup> forefathers<sup>asws</sup> having said: ‘The grey hair in the front part of the head is a Blessing, and in the two sides is generosity, and in the top is courage, and in the back is inauspiciousness’."
+          ],
+          "text": "A number of our companions, from Ahmad Bin Abu Abdullah, from Abu Ayoub Al Madainy, from Suleyman Al Ja’fary,\n\n(It has been narrated) from Al-Reza<sup>asws</sup>, from his<sup>asws</sup> forefathers<sup>asws</sup> having said: ‘The grey hair in the front part of the head is a Blessing, and in the two sides is generosity, and in the top is courage, and in the back is inauspiciousness’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "6. A number of our people have narrated from Ahmad ibn abu ‘Abd Allah fn abu Ayyub al-Madiniy from Sulayman al-Ja‘fariy who has said the following: “Al-Rida’, ‘Alayhi al-Salam, has narrated from his ancestors saying, ‘Gray in front of the head is good fortune, on the sides is generosity, on top of the head is courage, and at the back is misfortune.’” "
+          ],
+          "text": "6. A number of our people have narrated from Ahmad ibn abu ‘Abd Allah fn abu Ayyub al-Madiniy from Sulayman al-Ja‘fariy who has said the following: “Al-Rida’, ‘Alayhi al-Salam, has narrated from his ancestors saying, ‘Gray in front of the head is good fortune, on the sides is generosity, on top of the head is courage, and at the back is misfortune.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مجهول    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/391)",
+          "label": "مجهول",
+          "text": "Allamah Baqir al-Majlisi: مجهول - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (22/391)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ أَحْمَدَ بْنِ أَبِي عَبْدِ اللَّهِ عَنْ أَبِي أَيُّوبَ الْمَدِينِيِّ عَنْ سُلَيْمَانَ الْجَعْفَرِيِّ عَنِ الرِّضَا عَنْ آبَائِهِ ( عليهم السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ أَبِي عَبْدِ اللَّهِ",
+            "path": "/people/narrators/12"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي أَيُّوبَ الْمَدِينِيِّ",
+            "path": "/people/narrators/743"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سُلَيْمَانَ الْجَعْفَرِيِّ",
+            "path": "/people/narrators/295"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الرِّضَا",
+            "path": "/people/narrators/184"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "آبَائِهِ ( عليهم السلام )",
+            "path": "/people/narrators/662"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/12",
+          "/people/narrators/743",
+          "/people/narrators/295",
+          "/people/narrators/184",
+          "/people/narrators/662"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:6:8:39:6",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/6/8/39/6.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 4379,
+  "type": "narrator",
+  "path": "/people/narrators/4379",
+  "titles": {
+    "ar": "مُعَاذٍ صَاحِبِ الْأَكْسِيَةِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:129:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1086-4379": {
+      "narrator_ids": [
+        1086,
+        4379
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:129:3"
+      ]
+    },
+    "77-5-42-1086-4379": {
+      "narrator_ids": [
+        77,
+        5,
+        42,
+        1086,
+        4379
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:129:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4379",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4379.json"
+  }
+}

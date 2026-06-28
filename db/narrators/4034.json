@@ -1,0 +1,55 @@
+{
+  "id": 4034,
+  "type": "narrator",
+  "path": "/people/narrators/4034",
+  "titles": {
+    "ar": "قُثَمَ أَبِي قَتَادَةَ الْحَرَّانِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:99:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2593-4034": {
+      "narrator_ids": [
+        2593,
+        4034
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:99:1"
+      ]
+    },
+    "4034-3620": {
+      "narrator_ids": [
+        4034,
+        3620
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:99:1"
+      ]
+    },
+    "431-17-3578-2593-4034-3620-669": {
+      "narrator_ids": [
+        431,
+        17,
+        3578,
+        2593,
+        4034,
+        3620,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:99:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4034",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4034.json"
+  }
+}

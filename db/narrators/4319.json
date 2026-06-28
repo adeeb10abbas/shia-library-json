@@ -1,0 +1,44 @@
+{
+  "id": 4319,
+  "type": "narrator",
+  "path": "/people/narrators/4319",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ مُسْلِمٍ [عَنْ أَحَدِهِمَا ع]"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:7:17:20"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "112-4319": {
+      "narrator_ids": [
+        112,
+        4319
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:7:17:20"
+      ]
+    },
+    "19-24-30-112-4319": {
+      "narrator_ids": [
+        19,
+        24,
+        30,
+        112,
+        4319
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:7:17:20"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4319",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4319.json"
+  }
+}

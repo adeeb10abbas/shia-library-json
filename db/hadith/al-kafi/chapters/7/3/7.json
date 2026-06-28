@@ -1,0 +1,737 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:7:3:7",
+  "chapter": {
+    "path": "/books/al-kafi:7:3:7",
+    "titles": {
+      "ar": "باب مَا يُوجِبُ الرَّجْمَ",
+      "en": "Chapter 7 – What Obligates the stoning"
+    }
+  },
+  "count": 5,
+  "records": [
+    {
+      "id": "al-kafi:7:3:7:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:3:7:1",
+        "parts": [
+          7,
+          3,
+          7,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 3,
+        "chapter": 7,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:3:7",
+        "titles": {
+          "ar": "باب مَا يُوجِبُ الرَّجْمَ",
+          "en": "Chapter 7 – What Obligates the stoning"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " حَدُّ الرَّجْمِ أَنْ يَشْهَدَ أَرْبَعَةٌ أَنَّهُمْ رَأَوْهُ يُدْخِلُ وَ يُخْرِجُ ."
+        ],
+        "text": "حَدُّ الرَّجْمِ أَنْ يَشْهَدَ أَرْبَعَةٌ أَنَّهُمْ رَأَوْهُ يُدْخِلُ وَ يُخْرِجُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father and Muhammad Bin Yahya, from Ahmad Bin Muhammad, altogether from Ibn Abu Umeyr, from Hammad, from Al Halby, ",
+            "Abu Abdullah<sup>asws</sup> having said: ‘The Penalty (<span class=\"iTxt\">Hadd</span>) of the stoning is applied when four testify that they have seen him go in and come out’."
+          ],
+          "text": "Ali Bin Ibrahim, from his father and Muhammad Bin Yahya, from Ahmad Bin Muhammad, altogether from Ibn Abu Umeyr, from Hammad, from Al Halby,\n\nAbu Abdullah<sup>asws</sup> having said: ‘The Penalty (<span class=\"iTxt\">Hadd</span>) of the stoning is applied when four testify that they have seen him go in and come out’."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ وَ مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ جَمِيعاً عَنِ ابْنِ أَبِي عُمَيْرٍ عَنْ حَمَّادٍ عَنِ الْحَلَبِيِّ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " وَ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " جَمِيعاً عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ أَبِي عُمَيْرٍ",
+            "path": "/people/narrators/7"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "حَمَّادٍ",
+            "path": "/people/narrators/23"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحَلَبِيِّ",
+            "path": "/people/narrators/28"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/4",
+          "/people/narrators/5",
+          "/people/narrators/7",
+          "/people/narrators/23",
+          "/people/narrators/28",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:4:2:24:1",
+          "/books/al-kafi:4:2:28:1",
+          "/books/al-kafi:4:3:106:1",
+          "/books/al-kafi:4:3:27:6",
+          "/books/al-kafi:5:2:74:2",
+          "/books/al-kafi:5:3:55:1",
+          "/books/al-kafi:5:3:62:2",
+          "/books/al-kafi:7:3:36:1",
+          "/books/al-kafi:7:4:6:1"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:3:7:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/3/7/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:3:7:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:3:7:2",
+        "parts": [
+          7,
+          3,
+          7,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 3,
+        "chapter": 7,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:3:7",
+        "titles": {
+          "ar": "باب مَا يُوجِبُ الرَّجْمَ",
+          "en": "Chapter 7 – What Obligates the stoning"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ أَمِيرُ الْمُؤْمِنِينَ ( عليه السلام ) لَا يُرْجَمُ رَجُلٌ وَ لَا امْرَأَةٌ حَتَّى يَشْهَدَ عَلَيْهِ أَرْبَعَةُ شُهُودٍ عَلَى الْإِيلَاجِ وَ الْإِخْرَاجِ ."
+        ],
+        "text": "قَالَ أَمِيرُ الْمُؤْمِنِينَ ( عليه السلام ) لَا يُرْجَمُ رَجُلٌ وَ لَا امْرَأَةٌ حَتَّى يَشْهَدَ عَلَيْهِ أَرْبَعَةُ شُهُودٍ عَلَى الْإِيلَاجِ وَ الْإِخْرَاجِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father and Muhammad Bin Yahya, from Ahmad Bin Muhammad, altogether from Ibn Abu Najran, from Aasim Bin Humeyd, from Muhammad Bin Qays, ",
+            "(It has been narrated) from Abu Ja’far<sup>asws</sup> having said: ‘Amir Al-Momineen<sup>asws</sup> said: ‘Neither a man nor a woman would be stoned until four witnesses testify over it, upon the penetration and the exit’."
+          ],
+          "text": "Ali Bin Ibrahim, from his father and Muhammad Bin Yahya, from Ahmad Bin Muhammad, altogether from Ibn Abu Najran, from Aasim Bin Humeyd, from Muhammad Bin Qays,\n\n(It has been narrated) from Abu Ja’far<sup>asws</sup> having said: ‘Amir Al-Momineen<sup>asws</sup> said: ‘Neither a man nor a woman would be stoned until four witnesses testify over it, upon the penetration and the exit’."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ وَمُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ جَمِيعاً عَنِ ابْنِ أَبِي نَجْرَانَ عَنْ عَاصِمِ بْنِ حُمَيْدٍ عَنْ مُحَمَّدِ بْنِ قَيْسٍ عَنْ أَبِي جَعْفَرٍ عَلَيْهِ السَّلَامُ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " وَ"
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " جَمِيعاً عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ أَبِي نَجْرَانَ",
+            "path": "/people/narrators/74"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَاصِمِ بْنِ حُمَيْدٍ",
+            "path": "/people/narrators/79"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ قَيْسٍ",
+            "path": "/people/narrators/105"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي جَعْفَرٍ",
+            "path": "/people/narrators/9"
+          },
+          {
+            "kind": "plain",
+            "text": " عَلَيْهِ السَّلَامُ قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/4",
+          "/people/narrators/5",
+          "/people/narrators/74",
+          "/people/narrators/79",
+          "/people/narrators/105",
+          "/people/narrators/9"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:7:4:6:5"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:3:7:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/3/7/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:3:7:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:3:7:3",
+        "parts": [
+          7,
+          3,
+          7,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 3,
+        "chapter": 7,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:3:7",
+        "titles": {
+          "ar": "باب مَا يُوجِبُ الرَّجْمَ",
+          "en": "Chapter 7 – What Obligates the stoning"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " لَا يَجِبُ الرَّجْمُ حَتَّى تَقُومَ الْبَيِّنَةُ الْأَرْبَعَةُ أَنَّهُمْ قَدْ رَأَوْهُ يُجَامِعُهَا ."
+        ],
+        "text": "لَا يَجِبُ الرَّجْمُ حَتَّى تَقُومَ الْبَيِّنَةُ الْأَرْبَعَةُ أَنَّهُمْ قَدْ رَأَوْهُ يُجَامِعُهَا ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Ali Bin Al Hakam, from Ali Bin Abu Hamza, from Abu Baseer, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The stoning is not Obligated until the proof is established by the four that they had seen both of them copulating’."
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Ali Bin Al Hakam, from Ali Bin Abu Hamza, from Abu Baseer,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The stoning is not Obligated until the proof is established by the four that they had seen both of them copulating’."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنْ عَلِيِّ بْنِ الْحَكَمِ عَنْ عَلِيِّ بْنِ أَبِي حَمْزَةَ عَنْ أَبِي بَصِيرٍ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيِّ بْنِ الْحَكَمِ",
+            "path": "/people/narrators/15"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيِّ بْنِ أَبِي حَمْزَةَ",
+            "path": "/people/narrators/57"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي بَصِيرٍ",
+            "path": "/people/narrators/14"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/5",
+          "/people/narrators/15",
+          "/people/narrators/57",
+          "/people/narrators/14",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:3:3:86:2",
+          "/books/al-kafi:4:3:109:1",
+          "/books/al-kafi:4:3:165:2",
+          "/books/al-kafi:4:3:57:2",
+          "/books/al-kafi:4:3:86:1",
+          "/books/al-kafi:4:3:97:9",
+          "/books/al-kafi:4:3:99:1",
+          "/books/al-kafi:5:3:32:3",
+          "/books/al-kafi:5:3:82:9",
+          "/books/al-kafi:6:2:50:2",
+          "/books/al-kafi:6:2:79:7",
+          "/books/al-kafi:6:3:2:2",
+          "/books/al-kafi:6:5:10:2",
+          "/books/al-kafi:6:6:8:2",
+          "/books/al-kafi:7:3:36:2",
+          "/books/al-kafi:7:4:18:3",
+          "/books/al-kafi:7:4:23:4",
+          "/books/al-kafi:7:4:29:2",
+          "/books/al-kafi:7:4:44:3"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:3:7:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/3/7/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:3:7:4",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:3:7:4",
+        "parts": [
+          7,
+          3,
+          7,
+          4
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 3,
+        "chapter": 7,
+        "hadith": 4
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:3:7",
+        "titles": {
+          "ar": "باب مَا يُوجِبُ الرَّجْمَ",
+          "en": "Chapter 7 – What Obligates the stoning"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ أَبُو عَبْدِ اللَّهِ ( عليه السلام ) لَا يُرْجَمُ الرَّجُلُ وَ الْمَرْأَةُ حَتَّى يَشْهَدَ عَلَيْهِمَا أَرْبَعَةُ شُهَدَاءَ عَلَى الْجِمَاعِ وَ الْإِيلَاجِ وَ الْإِدْخَالِ كَالْمِيلِ فِي الْمُكْحُلَةِ ."
+        ],
+        "text": "قَالَ أَبُو عَبْدِ اللَّهِ ( عليه السلام ) لَا يُرْجَمُ الرَّجُلُ وَ الْمَرْأَةُ حَتَّى يَشْهَدَ عَلَيْهِمَا أَرْبَعَةُ شُهَدَاءَ عَلَى الْجِمَاعِ وَ الْإِيلَاجِ وَ الْإِدْخَالِ كَالْمِيلِ فِي الْمُكْحُلَةِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from Muhammad Bin Isa, from Yunus, from Sama’at, from Abu Baseer who said, ",
+            "‘Abu Abdullah<sup>asws</sup> said: ‘The man and the woman would not be stoned until there testify upon both of them, four witnesses, of the copulation and the penetration and the entering, like needle (applicator) enters into the Kohl’."
+          ],
+          "text": "Ali Bin Ibrahim, from Muhammad Bin Isa, from Yunus, from Sama’at, from Abu Baseer who said,\n\n‘Abu Abdullah<sup>asws</sup> said: ‘The man and the woman would not be stoned until there testify upon both of them, four witnesses, of the copulation and the penetration and the entering, like needle (applicator) enters into the Kohl’."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ مُحَمَّدِ بْنِ عِيسَى عَنْ يُونُسَ عَنْ سَمَاعَةَ عَنْ أَبِي بَصِيرٍ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ عِيسَى",
+            "path": "/people/narrators/27"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "يُونُسَ",
+            "path": "/people/narrators/26"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَمَاعَةَ",
+            "path": "/people/narrators/48"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي بَصِيرٍ",
+            "path": "/people/narrators/14"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/27",
+          "/people/narrators/26",
+          "/people/narrators/48",
+          "/people/narrators/14"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:7:3:31:9"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:3:7:4",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/3/7/4.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:3:7:5",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:3:7:5",
+        "parts": [
+          7,
+          3,
+          7,
+          5
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 3,
+        "chapter": 7,
+        "hadith": 5
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:3:7",
+        "titles": {
+          "ar": "باب مَا يُوجِبُ الرَّجْمَ",
+          "en": "Chapter 7 – What Obligates the stoning"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " حَدُّ الرَّجْمِ فِي الزِّنَى أَنْ يَشْهَدَ أَرْبَعَةٌ أَنَّهُمْ رَأَوْهُ يُدْخِلُ وَ يُخْرِجُ ."
+        ],
+        "text": "حَدُّ الرَّجْمِ فِي الزِّنَى أَنْ يَشْهَدَ أَرْبَعَةٌ أَنَّهُمْ رَأَوْهُ يُدْخِلُ وَ يُخْرِجُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Sahl Bin Ziyad, from Muhammad Bin Al Hassan Al Basry, from Hammad Bin Isa, from Shuayb Al Aqarquqy, from Abu Baseer, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The Penalty (<span class=\"iTxt\">Hadd</span>) of the stoning regarding the adultery is that four should testify that they had seen him enter and exit’."
+          ],
+          "text": "A number of our companions, from Sahl Bin Ziyad, from Muhammad Bin Al Hassan Al Basry, from Hammad Bin Isa, from Shuayb Al Aqarquqy, from Abu Baseer,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The Penalty (<span class=\"iTxt\">Hadd</span>) of the stoning regarding the adultery is that four should testify that they had seen him enter and exit’."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ سَهْلِ بْنِ زِيَادٍ عَنْ مُحَمَّدِ بْنِ الْحَسَنِ الْبَصْرِيِّ عَنْ حَمَّادِ بْنِ عِيسَى عَنْ شُعَيْبٍ الْعَقَرْقُوفِيِّ عَنْ أَبِي بَصِيرٍ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَهْلِ بْنِ زِيَادٍ",
+            "path": "/people/narrators/8"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ الْحَسَنِ الْبَصْرِيِّ",
+            "path": "/people/narrators/4152"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "حَمَّادِ بْنِ عِيسَى",
+            "path": "/people/narrators/38"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "شُعَيْبٍ الْعَقَرْقُوفِيِّ",
+            "path": "/people/narrators/396"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي بَصِيرٍ",
+            "path": "/people/narrators/14"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/8",
+          "/people/narrators/4152",
+          "/people/narrators/38",
+          "/people/narrators/396",
+          "/people/narrators/14",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:3:7:5",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/3/7/5.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

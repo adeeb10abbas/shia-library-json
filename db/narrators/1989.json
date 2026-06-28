@@ -1,0 +1,46 @@
+{
+  "id": 1989,
+  "type": "narrator",
+  "path": "/people/narrators/1989",
+  "titles": {
+    "ar": "أَبِي الزَّعْلَى"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:4:3:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-67-4456-2796-746-2954-1989": {
+      "narrator_ids": [
+        11,
+        67,
+        4456,
+        2796,
+        746,
+        2954,
+        1989
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:3:3"
+      ]
+    },
+    "2954-1989": {
+      "narrator_ids": [
+        2954,
+        1989
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:4:3:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1989",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1989.json"
+  }
+}

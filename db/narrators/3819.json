@@ -1,0 +1,51 @@
+{
+  "id": 3819,
+  "type": "narrator",
+  "path": "/people/narrators/3819",
+  "titles": {
+    "ar": "عَلِيِّ بْنِ مَعْبَدٍ أَوْ غَيْرِهِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:4:85:16"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-3819": {
+      "narrator_ids": [
+        11,
+        3819
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:85:16"
+      ]
+    },
+    "11-3819-58": {
+      "narrator_ids": [
+        11,
+        3819,
+        58
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:85:16"
+      ]
+    },
+    "3819-58": {
+      "narrator_ids": [
+        3819,
+        58
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:85:16"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3819",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3819.json"
+  }
+}

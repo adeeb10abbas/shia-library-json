@@ -1,0 +1,142 @@
+{
+  "id": 775,
+  "type": "narrator",
+  "path": "/people/narrators/775",
+  "titles": {
+    "ar": "حَمْدَانَ بْنِ سُلَيْمَانَ"
+  },
+  "versePaths": [
+    "/books/al-istibsar:2:25:7",
+    "/books/al-kafi:1:4:108:81",
+    "/books/al-kafi:4:3:141:6",
+    "/books/al-kafi:4:3:212:21",
+    "/books/al-kafi:4:3:232:3",
+    "/books/al-kafi:6:7:32:2",
+    "/books/man-la-yahduruhu-al-faqih:3:2:38:59",
+    "/books/tahdhib-al-ahkam:4:54:11",
+    "/books/uyun-akhbar-al-rida:1:2:28:64",
+    "/books/uyun-akhbar-al-rida:1:2:28:83"
+  ],
+  "verseCount": 10,
+  "relations": {},
+  "subchains": {
+    "4-775": {
+      "narrator_ids": [
+        4,
+        775
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:108:81",
+        "/books/al-kafi:4:3:141:6",
+        "/books/al-kafi:4:3:212:21",
+        "/books/al-kafi:4:3:232:3",
+        "/books/al-kafi:6:7:32:2"
+      ]
+    },
+    "4-775-1149-1698-26-125-669": {
+      "narrator_ids": [
+        4,
+        775,
+        1149,
+        1698,
+        26,
+        125,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:108:81"
+      ]
+    },
+    "4-775-1149-1698-4622": {
+      "narrator_ids": [
+        4,
+        775,
+        1149,
+        1698,
+        4622
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:232:3"
+      ]
+    },
+    "4-775-237-1420": {
+      "narrator_ids": [
+        4,
+        775,
+        237,
+        1420
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:32:2"
+      ]
+    },
+    "4-775-2567-669": {
+      "narrator_ids": [
+        4,
+        775,
+        2567,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:141:6"
+      ]
+    },
+    "4-775-2585-2291-254": {
+      "narrator_ids": [
+        4,
+        775,
+        2585,
+        2291,
+        254
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:212:21"
+      ]
+    },
+    "775-1149": {
+      "narrator_ids": [
+        775,
+        1149
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:108:81",
+        "/books/al-kafi:4:3:232:3"
+      ]
+    },
+    "775-237": {
+      "narrator_ids": [
+        775,
+        237
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:32:2"
+      ]
+    },
+    "775-2567": {
+      "narrator_ids": [
+        775,
+        2567
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:141:6"
+      ]
+    },
+    "775-2585": {
+      "narrator_ids": [
+        775,
+        2585
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:212:21"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/775",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/775.json"
+  }
+}

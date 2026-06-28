@@ -1,0 +1,53 @@
+{
+  "id": 4292,
+  "type": "narrator",
+  "path": "/people/narrators/4292",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ عُمَرَ بْنِ بَزِيعٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:5:11"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "4292-215": {
+      "narrator_ids": [
+        4292,
+        215
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:5:11"
+      ]
+    },
+    "630-4292": {
+      "narrator_ids": [
+        630,
+        4292
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:5:11"
+      ]
+    },
+    "8-630-4292-215-810": {
+      "narrator_ids": [
+        8,
+        630,
+        4292,
+        215,
+        810
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:5:11"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4292",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4292.json"
+  }
+}

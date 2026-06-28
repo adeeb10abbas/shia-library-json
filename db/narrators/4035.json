@@ -1,0 +1,59 @@
+{
+  "id": 4035,
+  "type": "narrator",
+  "path": "/people/narrators/4035",
+  "titles": {
+    "ar": "قُثَمَ بْنِ كَعْبٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:203:5",
+    "/books/tahdhib-al-ahkam:5:22:6"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "124-4035": {
+      "narrator_ids": [
+        124,
+        4035
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:203:5",
+        "/books/tahdhib-al-ahkam:5:22:6"
+      ]
+    },
+    "20-297-101-124-4035": {
+      "narrator_ids": [
+        20,
+        297,
+        101,
+        124,
+        4035
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:203:5"
+      ]
+    },
+    "952-20-297-101-124-4035": {
+      "narrator_ids": [
+        952,
+        20,
+        297,
+        101,
+        124,
+        4035
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:5:22:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4035",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4035.json"
+  }
+}

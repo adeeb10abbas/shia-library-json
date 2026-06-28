@@ -1,0 +1,133 @@
+{
+  "id": 1068,
+  "type": "narrator",
+  "path": "/people/narrators/1068",
+  "titles": {
+    "ar": "جَعْفَرِ بْنِ إِبْرَاهِيمَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:56:19",
+    "/books/al-kafi:2:2:32:2",
+    "/books/al-kafi:3:4:48:5",
+    "/books/kitab-al-zuhd:2:1:4",
+    "/books/tahdhib-al-ahkam:3:26:44"
+  ],
+  "verseCount": 5,
+  "relations": {},
+  "subchains": {
+    "1048-1068": {
+      "narrator_ids": [
+        1048,
+        1068
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:56:19"
+      ]
+    },
+    "1068-312": {
+      "narrator_ids": [
+        1068,
+        312
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:48:5",
+        "/books/tahdhib-al-ahkam:3:26:44"
+      ]
+    },
+    "1068-669": {
+      "narrator_ids": [
+        1068,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:32:2"
+      ]
+    },
+    "19-24-22-705-1068-669": {
+      "narrator_ids": [
+        19,
+        24,
+        22,
+        705,
+        1068,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:32:2"
+      ]
+    },
+    "4-5-10-70-1068-312": {
+      "narrator_ids": [
+        4,
+        5,
+        10,
+        70,
+        1068,
+        312
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:48:5"
+      ]
+    },
+    "4-5-169-1048-1068": {
+      "narrator_ids": [
+        4,
+        5,
+        169,
+        1048,
+        1068
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:56:19"
+      ]
+    },
+    "42-1068": {
+      "narrator_ids": [
+        42,
+        1068
+      ],
+      "verse_paths": [
+        "/books/kitab-al-zuhd:2:1:4"
+      ]
+    },
+    "5-53-70-1068-312": {
+      "narrator_ids": [
+        5,
+        53,
+        70,
+        1068,
+        312
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:3:26:44"
+      ]
+    },
+    "70-1068": {
+      "narrator_ids": [
+        70,
+        1068
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:48:5",
+        "/books/tahdhib-al-ahkam:3:26:44"
+      ]
+    },
+    "705-1068": {
+      "narrator_ids": [
+        705,
+        1068
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:32:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1068",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1068.json"
+  }
+}

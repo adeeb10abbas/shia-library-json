@@ -1,0 +1,34 @@
+{
+  "id": 4231,
+  "type": "narrator",
+  "path": "/people/narrators/4231",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ رَاشِدٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:4:18:33",
+    "/books/tahdhib-al-ahkam:2:6:47"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "81-4231": {
+      "narrator_ids": [
+        81,
+        4231
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:18:33",
+        "/books/tahdhib-al-ahkam:2:6:47"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4231",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4231.json"
+  }
+}

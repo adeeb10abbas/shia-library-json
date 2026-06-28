@@ -1,0 +1,43 @@
+{
+  "id": 2679,
+  "type": "narrator",
+  "path": "/people/narrators/2679",
+  "titles": {
+    "ar": "الرَّبِيعِ الْمُسْلِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:99:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "15-2679": {
+      "narrator_ids": [
+        15,
+        2679
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:99:1"
+      ]
+    },
+    "6-5-15-2679": {
+      "narrator_ids": [
+        6,
+        5,
+        15,
+        2679
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:99:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2679",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2679.json"
+  }
+}

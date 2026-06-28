@@ -1,0 +1,54 @@
+{
+  "id": 1980,
+  "type": "narrator",
+  "path": "/people/narrators/1980",
+  "titles": {
+    "ar": "أَبِي الْحَسَنِ النَّهْدِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:3:38:2",
+    "/books/man-la-yahduruhu-al-faqih:2:3:54:18",
+    "/books/man-la-yahduruhu-al-faqih:2:3:54:47"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "373-1980": {
+      "narrator_ids": [
+        373,
+        1980
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:38:2"
+      ]
+    },
+    "4-373-1980": {
+      "narrator_ids": [
+        4,
+        373,
+        1980
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:38:2"
+      ]
+    },
+    "404-1980": {
+      "narrator_ids": [
+        404,
+        1980
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:2:3:54:18",
+        "/books/man-la-yahduruhu-al-faqih:2:3:54:47"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1980",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1980.json"
+  }
+}

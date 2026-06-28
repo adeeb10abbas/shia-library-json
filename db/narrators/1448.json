@@ -1,0 +1,76 @@
+{
+  "id": 1448,
+  "type": "narrator",
+  "path": "/people/narrators/1448",
+  "titles": {
+    "ar": "حَمَّادِ بْنِ وَاقِدٍ اللَّحَّامِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:97:9",
+    "/books/al-kafi:4:1:39:7"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "11-5-244-1448": {
+      "narrator_ids": [
+        11,
+        5,
+        244,
+        1448
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:97:9"
+      ]
+    },
+    "1448-669": {
+      "narrator_ids": [
+        1448,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:39:7"
+      ]
+    },
+    "244-1448": {
+      "narrator_ids": [
+        244,
+        1448
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:97:9"
+      ]
+    },
+    "6-5-8-10-85-1448-669": {
+      "narrator_ids": [
+        6,
+        5,
+        8,
+        10,
+        85,
+        1448,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:39:7"
+      ]
+    },
+    "85-1448": {
+      "narrator_ids": [
+        85,
+        1448
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:39:7"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1448",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1448.json"
+  }
+}

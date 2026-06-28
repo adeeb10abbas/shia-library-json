@@ -1,0 +1,53 @@
+{
+  "id": 3314,
+  "type": "narrator",
+  "path": "/people/narrators/3314",
+  "titles": {
+    "ar": "سَعْدِ بْنِ الْجَلَّابِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:3:146:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-67-73-3314-669": {
+      "narrator_ids": [
+        11,
+        67,
+        73,
+        3314,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:146:2"
+      ]
+    },
+    "3314-669": {
+      "narrator_ids": [
+        3314,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:146:2"
+      ]
+    },
+    "73-3314": {
+      "narrator_ids": [
+        73,
+        3314
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:146:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3314",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3314.json"
+  }
+}

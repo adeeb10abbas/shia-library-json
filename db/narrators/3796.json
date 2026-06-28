@@ -1,0 +1,54 @@
+{
+  "id": 3796,
+  "type": "narrator",
+  "path": "/people/narrators/3796",
+  "titles": {
+    "ar": "عَلِيِّ بْنِ عِمْرَانَ الشَّفَا"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:2:22:10"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-285-3796-192-3487-669": {
+      "narrator_ids": [
+        11,
+        285,
+        3796,
+        192,
+        3487,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:22:10"
+      ]
+    },
+    "285-3796": {
+      "narrator_ids": [
+        285,
+        3796
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:22:10"
+      ]
+    },
+    "3796-192": {
+      "narrator_ids": [
+        3796,
+        192
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:2:22:10"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3796",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3796.json"
+  }
+}

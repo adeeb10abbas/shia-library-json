@@ -1,0 +1,59 @@
+{
+  "id": 3418,
+  "type": "narrator",
+  "path": "/people/narrators/3418",
+  "titles": {
+    "ar": "صَابِرٍ مَوْلَى بَسَّامٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:4:21:26",
+    "/books/tahdhib-al-ahkam:2:8:119"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "11-15-699-178-3418": {
+      "narrator_ids": [
+        11,
+        15,
+        699,
+        178,
+        3418
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:2:8:119"
+      ]
+    },
+    "178-3418": {
+      "narrator_ids": [
+        178,
+        3418
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:21:26",
+        "/books/tahdhib-al-ahkam:2:8:119"
+      ]
+    },
+    "4-5-15-80-178-3418": {
+      "narrator_ids": [
+        4,
+        5,
+        15,
+        80,
+        178,
+        3418
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:21:26"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3418",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3418.json"
+  }
+}

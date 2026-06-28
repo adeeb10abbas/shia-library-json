@@ -1,0 +1,109 @@
+{
+  "id": 1111,
+  "type": "narrator",
+  "path": "/people/narrators/1111",
+  "titles": {
+    "ar": "سُلَيْمٍ مَوْلَى طِرْبَالٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:164:1",
+    "/books/al-kafi:5:3:131:2",
+    "/books/al-kafi:7:2:59:1",
+    "/books/man-la-yahduruhu-al-faqih:4:159:3",
+    "/books/tahdhib-al-ahkam:9:31:28"
+  ],
+  "verseCount": 5,
+  "relations": {},
+  "subchains": {
+    "1111-40": {
+      "narrator_ids": [
+        1111,
+        40
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:131:2",
+        "/books/al-kafi:7:2:59:1",
+        "/books/man-la-yahduruhu-al-faqih:4:159:3",
+        "/books/tahdhib-al-ahkam:9:31:28"
+      ]
+    },
+    "21-82-1111-40-669": {
+      "narrator_ids": [
+        21,
+        82,
+        1111,
+        40,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:31:28"
+      ]
+    },
+    "6-5-21-82-1111-40-669": {
+      "narrator_ids": [
+        6,
+        5,
+        21,
+        82,
+        1111,
+        40,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:131:2",
+        "/books/al-kafi:7:2:59:1"
+      ]
+    },
+    "6-8-68-1111": {
+      "narrator_ids": [
+        6,
+        8,
+        68,
+        1111
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:164:1"
+      ]
+    },
+    "68-1111": {
+      "narrator_ids": [
+        68,
+        1111
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:164:1"
+      ]
+    },
+    "82-1111": {
+      "narrator_ids": [
+        82,
+        1111
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:131:2",
+        "/books/al-kafi:7:2:59:1",
+        "/books/man-la-yahduruhu-al-faqih:4:159:3",
+        "/books/tahdhib-al-ahkam:9:31:28"
+      ]
+    },
+    "82-1111-40-669": {
+      "narrator_ids": [
+        82,
+        1111,
+        40,
+        669
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:4:159:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1111",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1111.json"
+  }
+}

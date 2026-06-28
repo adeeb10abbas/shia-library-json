@@ -1,0 +1,71 @@
+{
+  "id": 4085,
+  "type": "narrator",
+  "path": "/people/narrators/4085",
+  "titles": {
+    "ar": "لَيْثِ بْنِ أَبِي سُلَيْمٍ",
+    "en": "Layth ibn Abi Sulaym"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:3:6:1",
+    "/books/kamil-al-ziyarat:2:8:16"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "2758-4085": {
+      "narrator_ids": [
+        2758,
+        4085
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:3:6:1"
+      ]
+    },
+    "4005-4085": {
+      "narrator_ids": [
+        4005,
+        4085
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:8:16"
+      ]
+    },
+    "6-5-15-2758-4085": {
+      "narrator_ids": [
+        6,
+        5,
+        15,
+        2758,
+        4085
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:3:6:1"
+      ]
+    },
+    "613-234-1538-377-1009-677-15-4005-4085": {
+      "narrator_ids": [
+        613,
+        234,
+        1538,
+        377,
+        1009,
+        677,
+        15,
+        4005,
+        4085
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:8:16"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4085",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4085.json"
+  }
+}

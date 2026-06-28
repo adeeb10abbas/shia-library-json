@@ -1,0 +1,52 @@
+{
+  "id": 1796,
+  "type": "narrator",
+  "path": "/people/narrators/1796",
+  "titles": {
+    "ar": "إِبْرَاهِيمَ الْهَمَذَانِيِّ يَرْفَعُهُ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:108:36"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1796-669": {
+      "narrator_ids": [
+        1796,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:108:36"
+      ]
+    },
+    "5-1796": {
+      "narrator_ids": [
+        5,
+        1796
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:108:36"
+      ]
+    },
+    "6-5-1796-669": {
+      "narrator_ids": [
+        6,
+        5,
+        1796,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:108:36"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1796",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1796.json"
+  }
+}

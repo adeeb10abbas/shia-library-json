@@ -1,0 +1,54 @@
+{
+  "id": 2096,
+  "type": "narrator",
+  "path": "/people/narrators/2096",
+  "titles": {
+    "ar": "أَبِي زَيْدٍ الْحَلَّالِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:13:12"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "20-25-227-69-2096-3475": {
+      "narrator_ids": [
+        20,
+        25,
+        227,
+        69,
+        2096,
+        3475
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:13:12"
+      ]
+    },
+    "2096-3475": {
+      "narrator_ids": [
+        2096,
+        3475
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:13:12"
+      ]
+    },
+    "69-2096": {
+      "narrator_ids": [
+        69,
+        2096
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:13:12"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2096",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2096.json"
+  }
+}

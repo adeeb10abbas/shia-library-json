@@ -1,0 +1,55 @@
+{
+  "id": 4511,
+  "type": "narrator",
+  "path": "/people/narrators/4511",
+  "titles": {
+    "ar": "هُوَ مُحْرِمٌ قَدْ كَشَفَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:81:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1313-4511": {
+      "narrator_ids": [
+        1313,
+        4511
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:81:4"
+      ]
+    },
+    "4511-3452": {
+      "narrator_ids": [
+        4511,
+        3452
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:81:4"
+      ]
+    },
+    "6-5-21-261-1313-4511-3452": {
+      "narrator_ids": [
+        6,
+        5,
+        21,
+        261,
+        1313,
+        4511,
+        3452
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:81:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4511",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4511.json"
+  }
+}

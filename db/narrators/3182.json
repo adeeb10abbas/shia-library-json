@@ -1,0 +1,53 @@
+{
+  "id": 3182,
+  "type": "narrator",
+  "path": "/people/narrators/3182",
+  "titles": {
+    "ar": "ذَكَرَ الطَّافِيَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:4:11:18"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3-2-669-3182-4086": {
+      "narrator_ids": [
+        3,
+        2,
+        669,
+        3182,
+        4086
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:4:11:18"
+      ]
+    },
+    "3182-4086": {
+      "narrator_ids": [
+        3182,
+        4086
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:4:11:18"
+      ]
+    },
+    "669-3182": {
+      "narrator_ids": [
+        669,
+        3182
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:4:11:18"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3182",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3182.json"
+  }
+}

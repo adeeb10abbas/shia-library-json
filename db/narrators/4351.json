@@ -1,0 +1,54 @@
+{
+  "id": 4351,
+  "type": "narrator",
+  "path": "/people/narrators/4351",
+  "titles": {
+    "ar": "مُدْرِكِ بْنِ أَبِي الْهَزْهَازِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:1:39:6"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "307-4351": {
+      "narrator_ids": [
+        307,
+        4351
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:39:6"
+      ]
+    },
+    "4-13-53-307-4351-669": {
+      "narrator_ids": [
+        4,
+        13,
+        53,
+        307,
+        4351,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:39:6"
+      ]
+    },
+    "4351-669": {
+      "narrator_ids": [
+        4351,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:39:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4351",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4351.json"
+  }
+}

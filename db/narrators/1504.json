@@ -1,0 +1,174 @@
+{
+  "id": 1504,
+  "type": "narrator",
+  "path": "/people/narrators/1504",
+  "titles": {
+    "ar": "ضُرَيْسِ بْنِ عَبْدِ الْمَلِكِ"
+  },
+  "versePaths": [
+    "/books/al-istibsar:3:1:2",
+    "/books/al-kafi:4:1:41:6",
+    "/books/al-kafi:5:3:40:1",
+    "/books/man-la-yahduruhu-al-faqih:3:3:42:22",
+    "/books/tahdhib-al-ahkam:7:22:19",
+    "/books/tahdhib-al-ahkam:7:22:25",
+    "/books/tahdhib-al-ahkam:7:22:5"
+  ],
+  "verseCount": 7,
+  "relations": {},
+  "subchains": {
+    "11-1003-164-1504": {
+      "narrator_ids": [
+        11,
+        1003,
+        164,
+        1504
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:3:1:2",
+        "/books/tahdhib-al-ahkam:7:22:5"
+      ]
+    },
+    "137-1504": {
+      "narrator_ids": [
+        137,
+        1504
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:22:25"
+      ]
+    },
+    "1504-669": {
+      "narrator_ids": [
+        1504,
+        669
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:3:3:42:22",
+        "/books/tahdhib-al-ahkam:7:22:25"
+      ]
+    },
+    "1504-9": {
+      "narrator_ids": [
+        1504,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:41:6"
+      ]
+    },
+    "164-1504": {
+      "narrator_ids": [
+        164,
+        1504
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:3:1:2",
+        "/books/tahdhib-al-ahkam:7:22:5"
+      ]
+    },
+    "21-53-137-1504-669": {
+      "narrator_ids": [
+        21,
+        53,
+        137,
+        1504,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:22:25"
+      ]
+    },
+    "497-1504": {
+      "narrator_ids": [
+        497,
+        1504
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:40:1"
+      ]
+    },
+    "5-22-56-1504-9": {
+      "narrator_ids": [
+        5,
+        22,
+        56,
+        1504,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:41:6"
+      ]
+    },
+    "5-644-292-497-1504": {
+      "narrator_ids": [
+        5,
+        644,
+        292,
+        497,
+        1504
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:40:1"
+      ]
+    },
+    "52-1504": {
+      "narrator_ids": [
+        52,
+        1504
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:22:19"
+      ]
+    },
+    "53-66-1504-669": {
+      "narrator_ids": [
+        53,
+        66,
+        1504,
+        669
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:3:3:42:22"
+      ]
+    },
+    "56-1504": {
+      "narrator_ids": [
+        56,
+        1504
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:41:6"
+      ]
+    },
+    "645-67-53-52-1504": {
+      "narrator_ids": [
+        645,
+        67,
+        53,
+        52,
+        1504
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:22:19"
+      ]
+    },
+    "66-1504": {
+      "narrator_ids": [
+        66,
+        1504
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:3:3:42:22"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1504",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1504.json"
+  }
+}

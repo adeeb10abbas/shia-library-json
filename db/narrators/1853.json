@@ -1,0 +1,56 @@
+{
+  "id": 1853,
+  "type": "narrator",
+  "path": "/people/narrators/1853",
+  "titles": {
+    "ar": "ابْنِ أَبِي سَعِيدٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:65:8"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1853-148": {
+      "narrator_ids": [
+        1853,
+        148
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:65:8"
+      ]
+    },
+    "4-5-21-82-57-1853-148-669": {
+      "narrator_ids": [
+        4,
+        5,
+        21,
+        82,
+        57,
+        1853,
+        148,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:65:8"
+      ]
+    },
+    "57-1853": {
+      "narrator_ids": [
+        57,
+        1853
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:65:8"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1853",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1853.json"
+  }
+}

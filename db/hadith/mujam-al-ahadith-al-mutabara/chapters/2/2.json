@@ -1,0 +1,254 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "mujam-al-ahadith-al-mutabara",
+  "chapterPath": "/books/mujam-al-ahadith-al-mutabara:2:2",
+  "chapter": {
+    "path": "/books/mujam-al-ahadith-al-mutabara:2:2",
+    "titles": {
+      "en": "Everything has a Ruling in the Book and the Sunna"
+    }
+  },
+  "count": 2,
+  "records": [
+    {
+      "id": "mujam-al-ahadith-al-mutabara:2:2:1",
+      "type": "hadith",
+      "book": {
+        "slug": "mujam-al-ahadith-al-mutabara",
+        "titles": {
+          "ar": "معجم الأحاديث المعتبرة",
+          "en": "Mu'jam al-Ahadith al-Mu'tabara"
+        },
+        "author": {
+          "en": "Muhammad Asif al-Muhsini"
+        }
+      },
+      "path": {
+        "source": "/books/mujam-al-ahadith-al-mutabara:2:2:1",
+        "parts": [
+          2,
+          2,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 2,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/mujam-al-ahadith-al-mutabara:2:2",
+        "titles": {
+          "en": "Everything has a Ruling in the Book and the Sunna"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": سمعته يقول: ما من شئ إلا وفيه كتاب أو سنة"
+        ],
+        "text": ": سمعته يقول: ما من شئ إلا وفيه كتاب أو سنة"
+      },
+      "translations": {
+        "en.ammaar-muslim": {
+          "segments": [
+            "1. [1/-] al-Kafi: Ali from Muhammad b. Isa from Yunus from Hammad from Abi Abdillah عليه السلام, he (Hammad) said: I heard him saying: there is nothing except there is about it [a ruling in the] Book or Sunna."
+          ],
+          "text": "1. [1/-] al-Kafi: Ali from Muhammad b. Isa from Yunus from Hammad from Abi Abdillah عليه السلام, he (Hammad) said: I heard him saying: there is nothing except there is about it [a ruling in the] Book or Sunna."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "[-/1] الكافي: علي، عن محمد بن عيسى، عن يونس، عن حماد، عن أبي عبدالله عليه السلام قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "[-/1] الكافي: علي،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "محمد بن عيسى،",
+            "path": "/people/narrators/27"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "يونس،",
+            "path": "/people/narrators/26"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "حماد،",
+            "path": "/people/narrators/23"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "أبي عبدالله عليه السلام قال"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/27",
+          "/people/narrators/26",
+          "/people/narrators/23"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/mujam-al-ahadith-al-mutabara:1:13:1",
+          "/books/mujam-al-ahadith-al-mutabara:1:14:4",
+          "/books/mujam-al-ahadith-al-mutabara:3:86:1"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/mujam-al-ahadith-al-mutabara:2:2:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/mujam-al-ahadith-al-mutabara/2/2/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/9/2/2/1",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "mujam-al-ahadith-al-mutabara:2:2:2",
+      "type": "hadith",
+      "book": {
+        "slug": "mujam-al-ahadith-al-mutabara",
+        "titles": {
+          "ar": "معجم الأحاديث المعتبرة",
+          "en": "Mu'jam al-Ahadith al-Mu'tabara"
+        },
+        "author": {
+          "en": "Muhammad Asif al-Muhsini"
+        }
+      },
+      "path": {
+        "source": "/books/mujam-al-ahadith-al-mutabara:2:2:2",
+        "parts": [
+          2,
+          2,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 2,
+        "chapter": 2
+      },
+      "chapter": {
+        "path": "/books/mujam-al-ahadith-al-mutabara:2:2",
+        "titles": {
+          "en": "Everything has a Ruling in the Book and the Sunna"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": قلت له: أكل شئ في كتاب الله وسنة نبيه صلى اليه عليه وآله؟ أو تقولون فيه؟ قال: بل كل شئ في كتاب الله وسنة نبيه صلى الله عليه وآله"
+        ],
+        "text": ": قلت له: أكل شئ في كتاب الله وسنة نبيه صلى اليه عليه وآله؟ أو تقولون فيه؟ قال: بل كل شئ في كتاب الله وسنة نبيه صلى الله عليه وآله"
+      },
+      "translations": {
+        "en.ammaar-muslim": {
+          "segments": [
+            "2. [2/-] al-Kafi: A number of our companions from Ahmad b. Muhammad b. Khalid from Ismail b. Mihran from Sayf b. ‘Amira from Abi al-Maghra from Sama’a from Abi al-Hasan Musa عليه السلام, he said: I said to him: is everything in the book of Allāh and the Sunna of his prophet صلى الله عليه وآله or do you have a say in it? he said: rather everything is in the book of Allāh and the Sunna of the prophet صلى الله عليه وآله"
+          ],
+          "text": "2. [2/-] al-Kafi: A number of our companions from Ahmad b. Muhammad b. Khalid from Ismail b. Mihran from Sayf b. ‘Amira from Abi al-Maghra from Sama’a from Abi al-Hasan Musa عليه السلام, he said: I said to him: is everything in the book of Allāh and the Sunna of his prophet صلى الله عليه وآله or do you have a say in it? he said: rather everything is in the book of Allāh and the Sunna of the prophet صلى الله عليه وآله"
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "[-/2] الكافي: عدة من أصحابنا، عن أحمد بن محمد بن خالد، عن إسماعيل بن مهران، عن سيف بن عميرة، عن أبي المغرا، عن سماعة، عن أبي الحسن موسى عليه السلام قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "[-/2] الكافي: عدة من أصحابنا،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أحمد بن محمد بن خالد،",
+            "path": "/people/narrators/12"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "إسماعيل بن مهران،",
+            "path": "/people/narrators/119"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "سيف بن عميرة،",
+            "path": "/people/narrators/80"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "plain",
+            "text": "أبي المغرا،"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "سماعة،",
+            "path": "/people/narrators/48"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي الحسن موسى عليه السلام قال",
+            "path": "/people/narrators/206"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/12",
+          "/people/narrators/119",
+          "/people/narrators/80",
+          "/people/narrators/48",
+          "/people/narrators/206"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/mujam-al-ahadith-al-mutabara:1:13:3"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/mujam-al-ahadith-al-mutabara:2:2:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/mujam-al-ahadith-al-mutabara/2/2/2.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/9/2/2/2",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

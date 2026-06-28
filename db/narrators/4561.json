@@ -1,0 +1,55 @@
+{
+  "id": 4561,
+  "type": "narrator",
+  "path": "/people/narrators/4561",
+  "titles": {
+    "ar": "يَحْيَى بْنِ عَبَّادٍ الْمَكِّيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:3:49:1",
+    "/books/man-la-yahduruhu-al-faqih:1:25:7"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "174-4561": {
+      "narrator_ids": [
+        174,
+        4561
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:49:1"
+      ]
+    },
+    "4-13-10-130-174-4561": {
+      "narrator_ids": [
+        4,
+        13,
+        10,
+        130,
+        174,
+        4561
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:49:1"
+      ]
+    },
+    "404-4561": {
+      "narrator_ids": [
+        404,
+        4561
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:1:25:7"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4561",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4561.json"
+  }
+}

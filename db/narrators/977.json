@@ -1,0 +1,78 @@
+{
+  "id": 977,
+  "type": "narrator",
+  "path": "/people/narrators/977",
+  "titles": {
+    "ar": "أَبِي إِسْحَاقَ الْخُرَاسَانِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:139:21",
+    "/books/al-kafi:2:1:170:2",
+    "/books/al-kafi:2:1:99:7"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "4-13-4160-977-3885-669": {
+      "narrator_ids": [
+        4,
+        13,
+        4160,
+        977,
+        3885,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:99:7"
+      ]
+    },
+    "4160-977": {
+      "narrator_ids": [
+        4160,
+        977
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:99:7"
+      ]
+    },
+    "6-8-68-977": {
+      "narrator_ids": [
+        6,
+        8,
+        68,
+        977
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:139:21",
+        "/books/al-kafi:2:1:170:2"
+      ]
+    },
+    "68-977": {
+      "narrator_ids": [
+        68,
+        977
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:139:21",
+        "/books/al-kafi:2:1:170:2"
+      ]
+    },
+    "977-3885": {
+      "narrator_ids": [
+        977,
+        3885
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:99:7"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/977",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/977.json"
+  }
+}

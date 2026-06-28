@@ -1,0 +1,82 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "maani-al-akhbar",
+  "chapterPath": "/books/maani-al-akhbar:251",
+  "chapter": {
+    "path": "/books/maani-al-akhbar:251",
+    "titles": {
+      "en": "The meaning of dibqa"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "maani-al-akhbar:251:1",
+      "type": "hadith",
+      "book": {
+        "slug": "maani-al-akhbar",
+        "titles": {
+          "ar": "معاني الأخبار",
+          "en": "Ma'ani al-Akhbar"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/maani-al-akhbar:251:1",
+        "parts": [
+          251,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 251,
+        "book": 1
+      },
+      "chapter": {
+        "path": "/books/maani-al-akhbar:251",
+        "titles": {
+          "en": "The meaning of dibqa"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا محمد بن يحيى العطار، عن أحمد بن محمد، عن إبراهيم ابن إسحاق، عن عبد الله بن أحمد، عن علي بن جعفر بن الزبير، عن جعفر بن إسماعيل، عن رجل، عن أبي عبد الله عليه السلام قال: سألته كم يحمي المريض؟ فقال: دبقا. فلم أدر كم دبقا فسألته فقال: عشرة أيام. وفي حديث آخر: أحد عشر دبقا و \" دبق صباح \" بكلام الرومي أعني أحد عشر صباحا."
+        ],
+        "text": ": حدثنا محمد بن يحيى العطار، عن أحمد بن محمد، عن إبراهيم ابن إسحاق، عن عبد الله بن أحمد، عن علي بن جعفر بن الزبير، عن جعفر بن إسماعيل، عن رجل، عن أبي عبد الله عليه السلام قال: سألته كم يحمي المريض؟ فقال: دبقا. فلم أدر كم دبقا فسألته فقال: عشرة أيام. وفي حديث آخر: أحد عشر دبقا و \" دبق صباح \" بكلام الرومي أعني أحد عشر صباحا."
+      },
+      "translations": {
+        "en.basel-kadem": {
+          "segments": [
+            "1.\tMy father, may Allah grant him mercy, said: We were told by Muhammed bin Yahya al-‘Attar, from Ahmad bin Muhammed, from Ibrahim ibn Ishaq, from Abdullah bin Ahmad, from Ali bin Ja’far bin Zubair, from Ja’far bin Isma’eel, from a man, from Abu Abdillah, peace be upon him, that he said: I asked him how long an ill person has fever, to which he said: Dibqa. I did not know how long dibqa is, so I asked him, and he said: Ten days. In another narration: Eleven dibqas. Dibq means morning in the speech of the Roman, by which I mean eleven mornings."
+          ],
+          "text": "1.\tMy father, may Allah grant him mercy, said: We were told by Muhammed bin Yahya al-‘Attar, from Ahmad bin Muhammed, from Ibrahim ibn Ishaq, from Abdullah bin Ahmad, from Ali bin Ja’far bin Zubair, from Ja’far bin Isma’eel, from a man, from Abu Abdillah, peace be upon him, that he said: I asked him how long an ill person has fever, to which he said: Dibqa. I did not know how long dibqa is, so I asked him, and he said: Ten days. In another narration: Eleven dibqas. Dibq means morning in the speech of the Roman, by which I mean eleven mornings."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "أبي - رحمه الله - قال",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "أبي - رحمه الله - قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/maani-al-akhbar:251:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/maani-al-akhbar/251/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/28/1/253/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": 2212,
+  "type": "narrator",
+  "path": "/people/narrators/2212",
+  "titles": {
+    "ar": "أَبِي مُحَمَّدٍ عَبْدِ اللَّهِ السَّرَّاجِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:47:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "15-2212": {
+      "narrator_ids": [
+        15,
+        2212
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:47:4"
+      ]
+    },
+    "2212-312": {
+      "narrator_ids": [
+        2212,
+        312
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:47:4"
+      ]
+    },
+    "4-13-15-2212-312": {
+      "narrator_ids": [
+        4,
+        13,
+        15,
+        2212,
+        312
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:47:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2212",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2212.json"
+  }
+}

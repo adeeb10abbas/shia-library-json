@@ -1,0 +1,54 @@
+{
+  "id": 2186,
+  "type": "narrator",
+  "path": "/people/narrators/2186",
+  "titles": {
+    "ar": "أَبِي عِمْرَانَ الْخَرَّاطِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:2:43:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2186-1019": {
+      "narrator_ids": [
+        2186,
+        1019
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:43:1"
+      ]
+    },
+    "4301-2186": {
+      "narrator_ids": [
+        4301,
+        2186
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:43:1"
+      ]
+    },
+    "6-5-4301-2186-1019-669": {
+      "narrator_ids": [
+        6,
+        5,
+        4301,
+        2186,
+        1019,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:43:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2186",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2186.json"
+  }
+}

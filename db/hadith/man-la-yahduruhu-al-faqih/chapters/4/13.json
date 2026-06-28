@@ -1,0 +1,102 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "man-la-yahduruhu-al-faqih",
+  "chapterPath": "/books/man-la-yahduruhu-al-faqih:4:13",
+  "chapter": {
+    "path": "/books/man-la-yahduruhu-al-faqih:4:13",
+    "titles": {
+      "en": "Chapter on the Implementation of Legal Punishments on the Mute, the Deaf, and the Blind"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "man-la-yahduruhu-al-faqih:4:13:1",
+      "type": "hadith",
+      "book": {
+        "slug": "man-la-yahduruhu-al-faqih",
+        "titles": {
+          "ar": "من لا يحضره الفقيه",
+          "en": "Man La Yahduruhu al-Faqih"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/man-la-yahduruhu-al-faqih:4:13:1",
+        "parts": [
+          4,
+          13,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 13,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/man-la-yahduruhu-al-faqih:4:13",
+        "titles": {
+          "en": "Chapter on the Implementation of Legal Punishments on the Mute, the Deaf, and the Blind"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": سُئِلَ أَحَدُهُمَا عَلَيْهِمَا اَلسَّلاَمُ عَنْ حَدِّ اَلْأَخْرَسِ وَ اَلْأَصَمِّ وَ اَلْأَعْمَى قَالَ \"عَلَيْهِمُ اَلْحُدُودُ إِذَا كَانُوا يَعْقِلُونَ مَا يَأْتُونَ\"."
+        ],
+        "text": ": سُئِلَ أَحَدُهُمَا عَلَيْهِمَا اَلسَّلاَمُ عَنْ حَدِّ اَلْأَخْرَسِ وَ اَلْأَصَمِّ وَ اَلْأَعْمَى قَالَ \"عَلَيْهِمُ اَلْحُدُودُ إِذَا كَانُوا يَعْقِلُونَ مَا يَأْتُونَ\"."
+      },
+      "translations": {
+        "en.bab-ul-qaim-publications": {
+          "segments": [
+            "Hadith.5131 - Yunus narrated from Ishaq ibn Ammar who said that one of the two Imams (peace be upon them) was asked about the legal punishments (hudud) for a mute, a deaf person, and a blind person.\nImam (as) said: \"The legal punishments apply to them if they comprehend what they are doing.\""
+          ],
+          "text": "Hadith.5131 - Yunus narrated from Ishaq ibn Ammar who said that one of the two Imams (peace be upon them) was asked about the legal punishments (hudud) for a mute, a deaf person, and a blind person.\nImam (as) said: \"The legal punishments apply to them if they comprehend what they are doing.\""
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "رَوَى يُونُسُ عَنْ إِسْحَاقَ بْنِ عَمَّارٍ قَالَ:",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "رَوَى "
+          },
+          {
+            "kind": "narrator",
+            "text": "يُونُسُ",
+            "path": "/people/narrators/26"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "إِسْحَاقَ بْنِ عَمَّارٍ",
+            "path": "/people/narrators/44"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ:"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/26",
+          "/people/narrators/44"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/man-la-yahduruhu-al-faqih:4:13:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/man-la-yahduruhu-al-faqih/4/13/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/34/1/13/5131",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

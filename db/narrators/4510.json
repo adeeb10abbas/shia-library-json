@@ -1,0 +1,55 @@
+{
+  "id": 4510,
+  "type": "narrator",
+  "path": "/people/narrators/4510",
+  "titles": {
+    "ar": "هُوَ فَرْقَدٌ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:46:29"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "4-13-22-468-4510-1293-669": {
+      "narrator_ids": [
+        4,
+        13,
+        22,
+        468,
+        4510,
+        1293,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:46:29"
+      ]
+    },
+    "4510-1293": {
+      "narrator_ids": [
+        4510,
+        1293
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:46:29"
+      ]
+    },
+    "468-4510": {
+      "narrator_ids": [
+        468,
+        4510
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:46:29"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4510",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4510.json"
+  }
+}

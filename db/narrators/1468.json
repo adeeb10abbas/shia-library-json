@@ -1,0 +1,60 @@
+{
+  "id": 1468,
+  "type": "narrator",
+  "path": "/people/narrators/1468",
+  "titles": {
+    "ar": "رَجُلٍ مِنْ أَهْلِ سَابَاطَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:5:1:15",
+    "/books/al-kafi:4:1:21:7"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "133-78-12-2-198-1468": {
+      "narrator_ids": [
+        133,
+        78,
+        12,
+        2,
+        198,
+        1468
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:21:7"
+      ]
+    },
+    "198-1468": {
+      "narrator_ids": [
+        198,
+        1468
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:5:1:15",
+        "/books/al-kafi:4:1:21:7"
+      ]
+    },
+    "333-78-12-2-198-1468": {
+      "narrator_ids": [
+        333,
+        78,
+        12,
+        2,
+        198,
+        1468
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:5:1:15"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1468",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1468.json"
+  }
+}

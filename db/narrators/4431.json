@@ -1,0 +1,52 @@
+{
+  "id": 4431,
+  "type": "narrator",
+  "path": "/people/narrators/4431",
+  "titles": {
+    "ar": "مُوسَى الصَّيْقَلِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:71:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "219-67-4431-221": {
+      "narrator_ids": [
+        219,
+        67,
+        4431,
+        221
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:71:4"
+      ]
+    },
+    "4431-221": {
+      "narrator_ids": [
+        4431,
+        221
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:71:4"
+      ]
+    },
+    "67-4431": {
+      "narrator_ids": [
+        67,
+        4431
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:71:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4431",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4431.json"
+  }
+}

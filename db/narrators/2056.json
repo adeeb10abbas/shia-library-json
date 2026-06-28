@@ -1,0 +1,56 @@
+{
+  "id": 2056,
+  "type": "narrator",
+  "path": "/people/narrators/2056",
+  "titles": {
+    "ar": "أَبِي جَعْفَرٍ الْفَزَارِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:62:1",
+    "/books/tahdhib-al-ahkam:7:1:55"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "179-2056": {
+      "narrator_ids": [
+        179,
+        2056
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:62:1",
+        "/books/tahdhib-al-ahkam:7:1:55"
+      ]
+    },
+    "19-24-179-2056": {
+      "narrator_ids": [
+        19,
+        24,
+        179,
+        2056
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:62:1"
+      ]
+    },
+    "952-24-179-2056": {
+      "narrator_ids": [
+        952,
+        24,
+        179,
+        2056
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:1:55"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2056",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2056.json"
+  }
+}

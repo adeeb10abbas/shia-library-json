@@ -1,0 +1,58 @@
+{
+  "id": 4557,
+  "type": "narrator",
+  "path": "/people/narrators/4557",
+  "titles": {
+    "ar": "يَحْيَى بْنِ سَابُورٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:3:13:6",
+    "/books/maani-al-akhbar:246:2"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "109-4557": {
+      "narrator_ids": [
+        109,
+        4557
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:13:6",
+        "/books/maani-al-akhbar:246:2"
+      ]
+    },
+    "4-5-15-109-4557": {
+      "narrator_ids": [
+        4,
+        5,
+        15,
+        109,
+        4557
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:13:6"
+      ]
+    },
+    "4521-81-69-109-4557": {
+      "narrator_ids": [
+        4521,
+        81,
+        69,
+        109,
+        4557
+      ],
+      "verse_paths": [
+        "/books/maani-al-akhbar:246:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4557",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4557.json"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": 3160,
+  "type": "narrator",
+  "path": "/people/narrators/3160",
+  "titles": {
+    "ar": "دَاوُدَ بْنِ أَبِي سُلَيْمَانَ الْجَصَّاصِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:28:16"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-917-3160-1157": {
+      "narrator_ids": [
+        11,
+        917,
+        3160,
+        1157
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:28:16"
+      ]
+    },
+    "3160-1157": {
+      "narrator_ids": [
+        3160,
+        1157
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:28:16"
+      ]
+    },
+    "917-3160": {
+      "narrator_ids": [
+        917,
+        3160
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:28:16"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3160",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3160.json"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "sifat-al-shia",
+  "chapterPath": "/books/sifat-al-shia:11",
+  "chapter": {
+    "path": "/books/sifat-al-shia:11",
+    "titles": {
+      "en": "Piety through abstinence and devotion"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "sifat-al-shia:11:1",
+      "type": "hadith",
+      "book": {
+        "slug": "sifat-al-shia",
+        "titles": {
+          "ar": "صفات الشيعة",
+          "en": "Sifat al-Shi'a"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/sifat-al-shia:11:1",
+        "parts": [
+          11,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 11,
+        "book": 1
+      },
+      "chapter": {
+        "path": "/books/sifat-al-shia:11",
+        "titles": {
+          "en": "Piety through abstinence and devotion"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " وَ اَللَّهِ مَا شِيعَةُ عَلِيٍّ ص إِلاَّ مَنْ عَفَّ بَطْنُهُ وَ فَرْجُهُ وَ عَمِلَ لِخَالِقِهِ وَ رَجَا ثَوَابَهُ وَ خَافَ عِقَابَهُ."
+        ],
+        "text": "وَ اَللَّهِ مَا شِيعَةُ عَلِيٍّ ص إِلاَّ مَنْ عَفَّ بَطْنُهُ وَ فَرْجُهُ وَ عَمِلَ لِخَالِقِهِ وَ رَجَا ثَوَابَهُ وَ خَافَ عِقَابَهُ."
+      },
+      "translations": {
+        "en.badr-shahin": {
+          "segments": [
+            "Mohammed bin Musa bin al-Mutawakkil, Allah may have mercy upon him, narrated to me from Ahmed bin Abdullah… that Abu Abdullah (a) said: By Allah I swear, the Shia of Ali are only those who abstain from the food and the sexual appetites, work sincerely for the Creator, hope for gaining His reward, and fear from His punishment."
+          ],
+          "text": "Mohammed bin Musa bin al-Mutawakkil, Allah may have mercy upon him, narrated to me from Ahmed bin Abdullah… that Abu Abdullah (a) said: By Allah I swear, the Shia of Ali are only those who abstain from the food and the sexual appetites, work sincerely for the Creator, hope for gaining His reward, and fear from His punishment."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "حَدَّثَنِي مُحَمَّدُ بْنُ مُوسَى اَلْمُتَوَكِّلُ رَحِمَهُ اَللَّهُ عَنْ أَحْمَدَ بْنِ عَبْدِ اَللَّهِ عَنْ أَبِي عَبْدِ اَللَّهِ ع يَقُولُ",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "حَدَّثَنِي مُحَمَّدُ بْنُ مُوسَى اَلْمُتَوَكِّلُ رَحِمَهُ اَللَّهُ"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ عَبْدِ اَللَّهِ",
+            "path": "/people/narrators/503"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اَللَّهِ ع",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " يَقُولُ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/503",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/sifat-al-shia:11:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/sifat-al-shia/11/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/26/1/12/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,445 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:4:1:3",
+  "chapter": {
+    "path": "/books/al-kafi:4:1:3",
+    "titles": {
+      "ar": "بَابُ فَضْلِ صَدَقَةِ السِّرِّ",
+      "en": "Chapter 50 – Merit of the secretive charity"
+    }
+  },
+  "count": 3,
+  "records": [
+    {
+      "id": "al-kafi:4:1:3:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:4:1:3:1",
+        "parts": [
+          4,
+          1,
+          3,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 1,
+        "chapter": 3,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:4:1:3",
+        "titles": {
+          "ar": "بَابُ فَضْلِ صَدَقَةِ السِّرِّ",
+          "en": "Chapter 50 – Merit of the secretive charity"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) صَدَقَةُ السِّرِّ تُطْفِئُ غَضَبَ الرَّبِّ ."
+        ],
+        "text": "قَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) صَدَقَةُ السِّرِّ تُطْفِئُ غَضَبَ الرَّبِّ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Sahl Bin Ziyad, from Ja’far Bin Muhammad Al Ashary, from Ibn Al Qadah, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup>, from his<sup>asws</sup> father<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup> said: ‘The secretive charity extinguishes the Anger of the Lord<sup>azwj</sup>’."
+          ],
+          "text": "A number of our companions, from Sahl Bin Ziyad, from Ja’far Bin Muhammad Al Ashary, from Ibn Al Qadah,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup>, from his<sup>asws</sup> father<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup> said: ‘The secretive charity extinguishes the Anger of the Lord<sup>azwj</sup>’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. A number of our people have narrated from Sahl ibn Ziyad from Ja’far ibn Muhammad al-Ash’ariy from ibn al-Qaddah who has said the following: “Abu ‘ Abd Allah, ‘Alayhi al-Salam, has said that the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, has said, ’Giving charity out of public sight extinguishes the anger of the Lord.’” "
+          ],
+          "text": "1. A number of our people have narrated from Sahl ibn Ziyad from Ja’far ibn Muhammad al-Ash’ariy from ibn al-Qaddah who has said the following: “Abu ‘ Abd Allah, ‘Alayhi al-Salam, has said that the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, has said, ’Giving charity out of public sight extinguishes the anger of the Lord.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (6/131)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (6/131)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ سَهْلِ بْنِ زِيَادٍ عَنْ جَعْفَرِ بْنِ مُحَمَّدٍ الْأَشْعَرِيِّ عَنِ ابْنِ الْقَدَّاحِ عَنْ أَبِي عَبْدِ اللَّهِ عَنْ أَبِيهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَهْلِ بْنِ زِيَادٍ",
+            "path": "/people/narrators/8"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "جَعْفَرِ بْنِ مُحَمَّدٍ الْأَشْعَرِيِّ",
+            "path": "/people/narrators/110"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ الْقَدَّاحِ",
+            "path": "/people/narrators/114"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ ( عليه السلام )",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/8",
+          "/people/narrators/110",
+          "/people/narrators/114",
+          "/people/narrators/669",
+          "/people/narrators/2"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:4:1:3:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/4/1/3/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:4:1:3:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:4:1:3:2",
+        "parts": [
+          4,
+          1,
+          3,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 1,
+        "chapter": 3,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:4:1:3",
+        "titles": {
+          "ar": "بَابُ فَضْلِ صَدَقَةِ السِّرِّ",
+          "en": "Chapter 50 – Merit of the secretive charity"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ لِي أَبُو عَبْدِ اللَّهِ ( عليه السلام ) يَا عَمَّارُ الصَّدَقَةُ وَ اللَّهِ فِي السِّرِّ أَفْضَلُ مِنَ الصَّدَقَةِ فِي الْعَلَانِيَةِ وَ كَذَلِكَ وَ اللَّهِ الْعِبَادَةُ فِي السِّرِّ أَفْضَلُ مِنْهَا فِي الْعَلَانِيَةِ ."
+        ],
+        "text": "قَالَ لِي أَبُو عَبْدِ اللَّهِ ( عليه السلام ) يَا عَمَّارُ الصَّدَقَةُ وَ اللَّهِ فِي السِّرِّ أَفْضَلُ مِنَ الصَّدَقَةِ فِي الْعَلَانِيَةِ وَ كَذَلِكَ وَ اللَّهِ الْعِبَادَةُ فِي السِّرِّ أَفْضَلُ مِنْهَا فِي الْعَلَانِيَةِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Al Husayn Bin Muhammad, from Moalla Bin Muhammad, from Ali Bin Mirdas, from Safwan Bin Yahya, and Al Hassan Bin Mahboub, from Hisham Bin Salim, from Ammar Al Sabaty who said, ",
+            "‘Abu Abdullah<sup>asws</sup> said to me: ‘O Ammar! By Allah<sup>azwj</sup>! The charity (given) in secret is superior than the charity in the open, and similar to that, by Allah<sup>azwj</sup>, is the worship in the secrecy being superior than it is in the open’."
+          ],
+          "text": "Al Husayn Bin Muhammad, from Moalla Bin Muhammad, from Ali Bin Mirdas, from Safwan Bin Yahya, and Al Hassan Bin Mahboub, from Hisham Bin Salim, from Ammar Al Sabaty who said,\n\n‘Abu Abdullah<sup>asws</sup> said to me: ‘O Ammar! By Allah<sup>azwj</sup>! The charity (given) in secret is superior than the charity in the open, and similar to that, by Allah<sup>azwj</sup>, is the worship in the secrecy being superior than it is in the open’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. Al-Husayn ibn Muhammad has narrated from Mu‘alla’ ibn Muhammad from Ali ibn Mirdas from Safwan ibn Yahya’ and al-Hassan ibn Mahbub from Hisham ibn Salim from ‘Ammar al-Sabatiy who has said the following: “Abu ’Abd Allah, ‘Alayhi al-Salam, once said to me, ‘O ‘Ammar, giving charity, by Allah, out of public sight, is more virtuous than giving charity publicly. In the same way, worshipping Allah out of public sight is more virtuous than worshipping Him in public.’ ” "
+          ],
+          "text": "2. Al-Husayn ibn Muhammad has narrated from Mu‘alla’ ibn Muhammad from Ali ibn Mirdas from Safwan ibn Yahya’ and al-Hassan ibn Mahbub from Hisham ibn Salim from ‘Ammar al-Sabatiy who has said the following: “Abu ’Abd Allah, ‘Alayhi al-Salam, once said to me, ‘O ‘Ammar, giving charity, by Allah, out of public sight, is more virtuous than giving charity publicly. In the same way, worshipping Allah out of public sight is more virtuous than worshipping Him in public.’ ”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (6/131)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (6/131)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "الْحُسَيْنُ بْنُ مُحَمَّدٍ عَنْ مُعَلَّى بْنِ مُحَمَّدٍ عَنْ عَلِيِّ بْنِ مِرْدَاسٍ عَنْ صَفْوَانَ بْنِ يَحْيَى وَ الْحَسَنِ بْنِ مَحْبُوبٍ عَنْ هِشَامِ بْنِ سَالِمٍ عَنْ عَمَّارٍ السَّابَاطِيِّ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "الْحُسَيْنُ بْنُ مُحَمَّدٍ",
+            "path": "/people/narrators/20"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُعَلَّى بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/25"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيِّ بْنِ مِرْدَاسٍ",
+            "path": "/people/narrators/803"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "صَفْوَانَ بْنِ يَحْيَى",
+            "path": "/people/narrators/30"
+          },
+          {
+            "kind": "plain",
+            "text": " وَ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحَسَنِ بْنِ مَحْبُوبٍ",
+            "path": "/people/narrators/53"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "هِشَامِ بْنِ سَالِمٍ",
+            "path": "/people/narrators/47"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَمَّارٍ السَّابَاطِيِّ",
+            "path": "/people/narrators/233"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/20",
+          "/people/narrators/25",
+          "/people/narrators/803",
+          "/people/narrators/30",
+          "/people/narrators/53",
+          "/people/narrators/47",
+          "/people/narrators/233"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:4:1:3:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/4/1/3/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:4:1:3:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:4:1:3:3",
+        "parts": [
+          4,
+          1,
+          3,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 4,
+        "book": 1,
+        "chapter": 3,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:4:1:3",
+        "titles": {
+          "ar": "بَابُ فَضْلِ صَدَقَةِ السِّرِّ",
+          "en": "Chapter 50 – Merit of the secretive charity"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) صَدَقَةُ السِّرِّ تُطْفِئُ غَضَبَ الرَّبِّ تَبَارَكَ وَ تَعَالَى ."
+        ],
+        "text": "قَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) صَدَقَةُ السِّرِّ تُطْفِئُ غَضَبَ الرَّبِّ تَبَارَكَ وَ تَعَالَى ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Ahmad Bin Abu Abdullah, from his father, from Safwan Bin Yahya, from Abdullah Bin Al Waleed Al Wassafy, ",
+            "(It has been narrated) from Abu Ja’far<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup> said: ‘The secretive charity extinguishes the Anger of the Lord<sup>azwj</sup>, Blessed and High’."
+          ],
+          "text": "A number of our companions, from Ahmad Bin Abu Abdullah, from his father, from Safwan Bin Yahya, from Abdullah Bin Al Waleed Al Wassafy,\n\n(It has been narrated) from Abu Ja’far<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup> said: ‘The secretive charity extinguishes the Anger of the Lord<sup>azwj</sup>, Blessed and High’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "3. A number of our people have narrated from Ahmad ibn abu ‘Abd Allah from his father from Safwan ibn Yahya from ‘Abd Allah ibn al-Walid al-Wassafiy who has said the following: “Abu Ja’far, ‘Alayhi al-Salam, has said that the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, has said, ’Giving charity out of public sight extinguishes the anger of the Lord, Allah, the most Blessed, the most High.’” "
+          ],
+          "text": "3. A number of our people have narrated from Ahmad ibn abu ‘Abd Allah from his father from Safwan ibn Yahya from ‘Abd Allah ibn al-Walid al-Wassafiy who has said the following: “Abu Ja’far, ‘Alayhi al-Salam, has said that the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, has said, ’Giving charity out of public sight extinguishes the anger of the Lord, Allah, the most Blessed, the most High.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مجهول  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (6/132)",
+          "label": "مجهول",
+          "text": "Allamah Baqir al-Majlisi: مجهول - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (6/132)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ أَحْمَدَ بْنِ أَبِي عَبْدِ اللَّهِ عَنْ أَبِيهِ عَنْ صَفْوَانَ بْنِ يَحْيَى عَنْ عَبْدِ اللَّهِ بْنِ الْوَلِيدِ الْوَصَّافِيِّ عَنْ أَبِي جَعْفَرٍ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ أَبِي عَبْدِ اللَّهِ",
+            "path": "/people/narrators/12"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "صَفْوَانَ بْنِ يَحْيَى",
+            "path": "/people/narrators/30"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَبْدِ اللَّهِ بْنِ الْوَلِيدِ الْوَصَّافِيِّ",
+            "path": "/people/narrators/1537"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي جَعْفَرٍ ( عليه السلام )",
+            "path": "/people/narrators/9"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/12",
+          "/people/narrators/2",
+          "/people/narrators/30",
+          "/people/narrators/1537",
+          "/people/narrators/9"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:4:1:3:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/4/1/3/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

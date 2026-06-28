@@ -1,0 +1,32 @@
+{
+  "id": 3164,
+  "type": "narrator",
+  "path": "/people/narrators/3164",
+  "titles": {
+    "ar": "دَاوُدَ بْنِ الْقَاسِمِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:75:13"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1638-3164": {
+      "narrator_ids": [
+        1638,
+        3164
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:75:13"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3164",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3164.json"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "id": 3133,
+  "type": "narrator",
+  "path": "/people/narrators/3133",
+  "titles": {
+    "ar": "خَالِدِ بْنِ نَافِعٍ الْبَجَلِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:69:2",
+    "/books/man-la-yahduruhu-al-faqih:4:129:2",
+    "/books/tahdhib-al-ahkam:9:3:32"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "10-3133": {
+      "narrator_ids": [
+        10,
+        3133
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:69:2"
+      ]
+    },
+    "10-3133-180": {
+      "narrator_ids": [
+        10,
+        3133,
+        180
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:69:2"
+      ]
+    },
+    "3133-180": {
+      "narrator_ids": [
+        3133,
+        180
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:69:2"
+      ]
+    },
+    "3133-669": {
+      "narrator_ids": [
+        3133,
+        669
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:4:129:2",
+        "/books/tahdhib-al-ahkam:9:3:32"
+      ]
+    },
+    "53-3133": {
+      "narrator_ids": [
+        53,
+        3133
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:4:129:2",
+        "/books/tahdhib-al-ahkam:9:3:32"
+      ]
+    },
+    "53-3133-669": {
+      "narrator_ids": [
+        53,
+        3133,
+        669
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:4:129:2",
+        "/books/tahdhib-al-ahkam:9:3:32"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3133",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3133.json"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": 2176,
+  "type": "narrator",
+  "path": "/people/narrators/2176",
+  "titles": {
+    "ar": "أَبِي عَلِيٍّ صَاحِبِ الشَّعِيرِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:83:12"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2176-105": {
+      "narrator_ids": [
+        2176,
+        105
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:83:12"
+      ]
+    },
+    "3-2-7-2176-105-9": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        2176,
+        105,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:83:12"
+      ]
+    },
+    "7-2176": {
+      "narrator_ids": [
+        7,
+        2176
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:83:12"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2176",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2176.json"
+  }
+}

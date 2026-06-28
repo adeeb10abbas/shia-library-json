@@ -1,0 +1,43 @@
+{
+  "id": 4232,
+  "type": "narrator",
+  "path": "/people/narrators/4232",
+  "titles": {
+    "ar": "مُحَمَّدِ بْنِ رَجَاءٍ الْأَرَّجَانِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:22:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "27-4232": {
+      "narrator_ids": [
+        27,
+        4232
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:22:4"
+      ]
+    },
+    "4-59-27-4232": {
+      "narrator_ids": [
+        4,
+        59,
+        27,
+        4232
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:22:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4232",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4232.json"
+  }
+}

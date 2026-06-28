@@ -1,0 +1,53 @@
+{
+  "id": 3328,
+  "type": "narrator",
+  "path": "/people/narrators/3328",
+  "titles": {
+    "ar": "سَعِيدِ بْنِ عَمْرٍو"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:5:42:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "200-8-39-3328-669": {
+      "narrator_ids": [
+        200,
+        8,
+        39,
+        3328,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:5:42:3"
+      ]
+    },
+    "3328-669": {
+      "narrator_ids": [
+        3328,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:5:42:3"
+      ]
+    },
+    "39-3328": {
+      "narrator_ids": [
+        39,
+        3328
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:5:42:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3328",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3328.json"
+  }
+}

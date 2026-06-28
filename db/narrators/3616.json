@@ -1,0 +1,61 @@
+{
+  "id": 3616,
+  "type": "narrator",
+  "path": "/people/narrators/3616",
+  "titles": {
+    "ar": "عَبْدِ اللَّهِ بْنِ هِلَالِ بْنِ خَاقَانَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:5:44:1",
+    "/books/tahdhib-al-ahkam:4:28:27"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "4-13-630-63-498-3616": {
+      "narrator_ids": [
+        4,
+        13,
+        630,
+        63,
+        498,
+        3616
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:5:44:1"
+      ]
+    },
+    "498-3616": {
+      "narrator_ids": [
+        498,
+        3616
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:5:44:1",
+        "/books/tahdhib-al-ahkam:4:28:27"
+      ]
+    },
+    "952-4-13-630-63-498-3616": {
+      "narrator_ids": [
+        952,
+        4,
+        13,
+        630,
+        63,
+        498,
+        3616
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:4:28:27"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3616",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3616.json"
+  }
+}

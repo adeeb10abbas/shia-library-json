@@ -1,0 +1,76 @@
+{
+  "id": 1734,
+  "type": "narrator",
+  "path": "/people/narrators/1734",
+  "titles": {
+    "ar": "يُوسُفَ الْبَزَّازِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:119:1",
+    "/books/al-kafi:2:1:66:18"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "1734-309": {
+      "narrator_ids": [
+        1734,
+        309
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:119:1"
+      ]
+    },
+    "3-2-7-1734-309-669": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        1734,
+        309,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:119:1"
+      ]
+    },
+    "3134-1734": {
+      "narrator_ids": [
+        3134,
+        1734
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:66:18"
+      ]
+    },
+    "4-5-42-3134-1734": {
+      "narrator_ids": [
+        4,
+        5,
+        42,
+        3134,
+        1734
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:66:18"
+      ]
+    },
+    "7-1734": {
+      "narrator_ids": [
+        7,
+        1734
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:119:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1734",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1734.json"
+  }
+}

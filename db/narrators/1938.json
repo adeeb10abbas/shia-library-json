@@ -1,0 +1,44 @@
+{
+  "id": 1938,
+  "type": "narrator",
+  "path": "/people/narrators/1938",
+  "titles": {
+    "ar": "أَبِي إِبْرَاهِيمَ ( عليه السلام ) كَانَ كَتَبَهُ لِي"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:2:54:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3-2-76-96-1938": {
+      "narrator_ids": [
+        3,
+        2,
+        76,
+        96,
+        1938
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:54:4"
+      ]
+    },
+    "96-1938": {
+      "narrator_ids": [
+        96,
+        1938
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:2:54:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1938",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1938.json"
+  }
+}

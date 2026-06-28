@@ -1,0 +1,75 @@
+{
+  "id": 2320,
+  "type": "narrator",
+  "path": "/people/narrators/2320",
+  "titles": {
+    "ar": "أَحْمَدَ بْنِ عَلِيِّ بْنِ مُحَمَّدِ بْنِ عَبْدِ اللَّهِ بْنِ عُمَرَ بْنِ عَلِيِّ بْنِ أَبِي طَالِبٍ ( عليه السلام )"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:111:21",
+    "/books/al-kafi:1:4:111:9"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "1635-2320": {
+      "narrator_ids": [
+        1635,
+        2320
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:111:21",
+        "/books/al-kafi:1:4:111:9"
+      ]
+    },
+    "2320-669": {
+      "narrator_ids": [
+        2320,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:111:21",
+        "/books/al-kafi:1:4:111:9"
+      ]
+    },
+    "97-1358-2146-1635-2320-669-4-355-101-22-231-669": {
+      "narrator_ids": [
+        97,
+        1358,
+        2146,
+        1635,
+        2320,
+        669,
+        4,
+        355,
+        101,
+        22,
+        231,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:111:21"
+      ]
+    },
+    "97-2633-1635-2320-669": {
+      "narrator_ids": [
+        97,
+        2633,
+        1635,
+        2320,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:111:9"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2320",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2320.json"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": 2587,
+  "type": "narrator",
+  "path": "/people/narrators/2587",
+  "titles": {
+    "ar": "الْحَسَنِ بْنِ مُحَمَّدٍ كُلُّهُمْ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:2:25:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2587-53": {
+      "narrator_ids": [
+        2587,
+        53
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:2:25:1"
+      ]
+    },
+    "49-2587": {
+      "narrator_ids": [
+        49,
+        2587
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:2:25:1"
+      ]
+    },
+    "6-8-4-5-3-2-49-2587-53-93-14": {
+      "narrator_ids": [
+        6,
+        8,
+        4,
+        5,
+        3,
+        2,
+        49,
+        2587,
+        53,
+        93,
+        14
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:2:25:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2587",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2587.json"
+  }
+}

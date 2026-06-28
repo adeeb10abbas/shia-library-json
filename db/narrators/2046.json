@@ -1,0 +1,55 @@
+{
+  "id": 2046,
+  "type": "narrator",
+  "path": "/people/narrators/2046",
+  "titles": {
+    "ar": "أَبِي ثُمَامَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:19:8",
+    "/books/man-la-yahduruhu-al-faqih:3:2:12:8"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "3539-2046": {
+      "narrator_ids": [
+        3539,
+        2046
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:19:8"
+      ]
+    },
+    "404-2046": {
+      "narrator_ids": [
+        404,
+        2046
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:3:2:12:8"
+      ]
+    },
+    "6-12-27-792-3539-2046": {
+      "narrator_ids": [
+        6,
+        12,
+        27,
+        792,
+        3539,
+        2046
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:19:8"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2046",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2046.json"
+  }
+}

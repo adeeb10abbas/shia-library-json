@@ -1,0 +1,1528 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:7:7:2",
+  "chapter": {
+    "path": "/books/al-kafi:7:7:2",
+    "titles": {
+      "ar": "باب الْيَمِينِ الْكَاذِبَةِ",
+      "en": "Chapter 2 – The false oath"
+    }
+  },
+  "count": 11,
+  "records": [
+    {
+      "id": "al-kafi:7:7:2:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:7:2:1",
+        "parts": [
+          7,
+          7,
+          2,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 7,
+        "chapter": 2,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:7:2",
+        "titles": {
+          "ar": "باب الْيَمِينِ الْكَاذِبَةِ",
+          "en": "Chapter 2 – The false oath"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ أَبُو عَبْدِ اللَّهِ ( عليه السلام ) مَنْ حَلَفَ عَلَى يَمِينٍ وَ هُوَ يَعْلَمُ أَنَّهُ كَاذِبٌ فَقَدْ بَارَزَ اللَّهَ عَزَّ وَ جَلَّ ."
+        ],
+        "text": "قَالَ أَبُو عَبْدِ اللَّهِ ( عليه السلام ) مَنْ حَلَفَ عَلَى يَمِينٍ وَ هُوَ يَعْلَمُ أَنَّهُ كَاذِبٌ فَقَدْ بَارَزَ اللَّهَ عَزَّ وَ جَلَّ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Ahmad Bin Muhammad, from Ibn Fazzal, from sa’alba Bin Maymoun, from Yaqoub Al Ahmar who said, ",
+            "‘Abu Abdullah<sup>asws</sup> said: ‘The one who swears an oath and he knows that he is a liar, so he has dueled against Allah<sup>azwj</sup> Mighty and Majestic’."
+          ],
+          "text": "A number of our companions, from Ahmad Bin Muhammad, from Ibn Fazzal, from sa’alba Bin Maymoun, from Yaqoub Al Ahmar who said,\n\n‘Abu Abdullah<sup>asws</sup> said: ‘The one who swears an oath and he knows that he is a liar, so he has dueled against Allah<sup>azwj</sup> Mighty and Majestic’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. A number of our people have narrated from and from ibn Faddal from Tha‘labah ibn Maymun from Ya‘qub al-Ahmar who has narrated the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘If one takes an oath which he knows is false he has opposed Allah, most Majestic, most 0100005 .’” "
+          ],
+          "text": "1. A number of our people have narrated from and from ibn Faddal from Tha‘labah ibn Maymun from Ya‘qub al-Ahmar who has narrated the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘If one takes an oath which he knows is false he has opposed Allah, most Majestic, most 0100005 .’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> موثق    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (24/309)",
+          "label": "موثق",
+          "text": "Allamah Baqir al-Majlisi: موثق - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (24/309)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنِ ابْنِ فَضَّالٍ عَنْ ثَعْلَبَةَ بْنِ مَيْمُونٍ عَنْ يَعْقُوبَ الْأَحْمَرِ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ فَضَّالٍ",
+            "path": "/people/narrators/22"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ثَعْلَبَةَ بْنِ مَيْمُونٍ",
+            "path": "/people/narrators/161"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "يَعْقُوبَ الْأَحْمَرِ",
+            "path": "/people/narrators/832"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/5",
+          "/people/narrators/22",
+          "/people/narrators/161",
+          "/people/narrators/832"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:7:2:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/7/2/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:7:2:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:7:2:2",
+        "parts": [
+          7,
+          7,
+          2,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 7,
+        "chapter": 2,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:7:2",
+        "titles": {
+          "ar": "باب الْيَمِينِ الْكَاذِبَةِ",
+          "en": "Chapter 2 – The false oath"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) الْيَمِينُ الصَّبْرُ الْفَاجِرَةُ تَدَعُ الدِّيَارَ بَلَاقِعَ ."
+        ],
+        "text": "قَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) الْيَمِينُ الصَّبْرُ الْفَاجِرَةُ تَدَعُ الدِّيَارَ بَلَاقِعَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from sahl Bin Ziyad, from Ja’far Bin Muhammad Al Ashary, from Ibn Al Qaddah, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said; ‘Rasool-Allah<sup>saww</sup> said: ‘The impatient immoral (false) oath invites the houses to desertion’."
+          ],
+          "text": "A number of our companions, from sahl Bin Ziyad, from Ja’far Bin Muhammad Al Ashary, from Ibn Al Qaddah,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said; ‘Rasool-Allah<sup>saww</sup> said: ‘The impatient immoral (false) oath invites the houses to desertion’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. A number of our people have narrated from Sahl ibn Ziyad from Ja‘far ibn Muhammad al-Ash ‘ariy from ibn al-Qaddah who has narrated the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, has said, ‘Swearing falsely and sinfully for a binding purpose leaves the town barren.’” "
+          ],
+          "text": "2. A number of our people have narrated from Sahl ibn Ziyad from Ja‘far ibn Muhammad al-Ash ‘ariy from ibn al-Qaddah who has narrated the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, has said, ‘Swearing falsely and sinfully for a binding purpose leaves the town barren.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (4/309)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (4/309)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ سَهْلِ بْنِ زِيَادٍ عَنْ جَعْفَرِ بْنِ مُحَمَّدٍ الْأَشْعَرِيِّ عَنِ ابْنِ الْقَدَّاحِ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَهْلِ بْنِ زِيَادٍ",
+            "path": "/people/narrators/8"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "جَعْفَرِ بْنِ مُحَمَّدٍ الْأَشْعَرِيِّ",
+            "path": "/people/narrators/110"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ الْقَدَّاحِ",
+            "path": "/people/narrators/114"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/8",
+          "/people/narrators/110",
+          "/people/narrators/114",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:7:2:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/7/2/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:7:2:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:7:2:3",
+        "parts": [
+          7,
+          7,
+          2,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 7,
+        "chapter": 2,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:7:2",
+        "titles": {
+          "ar": "باب الْيَمِينِ الْكَاذِبَةِ",
+          "en": "Chapter 2 – The false oath"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) إِيَّاكُمْ وَ الْيَمِينَ الْفَاجِرَةَ فَإِنَّهَا تَدَعُ الدِّيَارَ مِنْ أَهْلِهَا بَلَاقِعَ ."
+        ],
+        "text": "قَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) إِيَّاكُمْ وَ الْيَمِينَ الْفَاجِرَةَ فَإِنَّهَا تَدَعُ الدِّيَارَ مِنْ أَهْلِهَا بَلَاقِعَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Muhammad Bin Bundar, from Ahmad Bin Abu Abdullah, from Muhammad Bin Ali, froom Ali Bin Usman Bin Razeyn, from Muhammad Bin Furaat Khaal Abu Ammar Al Sayrafi, from Jabir Bin Yazeed, ",
+            "(It has been narrated) from Abu Ja’far<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup> said: ‘Beware of swearing the immoral (false) oath, for it invites the houses from its inhabitants to being deserted’."
+          ],
+          "text": "Ali Bin Muhammad Bin Bundar, from Ahmad Bin Abu Abdullah, from Muhammad Bin Ali, froom Ali Bin Usman Bin Razeyn, from Muhammad Bin Furaat Khaal Abu Ammar Al Sayrafi, from Jabir Bin Yazeed,\n\n(It has been narrated) from Abu Ja’far<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup> said: ‘Beware of swearing the immoral (false) oath, for it invites the houses from its inhabitants to being deserted’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "3. Ali ibn Muhammad ibn Bandar has narrated from Ahmad ibn abu ‘Abd Allah from Muhammad ibn Ali from Ali ibn ‘Uthman ibn Razin from Muhammad ibn Furat maternal uncle of abu ‘Ammar al-Sayrafiy from Jabir ibn Yazid who has narrated the following: “Abu Ja‘far, ‘Alayhi al-Salam, has said that the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, has said, ‘You must never take sinfully a false oath because it leaves the town barren.’” "
+          ],
+          "text": "3. Ali ibn Muhammad ibn Bandar has narrated from Ahmad ibn abu ‘Abd Allah from Muhammad ibn Ali from Ali ibn ‘Uthman ibn Razin from Muhammad ibn Furat maternal uncle of abu ‘Ammar al-Sayrafiy from Jabir ibn Yazid who has narrated the following: “Abu Ja‘far, ‘Alayhi al-Salam, has said that the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, has said, ‘You must never take sinfully a false oath because it leaves the town barren.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (4/309)",
+          "label": "ضعيف",
+          "text": "Allamah Baqir al-Majlisi: ضعيف - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (4/309)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ مُحَمَّدِ بْنِ بُنْدَارَ عَنْ أَحْمَدَ بْنِ أَبِي عَبْدِ اللَّهِ عَنْ مُحَمَّدِ بْنِ عَلِيٍّ عَنْ عَلِيِّ بْنِ عُثْمَانَ بْنِ رَزِينٍ عَنْ مُحَمَّدِ بْنِ فُرَاتٍ خَالِ أَبِي عَمَّارٍ الصَّيْرَفِيِّ عَنْ جَابِرِ بْنِ يَزِيدَ عَنْ أَبِي جَعْفَرٍ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ مُحَمَّدِ بْنِ بُنْدَارَ",
+            "path": "/people/narrators/133"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ أَبِي عَبْدِ اللَّهِ",
+            "path": "/people/narrators/12"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ عَلِيٍّ",
+            "path": "/people/narrators/67"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيِّ بْنِ عُثْمَانَ بْنِ رَزِينٍ",
+            "path": "/people/narrators/3790"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ فُرَاتٍ خَالِ أَبِي عَمَّارٍ الصَّيْرَفِيِّ",
+            "path": "/people/narrators/4306"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "جَابِرِ بْنِ يَزِيدَ",
+            "path": "/people/narrators/485"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي جَعْفَرٍ ( عليه السلام )",
+            "path": "/people/narrators/9"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/133",
+          "/people/narrators/12",
+          "/people/narrators/67",
+          "/people/narrators/3790",
+          "/people/narrators/4306",
+          "/people/narrators/485",
+          "/people/narrators/9"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:7:2:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/7/2/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:7:2:4",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:7:2:4",
+        "parts": [
+          7,
+          7,
+          2,
+          4
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 7,
+        "chapter": 2,
+        "hadith": 4
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:7:2",
+        "titles": {
+          "ar": "باب الْيَمِينِ الْكَاذِبَةِ",
+          "en": "Chapter 2 – The false oath"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ أَبُو عَبْدِ اللَّهِ ( عليه السلام ) الْيَمِينُ الصَّبْرُ الْكَاذِبَةُ تُورِثُ الْعَقِبَ الْفَقْرَ ."
+        ],
+        "text": "قَالَ أَبُو عَبْدِ اللَّهِ ( عليه السلام ) الْيَمِينُ الصَّبْرُ الْكَاذِبَةُ تُورِثُ الْعَقِبَ الْفَقْرَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father, from hannan, from Fuleyh Bin Abu Bakr Al Shaybani who said, ",
+            "‘Abu Abdullah<sup>asws</sup> said: ‘The impatient false oath inherits the consequence of poverty’."
+          ],
+          "text": "Ali Bin Ibrahim, from his father, from hannan, from Fuleyh Bin Abu Bakr Al Shaybani who said,\n\n‘Abu Abdullah<sup>asws</sup> said: ‘The impatient false oath inherits the consequence of poverty’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "4. Ali ibn Ibrahim has narrated from his father from Fianan from Fulayh ibn abu Bakr al-Shaybaniy who has narrated the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘Taking an oath which is false and binding causes poverty consequently.’” "
+          ],
+          "text": "4. Ali ibn Ibrahim has narrated from his father from Fianan from Fulayh ibn abu Bakr al-Shaybaniy who has narrated the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘Taking an oath which is false and binding causes poverty consequently.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مجهول    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (24/310)",
+          "label": "مجهول",
+          "text": "Allamah Baqir al-Majlisi: مجهول - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (24/310)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنْ حَنَانٍ عَنْ فُلَيْحِ بْنِ أَبِي بَكْرٍ الشَّيْبَانِيِّ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "حَنَانٍ",
+            "path": "/people/narrators/267"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "فُلَيْحِ بْنِ أَبِي بَكْرٍ الشَّيْبَانِيِّ",
+            "path": "/people/narrators/4017"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/267",
+          "/people/narrators/4017"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:7:2:4",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/7/2/4.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:7:2:5",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:7:2:5",
+        "parts": [
+          7,
+          7,
+          2,
+          5
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 7,
+        "chapter": 2,
+        "hadith": 5
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:7:2",
+        "titles": {
+          "ar": "باب الْيَمِينِ الْكَاذِبَةِ",
+          "en": "Chapter 2 – The false oath"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) إِنَّ لِلَّهِ مَلَكاً رِجْلَاهُ فِي الْأَرْضِ السُّفْلَى مَسِيرَةَ خَمْسِمِائَةِ عَامٍ وَ رَأْسُهُ فِي السَّمَاءِ الْعُلْيَا مَسِيرَةَ أَلْفِ سَنَةٍ يَقُولُ سُبْحَانَكَ سُبْحَانَكَ حَيْثُ كُنْتَ فَمَا أَعْظَمَكَ قَالَ فَيُوحِي اللَّهُ عَزَّ وَ جَلَّ إِلَيْهِ مَا يَعْلَمُ ذَلِكَ مَنْ يَحْلِفُ بِي كَاذِباً ."
+        ],
+        "text": "قَالَ رَسُولُ اللَّهِ ( صلى الله عليه وآله ) إِنَّ لِلَّهِ مَلَكاً رِجْلَاهُ فِي الْأَرْضِ السُّفْلَى مَسِيرَةَ خَمْسِمِائَةِ عَامٍ وَ رَأْسُهُ فِي السَّمَاءِ الْعُلْيَا مَسِيرَةَ أَلْفِ سَنَةٍ يَقُولُ سُبْحَانَكَ سُبْحَانَكَ حَيْثُ كُنْتَ فَمَا أَعْظَمَكَ قَالَ فَيُوحِي اللَّهُ عَزَّ وَ جَلَّ إِلَيْهِ مَا يَعْلَمُ ذَلِكَ مَنْ يَحْلِفُ بِي كَاذِباً ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali, from his father, from Al Nowfaly, from Al Sakuny, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup> said: ‘Allah<sup>azwj</sup> has an Angel whose feet are in the lowest earth of a travel distance of five hundred years, and his head is in the high sky of a travel distance of a thousand years, saying: ‘Glory be to You<sup>azwj</sup>! Glory be to You<sup>azwj</sup>, wherever You<sup>azwj</sup> were! So what is Greater than You<sup>azwj</sup>’. He<sup>asws</sup> said: ‘So Allah<sup>azwj</sup> Mighty and Majestic Revealed unto him: “He does not know that, the one who swears falsely by Me<sup>azwj</sup>”."
+          ],
+          "text": "Ali, from his father, from Al Nowfaly, from Al Sakuny,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Rasool-Allah<sup>saww</sup> said: ‘Allah<sup>azwj</sup> has an Angel whose feet are in the lowest earth of a travel distance of five hundred years, and his head is in the high sky of a travel distance of a thousand years, saying: ‘Glory be to You<sup>azwj</sup>! Glory be to You<sup>azwj</sup>, wherever You<sup>azwj</sup> were! So what is Greater than You<sup>azwj</sup>’. He<sup>asws</sup> said: ‘So Allah<sup>azwj</sup> Mighty and Majestic Revealed unto him: “He does not know that, the one who swears falsely by Me<sup>azwj</sup>”."
+        },
+        "en.sarwar": {
+          "segments": [
+            "5. Ali has narrated from his father from al-Nawfaliy from al-Sakuniy who has narrated the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, has said, ‘Allah has an angel whose legs are on the lowest earth. The length of his leg is a distance of five hundred years’ journey and his head is in the highest sky with a length of one thousand years’ journey. He says, “O Lord, You are free of all defects, O Lord, You are free of all defects, as ever You have been and how great You are!” He (the Messenger of Allah) then said, ‘Allah, most Majestic, most Glorious, sends revelation to him saying, “One who swears falsely by My name does not know this fact.’”” "
+          ],
+          "text": "5. Ali has narrated from his father from al-Nawfaliy from al-Sakuniy who has narrated the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said that the Messenger of Allah, O Allah, grant compensation to Muhammad and his family worthy of their services to Your cause, has said, ‘Allah has an angel whose legs are on the lowest earth. The length of his leg is a distance of five hundred years’ journey and his head is in the highest sky with a length of one thousand years’ journey. He says, “O Lord, You are free of all defects, O Lord, You are free of all defects, as ever You have been and how great You are!” He (the Messenger of Allah) then said, ‘Allah, most Majestic, most Glorious, sends revelation to him saying, “One who swears falsely by My name does not know this fact.’””"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (4/310)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (4/310)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيٌّ عَنْ أَبِيهِ عَنِ النَّوْفَلِيِّ عَنِ السَّكُونِيِّ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيٌّ",
+            "path": "/people/narrators/50"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "النَّوْفَلِيِّ",
+            "path": "/people/narrators/32"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "السَّكُونِيِّ",
+            "path": "/people/narrators/34"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/50",
+          "/people/narrators/2",
+          "/people/narrators/32",
+          "/people/narrators/34",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:7:2:5",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/7/2/5.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:7:2:6",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:7:2:6",
+        "parts": [
+          7,
+          7,
+          2,
+          6
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 7,
+        "chapter": 2,
+        "hadith": 6
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:7:2",
+        "titles": {
+          "ar": "باب الْيَمِينِ الْكَاذِبَةِ",
+          "en": "Chapter 2 – The false oath"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " إِنَّ يَمِينَ الصَّبْرِ الْكَاذِبَةَ تَتْرُكُ الدِّيَارَ بَلَاقِعَ ."
+        ],
+        "text": "إِنَّ يَمِينَ الصَّبْرِ الْكَاذِبَةَ تَتْرُكُ الدِّيَارَ بَلَاقِعَ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Abdullah Bin Muhammad, from Ibn Abu Umeyr, from Hisham Bin Salim, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The impatient false oath leaves the houses deserted’."
+          ],
+          "text": "Muhammad Bin Yahya, from Abdullah Bin Muhammad, from Ibn Abu Umeyr, from Hisham Bin Salim,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The impatient false oath leaves the houses deserted’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "6. Muhammad ibn Yahya has narrated from ‘Abd Allah ibn Muhammad from ibn abu ‘Umayr from Hisham ibn Salim who has narrated the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘A binding oath which is false leaves the town barren.’” "
+          ],
+          "text": "6. Muhammad ibn Yahya has narrated from ‘Abd Allah ibn Muhammad from ibn abu ‘Umayr from Hisham ibn Salim who has narrated the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘A binding oath which is false leaves the town barren.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مجهول    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (24/310)",
+          "label": "مجهول",
+          "text": "Allamah Baqir al-Majlisi: مجهول - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (24/310)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ عَبْدِ اللَّهِ بْنِ مُحَمَّدٍ عَنِ ابْنِ أَبِي عُمَيْرٍ عَنْ هِشَامِ بْنِ سَالِمٍ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَبْدِ اللَّهِ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/144"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ أَبِي عُمَيْرٍ",
+            "path": "/people/narrators/7"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "هِشَامِ بْنِ سَالِمٍ",
+            "path": "/people/narrators/47"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/144",
+          "/people/narrators/7",
+          "/people/narrators/47",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:5:3:158:4",
+          "/books/al-kafi:7:4:1:7",
+          "/books/tahdhib-al-ahkam:10:11:39"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:7:2:6",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/7/2/6.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:7:2:7",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:7:2:7",
+        "parts": [
+          7,
+          7,
+          2,
+          7
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 7,
+        "chapter": 2,
+        "hadith": 7
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:7:2",
+        "titles": {
+          "ar": "باب الْيَمِينِ الْكَاذِبَةِ",
+          "en": "Chapter 2 – The false oath"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " الْيَمِينُ الْغَمُوسُ يُنْتَظَرُ بِهَا أَرْبَعِينَ لَيْلَةً ."
+        ],
+        "text": "الْيَمِينُ الْغَمُوسُ يُنْتَظَرُ بِهَا أَرْبَعِينَ لَيْلَةً ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Abu Ali Al Ashary, from Muhammad Bin Hassan, from Muhammad Bin Ali, from Ali Bin Hammad, from Ibn Abu Yafour, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The (false) oath, calamities would be awaited with it for forty nights’."
+          ],
+          "text": "Abu Ali Al Ashary, from Muhammad Bin Hassan, from Muhammad Bin Ali, from Ali Bin Hammad, from Ibn Abu Yafour,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The (false) oath, calamities would be awaited with it for forty nights’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "7. Abu Ali al-Ash‘ariy has narrated from Muhammad ibn Hassan from Muhammad ibn Ali from Ali ibn Fiammad from ibn abu Ya’fur who has narrated the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘One who takes a sinful oath can wait only for forty nights (before being struck by misfortune).”’ "
+          ],
+          "text": "7. Abu Ali al-Ash‘ariy has narrated from Muhammad ibn Hassan from Muhammad ibn Ali from Ali ibn Fiammad from ibn abu Ya’fur who has narrated the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘One who takes a sinful oath can wait only for forty nights (before being struck by misfortune).”’"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (24/310)",
+          "label": "ضعيف",
+          "text": "Allamah Baqir al-Majlisi: ضعيف - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (24/310)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "أَبُو عَلِيٍّ الْأَشْعَرِيُّ عَنْ مُحَمَّدِ بْنِ حَسَّانَ عَنْ مُحَمَّدِ بْنِ عَلِيٍّ عَنْ عَلِيِّ بْنِ حَمَّادٍ عَنِ ابْنِ أَبِي يَعْفُورٍ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "أَبُو عَلِيٍّ الْأَشْعَرِيُّ",
+            "path": "/people/narrators/19"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ حَسَّانَ",
+            "path": "/people/narrators/275"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ عَلِيٍّ",
+            "path": "/people/narrators/67"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيِّ بْنِ حَمَّادٍ",
+            "path": "/people/narrators/800"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ أَبِي يَعْفُورٍ",
+            "path": "/people/narrators/126"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/19",
+          "/people/narrators/275",
+          "/people/narrators/67",
+          "/people/narrators/800",
+          "/people/narrators/126",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:7:2:7",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/7/2/7.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:7:2:8",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:7:2:8",
+        "parts": [
+          7,
+          7,
+          2,
+          8
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 7,
+        "chapter": 2,
+        "hadith": 8
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:7:2",
+        "titles": {
+          "ar": "باب الْيَمِينِ الْكَاذِبَةِ",
+          "en": "Chapter 2 – The false oath"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " الْيَمِينُ الْغَمُوسُ الَّتِي تُوجِبُ النَّارَ الرَّجُلُ يَحْلِفُ عَلَى حَقِّ امْرِئٍ مُسْلِمٍ عَلَى حَبْسِ مَالِهِ ."
+        ],
+        "text": "الْيَمِينُ الْغَمُوسُ الَّتِي تُوجِبُ النَّارَ الرَّجُلُ يَحْلِفُ عَلَى حَقِّ امْرِئٍ مُسْلِمٍ عَلَى حَبْسِ مَالِهِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "From him, from Muhammad Bin Ali, from Ali Bin hammad, from Hareyz, from one of his companions, ",
+            "Abu Abdullah<sup>asws</sup> has said: ‘The calamitous oath which Obligates the Fire for the man is that he swears (an oath) upon a right of a Muslim person on withholding of his wealth’."
+          ],
+          "text": "From him, from Muhammad Bin Ali, from Ali Bin hammad, from Hareyz, from one of his companions,\n\nAbu Abdullah<sup>asws</sup> has said: ‘The calamitous oath which Obligates the Fire for the man is that he swears (an oath) upon a right of a Muslim person on withholding of his wealth’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "8. It is narrated from the narrator of the previous Hadith from Muhammad ibn Ali from Ali ibn Hammad from Hariz from certain persons of his people who has narrated the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘Taking an oath sinfully is that which subjects one to the fire whereby a man holds back the right of a Muslim by seizing his assets.”’ "
+          ],
+          "text": "8. It is narrated from the narrator of the previous Hadith from Muhammad ibn Ali from Ali ibn Hammad from Hariz from certain persons of his people who has narrated the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘Taking an oath sinfully is that which subjects one to the fire whereby a man holds back the right of a Muslim by seizing his assets.”’"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (4/311)",
+          "label": "ضعيف",
+          "text": "Allamah Baqir al-Majlisi: ضعيف - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (4/311)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَنْهُ عَنْ مُحَمَّدِ بْنِ عَلِيٍّ عَنْ عَلِيِّ بْنِ حَمَّادٍ عَنْ حَرِيزٍ عَنْ بَعْضِ أَصْحَابِهِ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَنْهُ",
+            "path": "/people/narrators/11"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ عَلِيٍّ",
+            "path": "/people/narrators/67"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيِّ بْنِ حَمَّادٍ",
+            "path": "/people/narrators/800"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "حَرِيزٍ",
+            "path": "/people/narrators/40"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "بَعْضِ أَصْحَابِهِ",
+            "path": "/people/narrators/37"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/11",
+          "/people/narrators/67",
+          "/people/narrators/800",
+          "/people/narrators/40",
+          "/people/narrators/37",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:7:2:8",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/7/2/8.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:7:2:9",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:7:2:9",
+        "parts": [
+          7,
+          7,
+          2,
+          9
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 7,
+        "chapter": 2,
+        "hadith": 9
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:7:2",
+        "titles": {
+          "ar": "باب الْيَمِينِ الْكَاذِبَةِ",
+          "en": "Chapter 2 – The false oath"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " إِنَّ فِي كِتَابِ عَلِيٍّ ( عليه السلام ) أَنَّ الْيَمِينَ الْكَاذِبَةَ وَ قَطِيعَةَ الرَّحِمِ تَذَرَانِ الدِّيَارَ بَلَاقِعَ مِنْ أَهْلِهَا وَ تُنْغِلُ الرَّحِمَ يَعْنِي انْقِطَاعَ النَّسْلِ."
+        ],
+        "text": "إِنَّ فِي كِتَابِ عَلِيٍّ ( عليه السلام ) أَنَّ الْيَمِينَ الْكَاذِبَةَ وَ قَطِيعَةَ الرَّحِمِ تَذَرَانِ الدِّيَارَ بَلَاقِعَ مِنْ أَهْلِهَا وَ تُنْغِلُ الرَّحِمَ يَعْنِي انْقِطَاعَ النَّسْلِ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Ibn Mahboub, from Malik Bin Atiyya, from Abu Ubeyda Al Haza’a, ",
+            "(It has been narrated) from Abu Ja’far<sup>asws</sup> having said: ‘In the Book of Ali<sup>asws</sup> is that the false oath, and the cutting-off of relationships both devastate the houses to be deserted from its inhabitants, and locks the wombs, meaning the cutting-off of the lineage’."
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad, from Ibn Mahboub, from Malik Bin Atiyya, from Abu Ubeyda Al Haza’a,\n\n(It has been narrated) from Abu Ja’far<sup>asws</sup> having said: ‘In the Book of Ali<sup>asws</sup> is that the false oath, and the cutting-off of relationships both devastate the houses to be deserted from its inhabitants, and locks the wombs, meaning the cutting-off of the lineage’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "9. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from ibn Mahbub from Malik ibn ‘Atiyyah from abu ‘Ubaydah al- Hadhdha’ who has narrated the following: “Abu Ja‘far, ‘Alayhi al-Salam, has said that it is in the book of Ali, ‘Alayhi al-Salam, that false oath and cutting off of good relations with relatives leave a town barren, empty of its inhabitants and destroys the reproducing continuum.’” "
+          ],
+          "text": "9. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from ibn Mahbub from Malik ibn ‘Atiyyah from abu ‘Ubaydah al- Hadhdha’ who has narrated the following: “Abu Ja‘far, ‘Alayhi al-Salam, has said that it is in the book of Ali, ‘Alayhi al-Salam, that false oath and cutting off of good relations with relatives leave a town barren, empty of its inhabitants and destroys the reproducing continuum.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> صحيح   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (24/311)",
+          "label": "صحيح",
+          "text": "Allamah Baqir al-Majlisi: صحيح - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (24/311)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنِ ابْنِ مَحْبُوبٍ عَنْ مَالِكِ بْنِ عَطِيَّةَ عَنْ أَبِي عُبَيْدَةَ الْحَذَّاءِ عَنْ أَبِي جَعْفَرٍ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ مَحْبُوبٍ",
+            "path": "/people/narrators/10"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مَالِكِ بْنِ عَطِيَّةَ",
+            "path": "/people/narrators/172"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عُبَيْدَةَ الْحَذَّاءِ",
+            "path": "/people/narrators/242"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي جَعْفَرٍ ( عليه السلام )",
+            "path": "/people/narrators/9"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/5",
+          "/people/narrators/10",
+          "/people/narrators/172",
+          "/people/narrators/242",
+          "/people/narrators/9"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:7:2:9",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/7/2/9.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:7:2:10",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:7:2:10",
+        "parts": [
+          7,
+          7,
+          2,
+          10
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 7,
+        "chapter": 2,
+        "hadith": 10
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:7:2",
+        "titles": {
+          "ar": "باب الْيَمِينِ الْكَاذِبَةِ",
+          "en": "Chapter 2 – The false oath"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " إِنَّ الْيَمِينَ الْفَاجِرَةَ تُنْغِلُ فِي الرَّحِمِ قَالَ قُلْتُ جُعِلْتُ فِدَاكَ مَا مَعْنَى تُنْغِلُ فِي الرَّحِمِ قَالَ تُعْقِرُ ."
+        ],
+        "text": "إِنَّ الْيَمِينَ الْفَاجِرَةَ تُنْغِلُ فِي الرَّحِمِ قَالَ قُلْتُ جُعِلْتُ فِدَاكَ مَا مَعْنَى تُنْغِلُ فِي الرَّحِمِ قَالَ تُعْقِرُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father, from Muhammad Bin Yahya, from Talha Bin Zayd, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said that the immoral (false) oath locks the wombs’. I said, ‘May I be sacrificed for you<sup>asws</sup>! What is he meaning of ‘locks the wombs’?’ He<sup>asws</sup> said: ‘It sterilises’."
+          ],
+          "text": "Ali Bin Ibrahim, from his father, from Muhammad Bin Yahya, from Talha Bin Zayd,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said that the immoral (false) oath locks the wombs’. I said, ‘May I be sacrificed for you<sup>asws</sup>! What is he meaning of ‘locks the wombs’?’ He<sup>asws</sup> said: ‘It sterilises’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "10. Ali ibn Ibrahim has narrated from his father from Muhammad ibn Yahya from Talhah ibn Zayd who has narrated the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘Sinful and false oath turns the womb barren.’ I then asked him (the Imam) about the meaning of the Arabic word ‘TunghiV . He (the Imam) said that it means turning fruitless.” "
+          ],
+          "text": "10. Ali ibn Ibrahim has narrated from his father from Muhammad ibn Yahya from Talhah ibn Zayd who has narrated the following: “Abu ‘Abd Allah, ‘Alayhi al-Salam, has said, ‘Sinful and false oath turns the womb barren.’ I then asked him (the Imam) about the meaning of the Arabic word ‘TunghiV . He (the Imam) said that it means turning fruitless.”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> كالموثق    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (24/311)",
+          "label": "كالموثق",
+          "text": "Allamah Baqir al-Majlisi: كالموثق - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (24/311)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنْ مُحَمَّدِ بْنِ يَحْيَى عَنْ طَلْحَةَ بْنِ زَيْدٍ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "طَلْحَةَ بْنِ زَيْدٍ",
+            "path": "/people/narrators/173"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/4",
+          "/people/narrators/173",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:3:3:48:4",
+          "/books/al-kafi:5:1:22:15",
+          "/books/al-kafi:6:8:48:9",
+          "/books/tahdhib-al-ahkam:3:22:31"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:7:2:10",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/7/2/10.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:7:7:2:11",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:7:7:2:11",
+        "parts": [
+          7,
+          7,
+          2,
+          11
+        ]
+      },
+      "numbering": {
+        "volume": 7,
+        "book": 7,
+        "chapter": 2,
+        "hadith": 11
+      },
+      "chapter": {
+        "path": "/books/al-kafi:7:7:2",
+        "titles": {
+          "ar": "باب الْيَمِينِ الْكَاذِبَةِ",
+          "en": "Chapter 2 – The false oath"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " إِنَّ اللَّهَ تَبَارَكَ وَ تَعَالَى خَلَقَ دِيكاً أَبْيَضَ عُنُقُهُ تَحْتَ الْعَرْشِ وَ رِجْلَاهُ فِي تُخُومِ الْأَرْضِ السَّابِعَةِ لَهُ جَنَاحٌ فِي الْمَشْرِقِ وَ جَنَاحٌ فِي الْمَغْرِبِ لَا تَصِيحُ الدُّيُوكُ حَتَّى يَصِيحَ فَإِذَا صَاحَ خَفَقَ بِجَنَاحَيْهِ ثُمَّ قَالَ سُبْحَانَ اللَّهِ سُبْحَانَ اللَّهِ الْعَظِيمِ الَّذِي لَيْسَ كَمِثْلِهِ شَيْ‏ءٌ قَالَ فَيُجِيبُهُ اللَّهُ تَبَارَكَ وَ تَعَالَى فَيَقُولُ لَا يَحْلِفُ بِي كَاذِباً مَنْ يَعْرِفُ مَا تَقُولُ ."
+        ],
+        "text": "إِنَّ اللَّهَ تَبَارَكَ وَ تَعَالَى خَلَقَ دِيكاً أَبْيَضَ عُنُقُهُ تَحْتَ الْعَرْشِ وَ رِجْلَاهُ فِي تُخُومِ الْأَرْضِ السَّابِعَةِ لَهُ جَنَاحٌ فِي الْمَشْرِقِ وَ جَنَاحٌ فِي الْمَغْرِبِ لَا تَصِيحُ الدُّيُوكُ حَتَّى يَصِيحَ فَإِذَا صَاحَ خَفَقَ بِجَنَاحَيْهِ ثُمَّ قَالَ سُبْحَانَ اللَّهِ سُبْحَانَ اللَّهِ الْعَظِيمِ الَّذِي لَيْسَ كَمِثْلِهِ شَيْ‏ءٌ قَالَ فَيُجِيبُهُ اللَّهُ تَبَارَكَ وَ تَعَالَى فَيَقُولُ لَا يَحْلِفُ بِي كَاذِباً مَنْ يَعْرِفُ مَا تَقُولُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali, from his father, and Muhammad Bin Ismail from Al Fazl Bin Shazaan, both together from Ibn Abu Umeyr, from Ibrahim Bin Abdul Hameed, from a sheykh from our companions with a teknonym of Abu Al Hassan, ",
+            "(It has been narrated) from Abu Ja’far<sup>asws</sup> having said: ‘Allah<sup>azwj</sup> Blessed and High Created a white rooster, its neck is beneath the Throne, and its feet as in the edge of the seventh firmament. For it is a wing in the east and a wing in the west. The roosters (of the world) do not shriek until it shrieks. So whenever it shrieks, it flaps with its wings, then says: ‘Glory be to Allah<sup>azwj</sup>! Glory be to Allah<sup>saww</sup> the Magnificent, Who does not resemble anything’. So Allah<sup>azwj</sup> Blessed and High Answers it, so He<sup>azwj</sup> is Saying: “He would not swear by Me<sup>azwj</sup> falsely, the one who recognises what you are saying”."
+          ],
+          "text": "Ali, from his father, and Muhammad Bin Ismail from Al Fazl Bin Shazaan, both together from Ibn Abu Umeyr, from Ibrahim Bin Abdul Hameed, from a sheykh from our companions with a teknonym of Abu Al Hassan,\n\n(It has been narrated) from Abu Ja’far<sup>asws</sup> having said: ‘Allah<sup>azwj</sup> Blessed and High Created a white rooster, its neck is beneath the Throne, and its feet as in the edge of the seventh firmament. For it is a wing in the east and a wing in the west. The roosters (of the world) do not shriek until it shrieks. So whenever it shrieks, it flaps with its wings, then says: ‘Glory be to Allah<sup>azwj</sup>! Glory be to Allah<sup>saww</sup> the Magnificent, Who does not resemble anything’. So Allah<sup>azwj</sup> Blessed and High Answers it, so He<sup>azwj</sup> is Saying: “He would not swear by Me<sup>azwj</sup> falsely, the one who recognises what you are saying”."
+        },
+        "en.sarwar": {
+          "segments": [
+            "11. Ali has narrated from his father from al-Fadl ibn Shadhan all from ibn abu ‘Umayr from Ibrahim ibn ‘Abd al-Hamid from a Shaykh of our people called abu al-Hassan who has narrated the following: “Abu Ja‘far, ‘Alayhi al-Salam, has said that Allah, most Blessed, most High, has created a white rooster whose neck is under the throne and its legs in the center of the seventh earth, its one wing is in the east and one wing in the west. Other roosters do not crow until it crows. When it wants to crow it flaps its wings and says, ‘Tasbih (Allah is free of all defects) and is the most great like whom there is no one.’” He (the Imam) said that ‘Allah, most Blessed, most High, in response says, “A lying person would never swear falsely by My name would he but know about what you say.’”” "
+          ],
+          "text": "11. Ali has narrated from his father from al-Fadl ibn Shadhan all from ibn abu ‘Umayr from Ibrahim ibn ‘Abd al-Hamid from a Shaykh of our people called abu al-Hassan who has narrated the following: “Abu Ja‘far, ‘Alayhi al-Salam, has said that Allah, most Blessed, most High, has created a white rooster whose neck is under the throne and its legs in the center of the seventh earth, its one wing is in the east and one wing in the west. Other roosters do not crow until it crows. When it wants to crow it flaps its wings and says, ‘Tasbih (Allah is free of all defects) and is the most great like whom there is no one.’” He (the Imam) said that ‘Allah, most Blessed, most High, in response says, “A lying person would never swear falsely by My name would he but know about what you say.’””"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مرسل  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (4/311)",
+          "label": "مرسل",
+          "text": "Allamah Baqir al-Majlisi: مرسل - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (4/311)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيٌّ عَنْ أَبِيهِ وَ مُحَمَّدُ بْنُ إِسْمَاعِيلَ عَنِ الْفَضْلِ بْنِ شَاذَانَ جَمِيعاً عَنِ ابْنِ أَبِي عُمَيْرٍ عَنْ إِبْرَاهِيمَ بْنِ عَبْدِ الْحَمِيدِ عَنْ شَيْخٍ مِنْ أَصْحَابِنَا يُكَنَّى أَبَا الْحَسَنِ عَنْ أَبِي جَعْفَرٍ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيٌّ",
+            "path": "/people/narrators/50"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " وَ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ إِسْمَاعِيلَ",
+            "path": "/people/narrators/17"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْفَضْلِ بْنِ شَاذَانَ",
+            "path": "/people/narrators/33"
+          },
+          {
+            "kind": "plain",
+            "text": " جَمِيعاً عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ أَبِي عُمَيْرٍ",
+            "path": "/people/narrators/7"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "إِبْرَاهِيمَ بْنِ عَبْدِ الْحَمِيدِ",
+            "path": "/people/narrators/140"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "شَيْخٍ مِنْ أَصْحَابِنَا يُكَنَّى أَبَا الْحَسَنِ",
+            "path": "/people/narrators/3411"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي جَعْفَرٍ ( عليه السلام )",
+            "path": "/people/narrators/9"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/50",
+          "/people/narrators/2",
+          "/people/narrators/17",
+          "/people/narrators/33",
+          "/people/narrators/7",
+          "/people/narrators/140",
+          "/people/narrators/3411",
+          "/people/narrators/9"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:7:7:2:11",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/7/7/2/11.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

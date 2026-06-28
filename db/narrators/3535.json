@@ -1,0 +1,54 @@
+{
+  "id": 3535,
+  "type": "narrator",
+  "path": "/people/narrators/3535",
+  "titles": {
+    "ar": "عَبْدِ الْكَرِيمِ الْهَمْدَانِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:8:8:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3535-2045": {
+      "narrator_ids": [
+        3535,
+        2045
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:8:3"
+      ]
+    },
+    "6-8-27-792-3535-2045": {
+      "narrator_ids": [
+        6,
+        8,
+        27,
+        792,
+        3535,
+        2045
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:8:3"
+      ]
+    },
+    "792-3535": {
+      "narrator_ids": [
+        792,
+        3535
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:8:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3535",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3535.json"
+  }
+}

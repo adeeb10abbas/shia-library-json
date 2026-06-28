@@ -1,0 +1,55 @@
+{
+  "id": 3722,
+  "type": "narrator",
+  "path": "/people/narrators/3722",
+  "titles": {
+    "ar": "عَلِيِّ بْنِ أَبِي جَهْمَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:4:16:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "21-3722": {
+      "narrator_ids": [
+        21,
+        3722
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:16:4"
+      ]
+    },
+    "3722-1076": {
+      "narrator_ids": [
+        3722,
+        1076
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:16:4"
+      ]
+    },
+    "6-5-414-21-3722-1076-669": {
+      "narrator_ids": [
+        6,
+        5,
+        414,
+        21,
+        3722,
+        1076,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:4:16:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3722",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3722.json"
+  }
+}

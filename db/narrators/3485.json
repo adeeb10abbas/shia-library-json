@@ -1,0 +1,44 @@
+{
+  "id": 3485,
+  "type": "narrator",
+  "path": "/people/narrators/3485",
+  "titles": {
+    "ar": "عَبْدِ الرَّحْمَنِ الْهَاشِمِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:128:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "198-3485": {
+      "narrator_ids": [
+        198,
+        3485
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:128:3"
+      ]
+    },
+    "20-25-5-198-3485": {
+      "narrator_ids": [
+        20,
+        25,
+        5,
+        198,
+        3485
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:128:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3485",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3485.json"
+  }
+}

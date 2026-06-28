@@ -1,0 +1,56 @@
+{
+  "id": 3618,
+  "type": "narrator",
+  "path": "/people/narrators/3618",
+  "titles": {
+    "ar": "عَبْدِ اللَّهِ بْنِ يَحْيَى الْكِنْدِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:8:65:13"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "19-212-179-117-72-3618-2-4057": {
+      "narrator_ids": [
+        19,
+        212,
+        179,
+        117,
+        72,
+        3618,
+        2,
+        4057
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:65:13"
+      ]
+    },
+    "3618-2": {
+      "narrator_ids": [
+        3618,
+        2
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:65:13"
+      ]
+    },
+    "72-3618": {
+      "narrator_ids": [
+        72,
+        3618
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:65:13"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3618",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3618.json"
+  }
+}

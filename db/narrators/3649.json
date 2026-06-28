@@ -1,0 +1,57 @@
+{
+  "id": 3649,
+  "type": "narrator",
+  "path": "/people/narrators/3649",
+  "titles": {
+    "ar": "عُبَيْدِ اللَّهِ بْنِ أَحْمَدَ النَّهِيكِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:3:44:11",
+    "/books/tahdhib-al-ahkam:10:9:97"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "3649-7": {
+      "narrator_ids": [
+        3649,
+        7
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:44:11",
+        "/books/tahdhib-al-ahkam:10:9:97"
+      ]
+    },
+    "49-3649": {
+      "narrator_ids": [
+        49,
+        3649
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:44:11",
+        "/books/tahdhib-al-ahkam:10:9:97"
+      ]
+    },
+    "49-3649-7-6-4224": {
+      "narrator_ids": [
+        49,
+        3649,
+        7,
+        6,
+        4224
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:44:11",
+        "/books/tahdhib-al-ahkam:10:9:97"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3649",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3649.json"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": 3516,
+  "type": "narrator",
+  "path": "/people/narrators/3516",
+  "titles": {
+    "ar": "عَبْدِ السَّلَامِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ نُعَيْمٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:123:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "270-3516": {
+      "narrator_ids": [
+        270,
+        3516
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:123:3"
+      ]
+    },
+    "5-21-270-3516": {
+      "narrator_ids": [
+        5,
+        21,
+        270,
+        3516
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:123:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3516",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3516.json"
+  }
+}

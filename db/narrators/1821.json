@@ -1,0 +1,63 @@
+{
+  "id": 1821,
+  "type": "narrator",
+  "path": "/people/narrators/1821",
+  "titles": {
+    "ar": "إِبْرَاهِيمَ بْنِ زِيَادٍ الْكَرْخِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:1:115:11",
+    "/books/man-la-yahduruhu-al-faqih:3:2:21:81"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "1821-669": {
+      "narrator_ids": [
+        1821,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:115:11"
+      ]
+    },
+    "3-2-7-1821-669": {
+      "narrator_ids": [
+        3,
+        2,
+        7,
+        1821,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:115:11"
+      ]
+    },
+    "53-1821": {
+      "narrator_ids": [
+        53,
+        1821
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:3:2:21:81"
+      ]
+    },
+    "7-1821": {
+      "narrator_ids": [
+        7,
+        1821
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:1:115:11"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1821",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1821.json"
+  }
+}

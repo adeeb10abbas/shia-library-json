@@ -1,0 +1,58 @@
+{
+  "id": 3469,
+  "type": "narrator",
+  "path": "/people/narrators/3469",
+  "titles": {
+    "ar": "عُبَادَةَ بْنِ زِيَادٍ الْأَسَدِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:3:177:9"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1071-3469": {
+      "narrator_ids": [
+        1071,
+        3469
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:177:9"
+      ]
+    },
+    "19-37-1071-3469-269-9-25-145-278-669": {
+      "narrator_ids": [
+        19,
+        37,
+        1071,
+        3469,
+        269,
+        9,
+        25,
+        145,
+        278,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:177:9"
+      ]
+    },
+    "3469-269": {
+      "narrator_ids": [
+        3469,
+        269
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:177:9"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3469",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3469.json"
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:2:4:27",
+  "chapter": {
+    "path": "/books/al-kafi:2:4:27",
+    "titles": {
+      "ar": "بَابُ التَّكَاتُبِ",
+      "en": "Chapter 27 – Correspondence"
+    }
+  },
+  "count": 2,
+  "records": [
+    {
+      "id": "al-kafi:2:4:27:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:2:4:27:1",
+        "parts": [
+          2,
+          4,
+          27,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 4,
+        "chapter": 27,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:2:4:27",
+        "titles": {
+          "ar": "بَابُ التَّكَاتُبِ",
+          "en": "Chapter 27 – Correspondence"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " التَّوَاصُلُ بَيْنَ الْإِخْوَانِ فِي الْحَضَرِ التَّزَاوُرُ وَ فِي السَّفَرِ التَّكَاتُبُ ."
+        ],
+        "text": "التَّوَاصُلُ بَيْنَ الْإِخْوَانِ فِي الْحَضَرِ التَّزَاوُرُ وَ فِي السَّفَرِ التَّكَاتُبُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Ahmad Bin Muhammad and Sahl Bin Ziyad, altogether from Ibn Mahboub, from the one who mentioned it, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Maintenance of relationships between the brethren during the saying (not travelling) is the visitations, and during the journey, is the correspondence’."
+          ],
+          "text": "A number of our companions, from Ahmad Bin Muhammad and Sahl Bin Ziyad, altogether from Ibn Mahboub, from the one who mentioned it,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Maintenance of relationships between the brethren during the saying (not travelling) is the visitations, and during the journey, is the correspondence’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. A number of our people have narrated from Ahmad ibn Muhammad from Sahl ibn Ziyad all from ibn Mahbub from those whom he has mentioned (in his book) from abu ‘Abd Allah (a.s.) who has said the following: “To maintain contact with friends in the town is by visiting, on a journey and out of town by correspondence.” "
+          ],
+          "text": "1. A number of our people have narrated from Ahmad ibn Muhammad from Sahl ibn Ziyad all from ibn Mahbub from those whom he has mentioned (in his book) from abu ‘Abd Allah (a.s.) who has said the following: “To maintain contact with friends in the town is by visiting, on a journey and out of town by correspondence.”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مرسل    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (12/577)",
+          "label": "مرسل",
+          "text": "Allamah Baqir al-Majlisi: مرسل - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (12/577)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ وَ سَهْلِ بْنِ زِيَادٍ جَمِيعاً عَنِ ابْنِ مَحْبُوبٍ عَمَّنْ ذَكَرَهُ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدٍ",
+            "path": "/people/narrators/5"
+          },
+          {
+            "kind": "plain",
+            "text": " وَ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَهْلِ بْنِ زِيَادٍ",
+            "path": "/people/narrators/8"
+          },
+          {
+            "kind": "plain",
+            "text": " جَمِيعاً عَنِ "
+          },
+          {
+            "kind": "plain",
+            "text": "ابْنِ مَحْبُوبٍ عَمَّنْ ذَكَرَهُ"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/5",
+          "/people/narrators/8",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:2:4:27:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/2/4/27/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:2:4:27:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:2:4:27:2",
+        "parts": [
+          2,
+          4,
+          27,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 4,
+        "chapter": 27,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:2:4:27",
+        "titles": {
+          "ar": "بَابُ التَّكَاتُبِ",
+          "en": "Chapter 27 – Correspondence"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " رَدُّ جَوَابِ الْكِتَابِ وَاجِبٌ كَوُجُوبِ رَدِّ السَّلَامِ وَ الْبَادِي بِالسَّلَامِ أَوْلَى بِاللَّهِ وَ رَسُولِهِ ."
+        ],
+        "text": "رَدُّ جَوَابِ الْكِتَابِ وَاجِبٌ كَوُجُوبِ رَدِّ السَّلَامِ وَ الْبَادِي بِالسَّلَامِ أَوْلَى بِاللَّهِ وَ رَسُولِهِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ibn Mahboub, from Abdullah Bin Sinan, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Returning an answer to a letter is as Obligatory as the Obligation of returning the greeting, and the initiator of the greeting is closer with Allah<sup>azwj</sup> and His<sup>azwj</sup> Rasool<sup>saww</sup>’."
+          ],
+          "text": "Ibn Mahboub, from Abdullah Bin Sinan,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘Returning an answer to a letter is as Obligatory as the Obligation of returning the greeting, and the initiator of the greeting is closer with Allah<sup>azwj</sup> and His<sup>azwj</sup> Rasool<sup>saww</sup>’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. Ibn Mahbub has narrated from ‘Abd Allah ibn Sinan from abu ‘Abd Allah (a.s.) who has said the following: “It is necessary to reply a letter just as it is necessary to answer a greeting of peace. The initiator of a greeting of peace is closer to Allah and His messenger.” "
+          ],
+          "text": "2. Ibn Mahbub has narrated from ‘Abd Allah ibn Sinan from abu ‘Abd Allah (a.s.) who has said the following: “It is necessary to reply a letter just as it is necessary to answer a greeting of peace. The initiator of a greeting of peace is closer to Allah and His messenger.”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> صحيح   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (12/577)",
+          "label": "صحيح",
+          "text": "Allamah Baqir al-Majlisi: صحيح - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (12/577)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "ابْنُ مَحْبُوبٍ عَنْ عَبْدِ اللَّهِ بْنِ سِنَانٍ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "ابْنُ مَحْبُوبٍ",
+            "path": "/people/narrators/10"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَبْدِ اللَّهِ بْنِ سِنَانٍ",
+            "path": "/people/narrators/31"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/10",
+          "/people/narrators/31",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:1:4:111:40",
+          "/books/al-kafi:5:3:154:4",
+          "/books/man-la-yahduruhu-al-faqih:4:147:15",
+          "/books/man-la-yahduruhu-al-faqih:4:147:22",
+          "/books/man-la-yahduruhu-al-faqih:4:32:5",
+          "/books/tahdhib-al-ahkam:10:10:38"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:2:4:27:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/2/4/27/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

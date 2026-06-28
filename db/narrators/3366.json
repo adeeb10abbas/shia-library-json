@@ -1,0 +1,43 @@
+{
+  "id": 3366,
+  "type": "narrator",
+  "path": "/people/narrators/3366",
+  "titles": {
+    "ar": "سُلَيْمَانَ بْنِ الْمُفَضَّلِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:98:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "3526-3366": {
+      "narrator_ids": [
+        3526,
+        3366
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:98:2"
+      ]
+    },
+    "4-256-3526-3366": {
+      "narrator_ids": [
+        4,
+        256,
+        3526,
+        3366
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:98:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3366",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3366.json"
+  }
+}

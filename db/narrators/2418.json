@@ -1,0 +1,55 @@
+{
+  "id": 2418,
+  "type": "narrator",
+  "path": "/people/narrators/2418",
+  "titles": {
+    "ar": "إِسْرَائِيلَ بْنِ أَبِي أُسَامَةَ بَيَّاعِ الزُّطِّيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:8:58:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "19-24-22-197-504-2418-669": {
+      "narrator_ids": [
+        19,
+        24,
+        22,
+        197,
+        504,
+        2418,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:58:4"
+      ]
+    },
+    "2418-669": {
+      "narrator_ids": [
+        2418,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:58:4"
+      ]
+    },
+    "504-2418": {
+      "narrator_ids": [
+        504,
+        2418
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:58:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2418",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2418.json"
+  }
+}

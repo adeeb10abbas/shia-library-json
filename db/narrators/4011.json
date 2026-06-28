@@ -1,0 +1,43 @@
+{
+  "id": 4011,
+  "type": "narrator",
+  "path": "/people/narrators/4011",
+  "titles": {
+    "ar": "فُضَيْلِ بْنِ غَزْوَانَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:22:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "4-5-7-4011": {
+      "narrator_ids": [
+        4,
+        5,
+        7,
+        4011
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:22:3"
+      ]
+    },
+    "7-4011": {
+      "narrator_ids": [
+        7,
+        4011
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:22:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4011",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4011.json"
+  }
+}

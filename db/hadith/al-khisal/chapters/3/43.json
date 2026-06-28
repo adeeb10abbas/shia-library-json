@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-khisal",
+  "chapterPath": "/books/al-khisal:3:43",
+  "chapter": {
+    "path": "/books/al-khisal:3:43",
+    "titles": {
+      "en": "Traditions Are of Two Types"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "al-khisal:3:43:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/al-khisal:3:43:1",
+        "parts": [
+          3,
+          43,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 43,
+        "chapter": 1
+      },
+      "chapter": {
+        "path": "/books/al-khisal:3:43",
+        "titles": {
+          "en": "Traditions Are of Two Types"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": حدثنا علي بن إبراهيم، عن أبيه، عن النوفلي، عن السكوني، عن أبي عبد الله، عن أبيه، عن آبائه، عن علي عليهم السلام أنه قال: السنة سنتان: سنة في فريضة الاخذ بها هدى وتركها ضلالة، وسنة في غير فريضة الاخذ بها فضيلة، وتركها غير خطيئة"
+        ],
+        "text": ": حدثنا علي بن إبراهيم، عن أبيه، عن النوفلي، عن السكوني، عن أبي عبد الله، عن أبيه، عن آبائه، عن علي عليهم السلام أنه قال: السنة سنتان: سنة في فريضة الاخذ بها هدى وتركها ضلالة، وسنة في غير فريضة الاخذ بها فضيلة، وتركها غير خطيئة"
+      },
+      "translations": {
+        "en.dr-ali-peiravi": {
+          "segments": [
+            "2-54 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Ali ibn Ibrahim quoted his father, on the authority of Al-Nawfaly, on the authority of Al-Sakoony, on the authority of Aba Abdullah as-Sadiq (MGB), on the authority of his father Al-Baqir (MGB), on the authority of his forefathers (MGB) that Ali (MGB) said, “There are two types of traditions. Some traditions are related to the obligatory. Practicing them leads to guidance and abandoning them leads to deviation. Some other traditions are not obligatory. It is better to practice them, but it is not a sin to abandon them.\""
+          ],
+          "text": "2-54 (The compiler of the book narrated) that his father - may God be pleased with him - narrated that Ali ibn Ibrahim quoted his father, on the authority of Al-Nawfaly, on the authority of Al-Sakoony, on the authority of Aba Abdullah as-Sadiq (MGB), on the authority of his father Al-Baqir (MGB), on the authority of his forefathers (MGB) that Ali (MGB) said, “There are two types of traditions. Some traditions are related to the obligatory. Practicing them leads to guidance and abandoning them leads to deviation. Some other traditions are not obligatory. It is better to practice them, but it is not a sin to abandon them.\""
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "2-54 حدثنا أبي رضي الله عنه قال",
+        "parts": [
+          {
+            "kind": "plain",
+            "text": "2-54 حدثنا "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي رضي الله عنه قال",
+            "path": "/people/narrators/613"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/613"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-khisal:3:43:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-khisal/3/43/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/10/3/43/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

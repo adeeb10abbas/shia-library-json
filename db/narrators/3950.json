@@ -1,0 +1,44 @@
+{
+  "id": 3950,
+  "type": "narrator",
+  "path": "/people/narrators/3950",
+  "titles": {
+    "ar": "عَيْثَمَةَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:7:35:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "366-3950": {
+      "narrator_ids": [
+        366,
+        3950
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:35:1"
+      ]
+    },
+    "4-36-261-366-3950": {
+      "narrator_ids": [
+        4,
+        36,
+        261,
+        366,
+        3950
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:7:35:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3950",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3950.json"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": 1844,
+  "type": "narrator",
+  "path": "/people/narrators/1844",
+  "titles": {
+    "ar": "إِبْرَاهِيمَ بْنِ هِلَالٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:115:26",
+    "/books/tahdhib-al-ahkam:7:8:88"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "3-2-22-132-3109-1844": {
+      "narrator_ids": [
+        3,
+        2,
+        22,
+        132,
+        3109,
+        1844
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:115:26",
+        "/books/tahdhib-al-ahkam:7:8:88"
+      ]
+    },
+    "3109-1844": {
+      "narrator_ids": [
+        3109,
+        1844
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:115:26",
+        "/books/tahdhib-al-ahkam:7:8:88"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1844",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1844.json"
+  }
+}

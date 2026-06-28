@@ -1,0 +1,53 @@
+{
+  "id": 1906,
+  "type": "narrator",
+  "path": "/people/narrators/1906",
+  "titles": {
+    "ar": "ابْنِ وَهْبٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:3:26:3"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1906-669": {
+      "narrator_ids": [
+        1906,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:26:3"
+      ]
+    },
+    "2-1906": {
+      "narrator_ids": [
+        2,
+        1906
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:26:3"
+      ]
+    },
+    "6-12-2-1906-669": {
+      "narrator_ids": [
+        6,
+        12,
+        2,
+        1906,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:3:26:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1906",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1906.json"
+  }
+}

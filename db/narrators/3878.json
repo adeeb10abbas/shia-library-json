@@ -1,0 +1,60 @@
+{
+  "id": 3878,
+  "type": "narrator",
+  "path": "/people/narrators/3878",
+  "titles": {
+    "ar": "عَمْرٍو الْأَزْرَقِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:2:34:6",
+    "/books/tahdhib-al-ahkam:9:29:6"
+  ],
+  "verseCount": 2,
+  "relations": {},
+  "subchains": {
+    "42-3878": {
+      "narrator_ids": [
+        42,
+        3878
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:2:34:6",
+        "/books/tahdhib-al-ahkam:9:29:6"
+      ]
+    },
+    "5-349-4204-3503-42-3878": {
+      "narrator_ids": [
+        5,
+        349,
+        4204,
+        3503,
+        42,
+        3878
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:2:34:6"
+      ]
+    },
+    "952-5-643-3503-42-3878": {
+      "narrator_ids": [
+        952,
+        5,
+        643,
+        3503,
+        42,
+        3878
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:9:29:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3878",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3878.json"
+  }
+}

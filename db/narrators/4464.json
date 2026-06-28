@@ -1,0 +1,94 @@
+{
+  "id": 4464,
+  "type": "narrator",
+  "path": "/people/narrators/4464",
+  "titles": {
+    "ar": "نَجْمِ بْنِ حُطَيْمٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:2:64:2",
+    "/books/kamil-al-ziyarat:2:8:3",
+    "/books/tahdhib-al-ahkam:6:10:4"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "11-4154-5-244-834-4464": {
+      "narrator_ids": [
+        11,
+        4154,
+        5,
+        244,
+        834,
+        4464
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:10:4"
+      ]
+    },
+    "1373-4464": {
+      "narrator_ids": [
+        1373,
+        4464
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:64:2"
+      ]
+    },
+    "4154-5-244-834-4464-9": {
+      "narrator_ids": [
+        4154,
+        5,
+        244,
+        834,
+        4464,
+        9
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:8:3"
+      ]
+    },
+    "4464-9": {
+      "narrator_ids": [
+        4464,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:64:2",
+        "/books/kamil-al-ziyarat:2:8:3"
+      ]
+    },
+    "6-5-259-82-1373-4464-9": {
+      "narrator_ids": [
+        6,
+        5,
+        259,
+        82,
+        1373,
+        4464,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:64:2"
+      ]
+    },
+    "834-4464": {
+      "narrator_ids": [
+        834,
+        4464
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:8:3",
+        "/books/tahdhib-al-ahkam:6:10:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4464",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4464.json"
+  }
+}

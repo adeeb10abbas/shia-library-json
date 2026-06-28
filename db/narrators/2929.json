@@ -1,0 +1,54 @@
+{
+  "id": 2929,
+  "type": "narrator",
+  "path": "/people/narrators/2929",
+  "titles": {
+    "ar": "بَكَّارِ بْنِ بَكْرٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:52:2"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "26-2929": {
+      "narrator_ids": [
+        26,
+        2929
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:52:2"
+      ]
+    },
+    "2929-4436": {
+      "narrator_ids": [
+        2929,
+        4436
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:52:2"
+      ]
+    },
+    "3-2-1215-26-2929-4436": {
+      "narrator_ids": [
+        3,
+        2,
+        1215,
+        26,
+        2929,
+        4436
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:52:2"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2929",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2929.json"
+  }
+}

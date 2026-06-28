@@ -1,0 +1,45 @@
+{
+  "id": 3206,
+  "type": "narrator",
+  "path": "/people/narrators/3206",
+  "titles": {
+    "ar": "رَجُلٍ سَمِعَ أَبَا الْحَسَنِ ( عليه السلام )"
+  },
+  "versePaths": [
+    "/books/al-kafi:2:3:13:8"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "343-3206": {
+      "narrator_ids": [
+        343,
+        3206
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:3:13:8"
+      ]
+    },
+    "6-5-63-260-343-3206": {
+      "narrator_ids": [
+        6,
+        5,
+        63,
+        260,
+        343,
+        3206
+      ],
+      "verse_paths": [
+        "/books/al-kafi:2:3:13:8"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3206",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3206.json"
+  }
+}

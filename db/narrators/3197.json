@@ -1,0 +1,52 @@
+{
+  "id": 3197,
+  "type": "narrator",
+  "path": "/people/narrators/3197",
+  "titles": {
+    "ar": "رَجُلٍ أَنْ يُعْطِيَ قَرَابَتَهُ مِنْ ضَيْعَتِهِ كَذَا"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:1:37:24"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-3198-3197-4069": {
+      "narrator_ids": [
+        11,
+        3198,
+        3197,
+        4069
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:1:37:24"
+      ]
+    },
+    "3197-4069": {
+      "narrator_ids": [
+        3197,
+        4069
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:1:37:24"
+      ]
+    },
+    "3198-3197": {
+      "narrator_ids": [
+        3198,
+        3197
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:1:37:24"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3197",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3197.json"
+  }
+}

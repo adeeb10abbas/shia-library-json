@@ -1,0 +1,54 @@
+{
+  "id": 3993,
+  "type": "narrator",
+  "path": "/people/narrators/3993",
+  "titles": {
+    "ar": "غَيْرِهِمَا يَرْفَعُونَهُ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:50:27"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "32-3993": {
+      "narrator_ids": [
+        32,
+        3993
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:50:27"
+      ]
+    },
+    "3993-669": {
+      "narrator_ids": [
+        3993,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:50:27"
+      ]
+    },
+    "6-8-169-32-3993-669": {
+      "narrator_ids": [
+        6,
+        8,
+        169,
+        32,
+        3993,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:50:27"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3993",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3993.json"
+  }
+}

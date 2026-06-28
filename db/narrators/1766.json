@@ -1,0 +1,46 @@
+{
+  "id": 1766,
+  "type": "narrator",
+  "path": "/people/narrators/1766",
+  "titles": {
+    "ar": "7ـ الْحُسَيْنُ بْنُ مُحَمَّدٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:82:7"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1766-208": {
+      "narrator_ids": [
+        1766,
+        208
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:82:7"
+      ]
+    },
+    "1766-208-1050-63-343-2-669": {
+      "narrator_ids": [
+        1766,
+        208,
+        1050,
+        63,
+        343,
+        2,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:82:7"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1766",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1766.json"
+  }
+}

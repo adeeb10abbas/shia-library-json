@@ -1,0 +1,121 @@
+{
+  "id": 1565,
+  "type": "narrator",
+  "path": "/people/narrators/1565",
+  "titles": {
+    "ar": "عَلِيِّ بْنِ إِسْحَاقَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:8:67:2",
+    "/books/al-kafi:7:1:1:1",
+    "/books/kitab-al-zuhd:2:6:3",
+    "/books/man-la-yahduruhu-al-faqih:4:86:1",
+    "/books/tahdhib-al-ahkam:9:6:11"
+  ],
+  "verseCount": 5,
+  "relations": {},
+  "subchains": {
+    "144-1565": {
+      "narrator_ids": [
+        144,
+        1565
+      ],
+      "verse_paths": [
+        "/books/kitab-al-zuhd:2:6:3"
+      ]
+    },
+    "1565-1497": {
+      "narrator_ids": [
+        1565,
+        1497
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:67:2"
+      ]
+    },
+    "1565-2541": {
+      "narrator_ids": [
+        1565,
+        2541
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:1:1:1",
+        "/books/man-la-yahduruhu-al-faqih:4:86:1",
+        "/books/tahdhib-al-ahkam:9:6:11"
+      ]
+    },
+    "19-24-1565-1497-669": {
+      "narrator_ids": [
+        19,
+        24,
+        1565,
+        1497,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:67:2"
+      ]
+    },
+    "24-1565": {
+      "narrator_ids": [
+        24,
+        1565
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:8:67:2"
+      ]
+    },
+    "3-1565": {
+      "narrator_ids": [
+        3,
+        1565
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:1:1:1",
+        "/books/tahdhib-al-ahkam:9:6:11"
+      ]
+    },
+    "3-1565-2541-587-669": {
+      "narrator_ids": [
+        3,
+        1565,
+        2541,
+        587,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:1:1:1",
+        "/books/tahdhib-al-ahkam:9:6:11"
+      ]
+    },
+    "371-1565": {
+      "narrator_ids": [
+        371,
+        1565
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:4:86:1"
+      ]
+    },
+    "371-1565-2541-587-669": {
+      "narrator_ids": [
+        371,
+        1565,
+        2541,
+        587,
+        669
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:4:86:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1565",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1565.json"
+  }
+}

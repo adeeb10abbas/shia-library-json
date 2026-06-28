@@ -1,0 +1,60 @@
+{
+  "id": 3477,
+  "type": "narrator",
+  "path": "/people/narrators/3477",
+  "titles": {
+    "ar": "عَبْدِ الْحَمِيدِ بْنِ إِسْمَاعِيلَ"
+  },
+  "versePaths": [
+    "/books/al-istibsar:3:126:4",
+    "/books/al-kafi:5:3:131:3",
+    "/books/tahdhib-al-ahkam:8:7:51"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "1843-1011-423-3477": {
+      "narrator_ids": [
+        1843,
+        1011,
+        423,
+        3477
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:3:126:4",
+        "/books/tahdhib-al-ahkam:8:7:51"
+      ]
+    },
+    "3-2-1011-423-3477": {
+      "narrator_ids": [
+        3,
+        2,
+        1011,
+        423,
+        3477
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:131:3"
+      ]
+    },
+    "423-3477": {
+      "narrator_ids": [
+        423,
+        3477
+      ],
+      "verse_paths": [
+        "/books/al-istibsar:3:126:4",
+        "/books/al-kafi:5:3:131:3",
+        "/books/tahdhib-al-ahkam:8:7:51"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3477",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3477.json"
+  }
+}

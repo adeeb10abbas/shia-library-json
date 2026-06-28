@@ -1,0 +1,44 @@
+{
+  "id": 1842,
+  "type": "narrator",
+  "path": "/people/narrators/1842",
+  "titles": {
+    "ar": "إِبْرَاهِيمَ بْنِ مُوسَى"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:121:6"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "4221-1842": {
+      "narrator_ids": [
+        4221,
+        1842
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:121:6"
+      ]
+    },
+    "5-90-27-4221-1842": {
+      "narrator_ids": [
+        5,
+        90,
+        27,
+        4221,
+        1842
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:121:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1842",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1842.json"
+  }
+}

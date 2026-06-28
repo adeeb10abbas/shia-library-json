@@ -1,0 +1,53 @@
+{
+  "id": 2752,
+  "type": "narrator",
+  "path": "/people/narrators/2752",
+  "titles": {
+    "ar": "الْفَضْلِ بْنِ غَزْوَانَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:3:1:36:7"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "15-2752": {
+      "narrator_ids": [
+        15,
+        2752
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:1:36:7"
+      ]
+    },
+    "2752-2663": {
+      "narrator_ids": [
+        2752,
+        2663
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:1:36:7"
+      ]
+    },
+    "6-5-15-2752-2663": {
+      "narrator_ids": [
+        6,
+        5,
+        15,
+        2752,
+        2663
+      ],
+      "verse_paths": [
+        "/books/al-kafi:3:1:36:7"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2752",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2752.json"
+  }
+}

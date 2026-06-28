@@ -1,0 +1,195 @@
+{
+  "id": 1163,
+  "type": "narrator",
+  "path": "/people/narrators/1163",
+  "titles": {
+    "ar": "عَلِيِّ بْنِ مَيْمُونٍ الصَّائِغِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:125:1",
+    "/books/al-kafi:5:2:115:24",
+    "/books/al-kafi:5:2:133:3",
+    "/books/kamil-al-ziyarat:2:49:6",
+    "/books/kamil-al-ziyarat:2:98:11",
+    "/books/kitab-al-ghayba-numani:2:5:3",
+    "/books/tahdhib-al-ahkam:6:16:12",
+    "/books/tahdhib-al-ahkam:7:20:10",
+    "/books/tahdhib-al-ahkam:7:8:83"
+  ],
+  "verseCount": 9,
+  "relations": {},
+  "subchains": {
+    "11-282-1163": {
+      "narrator_ids": [
+        11,
+        282,
+        1163
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:16:12"
+      ]
+    },
+    "1163-126": {
+      "narrator_ids": [
+        1163,
+        126
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-numani:2:5:3"
+      ]
+    },
+    "1163-669": {
+      "narrator_ids": [
+        1163,
+        669
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:49:6",
+        "/books/kamil-al-ziyarat:2:98:11"
+      ]
+    },
+    "138-1163": {
+      "narrator_ids": [
+        138,
+        1163
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:115:24",
+        "/books/tahdhib-al-ahkam:7:8:83"
+      ]
+    },
+    "15-1163": {
+      "narrator_ids": [
+        15,
+        1163
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:133:3",
+        "/books/tahdhib-al-ahkam:7:20:10"
+      ]
+    },
+    "282-1163": {
+      "narrator_ids": [
+        282,
+        1163
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:6:16:12"
+      ]
+    },
+    "4-5-15-1163": {
+      "narrator_ids": [
+        4,
+        5,
+        15,
+        1163
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:133:3"
+      ]
+    },
+    "457-1163": {
+      "narrator_ids": [
+        457,
+        1163
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-numani:2:5:3"
+      ]
+    },
+    "5-15-1163": {
+      "narrator_ids": [
+        5,
+        15,
+        1163
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:20:10"
+      ]
+    },
+    "536-1163": {
+      "narrator_ids": [
+        536,
+        1163
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:125:1"
+      ]
+    },
+    "6-12-1347-536-1163": {
+      "narrator_ids": [
+        6,
+        12,
+        1347,
+        536,
+        1163
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:125:1"
+      ]
+    },
+    "6-12-138-1163": {
+      "narrator_ids": [
+        6,
+        12,
+        138,
+        1163
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:115:24"
+      ]
+    },
+    "613-1163": {
+      "narrator_ids": [
+        613,
+        1163
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:49:6",
+        "/books/kamil-al-ziyarat:2:98:11"
+      ]
+    },
+    "613-1163-669": {
+      "narrator_ids": [
+        613,
+        1163,
+        669
+      ],
+      "verse_paths": [
+        "/books/kamil-al-ziyarat:2:49:6",
+        "/books/kamil-al-ziyarat:2:98:11"
+      ]
+    },
+    "855-138-1163": {
+      "narrator_ids": [
+        855,
+        138,
+        1163
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:8:83"
+      ]
+    },
+    "952-20-25-457-1163-126": {
+      "narrator_ids": [
+        952,
+        20,
+        25,
+        457,
+        1163,
+        126
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-numani:2:5:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1163",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1163.json"
+  }
+}

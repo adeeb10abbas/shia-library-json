@@ -1,0 +1,43 @@
+{
+  "id": 2839,
+  "type": "narrator",
+  "path": "/people/narrators/2839",
+  "titles": {
+    "ar": "أُمِّ الْحَسَنِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:2:159:32"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2093-2839": {
+      "narrator_ids": [
+        2093,
+        2839
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:159:32"
+      ]
+    },
+    "5-41-2093-2839": {
+      "narrator_ids": [
+        5,
+        41,
+        2093,
+        2839
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:2:159:32"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2839",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2839.json"
+  }
+}

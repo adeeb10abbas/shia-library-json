@@ -1,0 +1,42 @@
+{
+  "id": 3860,
+  "type": "narrator",
+  "path": "/people/narrators/3860",
+  "titles": {
+    "ar": "عُمَرَ بْنِ عَبْدِ اللَّهِ الثَّقَفِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:8:1:27:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "11-1315-3860": {
+      "narrator_ids": [
+        11,
+        1315,
+        3860
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:27:1"
+      ]
+    },
+    "1315-3860": {
+      "narrator_ids": [
+        1315,
+        3860
+      ],
+      "verse_paths": [
+        "/books/al-kafi:8:1:27:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3860",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3860.json"
+  }
+}

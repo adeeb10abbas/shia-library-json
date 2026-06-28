@@ -1,0 +1,415 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:2:1:140",
+  "chapter": {
+    "path": "/books/al-kafi:2:1:140",
+    "titles": {
+      "ar": "بَابُ ذِي اللِّسَانَيْنِ",
+      "en": "Chapter 140 – The Two-tongued (Duplicity)"
+    }
+  },
+  "count": 3,
+  "records": [
+    {
+      "id": "al-kafi:2:1:140:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:2:1:140:1",
+        "parts": [
+          2,
+          1,
+          140,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 1,
+        "chapter": 140,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:2:1:140",
+        "titles": {
+          "ar": "بَابُ ذِي اللِّسَانَيْنِ",
+          "en": "Chapter 140 – The Two-tongued (Duplicity)"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " مَنْ لَقِيَ الْمُسْلِمِينَ بِوَجْهَيْنِ وَ لِسَانَيْنِ جَاءَ يَوْمَ الْقِيَامَةِ وَ لَهُ لِسَانَانِ مِنْ نَارٍ ."
+        ],
+        "text": "مَنْ لَقِيَ الْمُسْلِمِينَ بِوَجْهَيْنِ وَ لِسَانَيْنِ جَاءَ يَوْمَ الْقِيَامَةِ وَ لَهُ لِسَانَانِ مِنْ نَارٍ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Muhammad Bin Yahya, from Ahmad Bin Muhammad Bin Isa, from Muhammad Bin Sinan, from Awn Al Qalanasy, from Ibn Abu Yafour, ",
+            "(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The one who meets the Muslims by two faces and two tongues would come on the Day of Judgment and for him would be two tongues of Fire’."
+          ],
+          "text": "Muhammad Bin Yahya, from Ahmad Bin Muhammad Bin Isa, from Muhammad Bin Sinan, from Awn Al Qalanasy, from Ibn Abu Yafour,\n\n(It has been narrated) from Abu Abdullah<sup>asws</sup> having said: ‘The one who meets the Muslims by two faces and two tongues would come on the Day of Judgment and for him would be two tongues of Fire’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad ibn ‘Isa from Muhammad ibn Sinan from ‘Awn al-Qalanisi from ibn abu Ya’fur from abu ‘Abd Allah (a.s.) who has said the following: “Whoever meets the Muslims with two faces and tongues, he on the Day of Judgment will be raised with two tongues of fire.” "
+          ],
+          "text": "1. Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad ibn ‘Isa from Muhammad ibn Sinan from ‘Awn al-Qalanisi from ibn abu Ya’fur from abu ‘Abd Allah (a.s.) who has said the following: “Whoever meets the Muslims with two faces and tongues, he on the Day of Judgment will be raised with two tongues of fire.”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور  </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (0/353)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (0/353)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى عَنْ مُحَمَّدِ بْنِ سِنَانٍ عَنْ عَوْنٍ الْقَلَانِسِيِّ عَنِ ابْنِ أَبِي يَعْفُورٍ عَنْ أَبِي عَبْدِ اللَّهِ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدُ بْنُ يَحْيَى",
+            "path": "/people/narrators/4"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى",
+            "path": "/people/narrators/13"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ سِنَانٍ",
+            "path": "/people/narrators/42"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَوْنٍ الْقَلَانِسِيِّ",
+            "path": "/people/narrators/3944"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "ابْنِ أَبِي يَعْفُورٍ",
+            "path": "/people/narrators/126"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي عَبْدِ اللَّهِ ( عليه السلام )",
+            "path": "/people/narrators/669"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4",
+          "/people/narrators/13",
+          "/people/narrators/42",
+          "/people/narrators/3944",
+          "/people/narrators/126",
+          "/people/narrators/669"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:2:1:140:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/2/1/140/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:2:1:140:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:2:1:140:2",
+        "parts": [
+          2,
+          1,
+          140,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 1,
+        "chapter": 140,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:2:1:140",
+        "titles": {
+          "ar": "بَابُ ذِي اللِّسَانَيْنِ",
+          "en": "Chapter 140 – The Two-tongued (Duplicity)"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " بِئْسَ الْعَبْدُ عَبْدٌ يَكُونُ ذَا وَجْهَيْنِ وَ ذَا لِسَانَيْنِ يُطْرِي أَخَاهُ شَاهِداً وَ يَأْكُلُهُ غَائِباً إِنْ أُعْطِيَ حَسَدَهُ وَ إِنِ ابْتُلِيَ خَذَلَهُ ."
+        ],
+        "text": "بِئْسَ الْعَبْدُ عَبْدٌ يَكُونُ ذَا وَجْهَيْنِ وَ ذَا لِسَانَيْنِ يُطْرِي أَخَاهُ شَاهِداً وَ يَأْكُلُهُ غَائِباً إِنْ أُعْطِيَ حَسَدَهُ وَ إِنِ ابْتُلِيَ خَذَلَهُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Ahmad Bin Muhammad Bin Khalid, from Usman Bin Isa, from Abu Shayba, from Al Zuhry, ",
+            "(It has been narrated) from Abu Ja’far<sup>asws</sup> having said: ‘The worst servant is a servant who happens to be with two faces and with two tongues, flattering his brother when present and devouring (backbiting) him when absent. If his brother (in <span class=\"iTxt\">Eman</span>) is given (a Bounty) he envies him, and if his brother (in <span class=\"iTxt\">Eman</span>) is afflicted, abandons him’."
+          ],
+          "text": "A number of our companions, from Ahmad Bin Muhammad Bin Khalid, from Usman Bin Isa, from Abu Shayba, from Al Zuhry,\n\n(It has been narrated) from Abu Ja’far<sup>asws</sup> having said: ‘The worst servant is a servant who happens to be with two faces and with two tongues, flattering his brother when present and devouring (backbiting) him when absent. If his brother (in <span class=\"iTxt\">Eman</span>) is given (a Bounty) he envies him, and if his brother (in <span class=\"iTxt\">Eman</span>) is afflicted, abandons him’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. A number of our people have narrated from Ahmad ibn Muhammad ibn Khalid from ‘Uthman ibn ‘Isa from abu Shaybah from al-Zuhri from abu ‘Ja’far (a.s.) who has said the following: “The worst servant (of Allah) is a servant who has two faces and tongues. He praises his brother (in belief) on his face and backbites him in his absence. If his brother (in belief) gains something, he envies him, and if he faces difficult conditions, he betrays him.” "
+          ],
+          "text": "2. A number of our people have narrated from Ahmad ibn Muhammad ibn Khalid from ‘Uthman ibn ‘Isa from abu Shaybah from al-Zuhri from abu ‘Ja’far (a.s.) who has said the following: “The worst servant (of Allah) is a servant who has two faces and tongues. He praises his brother (in belief) on his face and backbites him in his absence. If his brother (in belief) gains something, he envies him, and if he faces difficult conditions, he betrays him.”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مجهول   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (10/355)",
+          "label": "مجهول",
+          "text": "Allamah Baqir al-Majlisi: مجهول - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (10/355)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ خَالِدٍ عَنْ عُثْمَانَ بْنِ عِيسَى عَنْ أَبِي شَيْبَةَ عَنِ الزُّهْرِيِّ عَنْ أَبِي جَعْفَرٍ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَحْمَدَ بْنِ مُحَمَّدِ بْنِ خَالِدٍ",
+            "path": "/people/narrators/12"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عُثْمَانَ بْنِ عِيسَى",
+            "path": "/people/narrators/41"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي شَيْبَةَ",
+            "path": "/people/narrators/1277"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الزُّهْرِيِّ",
+            "path": "/people/narrators/438"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي جَعْفَرٍ ( عليه السلام )",
+            "path": "/people/narrators/9"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/12",
+          "/people/narrators/41",
+          "/people/narrators/1277",
+          "/people/narrators/438",
+          "/people/narrators/9"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:2:1:140:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/2/1/140/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:2:1:140:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:2:1:140:3",
+        "parts": [
+          2,
+          1,
+          140,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 2,
+        "book": 1,
+        "chapter": 140,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:2:1:140",
+        "titles": {
+          "ar": "بَابُ ذِي اللِّسَانَيْنِ",
+          "en": "Chapter 140 – The Two-tongued (Duplicity)"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " قَالَ اللَّهُ تَبَارَكَ وَ تَعَالَى لِعِيسَى ابْنِ مَرْيَمَ ( عليه السلام ) يَا عِيسَى لِيَكُنْ لِسَانُكَ فِي السِّرِّ وَ الْعَلَانِيَةِ لِسَاناً وَاحِداً وَ كَذَلِكَ قَلْبُكَ إِنِّي أُحَذِّرُكَ نَفْسَكَ وَ كَفَى بِي خَبِيراً لَا يَصْلُحُ لِسَانَانِ فِي فَمٍ وَاحِدٍ وَ لَا سَيْفَانِ فِي غِمْدٍ وَاحِدٍ وَ لَا قَلْبَانِ فِي صَدْرٍ وَاحِدٍ وَ كَذَلِكَ الْأَذْهَانُ ."
+        ],
+        "text": "قَالَ اللَّهُ تَبَارَكَ وَ تَعَالَى لِعِيسَى ابْنِ مَرْيَمَ ( عليه السلام ) يَا عِيسَى لِيَكُنْ لِسَانُكَ فِي السِّرِّ وَ الْعَلَانِيَةِ لِسَاناً وَاحِداً وَ كَذَلِكَ قَلْبُكَ إِنِّي أُحَذِّرُكَ نَفْسَكَ وَ كَفَى بِي خَبِيراً لَا يَصْلُحُ لِسَانَانِ فِي فَمٍ وَاحِدٍ وَ لَا سَيْفَانِ فِي غِمْدٍ وَاحِدٍ وَ لَا قَلْبَانِ فِي صَدْرٍ وَاحِدٍ وَ كَذَلِكَ الْأَذْهَانُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Ali Bin Ibrahim, from his father, from Ali Bin Asbaat, from Abdul Rashman Bin Hammad, raising it, said, ",
+            "‘Allah<sup>azwj</sup> blessed and High Said to Isa<sup>as</sup> Ibn Maryam<sup>as</sup>: “O Isa<sup>as</sup>! Let your<sup>as</sup> tongue during the privacy and the public be one tongue, and similar to that, your heart. I<sup>azwj</sup> Caution you<sup>as</sup> of yourself<sup>as</sup> and suffice with Me<sup>azwj</sup> as an All-Knowing. It is not correct for there to be two tongues in one mouth, nor two swords in one sheath, nor two hearts in one chest, and similar to that are the minds’."
+          ],
+          "text": "Ali Bin Ibrahim, from his father, from Ali Bin Asbaat, from Abdul Rashman Bin Hammad, raising it, said,\n\n‘Allah<sup>azwj</sup> blessed and High Said to Isa<sup>as</sup> Ibn Maryam<sup>as</sup>: “O Isa<sup>as</sup>! Let your<sup>as</sup> tongue during the privacy and the public be one tongue, and similar to that, your heart. I<sup>azwj</sup> Caution you<sup>as</sup> of yourself<sup>as</sup> and suffice with Me<sup>azwj</sup> as an All-Knowing. It is not correct for there to be two tongues in one mouth, nor two swords in one sheath, nor two hearts in one chest, and similar to that are the minds’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "3. Ali ibn Ibrahim has narrated from his father from Ali ibn Asbat from ‘Abd al- Rahman ibn Hammad in a marfu’ manner from the Imam who has said the following: “Allah, the Most Blessed, the Most High, said to Jesus, son of Mary (peace be upon them), ‘O Jesus, your tongue must be one tongue in private and in public so also must be your heart. I warn you against your own soul and Myself am a sufficient expert over your (activities). Two tongues are not proper for one mouth just as two swords are not proper in one sheath or two hearts in one chest, and so also are minds.’” "
+          ],
+          "text": "3. Ali ibn Ibrahim has narrated from his father from Ali ibn Asbat from ‘Abd al- Rahman ibn Hammad in a marfu’ manner from the Imam who has said the following: “Allah, the Most Blessed, the Most High, said to Jesus, son of Mary (peace be upon them), ‘O Jesus, your tongue must be one tongue in private and in public so also must be your heart. I warn you against your own soul and Myself am a sufficient expert over your (activities). Two tongues are not proper for one mouth just as two swords are not proper in one sheath or two hearts in one chest, and so also are minds.’”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مرفوع   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (0/356)",
+          "label": "مرفوع",
+          "text": "Allamah Baqir al-Majlisi: مرفوع - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (0/356)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنْ عَلِيِّ بْنِ أَسْبَاطٍ عَنْ عَبْدِ الرَّحْمَنِ بْنِ حَمَّادٍ رَفَعَهُ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عَلِيُّ بْنُ إِبْرَاهِيمَ",
+            "path": "/people/narrators/3"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِيهِ",
+            "path": "/people/narrators/2"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيِّ بْنِ أَسْبَاطٍ",
+            "path": "/people/narrators/68"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَبْدِ الرَّحْمَنِ بْنِ حَمَّادٍ",
+            "path": "/people/narrators/426"
+          },
+          {
+            "kind": "plain",
+            "text": " رَفَعَهُ قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/3",
+          "/people/narrators/2",
+          "/people/narrators/68",
+          "/people/narrators/426"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:2:1:140:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/2/1/140/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

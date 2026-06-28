@@ -1,0 +1,54 @@
+{
+  "id": 3525,
+  "type": "narrator",
+  "path": "/people/narrators/3525",
+  "titles": {
+    "ar": "عَبْدِ الْعَزِيزِ بْنِ حَسَّانَ الْبَغْدَادِيِّ"
+  },
+  "versePaths": [
+    "/books/al-kafi:6:6:129:1"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "248-3525": {
+      "narrator_ids": [
+        248,
+        3525
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:129:1"
+      ]
+    },
+    "3525-156": {
+      "narrator_ids": [
+        3525,
+        156
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:129:1"
+      ]
+    },
+    "6-8-248-3525-156-543": {
+      "narrator_ids": [
+        6,
+        8,
+        248,
+        3525,
+        156,
+        543
+      ],
+      "verse_paths": [
+        "/books/al-kafi:6:6:129:1"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/3525",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/3525.json"
+  }
+}

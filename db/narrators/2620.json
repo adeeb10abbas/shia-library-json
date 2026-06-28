@@ -1,0 +1,53 @@
+{
+  "id": 2620,
+  "type": "narrator",
+  "path": "/people/narrators/2620",
+  "titles": {
+    "ar": "الْحُسَيْنِ بْنِ أَيْمَنَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:1:35:6"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "2620-9": {
+      "narrator_ids": [
+        2620,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:35:6"
+      ]
+    },
+    "268-2620": {
+      "narrator_ids": [
+        268,
+        2620
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:35:6"
+      ]
+    },
+    "5-2-268-2620-9": {
+      "narrator_ids": [
+        5,
+        2,
+        268,
+        2620,
+        9
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:1:35:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2620",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2620.json"
+  }
+}

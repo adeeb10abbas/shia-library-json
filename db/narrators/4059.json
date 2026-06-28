@@ -1,0 +1,56 @@
+{
+  "id": 4059,
+  "type": "narrator",
+  "path": "/people/narrators/4059",
+  "titles": {
+    "ar": "كَانَ مَعَنَا حَاجّاً"
+  },
+  "versePaths": [
+    "/books/al-istibsar:2:5:2",
+    "/books/al-kafi:4:2:75:9",
+    "/books/man-la-yahduruhu-al-faqih:2:2:37:3"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "2988-4059": {
+      "narrator_ids": [
+        2988,
+        4059
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:75:9",
+        "/books/man-la-yahduruhu-al-faqih:2:2:37:3"
+      ]
+    },
+    "4-59-2988-4059": {
+      "narrator_ids": [
+        4,
+        59,
+        2988,
+        4059
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:2:75:9"
+      ]
+    },
+    "4134-2988-4059": {
+      "narrator_ids": [
+        4134,
+        2988,
+        4059
+      ],
+      "verse_paths": [
+        "/books/man-la-yahduruhu-al-faqih:2:2:37:3"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4059",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4059.json"
+  }
+}

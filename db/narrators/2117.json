@@ -1,0 +1,125 @@
+{
+  "id": 2117,
+  "type": "narrator",
+  "path": "/people/narrators/2117",
+  "titles": {
+    "ar": "أَبِي صَالِحٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:3:50:1",
+    "/books/kitab-al-ghayba-tusi:28:10",
+    "/books/kitab-al-ghayba-tusi:28:2",
+    "/books/tahdhib-al-ahkam:10:9:147",
+    "/books/tahdhib-al-ahkam:7:3:34"
+  ],
+  "verseCount": 5,
+  "relations": {},
+  "subchains": {
+    "102-2117": {
+      "narrator_ids": [
+        102,
+        2117
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:3:34"
+      ]
+    },
+    "11-2117": {
+      "narrator_ids": [
+        11,
+        2117
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:28:10"
+      ]
+    },
+    "11-69-46-102-2117": {
+      "narrator_ids": [
+        11,
+        69,
+        46,
+        102,
+        2117
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:3:34"
+      ]
+    },
+    "1126-1211-180-2117": {
+      "narrator_ids": [
+        1126,
+        1211,
+        180,
+        2117
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:28:2"
+      ]
+    },
+    "180-2117": {
+      "narrator_ids": [
+        180,
+        2117
+      ],
+      "verse_paths": [
+        "/books/kitab-al-ghayba-tusi:28:2"
+      ]
+    },
+    "2117-669": {
+      "narrator_ids": [
+        2117,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:50:1",
+        "/books/tahdhib-al-ahkam:10:9:147"
+      ]
+    },
+    "4-5-15-49-107-717-52-2117-669": {
+      "narrator_ids": [
+        4,
+        5,
+        15,
+        49,
+        107,
+        717,
+        52,
+        2117,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:50:1"
+      ]
+    },
+    "5-15-52-2117-669": {
+      "narrator_ids": [
+        5,
+        15,
+        52,
+        2117,
+        669
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:10:9:147"
+      ]
+    },
+    "52-2117": {
+      "narrator_ids": [
+        52,
+        2117
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:3:50:1",
+        "/books/tahdhib-al-ahkam:10:9:147"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2117",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2117.json"
+  }
+}

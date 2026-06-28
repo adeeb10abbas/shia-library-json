@@ -1,0 +1,44 @@
+{
+  "id": 4467,
+  "type": "narrator",
+  "path": "/people/narrators/4467",
+  "titles": {
+    "ar": "نَجِيَّةَ الْعَطَّارِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:7:7:18:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "152-4467": {
+      "narrator_ids": [
+        152,
+        4467
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:7:18:4"
+      ]
+    },
+    "4-5-151-152-4467": {
+      "narrator_ids": [
+        4,
+        5,
+        151,
+        152,
+        4467
+      ],
+      "verse_paths": [
+        "/books/al-kafi:7:7:18:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/4467",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/4467.json"
+  }
+}

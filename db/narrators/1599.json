@@ -1,0 +1,117 @@
+{
+  "id": 1599,
+  "type": "narrator",
+  "path": "/people/narrators/1599",
+  "titles": {
+    "ar": "عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ خَالِدٍ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:2:17:7",
+    "/books/al-kafi:5:3:102:2",
+    "/books/tahdhib-al-ahkam:7:23:73"
+  ],
+  "verseCount": 3,
+  "relations": {},
+  "subchains": {
+    "1599-32": {
+      "narrator_ids": [
+        1599,
+        32
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:2:17:7"
+      ]
+    },
+    "1599-67": {
+      "narrator_ids": [
+        1599,
+        67
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:102:2",
+        "/books/tahdhib-al-ahkam:7:23:73"
+      ]
+    },
+    "2-1599": {
+      "narrator_ids": [
+        2,
+        1599
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:2:17:7"
+      ]
+    },
+    "3-2-129-739-6-8-119-362-1599-67-362-1815-148": {
+      "narrator_ids": [
+        3,
+        2,
+        129,
+        739,
+        6,
+        8,
+        119,
+        362,
+        1599,
+        67,
+        362,
+        1815,
+        148
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:102:2"
+      ]
+    },
+    "3-2-1599-32-34-669": {
+      "narrator_ids": [
+        3,
+        2,
+        1599,
+        32,
+        34,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:2:17:7"
+      ]
+    },
+    "362-1599": {
+      "narrator_ids": [
+        362,
+        1599
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:102:2",
+        "/books/tahdhib-al-ahkam:7:23:73"
+      ]
+    },
+    "952-3-2-129-739-6-8-119-362-1599-67-362-1815-148": {
+      "narrator_ids": [
+        952,
+        3,
+        2,
+        129,
+        739,
+        6,
+        8,
+        119,
+        362,
+        1599,
+        67,
+        362,
+        1815,
+        148
+      ],
+      "verse_paths": [
+        "/books/tahdhib-al-ahkam:7:23:73"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1599",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1599.json"
+  }
+}

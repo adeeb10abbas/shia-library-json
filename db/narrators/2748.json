@@ -1,0 +1,56 @@
+{
+  "id": 2748,
+  "type": "narrator",
+  "path": "/people/narrators/2748",
+  "titles": {
+    "ar": "الْفَضْلِ بْنِ شَاذَانَ [جَمِيعاً]"
+  },
+  "versePaths": [
+    "/books/al-kafi:5:3:58:4"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "17-2748": {
+      "narrator_ids": [
+        17,
+        2748
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:58:4"
+      ]
+    },
+    "2748-7": {
+      "narrator_ids": [
+        2748,
+        7
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:58:4"
+      ]
+    },
+    "3-2-17-2748-7-47-279-669": {
+      "narrator_ids": [
+        3,
+        2,
+        17,
+        2748,
+        7,
+        47,
+        279,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:5:3:58:4"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2748",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2748.json"
+  }
+}

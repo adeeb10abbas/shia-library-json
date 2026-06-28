@@ -1,0 +1,112 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "fadail-al-shia",
+  "chapterPath": "/books/fadail-al-shia:33",
+  "chapter": {
+    "path": "/books/fadail-al-shia:33",
+    "titles": {
+      "en": "Divine forgiveness for believers' sins"
+    }
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": "fadail-al-shia:33:1",
+      "type": "hadith",
+      "book": {
+        "slug": "fadail-al-shia",
+        "titles": {
+          "ar": "فضائل الشيعة",
+          "en": "Fada'il al-Shi'a"
+        },
+        "author": {
+          "ar": "الشيخ الصدوق",
+          "en": "Shaykh al-Saduq"
+        }
+      },
+      "path": {
+        "source": "/books/fadail-al-shia:33:1",
+        "parts": [
+          33,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 33,
+        "book": 1
+      },
+      "chapter": {
+        "path": "/books/fadail-al-shia:33",
+        "titles": {
+          "en": "Divine forgiveness for believers' sins"
+        }
+      },
+      "arabic": {
+        "segments": [
+          ": إنّ ذنوب المؤمنين مغفورة لهم فليعمل المؤمن لما يستأنف، أما إنّها ليست إلاّ لأهل الايمان."
+        ],
+        "text": ": إنّ ذنوب المؤمنين مغفورة لهم فليعمل المؤمن لما يستأنف، أما إنّها ليست إلاّ لأهل الايمان."
+      },
+      "translations": {
+        "en.badr-shahin": {
+          "segments": [
+            "(The same previous series of relaters)… from al-Hasan in Mahboub from al-Alaa from Mohammed bin Muslim that Abu Ja’far (a) said: The sins of the believers are already forgiven. Hence, a believer should put a new start. This is surely granted for the people of faith exclusively."
+          ],
+          "text": "(The same previous series of relaters)… from al-Hasan in Mahboub from al-Alaa from Mohammed bin Muslim that Abu Ja’far (a) said: The sins of the believers are already forgiven. Hence, a believer should put a new start. This is surely granted for the people of faith exclusively."
+        }
+      },
+      "gradings": [],
+      "narratorChain": {
+        "raw": "وبهذا الاسناد، عن الحسن بن محبوب، عن العلاء، عن محمّد بن مسلم، عن أبي جعفر عليه السلام قال",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "وبهذا الاسناد،",
+            "path": "/people/narrators/4521"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "الحسن بن محبوب،",
+            "path": "/people/narrators/53"
+          },
+          {
+            "kind": "plain",
+            "text": " عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "العلاء،",
+            "path": "/people/narrators/112"
+          },
+          {
+            "kind": "plain",
+            "text": " عن محمّد بن مسلم، عن "
+          },
+          {
+            "kind": "narrator",
+            "text": "أبي جعفر عليه السلام قال",
+            "path": "/people/narrators/9"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/4521",
+          "/people/narrators/53",
+          "/people/narrators/112",
+          "/people/narrators/9"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/fadail-al-shia:33:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/fadail-al-shia/33/1.json",
+        "sourceUrl": "https://thaqalayn.net/hadith/25/1/31/1",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

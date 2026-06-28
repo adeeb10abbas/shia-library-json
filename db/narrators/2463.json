@@ -1,0 +1,44 @@
+{
+  "id": 2463,
+  "type": "narrator",
+  "path": "/people/narrators/2463",
+  "titles": {
+    "ar": "إِسْمَاعِيلَ بْنِ نَجِيحٍ الرَّمَّاحِ"
+  },
+  "versePaths": [
+    "/books/al-kafi:4:3:198:12"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "109-2463": {
+      "narrator_ids": [
+        109,
+        2463
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:198:12"
+      ]
+    },
+    "49-94-202-109-2463": {
+      "narrator_ids": [
+        49,
+        94,
+        202,
+        109,
+        2463
+      ],
+      "verse_paths": [
+        "/books/al-kafi:4:3:198:12"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/2463",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/2463.json"
+  }
+}

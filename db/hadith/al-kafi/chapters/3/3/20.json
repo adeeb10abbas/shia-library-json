@@ -1,0 +1,414 @@
+{
+  "generatedAt": "2026-06-27T22:28:08.316Z",
+  "book": "al-kafi",
+  "chapterPath": "/books/al-kafi:3:3:20",
+  "chapter": {
+    "path": "/books/al-kafi:3:3:20",
+    "titles": {
+      "ar": "باب تَكْفِينِ الْمَرْأَةِ",
+      "en": "Chapter 20 – Enshrouding the woman"
+    }
+  },
+  "count": 3,
+  "records": [
+    {
+      "id": "al-kafi:3:3:20:1",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:3:3:20:1",
+        "parts": [
+          3,
+          3,
+          20,
+          1
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 3,
+        "chapter": 20,
+        "hadith": 1
+      },
+      "chapter": {
+        "path": "/books/al-kafi:3:3:20",
+        "titles": {
+          "ar": "باب تَكْفِينِ الْمَرْأَةِ",
+          "en": "Chapter 20 – Enshrouding the woman"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَأَلْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) فِي كَمْ تُكَفَّنُ الْمَرْأَةُ قَالَ تُكَفَّنُ فِي خَمْسَةِ أَثْوَابٍ أَحَدُهَا الْخِمَارُ ."
+        ],
+        "text": "سَأَلْتُ أَبَا عَبْدِ اللَّهِ ( عليه السلام ) فِي كَمْ تُكَفَّنُ الْمَرْأَةُ قَالَ تُكَفَّنُ فِي خَمْسَةِ أَثْوَابٍ أَحَدُهَا الْخِمَارُ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Humeyd Bin Ziyad, from Al Hassan Bin Muhammad Al Kindy, from someone else, from Aban Bin Usman, from Abdul Rahman Bin Abu Abdullah, said, ",
+            "‘Abu Abdullah<sup>asws</sup> was asked regarding enshrouding the woman. He<sup>asws</sup> said: ‘She would be shrouded in five clothes, one of them being the scarf’."
+          ],
+          "text": "Humeyd Bin Ziyad, from Al Hassan Bin Muhammad Al Kindy, from someone else, from Aban Bin Usman, from Abdul Rahman Bin Abu Abdullah, said,\n\n‘Abu Abdullah<sup>asws</sup> was asked regarding enshrouding the woman. He<sup>asws</sup> said: ‘She would be shrouded in five clothes, one of them being the scarf’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "1. Humayd ibn Ziyad has narrated from al-Hassan ibn Muhammad al-Kindiy from more than one person from Aban ibn ‘Uthman from ‘Abd af-Rahman ibn abu ‘Abd Aliah who has said the following: “I once asked abu ‘Abd Allah, ‘Alayhi al-Salam, about how many pieces of fabric must be used for shrouding a woman. He (the Imam) said, ‘Five pieces of fabric must be used for shrouding a woman, of which one is al-Khimar (veil)” "
+          ],
+          "text": "1. Humayd ibn Ziyad has narrated from al-Hassan ibn Muhammad al-Kindiy from more than one person from Aban ibn ‘Uthman from ‘Abd af-Rahman ibn abu ‘Abd Aliah who has said the following: “I once asked abu ‘Abd Allah, ‘Alayhi al-Salam, about how many pieces of fabric must be used for shrouding a woman. He (the Imam) said, ‘Five pieces of fabric must be used for shrouding a woman, of which one is al-Khimar (veil)”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> مرسل كالموثق   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (13/315)",
+          "label": "مرسل كالموثق",
+          "text": "Allamah Baqir al-Majlisi: مرسل كالموثق - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (13/315)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "حُمَيْدُ بْنُ زِيَادٍ عَنِ الْحَسَنِ بْنِ مُحَمَّدٍ الْكِنْدِيِّ عَنْ غَيْرِ وَاحِدٍ عَنْ أَبَانِ بْنِ عُثْمَانَ عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي عَبْدِ اللَّهِ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "حُمَيْدُ بْنُ زِيَادٍ",
+            "path": "/people/narrators/49"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنِ "
+          },
+          {
+            "kind": "narrator",
+            "text": "الْحَسَنِ بْنِ مُحَمَّدٍ الْكِنْدِيِّ",
+            "path": "/people/narrators/345"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "غَيْرِ وَاحِدٍ",
+            "path": "/people/narrators/84"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبَانِ بْنِ عُثْمَانَ",
+            "path": "/people/narrators/52"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَبْدِ الرَّحْمَنِ بْنِ أَبِي عَبْدِ اللَّهِ",
+            "path": "/people/narrators/102"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/49",
+          "/people/narrators/345",
+          "/people/narrators/84",
+          "/people/narrators/52",
+          "/people/narrators/102"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:3:3:29:4",
+          "/books/tahdhib-al-ahkam:1:39:59"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:3:3:20:1",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/3/3/20/1.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:3:3:20:2",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:3:3:20:2",
+        "parts": [
+          3,
+          3,
+          20,
+          2
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 3,
+        "chapter": 20,
+        "hadith": 2
+      },
+      "chapter": {
+        "path": "/books/al-kafi:3:3:20",
+        "titles": {
+          "ar": "باب تَكْفِينِ الْمَرْأَةِ",
+          "en": "Chapter 20 – Enshrouding the woman"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " سَأَلْتُهُ كَيْفَ تُكَفَّنُ الْمَرْأَةُ فَقَالَ كَمَا يُكَفَّنُ الرَّجُلُ غَيْرَ أَنَّهَا تُشَدُّ عَلَى ثَدْيَيْهَا خِرْقَةٌ تَضُمُّ الثَّدْيَ إِلَى الصَّدْرِ وَ تُشَدُّ عَلَى ظَهْرِهَا وَ يُصْنَعُ لَهَا الْقُطْنُ أَكْثَرَ مِمَّا يُصْنَعُ لِلرِّجَالِ وَ يُحْشَى الْقُبُلُ وَ الدُّبُرُ بِالْقُطْنِ وَ الْحَنُوطِ ثُمَّ تُشَدُّ عَلَيْهَا الْخِرْقَةُ شَدّاً شَدِيداً ."
+        ],
+        "text": "سَأَلْتُهُ كَيْفَ تُكَفَّنُ الْمَرْأَةُ فَقَالَ كَمَا يُكَفَّنُ الرَّجُلُ غَيْرَ أَنَّهَا تُشَدُّ عَلَى ثَدْيَيْهَا خِرْقَةٌ تَضُمُّ الثَّدْيَ إِلَى الصَّدْرِ وَ تُشَدُّ عَلَى ظَهْرِهَا وَ يُصْنَعُ لَهَا الْقُطْنُ أَكْثَرَ مِمَّا يُصْنَعُ لِلرِّجَالِ وَ يُحْشَى الْقُبُلُ وَ الدُّبُرُ بِالْقُطْنِ وَ الْحَنُوطِ ثُمَّ تُشَدُّ عَلَيْهَا الْخِرْقَةُ شَدّاً شَدِيداً ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "A number of our companions, from Sahl Bin Ziyad, from one of our companions, raising it, said, ",
+            "‘I asked him<sup>asws</sup> about how the woman would be enshrouded. So he<sup>asws</sup> said: ‘Just as the man would be enshrouded, apart from that a cloth would be tightened upon her breasts to press the breasts upon the chest and it would be tightened upon her back, and the cotton (padding) would be done for her more than what would be done for the man, and stuffing the front and the back with the cotton and the embalming (camphor), then the cloth would be tightened upon her with an intense tightening’."
+          ],
+          "text": "A number of our companions, from Sahl Bin Ziyad, from one of our companions, raising it, said,\n\n‘I asked him<sup>asws</sup> about how the woman would be enshrouded. So he<sup>asws</sup> said: ‘Just as the man would be enshrouded, apart from that a cloth would be tightened upon her breasts to press the breasts upon the chest and it would be tightened upon her back, and the cotton (padding) would be done for her more than what would be done for the man, and stuffing the front and the back with the cotton and the embalming (camphor), then the cloth would be tightened upon her with an intense tightening’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "2. A number of our people have narrated from Sahl ibn Ziyad from certain persons of our people in a marfu‘ manner who has said the following: “I once asked abu ‘Abd Allah, ‘Alayhi al-Salam, about how must a woman be shrouded. He (the Imam) said, ‘A deceased woman is shrouded just like a deceased man, except that a piece of fabric is used to tie down her breasts to her chest, with the other end tied down behind her back. More cotton and camphor is used for hunut and to fill her back and front private parts and the piece of fabric is very tightly tied down around lower part of her body (as mentioned in the case of a deceased man).” "
+          ],
+          "text": "2. A number of our people have narrated from Sahl ibn Ziyad from certain persons of our people in a marfu‘ manner who has said the following: “I once asked abu ‘Abd Allah, ‘Alayhi al-Salam, about how must a woman be shrouded. He (the Imam) said, ‘A deceased woman is shrouded just like a deceased man, except that a piece of fabric is used to tie down her breasts to her chest, with the other end tied down behind her back. More cotton and camphor is used for hunut and to fill her back and front private parts and the piece of fabric is very tightly tied down around lower part of her body (as mentioned in the case of a deceased man).”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> ضعيف على المشهور   </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (3/316)",
+          "label": "ضعيف على المشهور",
+          "text": "Allamah Baqir al-Majlisi: ضعيف على المشهور - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (3/316)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ سَهْلِ بْنِ زِيَادٍ عَنْ بَعْضِ أَصْحَابِنَا رَفَعَهُ قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "عِدَّةٌ مِنْ أَصْحَابِنَا",
+            "path": "/people/narrators/6"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "سَهْلِ بْنِ زِيَادٍ",
+            "path": "/people/narrators/8"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "بَعْضِ أَصْحَابِنَا",
+            "path": "/people/narrators/36"
+          },
+          {
+            "kind": "plain",
+            "text": " رَفَعَهُ قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/6",
+          "/people/narrators/8",
+          "/people/narrators/36"
+        ]
+      },
+      "relations": {
+        "Shared Chain": [
+          "/books/al-kafi:6:6:128:2"
+        ]
+      },
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:3:3:20:2",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/3/3/20/2.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "id": "al-kafi:3:3:20:3",
+      "type": "hadith",
+      "book": {
+        "slug": "al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        },
+        "author": {
+          "ar": "الشيخ الكليني",
+          "en": "Shaykh al-Kulayni"
+        }
+      },
+      "path": {
+        "source": "/books/al-kafi:3:3:20:3",
+        "parts": [
+          3,
+          3,
+          20,
+          3
+        ]
+      },
+      "numbering": {
+        "volume": 3,
+        "book": 3,
+        "chapter": 20,
+        "hadith": 3
+      },
+      "chapter": {
+        "path": "/books/al-kafi:3:3:20",
+        "titles": {
+          "ar": "باب تَكْفِينِ الْمَرْأَةِ",
+          "en": "Chapter 20 – Enshrouding the woman"
+        }
+      },
+      "arabic": {
+        "segments": [
+          " يُكَفَّنُ الرَّجُلُ فِي ثَلَاثَةِ أَثْوَابٍ وَ الْمَرْأَةُ إِذَا كَانَتْ عَظِيمَةً فِي خَمْسَةٍ دِرْعٍ وَ مِنْطَقٍ وَ خِمَارٍ وَ لِفَافَتَيْنِ ."
+        ],
+        "text": "يُكَفَّنُ الرَّجُلُ فِي ثَلَاثَةِ أَثْوَابٍ وَ الْمَرْأَةُ إِذَا كَانَتْ عَظِيمَةً فِي خَمْسَةٍ دِرْعٍ وَ مِنْطَقٍ وَ خِمَارٍ وَ لِفَافَتَيْنِ ."
+      },
+      "translations": {
+        "en.hubeali": {
+          "segments": [
+            "Al Husayn Bin Muhammad, from Adullah Bin Aamir, from Ali Bin Mahziyar, from Fazalat, from Qasim Bin Yazeed, from Muhammad Bin Muslim, ",
+            "(It has been narrated) from Abu Ja’far<sup>asws</sup> having said ‘The man would be enshrouded in three clothes, and the woman, when she was large, in five – a shirt and a loincloth and a veil and two wrappings’."
+          ],
+          "text": "Al Husayn Bin Muhammad, from Adullah Bin Aamir, from Ali Bin Mahziyar, from Fazalat, from Qasim Bin Yazeed, from Muhammad Bin Muslim,\n\n(It has been narrated) from Abu Ja’far<sup>asws</sup> having said ‘The man would be enshrouded in three clothes, and the woman, when she was large, in five – a shirt and a loincloth and a veil and two wrappings’."
+        },
+        "en.sarwar": {
+          "segments": [
+            "3. Al-Husayn ibn Muhammad has narrated from ‘Abd Allah ibn ‘Amir from Fadalah from al-Qasim ibn Yazid from Muhammad ibn Muslim who has said the following: “Abu Ja‘far, ‘Alayhi al-Salam, has said, ‘A deceased man is shrouded in three pieces of fabrics. A deceased woman of greatness is shrouded with five pieces of fabrics, the shirt, loincloth, veil and the two pieces of fabric (to tie down around her chest and the lower part of her body from the waist down to her knees).” "
+          ],
+          "text": "3. Al-Husayn ibn Muhammad has narrated from ‘Abd Allah ibn ‘Amir from Fadalah from al-Qasim ibn Yazid from Muhammad ibn Muslim who has said the following: “Abu Ja‘far, ‘Alayhi al-Salam, has said, ‘A deceased man is shrouded in three pieces of fabrics. A deceased woman of greatness is shrouded with five pieces of fabrics, the shirt, loincloth, veil and the two pieces of fabric (to tie down around her chest and the lower part of her body from the waist down to her knees).”"
+        }
+      },
+      "gradings": [
+        {
+          "raw": "Allamah Baqir al-Majlisi: <span> صحيح    </span> - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (13/316)",
+          "label": "صحيح",
+          "text": "Allamah Baqir al-Majlisi: صحيح - Mir‘at al ‘Uqul Fi Sharh Akhbar Al al Rasul (13/316)"
+        }
+      ],
+      "narratorChain": {
+        "raw": "الْحُسَيْنُ بْنُ مُحَمَّدٍ عَنْ عَبْدِ اللَّهِ بْنِ عَامِرٍ عَنْ عَلِيِّ بْنِ مَهْزِيَارَ عَنْ فَضَالَةَ عَنْ قَاسِمِ بْنِ يَزِيدَ عَنْ مُحَمَّدِ بْنِ مُسْلِمٍ عَنْ أَبِي جَعْفَرٍ ( عليه السلام ) قَالَ",
+        "parts": [
+          {
+            "kind": "narrator",
+            "text": "الْحُسَيْنُ بْنُ مُحَمَّدٍ",
+            "path": "/people/narrators/20"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَبْدِ اللَّهِ بْنِ عَامِرٍ",
+            "path": "/people/narrators/176"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "عَلِيِّ بْنِ مَهْزِيَارَ",
+            "path": "/people/narrators/81"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "فَضَالَةَ",
+            "path": "/people/narrators/69"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "قَاسِمِ بْنِ يَزِيدَ",
+            "path": "/people/narrators/4021"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "مُحَمَّدِ بْنِ مُسْلِمٍ",
+            "path": "/people/narrators/16"
+          },
+          {
+            "kind": "plain",
+            "text": " عَنْ "
+          },
+          {
+            "kind": "narrator",
+            "text": "أَبِي جَعْفَرٍ ( عليه السلام )",
+            "path": "/people/narrators/9"
+          },
+          {
+            "kind": "plain",
+            "text": " قَالَ"
+          }
+        ],
+        "narratorPaths": [
+          "/people/narrators/20",
+          "/people/narrators/176",
+          "/people/narrators/81",
+          "/people/narrators/69",
+          "/people/narrators/4021",
+          "/people/narrators/16",
+          "/people/narrators/9"
+        ]
+      },
+      "relations": {},
+      "source": {
+        "provider": "ThaqalaynData",
+        "dataPath": "/books/al-kafi:3:3:20:3",
+        "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/books/al-kafi/3/3/20/3.json",
+        "sourceUrl": "https://thaqalayn.net/",
+        "license": "CC0-1.0"
+      }
+    }
+  ]
+}

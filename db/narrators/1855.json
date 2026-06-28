@@ -1,0 +1,54 @@
+{
+  "id": 1855,
+  "type": "narrator",
+  "path": "/people/narrators/1855",
+  "titles": {
+    "ar": "ابْنِ أَبِي عُثْمَانَ"
+  },
+  "versePaths": [
+    "/books/al-kafi:1:4:59:6"
+  ],
+  "verseCount": 1,
+  "relations": {},
+  "subchains": {
+    "1855-440": {
+      "narrator_ids": [
+        1855,
+        440
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:59:6"
+      ]
+    },
+    "30-1855": {
+      "narrator_ids": [
+        30,
+        1855
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:59:6"
+      ]
+    },
+    "97-24-30-1855-440-669": {
+      "narrator_ids": [
+        97,
+        24,
+        30,
+        1855,
+        440,
+        669
+      ],
+      "verse_paths": [
+        "/books/al-kafi:1:4:59:6"
+      ]
+    }
+  },
+  "source": {
+    "provider": "ThaqalaynData",
+    "baseUrl": "https://thaqalayndata.netlify.app",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "license": "CC0-1.0",
+    "dataPath": "/people/narrators/1855",
+    "apiUrl": "file:///home/ali/shia-library-json/tmp/ThaqalaynData/people/narrators/1855.json"
+  }
+}
