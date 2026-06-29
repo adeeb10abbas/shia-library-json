@@ -34,7 +34,23 @@ THAQALAYN_DATA_DIR=/home/ali/shia-library-json/tmp/ThaqalaynData npm run build:n
 
 Expected source index size is 4,313 narrators.
 
-## Phase 5: Search And Release
+## Phase 5: Auxiliary Source Data
+
+```bash
+THAQALAYN_DATA_DIR=/home/ali/shia-library-json/tmp/ThaqalaynData npm run export:thaqalayn-aux
+```
+
+This mirrors source indexes, reading plans, featured narrator metadata, and source validation files under `index/thaqalayn/`. It also writes normalized convenience exports for title search, featured narrators, and reading plans.
+
+## Phase 6: Completeness Audit
+
+```bash
+THAQALAYN_DATA_DIR=/home/ali/shia-library-json/tmp/ThaqalaynData npm run audit:source
+```
+
+The audit writes `index/source-coverage.json` and `docs/COVERAGE.md`. Treat this as the LLM-readiness gate: issues should be zero, and any excluded source data must be listed under intentional exclusions.
+
+## Phase 7: Search And Release
 
 ```bash
 npm run export:search
@@ -45,7 +61,7 @@ npm run ci
 
 Release artifacts are written to ignored `dist/`; `index/manifest.json` is tracked.
 
-## Phase 6: Publish Safety
+## Phase 8: Publish Safety
 
 Before pushing, confirm Git is not tracking generated working artifacts:
 

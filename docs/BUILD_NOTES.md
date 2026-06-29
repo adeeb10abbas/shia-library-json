@@ -147,3 +147,79 @@ Validated 13050 JSON files and 123353 content records.
 ```
 
 No source-content changes were found compared with the committed dataset; the rebuild only produced generated timestamp and checksum churn, so the canonical JSON exports were left unchanged.
+
+## 2026-06-29 Full ThaqalaynData Completeness Gate
+
+Environment:
+
+```text
+Node: v22.22.0
+Working directory: /home/ali/shia-library-json
+Source checkout: /home/ali/shia-library-json/tmp/ThaqalaynData
+Source revision: 00dbb9207f
+```
+
+The local `ThaqalaynData` checkout was checked with `git pull --ff-only` and was already up to date.
+
+Commands:
+
+```bash
+env THAQALAYN_DATA_DIR=/home/ali/shia-library-json/tmp/ThaqalaynData npm run export:thaqalayn-aux
+env THAQALAYN_DATA_DIR=/home/ali/shia-library-json/tmp/ThaqalaynData npm run audit:source
+npm run export:search
+npm run package:release
+npm run ci
+```
+
+Auxiliary source mirror:
+
+```json
+{
+  "sourceIndexFiles": 10,
+  "sourcePlanFiles": 18,
+  "sourceValidationFiles": 1978,
+  "featuredNarratorFiles": 1,
+  "readingPlans": 17,
+  "sourceTitleSearchEntries": 7781
+}
+```
+
+Coverage audit:
+
+```json
+{
+  "sourceBooks": 24,
+  "exportedBooks": 24,
+  "hadithBooks": 23,
+  "hadithSourceRefs": 51751,
+  "hadithCanonicalExported": 51092,
+  "knownSkippedEmptyCanonical": 659,
+  "quranSourceVerses": 6236,
+  "quranExportedVerses": 6236,
+  "narratorIndexEntries": 4313,
+  "narratorDetailsExported": 4313,
+  "issues": 0
+}
+```
+
+Release packaging:
+
+```text
+index/manifest.json
+dist/shia-library-json-20260629.tar.gz
+dist/shia-library-json-20260629.zip
+files: 15083
+```
+
+Validation:
+
+```text
+Validated 15079 JSON files and 123353 content records.
+```
+
+Notes:
+
+- `docs/COVERAGE.md` and `index/source-coverage.json` are now the release gate for ThaqalaynData completeness.
+- Canonical outputs cover all non-empty canonical hadith, Quran verse records, Quran relation links, duas, and narrator details currently available from the source pipeline.
+- `kamal-al-din` remains intentionally excluded from canonical hadith records because its 659 source references currently have no canonical hadith text and only AI-derived fields.
+- Raw `books/complete/*.json` and navigation trees are not duplicated because normalized `db/*`, `index/books.json`, and chapter indexes already cover that content.

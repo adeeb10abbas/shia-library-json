@@ -11,7 +11,9 @@ npm run source:clone
 THAQALAYN_DATA_DIR=/home/ali/shia-library-json/tmp/ThaqalaynData npm run build:sample
 npm run build:duas:sample
 THAQALAYN_DATA_DIR=/home/ali/shia-library-json/tmp/ThaqalaynData npm run build:narrators:sample
+THAQALAYN_DATA_DIR=/home/ali/shia-library-json/tmp/ThaqalaynData npm run export:thaqalayn-aux
 npm run export:search
+npm run audit:source
 npm run validate
 npm run ci
 ```
@@ -24,7 +26,9 @@ THAQALAYN_DATA_DIR=/home/ali/shia-library-json/tmp/ThaqalaynData npm run build:a
 THAQALAYN_DATA_DIR=/home/ali/shia-library-json/tmp/ThaqalaynData npm run build:quran
 THAQALAYN_DATA_DIR=/home/ali/shia-library-json/tmp/ThaqalaynData npm run build:narrators
 npm run build:duas
+THAQALAYN_DATA_DIR=/home/ali/shia-library-json/tmp/ThaqalaynData npm run export:thaqalayn-aux
 npm run export:search
+npm run audit:source
 npm run package:release
 npm run validate
 npm run ci
@@ -43,9 +47,15 @@ db/quran/by_surah/<surah>.json
 db/quran/tafsir_links.json
 db/duas/<slug>.json
 db/narrators/<id>.json
+db/reading-plans/<plan-id>.json
 index/books.json
 index/duas.json
 index/narrators.json
+index/narrators-featured.json
+index/reading-plans.json
+index/source-coverage.json
+index/source-title-search.json
+index/thaqalayn/
 index/import-summary.json
 index/manifest.json
 search/hadith.jsonl
@@ -78,8 +88,12 @@ The latest local build generated:
 - 1,789 Quran-to-hadith relation links
 - 71 duas
 - 4,313 narrator detail records
+- 17 reading plans
+- 7,781 source title-search entries
+- 1,978 mirrored source validation files
 
 `kamal-al-din` has 659 source records with empty canonical text and only AI-derived content; those are skipped by default.
+See `docs/COVERAGE.md` and `index/source-coverage.json` for the current source-completeness audit.
 
 ## Agent Handoff
 
@@ -89,3 +103,4 @@ Future agents should read:
 - [`docs/SOURCE_POLICY.md`](./docs/SOURCE_POLICY.md)
 - [`docs/SCALING_PLAN.md`](./docs/SCALING_PLAN.md)
 - [`docs/BUILD_NOTES.md`](./docs/BUILD_NOTES.md)
+- [`docs/COVERAGE.md`](./docs/COVERAGE.md)

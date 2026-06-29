@@ -1,0 +1,688 @@
+{
+  "generatedAt": "2026-06-29T16:16:11.454Z",
+  "kind": "thaqalayn_coverage_audit",
+  "source": {
+    "provider": "ThaqalaynData",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "revision": "00dbb9207f",
+    "license": "CC0-1.0"
+  },
+  "summary": {
+    "sourceBooks": 24,
+    "exportedBooks": 24,
+    "hadithBooks": 23,
+    "hadithSourceRefs": 51751,
+    "hadithCanonicalExported": 51092,
+    "knownSkippedEmptyCanonical": 659,
+    "quranSourceVerses": 6236,
+    "quranExportedVerses": 6236,
+    "narratorIndexEntries": 4313,
+    "narratorDetailsExported": 4313,
+    "issues": 0
+  },
+  "books": {
+    "source": [
+      {
+        "slug": "al-amali-mufid",
+        "path": "/books/al-amali-mufid",
+        "titles": {
+          "ar": "الأمالي (المفيد)",
+          "en": "Al-Amali (al-Mufid)"
+        }
+      },
+      {
+        "slug": "al-amali-saduq",
+        "path": "/books/al-amali-saduq",
+        "titles": {
+          "ar": "الأمالي (الصدوق)",
+          "en": "Al-Amali (al-Saduq)"
+        }
+      },
+      {
+        "slug": "al-istibsar",
+        "path": "/books/al-istibsar",
+        "titles": {
+          "ar": "الاستبصار",
+          "en": "al-Istibsar"
+        }
+      },
+      {
+        "slug": "al-kafi",
+        "path": "/books/al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        }
+      },
+      {
+        "slug": "al-khisal",
+        "path": "/books/al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        }
+      },
+      {
+        "slug": "al-tawhid",
+        "path": "/books/al-tawhid",
+        "titles": {
+          "ar": "التوحيد",
+          "en": "Al-Tawhid"
+        }
+      },
+      {
+        "slug": "fadail-al-shia",
+        "path": "/books/fadail-al-shia",
+        "titles": {
+          "ar": "فضائل الشيعة",
+          "en": "Fada'il al-Shi'a"
+        }
+      },
+      {
+        "slug": "kamal-al-din",
+        "path": "/books/kamal-al-din",
+        "titles": {
+          "ar": "كمال الدين وتمام النعمة",
+          "en": "Kamal al-Din wa Tamam al-Ni'ma"
+        }
+      },
+      {
+        "slug": "kamil-al-ziyarat",
+        "path": "/books/kamil-al-ziyarat",
+        "titles": {
+          "ar": "كامل الزيارات",
+          "en": "Kamil al-Ziyarat"
+        }
+      },
+      {
+        "slug": "kitab-al-duafa",
+        "path": "/books/kitab-al-duafa",
+        "titles": {
+          "ar": "كتاب الضعفاء",
+          "en": "Kitab al-Du'afa'"
+        }
+      },
+      {
+        "slug": "kitab-al-ghayba-numani",
+        "path": "/books/kitab-al-ghayba-numani",
+        "titles": {
+          "ar": "كتاب الغيبة (النعماني)",
+          "en": "Kitab al-Ghayba (al-Nu'mani)"
+        }
+      },
+      {
+        "slug": "kitab-al-ghayba-tusi",
+        "path": "/books/kitab-al-ghayba-tusi",
+        "titles": {
+          "ar": "كتاب الغيبة (الطوسي)",
+          "en": "Kitab al-Ghayba (al-Tusi)"
+        }
+      },
+      {
+        "slug": "kitab-al-mumin",
+        "path": "/books/kitab-al-mumin",
+        "titles": {
+          "ar": "كتاب المؤمن",
+          "en": "Kitab al-Mu'min"
+        }
+      },
+      {
+        "slug": "kitab-al-zuhd",
+        "path": "/books/kitab-al-zuhd",
+        "titles": {
+          "ar": "كتاب الزهد",
+          "en": "Kitab al-Zuhd"
+        }
+      },
+      {
+        "slug": "maani-al-akhbar",
+        "path": "/books/maani-al-akhbar",
+        "titles": {
+          "ar": "معاني الأخبار",
+          "en": "Ma'ani al-Akhbar"
+        }
+      },
+      {
+        "slug": "man-la-yahduruhu-al-faqih",
+        "path": "/books/man-la-yahduruhu-al-faqih",
+        "titles": {
+          "ar": "من لا يحضره الفقيه",
+          "en": "Man La Yahduruhu al-Faqih"
+        }
+      },
+      {
+        "slug": "mujam-al-ahadith-al-mutabara",
+        "path": "/books/mujam-al-ahadith-al-mutabara",
+        "titles": {
+          "ar": "معجم الأحاديث المعتبرة",
+          "en": "Mu'jam al-Ahadith al-Mu'tabara"
+        }
+      },
+      {
+        "slug": "nahj-al-balagha",
+        "path": "/books/nahj-al-balagha",
+        "titles": {
+          "ar": "نهج البلاغة",
+          "en": "Nahj al-Balagha"
+        }
+      },
+      {
+        "slug": "quran",
+        "path": "/books/quran",
+        "titles": {
+          "ar": "القرآن الكريم",
+          "en": "The Holy Quran"
+        }
+      },
+      {
+        "slug": "risalat-al-huquq",
+        "path": "/books/risalat-al-huquq",
+        "titles": {
+          "ar": "رسالة الحقوق",
+          "en": "Risalat al-Huquq"
+        }
+      },
+      {
+        "slug": "sifat-al-shia",
+        "path": "/books/sifat-al-shia",
+        "titles": {
+          "ar": "صفات الشيعة",
+          "en": "Sifat al-Shi'a"
+        }
+      },
+      {
+        "slug": "tahdhib-al-ahkam",
+        "path": "/books/tahdhib-al-ahkam",
+        "titles": {
+          "ar": "تهذيب الأحكام",
+          "en": "Tahdhib al-Ahkam"
+        }
+      },
+      {
+        "slug": "thawab-al-amal",
+        "path": "/books/thawab-al-amal",
+        "titles": {
+          "ar": "ثواب الأعمال وعقاب الأعمال",
+          "en": "Thawab al-A'mal wa 'Iqab al-A'mal"
+        }
+      },
+      {
+        "slug": "uyun-akhbar-al-rida",
+        "path": "/books/uyun-akhbar-al-rida",
+        "titles": {
+          "ar": "عيون أخبار الرضا",
+          "en": "Uyun Akhbar al-Rida"
+        }
+      }
+    ],
+    "exported": [
+      {
+        "slug": "al-amali-mufid",
+        "path": "/books/al-amali-mufid",
+        "titles": {
+          "ar": "الأمالي (المفيد)",
+          "en": "Al-Amali (al-Mufid)"
+        }
+      },
+      {
+        "slug": "al-amali-saduq",
+        "path": "/books/al-amali-saduq",
+        "titles": {
+          "ar": "الأمالي (الصدوق)",
+          "en": "Al-Amali (al-Saduq)"
+        }
+      },
+      {
+        "slug": "al-istibsar",
+        "path": "/books/al-istibsar",
+        "titles": {
+          "ar": "الاستبصار",
+          "en": "al-Istibsar"
+        }
+      },
+      {
+        "slug": "al-kafi",
+        "path": "/books/al-kafi",
+        "titles": {
+          "ar": "الكافي",
+          "en": "Al-Kafi"
+        }
+      },
+      {
+        "slug": "al-khisal",
+        "path": "/books/al-khisal",
+        "titles": {
+          "ar": "الخصال",
+          "en": "Al-Khisal"
+        }
+      },
+      {
+        "slug": "al-tawhid",
+        "path": "/books/al-tawhid",
+        "titles": {
+          "ar": "التوحيد",
+          "en": "Al-Tawhid"
+        }
+      },
+      {
+        "slug": "fadail-al-shia",
+        "path": "/books/fadail-al-shia",
+        "titles": {
+          "ar": "فضائل الشيعة",
+          "en": "Fada'il al-Shi'a"
+        }
+      },
+      {
+        "slug": "kamal-al-din",
+        "path": "/books/kamal-al-din",
+        "titles": {
+          "ar": "كمال الدين وتمام النعمة",
+          "en": "Kamal al-Din wa Tamam al-Ni'ma"
+        }
+      },
+      {
+        "slug": "kamil-al-ziyarat",
+        "path": "/books/kamil-al-ziyarat",
+        "titles": {
+          "ar": "كامل الزيارات",
+          "en": "Kamil al-Ziyarat"
+        }
+      },
+      {
+        "slug": "kitab-al-duafa",
+        "path": "/books/kitab-al-duafa",
+        "titles": {
+          "ar": "كتاب الضعفاء",
+          "en": "Kitab al-Du'afa'"
+        }
+      },
+      {
+        "slug": "kitab-al-ghayba-numani",
+        "path": "/books/kitab-al-ghayba-numani",
+        "titles": {
+          "ar": "كتاب الغيبة (النعماني)",
+          "en": "Kitab al-Ghayba (al-Nu'mani)"
+        }
+      },
+      {
+        "slug": "kitab-al-ghayba-tusi",
+        "path": "/books/kitab-al-ghayba-tusi",
+        "titles": {
+          "ar": "كتاب الغيبة (الطوسي)",
+          "en": "Kitab al-Ghayba (al-Tusi)"
+        }
+      },
+      {
+        "slug": "kitab-al-mumin",
+        "path": "/books/kitab-al-mumin",
+        "titles": {
+          "ar": "كتاب المؤمن",
+          "en": "Kitab al-Mu'min"
+        }
+      },
+      {
+        "slug": "kitab-al-zuhd",
+        "path": "/books/kitab-al-zuhd",
+        "titles": {
+          "ar": "كتاب الزهد",
+          "en": "Kitab al-Zuhd"
+        }
+      },
+      {
+        "slug": "maani-al-akhbar",
+        "path": "/books/maani-al-akhbar",
+        "titles": {
+          "ar": "معاني الأخبار",
+          "en": "Ma'ani al-Akhbar"
+        }
+      },
+      {
+        "slug": "man-la-yahduruhu-al-faqih",
+        "path": "/books/man-la-yahduruhu-al-faqih",
+        "titles": {
+          "ar": "من لا يحضره الفقيه",
+          "en": "Man La Yahduruhu al-Faqih"
+        }
+      },
+      {
+        "slug": "mujam-al-ahadith-al-mutabara",
+        "path": "/books/mujam-al-ahadith-al-mutabara",
+        "titles": {
+          "ar": "معجم الأحاديث المعتبرة",
+          "en": "Mu'jam al-Ahadith al-Mu'tabara"
+        }
+      },
+      {
+        "slug": "nahj-al-balagha",
+        "path": "/books/nahj-al-balagha",
+        "titles": {
+          "ar": "نهج البلاغة",
+          "en": "Nahj al-Balagha"
+        }
+      },
+      {
+        "slug": "quran",
+        "path": "/books/quran",
+        "titles": {
+          "ar": "القرآن الكريم",
+          "en": "The Holy Quran"
+        }
+      },
+      {
+        "slug": "risalat-al-huquq",
+        "path": "/books/risalat-al-huquq",
+        "titles": {
+          "ar": "رسالة الحقوق",
+          "en": "Risalat al-Huquq"
+        }
+      },
+      {
+        "slug": "sifat-al-shia",
+        "path": "/books/sifat-al-shia",
+        "titles": {
+          "ar": "صفات الشيعة",
+          "en": "Sifat al-Shi'a"
+        }
+      },
+      {
+        "slug": "tahdhib-al-ahkam",
+        "path": "/books/tahdhib-al-ahkam",
+        "titles": {
+          "ar": "تهذيب الأحكام",
+          "en": "Tahdhib al-Ahkam"
+        }
+      },
+      {
+        "slug": "thawab-al-amal",
+        "path": "/books/thawab-al-amal",
+        "titles": {
+          "ar": "ثواب الأعمال وعقاب الأعمال",
+          "en": "Thawab al-A'mal wa 'Iqab al-A'mal"
+        }
+      },
+      {
+        "slug": "uyun-akhbar-al-rida",
+        "path": "/books/uyun-akhbar-al-rida",
+        "titles": {
+          "ar": "عيون أخبار الرضا",
+          "en": "Uyun Akhbar al-Rida"
+        }
+      }
+    ],
+    "hadith": [
+      {
+        "slug": "al-amali-mufid",
+        "sourceHadithRefs": 387,
+        "exportedCanonicalHadith": 387,
+        "knownSkippedEmptyCanonical": 0,
+        "exportedLayout": "single",
+        "status": "complete"
+      },
+      {
+        "slug": "al-amali-saduq",
+        "sourceHadithRefs": 1082,
+        "exportedCanonicalHadith": 1082,
+        "knownSkippedEmptyCanonical": 0,
+        "exportedLayout": "single",
+        "status": "complete"
+      },
+      {
+        "slug": "al-istibsar",
+        "sourceHadithRefs": 4220,
+        "exportedCanonicalHadith": 4220,
+        "knownSkippedEmptyCanonical": 0,
+        "exportedLayout": "single",
+        "status": "complete"
+      },
+      {
+        "slug": "al-kafi",
+        "sourceHadithRefs": 15385,
+        "exportedCanonicalHadith": 15385,
+        "knownSkippedEmptyCanonical": 0,
+        "exportedLayout": "split-record-collection",
+        "status": "complete"
+      },
+      {
+        "slug": "al-khisal",
+        "sourceHadithRefs": 1282,
+        "exportedCanonicalHadith": 1282,
+        "knownSkippedEmptyCanonical": 0,
+        "exportedLayout": "single",
+        "status": "complete"
+      },
+      {
+        "slug": "al-tawhid",
+        "sourceHadithRefs": 575,
+        "exportedCanonicalHadith": 575,
+        "knownSkippedEmptyCanonical": 0,
+        "exportedLayout": "single",
+        "status": "complete"
+      },
+      {
+        "slug": "fadail-al-shia",
+        "sourceHadithRefs": 45,
+        "exportedCanonicalHadith": 45,
+        "knownSkippedEmptyCanonical": 0,
+        "exportedLayout": "single",
+        "status": "complete"
+      },
+      {
+        "slug": "kamal-al-din",
+        "sourceHadithRefs": 659,
+        "exportedCanonicalHadith": 0,
+        "knownSkippedEmptyCanonical": 659,
+        "exportedLayout": "single",
+        "status": "complete_excluding_empty_canonical_records"
+      },
+      {
+        "slug": "kamil-al-ziyarat",
+        "sourceHadithRefs": 750,
+        "exportedCanonicalHadith": 750,
+        "knownSkippedEmptyCanonical": 0,
+        "exportedLayout": "single",
+        "status": "complete"
+      },
+      {
+        "slug": "kitab-al-duafa",
+        "sourceHadithRefs": 226,
+        "exportedCanonicalHadith": 226,
+        "knownSkippedEmptyCanonical": 0,
+        "exportedLayout": "single",
+        "status": "complete"
+      },
+      {
+        "slug": "kitab-al-ghayba-numani",
+        "sourceHadithRefs": 468,
+        "exportedCanonicalHadith": 468,
+        "knownSkippedEmptyCanonical": 0,
+        "exportedLayout": "single",
+        "status": "complete"
+      },
+      {
+        "slug": "kitab-al-ghayba-tusi",
+        "sourceHadithRefs": 774,
+        "exportedCanonicalHadith": 774,
+        "knownSkippedEmptyCanonical": 0,
+        "exportedLayout": "single",
+        "status": "complete"
+      },
+      {
+        "slug": "kitab-al-mumin",
+        "sourceHadithRefs": 201,
+        "exportedCanonicalHadith": 201,
+        "knownSkippedEmptyCanonical": 0,
+        "exportedLayout": "single",
+        "status": "complete"
+      },
+      {
+        "slug": "kitab-al-zuhd",
+        "sourceHadithRefs": 290,
+        "exportedCanonicalHadith": 290,
+        "knownSkippedEmptyCanonical": 0,
+        "exportedLayout": "single",
+        "status": "complete"
+      },
+      {
+        "slug": "maani-al-akhbar",
+        "sourceHadithRefs": 829,
+        "exportedCanonicalHadith": 829,
+        "knownSkippedEmptyCanonical": 0,
+        "exportedLayout": "single",
+        "status": "complete"
+      },
+      {
+        "slug": "man-la-yahduruhu-al-faqih",
+        "sourceHadithRefs": 6382,
+        "exportedCanonicalHadith": 6382,
+        "knownSkippedEmptyCanonical": 0,
+        "exportedLayout": "single",
+        "status": "complete"
+      },
+      {
+        "slug": "mujam-al-ahadith-al-mutabara",
+        "sourceHadithRefs": 555,
+        "exportedCanonicalHadith": 555,
+        "knownSkippedEmptyCanonical": 0,
+        "exportedLayout": "single",
+        "status": "complete"
+      },
+      {
+        "slug": "nahj-al-balagha",
+        "sourceHadithRefs": 2260,
+        "exportedCanonicalHadith": 2260,
+        "knownSkippedEmptyCanonical": 0,
+        "exportedLayout": "single",
+        "status": "complete"
+      },
+      {
+        "slug": "risalat-al-huquq",
+        "sourceHadithRefs": 49,
+        "exportedCanonicalHadith": 49,
+        "knownSkippedEmptyCanonical": 0,
+        "exportedLayout": "single",
+        "status": "complete"
+      },
+      {
+        "slug": "sifat-al-shia",
+        "sourceHadithRefs": 71,
+        "exportedCanonicalHadith": 71,
+        "knownSkippedEmptyCanonical": 0,
+        "exportedLayout": "single",
+        "status": "complete"
+      },
+      {
+        "slug": "tahdhib-al-ahkam",
+        "sourceHadithRefs": 13201,
+        "exportedCanonicalHadith": 13201,
+        "knownSkippedEmptyCanonical": 0,
+        "exportedLayout": "single",
+        "status": "complete"
+      },
+      {
+        "slug": "thawab-al-amal",
+        "sourceHadithRefs": 1106,
+        "exportedCanonicalHadith": 1106,
+        "knownSkippedEmptyCanonical": 0,
+        "exportedLayout": "single",
+        "status": "complete"
+      },
+      {
+        "slug": "uyun-akhbar-al-rida",
+        "sourceHadithRefs": 954,
+        "exportedCanonicalHadith": 954,
+        "knownSkippedEmptyCanonical": 0,
+        "exportedLayout": "single",
+        "status": "complete"
+      }
+    ],
+    "quran": {
+      "sourceVerseRefs": 6236,
+      "exportedVerses": 6236,
+      "exportedLayout": "single",
+      "status": "complete"
+    }
+  },
+  "narrators": {
+    "sourceIndexEntries": 4313,
+    "sourceDetailFiles": 4313,
+    "sourceFeaturedCount": 12,
+    "sourceImamIdCount": 107,
+    "exportedIndexEntries": 4313,
+    "exportedDetailFiles": 4313,
+    "exportedFeaturedCount": 12,
+    "exportedImamIdCount": 107,
+    "status": "complete"
+  },
+  "auxiliary": {
+    "required": [
+      {
+        "scope": "source index mirror",
+        "sourceCount": 10,
+        "exportedCount": 10,
+        "status": "complete"
+      },
+      {
+        "scope": "source plan mirror",
+        "sourceCount": 18,
+        "exportedCount": 18,
+        "status": "complete"
+      },
+      {
+        "scope": "reading plan exports",
+        "sourceCount": 17,
+        "exportedCount": 17,
+        "status": "complete"
+      },
+      {
+        "scope": "source validation mirror",
+        "sourceCount": 1978,
+        "exportedCount": 1978,
+        "status": "complete"
+      },
+      {
+        "scope": "featured narrator mirror",
+        "sourceCount": 1,
+        "exportedCount": 1,
+        "status": "complete"
+      },
+      {
+        "scope": "source title search convenience export",
+        "sourceCount": 7781,
+        "exportedCount": 7781,
+        "status": "complete"
+      },
+      {
+        "scope": "reading plan index convenience export",
+        "sourceCount": 17,
+        "exportedCount": 17,
+        "status": "complete"
+      }
+    ],
+    "sourceIndexFiles": 10,
+    "sourcePlanFiles": 18,
+    "sourceValidationFiles": 1978
+  },
+  "intentionalExclusions": [
+    {
+      "path": "books/complete/*.json",
+      "reason": "Raw upstream aggregate files are redundant with normalized db/hadith/*, db/quran/*, and chapter indexes."
+    },
+    {
+      "path": "books/<book>/**/*.json navigation files",
+      "reason": "Traversal/navigation metadata is normalized into db/*/chapters-index.json and index/books.json."
+    },
+    {
+      "path": "kamal-al-din empty canonical records",
+      "reason": "The source currently has 659 Kamal al-Din references with no canonical hadith text; only AI-derived fields are present, so canonical exports skip them by default."
+    },
+    {
+      "path": "AI-only verse content",
+      "reason": "Canonical exports exclude AI-generated content unless a separate explicit AI export is requested."
+    },
+    {
+      "path": "repository operational files",
+      "reason": "README, API docs, config, examples, and development files are not library data."
+    }
+  ],
+  "issues": []
+}

@@ -1,0 +1,37 @@
+{
+  "generatedAt": "2026-06-29T16:16:05.307Z",
+  "kind": "thaqalayn_auxiliary_mirror",
+  "source": {
+    "provider": "ThaqalaynData",
+    "localDir": "/home/ali/shia-library-json/tmp/ThaqalaynData",
+    "revision": "00dbb9207f",
+    "license": "CC0-1.0"
+  },
+  "description": "Raw ThaqalaynData auxiliary files mirrored for completeness. Canonical hadith, Quran, and narrator records remain normalized under db/.",
+  "mirrored": {
+    "index": {
+      "sourcePath": "index",
+      "outputPath": "index/thaqalayn/index",
+      "files": 10,
+      "bytes": 17461065
+    },
+    "plans": {
+      "sourcePath": "plans",
+      "outputPath": "index/thaqalayn/plans",
+      "files": 18,
+      "bytes": 1026366
+    },
+    "validationCrossValidation": {
+      "sourcePath": "validation/cross-validation",
+      "outputPath": "index/thaqalayn/validation/cross-validation",
+      "files": 1978,
+      "bytes": 5614256
+    },
+    "featuredNarrators": {
+      "sourcePath": "people/narrators/featured.json",
+      "outputPath": "index/thaqalayn/people/narrators/featured.json",
+      "files": 1,
+      "bytes": 22390
+    }
+  }
+}
