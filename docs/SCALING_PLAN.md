@@ -57,3 +57,15 @@ git ls-files -z | xargs -0 du -b | sort -nr | head -20
 GitHub rejects individual files above 100 MB. If any export crosses that threshold, split that export before pushing rather than moving it to Git LFS.
 
 The importer already splits oversized aggregate collections into `all-parts/index.json` and numbered part files. Re-run `npm run export:search`, `npm run package:release`, and `npm run ci` after any split or rebuild so search files and `index/manifest.json` match the committed dataset.
+
+## Git LFS Policy
+
+Git LFS is available on the build machine, but do not make it the default storage layer for canonical JSON exports. Plain JSON in Git keeps diffs reviewable and lets users consume files through normal clones and raw URLs without installing LFS.
+
+Use Git LFS only for assets that are not practical as split text files:
+
+- large binary artifacts
+- optional compressed snapshots
+- future ML/search index blobs
+
+For oversized JSON, prefer deterministic split files first. If a future JSON export cannot be split cleanly, add a `.gitattributes` rule for that specific path and document the LFS requirement in `README.md`.

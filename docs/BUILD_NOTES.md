@@ -91,3 +91,59 @@ Notes:
 - `dist/` and `tmp/` are intentionally ignored by git.
 - `kamal-al-din` currently has 659 records with empty canonical `verse.text` and no human translations in the source JSON. These are skipped by default because their visible content is only under `verse.ai`.
 - Canonical exports exclude `ai` fields by default.
+
+## 2026-06-29 Full Al-Kafi Verification
+
+Environment:
+
+```text
+Node: v22.22.0
+Working directory: /home/ali/shia-library-json
+Source checkout: /home/ali/shia-library-json/tmp/ThaqalaynData
+Source revision: 00dbb9207f
+```
+
+The local `ThaqalaynData` checkout was checked with `git pull --ff-only` and was already up to date.
+
+Commands:
+
+```bash
+env THAQALAYN_DATA_DIR=/home/ali/shia-library-json/tmp/ThaqalaynData npm run build:al-kafi
+npm run export:search
+npm run package:release
+npm run ci
+```
+
+Full Al-Kafi result:
+
+```json
+{
+  "books": 1,
+  "hadith": 15385,
+  "quranVerses": 0,
+  "headings": 0,
+  "chapters": 2366,
+  "skippedEmptyRecords": 0,
+  "failedFetches": 0
+}
+```
+
+Aggregate layout:
+
+```json
+{
+  "count": 15385,
+  "layout": "split-record-collection",
+  "partCount": 2,
+  "first": "al-kafi:1:1:1:1",
+  "last": "al-kafi:8:1:52:11"
+}
+```
+
+Validation:
+
+```text
+Validated 13050 JSON files and 123353 content records.
+```
+
+No source-content changes were found compared with the committed dataset; the rebuild only produced generated timestamp and checksum churn, so the canonical JSON exports were left unchanged.
